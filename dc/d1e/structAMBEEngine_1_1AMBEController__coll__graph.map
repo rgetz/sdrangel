@@ -1,0 +1,8 @@
+<map id="AMBEEngine::AMBEController" name="AMBEEngine::AMBEController">
+<area shape="rect" id="node2" href="$d0/d9e/classAMBEWorker.html" title="AMBEWorker" alt="" coords="261,199,364,225"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="5,109,119,136"/>
+<area shape="rect" id="node4" href="$d9/db0/classMBEAudioInterpolatorFilter.html" title="MBEAudioInterpolatorFilter" alt="" coords="143,109,322,136"/>
+<area shape="rect" id="node5" href="$d5/d94/classIIRFilter.html" title="IIRFilter\&lt; float, 2 \&gt;" alt="" coords="166,5,299,32"/>
+<area shape="rect" id="node6" href="$dc/dd8/classAudioFifo.html" title="AudioFifo" alt="" coords="346,109,423,136"/>
+<area shape="rect" id="node7" href="$d3/dd8/classAudioCompressor.html" title="AudioCompressor" alt="" coords="448,109,575,136"/>
+</map>

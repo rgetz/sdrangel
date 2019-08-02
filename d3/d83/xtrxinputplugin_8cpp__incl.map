@@ -1,0 +1,18 @@
+<map id="plugins/samplesource/xtrxinput/xtrxinputplugin.cpp" name="plugins/samplesource/xtrxinput/xtrxinputplugin.cpp">
+<area shape="rect" id="node2" href="$d4/d60/xtrxinputplugin_8h.html" title="xtrxinputplugin.h" alt="" coords="239,169,356,196"/>
+<area shape="rect" id="node11" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="92,169,215,196"/>
+<area shape="rect" id="node13" href="$dc/d1a/simpleserializer_8h.html" title="util/simpleserializer.h" alt="" coords="384,244,528,271"/>
+<area shape="rect" id="node19" href="$de/d14/xtrxinputgui_8h.html" title="xtrxinputgui.h" alt="" coords="1197,95,1297,121"/>
+<area shape="rect" id="node4" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="206,244,360,271"/>
+<area shape="rect" id="node7" href="$db/db5/export_8h.html" title="export.h" alt="" coords="771,393,840,420"/>
+<area shape="rect" id="node15" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="489,393,600,420"/>
+<area shape="rect" id="node20" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="603,244,774,271"/>
+<area shape="rect" id="node24" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1124,319,1266,345"/>
+<area shape="rect" id="node27" href="$d5/d3c/xtrxinput_8h.html" title="xtrxinput.h" alt="" coords="1079,169,1162,196"/>
+<area shape="rect" id="node30" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="1209,244,1386,271"/>
+<area shape="rect" id="node35" href="$d4/ddc/devicextrxshared_8h.html" title="xtrx/devicextrxshared.h" alt="" coords="1470,244,1629,271"/>
+<area shape="rect" id="node38" href="$d7/da1/xtrxinputsettings_8h.html" title="xtrxinputsettings.h" alt="" coords="1004,244,1133,271"/>
+<area shape="rect" id="node31" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="931,319,1048,345"/>
+<area shape="rect" id="node33" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1392,319,1499,345"/>
+<area shape="rect" id="node37" href="$db/d47/devicextrxparam_8h.html" title="devicextrxparam.h" alt="" coords="1613,319,1742,345"/>
+</map>

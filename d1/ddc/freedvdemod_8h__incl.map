@@ -1,0 +1,21 @@
+<map id="plugins/channelrx/demodfreedv/freedvdemod.h" name="plugins/channelrx/demodfreedv/freedvdemod.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="373,95,553,121"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="494,169,601,196"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1566,169,1710,196"/>
+<area shape="rect" id="node19" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="726,169,809,196"/>
+<area shape="rect" id="node20" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="833,169,955,196"/>
+<area shape="rect" id="node22" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="1145,169,1229,196"/>
+<area shape="rect" id="node24" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="1068,95,1147,121"/>
+<area shape="rect" id="node28" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="83,169,201,196"/>
+<area shape="rect" id="node30" href="$d0/ddf/audioresampler_8h.html" title="audio/audioresampler.h" alt="" coords="629,95,785,121"/>
+<area shape="rect" id="node35" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="1223,95,1365,121"/>
+<area shape="rect" id="node36" href="$d8/d58/freedvdemodsettings_8h.html" title="freedvdemodsettings.h" alt="" coords="1734,169,1889,196"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="673,244,784,271"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="809,244,878,271"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="276,169,419,196"/>
+<area shape="rect" id="node23" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="1137,244,1189,271"/>
+<area shape="rect" id="node25" href="$d1/d85/dsp_2movingaverage_8h.html" title="movingaverage.h" alt="" coords="1253,169,1375,196"/>
+<area shape="rect" id="node27" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="1399,169,1541,196"/>
+<area shape="rect" id="node31" href="$d5/d16/audiofilter_8h.html" title="audiofilter.h" alt="" coords="980,169,1069,196"/>
+<area shape="rect" id="node32" href="$d3/d56/iirfilter_8h.html" title="dsp/iirfilter.h" alt="" coords="1265,244,1358,271"/>
+</map>

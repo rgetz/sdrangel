@@ -1,0 +1,10 @@
+<map id="BasebandSampleSource::BasebandSampleSource" name="BasebandSampleSource::BasebandSampleSource">
+<area shape="rect" id="node2" href="$d9/dfb/classBasebandSampleSource.html#a898a531d066628d2e1a253fa13c84f20" title="BasebandSampleSource\l::handleInputMessages" alt="" coords="227,57,392,98"/>
+<area shape="rect" id="node5" href="$d9/dfb/classBasebandSampleSource.html#a28316afc78992d4f1f4995c6b94d19b0" title="BasebandSampleSource\l::handleWriteToFifo" alt="" coords="227,187,392,229"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="469,5,612,32"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a7f21a56c91437fe1ccaf401db23d80c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="458,57,623,98"/>
+<area shape="rect" id="node6" href="$d6/d8d/classSampleSourceFifo.html#abe5871195f1440373a2ddd0093d93ec4" title="get iterator to current item for update &#45; write phase 1 " alt="" coords="447,122,634,163"/>
+<area shape="rect" id="node7" href="$d9/dfb/classBasebandSampleSource.html#a6db84d896bb23855ce70991f4aed4bdd" title="BasebandSampleSource\l::pullAudio" alt="" coords="458,187,623,229"/>
+<area shape="rect" id="node8" href="$d9/dfb/classBasebandSampleSource.html#a400cdd9c88323988816e0f1360d686da" title="BasebandSampleSource\l::pull" alt="" coords="458,253,623,294"/>
+<area shape="rect" id="node9" href="$d6/d8d/classSampleSourceFifo.html#a5f1030edeaeaaedd9d45b951b0fe00ec" title="copy current item to second buffer and bump write index &#45; write phase 2 " alt="" coords="440,319,641,345"/>
+</map>

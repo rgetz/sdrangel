@@ -1,0 +1,22 @@
+<map id="PerseusGui::deserialize" name="PerseusGui::deserialize">
+<area shape="rect" id="node2" href="$db/d54/structPerseusSettings.html#a9c8d4d614e0fe8f754e10409c18300e3" title="PerseusSettings::deserialize" alt="" coords="215,369,403,396"/>
+<area shape="rect" id="node12" href="$d5/d50/classPerseusGui.html#aca46a81d116bc9ef8490df822dcb93e7" title="PerseusGui::displaySettings" alt="" coords="452,64,639,91"/>
+<area shape="rect" id="node20" href="$d5/d50/classPerseusGui.html#a6c8b11a83638659cb4a31992f4d062a2" title="PerseusGui::resetToDefaults" alt="" coords="213,115,404,141"/>
+<area shape="rect" id="node21" href="$d5/d50/classPerseusGui.html#a77f290440e6097cce0d291acceab9d0b" title="PerseusGui::sendSettings" alt="" coords="458,115,633,141"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="480,362,611,403"/>
+<area shape="rect" id="node4" href="$db/d54/structPerseusSettings.html#a6265debd33ab7ec72faa2ca832450abb" title="PerseusSettings::resetTo\lDefaults" alt="" coords="460,166,631,207"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="480,427,611,469"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="480,623,611,665"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="480,231,611,273"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="480,493,611,534"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a63b7ff37bc8ed9f4f9f9562d1d7e4e73" title="SimpleDeserializer\l::readS64" alt="" coords="480,558,611,599"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="480,297,611,338"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="727,525,857,566"/>
+<area shape="rect" id="node13" href="$d5/d50/classPerseusGui.html#a7505b6614f629ac53fea79c03d20d6ce" title="PerseusGui::blockApplySettings" alt="" coords="687,5,897,32"/>
+<area shape="rect" id="node14" href="$d5/d50/classPerseusGui.html#adb9e2ccb6ea5dcdbb0ecf46f87b0c820" title="PerseusGui::updateFrequency\lLimits" alt="" coords="693,57,891,98"/>
+<area shape="rect" id="node15" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="772,123,812,149"/>
+<area shape="rect" id="node16" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="945,123,1053,149"/>
+<area shape="rect" id="node17" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1101,145,1249,186"/>
+<area shape="rect" id="node18" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1305,93,1424,120"/>
+<area shape="rect" id="node19" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1297,145,1432,186"/>
+</map>

@@ -1,0 +1,47 @@
+<map id="MainWindow::on_settingsSave_clicked" name="MainWindow::on_settingsSave_clicked">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#a777ab52b30949aea4c5a80dbf152ed75" title="MainSettings::getWorking\lPreset" alt="" coords="279,317,451,358"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#a6310a41f9e236eaf8c0455a6487b72ac" title="MainSettings::save" alt="" coords="298,383,433,409"/>
+<area shape="rect" id="node21" href="$d6/d1a/classMainWindow.html#a87c9229d360865dd18182e77342a2f5e" title="MainWindow::savePresetSettings" alt="" coords="256,747,475,773"/>
+<area shape="rect" id="node4" href="$d2/d60/classPreferences.html#ac31398180eb03f041c2d548a32c6043c" title="Preferences::serialize" alt="" coords="557,132,705,159"/>
+<area shape="rect" id="node11" href="$d9/d18/structDeviceUserArgs.html#a84d286990cf91719c798923653954c91" title="DeviceUserArgs::serialize" alt="" coords="543,309,718,336"/>
+<area shape="rect" id="node13" href="$d3/d84/classAMBEEngine.html#aa7ea93b864cb3e14486eb502ed76bdbe" title="AMBEEngine::serialize" alt="" coords="553,515,709,541"/>
+<area shape="rect" id="node14" href="$d1/dc7/classPreset.html#a175dd0db5bed77f82924974c8fe6e6ef" title="Preset::serialize" alt="" coords="573,208,689,235"/>
+<area shape="rect" id="node16" href="$d0/d40/classAudioDeviceManager.html#a7029dbd20095ff8edf5165b6b5706d7c" title="AudioDeviceManager\l::serialize" alt="" coords="557,449,704,490"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="795,56,981,83"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="801,107,975,133"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="797,5,979,32"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="799,157,977,184"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="814,259,962,285"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1037,132,1212,159"/>
+<area shape="rect" id="node12" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="799,309,977,336"/>
+<area shape="rect" id="node15" href="$d9/d39/classSimpleSerializer.html#a6d75bb06e77f6fd4e2bfc4df2edf4b4f" title="SimpleSerializer::writeU64" alt="" coords="800,208,976,235"/>
+<area shape="rect" id="node17" href="$d0/d40/classAudioDeviceManager.html#ad2dcf9b41914117fee80967b34658a7f" title="AudioDeviceManager\l::debugAudioInputInfos" alt="" coords="810,543,966,585"/>
+<area shape="rect" id="node18" href="$d0/d40/classAudioDeviceManager.html#ac9e8355f3924c5ae049b8f94285f0d82" title="AudioDeviceManager\l::debugAudioOutputInfos" alt="" coords="805,609,971,650"/>
+<area shape="rect" id="node19" href="$d0/d40/classAudioDeviceManager.html#a4dd6ac5502005e6b74f4f92bfac092fe" title="AudioDeviceManager\l::serializeInputMap" alt="" coords="815,674,961,715"/>
+<area shape="rect" id="node20" href="$d0/d40/classAudioDeviceManager.html#a0e59b2bde4802a9f760fa122a170c0ba" title="AudioDeviceManager\l::serializeOutputMap" alt="" coords="815,739,961,781"/>
+<area shape="rect" id="node22" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="570,595,691,621"/>
+<area shape="rect" id="node23" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="555,645,707,672"/>
+<area shape="rect" id="node24" href="$d1/dc7/classPreset.html#a51db69ed5aa297a20cb6ef1abd1cdbf6" title="Preset::setSpectrumConfig" alt="" coords="541,696,721,723"/>
+<area shape="rect" id="node25" href="$d4/dcb/classGLSpectrumGUI.html#afe7a0483fa127807472a56ed4462a2a8" title="GLSpectrumGUI::serialize" alt="" coords="543,368,718,395"/>
+<area shape="rect" id="node29" href="$d1/dc7/classPreset.html#a358ff21aaf2d77a8f36f6d77dc618008" title="Preset::clearChannels" alt="" coords="555,747,706,773"/>
+<area shape="rect" id="node30" href="$d3/d37/classDeviceUISet.html#ab73acf36a0c90b00c715b4be035eff35" title="DeviceUISet::saveRxChannel\lSettings" alt="" coords="531,798,730,839"/>
+<area shape="rect" id="node33" href="$dd/db6/classDeviceAPI.html#ab8fcfb36f754d27700ae078908618998" title="DeviceAPI::saveSamplingDevice\lSettings" alt="" coords="523,1070,739,1111"/>
+<area shape="rect" id="node44" href="$d1/dc7/classPreset.html#a0e4fa7f8e3a03663917e07ff2b9e0526" title="Preset::setSourcePreset" alt="" coords="548,1136,713,1163"/>
+<area shape="rect" id="node45" href="$d3/d37/classDeviceUISet.html#af409a63fef07714da0406f278172e409" title="DeviceUISet::saveTxChannel\lSettings" alt="" coords="533,863,729,905"/>
+<area shape="rect" id="node46" href="$d1/dc7/classPreset.html#a23efee848f25992e63e82fc5298fdf97" title="Preset::setLayout" alt="" coords="568,1187,693,1213"/>
+<area shape="rect" id="node26" href="$d4/dcb/classGLSpectrumGUI.html#a851fa8f140c736275e9d9af195a27ec8" title="GLSpectrumGUI::getAveraging\lValue" alt="" coords="787,361,989,402"/>
+<area shape="rect" id="node27" href="$d6/dab/classGLSpectrum.html#a07b4445b86bfdba27e9dab0a9b3a1459" title="GLSpectrum::getWaterfall\lShare" alt="" coords="801,426,975,467"/>
+<area shape="rect" id="node28" href="$d9/d39/classSimpleSerializer.html#a5b7538a4f71aea1a1bf489bb57098fbe" title="SimpleSerializer::writeReal" alt="" coords="799,492,977,519"/>
+<area shape="rect" id="node31" href="$d1/dc7/classPreset.html#a6594c9556a0451bf463a77ce89efe0cf" title="Preset::addChannel" alt="" coords="819,805,957,832"/>
+<area shape="rect" id="node32" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="809,856,967,883"/>
+<area shape="rect" id="node34" href="$d1/dc7/classPreset.html#a979814066f53acca36764004836fae78" title="Preset::addOrUpdateDevice\lConfig" alt="" coords="795,907,981,949"/>
+<area shape="rect" id="node35" href="$d6/d80/classPluginInstanceGUI.html#aa661aee0e3d63c184ac18427d392ae83" title="PluginInstanceGUI::\lgetCenterFrequency" alt="" coords="818,973,958,1014"/>
+<area shape="rect" id="node36" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="789,1038,987,1079"/>
+<area shape="rect" id="node37" href="$db/d0c/classDeviceSampleSource.html#a2e8d4bdd0a614b9dda08f432c36539d3" title="Center frequency exposed by the source. " alt="" coords="814,1103,962,1145"/>
+<area shape="rect" id="node38" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="809,1169,967,1210"/>
+<area shape="rect" id="node39" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="802,1234,974,1275"/>
+<area shape="rect" id="node40" href="$d6/d80/classPluginInstanceGUI.html#a9550fc0924780973ad5521e75137432b" title="PluginInstanceGUI::\lserialize" alt="" coords="818,1299,958,1341"/>
+<area shape="rect" id="node41" href="$d9/d18/classDeviceSampleSink.html#a3708c7ca205ef1d220cbc5f591bed1b9" title="DeviceSampleSink::serialize" alt="" coords="793,1365,983,1392"/>
+<area shape="rect" id="node42" href="$db/d0c/classDeviceSampleSource.html#a8c75c771a62d98d3c08acdb9b8347386" title="DeviceSampleSource\l::serialize" alt="" coords="814,1417,962,1458"/>
+<area shape="rect" id="node43" href="$d1/dc7/classPreset.html#aee9ce3e851f9c8ebb5a750efda892d36" title="Preset::setCenterFrequency" alt="" coords="795,1483,981,1509"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FCDProGui::on_record_toggled" name="FCDProGui::on_record_toggled">
+<area shape="rect" id="node2" href="$d5/d25/classFCDProInput_1_1MsgFileRecord.html#a9abcf2bc2e52b070eda1934ecdcda6c3" title="FCDProInput::MsgFileRecord\l::create" alt="" coords="208,5,403,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="221,71,389,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="231,137,380,163"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="NCO::nextPhase" name="NCO::nextPhase">
+<area shape="rect" id="node2" href="$d9/d04/classNCO.html#a941d53d2a2f6fbf68992b483e1d72995" title="Return next real sample. " alt="" coords="193,284,279,311"/>
+<area shape="rect" id="node3" href="$d9/d04/classNCO.html#a52e7dbb77514b7c86eca277af2781c0c" title="Return next complex sample. " alt="" coords="187,335,285,361"/>
+<area shape="rect" id="node50" href="$d9/d04/classNCO.html#a76a05f243a8296c7dde3986c9aa4cb90" title="multiply I,Q separately with next sample " alt="" coords="176,385,296,412"/>
+<area shape="rect" id="node51" href="$d9/d04/classNCO.html#afb14e768a8ab308882c2ca84381dcad0" title="Return next complex sample (reversed) " alt="" coords="187,436,285,463"/>
+<area shape="rect" id="node4" href="$d7/d10/classLoRaDemod.html#a4fbc1b2729aa081bbf1b9aa7e41454ff" title="LoRaDemod::feed" alt="" coords="353,5,481,32"/>
+<area shape="rect" id="node9" href="$d3/dbd/classWFMDemod.html#a3a387fdff5929afc19e4daa2e6eec393" title="WFMDemod::feed" alt="" coords="353,56,482,83"/>
+<area shape="rect" id="node11" href="$d9/df0/classAMDemod.html#ae433656cf858f08dfb5e2e6b2f95b9b9" title="AMDemod::feed" alt="" coords="359,107,476,133"/>
+<area shape="rect" id="node13" href="$d6/d40/classDSDDemod.html#a6bf10d6bd92011750865dd968a65144f" title="DSDDemod::feed" alt="" coords="354,157,481,184"/>
+<area shape="rect" id="node19" href="$d2/d3d/classUDPSink.html#aa2ba670b7705bceca05e3f4a082f0081" title="UDPSink::feed" alt="" coords="362,208,473,235"/>
+<area shape="rect" id="node26" href="$df/ddf/classNFMDemod.html#a940b476aba1d56fd875ae628ed4e94d6" title="NFMDemod::feed" alt="" coords="354,259,481,285"/>
+<area shape="rect" id="node28" href="$d4/dd5/classBFMDemod.html#ab3b55676fc3e1b8fd62c1a5c73195816" title="BFMDemod::feed" alt="" coords="355,309,480,336"/>
+<area shape="rect" id="node29" href="$da/d9b/classDATVDemod.html#a1b991d0ce5f02d1968ad6419a7f147c0" title="DATVDemod::feed" alt="" coords="351,360,484,387"/>
+<area shape="rect" id="node30" href="$de/dce/classATVDemod.html#a92701af346cced40f0891f3250e9b0f4" title="ATVDemod::feed" alt="" coords="356,411,479,437"/>
+<area shape="rect" id="node35" href="$de/da4/classUDPSource.html#a3268bd2b4c9ee5c651d45e3d4a0f887b" title="UDPSource::pull" alt="" coords="357,461,477,488"/>
+<area shape="rect" id="node41" href="$db/d93/classAMMod.html#abbee0d1ded3e8fbb489652450ef2a012" title="AMMod::pull" alt="" coords="370,512,465,539"/>
+<area shape="rect" id="node43" href="$d6/de3/classWFMMod.html#a57d3834c35c1b3609050896e1210ef2a" title="WFMMod::pull" alt="" coords="364,563,471,589"/>
+<area shape="rect" id="node45" href="$de/df8/classNFMMod.html#aa8d4f448eb524862a2b376ca46a54b58" title="NFMMod::pull" alt="" coords="365,613,469,640"/>
+<area shape="rect" id="node47" href="$d2/d69/classATVMod.html#a2efc1dd0efb4dcf49059402e502b3291" title="ATVMod::pullFinalize" alt="" coords="344,664,491,691"/>
+<area shape="rect" id="node5" href="$d7/d10/classLoRaDemod.html#ac9b00e5bcdd3f5764f28fb37b210d5bb" title="LoRaDemod::setSpectrumSink" alt="" coords="539,5,741,32"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="789,5,1013,32"/>
+<area shape="rect" id="node7" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="1074,5,1237,32"/>
+<area shape="rect" id="node8" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1297,5,1520,32"/>
+<area shape="rect" id="node10" href="$d3/dbd/classWFMDemod.html#a9b33a25f6872c716e49e50b36db3d071" title="WFMDemod::destroy" alt="" coords="567,56,713,83"/>
+<area shape="rect" id="node12" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="573,107,707,133"/>
+<area shape="rect" id="node14" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="540,157,740,184"/>
+<area shape="rect" id="node15" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="791,156,1011,183"/>
+<area shape="rect" id="node16" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1075,155,1236,181"/>
+<area shape="rect" id="node17" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1313,147,1504,189"/>
+<area shape="rect" id="node18" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1596,155,1787,181"/>
+<area shape="rect" id="node20" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="549,208,731,235"/>
+<area shape="rect" id="node21" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="836,209,967,236"/>
+<area shape="rect" id="node22" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1061,213,1249,240"/>
+<area shape="rect" id="node23" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1336,213,1481,240"/>
+<area shape="rect" id="node24" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1568,213,1815,240"/>
+<area shape="rect" id="node25" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1863,213,2037,240"/>
+<area shape="rect" id="node27" href="$df/ddf/classNFMDemod.html#adaa9ae3c488894b364f630d8ac7934ac" title="NFMDemod::destroy" alt="" coords="568,259,712,285"/>
+<area shape="rect" id="node31" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="551,409,729,436"/>
+<area shape="rect" id="node32" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="794,409,1009,436"/>
+<area shape="rect" id="node33" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1076,409,1235,436"/>
+<area shape="rect" id="node34" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1315,401,1502,442"/>
+<area shape="rect" id="node36" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="540,461,740,488"/>
+<area shape="rect" id="node37" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="792,468,1011,495"/>
+<area shape="rect" id="node38" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1075,472,1235,499"/>
+<area shape="rect" id="node39" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1315,466,1502,507"/>
+<area shape="rect" id="node40" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1597,473,1786,500"/>
+<area shape="rect" id="node42" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="581,512,699,539"/>
+<area shape="rect" id="node44" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="575,563,705,589"/>
+<area shape="rect" id="node46" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="577,613,703,640"/>
+<area shape="rect" id="node48" href="$d2/d69/classATVMod.html#af9c47208c17ca80b63b0674e59edfb5a" title="ATVMod::pull" alt="" coords="589,664,691,691"/>
+<area shape="rect" id="node49" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="839,664,963,691"/>
+</map>

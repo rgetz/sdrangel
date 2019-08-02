@@ -1,0 +1,12 @@
+<map id="NFMModSettings::getRFBWIndex" name="NFMModSettings::getRFBWIndex">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a123db5bbab826aec238081cdd0d9fbf2" title="NFMModGUI::displaySettings" alt="" coords="293,84,490,111"/>
+<area shape="rect" id="node11" href="$db/dc4/structNFMModSettings.html#aef07f4edc48ad79d861a2285d5731536" title="NFMModSettings::setCWKeyerGUI" alt="" coords="276,160,507,187"/>
+<area shape="rect" id="node3" href="$df/d1f/classNFMModGUI.html#a1847e10d18704800d6d798ddb0f6e370" title="NFMModGUI::deserialize" alt="" coords="842,8,1013,35"/>
+<area shape="rect" id="node4" href="$df/d1f/classNFMModGUI.html#a6a260e58e7672d1a7c2f80524e73b7fd" title="NFMModGUI::handleMessage" alt="" coords="556,84,755,111"/>
+<area shape="rect" id="node6" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="1099,135,1285,161"/>
+<area shape="rect" id="node10" href="$df/d1f/classNFMModGUI.html#a7e81979f3ab4d7c8cd07c3cde1978619" title="NFMModGUI::resetToDefaults" alt="" coords="555,33,756,60"/>
+<area shape="rect" id="node5" href="$df/d1f/classNFMModGUI.html#a93bf5d9829676923af7ea22ea3484ef0" title="NFMModGUI::handleSourceMessages" alt="" coords="804,84,1051,111"/>
+<area shape="rect" id="node7" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="1333,135,1477,161"/>
+<area shape="rect" id="node8" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1525,135,1768,161"/>
+<area shape="rect" id="node9" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1816,135,1989,161"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="WebAPIAdapterGUI::devicesetDevicePut" name="WebAPIAdapterGUI::devicesetDevicePut">
+<area shape="rect" id="node2" href="$d1/dc6/classMainWindow_1_1MsgSetDevice.html#ab6da736b80f72d49810e6aaf9346e938" title="MainWindow::MsgSetDevice\l::create" alt="" coords="283,5,473,47"/>
+<area shape="rect" id="node3" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#ac0a3711c691b8b3e814b9b8b157e39b1" title="SWGSDRangel::SWGDeviceList\lItem::getDeviceStreamIndex" alt="" coords="270,71,486,112"/>
+<area shape="rect" id="node4" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a5160c6a821713492b40544bd2145f93e" title="SWGSDRangel::SWGDeviceList\lItem::getDirection" alt="" coords="270,136,486,177"/>
+<area shape="rect" id="node5" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#ac3dd140293202f14a076c1776f507d0c" title="SWGSDRangel::SWGDeviceList\lItem::getDisplayedName" alt="" coords="270,201,486,243"/>
+<area shape="rect" id="node6" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#aac5a4220bb43c033a20f1f61af5e1aaf" title="SWGSDRangel::SWGDeviceList\lItem::getHwType" alt="" coords="270,267,486,308"/>
+<area shape="rect" id="node7" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="257,332,499,373"/>
+<area shape="rect" id="node8" href="$d1/d17/classDeviceEnumerator.html#a19e0cef971a8be50a2c6d72a6996b662" title="DeviceEnumerator::getNbRx\lSamplingDevices" alt="" coords="283,397,473,439"/>
+<area shape="rect" id="node9" href="$d1/d17/classDeviceEnumerator.html#a7948ad08ec849bafdc40035f3eab02f8" title="DeviceEnumerator::getNbTx\lSamplingDevices" alt="" coords="284,463,472,504"/>
+<area shape="rect" id="node10" href="$d1/d17/classDeviceEnumerator.html#a69738920785313cd056966494370a92d" title="DeviceEnumerator::getRxSampling\lDevice" alt="" coords="265,528,491,569"/>
+<area shape="rect" id="node11" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a954220a819b009477c9edbaa9b20068c" title="SWGSDRangel::SWGDeviceList\lItem::getSequence" alt="" coords="270,593,486,635"/>
+<area shape="rect" id="node12" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a7a16c7fb1454f4c5874b600a8b2df4e6" title="SWGSDRangel::SWGDeviceList\lItem::getSerial" alt="" coords="270,659,486,700"/>
+<area shape="rect" id="node13" href="$d1/d17/classDeviceEnumerator.html#a71fc78eea78c91cfe076a432e50592b9" title="DeviceEnumerator::getTxSampling\lDevice" alt="" coords="265,724,491,765"/>
+<area shape="rect" id="node14" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="257,789,499,831"/>
+<area shape="rect" id="node15" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#ac7cda53abaa1ac32e12048754e571b3e" title="SWGSDRangel::SWGDeviceList\lItem::init" alt="" coords="270,855,486,896"/>
+<area shape="rect" id="node16" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="285,921,471,947"/>
+<area shape="rect" id="node17" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="303,971,453,998"/>
+<area shape="rect" id="node18" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#ac2d34c096916b1cd6b79e386ef3aaf84" title="SWGSDRangel::SWGDeviceList\lItem::setDeviceNbStreams" alt="" coords="270,1023,486,1064"/>
+<area shape="rect" id="node19" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a8f5a371adfdc51801c3a4d85d67a4a6a" title="SWGSDRangel::SWGDeviceList\lItem::setDeviceSetIndex" alt="" coords="270,1088,486,1129"/>
+<area shape="rect" id="node20" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a79eed46ec03e1c52afeb3ef37d27612d" title="SWGSDRangel::SWGDeviceList\lItem::setDeviceStreamIndex" alt="" coords="270,1153,486,1195"/>
+<area shape="rect" id="node21" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a3d70aeee73bb4e696604c99c5fd4043d" title="SWGSDRangel::SWGDeviceList\lItem::setDirection" alt="" coords="270,1219,486,1260"/>
+<area shape="rect" id="node22" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#a972d82311e5dde56125910adaf6413ae" title="SWGSDRangel::SWGDeviceList\lItem::setIndex" alt="" coords="270,1284,486,1325"/>
+<area shape="rect" id="node23" href="$de/df9/classSWGSDRangel_1_1SWGDeviceListItem.html#abddccb95d7f1be8df35d033215e0276b" title="SWGSDRangel::SWGDeviceList\lItem::setSequence" alt="" coords="270,1349,486,1391"/>
+</map>

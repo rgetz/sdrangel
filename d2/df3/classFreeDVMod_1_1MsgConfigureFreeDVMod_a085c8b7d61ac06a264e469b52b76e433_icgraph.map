@@ -1,0 +1,33 @@
+<map id="FreeDVMod::MsgConfigureFreeDVMod::MsgConfigureFreeDVMod" name="FreeDVMod::MsgConfigureFreeDVMod::MsgConfigureFreeDVMod">
+<area shape="rect" id="node2" href="$d2/df3/classFreeDVMod_1_1MsgConfigureFreeDVMod.html#a29f69fd084d682e461c328fbe62780fa" title="FreeDVMod::MsgConfigureFree\lDVMod::create" alt="" coords="279,57,485,98"/>
+<area shape="rect" id="node3" href="$d6/da5/classFreeDVMod.html#ab1600857c9c7b2ced0c9e6118af5a5fe" title="FreeDVMod::deserialize" alt="" coords="553,5,716,32"/>
+<area shape="rect" id="node5" href="$d6/da5/classFreeDVMod.html#a254760425a841be5ddff94a18b64cc05" title="FreeDVMod::webapiSettings\lPutPatch" alt="" coords="540,57,729,98"/>
+<area shape="rect" id="node7" href="$de/d8e/classFreeDVModGUI.html#a66bfa2b8af0de9876322376ec5a6c52b" title="FreeDVModGUI::applySettings" alt="" coords="533,591,736,617"/>
+<area shape="rect" id="node4" href="$d6/da5/classFreeDVMod.html#a69bdbab2a59c98c382b38140ab3f87ef" title="Applies to a default stream. " alt="" coords="796,5,1015,32"/>
+<area shape="rect" id="node6" href="$d6/da5/classFreeDVMod.html#a9d3b818b070a077a5b369f1b1cf2ae2d" title="FreeDVMod::getStreamCenter\lFrequency" alt="" coords="806,57,1005,98"/>
+<area shape="rect" id="node8" href="$de/d8e/classFreeDVModGUI.html#aa37a3bab3936114742371655b8e5bbe7" title="FreeDVModGUI::setCenterFrequency" alt="" coords="784,123,1027,149"/>
+<area shape="rect" id="node9" href="$de/d8e/classFreeDVModGUI.html#a66fdf17e6712463fbbb600791a51165e" title="FreeDVModGUI::channelMarker\lChangedByCursor" alt="" coords="1337,547,1547,589"/>
+<area shape="rect" id="node14" href="$de/d8e/classFreeDVModGUI.html#af93dc48cad740e684670bdee6e9df85b" title="FreeDVModGUI::channelMarker\lUpdate" alt="" coords="801,225,1010,266"/>
+<area shape="rect" id="node15" href="$de/d8e/classFreeDVModGUI.html#a67872b6c24697f2ca4cabac708bcfc83" title="FreeDVModGUI::on_deltaFrequency\l_changed" alt="" coords="788,290,1023,331"/>
+<area shape="rect" id="node16" href="$de/d8e/classFreeDVModGUI.html#a380e444759bddf12d13a1ef287411c7c" title="FreeDVModGUI::on_gaugeInput\l_toggled" alt="" coords="801,355,1010,397"/>
+<area shape="rect" id="node17" href="$de/d8e/classFreeDVModGUI.html#aeda549201b6a63b6b9101b4f9ca1d545" title="FreeDVModGUI::on_toneFrequency\l_valueChanged" alt="" coords="790,421,1021,462"/>
+<area shape="rect" id="node18" href="$de/d8e/classFreeDVModGUI.html#a83dfa3b1f9453c0adaef678999b2571a" title="FreeDVModGUI::on_volume\l_valueChanged" alt="" coords="812,486,999,527"/>
+<area shape="rect" id="node19" href="$de/d8e/classFreeDVModGUI.html#aa6616f03f125bf2caea2b03b0f7fd4c0" title="FreeDVModGUI::on_audioMute\l_toggled" alt="" coords="803,551,1008,593"/>
+<area shape="rect" id="node20" href="$de/d8e/classFreeDVModGUI.html#a47c6efc697c3f5303c0e02274e88df68" title="FreeDVModGUI::on_freeDVMode\l_currentIndexChanged" alt="" coords="796,617,1015,658"/>
+<area shape="rect" id="node21" href="$de/d8e/classFreeDVModGUI.html#a16d09639ca8d9f1743627f69f56a9580" title="FreeDVModGUI::on_playLoop\l_toggled" alt="" coords="807,682,1004,723"/>
+<area shape="rect" id="node22" href="$de/d8e/classFreeDVModGUI.html#aa542923d44a16d91c427bc52aac97ec3" title="FreeDVModGUI::on_play\l_toggled" alt="" coords="821,747,990,789"/>
+<area shape="rect" id="node23" href="$de/d8e/classFreeDVModGUI.html#a65006a2c37fd96b664d5b0b231f579ce" title="FreeDVModGUI::on_tone\l_toggled" alt="" coords="820,813,991,854"/>
+<area shape="rect" id="node24" href="$de/d8e/classFreeDVModGUI.html#a8be15a4a87f3057a6adf27611193ba3c" title="FreeDVModGUI::on_morseKeyer\l_toggled" alt="" coords="798,878,1013,919"/>
+<area shape="rect" id="node25" href="$de/d8e/classFreeDVModGUI.html#a9a17b8087d15bd0cdc3055e179e101a6" title="FreeDVModGUI::on_mic\l_toggled" alt="" coords="822,943,989,985"/>
+<area shape="rect" id="node26" href="$de/d8e/classFreeDVModGUI.html#a7f980e830d1859bc6e9a7efd90fcdd21" title="FreeDVModGUI::onMenuDialog\lCalled" alt="" coords="1339,994,1545,1035"/>
+<area shape="rect" id="node27" href="$de/d8e/classFreeDVModGUI.html#ae88c5af9faeaef404744f9f49586a5be" title="FreeDVModGUI::applyBandwidths" alt="" coords="794,1111,1017,1137"/>
+<area shape="rect" id="node32" href="$de/d8e/classFreeDVModGUI.html#aaf278f8cca658c154e068051c3d4d1fe" title="FreeDVModGUI::audioSelect" alt="" coords="1086,1279,1278,1305"/>
+<area shape="rect" id="node10" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1595,1060,1813,1087"/>
+<area shape="rect" id="node11" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1861,1060,2021,1087"/>
+<area shape="rect" id="node12" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="2069,1053,2256,1094"/>
+<area shape="rect" id="node13" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2304,1060,2493,1087"/>
+<area shape="rect" id="node28" href="$de/d8e/classFreeDVModGUI.html#aacf7f370018111059be584c2b13bb2d5" title="FreeDVModGUI::deserialize" alt="" coords="1089,1111,1275,1137"/>
+<area shape="rect" id="node29" href="$de/d8e/classFreeDVModGUI.html#a4a4d9e1ec717cf638cebdc0848e8e3dd" title="FreeDVModGUI::handleMessage" alt="" coords="1075,1161,1289,1188"/>
+<area shape="rect" id="node31" href="$de/d8e/classFreeDVModGUI.html#acf07e0149459b9380345d171701c98dc" title="FreeDVModGUI::on_spanLog2\l_valueChanged" alt="" coords="1081,1213,1283,1254"/>
+<area shape="rect" id="node30" href="$de/d8e/classFreeDVModGUI.html#a964fe32d85af54f0673c066c0436dcf3" title="FreeDVModGUI::handleSource\lMessages" alt="" coords="1341,1133,1543,1174"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="NFMDemod::getMagSqLevels" name="NFMDemod::getMagSqLevels">
+<area shape="rect" id="node2" href="$d3/d95/classNFMDemodGUI.html#a4a89579e025f4050ebec4c3160335bf1" title="NFMDemodGUI::tick" alt="" coords="294,5,441,32"/>
+<area shape="rect" id="node7" href="$df/ddf/classNFMDemod.html#ade4a1ebcdaa3d2b9451768b84a47a058" title="NFMDemod::webapiFormatChannel\lReport" alt="" coords="252,57,483,98"/>
+<area shape="rect" id="node3" href="$d3/d95/classNFMDemodGUI.html#a6c3832ae9989675c2343a580bd3bdf7e" title="NFMDemodGUI::NFMDemodGUI" alt="" coords="531,5,751,32"/>
+<area shape="rect" id="node4" href="$d3/d95/classNFMDemodGUI.html#af49e6c079fb7a1e49ebb6662c6a6ef95" title="NFMDemodGUI::create" alt="" coords="818,5,979,32"/>
+<area shape="rect" id="node5" href="$d8/d38/classNFMPlugin.html#a1c5b954f9a47c0bce00a111ac9300b32" title="NFMPlugin::createRxChannelGUI" alt="" coords="1047,5,1267,32"/>
+<area shape="rect" id="node6" href="$d8/d38/classNFMPlugin.html#a536ce48243ba9169a2ed880db0d341ad" title="NFMPlugin::initPlugin" alt="" coords="1315,5,1463,32"/>
+<area shape="rect" id="node8" href="$df/ddf/classNFMDemod.html#a1145ab4f0e9c1dfe98d1c55727669522" title="NFMDemod::webapiReportGet" alt="" coords="539,64,742,91"/>
+<area shape="rect" id="node9" href="$df/ddf/classNFMDemod.html#a47128f43314e6dcaa40e0e62abaa02ba" title="NFMDemod::getStreamCenter\lFrequency" alt="" coords="799,57,999,98"/>
+</map>

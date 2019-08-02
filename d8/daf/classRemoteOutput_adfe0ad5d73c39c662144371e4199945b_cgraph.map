@@ -1,0 +1,15 @@
+<map id="RemoteOutput::~RemoteOutput" name="RemoteOutput::~RemoteOutput">
+<area shape="rect" id="node2" href="$d8/daf/classRemoteOutput.html#a539f2f338f92d17a8fa8f86ea117c2de" title="RemoteOutput::networkManager\lFinished" alt="" coords="261,150,472,191"/>
+<area shape="rect" id="node10" href="$d8/daf/classRemoteOutput.html#a6d0bec92aa574120bed9a697fe0c9175" title="RemoteOutput::stop" alt="" coords="297,217,437,244"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#a1056a9a45117478687a9591d25612155" title="RemoteOutput::analyzeApi\lReply" alt="" coords="520,137,699,178"/>
+<area shape="rect" id="node4" href="$dc/db6/classRemoteOutputThread.html#a2d74b46116bed7c88171d45f170cb295" title="RemoteOutputThread\l::getSamplesCount" alt="" coords="766,35,913,77"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ac46ad53252cb933cd3993f783621fa63" title="RemoteOutput::sampleRate\lCorrection" alt="" coords="747,137,932,178"/>
+<area shape="rect" id="node5" href="$d6/dbf/classTimeUtil.html#ab4191df0ab0fa424ad1b63e65de1e596" title="returns the current epoch in microseconds " alt="" coords="1025,5,1142,32"/>
+<area shape="rect" id="node7" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#a35c751e4ad3b9eea71e3203d1d8d3887" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::create" alt="" coords="981,56,1186,112"/>
+<area shape="rect" id="node8" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="989,137,1177,178"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1263,203,1413,229"/>
+<area shape="rect" id="node11" href="$dc/db6/classRemoteOutputThread.html#ab319d679044bf94c6f26c60d8e096007" title="RemoteOutputThread\l::stopWork" alt="" coords="536,213,683,254"/>
+<area shape="rect" id="node12" href="$d9/dc5/classUDPSinkFEC.html#af8e4aad6cd9668372edc5c98af492ae1" title="UDPSinkFEC::stop" alt="" coords="771,232,908,259"/>
+<area shape="rect" id="node13" href="$d4/de0/classUDPSinkFECWorker.html#ab91d34f4af333366daca398c8169b44b" title="UDPSinkFECWorker::startStop" alt="" coords="980,253,1187,280"/>
+<area shape="rect" id="node14" href="$d5/daf/classUDPSinkFECWorker_1_1MsgStartStop.html#ac8b6dd527ac958561eee1a930f8586ed" title="UDPSinkFECWorker::MsgStart\lStop::create" alt="" coords="1235,254,1441,295"/>
+</map>

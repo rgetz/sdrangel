@@ -1,0 +1,26 @@
+<map id="BFMDemod::webapiSettingsGet" name="BFMDemod::webapiSettingsGet">
+<area shape="rect" id="node2" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a449d0f8f1f0a64805f6f744a5faa4557" title="SWGSDRangel::SWGChannelSettings\l::getBfmDemodSettings" alt="" coords="563,5,813,47"/>
+<area shape="rect" id="node3" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a7c2ad1df578144f6bac0c3f496e2bd61" title="SWGSDRangel::SWGBFMDemod\lSettings::init" alt="" coords="277,280,501,321"/>
+<area shape="rect" id="node4" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a9228199eedba59611660e111785b07ec" title="SWGSDRangel::SWGChannelSettings\l::setBfmDemodSettings" alt="" coords="264,345,515,387"/>
+<area shape="rect" id="node5" href="$d4/dd5/classBFMDemod.html#a58e3d12c0d754c041f60b97237c50935" title="BFMDemod::webapiFormatChannel\lSettings" alt="" coords="274,627,505,668"/>
+<area shape="rect" id="node6" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#ac129d7509742c9f506a63646792454c0" title="SWGSDRangel::SWGBFMDemod\lSettings::getAudioDeviceName" alt="" coords="576,71,800,112"/>
+<area shape="rect" id="node7" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a4db073ace5e8a35ea1e38be858be587b" title="SWGSDRangel::SWGBFMDemod\lSettings::getReverseApiAddress" alt="" coords="576,136,800,177"/>
+<area shape="rect" id="node8" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#ac718111449c37f0660ad82ccee85aed1" title="SWGSDRangel::SWGBFMDemod\lSettings::getTitle" alt="" coords="576,201,800,243"/>
+<area shape="rect" id="node9" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#ae4d113ccb5c2014e332c78f0e69f9a32" title="SWGSDRangel::SWGBFMDemod\lSettings::setAfBandwidth" alt="" coords="576,267,800,308"/>
+<area shape="rect" id="node10" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#aebfb90ca423eda805e197f67dafcd4bc" title="SWGSDRangel::SWGBFMDemod\lSettings::setAudioDeviceName" alt="" coords="576,332,800,373"/>
+<area shape="rect" id="node11" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a131b8bbecd6d01468b98ec284e5d85f9" title="SWGSDRangel::SWGBFMDemod\lSettings::setAudioStereo" alt="" coords="576,397,800,439"/>
+<area shape="rect" id="node12" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a1dab3b50dcd175ae7ea2e4a97ea0f611" title="SWGSDRangel::SWGBFMDemod\lSettings::setInputFrequencyOffset" alt="" coords="576,463,800,504"/>
+<area shape="rect" id="node13" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#ab2f32e11706606adc826dc65bcab7b2c" title="SWGSDRangel::SWGBFMDemod\lSettings::setLsbStereo" alt="" coords="576,528,800,569"/>
+<area shape="rect" id="node14" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a17bd478fceefd97167582f2e0856e70f" title="SWGSDRangel::SWGBFMDemod\lSettings::setRdsActive" alt="" coords="576,593,800,635"/>
+<area shape="rect" id="node15" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a8c7be84b71f55130dfc66a36080cdbb6" title="SWGSDRangel::SWGBFMDemod\lSettings::setReverseApiAddress" alt="" coords="576,659,800,700"/>
+<area shape="rect" id="node16" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a7d0556793dbbf3ede5efadcc1f4326f5" title="SWGSDRangel::SWGBFMDemod\lSettings::setReverseApiChannelIndex" alt="" coords="566,724,810,765"/>
+<area shape="rect" id="node17" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a5cba07d135ab7dd3154aab46317e10b0" title="SWGSDRangel::SWGBFMDemod\lSettings::setReverseApiDeviceIndex" alt="" coords="569,789,807,831"/>
+<area shape="rect" id="node18" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a2f1a665053e5734ed5fb098aecdffc7c" title="SWGSDRangel::SWGBFMDemod\lSettings::setReverseApiPort" alt="" coords="576,855,800,896"/>
+<area shape="rect" id="node19" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#affc28ff4b95551b6e045887a2611d1d3" title="SWGSDRangel::SWGBFMDemod\lSettings::setRfBandwidth" alt="" coords="576,920,800,961"/>
+<area shape="rect" id="node20" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a0e228e39fef3d07faa89548df386673b" title="SWGSDRangel::SWGBFMDemod\lSettings::setRgbColor" alt="" coords="576,985,800,1027"/>
+<area shape="rect" id="node21" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#afa2f527e8c8fac5ea3986076ec7ab042" title="SWGSDRangel::SWGBFMDemod\lSettings::setShowPilot" alt="" coords="576,1051,800,1092"/>
+<area shape="rect" id="node22" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#ac6ac4f4c926b90ba7a0a73cbde329d1e" title="SWGSDRangel::SWGBFMDemod\lSettings::setSquelch" alt="" coords="576,1116,800,1157"/>
+<area shape="rect" id="node23" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#aea27745982454bd56dd47179c937f0ea" title="SWGSDRangel::SWGBFMDemod\lSettings::setTitle" alt="" coords="576,1181,800,1223"/>
+<area shape="rect" id="node24" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a50b83ecd2edf321ccec141e9c1687646" title="SWGSDRangel::SWGBFMDemod\lSettings::setUseReverseApi" alt="" coords="576,1247,800,1288"/>
+<area shape="rect" id="node25" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a05c276cd6631e03ce1f3e6c0e7e049da" title="SWGSDRangel::SWGBFMDemod\lSettings::setVolume" alt="" coords="576,1312,800,1353"/>
+</map>

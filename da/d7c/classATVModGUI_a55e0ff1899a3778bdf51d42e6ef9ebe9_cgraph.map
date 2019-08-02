@@ -1,0 +1,5 @@
+<map id="ATVModGUI::on_cameraManualFPSEnable_toggled" name="ATVModGUI::on_cameraManualFPSEnable_toggled">
+<area shape="rect" id="node2" href="$d8/d50/classATVMod_1_1MsgConfigureCameraData.html#a7e4ab2a71e0c42fd2cf22bae1a44fa92" title="ATVMod::MsgConfigureCamera\lData::create" alt="" coords="264,5,472,47"/>
+<area shape="rect" id="node3" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="284,71,452,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="293,137,443,163"/>
+</map>

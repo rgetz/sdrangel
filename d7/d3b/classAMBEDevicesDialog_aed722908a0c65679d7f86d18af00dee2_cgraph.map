@@ -1,0 +1,9 @@
+<map id="AMBEDevicesDialog::populateSerialList" name="AMBEDevicesDialog::populateSerialList">
+<area shape="rect" id="node2" href="$d3/d84/classAMBEEngine.html#ac8d5267bee5234d48191909976c40247" title="AMBEEngine::scan" alt="" coords="207,95,343,122"/>
+<area shape="rect" id="node3" href="$d3/d84/classAMBEEngine.html#a24876f3c438c10eef5bea41e740b812a" title="AMBEEngine::getComList" alt="" coords="391,45,565,71"/>
+<area shape="rect" id="node7" href="$d0/d9e/classAMBEWorker.html#aab393e37af61bfd0a3e5ea8fe6647c0b" title="Either serial device or ip:port. " alt="" coords="409,95,547,122"/>
+<area shape="rect" id="node8" href="$d0/d9e/classAMBEWorker.html#a08fd1800f29a3c1ca8bb06152f072b5e" title="AMBEWorker::close" alt="" coords="407,146,549,173"/>
+<area shape="rect" id="node4" href="$d3/d84/classAMBEEngine.html#a0dd94239b158c90dd7955d6bfc2dad0a" title="AMBEEngine::register\l_comport" alt="" coords="641,5,792,47"/>
+<area shape="rect" id="node6" href="$d3/d84/classAMBEEngine.html#a7f9fdd61c72eba9ddbac693673396906" title="AMBEEngine::probe_serial8250\l_comports" alt="" coords="613,71,820,112"/>
+<area shape="rect" id="node5" href="$d3/d84/classAMBEEngine.html#a493accef97eac04df24ac085b882db36" title="AMBEEngine::get_driver" alt="" coords="868,13,1033,39"/>
+</map>

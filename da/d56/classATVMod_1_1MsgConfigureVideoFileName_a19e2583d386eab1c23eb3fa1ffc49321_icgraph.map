@@ -1,0 +1,6 @@
+<map id="ATVMod::MsgConfigureVideoFileName::create" name="ATVMod::MsgConfigureVideoFileName::create">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#a77e6299a9c825a5bf23897f4c99fb3af" title="ATVModGUI::configureVideo\lFileName" alt="" coords="248,5,439,47"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a9ce76a23e7d309f470ef3ce9c78c6719" title="ATVMod::webapiSettingsPut\lPatch" alt="" coords="248,71,439,112"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#acd70605d6136daa1e9c8f0b646f408c9" title="ATVModGUI::on_videoFileDialog\l_clicked" alt="" coords="500,5,715,47"/>
+<area shape="rect" id="node5" href="$d2/d69/classATVMod.html#a2b0fbe9337e046718fa3ec3a96436ced" title="ATVMod::getStreamCenterFrequency" alt="" coords="487,78,728,105"/>
+</map>

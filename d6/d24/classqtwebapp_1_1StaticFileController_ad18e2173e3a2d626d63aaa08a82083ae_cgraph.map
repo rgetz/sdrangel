@@ -1,0 +1,9 @@
+<map id="qtwebapp::StaticFileController::service" name="qtwebapp::StaticFileController::service">
+<area shape="rect" id="node2" href="$d6/d24/classqtwebapp_1_1StaticFileController.html#a721a444ec6cab322823f43ec2022684b" title="qtwebapp::StaticFileController\l::setContentType" alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a41029ee24e05e419e6da7ea970bc3724" title="qtwebapp::HttpResponse\l::setHeader" alt="" coords="496,35,667,76"/>
+<area shape="rect" id="node4" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a07af281f6437c377e6f729051ce4e13c" title="qtwebapp::HttpResponse\l::setStatus" alt="" coords="264,123,435,164"/>
+<area shape="rect" id="node5" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a6e49919cc568835ca6d81fec02533260" title="qtwebapp::HttpResponse\l::write" alt="" coords="264,188,435,229"/>
+<area shape="rect" id="node6" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#aeeb2ec292db009a2fd8bea9b03f5df69" title="qtwebapp::HttpResponse\l::writeHeaders" alt="" coords="496,129,667,171"/>
+<area shape="rect" id="node8" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a35de2d1c7f58dba5d40a45692f0df7ff" title="qtwebapp::HttpResponse\l::writeToSocket" alt="" coords="715,188,885,229"/>
+<area shape="rect" id="node7" href="$d1/de3/classqtwebapp_1_1HttpCookie.html#aef937847dbebf7290e94b94afbb8f9a1" title="qtwebapp::HttpCookie\l::toByteArray" alt="" coords="724,123,876,164"/>
+</map>

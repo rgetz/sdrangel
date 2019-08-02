@@ -1,0 +1,13 @@
+<map id="qrtplib::RTPSession::DeleteDestination" name="qrtplib::RTPSession::DeleteDestination">
+<area shape="rect" id="node2" href="$de/df9/classRTPSink.html#a3cc1a7dcaccf51936b8a9a0b75fe971e" title="RTPSink::deleteDestination" alt="" coords="192,31,376,57"/>
+<area shape="rect" id="node6" href="$de/df9/classRTPSink.html#a0675f24fd17f6154144ba22180abfc93" title="RTPSink::setDestination" alt="" coords="201,81,367,108"/>
+<area shape="rect" id="node3" href="$d1/d16/classAudioNetSink.html#a70c04f4eae08d91d2ae3a58c4b1be7c3" title="AudioNetSink::deleteDestination" alt="" coords="424,5,635,32"/>
+<area shape="rect" id="node4" href="$de/df9/classRTPSink.html#a88b4dfb8e061301adf56b6b6b7122fd2" title="RTPSink::isValid" alt="" coords="468,56,591,83"/>
+<area shape="rect" id="node5" href="$d1/d16/classAudioNetSink.html#ab70fd5025f848d8a3b533ec80cc87d7f" title="AudioNetSink::isRTPCapable" alt="" coords="691,56,885,83"/>
+<area shape="rect" id="node7" href="$d1/d16/classAudioNetSink.html#a6e7752a34f03df1a66c309d272c30183" title="AudioNetSink::setDestination" alt="" coords="432,107,627,133"/>
+<area shape="rect" id="node8" href="$d8/ddc/classAudioOutput.html#a2284613ff4e70b0dcdc59022f933627a" title="AudioOutput::setUdpDestination" alt="" coords="683,107,893,133"/>
+<area shape="rect" id="node9" href="$d0/d40/classAudioDeviceManager.html#a626cbd4efa0db2508888c36a535aa842" title="AudioDeviceManager\l::setOutputDeviceInfo" alt="" coords="941,99,1092,141"/>
+<area shape="rect" id="node10" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="1165,48,1313,75"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#a7e0868764ceab0c25cc1c8d051920b15" title="WebAPIAdapterSrv::instance\lAudioOutputPatch" alt="" coords="1142,99,1335,141"/>
+<area shape="rect" id="node12" href="$d7/de5/classWebAPIAdapterGUI.html#a2e3aca4d4c3df256a6ab7b28f2629739" title="WebAPIAdapterGUI::instance\lAudioOutputPatch" alt="" coords="1140,165,1337,206"/>
+</map>

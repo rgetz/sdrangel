@@ -1,0 +1,9 @@
+<map id="SWGSDRangel::SWGFreeDVDemodSettings::getReverseApiChannelIndex" name="SWGSDRangel::SWGFreeDVDemodSettings::getReverseApiChannelIndex">
+<area shape="rect" id="node2" href="$de/de0/classFreeDVDemod.html#af1a9424a1fd13776ea01df2b28afcbbe" title="FreeDVDemod::webapiSettings\lPutPatch" alt="" coords="297,5,504,47"/>
+<area shape="rect" id="node3" href="$de/de0/classFreeDVDemod.html#af47e9e95c71ec1881974b508da07520b" title="FreeDVDemod::isSync" alt="" coords="552,13,709,39"/>
+<area shape="rect" id="node4" href="$da/d3d/classFreeDVDemodGUI.html#a8fecb1d13482226c1406b8e0ca19571f" title="FreeDVDemodGUI::tick" alt="" coords="757,13,920,39"/>
+<area shape="rect" id="node5" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="968,13,1220,39"/>
+<area shape="rect" id="node6" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1268,13,1445,39"/>
+<area shape="rect" id="node7" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1493,13,1729,39"/>
+<area shape="rect" id="node8" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1777,13,1941,39"/>
+</map>

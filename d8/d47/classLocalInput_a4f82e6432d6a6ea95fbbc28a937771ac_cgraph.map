@@ -1,0 +1,21 @@
+<map id="LocalInput::webapiSettingsPutPatch" name="LocalInput::webapiSettingsPutPatch">
+<area shape="rect" id="node2" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a715e3e794cd4a1c92d2388d4b1de7c6d" title="LocalInput::MsgConfigure\lLocalInput::create" alt="" coords="265,5,436,47"/>
+<area shape="rect" id="node4" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a82eab33bbff5c548292a6c05a915ae96" title="SWGSDRangel::SWGLocalInput\lSettings::getDcBlock" alt="" coords="243,71,458,112"/>
+<area shape="rect" id="node5" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#ad7d22b1a09ab1a3e528902731ad2bc64" title="SWGSDRangel::SWGLocalInput\lSettings::getFileRecordName" alt="" coords="531,93,746,135"/>
+<area shape="rect" id="node6" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a1bf2d77af1994e06055154a263ee15c0" title="SWGSDRangel::SWGLocalInput\lSettings::getIqCorrection" alt="" coords="243,355,458,396"/>
+<area shape="rect" id="node7" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ade8accdfd026639287b166e788c6f54e" title="SWGSDRangel::SWGDeviceSettings\l::getLocalInputSettings" alt="" coords="517,159,760,200"/>
+<area shape="rect" id="node8" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a563fdc01face986bb59c48670ba67be5" title="SWGSDRangel::SWGLocalInput\lSettings::getReverseApiAddress" alt="" coords="531,224,746,265"/>
+<area shape="rect" id="node9" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#aff5f2ce46d3c67cee1d4adcf51cb03d2" title="SWGSDRangel::SWGLocalInput\lSettings::getReverseApiDeviceIndex" alt="" coords="232,420,469,461"/>
+<area shape="rect" id="node10" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#aed1df86df6cc6fef2a04ee3c728feb72" title="SWGSDRangel::SWGLocalInput\lSettings::getReverseApiPort" alt="" coords="243,485,458,527"/>
+<area shape="rect" id="node11" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a132cacf962f6feba4008e578429ba1c6" title="SWGSDRangel::SWGLocalInput\lSettings::getUseReverseApi" alt="" coords="243,551,458,592"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="276,617,425,643"/>
+<area shape="rect" id="node13" href="$d8/d47/classLocalInput.html#a33aeeff4cf1042f8b0dee480f2846788" title="LocalInput::webapiFormat\lDeviceSettings" alt="" coords="265,289,437,331"/>
+<area shape="rect" id="node3" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a3472a8ca5dad9adb4f093c21d0c627c7" title="LocalInput::MsgConfigure\lLocalInput::MsgConfigureLocalInput" alt="" coords="523,5,754,47"/>
+<area shape="rect" id="node14" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a85aba3988afe08f26ead59c044cb893e" title="SWGSDRangel::SWGLocalInput\lSettings::setDcBlock" alt="" coords="531,616,746,657"/>
+<area shape="rect" id="node15" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#acb86c588176e054f2d050f4a62b81d65" title="SWGSDRangel::SWGLocalInput\lSettings::setFileRecordName" alt="" coords="531,681,746,723"/>
+<area shape="rect" id="node16" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a19d11ed43f0cd42a4f28938bfeb73d8c" title="SWGSDRangel::SWGLocalInput\lSettings::setIqCorrection" alt="" coords="531,289,746,331"/>
+<area shape="rect" id="node17" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#ab9e0cd7bcb06eaba1c6dff389f4e8d4d" title="SWGSDRangel::SWGLocalInput\lSettings::setReverseApiAddress" alt="" coords="531,355,746,396"/>
+<area shape="rect" id="node18" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a20327c4e9c019303d0e3e6239f57b697" title="SWGSDRangel::SWGLocalInput\lSettings::setReverseApiDeviceIndex" alt="" coords="520,420,757,461"/>
+<area shape="rect" id="node19" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a9006482643192b49e6bce4206a222640" title="SWGSDRangel::SWGLocalInput\lSettings::setReverseApiPort" alt="" coords="531,485,746,527"/>
+<area shape="rect" id="node20" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#ad58abc54269ac1171f1aa0f2c68e204a" title="SWGSDRangel::SWGLocalInput\lSettings::setUseReverseApi" alt="" coords="531,551,746,592"/>
+</map>

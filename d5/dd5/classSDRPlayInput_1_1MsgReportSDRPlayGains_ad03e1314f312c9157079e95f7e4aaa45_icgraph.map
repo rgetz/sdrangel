@@ -1,0 +1,8 @@
+<map id="SDRPlayInput::MsgReportSDRPlayGains::create" name="SDRPlayInput::MsgReportSDRPlayGains::create">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#a54771c9d02bc434729308f2d73c84335" title="SDRPlayInput::applySettings" alt="" coords="287,45,480,72"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="716,5,921,32"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a2cf8304ffa25857a22e89320aaf47982" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="533,96,663,123"/>
+<area shape="rect" id="node7" href="$dc/d8c/classSDRPlayInput.html#aad64250d9376dda3f45c7d2cf9b546fe" title="SDRPlayInput::start" alt="" coords="528,45,668,72"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="969,5,1173,32"/>
+<area shape="rect" id="node6" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="721,67,916,109"/>
+</map>

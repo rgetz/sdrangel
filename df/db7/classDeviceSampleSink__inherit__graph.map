@@ -1,0 +1,12 @@
+<map id="DeviceSampleSink" name="DeviceSampleSink">
+<area shape="rect" id="node2" href="$dc/d98/classBladerf1Output.html" title="Bladerf1Output" alt="" coords="195,5,305,32"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html" title="BladeRF2Output" alt="" coords="191,56,309,83"/>
+<area shape="rect" id="node4" href="$d6/dc4/classFileSinkOutput.html" title="FileSinkOutput" alt="" coords="196,107,304,133"/>
+<area shape="rect" id="node5" href="$dc/df6/classHackRFOutput.html" title="HackRFOutput" alt="" coords="195,157,305,184"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html" title="LimeSDROutput" alt="" coords="191,208,309,235"/>
+<area shape="rect" id="node7" href="$de/db2/classLocalOutput.html" title="LocalOutput" alt="" coords="204,259,296,285"/>
+<area shape="rect" id="node8" href="$da/dff/classPlutoSDROutput.html" title="PlutoSDROutput" alt="" coords="190,309,310,336"/>
+<area shape="rect" id="node9" href="$d8/daf/classRemoteOutput.html" title="RemoteOutput" alt="" coords="197,360,303,387"/>
+<area shape="rect" id="node10" href="$d8/df3/classSoapySDROutput.html" title="SoapySDROutput" alt="" coords="187,411,313,437"/>
+<area shape="rect" id="node11" href="$d1/d5f/classXTRXOutput.html" title="XTRXOutput" alt="" coords="201,461,299,488"/>
+</map>

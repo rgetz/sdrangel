@@ -1,0 +1,27 @@
+<map id="BFMDemod::start" name="BFMDemod::start">
+<area shape="rect" id="node2" href="$d4/dd5/classBFMDemod.html#ac2ce64daabd9d134983a4a3f6c104d09" title="BFMDemod::applyChannelSettings" alt="" coords="180,199,407,225"/>
+<area shape="rect" id="node25" href="$dc/dd8/classAudioFifo.html#aadee34f244a881ec57dd3dc1351c4c8e" title="AudioFifo::clear" alt="" coords="237,249,350,276"/>
+<area shape="rect" id="node26" href="$db/d1b/classPhaseDiscriminators.html#a329739ea7ef1b9570b2f79fbc93ee3ba" title="PhaseDiscriminators\l::reset" alt="" coords="222,301,365,342"/>
+<area shape="rect" id="node3" href="$d5/de8/classPhaseLock.html#a4d4790adb9f912034a7e64f8bd6a3360" title="PhaseLock::configure" alt="" coords="455,35,603,61"/>
+<area shape="rect" id="node6" href="$d3/df3/classInterpolator.html#a0202c4edcf49fe8b50ebeb20b88ad630" title="Interpolator::create" alt="" coords="463,115,594,141"/>
+<area shape="rect" id="node9" href="$d0/de5/classfftfilt.html#a20bd094cf966c84ef947054c99e6f1b0" title="fftfilt::create_filter" alt="" coords="467,199,591,225"/>
+<area shape="rect" id="node23" href="$db/d1b/classPhaseDiscriminators.html#add56c2a6c4588531bd470844f83ada3b" title="PhaseDiscriminators\l::setFMScaling" alt="" coords="457,250,600,291"/>
+<area shape="rect" id="node24" href="$d9/d04/classNCO.html#a148dd2bd02b26128fecbdabdd12ff16f" title="NCO::setFreq" alt="" coords="477,316,581,343"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a47ff3dd3b526d335b62ee3e1d4f175d3" title="exp" alt="" coords="725,5,768,32"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a7abd22e3c1949e14183afb0c9287dda6" title="Fixed::exp" alt="" coords="891,5,973,32"/>
+<area shape="rect" id="node7" href="$d3/df3/classInterpolator.html#a4f2a03f6cd2383ba5e8b45a93c2404d3" title="Interpolator::free" alt="" coords="688,56,805,83"/>
+<area shape="rect" id="node8" href="$d3/df3/classInterpolator.html#a9e863174b768230123fa551a681705ef" title="Interpolator::createPolyphase\lLowPass" alt="" coords="651,107,843,149"/>
+<area shape="rect" id="node10" href="$d0/de5/classfftfilt.html#a4163deee5b1bdf9acd61e7be762666c1" title="fftfilt::fsinc" alt="" coords="705,173,789,200"/>
+<area shape="rect" id="node17" href="$d0/de5/classfftfilt.html#a3531ed41365780a0f2f2f60ca3c07125" title="fftfilt::_blackman" alt="" coords="687,224,806,251"/>
+<area shape="rect" id="node20" href="$d9/daf/classg__fft.html#afd76303c0010b4718ead81ad66e0e1fb" title="g_fft::ComplexFFT" alt="" coords="681,275,813,301"/>
+<area shape="rect" id="node21" href="$dd/d58/fixed_8h.html#a8f22b20379bd986a21335100e02cc7db" title="abs" alt="" coords="725,325,768,352"/>
+<area shape="rect" id="node11" href="$dd/d58/fixed_8h.html#a6fe9633e9b49ad637871e9ffa468bdc5" title="sin" alt="" coords="913,173,951,200"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#a341f37b4ca17d3ffa330a82a0ae61d1a" title="Fixed::sin" alt="" coords="1023,173,1102,200"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#a86dcc54b1001f704bcf1c67481782b6e" title="Fixed::sin_cos" alt="" coords="1152,199,1259,225"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#a31f005fda0e3b89b530e756087c3aa25" title="Fixed::perform_cordic\l_rotation" alt="" coords="1307,191,1455,233"/>
+<area shape="rect" id="node15" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1511,169,1629,196"/>
+<area shape="rect" id="node16" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1503,221,1637,262"/>
+<area shape="rect" id="node18" href="$dd/d58/fixed_8h.html#ad198a68ce3c4a9f529af53f662f45e36" title="cos" alt="" coords="911,224,953,251"/>
+<area shape="rect" id="node19" href="$dd/d7b/classFixed.html#aee3b063e4154e3244766db7d43e46902" title="Fixed::cos" alt="" coords="1021,224,1104,251"/>
+<area shape="rect" id="node22" href="$dd/d7b/classFixed.html#a62cb73f2f5151a99b8d3206136e9c951" title="Fixed::abs" alt="" coords="891,325,973,352"/>
+</map>

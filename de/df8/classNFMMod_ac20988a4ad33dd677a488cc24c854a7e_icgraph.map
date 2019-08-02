@@ -1,0 +1,10 @@
+<map id="NFMMod::getMagSq" name="NFMMod::getMagSq">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a4b628c9190c450a622cacaaa7b1f251e" title="NFMModGUI::tick" alt="" coords="239,5,368,32"/>
+<area shape="rect" id="node7" href="$de/df8/classNFMMod.html#af1cc3c23fca7876461f5109585a255f7" title="NFMMod::webapiFormatChannel\lReport" alt="" coords="196,57,411,98"/>
+<area shape="rect" id="node3" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="459,5,645,32"/>
+<area shape="rect" id="node4" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="743,5,887,32"/>
+<area shape="rect" id="node5" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="985,5,1228,32"/>
+<area shape="rect" id="node6" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1276,5,1449,32"/>
+<area shape="rect" id="node8" href="$de/df8/classNFMMod.html#ad7c32126636fa500da14ab8bc5f51886" title="NFMMod::webapiReportGet" alt="" coords="459,64,645,91"/>
+<area shape="rect" id="node9" href="$de/df8/classNFMMod.html#ae32768518d5b2dc6f2bb314dd8fb8853" title="NFMMod::getStreamCenterFrequency" alt="" coords="693,64,937,91"/>
+</map>

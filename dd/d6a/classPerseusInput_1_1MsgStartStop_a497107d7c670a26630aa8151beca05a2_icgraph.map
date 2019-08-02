@@ -1,0 +1,5 @@
+<map id="PerseusInput::MsgStartStop::create" name="PerseusInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d5/d50/classPerseusGui.html#a5cf6365bec6c1ebc9cf35d171f4e78c4" title="PerseusGui::on_startStop\l_toggled" alt="" coords="240,5,412,47"/>
+<area shape="rect" id="node3" href="$df/dc2/classPerseusInput.html#a9c3834326493dc16f0ce6764dbe736a9" title="PerseusInput::webapiRun" alt="" coords="240,71,412,98"/>
+<area shape="rect" id="node4" href="$df/dc2/classPerseusInput.html#a5df1af59e9e43e042b6baf24c059bccf" title="For when the source sample rate is set externally. " alt="" coords="460,71,657,98"/>
+</map>

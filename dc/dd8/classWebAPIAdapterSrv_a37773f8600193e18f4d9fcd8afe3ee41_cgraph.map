@@ -1,0 +1,11 @@
+<map id="WebAPIAdapterSrv::instancePresetsGet" name="WebAPIAdapterSrv::instancePresetsGet">
+<area shape="rect" id="node2" href="$d1/dc7/classPreset.html#a7f773cda853130f7ad8c607482b80b88" title="Preset::getCenterFrequency" alt="" coords="253,5,439,32"/>
+<area shape="rect" id="node3" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="270,56,422,83"/>
+<area shape="rect" id="node4" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="285,107,407,133"/>
+<area shape="rect" id="node5" href="$d6/d61/classSWGSDRangel_1_1SWGPresets.html#a428466f44c2fee0ba8d503cbaacf43e3" title="SWGSDRangel::SWGPresets\l::getGroups" alt="" coords="247,158,445,199"/>
+<area shape="rect" id="node6" href="$d5/df4/classMainSettings.html#acc57bd4efde738aa2720bc469e1d4436" title="MainSettings::getPreset" alt="" coords="265,224,427,251"/>
+<area shape="rect" id="node7" href="$d5/df4/classMainSettings.html#aa613a5791c8a57a6b0e53304f846cedc" title="MainSettings::getPresetCount" alt="" coords="247,275,445,301"/>
+<area shape="rect" id="node8" href="$d6/d61/classSWGSDRangel_1_1SWGPresets.html#af5e220b4c1eafced9284d42be9463a31" title="SWGSDRangel::SWGPresets\l::init" alt="" coords="247,326,445,367"/>
+<area shape="rect" id="node9" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="267,392,425,419"/>
+<area shape="rect" id="node10" href="$d6/d61/classSWGSDRangel_1_1SWGPresets.html#a3fdc38a2265d086a70997ec9d5fc6f3e" title="SWGSDRangel::SWGPresets\l::setNbGroups" alt="" coords="247,443,445,485"/>
+</map>

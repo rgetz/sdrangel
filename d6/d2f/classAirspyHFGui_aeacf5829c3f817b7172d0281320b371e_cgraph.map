@@ -1,0 +1,13 @@
+<map id="AirspyHFGui::resetToDefaults" name="AirspyHFGui::resetToDefaults">
+<area shape="rect" id="node2" href="$d6/d2f/classAirspyHFGui.html#a9bac0dad2148f77b928778610b664eac" title="AirspyHFGui::displaySettings" alt="" coords="252,111,447,137"/>
+<area shape="rect" id="node11" href="$d1/d04/structAirspyHFSettings.html#a040decb79358d4fdb34b8465dbab63eb" title="AirspyHFSettings::resetTo\lDefaults" alt="" coords="261,162,438,203"/>
+<area shape="rect" id="node12" href="$d6/d2f/classAirspyHFGui.html#a318c9d791cc3cf5ac8557085d0ef5555" title="AirspyHFGui::sendSettings" alt="" coords="259,228,440,255"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="583,35,623,61"/>
+<area shape="rect" id="node8" href="$d6/d2f/classAirspyHFGui.html#a3edeb67abf4268b234248856e82eac78" title="AirspyHFGui::blockApplySettings" alt="" coords="495,85,712,112"/>
+<area shape="rect" id="node9" href="$d6/d2f/classAirspyHFGui.html#a28952aff182dfa0a746be457e3daf7c1" title="AirspyHFGui::displayAGC" alt="" coords="516,136,691,163"/>
+<area shape="rect" id="node10" href="$d6/d2f/classAirspyHFGui.html#a2543f9bcad72754e8a0b54a2188030c5" title="AirspyHFGui::updateFrequency\lLimits" alt="" coords="501,187,706,229"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="760,35,868,61"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1120,5,1239,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="916,57,1064,98"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1112,57,1247,98"/>
+</map>

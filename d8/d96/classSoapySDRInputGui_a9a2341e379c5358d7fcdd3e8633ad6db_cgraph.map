@@ -1,0 +1,5 @@
+<map id="SoapySDRInputGui::on_startStop_toggled" name="SoapySDRInputGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$dd/dcf/classSoapySDRInput_1_1MsgStartStop.html#a38c63b1cfa8ae9ddc29777863d95b11b" title="SoapySDRInput::MsgStartStop\l::create" alt="" coords="212,5,417,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="231,71,399,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="240,137,389,163"/>
+</map>

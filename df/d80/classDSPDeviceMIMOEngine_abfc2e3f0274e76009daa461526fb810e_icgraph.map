@@ -1,0 +1,34 @@
+<map id="DSPDeviceMIMOEngine::removeChannelSink" name="DSPDeviceMIMOEngine::removeChannelSink">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="220,445,431,472"/>
+<area shape="rect" id="node3" href="$d9/df0/classAMDemod.html#a64b221c1e44fae0e0a13388fd4dbe39e" title="AMDemod::applySettings" alt="" coords="499,100,670,127"/>
+<area shape="rect" id="node8" href="$d9/df0/classAMDemod.html#a6b32bb6a4519cd84826b601f83592813" title="AMDemod::~AMDemod" alt="" coords="791,5,953,32"/>
+<area shape="rect" id="node9" href="$de/dce/classATVDemod.html#af2ba0ca629bd85096b3554f6d586e97c" title="ATVDemod::~ATVDemod" alt="" coords="497,151,672,177"/>
+<area shape="rect" id="node11" href="$d4/dd5/classBFMDemod.html#ae63593f9ac9bc86539b16fa87b792ec5" title="BFMDemod::~BFMDemod" alt="" coords="495,201,674,228"/>
+<area shape="rect" id="node12" href="$dc/d0c/classChannelAnalyzer.html#a4326f76afbcfd371f5fb1b33b40dca91" title="ChannelAnalyzer::~Channel\lAnalyzer" alt="" coords="492,253,677,294"/>
+<area shape="rect" id="node14" href="$da/d9b/classDATVDemod.html#aa6eb07ca668104a5bc316940dc11dd0d" title="DATVDemod::~DATVDemod" alt="" coords="487,319,682,345"/>
+<area shape="rect" id="node15" href="$d6/d40/classDSDDemod.html#aeb3158e44a441bac2e8dd784f24e82a4" title="DSDDemod::~DSDDemod" alt="" coords="495,369,675,396"/>
+<area shape="rect" id="node17" href="$de/de0/classFreeDVDemod.html#a53be040ea90c13ced73538f8cf30dec7" title="FreeDVDemod::~FreeDVDemod" alt="" coords="479,420,691,447"/>
+<area shape="rect" id="node19" href="$da/d2e/classFreqTracker.html#af45e5d0baf723e7a11007d55f6ab7a7a" title="FreqTracker::~FreqTracker" alt="" coords="495,471,674,497"/>
+<area shape="rect" id="node20" href="$da/d9d/classLocalSink.html#a011dff930afc93181253355ca4b5db49" title="LocalSink::~LocalSink" alt="" coords="509,521,661,548"/>
+<area shape="rect" id="node22" href="$d7/d10/classLoRaDemod.html#adfe0465002404a30b13fbc76ce804714" title="LoRaDemod::~LoRaDemod" alt="" coords="493,572,677,599"/>
+<area shape="rect" id="node24" href="$df/ddf/classNFMDemod.html#afaa6f4cd404a04667cd108e1c92f50fd" title="NFMDemod::~NFMDemod" alt="" coords="495,623,675,649"/>
+<area shape="rect" id="node26" href="$df/d8c/classRemoteSink.html#a6330de820b1e9526de31e80168dfa30f" title="RemoteSink::~RemoteSink" alt="" coords="493,677,676,704"/>
+<area shape="rect" id="node28" href="$d6/d4d/classSSBDemod.html#a45223c4c8a74f416c61bf98371fc5523" title="SSBDemod::~SSBDemod" alt="" coords="497,740,673,767"/>
+<area shape="rect" id="node30" href="$d2/d3d/classUDPSink.html#a2410a39f2cac987e9ea6bdb3d9f7570c" title="UDPSink::~UDPSink" alt="" coords="511,805,659,832"/>
+<area shape="rect" id="node32" href="$d3/dbd/classWFMDemod.html#a09b8ba8e3ec7d8e19b68938309b14afa" title="WFMDemod::~WFMDemod" alt="" coords="491,863,678,889"/>
+<area shape="rect" id="node4" href="$d9/df0/classAMDemod.html#afd1f6fb2c119035c1e0854c7310fdc6c" title="AMDemod::AMDemod" alt="" coords="795,56,949,83"/>
+<area shape="rect" id="node6" href="$d9/df0/classAMDemod.html#a0cc413b8436d68d43d6a3d97e93cef20" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="781,107,963,133"/>
+<area shape="rect" id="node5" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#ac1e64f0d8384a19441ee6ff2ce27098a" title="AMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1053,19,1296,61"/>
+<area shape="rect" id="node7" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="1107,107,1242,133"/>
+<area shape="rect" id="node10" href="$de/d5c/classATVDemod_1_1MsgReportChannelSampleRateChanged.html#a6bb977796486b0a34e454f1f90c0acb0" title="ATVDemod::MsgReportChannel\lSampleRateChanged::MsgReportChannel\lSampleRateChanged" alt="" coords="739,157,1005,213"/>
+<area shape="rect" id="node13" href="$df/db9/classChannelAnalyzer_1_1MsgReportChannelSampleRateChanged.html#a640c1444f019873ba7e53844b70a104b" title="ChannelAnalyzer::MsgReport\lChannelSampleRateChanged\l::MsgReportChannelSampleRateChanged" alt="" coords="739,245,1005,301"/>
+<area shape="rect" id="node16" href="$d2/d27/classDSDDemod_1_1MsgConfigureChannelizer.html#af4e9c84f91e8e1e15312f6768a613584" title="DSDDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="747,347,997,389"/>
+<area shape="rect" id="node18" href="$d2/de4/classFreeDVDemod_1_1MsgConfigureChannelizer.html#ae517a606941d0a0786f6902f96883d3d" title="FreeDVDemod::MsgConfigure\lChannelizer::MsgConfigureChannelizer" alt="" coords="747,413,997,454"/>
+<area shape="rect" id="node21" href="$d6/d9b/classLocalSink_1_1MsgConfigureChannelizer.html#aa22512d9d02a904d047534a1cbf1cb1b" title="LocalSink::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="753,478,991,519"/>
+<area shape="rect" id="node23" href="$dc/d97/classLoRaDemod_1_1MsgConfigureChannelizer.html#a7d42889dfdbad3381b39a0fc1ebb3022" title="LoRaDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="745,543,999,585"/>
+<area shape="rect" id="node25" href="$d8/db4/classNFMDemod_1_1MsgReportCTCSSFreq.html#a1554c6441ee38b9635288012cacd90e7" title="NFMDemod::MsgReportCTCSSFreq\l::MsgReportCTCSSFreq" alt="" coords="753,609,991,650"/>
+<area shape="rect" id="node27" href="$d8/d2c/classRemoteSink_1_1MsgConfigureChannelizer.html#a8584265d3acc9e157f24c4f387ad701e" title="RemoteSink::MsgConfigure\lChannelizer::MsgConfigureChannelizer" alt="" coords="747,674,997,715"/>
+<area shape="rect" id="node29" href="$d1/d55/classSSBDemod_1_1MsgConfigureChannelizer.html#a7f6e4b7862591bedc88eb19edca8a53a" title="SSBDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="747,739,997,781"/>
+<area shape="rect" id="node31" href="$d9/d30/classUDPSink_1_1MsgConfigureChannelizer.html#a686c49baf084992c02c97870a6ee2517" title="UDPSink::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="755,805,989,846"/>
+<area shape="rect" id="node33" href="$db/d08/classWFMDemod_1_1MsgConfigureChannelizer.html#a53a299a353bc18d4f8ad9377d83f5c46" title="WFMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="745,870,999,911"/>
+</map>

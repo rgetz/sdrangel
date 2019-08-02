@@ -1,0 +1,10 @@
+<map id="SDRPlayThread::stopWork" name="SDRPlayThread::stopWork">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#a167b9fcfab1b83fe2b8e7fba0f798f6f" title="SDRPlayInput::stop" alt="" coords="279,84,418,111"/>
+<area shape="rect" id="node9" href="$d5/dad/classSDRPlayThread.html#a41346f532c7deeb0aef9ff7a046da26a" title="SDRPlayThread::~SDRPlayThread" alt="" coords="235,135,463,162"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="765,8,971,35"/>
+<area shape="rect" id="node5" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="771,128,965,169"/>
+<area shape="rect" id="node6" href="$dc/d8c/classSDRPlayInput.html#aff79d259080c89108ede3b197d449798" title="SDRPlayInput::openDevice" alt="" coords="523,84,705,111"/>
+<area shape="rect" id="node7" href="$dc/d8c/classSDRPlayInput.html#aad64250d9376dda3f45c7d2cf9b546fe" title="SDRPlayInput::start" alt="" coords="544,34,684,60"/>
+<area shape="rect" id="node8" href="$dc/d8c/classSDRPlayInput.html#aee131f1d4112e53ed7cc5291f6492bcd" title="SDRPlayInput::~SDRPlayInput" alt="" coords="511,186,717,212"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="1019,8,1223,35"/>
+</map>

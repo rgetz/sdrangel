@@ -1,0 +1,7 @@
+<map id="FCDProPlusInput::closeDevice" name="FCDProPlusInput::closeDevice">
+<area shape="rect" id="node2" href="$d6/d0c/classFCDProPlusInput.html#a05163639d2b644699e7a0b2abcb7bff5" title="FCDProPlusInput::closeFCDAudio" alt="" coords="259,56,484,83"/>
+<area shape="rect" id="node5" href="$d7/d3c/fcdhid_8c.html#a3b4c2f947c94c3794c9112c424ce321f" title="Close FCD HID device. " alt="" coords="334,107,409,133"/>
+<area shape="rect" id="node3" href="$d6/d91/classAudioInput.html#aae5dcc22d9ff9807bc6f3c337a738106" title="AudioInput::removeFifo" alt="" coords="532,5,689,32"/>
+<area shape="rect" id="node4" href="$d6/d91/classAudioInput.html#a254e2345054b391f20bb883140a732d0" title="AudioInput::stop" alt="" coords="552,56,669,83"/>
+<area shape="rect" id="node6" href="$dc/d19/group__API.html#ga9b64828273b8dd052731e79ba9e1a516" title="Close a HID device. " alt="" coords="572,107,649,133"/>
+</map>

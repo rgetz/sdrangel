@@ -1,0 +1,9 @@
+<map id="SSBDemodGUI::displaySettings" name="SSBDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a3541ba1eb532f9302a6e58156ea4f322" title="SSBDemodGUI::deserialize" alt="" coords="280,5,465,32"/>
+<area shape="rect" id="node3" href="$d4/d5b/classSSBDemodGUI.html#aa23b2a82414ac36f9a48433cf0dd1c57" title="SSBDemodGUI::handleMessage" alt="" coords="265,56,480,83"/>
+<area shape="rect" id="node5" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="767,81,983,108"/>
+<area shape="rect" id="node4" href="$d4/d5b/classSSBDemodGUI.html#a2fd37fa65519ade78b5ee784e667be25" title="SSBDemodGUI::handleInput\lMessages" alt="" coords="528,45,719,86"/>
+<area shape="rect" id="node6" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1031,81,1189,108"/>
+<area shape="rect" id="node7" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1237,81,1456,108"/>
+<area shape="rect" id="node8" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1504,81,1651,108"/>
+</map>

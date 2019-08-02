@@ -1,0 +1,14 @@
+<map id="PerseusPlugin::enumSampleSources" name="PerseusPlugin::enumSampleSources">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="321,35,361,61"/>
+<area shape="rect" id="node7" href="$d0/d54/classPerseusPlugin.html#a2f606c4dd1b7df4a3a230a27f06c1eda" title="PerseusPlugin::createSample\lSourcePluginInstanceGUI" alt="" coords="244,86,439,127"/>
+<area shape="rect" id="node8" href="$d0/dfc/classDevicePerseus.html#a9cbdac59b9b994e3f868e84c40ca0a5a" title="DevicePerseus::getSerials" alt="" coords="253,152,430,179"/>
+<area shape="rect" id="node9" href="$d0/dfc/classDevicePerseus.html#a5a1d4c924cbfb8d96a012d87f8fa45a4" title="DevicePerseus::instance" alt="" coords="257,203,425,229"/>
+<area shape="rect" id="node10" href="$d0/dfc/classDevicePerseus.html#a522cde27ddbbe76758dc9e1cb9002ed9" title="DevicePerseus::scan" alt="" coords="268,253,415,280"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="531,35,639,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="745,57,893,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="964,5,1083,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="956,57,1091,98"/>
+<area shape="rect" id="node11" href="$da/dbe/classDevicePerseusScan.html#ac0aa7bfa4b06be514ddd46c2dbf5150f" title="DevicePerseusScan::\lclear" alt="" coords="510,217,659,258"/>
+<area shape="rect" id="node12" href="$d0/dfc/classDevicePerseus.html#acb32102903edaf43406599a576caea39" title="DevicePerseus::internal_scan" alt="" coords="487,283,683,309"/>
+<area shape="rect" id="node13" href="$da/dbe/classDevicePerseusScan.html#a4cdebfe3e4377e61673251f0899ca0dd" title="false if one device had its firmware not yet downloaded " alt="" coords="731,283,908,309"/>
+</map>

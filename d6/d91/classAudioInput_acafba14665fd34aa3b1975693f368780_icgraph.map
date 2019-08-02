@@ -1,0 +1,10 @@
+<map id="AudioInput::getRate" name="AudioInput::getRate">
+<area shape="rect" id="node2" href="$d6/d0c/classFCDProPlusInput.html#aacedaf752c106c4c242f4e9869b5b898" title="FCDProPlusInput::openFCDAudio" alt="" coords="192,5,415,32"/>
+<area shape="rect" id="node4" href="$db/d44/classFCDProInput.html#a446f5a3bbe1cfdb470c54b804eaf8604" title="FCDProInput::openFCDAudio" alt="" coords="205,56,401,83"/>
+<area shape="rect" id="node6" href="$d0/d40/classAudioDeviceManager.html#aa36127cf49aaea02297321d6f761fdde" title="AudioDeviceManager\l::setInputDeviceInfo" alt="" coords="230,133,377,174"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="463,5,665,32"/>
+<area shape="rect" id="node5" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="476,56,652,83"/>
+<area shape="rect" id="node7" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="490,107,638,133"/>
+<area shape="rect" id="node8" href="$dc/dd8/classWebAPIAdapterSrv.html#a623b4d6489fe4c45909c2918e29ff2b2" title="WebAPIAdapterSrv::instance\lAudioInputPatch" alt="" coords="467,158,661,199"/>
+<area shape="rect" id="node9" href="$d7/de5/classWebAPIAdapterGUI.html#a7b2fe2f07d57a7255a36bd6981f34e9c" title="WebAPIAdapterGUI::instance\lAudioInputPatch" alt="" coords="465,223,663,265"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="XTRXOutputSettings::resetToDefaults" name="XTRXOutputSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$da/d56/structXTRXOutputSettings.html#a8408d4a2cb7fd9ebf05ee427b54b78e3" title="XTRXOutputSettings\l::deserialize" alt="" coords="237,57,383,98"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#ab218ce179732a23eb77b798d40759412" title="XTRXOutput::deserialize" alt="" coords="481,92,648,119"/>
+<area shape="rect" id="node10" href="$d8/d63/classXTRXOutputGUI.html#aacb8def48e1fe5c647a03b41d687b90a" title="XTRXOutputGUI::resetToDefaults" alt="" coords="199,5,421,32"/>
+<area shape="rect" id="node11" href="$da/d56/structXTRXOutputSettings.html#a03592f851292afe5a8f0d4b16822ffd4" title="XTRXOutputSettings\l::XTRXOutputSettings" alt="" coords="233,174,387,215"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a330967a482b101f56156aa223e18e15f" title="XTRXOutputGUI::deserialize" alt="" coords="469,37,660,64"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#a4a2fb919e0f4485997e2ee2a78130389" title="XTRXOutput::setThread" alt="" coords="708,92,871,119"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#a44dd083e222b948894b25220c7bed28d" title="XTRXOutput::moveThreadTo\lBuddy" alt="" coords="919,85,1111,126"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="1159,92,1336,119"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="1384,92,1572,119"/>
+<area shape="rect" id="node9" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1620,85,1805,126"/>
+</map>

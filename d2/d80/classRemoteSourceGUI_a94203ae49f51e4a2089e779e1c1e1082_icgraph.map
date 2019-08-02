@@ -1,0 +1,11 @@
+<map id="RemoteSourceGUI::blockApplySettings" name="RemoteSourceGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$d2/d80/classRemoteSourceGUI.html#ac8993c92c71b0323ff160fb1fcedc655" title="RemoteSourceGUI::display\lSettings" alt="" coords="259,94,441,136"/>
+<area shape="rect" id="node5" href="$d2/d80/classRemoteSourceGUI.html#aa4eb7894ff4248fec22f5a04a47f55b1" title="RemoteSourceGUI::handleMessage" alt="" coords="489,160,721,187"/>
+<area shape="rect" id="node3" href="$d2/d80/classRemoteSourceGUI.html#aff7503b5ee85fa31a748b02fd81de11e" title="RemoteSourceGUI::resetTo\lDefaults" alt="" coords="513,44,698,85"/>
+<area shape="rect" id="node4" href="$d2/d80/classRemoteSourceGUI.html#a00037d19985c6eaee69ad3f65730c06e" title="RemoteSourceGUI::deserialize" alt="" coords="778,76,981,103"/>
+<area shape="rect" id="node7" href="$d2/d80/classRemoteSourceGUI.html#a93d7f19c84f7472cb2d9962ba22db8aa" title="RemoteSourceGUI::RemoteSourceGUI" alt="" coords="1037,76,1289,103"/>
+<area shape="rect" id="node6" href="$d2/d80/classRemoteSourceGUI.html#abe838dd666f78a0ee1b3d73e46cfc001" title="RemoteSourceGUI::handleSource\lMessages" alt="" coords="769,140,989,181"/>
+<area shape="rect" id="node8" href="$d2/d80/classRemoteSourceGUI.html#a654c4350accb18001e43af22e5872bb6" title="RemoteSourceGUI::create" alt="" coords="1337,76,1515,103"/>
+<area shape="rect" id="node9" href="$da/d51/classRemoteSourcePlugin.html#a930c94c5b29cb474212c98c631dc196b" title="RemoteSourcePlugin\l::createTxChannelGUI" alt="" coords="1563,69,1716,110"/>
+<area shape="rect" id="node10" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="1764,69,1909,110"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGDSDDemodSettings::setUseReverseApi" name="SWGSDRangel::SWGDSDDemodSettings::setUseReverseApi">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a6fad6562efe3b8e47b23da8db79aea2f" title="DSDDemod::webapiFormatChannel\lSettings" alt="" coords="279,64,509,105"/>
+<area shape="rect" id="node3" href="$d6/d40/classDSDDemod.html#a51399ab32591ea82cddfa41429b5f1fd" title="DSDDemod::webapiSettingsGet" alt="" coords="557,42,768,69"/>
+<area shape="rect" id="node12" href="$d6/d40/classDSDDemod.html#a4a302f412cfb13a8e810d1944d07fe79" title="DSDDemod::webapiSettings\lPutPatch" alt="" coords="567,93,758,135"/>
+<area shape="rect" id="node4" href="$d6/d40/classDSDDemod.html#abab2f2e503443588368023c56dd0daf5" title="DSDDemod::getMagSqLevels" alt="" coords="816,71,1015,98"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a79fee02ef629c7f1fd556d0237060619" title="DSDDemodGUI::tick" alt="" coords="1105,13,1251,39"/>
+<area shape="rect" id="node10" href="$d6/d40/classDSDDemod.html#a5a54c041f499b9bcc3885b938ec4c234" title="DSDDemod::webapiFormatChannel\lReport" alt="" coords="1063,64,1293,105"/>
+<area shape="rect" id="node6" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="1341,13,1561,39"/>
+<area shape="rect" id="node7" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1609,13,1771,39"/>
+<area shape="rect" id="node8" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1819,5,2009,47"/>
+<area shape="rect" id="node9" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="2057,13,2248,39"/>
+<area shape="rect" id="node11" href="$d6/d40/classDSDDemod.html#a5e75d3255f92671186337e36c45525c0" title="DSDDemod::webapiReportGet" alt="" coords="1350,101,1553,127"/>
+</map>

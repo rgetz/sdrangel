@@ -1,0 +1,11 @@
+<map id="qtwebapp::LoggerWithFile::setConsoleMinMessageLevel" name="qtwebapp::LoggerWithFile::setConsoleMinMessageLevel">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#adc2dccf373007aa758c31ce89ec6c1be" title="MainCore::setLoggingOptions" alt="" coords="264,71,459,98"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#adbc8f1fc6871dc34d3eb3c9505ed88f2" title="MainWindow::setLoggingOptions" alt="" coords="255,159,468,186"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ac74532b6e04c01331cf393167e7f2ea1" title="WebAPIAdapterSrv::instance\lLoggingPut" alt="" coords="518,5,711,47"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="535,71,694,98"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="780,71,923,98"/>
+<area shape="rect" id="node7" href="$d7/de5/classWebAPIAdapterGUI.html#a07ecf199328eadb36a298edc75dfd16f" title="WebAPIAdapterGUI::instance\lLoggingPut" alt="" coords="516,123,713,164"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="526,189,703,215"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7a10dbf6f80e372e7b2f093132989828" title="MainWindow::on_action\l_Logging_triggered" alt="" coords="534,240,695,281"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="761,189,941,215"/>
+</map>

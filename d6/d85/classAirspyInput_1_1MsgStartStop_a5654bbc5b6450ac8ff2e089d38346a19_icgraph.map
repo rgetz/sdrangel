@@ -1,0 +1,7 @@
+<map id="AirspyInput::MsgStartStop::create" name="AirspyInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d3/d89/classAirspyGui.html#a355c42706db231cc67dc0bf43545cb33" title="AirspyGui::on_startStop\l_toggled" alt="" coords="229,5,391,47"/>
+<area shape="rect" id="node3" href="$d9/d02/classAirspyInput.html#a553f900458db978925cdd6d46383c5ee" title="AirspyInput::webapiRun" alt="" coords="229,71,391,98"/>
+<area shape="rect" id="node4" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="439,71,632,98"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="680,35,859,76"/>
+<area shape="rect" id="node6" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="907,71,1104,98"/>
+</map>

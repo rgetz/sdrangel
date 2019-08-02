@@ -1,0 +1,10 @@
+<map id="qrtplib::RTCPSDESInfo::SetCNAME" name="qrtplib::RTCPSDESInfo::SetCNAME">
+<area shape="rect" id="node2" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a708126c3276ae4b29ad153350b793d8e" title="qrtplib::RTCPPacketBuilder\l::Init" alt="" coords="215,5,397,47"/>
+<area shape="rect" id="node6" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#acf8fae9fb81ec6f65cf1e8d92556d006" title="qrtplib::RTPInternalSource\lData::ProcessSDESItem" alt="" coords="218,71,394,112"/>
+<area shape="rect" id="node3" href="$db/d64/classqrtplib_1_1RTPSession.html#a1a500524e11972feb88b4a3aa528f43d" title="qrtplib::RTPSession\l::InternalCreate" alt="" coords="467,5,606,47"/>
+<area shape="rect" id="node4" href="$db/d64/classqrtplib_1_1RTPSession.html#af395df007a4f3422d56bc8e4fc0af973" title="qrtplib::RTPSession\l::Create" alt="" coords="716,5,855,47"/>
+<area shape="rect" id="node5" href="$de/df9/classRTPSink.html#a0f8293af155857b9347f5fb15095f23b" title="RTPSink::RTPSink" alt="" coords="948,13,1084,39"/>
+<area shape="rect" id="node7" href="$d1/dd1/classqrtplib_1_1RTPSources.html#aecf109af349918f75b9adfe87f1fc8ce" title="qrtplib::RTPSources\l::ProcessSDESNormalItem" alt="" coords="445,71,628,112"/>
+<area shape="rect" id="node8" href="$d1/dd1/classqrtplib_1_1RTPSources.html#af20131177c76386528a0f7e90685d376" title="qrtplib::RTPSources\l::ProcessRTCPCompoundPacket" alt="" coords="676,71,895,112"/>
+<area shape="rect" id="node9" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a61e3ca0645a30fadd38ab89dd4c26622" title="qrtplib::RTPSources\l::ProcessRawPacket" alt="" coords="943,71,1089,112"/>
+</map>

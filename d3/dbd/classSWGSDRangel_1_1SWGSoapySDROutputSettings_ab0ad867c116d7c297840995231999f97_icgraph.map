@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGSoapySDROutputSettings::getDcCorrection" name="SWGSDRangel::SWGSoapySDROutputSettings::getDcCorrection">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#a830e56d5a6201dff77980146facc7f1b" title="SoapySDROutput::webapiFormat\lDeviceSettings" alt="" coords="316,5,533,47"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#a9ba73bb82c6f6160df5eb29ac5bb52a0" title="SoapySDROutput::webapiSettings\lPutPatch" alt="" coords="596,64,820,105"/>
+<area shape="rect" id="node5" href="$d8/df3/classSoapySDROutput.html#a0105376585621299dc7a17ef815082dd" title="SoapySDROutput::webapiReverse\lSendSettings" alt="" coords="312,123,537,164"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#abced079c5eae670a438387c248e19adc" title="SoapySDROutput::webapiSettingsGet" alt="" coords="585,13,831,39"/>
+<area shape="rect" id="node6" href="$d8/df3/classSoapySDROutput.html#a80b759741784dcb5b4988bbb9abbf22d" title="SoapySDROutput::applySettings" alt="" coords="601,130,815,157"/>
+<area shape="rect" id="node7" href="$d8/df3/classSoapySDROutput.html#a499eb128e98c2f4ddd17a09edc94bb02" title="SoapySDROutput::handleMessage" alt="" coords="879,79,1105,106"/>
+<area shape="rect" id="node8" href="$d8/df3/classSoapySDROutput.html#a9bd194a9c2f302645ed73ad44ad883d4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="916,130,1068,157"/>
+<area shape="rect" id="node9" href="$d8/df3/classSoapySDROutput.html#a593ac84bfa00ca3357404b198f18cd74" title="SoapySDROutput::stop" alt="" coords="912,181,1072,207"/>
+<area shape="rect" id="node10" href="$d8/df3/classSoapySDROutput.html#ac2e1070ac6e19853e92af210321089b7" title="SoapySDROutput::closeDevice" alt="" coords="1153,155,1360,182"/>
+<area shape="rect" id="node11" href="$d8/df3/classSoapySDROutput.html#a0effaa6146ad3377c709cbec5810cf6a" title="SoapySDROutput::~SoapySDROutput" alt="" coords="1408,181,1656,207"/>
+</map>

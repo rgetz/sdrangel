@@ -1,0 +1,188 @@
+<map id="LocalInput::handleMessage" name="LocalInput::handleMessage">
+<area shape="rect" id="node2" href="$d8/d47/classLocalInput.html#ad33a3fb9846a5afc48ec1c3526499b9b" title="LocalInput::applySettings" alt="" coords="255,4335,425,4361"/>
+<area shape="rect" id="node51" href="$da/d2c/classFileRecord.html#a6c435c2d3fb404040f0553da334a522e" title="FileRecord::genUniqueFileName" alt="" coords="235,4773,445,4800"/>
+<area shape="rect" id="node57" href="$da/d2c/classFileRecord.html#a713c81bf6c447fe61c6b178096241da2" title="FileRecord::setFileName" alt="" coords="500,4824,667,4851"/>
+<area shape="rect" id="node58" href="$dd/db6/classDeviceAPI.html#ae33fa207df2abdfb340ca4f46bfec1f1" title="Return the current device engine unique ID. " alt="" coords="252,4875,428,4901"/>
+<area shape="rect" id="node62" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a532374538eb37bdad6ebea0ec5e94f13" title="LocalInput::MsgConfigure\lLocalInput::getForce" alt="" coords="255,4926,425,4967"/>
+<area shape="rect" id="node63" href="$d6/d28/classMessage.html#a607a4adf44d727623cc9eaf8bdadd91a" title="Message::getIdentifier" alt="" coords="1058,2865,1209,2892"/>
+<area shape="rect" id="node64" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a3b1ed6cfa2bd174e048b7b61e5bab887" title="LocalInput::MsgConfigure\lLocalInput::getSettings" alt="" coords="255,4991,425,5033"/>
+<area shape="rect" id="node65" href="$d7/d3b/classLocalInput_1_1MsgFileRecord.html#a67bffd18c612f5763595263e67c92ef0" title="LocalInput::MsgFileRecord\l::getStartStop" alt="" coords="251,5057,429,5098"/>
+<area shape="rect" id="node66" href="$de/df5/classLocalInput_1_1MsgStartStop.html#ae8e8aed708853ed3df989ff4b49c4576" title="LocalInput::MsgStartStop\l::getStartStop" alt="" coords="255,5122,425,5163"/>
+<area shape="rect" id="node67" href="$da/d2c/classFileRecord.html#a25a033993e153abc716521e5f6655cad" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="248,3857,432,3884"/>
+<area shape="rect" id="node70" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="1074,3545,1193,3572"/>
+<area shape="rect" id="node72" href="$dd/db6/classDeviceAPI.html#a4d48d3a9a8b163b83e30aafd6825ac2e" title="Init the device engine corresponding to the stream type. " alt="" coords="1337,5684,1527,5711"/>
+<area shape="rect" id="node77" href="$dd/db6/classDeviceAPI.html#acc47c79f76f714f69088a40c5e9aeb6d" title="Start the device engine corresponding to the stream type. " alt="" coords="1332,5735,1532,5761"/>
+<area shape="rect" id="node81" href="$da/d2c/classFileRecord.html#a39491633d1dec708d0ef50ec8fb093a0" title="FileRecord::startRecording" alt="" coords="251,5188,429,5215"/>
+<area shape="rect" id="node82" href="$dd/db6/classDeviceAPI.html#a6937b1184b2839da73aa284d3c24ef02" title="Stop the device engine corresponding to the stream type. " alt="" coords="241,1989,439,2016"/>
+<area shape="rect" id="node186" href="$da/d2c/classFileRecord.html#a938cf965c8feab1d19bc2269fcfd5d92" title="FileRecord::stopRecording" alt="" coords="251,5239,429,5265"/>
+<area shape="rect" id="node187" href="$d8/d47/classLocalInput.html#a214f5a44cb678937b2f71888c0e30b14" title="LocalInput::webapiReverse\lSendStartStop" alt="" coords="493,4523,673,4565"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#ae4ba357aa335e8111fb187b96309cba4" title="Configure current device engine DSP corrections (Rx) " alt="" coords="736,3700,949,3727"/>
+<area shape="rect" id="node7" href="$d8/d47/classLocalInput.html#a116b686777cbe739c124cea2b0175b35" title="LocalInput::webapiReverse\lSendSettings" alt="" coords="493,4327,673,4369"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a65c2430d7ac74a2c112b3aa50b8d2c10" title="Configure DSP corrections. " alt="" coords="1047,3693,1219,3734"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html#acee0fcafe1b7eb91dd7ff9a11bb5359a" title="Configure source DSP corrections. " alt="" coords="1050,3627,1217,3669"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1357,3635,1507,3661"/>
+<area shape="rect" id="node8" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa9e8c4f37cc72d44aa9976e4986c4561" title="SWGSDRangel::SWGDeviceSettings\l::setDirection" alt="" coords="721,4490,964,4531"/>
+<area shape="rect" id="node9" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a13bb17c9c39e7e53427daed4b3a55c93" title="SWGSDRangel::SWGDeviceSettings\l::setOriginatorIndex" alt="" coords="721,4555,964,4597"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html#a5d645b04a7e857affab1cef8fd54ac77" title="DeviceAPI::getDeviceSetIndex" alt="" coords="741,4621,945,4648"/>
+<area shape="rect" id="node11" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a3458b2e0f0383ec80ba3bcf51aff66f1" title="SWGSDRangel::SWGDeviceSettings\l::setDeviceHwType" alt="" coords="721,4359,964,4401"/>
+<area shape="rect" id="node12" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aade4afbe0528bc78c3586b094771f6dc" title="SWGSDRangel::SWGDeviceSettings\l::setLocalInputSettings" alt="" coords="721,4098,964,4139"/>
+<area shape="rect" id="node13" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ade8accdfd026639287b166e788c6f54e" title="SWGSDRangel::SWGDeviceSettings\l::getLocalInputSettings" alt="" coords="721,4163,964,4205"/>
+<area shape="rect" id="node14" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a85aba3988afe08f26ead59c044cb893e" title="SWGSDRangel::SWGLocalInput\lSettings::setDcBlock" alt="" coords="735,4229,950,4270"/>
+<area shape="rect" id="node15" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a19d11ed43f0cd42a4f28938bfeb73d8c" title="SWGSDRangel::SWGLocalInput\lSettings::setIqCorrection" alt="" coords="735,4294,950,4335"/>
+<area shape="rect" id="node16" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#acb86c588176e054f2d050f4a62b81d65" title="SWGSDRangel::SWGLocalInput\lSettings::setFileRecordName" alt="" coords="735,4033,950,4074"/>
+<area shape="rect" id="node17" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae5eac5b8987ae23686f31a6fd502bb67" title="SWGSDRangel::SWGDeviceSettings\l::asJson" alt="" coords="721,4425,964,4466"/>
+<area shape="rect" id="node18" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae8aa4ed584a5c98577e006d35931ff05" title="SWGSDRangel::SWGDeviceSettings\l::asJsonObject" alt="" coords="1012,4606,1255,4647"/>
+<area shape="rect" id="node19" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1335,4521,1529,4548"/>
+<area shape="rect" id="node21" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a9d505d4ab2013b25f935ca1a056c7be1" title="SWGSDRangel::SWGAirspySettings\l::isSet" alt="" coords="1313,4573,1551,4614"/>
+<area shape="rect" id="node22" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#aa635ca9386dbc89d79f95de831e8116d" title="SWGSDRangel::SWGAirspyHFSettings\l::isSet" alt="" coords="1303,4638,1561,4679"/>
+<area shape="rect" id="node23" href="$d3/d73/classSWGSDRangel_1_1SWGBladeRF1InputSettings.html#aa977046b9d162de88fe2448e622d1259" title="SWGSDRangel::SWGBladeRF1\lInputSettings::isSet" alt="" coords="1326,4703,1538,4745"/>
+<area shape="rect" id="node24" href="$d5/da3/classSWGSDRangel_1_1SWGBladeRF2InputSettings.html#a159871a0ee376d9c264a748cc259ba32" title="SWGSDRangel::SWGBladeRF2\lInputSettings::isSet" alt="" coords="1326,4769,1538,4810"/>
+<area shape="rect" id="node25" href="$dc/d98/classSWGSDRangel_1_1SWGBladeRF1OutputSettings.html#ab1f50f493d2f82fc1c4e6aab6115863e" title="SWGSDRangel::SWGBladeRF1\lOutputSettings::isSet" alt="" coords="1326,4834,1538,4875"/>
+<area shape="rect" id="node26" href="$d7/d6b/classSWGSDRangel_1_1SWGBladeRF2OutputSettings.html#a32af5ca989fac2fb096a74579dc32ce0" title="SWGSDRangel::SWGBladeRF2\lOutputSettings::isSet" alt="" coords="1326,4899,1538,4941"/>
+<area shape="rect" id="node27" href="$d2/dfa/classSWGSDRangel_1_1SWGFCDProSettings.html#ad21cf14eaf600906811fd85e3d6d3b82" title="SWGSDRangel::SWGFCDProSettings\l::isSet" alt="" coords="1307,4965,1557,5006"/>
+<area shape="rect" id="node28" href="$d9/dae/classSWGSDRangel_1_1SWGFCDProPlusSettings.html#a91a1d480ba60b5d6d134a81bf6d4bba2" title="SWGSDRangel::SWGFCDProPlus\lSettings::isSet" alt="" coords="1318,5030,1546,5071"/>
+<area shape="rect" id="node29" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#aa7cb2defaa87a8c7cd2da5b38ac91e74" title="SWGSDRangel::SWGFileInput\lSettings::isSet" alt="" coords="1330,5095,1534,5137"/>
+<area shape="rect" id="node30" href="$d1/d60/classSWGSDRangel_1_1SWGHackRFInputSettings.html#ad501da19e95542a9997e129d5d014455" title="SWGSDRangel::SWGHackRFInput\lSettings::isSet" alt="" coords="1316,5161,1548,5202"/>
+<area shape="rect" id="node31" href="$d6/dda/classSWGSDRangel_1_1SWGHackRFOutputSettings.html#a51654583cb988aa53db012e08c83b6f4" title="SWGSDRangel::SWGHackRFOutput\lSettings::isSet" alt="" coords="1311,5226,1553,5267"/>
+<area shape="rect" id="node32" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a0b86462661842e88d3fc21902d56106a" title="SWGSDRangel::SWGKiwiSDRSettings\l::isSet" alt="" coords="1304,5291,1560,5333"/>
+<area shape="rect" id="node33" href="$de/d36/classSWGSDRangel_1_1SWGLimeSdrInputSettings.html#aa9622ba290ccdb668705c27ff8d55848" title="SWGSDRangel::SWGLimeSdrInput\lSettings::isSet" alt="" coords="1317,5357,1547,5398"/>
+<area shape="rect" id="node34" href="$d2/d86/classSWGSDRangel_1_1SWGLimeSdrOutputSettings.html#a6c144b066083eb1ec26c1a44bcb9e323" title="SWGSDRangel::SWGLimeSdrOutput\lSettings::isSet" alt="" coords="1311,5422,1553,5463"/>
+<area shape="rect" id="node35" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a55fef4e04eea9285289ea6fd48a6f88f" title="SWGSDRangel::SWGLocalInput\lSettings::isSet" alt="" coords="1325,5487,1539,5529"/>
+<area shape="rect" id="node36" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a048d2276ce03a3ac738b09ed85137d00" title="SWGSDRangel::SWGLocalOutput\lSettings::isSet" alt="" coords="1320,5553,1544,5594"/>
+<area shape="rect" id="node37" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#acc93235430ceb94df8c994cfdf60a47b" title="SWGSDRangel::SWGPerseusSettings\l::isSet" alt="" coords="1307,5618,1557,5659"/>
+<area shape="rect" id="node38" href="$db/d8c/classSWGSDRangel_1_1SWGPlutoSdrInputSettings.html#a645471b6f8e5ae4418a57a57696aba91" title="SWGSDRangel::SWGPlutoSdr\lInputSettings::isSet" alt="" coords="1330,3737,1534,3778"/>
+<area shape="rect" id="node39" href="$d3/dba/classSWGSDRangel_1_1SWGPlutoSdrOutputSettings.html#a1d89876428c80f5d2751cf07096af0eb" title="SWGSDRangel::SWGPlutoSdr\lOutputSettings::isSet" alt="" coords="1330,3802,1534,3843"/>
+<area shape="rect" id="node40" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#abc6ce7d3c763cab292fead83709080a7" title="SWGSDRangel::SWGRtlSdrSettings\l::isSet" alt="" coords="1313,3867,1551,3909"/>
+<area shape="rect" id="node41" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a3fde55e8e7fccbbe1ca88ee670c4fb2a" title="SWGSDRangel::SWGRemoteOutput\lSettings::isSet" alt="" coords="1313,3933,1551,3974"/>
+<area shape="rect" id="node42" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a1d072fc83117abf36dd449846641568b" title="SWGSDRangel::SWGRemoteInput\lSettings::isSet" alt="" coords="1317,3998,1547,4039"/>
+<area shape="rect" id="node43" href="$db/dd9/classSWGSDRangel_1_1SWGSDRPlaySettings.html#a1b2530d906528145fb70bedb1abe1d4a" title="SWGSDRangel::SWGSDRPlaySettings\l::isSet" alt="" coords="1303,4063,1561,4105"/>
+<area shape="rect" id="node44" href="$de/d42/classSWGSDRangel_1_1SWGSoapySDRInputSettings.html#aaa174a13c5d1ff7ade8a8f936b300a95" title="SWGSDRangel::SWGSoapySDRInput\lSettings::isSet" alt="" coords="1307,4129,1557,4170"/>
+<area shape="rect" id="node46" href="$d3/dbd/classSWGSDRangel_1_1SWGSoapySDROutputSettings.html#a4d1deab15b156d4f8c390a23b7fe798f" title="SWGSDRangel::SWGSoapySDROutput\lSettings::isSet" alt="" coords="1303,4194,1561,4235"/>
+<area shape="rect" id="node47" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a09fc1706d0e44a3948b4432af22a417c" title="SWGSDRangel::SWGTestSource\lSettings::isSet" alt="" coords="1321,4259,1543,4301"/>
+<area shape="rect" id="node48" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a4db3b2c4b1cc773ae1814db0d54713c6" title="SWGSDRangel::SWGTestMISettings\l::isSet" alt="" coords="1311,4325,1553,4366"/>
+<area shape="rect" id="node49" href="$d3/d55/classSWGSDRangel_1_1SWGXtrxInputSettings.html#a9082fc187cb345df0e848c5abe93e3df" title="SWGSDRangel::SWGXtrxInput\lSettings::isSet" alt="" coords="1329,4390,1535,4431"/>
+<area shape="rect" id="node50" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#ae15bdef1370707afbd11d2aed5fe94d1" title="SWGSDRangel::SWGXtrxOutput\lSettings::isSet" alt="" coords="1323,4455,1541,4497"/>
+<area shape="rect" id="node20" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1619,4514,1811,4555"/>
+<area shape="rect" id="node45" href="$d9/d74/classSWGSDRangel_1_1SWGComplex.html#a7b7595061a18780b40e7a0d90e747879" title="SWGSDRangel::SWGComplex\l::isSet" alt="" coords="1612,4162,1819,4203"/>
+<area shape="rect" id="node52" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="563,4773,603,4800"/>
+<area shape="rect" id="node53" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="789,5756,897,5783"/>
+<area shape="rect" id="node54" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1059,5807,1207,5849"/>
+<area shape="rect" id="node55" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1373,5785,1491,5812"/>
+<area shape="rect" id="node56" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1365,5837,1499,5878"/>
+<area shape="rect" id="node59" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae2f0ad2bba3f345cbea514bf3987692f" title="DSPDeviceSourceEngine\l::getUID" alt="" coords="497,4875,669,4917"/>
+<area shape="rect" id="node60" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="505,4941,662,4982"/>
+<area shape="rect" id="node61" href="$df/d80/classDSPDeviceMIMOEngine.html#a1318397d3a332701b65af3a78e883eb1" title="DSPDeviceMIMOEngine\l::getUID" alt="" coords="500,5006,667,5047"/>
+<area shape="rect" id="node68" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="507,3817,659,3858"/>
+<area shape="rect" id="node69" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="507,3882,659,3923"/>
+<area shape="rect" id="node71" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1347,3685,1517,3712"/>
+<area shape="rect" id="node73" href="$d2/d3b/classDSPDeviceSourceEngine.html#ab40fb48a4c3546b8373a4291e13170f8" title="Initialize acquisition sequence. " alt="" coords="1629,5531,1801,5573"/>
+<area shape="rect" id="node75" href="$d1/d90/classDSPDeviceSinkEngine.html#aec54cb91ddce042fc13339ef0e2dacca" title="Initialize generation sequence. " alt="" coords="1637,5597,1794,5638"/>
+<area shape="rect" id="node76" href="$df/d80/classDSPDeviceMIMOEngine.html#a95345c68f40019675b9172a7aa413eb3" title="Initialize process sequence. " alt="" coords="1632,5466,1799,5507"/>
+<area shape="rect" id="node74" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1893,5539,2072,5565"/>
+<area shape="rect" id="node78" href="$d2/d3b/classDSPDeviceSourceEngine.html#abdd7cdf5dd0c8f72d9df8cf297f81daf" title="Start acquisition sequence. " alt="" coords="1629,5662,1801,5703"/>
+<area shape="rect" id="node79" href="$d1/d90/classDSPDeviceSinkEngine.html#aa21be935df8b33556394cc04689e28fa" title="Start generation sequence. " alt="" coords="1637,5727,1794,5769"/>
+<area shape="rect" id="node80" href="$df/d80/classDSPDeviceMIMOEngine.html#a0b1e01d56713a2ad4c43e42fe8dd288a" title="Start process sequence. " alt="" coords="1632,5793,1799,5834"/>
+<area shape="rect" id="node83" href="$d2/d3b/classDSPDeviceSourceEngine.html#a737b5d3b935a3e8767169ab14c3b8f12" title="Stop acquisition sequence. " alt="" coords="497,2014,669,2055"/>
+<area shape="rect" id="node119" href="$d1/d90/classDSPDeviceSinkEngine.html#a97b18602f454dd11de679f0a5edfd947" title="Stop generation sequence. " alt="" coords="505,1883,662,1925"/>
+<area shape="rect" id="node148" href="$df/d80/classDSPDeviceMIMOEngine.html#ab8ecad9d93142e03f01c943859531f85" title="Stop process sequence. " alt="" coords="500,1949,667,1990"/>
+<area shape="rect" id="node84" href="$d2/d3b/classDSPDeviceSourceEngine.html#aeeed84297dcbd233cb9988cb8844559c" title="Handle synchronous messages with the thread. " alt="" coords="741,3099,945,3141"/>
+<area shape="rect" id="node118" href="$d8/d92/classSyncMessenger.html#a21e94c776036348e91eef2d2018821ea" title="SyncMessenger::storeMessage" alt="" coords="739,1897,946,1924"/>
+<area shape="rect" id="node85" href="$d8/d92/classSyncMessenger.html#ae1d684dcbaa4317333b8151bc67b2a23" title="Processing of the message is complete. " alt="" coords="1057,1665,1209,1692"/>
+<area shape="rect" id="node86" href="$d8/d92/classSyncMessenger.html#a9012f582cd14f4e5ee5bcb4fbb8be262" title="SyncMessenger::getMessage" alt="" coords="1036,1956,1231,1983"/>
+<area shape="rect" id="node87" href="$d2/d3b/classDSPDeviceSourceEngine.html#a207f0a2634180733be8bd3f706ccf7fb" title="Go to the idle state. " alt="" coords="1346,3125,1518,3166"/>
+<area shape="rect" id="node89" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7ba8affb3855c406d58e9530032a98f6" title="Go to the acquisition init state from idle. " alt="" coords="1047,3449,1219,3490"/>
+<area shape="rect" id="node97" href="$d2/d3b/classDSPDeviceSourceEngine.html#adc8c3c04af6066c7a52e4a532e9f1f87" title="Go to the running state from ready state. " alt="" coords="1047,3383,1219,3425"/>
+<area shape="rect" id="node100" href="$d8/df9/classBasebandSampleSink.html#a853e6d818c16dd2ff7cacb804985a3f5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1357,2830,1507,2871"/>
+<area shape="rect" id="node101" href="$d2/d3b/classDSPDeviceSourceEngine.html#a5079230a9a049ef88c0f2ff71cfe23d2" title="Manage source setting. " alt="" coords="1047,3318,1219,3359"/>
+<area shape="rect" id="node113" href="$d4/dc7/classThreadedBasebandSampleSink.html#a7303c5d71d53121b74f855d54565bbd9" title="Send message to sink synchronously. " alt="" coords="1031,3034,1235,3075"/>
+<area shape="rect" id="node114" href="$d8/df9/classBasebandSampleSink.html#a1af3f8da8e09403597162eb8d6a6b507" title="BasebandSampleSink\l::start" alt="" coords="1357,2765,1507,2806"/>
+<area shape="rect" id="node115" href="$d4/dc7/classThreadedBasebandSampleSink.html#ad4ede4f7cefe69d3833ed73be8d1485a" title="this thread start() " alt="" coords="1031,2917,1235,2958"/>
+<area shape="rect" id="node116" href="$d8/df9/classBasebandSampleSink.html#a665f67a1de7bc13b747c2378c2a61aa2" title="BasebandSampleSink\l::stop" alt="" coords="1640,3007,1791,3049"/>
+<area shape="rect" id="node117" href="$d4/dc7/classThreadedBasebandSampleSink.html#af2e87513e2bca2058af886840e0fe897" title="this thread exit() and wait() " alt="" coords="1031,3099,1235,3141"/>
+<area shape="rect" id="node88" href="$db/d0c/classDeviceSampleSource.html#a8517c32bb7ed3f6a2152ca1bfda600d0" title="DeviceSampleSource\l::stop" alt="" coords="1641,3125,1789,3166"/>
+<area shape="rect" id="node90" href="$db/d0c/classDeviceSampleSource.html#a2e8d4bdd0a614b9dda08f432c36539d3" title="Center frequency exposed by the source. " alt="" coords="1358,3569,1506,3610"/>
+<area shape="rect" id="node91" href="$db/d0c/classDeviceSampleSource.html#aaf223a94f1217ba743218b80497d0887" title="DeviceSampleSource\l::getDeviceDescription" alt="" coords="1355,3242,1509,3283"/>
+<area shape="rect" id="node92" href="$db/d0c/classDeviceSampleSource.html#a4cd7f5373d858fc4c2e4031a6efe437b" title="DeviceSampleSource\l::getMessageQueueToGUI" alt="" coords="1343,3438,1521,3479"/>
+<area shape="rect" id="node93" href="$db/d0c/classDeviceSampleSource.html#a0b8a46a1b16b9bbd71664e920469a2c2" title="Sample rate exposed by the source. " alt="" coords="1358,3503,1506,3545"/>
+<area shape="rect" id="node94" href="$d2/d3b/classDSPDeviceSourceEngine.html#a6a5c8f6c12d51fe06747f002b20fe7f0" title="Go to an error state. " alt="" coords="1346,3373,1518,3414"/>
+<area shape="rect" id="node95" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="1629,3750,1801,3791"/>
+<area shape="rect" id="node96" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="1907,3718,2059,3759"/>
+<area shape="rect" id="node98" href="$d3/df0/classMessageQueue.html#a5e33dfed57d8ee0e73a2bab5faecec36" title="Returns queue size. " alt="" coords="1910,1420,2055,1447"/>
+<area shape="rect" id="node99" href="$db/d0c/classDeviceSampleSource.html#a9e288ea7007be5b62482e6b275209cd2" title="DeviceSampleSource\l::start" alt="" coords="1358,3307,1506,3349"/>
+<area shape="rect" id="node102" href="$db/d0c/classDeviceSampleSource.html#a00ee13de803e88ab350d1af5bcfa86ff" title="DeviceSampleSource\l::getSampleFifo" alt="" coords="1909,3099,2057,3141"/>
+<area shape="rect" id="node103" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae99c5b32d4830da379ea68caf838d3b0" title="Handle data when samples from source FIFO are ready to be processed. " alt="" coords="1346,2895,1518,2937"/>
+<area shape="rect" id="node104" href="$d2/d3b/classDSPDeviceSourceEngine.html#a855abe95933f8e5de1fd38de0bfafbf0" title="transfer samples from source to sinks if in running state " alt="" coords="1629,1262,1801,1303"/>
+<area shape="rect" id="node105" href="$d0/d92/classSampleSinkFifo.html#aa737d60305d788b236e71544aba09903" title="SampleSinkFifo::fill" alt="" coords="1915,1185,2050,1212"/>
+<area shape="rect" id="node106" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7d03cc92dd6ad2a506b9bd75147a4559" title="DSPDeviceSourceEngine\l::iqCorrections" alt="" coords="1897,1354,2069,1395"/>
+<area shape="rect" id="node111" href="$d0/d92/classSampleSinkFifo.html#a463a72cc744df8d8a706b82f6101fac9" title="SampleSinkFifo::readBegin" alt="" coords="1893,1303,2073,1329"/>
+<area shape="rect" id="node112" href="$d0/d92/classSampleSinkFifo.html#a754930ac8ee8be021182e0ba0319e909" title="SampleSinkFifo::readCommit" alt="" coords="1886,1111,2079,1137"/>
+<area shape="rect" id="node107" href="$dd/d7b/classFixed.html#af24e1f2ac3b1eb7b90215562a10fd015" title="Fixed::as_internal" alt="" coords="2151,1299,2277,1325"/>
+<area shape="rect" id="node108" href="$d2/d81/classMovingAverageUtil.html#a387f7f6ee4d247551f44f59cb432d87a" title="MovingAverageUtil::\lasDouble" alt="" coords="2144,1354,2284,1395"/>
+<area shape="rect" id="node109" href="$dd/d58/fixed_8h.html#a112464e01c9263c3bbffc0856583e1bc" title="sqrt" alt="" coords="2192,1247,2236,1273"/>
+<area shape="rect" id="node110" href="$dd/d7b/classFixed.html#aafa1d6d4ce5959ddedcf20ec16a2fa3d" title="Fixed::sqrt" alt="" coords="2332,1247,2416,1273"/>
+<area shape="rect" id="node120" href="$d1/d90/classDSPDeviceSinkEngine.html#a0a53ef12c4e8837950ba95525cdbb969" title="Handle synchronous messages with the thread. " alt="" coords="741,711,945,753"/>
+<area shape="rect" id="node121" href="$d1/d90/classDSPDeviceSinkEngine.html#aba0750f4027cdd15e492bb337dc47e5f" title="DSPDeviceSinkEngine\l::checkNumberOfBasebandSources" alt="" coords="1018,86,1249,127"/>
+<area shape="rect" id="node127" href="$d1/d90/classDSPDeviceSinkEngine.html#a81947b9a592cdce1296cf78b3a9bf651" title="Go to the idle state. " alt="" coords="1353,391,1511,433"/>
+<area shape="rect" id="node132" href="$d1/d90/classDSPDeviceSinkEngine.html#a1d085216946cf7c38384320da06ad910" title="Go to the acquisition init state from idle. " alt="" coords="1055,310,1212,351"/>
+<area shape="rect" id="node139" href="$d1/d90/classDSPDeviceSinkEngine.html#a15e6406d7c4f8c0dc3e4c7e890c86929" title="Go to the running state from ready state. " alt="" coords="1055,842,1212,883"/>
+<area shape="rect" id="node141" href="$d9/dfb/classBasebandSampleSource.html#a7f21a56c91437fe1ccaf401db23d80c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1349,522,1515,563"/>
+<area shape="rect" id="node142" href="$d1/d90/classDSPDeviceSinkEngine.html#a73fbadf7ab84903ce57370dab442efaa" title="Manage sink setting. " alt="" coords="1055,375,1212,417"/>
+<area shape="rect" id="node143" href="$da/df6/classThreadedBasebandSampleSource.html#ab2a2d6175bf679a9b7434949deb17071" title="Send message to source synchronously. " alt="" coords="1024,594,1243,635"/>
+<area shape="rect" id="node144" href="$d9/dfb/classBasebandSampleSource.html#a12b9274e3ae28a0b95f06d16127cf8c0" title="BasebandSampleSource\l::start" alt="" coords="1349,587,1515,629"/>
+<area shape="rect" id="node145" href="$da/df6/classThreadedBasebandSampleSource.html#a82a59b29d80a89368ad1da2a8abfede1" title="this thread start() " alt="" coords="1024,711,1243,753"/>
+<area shape="rect" id="node146" href="$d9/dfb/classBasebandSampleSource.html#a0d3a8ca00bd8b27eea222d0aedd579f4" title="BasebandSampleSource\l::stop" alt="" coords="1349,653,1515,694"/>
+<area shape="rect" id="node147" href="$da/df6/classThreadedBasebandSampleSource.html#a70f38f8f8410e3bec72c5cbd4145051c" title="this thread exit() and wait() " alt="" coords="1024,777,1243,818"/>
+<area shape="rect" id="node122" href="$d9/d18/classDeviceSampleSink.html#a97947483187a6743c8f9d886dcbaf924" title="DeviceSampleSink::getSampleFifo" alt="" coords="1870,373,2095,400"/>
+<area shape="rect" id="node123" href="$d1/d90/classDSPDeviceSinkEngine.html#a4828e516d752e0e01625b42d89be1508" title="Handle data when samples have to be written to the sample FIFO. " alt="" coords="1353,27,1511,69"/>
+<area shape="rect" id="node124" href="$d1/d90/classDSPDeviceSinkEngine.html#a517808fdc4111c29d63268886e3fee97" title="transfer samples from beseband sources to sink if in running state " alt="" coords="1637,27,1794,69"/>
+<area shape="rect" id="node125" href="$d6/d8d/classSampleSourceFifo.html#a5f1030edeaeaaedd9d45b951b0fe00ec" title="copy current item to second buffer and bump write index &#45; write phase 2 " alt="" coords="1882,5,2083,32"/>
+<area shape="rect" id="node126" href="$d6/d8d/classSampleSourceFifo.html#abe5871195f1440373a2ddd0093d93ec4" title="get iterator to current item for update &#45; write phase 1 " alt="" coords="1889,57,2076,98"/>
+<area shape="rect" id="node128" href="$d1/d90/classDSPDeviceSinkEngine.html#ac331a6101aa883c3be25f55504643994" title="DSPDeviceSinkEngine\l::handleForwardToSpectrumSink" alt="" coords="1609,770,1821,811"/>
+<area shape="rect" id="node131" href="$d9/d18/classDeviceSampleSink.html#a017deed5527f75e0f237b77c0fda7e7f" title="DeviceSampleSink::stop" alt="" coords="1632,424,1799,451"/>
+<area shape="rect" id="node129" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="1907,914,2058,955"/>
+<area shape="rect" id="node130" href="$d6/d8d/classSampleSourceFifo.html#aeadaa048b08fa955503905bfc46eed30" title="get iterator past the last sample of a read advance operation (i.e. current read iterator) ..." alt="" coords="1889,810,2076,851"/>
+<area shape="rect" id="node133" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="1333,261,1531,302"/>
+<area shape="rect" id="node134" href="$d9/d18/classDeviceSampleSink.html#a1cf38a6b7a124b5b94a81476e74ab2ef" title="DeviceSampleSink::getDevice\lDescription" alt="" coords="1332,326,1532,367"/>
+<area shape="rect" id="node135" href="$d9/d18/classDeviceSampleSink.html#a9bd7672503185b740d3dc30259c5351a" title="DeviceSampleSink::getMessage\lQueueToGUI" alt="" coords="1326,195,1538,237"/>
+<area shape="rect" id="node136" href="$d9/d18/classDeviceSampleSink.html#a3c05e9d4359234b3999a5eda0919bbb7" title="Sample rate exposed by the sink. " alt="" coords="1317,144,1547,171"/>
+<area shape="rect" id="node137" href="$d1/d90/classDSPDeviceSinkEngine.html#a585cc77e70580b924032bab69b2e8902" title="Go to an error state. " alt="" coords="1353,457,1511,498"/>
+<area shape="rect" id="node138" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="1637,3685,1794,3726"/>
+<area shape="rect" id="node140" href="$d9/d18/classDeviceSampleSink.html#a7cef7ec01a28d64ebef503e40d36d721" title="DeviceSampleSink::start" alt="" coords="1349,820,1515,847"/>
+<area shape="rect" id="node149" href="$df/d80/classDSPDeviceMIMOEngine.html#a1816415b91330dc34628328fef89aa0b" title="Handle synchronous messages with the thread. " alt="" coords="741,1949,945,1990"/>
+<area shape="rect" id="node150" href="$d3/dae/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSource.html#aa954d0c26ec851d9ebc55fce98108f65" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSource::getIndex" alt="" coords="1029,2167,1238,2223"/>
+<area shape="rect" id="node151" href="$de/da6/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSource.html#a792b615ad025e49fa19546bf2e7af12a" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSource::getIndex" alt="" coords="1016,2247,1251,2303"/>
+<area shape="rect" id="node152" href="$d7/d66/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSink.html#aa4039fbaded1c14b8fdcaa902d84d4ca" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSink::getIndex" alt="" coords="1029,2327,1238,2383"/>
+<area shape="rect" id="node153" href="$da/d43/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSink.html#a6e64092bc8b754a55c7a5af5b05220a1" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSink::getIndex" alt="" coords="1016,2473,1251,2529"/>
+<area shape="rect" id="node154" href="$df/d0b/classDSPDeviceMIMOEngine_1_1AddBasebandSampleSink.html#a6bd83f0f29b97b01c75c9db52bc60f92" title="DSPDeviceMIMOEngine\l::AddBasebandSampleSink\l::getIndex" alt="" coords="1043,2553,1224,2609"/>
+<area shape="rect" id="node155" href="$db/d22/classDSPDeviceMIMOEngine_1_1RemoveBasebandSampleSink.html#a70482559e3e65adc12964942c81a2050" title="DSPDeviceMIMOEngine\l::RemoveBasebandSampleSink\l::getIndex" alt="" coords="1030,2633,1237,2689"/>
+<area shape="rect" id="node156" href="$d2/d3e/classDSPDeviceMIMOEngine_1_1SetSpectrumSinkInput.html#ab6dbd8641151380bc0e5ef3da9f56bfe" title="DSPDeviceMIMOEngine\l::SetSpectrumSinkInput\l::getIndex" alt="" coords="1050,1141,1217,1197"/>
+<area shape="rect" id="node157" href="$df/d0b/classDSPDeviceMIMOEngine_1_1AddBasebandSampleSink.html#a61fa85d7477f099f2a4942b0d68ef90c" title="DSPDeviceMIMOEngine\l::AddBasebandSampleSink\l::getSampleSink" alt="" coords="1043,1221,1224,1277"/>
+<area shape="rect" id="node158" href="$d1/d50/classDeviceSampleMIMO.html#a69f185ba95d41abac2e9ade32fdfb124" title="Get Tx FIFO at index. " alt="" coords="1325,1023,1539,1065"/>
+<area shape="rect" id="node159" href="$d1/d50/classDeviceSampleMIMO.html#ad332bbdc0f42ef7d21cbd95c61b049ec" title="Center frequency exposed by the sink at index. " alt="" coords="1036,1302,1231,1343"/>
+<area shape="rect" id="node160" href="$d1/d50/classDeviceSampleMIMO.html#a3b9f68cf872fe59059b7808cd5038478" title="Sample rate exposed by the sink at index. " alt="" coords="1036,1433,1231,1474"/>
+<area shape="rect" id="node161" href="$d1/d50/classDeviceSampleMIMO.html#aaa6e2ee052e2eb68e1689cc7eb95b4e3" title="Center frequency exposed by the source at index. " alt="" coords="1327,1607,1537,1649"/>
+<area shape="rect" id="node162" href="$d2/d3e/classDSPDeviceMIMOEngine_1_1SetSpectrumSinkInput.html#aaf6f9f748976cd77e09fd9123545e70c" title="DSPDeviceMIMOEngine\l::SetSpectrumSinkInput\l::getSourceElseSink" alt="" coords="1050,1716,1217,1772"/>
+<area shape="rect" id="node163" href="$d1/d50/classDeviceSampleMIMO.html#a50d01f4ba75f1fb16e8b7b3b5a60e152" title="Sample rate exposed by the source at index. " alt="" coords="1327,1673,1537,1714"/>
+<area shape="rect" id="node164" href="$d7/d66/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSink.html#a8d274676e89565dbc2785761dd72171d" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSink::getThreadedSampleSink" alt="" coords="1029,1796,1238,1852"/>
+<area shape="rect" id="node165" href="$da/d43/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSink.html#a2892634b341082927c003623ccac13e5" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSink::getThreadedSampleSink" alt="" coords="1016,1876,1251,1932"/>
+<area shape="rect" id="node166" href="$d3/dae/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSource.html#a3df12e5cd761f1d947557b7bbb558115" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSource::getThreadedSampleSource" alt="" coords="1019,2007,1247,2063"/>
+<area shape="rect" id="node167" href="$de/da6/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSource.html#a4c180ccaa902582302ae0db7a3294c1d" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSource::getThreadedSampleSource" alt="" coords="1016,2087,1251,2143"/>
+<area shape="rect" id="node168" href="$df/d80/classDSPDeviceMIMOEngine.html#a0945eafc0107e65d5747865838d96bf1" title="Go to the idle state. " alt="" coords="1050,2407,1217,2449"/>
+<area shape="rect" id="node170" href="$df/d80/classDSPDeviceMIMOEngine.html#a2b51d4730c8e8b9e9a9c70e4bc2f7628" title="Go to the acquisition init state from idle. " alt="" coords="1050,1498,1217,1539"/>
+<area shape="rect" id="node176" href="$df/d80/classDSPDeviceMIMOEngine.html#ab12610ac3b827bd22164419302b14d60" title="Go to the running state from ready state. " alt="" coords="1050,1367,1217,1409"/>
+<area shape="rect" id="node178" href="$df/d80/classDSPDeviceMIMOEngine.html#a9164e53a0d00d6c4422def418789e04f" title="DSPDeviceMIMOEngine\l::handleForwardToSpectrumSink" alt="" coords="1027,907,1239,949"/>
+<area shape="rect" id="node179" href="$df/d80/classDSPDeviceMIMOEngine.html#a6068d4791c207ce0d56f6208e9134631" title="Manage MIMO device setting. " alt="" coords="1050,1025,1217,1066"/>
+<area shape="rect" id="node169" href="$d1/d50/classDeviceSampleMIMO.html#af7071616332891eb3db1926809f81d81" title="DeviceSampleMIMO::stop" alt="" coords="1344,2415,1520,2441"/>
+<area shape="rect" id="node171" href="$d1/d50/classDeviceSampleMIMO.html#a44ae1d0b7b05d7afadf47a0783ac212d" title="DeviceSampleMIMO::getDevice\lDescription" alt="" coords="1327,1309,1537,1350"/>
+<area shape="rect" id="node172" href="$d1/d50/classDeviceSampleMIMO.html#a8ac85a2a7e85ecdd1f3437b49c45cc2b" title="Get the number of Rx FIFOs. " alt="" coords="1326,1542,1538,1583"/>
+<area shape="rect" id="node173" href="$df/d80/classDSPDeviceMIMOEngine.html#ac25396548a69672a0c46bf6491baa549" title="Go to an error state. " alt="" coords="1349,1477,1515,1518"/>
+<area shape="rect" id="node174" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="1632,2942,1799,2983"/>
+<area shape="rect" id="node175" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="1889,2935,2076,2991"/>
+<area shape="rect" id="node177" href="$d1/d50/classDeviceSampleMIMO.html#a1c8db2b5e7709dc9ca4013924e11cde3" title="DeviceSampleMIMO::start" alt="" coords="1343,1425,1521,1452"/>
+<area shape="rect" id="node180" href="$d1/d50/classDeviceSampleMIMO.html#a74b20a7a13cc826ed7003ce1f382c2de" title="Get Rx FIFO at index. " alt="" coords="1876,1045,2089,1086"/>
+<area shape="rect" id="node181" href="$df/d80/classDSPDeviceMIMOEngine.html#ad5a75f84c8307ce88c1a8b4e07879252" title="Handle data when samples have to be processed. " alt="" coords="1349,1141,1515,1182"/>
+<area shape="rect" id="node184" href="$df/d80/classDSPDeviceMIMOEngine.html#a36e9845b3694285072df1fcaedf633fc" title="DSPDeviceMIMOEngine\l::workSampleSink" alt="" coords="1632,1197,1799,1238"/>
+<area shape="rect" id="node182" href="$df/d80/classDSPDeviceMIMOEngine.html#a031186dacf3efd282e1d929a10d49d73" title="transfer samples if in running state " alt="" coords="1632,1131,1799,1173"/>
+<area shape="rect" id="node183" href="$d1/d50/classDeviceSampleMIMO.html#a92100ce4f8d788f468618c13a65d922d" title="Commodity function same as getNbSinkFifos (Rx or source streams) " alt="" coords="1869,979,2096,1021"/>
+<area shape="rect" id="node185" href="$df/d80/classDSPDeviceMIMOEngine.html#a7239d657e66761edbf38f962a65b9f3d" title="DSPDeviceMIMOEngine\l::iqCorrections" alt="" coords="1899,1237,2066,1278"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TestSourceInput::MsgConfigureTestSource::getSettings" name="TestSourceInput::MsgConfigureTestSource::getSettings">
+<area shape="rect" id="node2" href="$d2/d41/classTestSourceGui.html#adeaa72e01b6bdbfb193bfa769f518f13" title="TestSourceGui::handleMessage" alt="" coords="265,15,473,42"/>
+<area shape="rect" id="node5" href="$d9/d2b/classTestSourceInput.html#aff00c043f6fb62fc1c84b40220390c0c" title="TestSourceInput::handleMessage" alt="" coords="260,67,477,94"/>
+<area shape="rect" id="node3" href="$d2/d41/classTestSourceGui.html#a489e900b2c309a78ce41802e5e417ade" title="TestSourceGui::handleInput\lMessages" alt="" coords="541,5,725,47"/>
+<area shape="rect" id="node4" href="$d2/d41/classTestSourceGui.html#aa3f7c432f7cd67e0fcb1ca077c9ebb5e" title="TestSourceGui::TestSourceGui" alt="" coords="789,13,993,39"/>
+<area shape="rect" id="node6" href="$d9/d2b/classTestSourceInput.html#a1e8134add18d5b24f054939ffb07b5c4" title="For when the source sample rate is set externally. " alt="" coords="525,71,741,98"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="devices/plutosdr/deviceplutosdrscan.h" name="devices/plutosdr/deviceplutosdrscan.h">
+<area shape="rect" id="node2" href="$d2/db7/deviceplutosdr_8h.html" title="devices/plutosdr/deviceplutosdr.h" alt="" coords="916,251,1132,278"/>
+<area shape="rect" id="node10" href="$d1/d8c/deviceplutosdrbox_8h.html" title="devices/plutosdr/deviceplutosdrbox.h" alt="" coords="747,80,984,107"/>
+<area shape="rect" id="node11" href="$dd/da8/deviceplutosdrscan_8cpp.html" title="devices/plutosdr/deviceplutosdrscan.cpp" alt="" coords="5,162,264,189"/>
+<area shape="rect" id="node3" href="$db/dd2/deviceplutosdr_8cpp.html" title="devices/plutosdr/deviceplutosdr.cpp" alt="" coords="909,341,1139,367"/>
+<area shape="rect" id="node4" href="$d7/dce/deviceplutosdrbox_8cpp.html" title="devices/plutosdr/deviceplutosdrbox.cpp" alt="" coords="1164,341,1415,367"/>
+<area shape="rect" id="node5" href="$d7/d6f/deviceplutosdrparams_8cpp.html" title="devices/plutosdr/deviceplutosdrparams.cpp" alt="" coords="611,341,885,367"/>
+<area shape="rect" id="node6" href="$d0/dd2/plutosdroutputgui_8cpp.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutputgui.cpp" alt="" coords="1717,333,1953,375"/>
+<area shape="rect" id="node7" href="$d4/dc9/plutosdroutputplugin_8cpp.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutputplugin.cpp" alt="" coords="1439,333,1692,375"/>
+<area shape="rect" id="node8" href="$da/d34/plutosdrinputgui_8cpp.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinputgui.cpp" alt="" coords="106,333,326,375"/>
+<area shape="rect" id="node9" href="$d9/d33/plutosdrinputplugin_8cpp.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinputplugin.cpp" alt="" coords="351,333,588,375"/>
+<area shape="rect" id="node12" href="$da/d2b/plutosdroutput_8cpp.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutput.cpp" alt="" coords="1247,244,1465,285"/>
+<area shape="rect" id="node13" href="$db/dca/plutosdroutput_8h.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutput.h" alt="" coords="1423,155,1628,196"/>
+<area shape="rect" id="node15" href="$d7/de7/plutosdroutputthread_8cpp.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutputthread.cpp" alt="" coords="603,155,858,196"/>
+<area shape="rect" id="node16" href="$d6/d40/plutosdrinput_8cpp.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinput.cpp" alt="" coords="88,244,291,285"/>
+<area shape="rect" id="node17" href="$de/db2/plutosdrinput_8h.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinput.h" alt="" coords="339,155,528,196"/>
+<area shape="rect" id="node19" href="$dc/d87/plutosdrinputthread_8cpp.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinputthread.cpp" alt="" coords="882,155,1121,196"/>
+<area shape="rect" id="node14" href="$d0/d2e/plutosdroutputgui_8h.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutputgui.h" alt="" coords="1490,244,1713,285"/>
+<area shape="rect" id="node18" href="$d6/dad/plutosdrinputgui_8h.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinputgui.h" alt="" coords="366,244,573,285"/>
+</map>

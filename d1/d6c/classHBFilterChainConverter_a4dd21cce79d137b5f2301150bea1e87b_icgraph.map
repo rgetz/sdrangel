@@ -1,0 +1,14 @@
+<map id="HBFilterChainConverter::getShiftFactor" name="HBFilterChainConverter::getShiftFactor">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#a45014cb50d07973665618a24625a4c47" title="LocalSink::calculateFrequency\lOffset" alt="" coords="222,5,422,47"/>
+<area shape="rect" id="node5" href="$d9/d2e/classLocalSource.html#a23c664240c183aa104ec06f583e76e28" title="LocalSource::calculateFrequency\lOffset" alt="" coords="215,71,429,112"/>
+<area shape="rect" id="node8" href="$df/d8c/classRemoteSink.html#aebc8a5bf663bff43e25ed1e2c0fbb7bd" title="RemoteSink::calculateFrequency\lOffset" alt="" coords="215,136,429,177"/>
+<area shape="rect" id="node11" href="$d9/db6/classFileSource.html#a38546def18d443728263efd9eec92fc8" title="FileSource::calculateFrequency\lOffset" alt="" coords="219,201,425,243"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#ab1f0a9122fd3a86d7f792b77e9e0fa55" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="485,13,663,39"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#a4d62e619cbbd3616bfcb3d362f050565" title="LocalSink::destroy" alt="" coords="726,13,857,39"/>
+<area shape="rect" id="node6" href="$d9/d2e/classLocalSource.html#a1dd06048e447aec5b3a748f1f66186d4" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="477,78,671,105"/>
+<area shape="rect" id="node7" href="$d9/d2e/classLocalSource.html#a7558a5e6f8e594bb21f1b9aa06993534" title="LocalSource::destroy" alt="" coords="719,78,864,105"/>
+<area shape="rect" id="node9" href="$df/d8c/classRemoteSink.html#ac4969813754d792e53bf9b90f9689a91" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="477,143,671,170"/>
+<area shape="rect" id="node10" href="$df/d8c/classRemoteSink.html#ad7201ac561a0c0cf4f229677a71c36ae" title="RemoteSink::destroy" alt="" coords="719,143,864,170"/>
+<area shape="rect" id="node12" href="$d9/db6/classFileSource.html#abe173f556596f7b341e94a605c390243" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="483,209,665,235"/>
+<area shape="rect" id="node13" href="$d9/db6/classFileSource.html#ac6a5306a4a7b11087d5aab98f7cd1f16" title="FileSource::destroy" alt="" coords="724,209,859,235"/>
+</map>

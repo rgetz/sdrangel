@@ -1,0 +1,7 @@
+<map id="LocalSinkGUI::updateLocalDevices" name="LocalSinkGUI::updateLocalDevices">
+<area shape="rect" id="node2" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="242,13,434,39"/>
+<area shape="rect" id="node6" href="$d1/d43/classLocalSinkGUI.html#a61556b0dd57cf01e6c4e7c1fdd337995" title="LocalSinkGUI::on_localDevices\lRefresh_clicked" alt="" coords="235,64,441,105"/>
+<area shape="rect" id="node3" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="489,13,636,39"/>
+<area shape="rect" id="node4" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="684,5,860,47"/>
+<area shape="rect" id="node5" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="908,13,1084,39"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="DSPDeviceSourceEngine::stop" name="DSPDeviceSourceEngine::stop">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#abf6ac0db938729423ad52814a90e7cbd" title="MainCore::removeLastDevice" alt="" coords="235,56,430,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#aedd0d06820f324cd14a9e688b5cac892" title="MainWindow::removeLastDevice" alt="" coords="225,132,440,159"/>
+<area shape="rect" id="node13" href="$d2/d3b/classDSPDeviceSourceEngine.html#ab529285fb5bfb2d23de3ca17fba46a65" title="DSPDeviceSourceEngine\l::~DSPDeviceSourceEngine" alt="" coords="239,183,427,225"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#ab7a9000d4fe0032b406927c7a4e0f2d2" title="MainCore::~MainCore" alt="" coords="511,5,661,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="497,56,675,83"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="741,56,925,83"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1001,56,1144,83"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="501,107,671,133"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="488,157,684,184"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a52a303cd6ae083095439eecd6a2ca639" title="MainWindow::on_action\l_removeLastDevice_triggered" alt="" coords="489,209,683,250"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="732,157,935,184"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="983,157,1163,184"/>
+</map>

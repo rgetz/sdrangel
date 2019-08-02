@@ -1,0 +1,17 @@
+<map id="devices/xtrx/devicextrxshared.h" name="devices/xtrx/devicextrxshared.h">
+<area shape="rect" id="node2" href="$d5/d43/devicextrxshared_8cpp.html" title="devices/xtrx/devicextrxshared.cpp" alt="" coords="5,87,227,114"/>
+<area shape="rect" id="node3" href="$d5/d45/xtrxoutput_8h.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutput.h" alt="" coords="251,80,408,121"/>
+<area shape="rect" id="node4" href="$d4/d96/xtrxoutput_8cpp.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutput.cpp" alt="" coords="279,169,449,211"/>
+<area shape="rect" id="node8" href="$d9/da1/xtrxoutputthread_8h.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutputthread.h" alt="" coords="483,80,677,121"/>
+<area shape="rect" id="node10" href="$d5/d3c/xtrxinput_8h.html" title="plugins/samplesource\l/xtrxinput/xtrxinput.h" alt="" coords="706,80,854,121"/>
+<area shape="rect" id="node11" href="$d5/d74/xtrxinput_8cpp.html" title="plugins/samplesource\l/xtrxinput/xtrxinput.cpp" alt="" coords="888,169,1043,211"/>
+<area shape="rect" id="node15" href="$d5/dba/xtrxinputthread_8h.html" title="plugins/samplesource\l/xtrxinput/xtrxinputthread.h" alt="" coords="930,80,1107,121"/>
+<area shape="rect" id="node5" href="$d8/d3e/xtrxoutputgui_8h.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutputgui.h" alt="" coords="79,169,254,211"/>
+<area shape="rect" id="node6" href="$d4/dd5/xtrxoutputgui_8cpp.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutputgui.cpp" alt="" coords="62,259,250,300"/>
+<area shape="rect" id="node7" href="$da/d38/xtrxoutputplugin_8cpp.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutputplugin.cpp" alt="" coords="275,259,480,300"/>
+<area shape="rect" id="node9" href="$da/d67/xtrxoutputthread_8cpp.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutputthread.cpp" alt="" coords="474,169,681,211"/>
+<area shape="rect" id="node12" href="$de/d14/xtrxinputgui_8h.html" title="plugins/samplesource\l/xtrxinput/xtrxinputgui.h" alt="" coords="705,169,863,211"/>
+<area shape="rect" id="node13" href="$df/d80/xtrxinputgui_8cpp.html" title="plugins/samplesource\l/xtrxinput/xtrxinputgui.cpp" alt="" coords="601,259,773,300"/>
+<area shape="rect" id="node14" href="$dc/d3f/xtrxinputplugin_8cpp.html" title="plugins/samplesource\l/xtrxinput/xtrxinputplugin.cpp" alt="" coords="797,259,987,300"/>
+<area shape="rect" id="node16" href="$da/d8b/xtrxinputthread_8cpp.html" title="plugins/samplesource\l/xtrxinput/xtrxinputthread.cpp" alt="" coords="1067,169,1258,211"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="RTLSDRInput::deserialize" name="RTLSDRInput::deserialize">
+<area shape="rect" id="node2" href="$d3/d83/classRTLSDRInput_1_1MsgConfigureRTLSDR.html#a0a4f8d45568a63bc4fe9a69d2bfcf37d" title="RTLSDRInput::MsgConfigure\lRTLSDR::create" alt="" coords="228,23,423,64"/>
+<area shape="rect" id="node4" href="$d1/da1/structRTLSDRSettings.html#ac096badf3321deccb0f4fea8c6ee4220" title="RTLSDRSettings::deserialize" alt="" coords="228,243,423,270"/>
+<area shape="rect" id="node6" href="$d1/da1/structRTLSDRSettings.html#ad8084321907f880fae2a325101ce667f" title="RTLSDRSettings::resetToDefaults" alt="" coords="471,71,696,98"/>
+<area shape="rect" id="node14" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="251,294,400,321"/>
+<area shape="rect" id="node3" href="$d3/d83/classRTLSDRInput_1_1MsgConfigureRTLSDR.html#a501da44cf12d9394f75e31066d9c886a" title="RTLSDRInput::MsgConfigure\lRTLSDR::MsgConfigureRTLSDR" alt="" coords="474,5,693,47"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="518,123,649,164"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="518,188,649,229"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="518,253,649,295"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="518,319,649,360"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="518,384,649,425"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a63b7ff37bc8ed9f4f9f9562d1d7e4e73" title="SimpleDeserializer\l::readS64" alt="" coords="518,449,649,491"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="518,515,649,556"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="744,352,875,393"/>
+</map>

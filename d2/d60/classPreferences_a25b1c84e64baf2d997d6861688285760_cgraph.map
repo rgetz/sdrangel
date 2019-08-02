@@ -1,0 +1,10 @@
+<map id="Preferences::deserialize" name="Preferences::deserialize">
+<area shape="rect" id="node2" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="247,5,378,47"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="247,71,378,112"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="247,136,378,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a8fd742bd11d35703a58df7c15af1014a" title="SimpleDeserializer\l::readFloat" alt="" coords="247,201,378,243"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="247,267,378,308"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="247,332,378,373"/>
+<area shape="rect" id="node9" href="$d2/d60/classPreferences.html#a63f1a59405d55e26e2c32ee1870795ee" title="Preferences::resetToDefaults" alt="" coords="216,398,409,425"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="457,201,588,243"/>
+</map>

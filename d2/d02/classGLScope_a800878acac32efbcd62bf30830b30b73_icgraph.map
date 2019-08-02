@@ -1,0 +1,10 @@
+<map id="GLScope::setDisplayMode" name="GLScope::setDisplayMode">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab9c114e79ee924430c1235ef9d9be216" title="GLScopeGUI::deserialize" alt="" coords="241,5,412,32"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#a22b4c43ba8d12c388ea86ea219cd4d2e" title="GLScopeGUI::on_horizontal\lXY_toggled" alt="" coords="234,57,419,98"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a6e319729438f442228ef62b5c8f77c2d" title="GLScopeGUI::on_onlyX\l_toggled" alt="" coords="245,122,408,163"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a2db9a7576c66990180e283cfc9268e93" title="GLScopeGUI::on_onlyY\l_toggled" alt="" coords="245,187,408,229"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a1d8a45aa2e222eaeef11738fcd128ba0" title="GLScopeGUI::on_polar\l_toggled" alt="" coords="248,253,405,294"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#af164e405c9795b5591e1061a7b020457" title="GLScopeGUI::on_traceDel\l_clicked" alt="" coords="237,318,416,359"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#a5fcd1fb0157875417637dc2b3a88f22f" title="GLScopeGUI::on_verticalXY\l_toggled" alt="" coords="232,383,421,425"/>
+<area shape="rect" id="node9" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="240,449,413,476"/>
+</map>

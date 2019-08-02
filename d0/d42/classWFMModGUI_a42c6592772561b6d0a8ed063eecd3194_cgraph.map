@@ -1,0 +1,12 @@
+<map id="WFMModGUI::applySettings" name="WFMModGUI::applySettings">
+<area shape="rect" id="node2" href="$d6/d72/classWFMMod_1_1MsgConfigureWFMMod.html#aa236c84be5802c17f27e685d4d82f236" title="WFMMod::MsgConfigureWFMMod\l::create" alt="" coords="250,5,475,47"/>
+<area shape="rect" id="node4" href="$d5/de2/classWFMMod_1_1MsgConfigureChannelizer.html#a0fda05fe3b7237d693a0c8a567bf6400" title="WFMMod::MsgConfigureChannelizer\l::create" alt="" coords="244,71,481,112"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="275,136,450,177"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="279,202,446,229"/>
+<area shape="rect" id="node7" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="279,253,447,295"/>
+<area shape="rect" id="node8" href="$df/dcc/structWFMModSettings.html#aabaf938b2bfef7a5cc340a90075c20fb" title="WFMModSettings::getRFBW" alt="" coords="266,319,459,346"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="288,370,437,397"/>
+<area shape="rect" id="node10" href="$d0/d42/classWFMModGUI.html#a5573262edff8bb48f7d164ab5eeb9394" title="WFMModGUI::requiredBW" alt="" coords="273,421,452,447"/>
+<area shape="rect" id="node11" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="271,471,454,498"/>
+<area shape="rect" id="node3" href="$d6/d72/classWFMMod_1_1MsgConfigureWFMMod.html#a9507d234d88228262bb8e0126f758f8e" title="WFMMod::MsgConfigureWFMMod\l::MsgConfigureWFMMod" alt="" coords="529,5,755,47"/>
+</map>

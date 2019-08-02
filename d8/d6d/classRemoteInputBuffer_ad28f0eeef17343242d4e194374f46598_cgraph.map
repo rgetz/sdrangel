@@ -1,0 +1,8 @@
+<map id="RemoteInputBuffer::writeData" name="RemoteInputBuffer::writeData">
+<area shape="rect" id="node2" href="$d8/d6d/classRemoteInputBuffer.html#a6ad352a3514065eaef3356d3163db562" title="RemoteInputBuffer::\lcheckSlotData" alt="" coords="197,5,337,47"/>
+<area shape="rect" id="node3" href="$d8/d6d/classRemoteInputBuffer.html#a4ccc925c1aa1a79d805d3d708f082ede" title="RemoteInputBuffer::\linitDecodeAllSlots" alt="" coords="197,71,337,112"/>
+<area shape="rect" id="node5" href="$d8/d6d/classRemoteInputBuffer.html#ab7fb4ca3643d7b278eb5e23eee7c2ee4" title="RemoteInputBuffer::\linitDecodeSlot" alt="" coords="197,136,337,177"/>
+<area shape="rect" id="node6" href="$d8/d6d/classRemoteInputBuffer.html#a0a455cf244979fa6750f881860ed22d0" title="RemoteInputBuffer::\linitReadIndex" alt="" coords="197,201,337,243"/>
+<area shape="rect" id="node7" href="$d8/d6d/classRemoteInputBuffer.html#ae6b9136341ab5afa831c4a0a1ef9f66b" title="RemoteInputBuffer::\lrwCorrectionEstimate" alt="" coords="193,267,341,308"/>
+<area shape="rect" id="node4" href="$d8/d6d/classRemoteInputBuffer.html#a664282d2b2785ab3800d011f9e7378d1" title="RemoteInputBuffer::\lresetOriginalBlocks" alt="" coords="389,104,529,145"/>
+</map>

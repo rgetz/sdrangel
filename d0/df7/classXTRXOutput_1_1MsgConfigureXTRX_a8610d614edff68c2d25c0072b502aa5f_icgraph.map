@@ -1,0 +1,14 @@
+<map id="XTRXOutput::MsgConfigureXTRX::MsgConfigureXTRX" name="XTRXOutput::MsgConfigureXTRX::MsgConfigureXTRX">
+<area shape="rect" id="node2" href="$d0/df7/classXTRXOutput_1_1MsgConfigureXTRX.html#a2faed7b16085d286a3c5266a70292e49" title="XTRXOutput::MsgConfigure\lXTRX::create" alt="" coords="240,85,427,127"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#ab218ce179732a23eb77b798d40759412" title="XTRXOutput::deserialize" alt="" coords="503,13,670,39"/>
+<area shape="rect" id="node9" href="$d1/d5f/classXTRXOutput.html#a906cbccb0f6b05a52615c8dfc3d7077b" title="XTRXOutput::setCenterFrequency" alt="" coords="475,63,698,90"/>
+<area shape="rect" id="node11" href="$d1/d5f/classXTRXOutput.html#a4e3a61ee7b041d8493bec1950b433bb5" title="XTRXOutput::webapiSettings\lPutPatch" alt="" coords="489,115,684,156"/>
+<area shape="rect" id="node12" href="$d8/d63/classXTRXOutputGUI.html#a12bac09900d798e13f5690bf97d1e25b" title="XTRXOutputGUI::updateHardware" alt="" coords="475,181,699,207"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a4a2fb919e0f4485997e2ee2a78130389" title="XTRXOutput::setThread" alt="" coords="779,13,942,39"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#a44dd083e222b948894b25220c7bed28d" title="XTRXOutput::moveThreadTo\lBuddy" alt="" coords="1023,5,1215,47"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="1263,13,1440,39"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="1488,13,1676,39"/>
+<area shape="rect" id="node8" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1724,5,1909,47"/>
+<area shape="rect" id="node10" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="763,93,958,119"/>
+<area shape="rect" id="node13" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="747,181,975,207"/>
+</map>

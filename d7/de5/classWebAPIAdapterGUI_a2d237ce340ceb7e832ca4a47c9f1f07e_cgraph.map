@@ -1,0 +1,11 @@
+<map id="WebAPIAdapterGUI::devicesetChannelReportGet" name="WebAPIAdapterGUI::devicesetChannelReportGet">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#adadca235cf711f5ccf82dafb127cdd7c" title="DeviceAPI::getChanelSink\lAPIAt" alt="" coords="289,5,467,47"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a222008a2a8d273ef4fa3321dc53ac5cf" title="DeviceAPI::getChanelSource\lAPIAt" alt="" coords="281,71,475,112"/>
+<area shape="rect" id="node4" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#ae767ded76035f797e3c27d70f81709f8" title="SWGSDRangel::SWGChannelReport\l::getChannelType" alt="" coords="257,136,499,177"/>
+<area shape="rect" id="node5" href="$d7/d02/classChannelAPI.html#a404276b6d624ddeb5f89fc2d7a4e7bc5" title="ChannelAPI::getIdentifier" alt="" coords="294,202,462,229"/>
+<area shape="rect" id="node6" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="257,253,499,295"/>
+<area shape="rect" id="node7" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="257,319,499,360"/>
+<area shape="rect" id="node8" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#ae035e2832c2e0471c7b963e754485aad" title="SWGSDRangel::SWGChannelReport\l::setChannelType" alt="" coords="257,384,499,425"/>
+<area shape="rect" id="node9" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a95247394d32cca2b55e4ecc4e10c75d0" title="SWGSDRangel::SWGChannelReport\l::setDirection" alt="" coords="257,449,499,491"/>
+<area shape="rect" id="node10" href="$d7/d02/classChannelAPI.html#a63e6522c740fff62095a2d932d0ee38e" title="ChannelAPI::webapiReportGet" alt="" coords="277,515,479,542"/>
+</map>

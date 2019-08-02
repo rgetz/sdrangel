@@ -1,0 +1,12 @@
+<map id="TestSourceGui::displayAmplitude" name="TestSourceGui::displayAmplitude">
+<area shape="rect" id="node2" href="$d2/d41/classTestSourceGui.html#ad5ab1b151f8166baeacfdeed4849635e" title="TestSourceGui::displaySettings" alt="" coords="269,85,476,112"/>
+<area shape="rect" id="node9" href="$d2/d41/classTestSourceGui.html#ace7de0083a9af4abb820eaeea2413137" title="TestSourceGui::on_amplitude\lCoarse_valueChanged" alt="" coords="275,137,470,178"/>
+<area shape="rect" id="node10" href="$d2/d41/classTestSourceGui.html#ad451601fb73b9984bb30b91f3a1aac1c" title="TestSourceGui::on_amplitude\lFine_valueChanged" alt="" coords="275,202,470,243"/>
+<area shape="rect" id="node11" href="$d2/d41/classTestSourceGui.html#a94c1f9583af4bf549094b4b48904b129" title="TestSourceGui::on_sample\lSize_currentIndexChanged" alt="" coords="283,267,463,309"/>
+<area shape="rect" id="node3" href="$d2/d41/classTestSourceGui.html#aa3f7c432f7cd67e0fcb1ca077c9ebb5e" title="TestSourceGui::TestSourceGui" alt="" coords="1015,68,1219,95"/>
+<area shape="rect" id="node4" href="$d2/d41/classTestSourceGui.html#a98cbce861c3d8ac18f27b5b129cca06e" title="TestSourceGui::resetToDefaults" alt="" coords="524,35,735,61"/>
+<area shape="rect" id="node5" href="$d2/d41/classTestSourceGui.html#a8e52e5a7228a25ba42531ad85cf7daf5" title="TestSourceGui::deserialize" alt="" coords="785,60,964,87"/>
+<area shape="rect" id="node6" href="$d2/d41/classTestSourceGui.html#a37feed7b5d0fb76bffb23214b8514ec7" title="TestSourceGui::setCenter\lFrequency" alt="" coords="542,137,717,178"/>
+<area shape="rect" id="node7" href="$d2/d41/classTestSourceGui.html#adeaa72e01b6bdbfb193bfa769f518f13" title="TestSourceGui::handleMessage" alt="" coords="525,203,733,229"/>
+<area shape="rect" id="node8" href="$d2/d41/classTestSourceGui.html#a489e900b2c309a78ce41802e5e417ade" title="TestSourceGui::handleInput\lMessages" alt="" coords="783,141,967,182"/>
+</map>

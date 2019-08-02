@@ -1,0 +1,13 @@
+<map id="XTRXOutput::MsgConfigureXTRX::create" name="XTRXOutput::MsgConfigureXTRX::create">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#ab218ce179732a23eb77b798d40759412" title="XTRXOutput::deserialize" alt="" coords="269,13,435,39"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#a906cbccb0f6b05a52615c8dfc3d7077b" title="XTRXOutput::setCenterFrequency" alt="" coords="241,63,463,90"/>
+<area shape="rect" id="node10" href="$d8/d63/classXTRXOutputGUI.html#a12bac09900d798e13f5690bf97d1e25b" title="XTRXOutputGUI::updateHardware" alt="" coords="240,181,464,207"/>
+<area shape="rect" id="node12" href="$d1/d5f/classXTRXOutput.html#a4e3a61ee7b041d8493bec1950b433bb5" title="XTRXOutput::webapiSettings\lPutPatch" alt="" coords="255,115,449,156"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a4a2fb919e0f4485997e2ee2a78130389" title="XTRXOutput::setThread" alt="" coords="545,13,707,39"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a44dd083e222b948894b25220c7bed28d" title="XTRXOutput::moveThreadTo\lBuddy" alt="" coords="788,5,980,47"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="1028,13,1205,39"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="1253,13,1441,39"/>
+<area shape="rect" id="node7" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1489,5,1675,47"/>
+<area shape="rect" id="node9" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="529,93,723,119"/>
+<area shape="rect" id="node11" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="512,181,740,207"/>
+</map>

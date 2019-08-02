@@ -1,0 +1,11 @@
+<map id="DeviceSoapySDR::instance" name="DeviceSoapySDR::instance">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#ac2e1070ac6e19853e92af210321089b7" title="SoapySDROutput::closeDevice" alt="" coords="252,5,459,32"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a5e6bcec09b5744db9660f3ce736cf746" title="SoapySDRInput::closeDevice" alt="" coords="257,56,454,83"/>
+<area shape="rect" id="node6" href="$d2/da0/classSoapySDROutputPlugin.html#a08dd16ea2323f8d95e546dc4fe16f9cc" title="SoapySDROutputPlugin\l::enumSampleSinks" alt="" coords="274,107,437,149"/>
+<area shape="rect" id="node7" href="$d3/dee/classSoapySDRInputPlugin.html#a47147986aba2058524e5f3d559e8c71e" title="SoapySDRInputPlugin\l::enumSampleSources" alt="" coords="278,173,433,214"/>
+<area shape="rect" id="node8" href="$d8/df3/classSoapySDROutput.html#a100d8379cc1f07365e9ee8c29b8a8e11" title="SoapySDROutput::openDevice" alt="" coords="541,264,745,291"/>
+<area shape="rect" id="node9" href="$da/d65/classSoapySDRInput.html#a654ec5370d3f40f956c1e016513d92dd" title="SoapySDRInput::openDevice" alt="" coords="545,327,740,353"/>
+<area shape="rect" id="node10" href="$d5/dea/classDeviceSoapySDR.html#ae1ef1712fcca9eea4e59af9271da072f" title="DeviceSoapySDR::openSoapySDR" alt="" coords="240,289,471,316"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#a0effaa6146ad3377c709cbec5810cf6a" title="SoapySDROutput::~SoapySDROutput" alt="" coords="519,5,767,32"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#afdfa5e1389a22b2deff4ca31ed411c82" title="SoapySDRInput::~SoapySDRInput" alt="" coords="529,56,757,83"/>
+</map>

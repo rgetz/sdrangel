@@ -1,0 +1,47 @@
+<map id="ChannelAnalyzerGUI::deserialize" name="ChannelAnalyzerGUI::deserialize">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#a4ee8f1c81629516ece17b8d6171d5913" title="ChannelAnalyzerGUI\l::applySettings" alt="" coords="211,238,356,279"/>
+<area shape="rect" id="node16" href="$da/dcd/structChannelAnalyzerSettings.html#ac22675d2813d2383705633b6d3049635" title="ChannelAnalyzerSettings\l::deserialize" alt="" coords="199,1366,368,1407"/>
+<area shape="rect" id="node18" href="$da/dcd/structChannelAnalyzerSettings.html#aa5c83e7d47607f2092f73c84d9ea28e4" title="ChannelAnalyzerSettings\l::resetToDefaults" alt="" coords="437,1147,606,1189"/>
+<area shape="rect" id="node27" href="$da/d16/classChannelAnalyzerGUI.html#a982b69e4c5149e38275a0e21a1f0939f" title="ChannelAnalyzerGUI\l::displaySettings" alt="" coords="211,791,356,833"/>
+<area shape="rect" id="node3" href="$db/dab/classChannelAnalyzer_1_1MsgConfigureChannelAnalyzer.html#ad72169d9a594ea4ee77b9560d57dfd80" title="ChannelAnalyzer::MsgConfigure\lChannelAnalyzer::create" alt="" coords="416,13,627,54"/>
+<area shape="rect" id="node5" href="$dd/df3/classChannelAnalyzer_1_1MsgConfigureChannelizer.html#a85833e4146d3ad2cb838e3261fb2bebe" title="ChannelAnalyzer::MsgConfigure\lChannelizer::create" alt="" coords="416,78,627,119"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="434,143,609,185"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="437,209,605,250"/>
+<area shape="rect" id="node8" href="$da/d16/classChannelAnalyzerGUI.html#a1ede0ed024dd8dbe857494a9d6b75f97" title="ChannelAnalyzerGUI\l::getRequestedChannelSampleRate" alt="" coords="689,293,919,334"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="447,325,596,352"/>
+<area shape="rect" id="node12" href="$d7/dcf/classScopeVis.html#aba0f7f5d0aedb8bdca31af88ed976fdf" title="ScopeVis::setLiveRateLog2\lDecim" alt="" coords="429,377,613,418"/>
+<area shape="rect" id="node4" href="$db/dab/classChannelAnalyzer_1_1MsgConfigureChannelAnalyzer.html#a598ab8469ec27e4c01db622bebda9b8a" title="ChannelAnalyzer::MsgConfigure\lChannelAnalyzer::MsgConfigureChannel\lAnalyzer" alt="" coords="675,5,933,61"/>
+<area shape="rect" id="node9" href="$dc/d0c/classChannelAnalyzer.html#a42084f4a082513f7d7d759eee4e6adbd" title="ChannelAnalyzer::getChannelizer" alt="" coords="981,309,1197,336"/>
+<area shape="rect" id="node10" href="$da/d0a/classDownChannelizer.html#ae051d357f719c8f35dac8b05f0f17b5c" title="DownChannelizer::getInput\lSampleRate" alt="" coords="999,243,1179,285"/>
+<area shape="rect" id="node13" href="$d7/dcf/classScopeVis.html#a7b5784281ac1b006283a046e98562c55" title="ScopeVis::setLiveRate" alt="" coords="726,376,882,403"/>
+<area shape="rect" id="node14" href="$d7/dcf/classScopeVis.html#a6b3446bdb3ac22edaa5b386d29632e99" title="ScopeVis::setSampleRate" alt="" coords="1001,376,1177,403"/>
+<area shape="rect" id="node15" href="$d2/d02/classGLScope.html#af5e06f8d08c93a86b352dfb7e57c7d8d" title="GLScope::setSampleRate" alt="" coords="1245,376,1420,403"/>
+<area shape="rect" id="node17" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="456,1461,587,1502"/>
+<area shape="rect" id="node19" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="456,1526,587,1567"/>
+<area shape="rect" id="node20" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="456,1591,587,1633"/>
+<area shape="rect" id="node22" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="456,1278,587,1319"/>
+<area shape="rect" id="node23" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="442,1344,601,1371"/>
+<area shape="rect" id="node24" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="456,1657,587,1698"/>
+<area shape="rect" id="node25" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="456,1213,587,1254"/>
+<area shape="rect" id="node26" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="456,1395,587,1437"/>
+<area shape="rect" id="node21" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="739,1591,869,1633"/>
+<area shape="rect" id="node28" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="434,581,609,622"/>
+<area shape="rect" id="node29" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="991,544,1188,571"/>
+<area shape="rect" id="node30" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="441,647,602,673"/>
+<area shape="rect" id="node31" href="$de/d03/classChannelMarker.html#a21a6a6cf3155c2e5bc1d181bb553225b" title="ChannelMarker::setLowCutoff" alt="" coords="991,651,1187,677"/>
+<area shape="rect" id="node32" href="$de/d03/classChannelMarker.html#a07ca4f100dd0da5f1ef8ad40f66dbca6" title="ChannelMarker::setSidebands" alt="" coords="991,701,1188,728"/>
+<area shape="rect" id="node33" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="438,799,605,825"/>
+<area shape="rect" id="node34" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="430,849,613,876"/>
+<area shape="rect" id="node35" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="441,900,602,927"/>
+<area shape="rect" id="node36" href="$dc/d0c/classChannelAnalyzer.html#a1d473d4160f4857d8364d13e99edd5c9" title="ChannelAnalyzer::getInput\lSampleRate" alt="" coords="433,951,609,993"/>
+<area shape="rect" id="node37" href="$da/d16/classChannelAnalyzerGUI.html#a49b010317f2f887fd6ebe54ceef3f441" title="ChannelAnalyzerGUI\l::blockApplySettings" alt="" coords="449,1017,594,1058"/>
+<area shape="rect" id="node38" href="$da/d16/classChannelAnalyzerGUI.html#a5266db1ad8ef190c73a2bd0af78033f8" title="set sample rate after final in&#45;channel decimation " alt="" coords="449,442,594,483"/>
+<area shape="rect" id="node46" href="$da/d16/classChannelAnalyzerGUI.html#a5b8fdb8e50e66336c1f66d1acfa1232e" title="ChannelAnalyzerGUI\l::displayPLLSettings" alt="" coords="449,1082,594,1123"/>
+<area shape="rect" id="node39" href="$da/d16/classChannelAnalyzerGUI.html#af19a178afd23d02f1a0cce49487c961a" title="ChannelAnalyzerGUI\l::setFiltersUIBoundaries" alt="" coords="723,478,885,519"/>
+<area shape="rect" id="node40" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1069,427,1109,453"/>
+<area shape="rect" id="node45" href="$da/d16/classChannelAnalyzerGUI.html#a7c2346c15824ea06eed2ff4261e339f3" title="ChannelAnalyzerGUI\l::setSpectrumDisplay" alt="" coords="1015,478,1163,519"/>
+<area shape="rect" id="node41" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1279,427,1387,453"/>
+<area shape="rect" id="node42" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1672,397,1791,424"/>
+<area shape="rect" id="node43" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1468,449,1616,490"/>
+<area shape="rect" id="node44" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1664,449,1799,490"/>
+</map>

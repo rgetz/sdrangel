@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGRtlSdrSettings::setDcBlock" name="SWGSDRangel::SWGRtlSdrSettings::setDcBlock">
+<area shape="rect" id="node2" href="$d0/d36/classRTLSDRInput.html#a247528c2315c52aefa02f7d5bfd05b93" title="RTLSDRInput::webapiFormat\lDeviceSettings" alt="" coords="543,57,737,98"/>
+<area shape="rect" id="node6" href="$d0/d36/classRTLSDRInput.html#a2dc5836882b50c2aed93b8f28f80970b" title="RTLSDRInput::webapiReverse\lSendSettings" alt="" coords="292,141,495,182"/>
+<area shape="rect" id="node3" href="$d0/d36/classRTLSDRInput.html#a209c7647a4f8313c3343a1cc86c0c9c0" title="RTLSDRInput::webapiSettingsGet" alt="" coords="785,5,1008,32"/>
+<area shape="rect" id="node5" href="$d0/d36/classRTLSDRInput.html#a059aa9f8ca18b6f55fd66be528a2db9a" title="RTLSDRInput::webapiSettings\lPutPatch" alt="" coords="795,57,998,98"/>
+<area shape="rect" id="node4" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="1056,64,1259,91"/>
+<area shape="rect" id="node7" href="$d0/d36/classRTLSDRInput.html#aefb8491a39b2c5efeae1af6a3686d046" title="RTLSDRInput::applySettings" alt="" coords="544,148,736,175"/>
+<area shape="rect" id="node8" href="$d0/d36/classRTLSDRInput.html#ab6825aa9d6aad9ebd5cbddec96646bf3" title="RTLSDRInput::handleMessage" alt="" coords="795,123,999,149"/>
+<area shape="rect" id="node9" href="$d0/d36/classRTLSDRInput.html#a31cdff111113ccd193efed1948b0c83b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="831,173,962,200"/>
+<area shape="rect" id="node11" href="$d0/d36/classRTLSDRInput.html#a243ae9fc605cd9f09e8c618149137adf" title="RTLSDRInput::start" alt="" coords="827,224,966,251"/>
+<area shape="rect" id="node10" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="1061,191,1254,233"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="FileSinkGui::updateHardware" name="FileSinkGui::updateHardware">
+<area shape="rect" id="node2" href="$d8/ded/classFileSinkOutput_1_1MsgConfigureFileSink.html#a76b033b22b77e5a50361a5e33317b986" title="FileSinkOutput::MsgConfigure\lFileSink::create" alt="" coords="245,5,443,47"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="250,71,438,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="269,137,419,163"/>
+<area shape="rect" id="node3" href="$d8/ded/classFileSinkOutput_1_1MsgConfigureFileSink.html#af3dc2b93b673c0e091e945ddb9b5a96b" title="FileSinkOutput::MsgConfigure\lFileSink::MsgConfigureFileSink" alt="" coords="491,5,696,47"/>
+</map>

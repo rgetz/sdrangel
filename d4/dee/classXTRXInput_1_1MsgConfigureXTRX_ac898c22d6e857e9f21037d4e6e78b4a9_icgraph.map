@@ -1,0 +1,6 @@
+<map id="XTRXInput::MsgConfigureXTRX::getSettings" name="XTRXInput::MsgConfigureXTRX::getSettings">
+<area shape="rect" id="node2" href="$d3/df5/classXTRXInputGUI.html#a14a8a35ee0a173ad0eed8c87ddf8d902" title="XTRXInputGUI::handleInput\lMessages" alt="" coords="265,5,452,47"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="265,71,452,98"/>
+<area shape="rect" id="node3" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="500,13,708,39"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="511,71,697,98"/>
+</map>

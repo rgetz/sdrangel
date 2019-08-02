@@ -1,0 +1,6 @@
+<map id="WebAPIAdapterSrv::instanceAudioOutputCleanupPatch" name="WebAPIAdapterSrv::instanceAudioOutputCleanupPatch">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="283,5,474,47"/>
+<area shape="rect" id="node3" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#a788632125aeeacf50992383d8fbfa177" title="SWGSDRangel::SWGSuccessResponse\l::getMessage" alt="" coords="247,71,511,112"/>
+<area shape="rect" id="node4" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#ad8b01b8f5ec488076a166446c4045229" title="SWGSDRangel::SWGSuccessResponse\l::init" alt="" coords="247,136,511,177"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#aa347e1785035ef7043b9fa2203d2485a" title="Remove output info from map for output devices not present. " alt="" coords="305,201,452,243"/>
+</map>

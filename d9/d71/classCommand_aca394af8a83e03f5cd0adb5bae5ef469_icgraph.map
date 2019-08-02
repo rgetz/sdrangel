@@ -1,0 +1,8 @@
+<map id="Command::processFinished" name="Command::processFinished">
+<area shape="rect" id="node2" href="$d9/d71/classCommand.html#a7ea4f6b5e4dc6960d8777109ba2ad2a4" title="Command::processError" alt="" coords="239,79,403,106"/>
+<area shape="rect" id="node3" href="$d9/d71/classCommand.html#a4979924f2b9606988b1dbf340f8c0fa7" title="Command::run" alt="" coords="476,42,584,69"/>
+<area shape="rect" id="node7" href="$d9/d71/classCommand.html#ab552bb3a07fdd1acbfd8ea76e69b2278" title="Command::~Command" alt="" coords="451,105,609,131"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a79c800ecae23fe68f0c4877577732b6b" title="MainWindow::on_commandRun\l_clicked" alt="" coords="671,5,877,47"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a7fccf9808d6defab7478853ed207bc3c" title="MainWindow::commandKeyPressed" alt="" coords="657,71,891,98"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#aa4745b470f0aa428bbecc3b571ebe72c" title="MainWindow::on_commandKeyboard\lConnect_toggled" alt="" coords="939,64,1177,105"/>
+</map>

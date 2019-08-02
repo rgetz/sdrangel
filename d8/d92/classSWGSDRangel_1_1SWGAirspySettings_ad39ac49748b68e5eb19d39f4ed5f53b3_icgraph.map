@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGAirspySettings::getLnaGain" name="SWGSDRangel::SWGAirspySettings::getLnaGain">
+<area shape="rect" id="node2" href="$d9/d02/classAirspyInput.html#a18d90446e8a2742100e64603c113a030" title="AirspyInput::webapiSettings\lPutPatch" alt="" coords="292,35,477,76"/>
+<area shape="rect" id="node3" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="525,42,719,69"/>
+<area shape="rect" id="node4" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="767,5,945,47"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="993,42,1191,69"/>
+</map>

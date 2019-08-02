@@ -1,0 +1,18 @@
+<map id="plugins/channelrx/chanalyzer/chanalyzer.h" name="plugins/channelrx/chanalyzer/chanalyzer.h">
+<area shape="rect" id="node4" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="388,95,568,121"/>
+<area shape="rect" id="node12" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="975,169,1082,196"/>
+<area shape="rect" id="node14" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1491,95,1635,121"/>
+<area shape="rect" id="node18" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="1069,95,1191,121"/>
+<area shape="rect" id="node20" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="593,95,675,121"/>
+<area shape="rect" id="node21" href="$dc/d2b/fftcorr_8h.html" title="dsp/fftcorr.h" alt="" coords="1267,95,1359,121"/>
+<area shape="rect" id="node23" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="1383,95,1467,121"/>
+<area shape="rect" id="node24" href="$d9/d08/phaselockcomplex_8h.html" title="dsp/phaselockcomplex.h" alt="" coords="700,95,867,121"/>
+<area shape="rect" id="node25" href="$d1/d07/freqlockcomplex_8h.html" title="dsp/freqlockcomplex.h" alt="" coords="891,95,1044,121"/>
+<area shape="rect" id="node26" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="182,95,299,121"/>
+<area shape="rect" id="node28" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="1827,95,1969,121"/>
+<area shape="rect" id="node30" href="$d5/d31/chanalyzersettings_8h.html" title="chanalyzersettings.h" alt="" coords="1660,95,1803,121"/>
+<area shape="rect" id="node6" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="637,169,748,196"/>
+<area shape="rect" id="node9" href="$db/db5/export_8h.html" title="export.h" alt="" coords="853,244,922,271"/>
+<area shape="rect" id="node10" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="317,169,460,196"/>
+<area shape="rect" id="node22" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="1344,169,1396,196"/>
+</map>

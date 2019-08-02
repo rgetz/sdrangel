@@ -1,0 +1,9 @@
+<map id="DevicePlutoSDR::instance" name="DevicePlutoSDR::instance">
+<area shape="rect" id="node2" href="$d2/d04/classPlutoSDROutputPlugin.html#a14cdead5b306cc3c93f4f19ccec67523" title="PlutoSDROutputPlugin\l::enumSampleSinks" alt="" coords="237,5,393,47"/>
+<area shape="rect" id="node3" href="$d2/d01/classPlutoSDRInputPlugin.html#ab659ca54c4065bd05d24375544496015" title="PlutoSDRInputPlugin\l::enumSampleSources" alt="" coords="238,71,393,112"/>
+<area shape="rect" id="node4" href="$d2/d01/classPlutoSDRInputPlugin.html#acdcd17bb0a0c5ada6a479255edc2315a" title="PlutoSDRInputPlugin\l::initPlugin" alt="" coords="242,136,389,177"/>
+<area shape="rect" id="node5" href="$d2/d04/classPlutoSDROutputPlugin.html#a2d5376d5aabd87aab2cd80c2978d019c" title="PlutoSDROutputPlugin\l::initPlugin" alt="" coords="237,201,393,243"/>
+<area shape="rect" id="node6" href="$da/d86/classDevicePlutoSDRParams.html#a48786fba39e4bac08dbab226165aedef" title="DevicePlutoSDRParams\l::open" alt="" coords="232,267,399,308"/>
+<area shape="rect" id="node7" href="$da/dff/classPlutoSDROutput.html#a57892a02372c1aecdb938d5b1652c0b4" title="PlutoSDROutput::openDevice" alt="" coords="447,249,644,275"/>
+<area shape="rect" id="node8" href="$d2/d3a/classPlutoSDRInput.html#abf1de67c02b7fc8925627079863c585d" title="PlutoSDRInput::openDevice" alt="" coords="452,299,639,326"/>
+</map>

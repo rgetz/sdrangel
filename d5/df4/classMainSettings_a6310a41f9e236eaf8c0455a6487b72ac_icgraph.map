@@ -1,0 +1,12 @@
+<map id="MainSettings::save" name="MainSettings::save">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="213,5,383,32"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="209,56,387,83"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="200,107,396,133"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#ac6e09bbdc312326db2a794cee5ab94c0" title="MainWindow::on_commandsSave\l_clicked" alt="" coords="188,158,408,199"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a332903d4cb976b351b8c11d6ec9159e3" title="MainWindow::on_settingsSave\l_clicked" alt="" coords="197,223,399,265"/>
+<area shape="rect" id="node11" href="$db/d47/classMainCore.html#ab7a9000d4fe0032b406927c7a4e0f2d2" title="MainCore::~MainCore" alt="" coords="223,289,373,316"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="465,56,649,83"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="725,56,868,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="456,107,659,133"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="707,107,887,133"/>
+</map>

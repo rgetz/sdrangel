@@ -1,0 +1,12 @@
+<map id="GLScopeGUI::on_traceDel_clicked" name="GLScopeGUI::on_traceDel_clicked">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#a67384f954cca809170c4b959102f9fac" title="GLScopeGUI::changeCurrent\lTrace" alt="" coords="232,129,425,171"/>
+<area shape="rect" id="node9" href="$d7/dcf/classScopeVis.html#af767d04ff1596ddb3e675befe0a802fe" title="ScopeVis::removeTrace" alt="" coords="483,195,646,222"/>
+<area shape="rect" id="node11" href="$d2/d02/classGLScope.html#a800878acac32efbcd62bf30830b30b73" title="GLScope::setDisplayMode" alt="" coords="239,246,418,273"/>
+<area shape="rect" id="node3" href="$d7/dcf/classScopeVis.html#a631c04320a943e30a2784630333bc728" title="ScopeVis::changeTrace" alt="" coords="484,137,645,163"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#a0f15228ae7fb3a6c496436aaa44d509b" title="GLScopeGUI::fillTraceData" alt="" coords="473,50,656,77"/>
+<area shape="rect" id="node4" href="$dc/db9/classScopeVis_1_1MsgScopeVisNGChangeTrace.html#af1599a7d1434f12bbe96198062bc70b3" title="ScopeVis::MsgScopeVisNGChange\lTrace::create" alt="" coords="706,71,938,112"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="738,188,906,229"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="747,137,897,163"/>
+<area shape="rect" id="node8" href="$df/dbc/structScopeVis_1_1TraceData.html#abf33b26a525333356eba9196114c3338" title="ScopeVis::TraceData\l::setColor" alt="" coords="749,5,895,47"/>
+<area shape="rect" id="node10" href="$dc/d5f/classScopeVis_1_1MsgScopeVisNGRemoveTrace.html#aecf58882430189e1658cb855a5fd88e3" title="ScopeVis::MsgScopeVisNGRemove\lTrace::create" alt="" coords="704,253,940,295"/>
+</map>

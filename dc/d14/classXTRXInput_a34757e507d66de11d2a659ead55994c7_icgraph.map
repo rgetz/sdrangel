@@ -1,0 +1,14 @@
+<map id="XTRXInput::getSRRange" name="XTRXInput::getSRRange">
+<area shape="rect" id="node2" href="$d3/df5/classXTRXInputGUI.html#a620307c4dd0acfce436bc01c18f220d1" title="XTRXInputGUI::displaySampleRate" alt="" coords="224,198,456,225"/>
+<area shape="rect" id="node5" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="1283,223,1491,250"/>
+<area shape="rect" id="node13" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="247,426,433,453"/>
+<area shape="rect" id="node3" href="$d3/df5/classXTRXInputGUI.html#a11da76b033279817719a23304671ca48" title="XTRXInputGUI::updateSample\lRateAndFrequency" alt="" coords="780,5,983,47"/>
+<area shape="rect" id="node6" href="$d3/df5/classXTRXInputGUI.html#a41956258c8ada4f53d445c92f7c2a513" title="XTRXInputGUI::displaySettings" alt="" coords="505,198,713,225"/>
+<area shape="rect" id="node11" href="$d3/df5/classXTRXInputGUI.html#ab80a7cc298f0de29394dd29222238b46" title="XTRXInputGUI::on_hwDecim\l_currentIndexChanged" alt="" coords="512,249,707,291"/>
+<area shape="rect" id="node12" href="$d3/df5/classXTRXInputGUI.html#afc03e4c7385b7a67acaef871366cf21c" title="XTRXInputGUI::on_sampleRate\lMode_toggled" alt="" coords="504,81,715,123"/>
+<area shape="rect" id="node4" href="$d3/df5/classXTRXInputGUI.html#a14a8a35ee0a173ad0eed8c87ddf8d902" title="XTRXInputGUI::handleInput\lMessages" alt="" coords="1048,136,1235,177"/>
+<area shape="rect" id="node7" href="$d3/df5/classXTRXInputGUI.html#a1a15ac2f0cdc02f3d6c31288a68d39f1" title="XTRXInputGUI::resetToDefaults" alt="" coords="775,274,987,301"/>
+<area shape="rect" id="node8" href="$d3/df5/classXTRXInputGUI.html#abe927c94932587eda6367a39e2697b80" title="XTRXInputGUI::deserialize" alt="" coords="1051,299,1232,326"/>
+<area shape="rect" id="node9" href="$d3/df5/classXTRXInputGUI.html#a148df1617f2ef96be40708a07006e326" title="XTRXInputGUI::setCenterFrequency" alt="" coords="763,71,1000,98"/>
+<area shape="rect" id="node10" href="$d3/df5/classXTRXInputGUI.html#ad5a3b3ea143d7a194ed0f412973d6f44" title="XTRXInputGUI::handleMessage" alt="" coords="776,122,987,149"/>
+</map>

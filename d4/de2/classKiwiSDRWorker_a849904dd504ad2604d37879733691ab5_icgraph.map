@@ -1,0 +1,8 @@
+<map id="KiwiSDRWorker::sendGain" name="KiwiSDRWorker::sendGain">
+<area shape="rect" id="node2" href="$d4/de2/classKiwiSDRWorker.html#aa8f07a3801f14cb404629efe4d2a0cdc" title="KiwiSDRWorker::onBinaryMessage\lReceived" alt="" coords="235,5,465,47"/>
+<area shape="rect" id="node4" href="$d4/de2/classKiwiSDRWorker.html#ab7b4335f2fdba349b8a429faf5e6ac21" title="KiwiSDRWorker::onGainChanged" alt="" coords="241,71,459,98"/>
+<area shape="rect" id="node3" href="$d4/de2/classKiwiSDRWorker.html#ad5d3d3392b99824ca4c8015afdc7b210" title="KiwiSDRWorker::KiwiSDRWorker" alt="" coords="513,13,736,39"/>
+<area shape="rect" id="node5" href="$d4/dbc/classKiwiSDRInput.html#ad8eac7e9247ca39ef86fb9a22b032c58" title="KiwiSDRInput::start" alt="" coords="555,71,694,98"/>
+<area shape="rect" id="node6" href="$d4/dbc/classKiwiSDRInput.html#a82985e560c9e21de05c9a39135bf1afb" title="KiwiSDRInput::KiwiSDRInput" alt="" coords="784,46,980,73"/>
+<area shape="rect" id="node7" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="1028,64,1224,105"/>
+</map>

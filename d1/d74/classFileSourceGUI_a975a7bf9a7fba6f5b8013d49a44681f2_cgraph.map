@@ -1,0 +1,6 @@
+<map id="FileSourceGUI::on_showFileDialog_clicked" name="FileSourceGUI::on_showFileDialog_clicked">
+<area shape="rect" id="node2" href="$d1/d74/classFileSourceGUI.html#a5db32734d4e0101d318976a4bfe8b4c9" title="FileSourceGUI::configure\lFileName" alt="" coords="243,71,412,112"/>
+<area shape="rect" id="node3" href="$d0/dac/classFileSource_1_1MsgConfigureFileSourceName.html#af1ba0cb30f7a96c7afce1037d306735e" title="FileSource::MsgConfigure\lFileSourceName::create" alt="" coords="460,5,633,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="463,71,631,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="472,137,621,163"/>
+</map>

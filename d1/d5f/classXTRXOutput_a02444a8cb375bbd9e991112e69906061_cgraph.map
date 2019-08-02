@@ -1,0 +1,23 @@
+<map id="XTRXOutput::webapiSettingsGet" name="XTRXOutput::webapiSettingsGet">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab91666efac2c8fab87fa13f24131959e" title="SWGSDRangel::SWGDeviceSettings\l::getXtrxOutputSettings" alt="" coords="559,5,801,47"/>
+<area shape="rect" id="node3" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#aace26bb3c3af9ebe10037806f7408c57" title="SWGSDRangel::SWGXtrxOutput\lSettings::init" alt="" coords="281,231,498,272"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a6c4e72912a30ac0890ca6cde9e89e967" title="SWGSDRangel::SWGDeviceSettings\l::setXtrxOutputSettings" alt="" coords="268,296,511,337"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#ac8920f510c148d9dedefe7e2bb20f87e" title="XTRXOutput::webapiFormat\lDeviceSettings" alt="" coords="296,528,483,569"/>
+<area shape="rect" id="node6" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#afc38c6b79b323b4713621dd19e327ce3" title="SWGSDRangel::SWGXtrxOutput\lSettings::getReverseApiAddress" alt="" coords="571,71,789,112"/>
+<area shape="rect" id="node7" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a6cc12dcdb331983c819cf550e221cfe2" title="SWGSDRangel::SWGXtrxOutput\lSettings::setAntennaPath" alt="" coords="571,136,789,177"/>
+<area shape="rect" id="node8" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#aa8489bc7a7a031a8cf189179b81db230" title="SWGSDRangel::SWGXtrxOutput\lSettings::setCenterFrequency" alt="" coords="571,201,789,243"/>
+<area shape="rect" id="node9" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a174df12bdf66b5fae5a4f296f2d3ebdd" title="SWGSDRangel::SWGXtrxOutput\lSettings::setDevSampleRate" alt="" coords="571,267,789,308"/>
+<area shape="rect" id="node10" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a35a9d1b24772da1c5a43a51165659fb1" title="SWGSDRangel::SWGXtrxOutput\lSettings::setExtClock" alt="" coords="571,332,789,373"/>
+<area shape="rect" id="node11" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a35329eb535b1c13dc5160d977b9a4c9d" title="SWGSDRangel::SWGXtrxOutput\lSettings::setExtClockFreq" alt="" coords="571,397,789,439"/>
+<area shape="rect" id="node12" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a0fa4b5bfd6961ff31c45c82a1a204709" title="SWGSDRangel::SWGXtrxOutput\lSettings::setGain" alt="" coords="571,463,789,504"/>
+<area shape="rect" id="node13" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a0fc8b61aa68c6bd7eddd7180bb0a724b" title="SWGSDRangel::SWGXtrxOutput\lSettings::setLog2HardInterp" alt="" coords="571,528,789,569"/>
+<area shape="rect" id="node14" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a47d9aabfc57df6fbc871e0d291fd0204" title="SWGSDRangel::SWGXtrxOutput\lSettings::setLog2SoftInterp" alt="" coords="571,593,789,635"/>
+<area shape="rect" id="node15" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#aac6e308c01ae7ad9486803c280a2dc07" title="SWGSDRangel::SWGXtrxOutput\lSettings::setLpfBw" alt="" coords="571,659,789,700"/>
+<area shape="rect" id="node16" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#af6bcf942dddaca56a5cc179be753da4f" title="SWGSDRangel::SWGXtrxOutput\lSettings::setNcoEnable" alt="" coords="571,724,789,765"/>
+<area shape="rect" id="node17" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a2fc1aafa98f412362c4f9c0ab21f147a" title="SWGSDRangel::SWGXtrxOutput\lSettings::setNcoFrequency" alt="" coords="571,789,789,831"/>
+<area shape="rect" id="node18" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a30237ea71487249e1eb7dd79dd097969" title="SWGSDRangel::SWGXtrxOutput\lSettings::setPwrmode" alt="" coords="571,855,789,896"/>
+<area shape="rect" id="node19" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a95bcbf28c04f8b762a5e48aae3c46f67" title="SWGSDRangel::SWGXtrxOutput\lSettings::setReverseApiAddress" alt="" coords="571,920,789,961"/>
+<area shape="rect" id="node20" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#af118623f07390c01026637ce796beb5d" title="SWGSDRangel::SWGXtrxOutput\lSettings::setReverseApiDeviceIndex" alt="" coords="561,985,799,1027"/>
+<area shape="rect" id="node21" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#a30892d2fcd6d8c6e86162ffd94049f50" title="SWGSDRangel::SWGXtrxOutput\lSettings::setReverseApiPort" alt="" coords="571,1051,789,1092"/>
+<area shape="rect" id="node22" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#ab14804245225dbc26458fd9400e0a8ec" title="SWGSDRangel::SWGXtrxOutput\lSettings::setUseReverseApi" alt="" coords="571,1116,789,1157"/>
+</map>

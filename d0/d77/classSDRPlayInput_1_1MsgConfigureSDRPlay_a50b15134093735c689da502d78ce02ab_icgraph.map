@@ -1,0 +1,7 @@
+<map id="SDRPlayInput::MsgConfigureSDRPlay::getSettings" name="SDRPlayInput::MsgConfigureSDRPlay::getSettings">
+<area shape="rect" id="node2" href="$d9/d15/classSDRPlayGui.html#a0924f5cee41324ec9f8e5dda9e2587ab" title="SDRPlayGui::handleMessage" alt="" coords="253,5,449,32"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="248,56,453,83"/>
+<area shape="rect" id="node3" href="$d9/d15/classSDRPlayGui.html#abd830e231d6971f0079292ccd29aa718" title="SDRPlayGui::handleInputMessages" alt="" coords="501,5,733,32"/>
+<area shape="rect" id="node4" href="$d9/d15/classSDRPlayGui.html#ace1afe52225f8a09356d5f34d8f30337" title="SDRPlayGui::SDRPlayGui" alt="" coords="781,5,961,32"/>
+<area shape="rect" id="node6" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="515,56,719,83"/>
+</map>

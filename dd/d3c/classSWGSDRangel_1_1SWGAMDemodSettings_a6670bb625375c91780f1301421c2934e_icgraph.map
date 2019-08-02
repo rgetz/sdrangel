@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGAMDemodSettings::getReverseApiPort" name="SWGSDRangel::SWGAMDemodSettings::getReverseApiPort">
+<area shape="rect" id="node2" href="$d9/df0/classAMDemod.html#a1b4fbe6ca8fcd5b27eb6d6186a16e5f2" title="AMDemod::webapiSettingsPut\lPatch" alt="" coords="317,5,519,47"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#aeecc8ca103d3ed99e3d30c508e49936c" title="FreqTracker::webapiSettings\lPutPatch" alt="" coords="323,71,513,112"/>
+<area shape="rect" id="node3" href="$d9/df0/classAMDemod.html#a7ce9542ab2fd3d85757796e1697a107b" title="AMDemod::getStreamCenter\lFrequency" alt="" coords="571,5,761,47"/>
+<area shape="rect" id="node5" href="$da/d2e/classFreqTracker.html#a8782e976ecfcbf1913e2f4c5704c846a" title="FreqTracker::getStreamCenter\lFrequency" alt="" coords="567,71,765,112"/>
+</map>

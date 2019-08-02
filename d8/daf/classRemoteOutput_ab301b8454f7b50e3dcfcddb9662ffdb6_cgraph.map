@@ -1,0 +1,11 @@
+<map id="RemoteOutput::webapiReportGet" name="RemoteOutput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aea4961c973052180d0c11712c662cdd6" title="SWGSDRangel::SWGDeviceReport\l::getRemoteOutputReport" alt="" coords="558,5,793,47"/>
+<area shape="rect" id="node3" href="$d4/dea/classSWGSDRangel_1_1SWGRemoteOutputReport.html#a50d3988edc92df6c4ad18ba81b99c446" title="SWGSDRangel::SWGRemoteOutput\lReport::init" alt="" coords="269,45,508,87"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aeddb780a276b63d577d899e13a8bfb94" title="SWGSDRangel::SWGDeviceReport\l::setRemoteOutputReport" alt="" coords="271,111,506,152"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a118ece97313af7ee227b1f1d3e5fc59b" title="RemoteOutput::webapiFormat\lDeviceReport" alt="" coords="290,176,487,217"/>
+<area shape="rect" id="node6" href="$d6/d8d/classSampleSourceFifo.html#a3c8a8e6e93159c6a3f1d3ceaf01d58be" title="SampleSourceFifo::getRWBalance" alt="" coords="563,91,788,118"/>
+<area shape="rect" id="node7" href="$dc/db6/classRemoteOutputThread.html#a2d74b46116bed7c88171d45f170cb295" title="RemoteOutputThread\l::getSamplesCount" alt="" coords="602,143,749,184"/>
+<area shape="rect" id="node9" href="$d4/dea/classSWGSDRangel_1_1SWGRemoteOutputReport.html#a2366851866781f31706622ffe60243b2" title="SWGSDRangel::SWGRemoteOutput\lReport::setBufferRwBalance" alt="" coords="556,208,795,249"/>
+<area shape="rect" id="node10" href="$d4/dea/classSWGSDRangel_1_1SWGRemoteOutputReport.html#ab53e86aa108068d4a646033409113a55" title="SWGSDRangel::SWGRemoteOutput\lReport::setSampleCount" alt="" coords="556,273,795,315"/>
+<area shape="rect" id="node8" href="$d6/dbf/classTimeUtil.html#ab4191df0ab0fa424ad1b63e65de1e596" title="returns the current epoch in microseconds " alt="" coords="843,150,960,177"/>
+</map>

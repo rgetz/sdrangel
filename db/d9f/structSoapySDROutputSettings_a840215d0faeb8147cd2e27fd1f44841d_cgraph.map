@@ -1,0 +1,13 @@
+<map id="SoapySDROutputSettings::serialize" name="SoapySDROutputSettings::serialize">
+<area shape="rect" id="node2" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="251,5,399,32"/>
+<area shape="rect" id="node3" href="$db/d9f/structSoapySDROutputSettings.html#a2f1fd203d20f053cbfcdae1bab0bb77f" title="SoapySDROutputSettings\l::serializeArgumentMap" alt="" coords="237,57,412,98"/>
+<area shape="rect" id="node4" href="$db/d9f/structSoapySDROutputSettings.html#ab2f70d4d95d3064bd3fd04a9e75dca18" title="SoapySDROutputSettings\l::serializeNamedElementMap" alt="" coords="228,122,421,163"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="235,188,414,215"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="235,239,414,265"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a313ea3b5686b5ab522c4b13c5b71f4f2" title="SimpleSerializer::writeDouble" alt="" coords="228,289,421,316"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="237,340,412,367"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="237,391,412,417"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="231,441,418,468"/>
+<area shape="rect" id="node12" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="237,492,413,519"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="469,340,644,367"/>
+</map>

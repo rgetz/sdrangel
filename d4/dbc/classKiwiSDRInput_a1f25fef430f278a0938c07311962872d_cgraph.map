@@ -1,0 +1,12 @@
+<map id="KiwiSDRInput::~KiwiSDRInput" name="KiwiSDRInput::~KiwiSDRInput">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#a97a618ef620c250acf13b80b9637a633" title="KiwiSDRInput::networkManager\lFinished" alt="" coords="259,45,468,87"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="257,111,469,138"/>
+<area shape="rect" id="node8" href="$d4/dbc/classKiwiSDRInput.html#ae36535d81dd0c15ff660b84b6a04158b" title="KiwiSDRInput::stop" alt="" coords="294,166,433,193"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="539,5,706,47"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="537,71,709,112"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="544,136,701,177"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="785,78,963,105"/>
+<area shape="rect" id="node9" href="$d4/dbc/classKiwiSDRInput.html#a31e477ee7fad6acc1e528786e8979deb" title="KiwiSDRInput::setWorkerStatus" alt="" coords="517,202,728,229"/>
+<area shape="rect" id="node10" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="799,173,949,199"/>
+<area shape="rect" id="node11" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a8d1889d0521ce89f83874113e2cd93ee" title="KiwiSDRInput::MsgSetStatus\l::create" alt="" coords="776,224,972,265"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="RemoteOutputThread::setSamplerate" name="RemoteOutputThread::setSamplerate">
+<area shape="rect" id="node2" href="$d6/d8d/classSampleSourceFifo.html#ae8af45490db22323de76a110d6b20ee0" title="SampleSourceFifo::resize" alt="" coords="215,56,387,83"/>
+<area shape="rect" id="node5" href="$d9/dc5/classUDPSinkFEC.html#a0e21c9834a53110d59e7a1a86fb353a4" title="UDPSinkFEC::setSampleRate" alt="" coords="200,107,403,133"/>
+<area shape="rect" id="node7" href="$dc/db6/classRemoteOutputThread.html#a206d94449ac6b1c8a1ffa4746fa86462" title="RemoteOutputThread\l::startWork" alt="" coords="228,158,375,199"/>
+<area shape="rect" id="node14" href="$dc/db6/classRemoteOutputThread.html#ab319d679044bf94c6f26c60d8e096007" title="RemoteOutputThread\l::stopWork" alt="" coords="228,223,375,265"/>
+<area shape="rect" id="node3" href="$d6/d8d/classSampleSourceFifo.html#a7853625d0b01bb3e897ad875c0a7c51f" title="SampleSourceFifo::size" alt="" coords="459,5,621,32"/>
+<area shape="rect" id="node4" href="$d6/d8d/classSampleSourceFifo.html#a885172a26be6aaf0f76b6f4326eb1bbb" title="SampleSourceFifo::init" alt="" coords="463,56,617,83"/>
+<area shape="rect" id="node6" href="$d9/dc5/classUDPSinkFEC.html#a93f8afb893faeeda64cd3380b70457b1" title="UDPSinkFEC::setTxDelay" alt="" coords="451,107,629,133"/>
+<area shape="rect" id="node8" href="$d9/dc5/classUDPSinkFEC.html#ac395aee90d4547bf1b00b971c8a6b17f" title="UDPSinkFEC::start" alt="" coords="471,168,609,195"/>
+<area shape="rect" id="node9" href="$d4/de0/classUDPSinkFECWorker.html#ad5e3651304599ecd64a7d6c519e202ec" title="UDPSinkFECWorker::setRemote\lAddress" alt="" coords="677,161,896,202"/>
+<area shape="rect" id="node12" href="$d4/de0/classUDPSinkFECWorker.html#ab91d34f4af333366daca398c8169b44b" title="UDPSinkFECWorker::startStop" alt="" coords="683,227,890,253"/>
+<area shape="rect" id="node10" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="987,197,1136,224"/>
+<area shape="rect" id="node11" href="$d2/d32/classUDPSinkFECWorker_1_1MsgConfigureRemoteAddress.html#ab2a4e7c38129dfe01e547898805d34b9" title="UDPSinkFECWorker::MsgConfigure\lRemoteAddress::create" alt="" coords="944,131,1179,173"/>
+<area shape="rect" id="node13" href="$d5/daf/classUDPSinkFECWorker_1_1MsgStartStop.html#ac8b6dd527ac958561eee1a930f8586ed" title="UDPSinkFECWorker::MsgStart\lStop::create" alt="" coords="958,249,1165,290"/>
+<area shape="rect" id="node15" href="$d9/dc5/classUDPSinkFEC.html#af8e4aad6cd9668372edc5c98af492ae1" title="UDPSinkFEC::stop" alt="" coords="471,228,609,255"/>
+</map>

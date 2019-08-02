@@ -1,0 +1,6 @@
+<map id="AudioInput::addFifo" name="AudioInput::addFifo">
+<area shape="rect" id="node2" href="$d6/d0c/classFCDProPlusInput.html#aacedaf752c106c4c242f4e9869b5b898" title="FCDProPlusInput::openFCDAudio" alt="" coords="188,5,411,32"/>
+<area shape="rect" id="node4" href="$db/d44/classFCDProInput.html#a446f5a3bbe1cfdb470c54b804eaf8604" title="FCDProInput::openFCDAudio" alt="" coords="201,56,397,83"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="459,5,661,32"/>
+<area shape="rect" id="node5" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="472,56,648,83"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="plugins/channelrx/remotesink/remotesinkgui.cpp" name="plugins/channelrx/remotesink/remotesinkgui.cpp">
+<area shape="rect" id="node3" href="$dc/d64/deviceuiset_8h.html" title="device/deviceuiset.h" alt="" coords="1284,95,1425,121"/>
+<area shape="rect" id="node7" href="$dc/d32/basicchannelsettingsdialog_8h.html" title="gui/basicchannelsettingsdialog.h" alt="" coords="640,95,851,121"/>
+<area shape="rect" id="node9" href="$de/d5f/hbfilterchainconverter_8h.html" title="dsp/hbfilterchainconverter.h" alt="" coords="2594,244,2777,271"/>
+<area shape="rect" id="node11" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="899,95,1005,121"/>
+<area shape="rect" id="node29" href="$d2/d9c/remotesinkgui_8h.html" title="remotesinkgui.h" alt="" coords="1717,169,1832,196"/>
+<area shape="rect" id="node39" href="$d0/d57/remotesink_8h.html" title="remotesink.h" alt="" coords="2613,95,2710,121"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1121,319,1191,345"/>
+<area shape="rect" id="node14" href="$de/de9/mainsettings_8h.html" title="settings/mainsettings.h" alt="" coords="343,169,500,196"/>
+<area shape="rect" id="node20" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="757,244,864,271"/>
+<area shape="rect" id="node22" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="2375,244,2518,271"/>
+<area shape="rect" id="node26" href="$d8/dfd/mainparser_8h.html" title="mainparser.h" alt="" coords="990,169,1087,196"/>
+<area shape="rect" id="node16" href="$d1/d3f/deviceuserargs_8h.html" title="device/deviceuserargs.h" alt="" coords="419,244,581,271"/>
+<area shape="rect" id="node17" href="$dd/d7d/preferences_8h.html" title="preferences.h" alt="" coords="293,244,395,271"/>
+<area shape="rect" id="node18" href="$d7/d2d/preset_8h.html" title="preset.h" alt="" coords="149,244,219,271"/>
+<area shape="rect" id="node31" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="1860,244,2031,271"/>
+<area shape="rect" id="node33" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="2157,244,2299,271"/>
+<area shape="rect" id="node36" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="1713,244,1836,271"/>
+<area shape="rect" id="node38" href="$d7/dd6/remotesinksettings_8h.html" title="remotesinksettings.h" alt="" coords="1270,244,1413,271"/>
+<area shape="rect" id="node35" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="2149,319,2297,345"/>
+<area shape="rect" id="node40" href="$d9/d5c/remotedatablock_8h.html" title="channel/remotedatablock.h" alt="" coords="2820,169,2999,196"/>
+<area shape="rect" id="node46" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="2357,169,2537,196"/>
+<area shape="rect" id="node47" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1397,169,1541,196"/>
+<area shape="rect" id="node43" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2853,244,2963,271"/>
+</map>

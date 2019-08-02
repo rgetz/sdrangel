@@ -1,0 +1,12 @@
+<map id="LocalSource::stop" name="LocalSource::stop">
+<area shape="rect" id="node2" href="$d9/df4/classLocalSourceThread.html#aab0c51e2bf9f9e8a181ac365fbcf7213" title="LocalSourceThread::\lstartStop" alt="" coords="180,108,323,149"/>
+<area shape="rect" id="node3" href="$d2/dbe/classLocalSourceThread_1_1MsgStartStop.html#a7a2b4967104ebe80d992e9b153464671" title="LocalSourceThread::\lMsgStartStop::create" alt="" coords="372,49,519,91"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="371,115,520,142"/>
+<area shape="rect" id="node4" href="$d2/dbe/classLocalSourceThread_1_1MsgStartStop.html#a68c59ce9d48b9315f71e8128f29c4b84" title="LocalSourceThread::\lMsgStartStop::MsgStartStop" alt="" coords="568,104,759,145"/>
+<area shape="rect" id="node5" href="$d9/df4/classLocalSourceThread.html#aa12a04eb934bb4ad4a9e1a9fee744783" title="LocalSourceThread::\lLocalSourceThread" alt="" coords="807,5,949,47"/>
+<area shape="rect" id="node6" href="$d9/df4/classLocalSourceThread.html#a8298739afa6c5d95705d726fc0944cf9" title="LocalSourceThread::\l~LocalSourceThread" alt="" coords="807,71,949,112"/>
+<area shape="rect" id="node7" href="$d9/df4/classLocalSourceThread.html#a3faa1b42e940d0936bc59be053ad6884" title="LocalSourceThread::\lsetSampleFifo" alt="" coords="807,136,949,177"/>
+<area shape="rect" id="node8" href="$d9/df4/classLocalSourceThread.html#ab9994a8f7e36f179bdd0f9401d425138" title="LocalSourceThread::\lpullSamples" alt="" coords="807,201,949,243"/>
+<area shape="rect" id="node9" href="$d6/d8d/classSampleSourceFifo.html#a07d7e2f11d7f5fa2bb4c640a15d6fe96" title="SampleSourceFifo::readAdvance" alt="" coords="997,179,1211,206"/>
+<area shape="rect" id="node10" href="$d6/d8d/classSampleSourceFifo.html#a584ae44c914a7f05be77febe204dfe99" title="SampleSourceFifo::getIterator\lOffset" alt="" coords="1006,231,1202,272"/>
+</map>

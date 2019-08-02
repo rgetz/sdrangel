@@ -1,0 +1,11 @@
+<map id="MainSettings::getCommand" name="MainSettings::getCommand">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a7fccf9808d6defab7478853ed207bc3c" title="MainWindow::commandKeyPressed" alt="" coords="237,13,471,39"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#a18e2bb9366401ffa98a3027c764301bc" title="MainSettings::getCommand" alt="" coords="262,63,446,90"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="265,114,443,141"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ae3353f98497720b6bab9309ac9857a0f" title="MainWindow::on_commandDelete\l_clicked" alt="" coords="243,165,465,207"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#ac3fd97421ad00ad6bce008f0af3d76b8" title="MainWindow::on_commandEdit\l_clicked" alt="" coords="535,285,741,327"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a79c800ecae23fe68f0c4877577732b6b" title="MainWindow::on_commandRun\l_clicked" alt="" coords="251,283,457,324"/>
+<area shape="rect" id="node10" href="$d5/df4/classMainSettings.html#a8df0aead327df1c5ae10d0372e1863b3" title="MainSettings::renameCommand\lGroup" alt="" coords="249,348,459,389"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#aa4745b470f0aa428bbecc3b571ebe72c" title="MainWindow::on_commandKeyboard\lConnect_toggled" alt="" coords="519,5,757,47"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="548,114,728,141"/>
+</map>

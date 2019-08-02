@@ -1,0 +1,6 @@
+<map id="DeviceSampleSource::setSampleRate" name="DeviceSampleSource::setSampleRate">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#a7e0c5db3a5ab16bdeacc32adf8fbc064" title="LocalSink::propagateSample\lRateAndFrequency" alt="" coords="201,5,389,47"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#ab1f0a9122fd3a86d7f792b77e9e0fa55" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="652,13,831,39"/>
+<area shape="rect" id="node5" href="$da/d9d/classLocalSink.html#addfeb93f67689b5f92e26351d7267873" title="LocalSink::applySettings" alt="" coords="437,38,604,65"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#a4d62e619cbbd3616bfcb3d362f050565" title="LocalSink::destroy" alt="" coords="879,13,1009,39"/>
+</map>

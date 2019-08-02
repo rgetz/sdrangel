@@ -1,0 +1,8 @@
+<map id="ATVModGUI::applySettings" name="ATVModGUI::applySettings">
+<area shape="rect" id="node2" href="$df/dd7/classATVMod_1_1MsgConfigureATVMod.html#a3d091623c1c930fd12bb7d51aa21e316" title="ATVMod::MsgConfigureATVMod\l::create" alt="" coords="246,5,459,47"/>
+<area shape="rect" id="node4" href="$d4/da8/classATVMod_1_1MsgConfigureChannelizer.html#a06f00724104eba8660f113900a2be59f" title="ATVMod::MsgConfigureChannelizer\l::create" alt="" coords="237,71,468,112"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="265,136,440,177"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="269,201,437,243"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="278,267,427,294"/>
+<area shape="rect" id="node3" href="$df/dd7/classATVMod_1_1MsgConfigureATVMod.html#af8566b9ea0d9f428d5f5b6a71d47828e" title="ATVMod::MsgConfigureATVMod\l::MsgConfigureATVMod" alt="" coords="516,5,729,47"/>
+</map>

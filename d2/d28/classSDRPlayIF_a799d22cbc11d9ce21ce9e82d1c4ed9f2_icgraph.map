@@ -1,0 +1,6 @@
+<map id="SDRPlayIF::getNbIFs" name="SDRPlayIF::getNbIFs">
+<area shape="rect" id="node2" href="$d9/d15/classSDRPlayGui.html#ace1afe52225f8a09356d5f34d8f30337" title="SDRPlayGui::SDRPlayGui" alt="" coords="212,5,392,32"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a09db82c5770a92204fbe621434ce1baf" title="SDRPlayInput::webapiFormat\lDeviceReport" alt="" coords="204,57,400,98"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a71c6a12533ea3e05ee0a63644e1b9fbd" title="SDRPlayInput::webapiReportGet" alt="" coords="448,64,663,91"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="711,64,915,91"/>
+</map>

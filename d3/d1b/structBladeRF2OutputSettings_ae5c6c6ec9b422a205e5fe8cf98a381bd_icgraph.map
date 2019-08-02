@@ -1,0 +1,9 @@
+<map id="BladeRF2OutputSettings::serialize" name="BladeRF2OutputSettings::serialize">
+<area shape="rect" id="node2" href="$dc/d19/classBladeRF2OutputGui.html#af04d54b5a7a7e52991c035690e779988" title="BladeRF2OutputGui::\lserialize" alt="" coords="234,5,381,47"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#a71e9458b71e7ed24cbe180e6bbd4bcb8" title="BladeRF2Output::serialize" alt="" coords="220,71,395,98"/>
+<area shape="rect" id="node4" href="$d7/d79/classBladeRF2Output.html#abe49439825b8b27165530df641ec2576" title="BladeRF2Output::setThread" alt="" coords="443,71,628,98"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a09d0f8a8602a5cbbb29ecea680ef0773" title="BladeRF2Output::moveThread\lToBuddy" alt="" coords="676,64,875,105"/>
+<area shape="rect" id="node6" href="$d7/d79/classBladeRF2Output.html#a4953c023bf3746fc339f900a0a566778" title="BladeRF2Output::closeDevice" alt="" coords="923,71,1121,98"/>
+<area shape="rect" id="node7" href="$d7/d79/classBladeRF2Output.html#acb37674096c0372e98ec33162c8af396" title="BladeRF2Output::~BladeRF2\lOutput" alt="" coords="1169,64,1363,105"/>
+<area shape="rect" id="node8" href="$d1/d57/classBladeRF2Output_1_1MsgReportGainRange.html#a6f2c610c442c6f3565bc397a263d9eab" title="BladeRF2Output::MsgReport\lGainRange::MsgReportGainRange" alt="" coords="1411,64,1635,105"/>
+</map>

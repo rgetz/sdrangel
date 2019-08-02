@@ -1,0 +1,17 @@
+<map id="SWGSDRangel::SWGSSBModSettings::getCwKeyer" name="SWGSDRangel::SWGSSBModSettings::getCwKeyer">
+<area shape="rect" id="node2" href="$dc/d8d/classSSBMod.html#a85ae87954cd4254ab7211635f8d6c40e" title="SSBMod::webapiFormatChannel\lSettings" alt="" coords="308,5,520,47"/>
+<area shape="rect" id="node5" href="$dc/d8d/classSSBMod.html#a33a10553c8457b3de57ac72029a6bc3e" title="SSBMod::webapiSettingsPut\lPatch" alt="" coords="569,64,759,105"/>
+<area shape="rect" id="node6" href="$dc/d8d/classSSBMod.html#ac0445cf63a13033bab7a531ed82a8b49" title="SSBMod::webapiReverseSend\lCWSettings" alt="" coords="313,123,515,164"/>
+<area shape="rect" id="node13" href="$dc/d8d/classSSBMod.html#a003080b5b6495fbfdbee3da314b1a900" title="SSBMod::webapiReverseSend\lSettings" alt="" coords="313,188,515,229"/>
+<area shape="rect" id="node3" href="$dc/d8d/classSSBMod.html#af57fc78df0469e7b4ced93a2bad62b60" title="SSBMod::webapiSettingsGet" alt="" coords="568,13,760,39"/>
+<area shape="rect" id="node4" href="$dc/d8d/classSSBMod.html#a52109fe5c575d8901546f3fec5aa50e1" title="SSBMod::getStreamCenterFrequency" alt="" coords="808,42,1051,69"/>
+<area shape="rect" id="node7" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="843,130,1016,157"/>
+<area shape="rect" id="node8" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1099,130,1325,157"/>
+<area shape="rect" id="node9" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1373,130,1556,157"/>
+<area shape="rect" id="node10" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1604,130,1747,157"/>
+<area shape="rect" id="node11" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1795,130,2036,157"/>
+<area shape="rect" id="node12" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2084,130,2255,157"/>
+<area shape="rect" id="node14" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="583,195,745,222"/>
+<area shape="rect" id="node15" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="862,195,997,222"/>
+<area shape="rect" id="node16" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1099,181,1325,237"/>
+</map>

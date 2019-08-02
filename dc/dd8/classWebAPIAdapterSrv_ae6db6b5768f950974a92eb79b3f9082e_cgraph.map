@@ -1,0 +1,12 @@
+<map id="WebAPIAdapterSrv::devicesetChannelPost" name="WebAPIAdapterSrv::devicesetChannelPost">
+<area shape="rect" id="node2" href="$df/d4a/classMainCore_1_1MsgAddChannel.html#a859e93845eb03358d657d00209247d72" title="MainCore::MsgAddChannel\l::create" alt="" coords="294,5,477,47"/>
+<area shape="rect" id="node3" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a856f5e5b136dd0fcb5ac74bbe0277f8c" title="SWGSDRangel::SWGChannelSettings\l::getChannelType" alt="" coords="260,71,511,112"/>
+<area shape="rect" id="node4" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a9e538ce3d905dc10dcbe501ab4a69e61" title="SWGSDRangel::SWGChannelSettings\l::getDirection" alt="" coords="260,136,511,177"/>
+<area shape="rect" id="node5" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="265,201,506,243"/>
+<area shape="rect" id="node6" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#a788632125aeeacf50992383d8fbfa177" title="SWGSDRangel::SWGSuccessResponse\l::getMessage" alt="" coords="253,267,517,308"/>
+<area shape="rect" id="node7" href="$de/d59/classPluginManager.html#a11be2551809c2ea9e8202b33bb79b1ff" title="PluginManager::getRxChannel\lRegistrations" alt="" coords="286,332,485,373"/>
+<area shape="rect" id="node8" href="$de/d59/classPluginManager.html#a29a1043f47b65ccd65305e21c2a456aa" title="PluginManager::getTxChannel\lRegistrations" alt="" coords="287,397,484,439"/>
+<area shape="rect" id="node9" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="265,463,506,504"/>
+<area shape="rect" id="node10" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#ad8b01b8f5ec488076a166446c4045229" title="SWGSDRangel::SWGSuccessResponse\l::init" alt="" coords="253,528,517,569"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="311,594,460,621"/>
+</map>

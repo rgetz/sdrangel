@@ -1,0 +1,6 @@
+<map id="UDPSourceUDPHandler::advanceReadPointer" name="UDPSourceUDPHandler::advanceReadPointer">
+<area shape="rect" id="node2" href="$df/d64/classUDPSourceMessages_1_1MsgSampleRateCorrection.html#a42612e6e93ac197b9d141a826a7ca29c" title="UDPSourceMessages::\lMsgSampleRateCorrection\l::create" alt="" coords="220,5,399,61"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="235,85,384,112"/>
+<area shape="rect" id="node5" href="$d3/d40/classUDPSourceUDPHandler.html#a109d2cb7491ca92b085cb69fd04958b4" title="UDPSourceUDPHandler\l::resetReadIndex" alt="" coords="226,137,393,178"/>
+<area shape="rect" id="node3" href="$df/d64/classUDPSourceMessages_1_1MsgSampleRateCorrection.html#af5f37438dd7b30a258d9c496a8d836cf" title="UDPSourceMessages::\lMsgSampleRateCorrection\l::MsgSampleRateCorrection" alt="" coords="447,5,633,61"/>
+</map>

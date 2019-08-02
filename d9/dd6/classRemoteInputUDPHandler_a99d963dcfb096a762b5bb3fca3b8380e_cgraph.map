@@ -1,0 +1,22 @@
+<map id="RemoteInputUDPHandler::setMessageQueueToGUI" name="RemoteInputUDPHandler::setMessageQueueToGUI">
+<area shape="rect" id="node2" href="$d9/dd6/classRemoteInputUDPHandler.html#a64caba7f9eb69d368f8eabc13aa93266" title="RemoteInputUDPHandler\l::configureUDPLink" alt="" coords="232,384,403,425"/>
+<area shape="rect" id="node3" href="$d9/dd6/classRemoteInputUDPHandler.html#a4d62a49e292c2552c78640207e62ebca" title="RemoteInputUDPHandler\l::start" alt="" coords="451,352,621,393"/>
+<area shape="rect" id="node5" href="$d9/dd6/classRemoteInputUDPHandler.html#a217d0624685523aa5a40b72239f8c33a" title="RemoteInputUDPHandler\l::stop" alt="" coords="451,417,621,459"/>
+<area shape="rect" id="node4" href="$d9/dd6/classRemoteInputUDPHandler.html#a53beb777f646aa790c5b7e02ba5c197a" title="RemoteInputUDPHandler\l::dataReadyRead" alt="" coords="669,352,840,393"/>
+<area shape="rect" id="node6" href="$d9/dd6/classRemoteInputUDPHandler.html#a574aed6e08308b0e50c0c6d9e57e6654" title="RemoteInputUDPHandler\l::disconnectTimer" alt="" coords="669,417,840,459"/>
+<area shape="rect" id="node7" href="$d9/dd6/classRemoteInputUDPHandler.html#a424a72b7870c1cd3e5a802f9b4033bb2" title="RemoteInputUDPHandler\l::tick" alt="" coords="888,417,1059,459"/>
+<area shape="rect" id="node8" href="$d8/d6d/classRemoteInputBuffer.html#ac26c514b90c559ab5f21f56e7faab240" title="RemoteInputBuffer::\lgetCurrentMeta" alt="" coords="1144,5,1284,47"/>
+<area shape="rect" id="node9" href="$d8/d6d/classRemoteInputBuffer.html#a4b7ccb6fca73bdfd9d19d154c1430561" title="RemoteInputBuffer::\lgetRWBalanceCorrection" alt="" coords="1129,71,1299,112"/>
+<area shape="rect" id="node10" href="$d8/d6d/classRemoteInputBuffer.html#a25f5281b4f095793f843d08e13274ec2" title="Read data from buffer. " alt="" coords="1144,136,1284,177"/>
+<area shape="rect" id="node11" href="$d0/d92/classSampleSinkFifo.html#a00f37394c7a6f2ccd0cf9f50b12534c7" title="SampleSinkFifo::write" alt="" coords="1139,202,1289,229"/>
+<area shape="rect" id="node12" href="$d8/d6d/classRemoteInputBuffer.html#a97e1c5f52fc308397b756b01648ada9e" title="RemoteInputBuffer::\lgetMinNbBlocks" alt="" coords="1144,253,1284,295"/>
+<area shape="rect" id="node13" href="$d8/d6d/classRemoteInputBuffer.html#a8a3e3d290df6131bb0c666d5fc681e3e" title="RemoteInputBuffer::\lgetMinOriginalBlocks" alt="" coords="1141,319,1287,360"/>
+<area shape="rect" id="node14" href="$dd/d31/classRemoteInput_1_1MsgReportRemoteInputStreamTiming.html#a2cf2d24a5b13a61a55e275d9f4c31999" title="RemoteInput::MsgReportRemote\lInputStreamTiming::create" alt="" coords="1107,384,1321,425"/>
+<area shape="rect" id="node15" href="$d8/d6d/classRemoteInputBuffer.html#a3b6f1b554f295663aaed7766b7810ca3" title="RemoteInputBuffer::\lgetBufferLengthInSecs" alt="" coords="1137,449,1291,491"/>
+<area shape="rect" id="node16" href="$d8/d6d/classRemoteInputBuffer.html#a6a3e969fe6a7e6c2a4401756018ef3a5" title="RemoteInputBuffer::\lgetBufferGauge" alt="" coords="1144,515,1284,556"/>
+<area shape="rect" id="node17" href="$d8/d6d/classRemoteInputBuffer.html#ad6d09cdae9fbd21a194f6167ae16d38b" title="RemoteInputBuffer::\lgetMaxNbRecovery" alt="" coords="1144,580,1284,621"/>
+<area shape="rect" id="node18" href="$d8/d6d/classRemoteInputBuffer.html#a0429a0519ca970f3168cd893ee58d32f" title="RemoteInputBuffer::\lgetAvgNbBlocks" alt="" coords="1144,645,1284,687"/>
+<area shape="rect" id="node19" href="$d8/d6d/classRemoteInputBuffer.html#a3db68fee23aa3653dac7f3ba365bd1f6" title="RemoteInputBuffer::\lgetAvgOriginalBlocks" alt="" coords="1141,711,1287,752"/>
+<area shape="rect" id="node20" href="$d8/d6d/classRemoteInputBuffer.html#ab8da14d71d540452833fc0ae578cc074" title="RemoteInputBuffer::\lgetAvgNbRecovery" alt="" coords="1144,776,1284,817"/>
+<area shape="rect" id="node21" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1139,842,1289,869"/>
+</map>

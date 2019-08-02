@@ -1,0 +1,23 @@
+<map id="NFMDemodGUI::applySettings" name="NFMDemodGUI::applySettings">
+<area shape="rect" id="node2" href="$d3/d95/classNFMDemodGUI.html#a85331e35395508f12b0bfd77b84b641c" title="NFMDemodGUI::audioSelect" alt="" coords="282,137,475,163"/>
+<area shape="rect" id="node3" href="$d3/d95/classNFMDemodGUI.html#a6c3832ae9989675c2343a580bd3bdf7e" title="NFMDemodGUI::NFMDemodGUI" alt="" coords="548,107,768,134"/>
+<area shape="rect" id="node7" href="$d3/d95/classNFMDemodGUI.html#ab67398a61835dbbe59bb802fb9ef76d6" title="NFMDemodGUI::channelMarker\lChangedByCursor" alt="" coords="273,5,484,47"/>
+<area shape="rect" id="node8" href="$d3/d95/classNFMDemodGUI.html#afe86e9be33b09b3aad5d1a93d186f831" title="NFMDemodGUI::deserialize" alt="" coords="565,983,751,1010"/>
+<area shape="rect" id="node9" href="$d3/d95/classNFMDemodGUI.html#aa4b5ce497fbbeebde1c530b72e6f6496" title="NFMDemodGUI::on_afBW\l_valueChanged" alt="" coords="289,239,468,280"/>
+<area shape="rect" id="node10" href="$d3/d95/classNFMDemodGUI.html#a097e77320494c7c683e16495b3394b3c" title="NFMDemodGUI::on_audioMute\l_toggled" alt="" coords="275,304,482,345"/>
+<area shape="rect" id="node11" href="$d3/d95/classNFMDemodGUI.html#a60596c1d4c75bdb3fabdf20fba327a20" title="NFMDemodGUI::on_ctcss\l_currentIndexChanged" alt="" coords="289,369,468,411"/>
+<area shape="rect" id="node12" href="$d3/d95/classNFMDemodGUI.html#a418a3e47ec72d39bcf58900ff9606454" title="NFMDemodGUI::on_ctcssOn\l_toggled" alt="" coords="281,435,476,476"/>
+<area shape="rect" id="node13" href="$d3/d95/classNFMDemodGUI.html#ad344e8d2df32a66991886cfaa6877b72" title="NFMDemodGUI::on_deltaFrequency\l_changed" alt="" coords="261,500,496,541"/>
+<area shape="rect" id="node14" href="$d3/d95/classNFMDemodGUI.html#aea4c82156df5113e906d54c5eb5b6e4f" title="NFMDemodGUI::on_deltaSquelch\l_toggled" alt="" coords="268,565,489,607"/>
+<area shape="rect" id="node15" href="$d3/d95/classNFMDemodGUI.html#ac982a20888a64c6811d1cfb4214f5833" title="NFMDemodGUI::on_highPass\lFilter_toggled" alt="" coords="279,631,479,672"/>
+<area shape="rect" id="node16" href="$d3/d95/classNFMDemodGUI.html#ab7a321dce977e3a5e5774b7a00719001" title="NFMDemodGUI::on_rfBW\l_currentIndexChanged" alt="" coords="291,696,467,737"/>
+<area shape="rect" id="node17" href="$d3/d95/classNFMDemodGUI.html#a884648e42a225cd99c18947c62693387" title="NFMDemodGUI::on_squelch\l_valueChanged" alt="" coords="283,761,474,803"/>
+<area shape="rect" id="node18" href="$d3/d95/classNFMDemodGUI.html#a4b1697d2b400d3911a7728abfafa17ed" title="NFMDemodGUI::on_squelchGate\l_valueChanged" alt="" coords="269,827,488,868"/>
+<area shape="rect" id="node19" href="$d3/d95/classNFMDemodGUI.html#ab5806581a32cc6b619b1c4a46f6f28d7" title="NFMDemodGUI::on_volume\l_valueChanged" alt="" coords="285,892,473,933"/>
+<area shape="rect" id="node20" href="$d3/d95/classNFMDemodGUI.html#a697b04a6e1700ca6290e64867e48087c" title="NFMDemodGUI::onMenuDialog\lCalled" alt="" coords="275,71,483,112"/>
+<area shape="rect" id="node21" href="$d3/d95/classNFMDemodGUI.html#a806b972aa7b461091e19d30625becc2a" title="NFMDemodGUI::resetToDefaults" alt="" coords="269,958,488,985"/>
+<area shape="rect" id="node22" href="$d3/d95/classNFMDemodGUI.html#af56745d3e38745131178ad2e726cc8a4" title="NFMDemodGUI::setCenterFrequency" alt="" coords="257,1059,500,1086"/>
+<area shape="rect" id="node4" href="$d3/d95/classNFMDemodGUI.html#af49e6c079fb7a1e49ebb6662c6a6ef95" title="NFMDemodGUI::create" alt="" coords="816,107,977,134"/>
+<area shape="rect" id="node5" href="$d8/d38/classNFMPlugin.html#a1c5b954f9a47c0bce00a111ac9300b32" title="NFMPlugin::createRxChannelGUI" alt="" coords="1025,107,1245,134"/>
+<area shape="rect" id="node6" href="$d8/d38/classNFMPlugin.html#a536ce48243ba9169a2ed880db0d341ad" title="NFMPlugin::initPlugin" alt="" coords="1293,107,1441,134"/>
+</map>

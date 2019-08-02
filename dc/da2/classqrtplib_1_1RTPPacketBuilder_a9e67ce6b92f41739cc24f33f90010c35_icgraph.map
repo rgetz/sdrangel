@@ -1,0 +1,12 @@
+<map id="qrtplib::RTPPacketBuilder::GetSSRC" name="qrtplib::RTPPacketBuilder::GetSSRC">
+<area shape="rect" id="node2" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a9a0d6aa533accbfeb2ad1901a1db3290" title="qrtplib::RTCPPacketBuilder\l::BuildBYEPacket" alt="" coords="227,5,409,47"/>
+<area shape="rect" id="node6" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a78bf3048ae31cad82020d4ebd96a2b2a" title="qrtplib::RTCPPacketBuilder\l::BuildNextPacket" alt="" coords="227,71,409,112"/>
+<area shape="rect" id="node7" href="$db/d64/classqrtplib_1_1RTPSession.html#a527c0c37730741c6efdc57cd533a82d6" title="qrtplib::RTPSession\l::GetLocalSSRC" alt="" coords="249,136,387,177"/>
+<area shape="rect" id="node8" href="$db/d64/classqrtplib_1_1RTPSession.html#a1a500524e11972feb88b4a3aa528f43d" title="qrtplib::RTPSession\l::InternalCreate" alt="" coords="249,201,387,243"/>
+<area shape="rect" id="node11" href="$db/d64/classqrtplib_1_1RTPSession.html#a1c99b8e202d5127c36a0375ba1dc20b5" title="qrtplib::RTPSession\l::SendRTCPAPPPacket" alt="" coords="235,267,401,308"/>
+<area shape="rect" id="node3" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="459,5,598,47"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="457,71,600,112"/>
+<area shape="rect" id="node4" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="648,13,792,39"/>
+<area shape="rect" id="node9" href="$db/d64/classqrtplib_1_1RTPSession.html#af395df007a4f3422d56bc8e4fc0af973" title="qrtplib::RTPSession\l::Create" alt="" coords="459,201,598,243"/>
+<area shape="rect" id="node10" href="$de/df9/classRTPSink.html#a0f8293af155857b9347f5fb15095f23b" title="RTPSink::RTPSink" alt="" coords="652,209,788,235"/>
+</map>

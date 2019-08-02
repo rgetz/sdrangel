@@ -1,0 +1,30 @@
+<map id="MovingAverage::fill" name="MovingAverage::fill">
+<area shape="rect" id="node2" href="$d7/de9/classMagAGC.html#a5638214fb84e90d8220cda5aa02068bf" title="MagAGC::resize" alt="" coords="195,154,313,181"/>
+<area shape="rect" id="node29" href="$d7/de9/classMagAGC.html#ae58362046d6291bd6abe157e57478639" title="MagAGC::setOrder" alt="" coords="187,205,321,231"/>
+<area shape="rect" id="node3" href="$d9/df0/classAMDemod.html#afd1f6fb2c119035c1e0854c7310fdc6c" title="AMDemod::AMDemod" alt="" coords="919,13,1073,39"/>
+<area shape="rect" id="node5" href="$d9/df0/classAMDemod.html#a6a1fa77c14572d6db7e3c9c3e6cc0501" title="AMDemod::applyAudioSampleRate" alt="" coords="373,103,601,130"/>
+<area shape="rect" id="node9" href="$d6/d4d/classSSBDemod.html#aa5472f562a0ec783c818ff60914fe5be" title="SSBDemod::applyAudioSampleRate" alt="" coords="369,154,604,181"/>
+<area shape="rect" id="node16" href="$d6/d4d/classSSBDemod.html#a1e77407aab8eb0cfa6d1214e9361b4be" title="SSBDemod::applySettings" alt="" coords="652,205,831,231"/>
+<area shape="rect" id="node19" href="$d2/d3d/classUDPSink.html#a90c3091157ab5a24d56942f37359319f" title="UDPSink::applySettings" alt="" coords="405,263,569,290"/>
+<area shape="rect" id="node4" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#ac1e64f0d8384a19441ee6ff2ce27098a" title="AMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1165,5,1407,47"/>
+<area shape="rect" id="node6" href="$d9/df0/classAMDemod.html#a64b221c1e44fae0e0a13388fd4dbe39e" title="AMDemod::applySettings" alt="" coords="656,53,827,79"/>
+<area shape="rect" id="node7" href="$d9/df0/classAMDemod.html#a0cc413b8436d68d43d6a3d97e93cef20" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="905,82,1087,109"/>
+<area shape="rect" id="node8" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="1219,82,1353,109"/>
+<area shape="rect" id="node10" href="$d6/d4d/classSSBDemod.html#a48a39544f77dc8534c0a9ab1e6ff2f30" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="901,154,1091,181"/>
+<area shape="rect" id="node11" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="1193,150,1379,177"/>
+<area shape="rect" id="node12" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1459,150,1675,177"/>
+<area shape="rect" id="node13" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1723,150,1881,177"/>
+<area shape="rect" id="node14" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1943,150,2162,177"/>
+<area shape="rect" id="node15" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="2238,150,2385,177"/>
+<area shape="rect" id="node17" href="$d6/d4d/classSSBDemod.html#af1616f000bd0d352b723029a7763d565" title="SSBDemod::SSBDemod" alt="" coords="912,205,1080,231"/>
+<area shape="rect" id="node18" href="$d1/d55/classSSBDemod_1_1MsgConfigureChannelizer.html#a7f6e4b7862591bedc88eb19edca8a53a" title="SSBDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1161,201,1411,243"/>
+<area shape="rect" id="node20" href="$d2/d3d/classUDPSink.html#a6e0a451e78739fa6faa371afdea73aff" title="UDPSink::UDPSink" alt="" coords="671,263,811,290"/>
+<area shape="rect" id="node22" href="$d2/d3d/classUDPSink.html#af42344b7dd6a2086d0b544d6334dcf22" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="653,318,829,345"/>
+<area shape="rect" id="node21" href="$d9/d30/classUDPSink_1_1MsgConfigureChannelizer.html#a686c49baf084992c02c97870a6ee2517" title="UDPSink::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="879,256,1113,297"/>
+<area shape="rect" id="node23" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="905,322,1087,349"/>
+<area shape="rect" id="node24" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="1221,322,1351,349"/>
+<area shape="rect" id="node25" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1473,322,1661,349"/>
+<area shape="rect" id="node26" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1729,322,1875,349"/>
+<area shape="rect" id="node27" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1929,322,2176,349"/>
+<area shape="rect" id="node28" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="2224,322,2399,349"/>
+</map>

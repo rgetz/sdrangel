@@ -1,0 +1,10 @@
+<map id="BladeRF2Output::getNbChannels" name="BladeRF2Output::getNbChannels">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a21957e65029f95563b182445c3bd92cc" title="BladeRF2Output::findThread" alt="" coords="271,56,459,83"/>
+<area shape="rect" id="node5" href="$de/d78/classBladeRF2OutputThread.html#a2c96fa1c5ba853f25e06d00d79c31e8a" title="BladeRF2OutputThread\l::getNbChannels" alt="" coords="285,173,444,214"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="507,5,691,32"/>
+<area shape="rect" id="node4" href="$d7/d79/classBladeRF2Output.html#adf87bfae6268659ef686eae3a364e423" title="BladeRF2Output::getThread" alt="" coords="507,56,692,83"/>
+<area shape="rect" id="node6" href="$de/d78/classBladeRF2OutputThread.html#ad5e533aca3081d872b7e44143e1e19e6" title="BladeRF2OutputThread\l::setLog2Interpolation" alt="" coords="520,107,679,149"/>
+<area shape="rect" id="node7" href="$de/d78/classBladeRF2OutputThread.html#ab996f7692985bc3d9252f67b3a6452cd" title="BladeRF2OutputThread\l::getLog2Interpolation" alt="" coords="520,173,679,214"/>
+<area shape="rect" id="node8" href="$de/d78/classBladeRF2OutputThread.html#a18685cc41f204c7353af13b06a90cc2f" title="BladeRF2OutputThread\l::setFifo" alt="" coords="520,238,679,279"/>
+<area shape="rect" id="node9" href="$de/d78/classBladeRF2OutputThread.html#a00aa453c8528a84f0d1d8a97dc5d64ca" title="BladeRF2OutputThread\l::getFifo" alt="" coords="520,303,679,345"/>
+</map>

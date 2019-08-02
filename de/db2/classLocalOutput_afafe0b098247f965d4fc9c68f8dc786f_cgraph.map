@@ -1,0 +1,12 @@
+<map id="LocalOutput::deserialize" name="LocalOutput::deserialize">
+<area shape="rect" id="node2" href="$d7/d3a/classLocalOutput_1_1MsgConfigureLocalOutput.html#a50451c040d15886a5f4ccd9631878516" title="LocalOutput::MsgConfigure\lLocalOutput::create" alt="" coords="216,22,397,63"/>
+<area shape="rect" id="node4" href="$d2/d5a/structLocalOutputSettings.html#a9ccefc37c4bc34d0954bcfe8aeef231a" title="LocalOutputSettings\l::deserialize" alt="" coords="237,151,377,193"/>
+<area shape="rect" id="node6" href="$d2/d5a/structLocalOutputSettings.html#ae2cc41e5524499f275ad35d590abfb7a" title="LocalOutputSettings\l::resetToDefaults" alt="" coords="481,86,621,127"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="232,217,381,244"/>
+<area shape="rect" id="node3" href="$d7/d3a/classLocalOutput_1_1MsgConfigureLocalOutput.html#a1b626c6556f9e8886a949da58391a081" title="LocalOutput::MsgConfigure\lLocalOutput::MsgConfigureLocal\lOutput" alt="" coords="445,5,657,61"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="486,151,617,193"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="486,217,617,258"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="486,282,617,323"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="486,347,617,389"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="705,347,836,389"/>
+</map>

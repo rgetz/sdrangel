@@ -1,0 +1,26 @@
+<map id="AMModGUI::applySettings" name="AMModGUI::applySettings">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="804,140,972,167"/>
+<area shape="rect" id="node6" href="$d8/d1b/classAMModGUI.html#a52f7f0584a213309ad60596279f6c90a" title="AMModGUI::audioFeedbackSelect" alt="" coords="526,89,750,116"/>
+<area shape="rect" id="node7" href="$d8/d1b/classAMModGUI.html#ad3ae25157aaa3c540dfaae4ed0ed47aa" title="AMModGUI::audioSelect" alt="" coords="269,140,435,167"/>
+<area shape="rect" id="node8" href="$d8/d1b/classAMModGUI.html#ae8e08a4093fb426517ae1e7caac91cb6" title="AMModGUI::channelMarkerChanged\lByCursor" alt="" coords="520,191,756,233"/>
+<area shape="rect" id="node9" href="$d8/d1b/classAMModGUI.html#a6041467f761ee4df05669fbe4c08f8fb" title="AMModGUI::deserialize" alt="" coords="557,465,719,492"/>
+<area shape="rect" id="node10" href="$d8/d1b/classAMModGUI.html#ae6a23a58b0ec06749410fbc8b002a3f2" title="AMModGUI::on_channelMute\l_toggled" alt="" coords="255,293,449,334"/>
+<area shape="rect" id="node11" href="$d8/d1b/classAMModGUI.html#a4ad147c783d583dcf02c6dc1e361d1c1" title="AMModGUI::on_deltaFrequency\l_changed" alt="" coords="247,358,457,399"/>
+<area shape="rect" id="node12" href="$d8/d1b/classAMModGUI.html#a5206be4148843936ceac5ae74c07cb49" title="AMModGUI::on_feedbackEnable\l_toggled" alt="" coords="245,423,459,465"/>
+<area shape="rect" id="node13" href="$d8/d1b/classAMModGUI.html#af7e6566dbb5886e06ed466316e52c79e" title="AMModGUI::on_feedbackVolume\l_valueChanged" alt="" coords="243,489,461,530"/>
+<area shape="rect" id="node14" href="$d8/d1b/classAMModGUI.html#aae22f8fb42a79d36179f13c1366403cc" title="AMModGUI::on_mic_toggled" alt="" coords="257,555,447,581"/>
+<area shape="rect" id="node15" href="$d8/d1b/classAMModGUI.html#a8c536ea72435205fd43fa6610c728a58" title="AMModGUI::on_modPercent\l_valueChanged" alt="" coords="257,606,447,647"/>
+<area shape="rect" id="node16" href="$d8/d1b/classAMModGUI.html#af794da59409d5392596b3b37f0c1ea67" title="AMModGUI::on_morseKeyer\l_toggled" alt="" coords="257,671,447,713"/>
+<area shape="rect" id="node17" href="$d8/d1b/classAMModGUI.html#a96c51372a72ab60b9219d86b10934bf4" title="AMModGUI::on_play_toggled" alt="" coords="255,737,449,764"/>
+<area shape="rect" id="node18" href="$d8/d1b/classAMModGUI.html#a46949b645a6862b7a30881dbf8704ef8" title="AMModGUI::on_playLoop\l_toggled" alt="" coords="266,789,438,830"/>
+<area shape="rect" id="node19" href="$d8/d1b/classAMModGUI.html#a76e29b38af7a88e64cdf90b2a7bef9e0" title="AMModGUI::on_rfBW_valueChanged" alt="" coords="232,855,472,881"/>
+<area shape="rect" id="node20" href="$d8/d1b/classAMModGUI.html#acbffc08e1773dcc80f8fdca607db6d2c" title="AMModGUI::on_tone_toggled" alt="" coords="255,905,449,932"/>
+<area shape="rect" id="node21" href="$d8/d1b/classAMModGUI.html#ad1edebcd763ccb1ec34cf757d254491d" title="AMModGUI::on_toneFrequency\l_valueChanged" alt="" coords="249,957,455,998"/>
+<area shape="rect" id="node22" href="$d8/d1b/classAMModGUI.html#aa6fe7f15f81faf6e5854a32156a8e50f" title="AMModGUI::on_volume\l_valueChanged" alt="" coords="271,1022,433,1063"/>
+<area shape="rect" id="node23" href="$d8/d1b/classAMModGUI.html#a4d33ca8a5f26709f5954bcb06fd0173b" title="AMModGUI::onMenuDialogCalled" alt="" coords="529,931,747,957"/>
+<area shape="rect" id="node24" href="$d8/d1b/classAMModGUI.html#a9a1d1c0e185d2f3eba334267fc11e448" title="AMModGUI::resetToDefaults" alt="" coords="256,1088,448,1115"/>
+<area shape="rect" id="node25" href="$d8/d1b/classAMModGUI.html#a88cd6e0657dacb68583e7fb3b021f35b" title="AMModGUI::setCenterFrequency" alt="" coords="243,1189,461,1216"/>
+<area shape="rect" id="node3" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="1020,140,1155,167"/>
+<area shape="rect" id="node4" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="1203,140,1437,167"/>
+<area shape="rect" id="node5" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1485,140,1649,167"/>
+</map>

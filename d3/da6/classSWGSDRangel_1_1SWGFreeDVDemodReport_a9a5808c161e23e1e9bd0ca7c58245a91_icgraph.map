@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGFreeDVDemodReport::setSquelch" name="SWGSDRangel::SWGFreeDVDemodReport::setSquelch">
+<area shape="rect" id="node2" href="$de/de0/classFreeDVDemod.html#a8094f9f6ce42336e11e02c3281102298" title="FreeDVDemod::webapiFormat\lChannelReport" alt="" coords="295,5,493,47"/>
+<area shape="rect" id="node3" href="$de/de0/classFreeDVDemod.html#af7e76639b13eb9844e58ed4376632fbc" title="FreeDVDemod::webapiReportGet" alt="" coords="541,13,760,39"/>
+<area shape="rect" id="node4" href="$de/de0/classFreeDVDemod.html#af47e9e95c71ec1881974b508da07520b" title="FreeDVDemod::isSync" alt="" coords="808,13,965,39"/>
+<area shape="rect" id="node5" href="$da/d3d/classFreeDVDemodGUI.html#a8fecb1d13482226c1406b8e0ca19571f" title="FreeDVDemodGUI::tick" alt="" coords="1013,13,1176,39"/>
+<area shape="rect" id="node6" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="1224,13,1476,39"/>
+<area shape="rect" id="node7" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1524,13,1701,39"/>
+<area shape="rect" id="node8" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1749,13,1985,39"/>
+<area shape="rect" id="node9" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="2033,13,2197,39"/>
+</map>

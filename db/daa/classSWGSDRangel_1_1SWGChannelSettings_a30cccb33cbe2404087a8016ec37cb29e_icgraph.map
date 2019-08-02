@@ -1,0 +1,16 @@
+<map id="SWGSDRangel::SWGChannelSettings::setWfmModSettings" name="SWGSDRangel::SWGChannelSettings::setWfmModSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a906e2386603e46ccbbd6be27d987789f" title="WebAPIRequestMapper\l::resetChannelSettings" alt="" coords="326,28,489,69"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="322,93,493,135"/>
+<area shape="rect" id="node7" href="$d6/de3/classWFMMod.html#a6d371d80037d69f4f01f97803a1c974b" title="WFMMod::webapiReverseSend\lCWSettings" alt="" coords="579,152,785,193"/>
+<area shape="rect" id="node10" href="$d6/de3/classWFMMod.html#aea233d97d5c7cf97712706e7ae507b4a" title="WFMMod::webapiReverseSend\lSettings" alt="" coords="304,211,511,252"/>
+<area shape="rect" id="node14" href="$d6/de3/classWFMMod.html#a367739d0bcde31ebd42a6add0f7a5536" title="WFMMod::webapiSettingsGet" alt="" coords="309,277,506,303"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="593,5,771,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="591,71,773,127"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="861,43,1024,84"/>
+<area shape="rect" id="node8" href="$d6/de3/classWFMMod.html#a17f8e8203448d5f97fc8850ffd705b90" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="853,159,1032,186"/>
+<area shape="rect" id="node9" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="1128,157,1259,183"/>
+<area shape="rect" id="node11" href="$d6/de3/classWFMMod.html#aea7a42df0087b2917115e037df66b58a" title="WFMMod::applySettings" alt="" coords="599,218,765,245"/>
+<area shape="rect" id="node12" href="$d6/de3/classWFMMod.html#a3ec9a5e2e2e9b52cf401f9898c93c346" title="WFMMod::WFMMod" alt="" coords="871,219,1015,246"/>
+<area shape="rect" id="node13" href="$db/daf/classWFMMod_1_1MsgReportFileSourceStreamData.html#aeff81f569c77de84e535283bda05d14a" title="WFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1080,207,1307,263"/>
+<area shape="rect" id="node15" href="$d6/de3/classWFMMod.html#a8912fe9004d7b80a686881fa53a7a3ca" title="WFMMod::getStreamCenterFrequency" alt="" coords="559,277,805,303"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="NFMModGUI::tick" name="NFMModGUI::tick">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="257,35,297,61"/>
+<area shape="rect" id="node7" href="$db/d8a/classNFMMod_1_1MsgConfigureFileSourceStreamTiming.html#a21527331fd9eece0f34c34debb8d7b58" title="NFMMod::MsgConfigureFile\lSourceStreamTiming::create" alt="" coords="183,86,371,127"/>
+<area shape="rect" id="node8" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="214,152,339,179"/>
+<area shape="rect" id="node9" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="193,203,361,245"/>
+<area shape="rect" id="node10" href="$de/df8/classNFMMod.html#ac20988a4ad33dd677a488cc24c854a7e" title="NFMMod::getMagSq" alt="" coords="205,269,348,296"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="202,320,351,347"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="419,35,527,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="575,57,723,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="779,5,897,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="771,57,905,98"/>
+</map>

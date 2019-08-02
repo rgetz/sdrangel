@@ -1,0 +1,5 @@
+<map id="SoapySDRInput::setDeviceCenterFrequency" name="SoapySDRInput::setDeviceCenterFrequency">
+<area shape="rect" id="node2" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="237,31,441,57"/>
+<area shape="rect" id="node3" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="489,5,705,32"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="526,56,669,83"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="GLSpectrumGUI::getAveragingValue" name="GLSpectrumGUI::getAveragingValue">
+<area shape="rect" id="node2" href="$d4/dcb/classGLSpectrumGUI.html#a392ed970ea2eeb5dcb279122611643e7" title="GLSpectrumGUI::deserialize" alt="" coords="263,97,453,123"/>
+<area shape="rect" id="node9" href="$d4/dcb/classGLSpectrumGUI.html#aae3d1d245b3bcfb643322811121c4fdf" title="GLSpectrumGUI::on_averaging\l_currentIndexChanged" alt="" coords="256,149,460,191"/>
+<area shape="rect" id="node10" href="$d4/dcb/classGLSpectrumGUI.html#afe7a0483fa127807472a56ed4462a2a8" title="GLSpectrumGUI::serialize" alt="" coords="271,218,445,245"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="510,97,725,123"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1277,97,1457,123"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="779,122,975,149"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="781,5,972,47"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1027,122,1229,149"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="1034,5,1222,47"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a87c9229d360865dd18182e77342a2f5e" title="MainWindow::savePresetSettings" alt="" coords="508,245,727,271"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="791,370,962,397"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="781,173,973,215"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="775,239,979,280"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#a332903d4cb976b351b8c11d6ec9159e3" title="MainWindow::on_settingsSave\l_clicked" alt="" coords="775,304,978,345"/>
+</map>

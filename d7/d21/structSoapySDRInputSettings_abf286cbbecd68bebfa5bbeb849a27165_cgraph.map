@@ -1,0 +1,15 @@
+<map id="SoapySDRInputSettings::deserialize" name="SoapySDRInputSettings::deserialize">
+<area shape="rect" id="node2" href="$d7/d21/structSoapySDRInputSettings.html#ab381e4b0836f57cd956bfc044bf4eeb6" title="SoapySDRInputSettings\l::deserializeArgumentMap" alt="" coords="235,5,409,47"/>
+<area shape="rect" id="node3" href="$d7/d21/structSoapySDRInputSettings.html#abe3ac1a2ea4ca12be73fa5ab45c85895" title="SoapySDRInputSettings\l::deserializeNamedElementMap" alt="" coords="219,71,425,112"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="257,136,387,177"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="257,201,387,243"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="257,267,387,308"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="257,332,387,373"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a5bc60f64e8503349447452eda4f7fb36" title="SimpleDeserializer\l::readDouble" alt="" coords="257,397,387,439"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="257,463,387,504"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a63b7ff37bc8ed9f4f9f9562d1d7e4e73" title="SimpleDeserializer\l::readS64" alt="" coords="257,528,387,569"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="257,593,387,635"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="257,659,387,700"/>
+<area shape="rect" id="node14" href="$d7/d21/structSoapySDRInputSettings.html#a3aa29c76a3289a02fc74f072b2ad6f56" title="SoapySDRInputSettings\l::resetToDefaults" alt="" coords="239,724,405,765"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="473,463,604,504"/>
+</map>

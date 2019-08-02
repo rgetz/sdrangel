@@ -1,0 +1,10 @@
+<map id="BladeRF1OutputSettings::deserialize" name="BladeRF1OutputSettings::deserialize">
+<area shape="rect" id="node2" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="238,5,369,47"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="238,71,369,112"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="238,136,369,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="238,201,369,243"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="238,267,369,308"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="238,332,369,373"/>
+<area shape="rect" id="node9" href="$d6/d42/structBladeRF1OutputSettings.html#a80df2a57a8ff33d67b42045757d4f4e1" title="BladeRF1OutputSettings\l::resetToDefaults" alt="" coords="220,397,387,439"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="435,201,565,243"/>
+</map>

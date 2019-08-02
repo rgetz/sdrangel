@@ -1,0 +1,12 @@
+<map id="DSPDeviceSinkEngine::gotoInit" name="DSPDeviceSinkEngine::gotoInit">
+<area shape="rect" id="node2" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="227,5,425,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#a1cf38a6b7a124b5b94a81476e74ab2ef" title="DeviceSampleSink::getDevice\lDescription" alt="" coords="226,71,426,112"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#a9bd7672503185b740d3dc30259c5351a" title="DeviceSampleSink::getMessage\lQueueToGUI" alt="" coords="220,136,432,177"/>
+<area shape="rect" id="node5" href="$d9/d18/classDeviceSampleSink.html#a3c05e9d4359234b3999a5eda0919bbb7" title="Sample rate exposed by the sink. " alt="" coords="211,202,441,229"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#a585cc77e70580b924032bab69b2e8902" title="Go to an error state. " alt="" coords="247,253,405,295"/>
+<area shape="rect" id="node10" href="$d8/df9/classBasebandSampleSink.html#a853e6d818c16dd2ff7cacb804985a3f5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="251,319,401,360"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="251,385,401,411"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="489,253,647,295"/>
+<area shape="rect" id="node8" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="708,224,860,265"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="695,290,873,317"/>
+</map>

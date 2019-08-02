@@ -1,0 +1,11 @@
+<map id="CWKeyerGUI::on_cwSpeed_valueChanged" name="CWKeyerGUI::on_cwSpeed_valueChanged">
+<area shape="rect" id="node2" href="$d2/de1/classCWKeyerGUI.html#a5dd1254ca648f769cb382546d1840d82" title="CWKeyerGUI::applySettings" alt="" coords="240,93,431,119"/>
+<area shape="rect" id="node6" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="315,158,355,185"/>
+<area shape="rect" id="node3" href="$d7/d55/classCWKeyer_1_1MsgConfigureCWKeyer.html#a22cbf832644b2cccd5c5a011750d6378" title="CWKeyer::MsgConfigureCWKeyer\l::create" alt="" coords="479,5,704,47"/>
+<area shape="rect" id="node4" href="$d0/ddd/classCWKeyer.html#aa6b125608561f873233dab954a98a42e" title="Get the queue for asynchronous inbound communication. " alt="" coords="498,71,685,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="517,137,666,163"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="537,187,645,214"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="956,158,1075,185"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="752,209,900,251"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="948,209,1083,251"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RemoteInput::webapiReverseSendSettings" name="RemoteInput::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$d3/d67/classRemoteInput.html#af18aff424c66d86afda03bec8ecb6ff2" title="RemoteInput::applySettings" alt="" coords="248,35,432,61"/>
+<area shape="rect" id="node3" href="$d3/d67/classRemoteInput.html#a4f1ef1abb8edb7ecd68ff0dbd01a4d2f" title="RemoteInput::handleMessage" alt="" coords="480,8,676,35"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#ac531255ff3648ebf37e9c529fd6d9821" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="517,60,639,87"/>
+<area shape="rect" id="node4" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="724,5,919,32"/>
+<area shape="rect" id="node6" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="729,57,914,98"/>
+</map>

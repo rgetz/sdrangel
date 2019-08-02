@@ -1,0 +1,7 @@
+<map id="UDPSourceGUI::applySettings" name="UDPSourceGUI::applySettings">
+<area shape="rect" id="node2" href="$d7/dc2/classUDPSource_1_1MsgConfigureUDPSource.html#ad9b3a5b0c545662e549c13285f748a4a" title="UDPSource::MsgConfigureUDPSource\l::create" alt="" coords="256,5,507,47"/>
+<area shape="rect" id="node4" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a8be7ddecd9f101a955d292cfa65ef19d" title="UDPSource::MsgConfigureChannelizer\l::create" alt="" coords="256,71,507,112"/>
+<area shape="rect" id="node5" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="297,136,465,177"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="307,202,456,229"/>
+<area shape="rect" id="node3" href="$d7/dc2/classUDPSource_1_1MsgConfigureUDPSource.html#a596efe3c578d2d84cd3a2ff4a29ffcb0" title="UDPSource::MsgConfigureUDPSource\l::MsgConfigureUDPSource" alt="" coords="555,5,805,47"/>
+</map>

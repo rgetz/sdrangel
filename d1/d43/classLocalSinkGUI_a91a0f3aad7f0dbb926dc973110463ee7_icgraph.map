@@ -1,0 +1,15 @@
+<map id="LocalSinkGUI::displayRateAndShift" name="LocalSinkGUI::displayRateAndShift">
+<area shape="rect" id="node2" href="$d1/d43/classLocalSinkGUI.html#a98c09557ce2e897ba9f1764f4ff5c677" title="LocalSinkGUI::applyPosition" alt="" coords="233,103,423,129"/>
+<area shape="rect" id="node7" href="$d1/d43/classLocalSinkGUI.html#acbd6311dc7f1ad006a5f5e6a0e68bbc2" title="LocalSinkGUI::handleMessage" alt="" coords="975,153,1178,180"/>
+<area shape="rect" id="node3" href="$d1/d43/classLocalSinkGUI.html#acec873ca62b2a5e03799f969cb64cec8" title="LocalSinkGUI::applyDecimation" alt="" coords="471,103,679,129"/>
+<area shape="rect" id="node14" href="$d1/d43/classLocalSinkGUI.html#ac13ff6a6b280998a5b18d1eba14d69ed" title="LocalSinkGUI::on_position\l_valueChanged" alt="" coords="486,37,663,78"/>
+<area shape="rect" id="node4" href="$d1/d43/classLocalSinkGUI.html#a5f53edb50f4915c13a332255f342e48e" title="LocalSinkGUI::displaySettings" alt="" coords="727,103,927,129"/>
+<area shape="rect" id="node13" href="$d1/d43/classLocalSinkGUI.html#a9e557cccc1b62d864877bb04b280c9df" title="LocalSinkGUI::on_decimation\lFactor_currentIndexChanged" alt="" coords="729,37,924,78"/>
+<area shape="rect" id="node5" href="$d1/d43/classLocalSinkGUI.html#a5b0e4344863113d0c2c0212975b620c5" title="LocalSinkGUI::resetToDefaults" alt="" coords="975,52,1179,79"/>
+<area shape="rect" id="node6" href="$d1/d43/classLocalSinkGUI.html#a6792b081af5df7acfa27cfea056081b7" title="LocalSinkGUI::deserialize" alt="" coords="1235,63,1409,89"/>
+<area shape="rect" id="node9" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="1465,88,1657,115"/>
+<area shape="rect" id="node8" href="$d1/d43/classLocalSinkGUI.html#ad381a8ce5b7ebe9338eecc608a0f180a" title="LocalSinkGUI::handleSource\lMessages" alt="" coords="1227,135,1417,177"/>
+<area shape="rect" id="node10" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="1705,88,1852,115"/>
+<area shape="rect" id="node11" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="1900,81,2076,122"/>
+<area shape="rect" id="node12" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="2124,88,2300,115"/>
+</map>

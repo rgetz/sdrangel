@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGBladeRF1OutputSettings::setUseReverseApi" name="SWGSDRangel::SWGBladeRF1OutputSettings::setUseReverseApi">
+<area shape="rect" id="node2" href="$dc/d98/classBladerf1Output.html#a2916d46f95205efbc6b0022ffbf6dd13" title="Bladerf1Output::webapiFormat\lDeviceSettings" alt="" coords="280,27,479,69"/>
+<area shape="rect" id="node3" href="$dc/d98/classBladerf1Output.html#a73a2b02fa5bd9646525c8b30adf9b7d4" title="Bladerf1Output::webapiSettingsGet" alt="" coords="527,5,753,32"/>
+<area shape="rect" id="node5" href="$dc/d98/classBladerf1Output.html#a9d82754c84fe479ebcda971a14acce6e" title="Bladerf1Output::webapiSettings\lPutPatch" alt="" coords="537,57,743,98"/>
+<area shape="rect" id="node4" href="$dc/d98/classBladerf1Output.html#afcf915bff7fdd761b45084c079586d4d" title="For when the sink sample rate is set externally. " alt="" coords="801,35,1008,61"/>
+</map>

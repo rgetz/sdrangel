@@ -1,0 +1,12 @@
+<map id="FreeDVModSettings::deserialize" name="FreeDVModSettings::deserialize">
+<area shape="rect" id="node2" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="201,5,360,32"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="215,57,346,98"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="215,122,346,163"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="215,187,346,229"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="215,253,346,294"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="215,318,346,359"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="215,383,346,425"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="215,449,346,490"/>
+<area shape="rect" id="node11" href="$dc/d1f/structFreeDVModSettings.html#a22d1085385cb7abaf89b597ccedb6b12" title="FreeDVModSettings::\lresetToDefaults" alt="" coords="207,514,355,555"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="408,318,539,359"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="MainWindow::addPresetToTree" name="MainWindow::addPresetToTree">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="332,35,372,61"/>
+<area shape="rect" id="node7" href="$d1/dc7/classPreset.html#a7f773cda853130f7ad8c607482b80b88" title="Preset::getCenterFrequency" alt="" coords="259,85,445,112"/>
+<area shape="rect" id="node8" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="276,136,428,163"/>
+<area shape="rect" id="node9" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="291,187,413,213"/>
+<area shape="rect" id="node10" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="273,237,431,264"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a79ec9920d5825e5bf4a721bf8955e8be" title="MainWindow::updatePreset\lControls" alt="" coords="261,289,443,330"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="493,35,601,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="649,57,797,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="853,5,972,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="845,57,980,98"/>
+</map>

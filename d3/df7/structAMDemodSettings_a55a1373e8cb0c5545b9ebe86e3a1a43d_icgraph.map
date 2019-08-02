@@ -1,0 +1,10 @@
+<map id="AMDemodSettings::serialize" name="AMDemodSettings::serialize">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#a152e9d1f48c129c7312aa481237cb3bb" title="AMDemodGUI::serialize" alt="" coords="263,5,427,32"/>
+<area shape="rect" id="node3" href="$d9/df0/classAMDemod.html#a6dc4e15908dd4157c63c41e2415a39e7" title="AMDemod::serialize" alt="" coords="275,56,415,83"/>
+<area shape="rect" id="node5" href="$d3/df7/structAMDemodSettings.html#a84768dc60fefd97664e60bc3dcfe69b3" title="AMDemodSettings::setChannel\lMarker" alt="" coords="241,107,448,149"/>
+<area shape="rect" id="node4" href="$d9/df0/classAMDemod.html#a38a7415744526568148e3e63da466d31" title="Applies to a default stream. " alt="" coords="496,56,707,83"/>
+<area shape="rect" id="node6" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="500,115,703,141"/>
+<area shape="rect" id="node7" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="755,115,907,141"/>
+<area shape="rect" id="node8" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="955,115,1208,141"/>
+<area shape="rect" id="node9" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1256,115,1437,141"/>
+</map>

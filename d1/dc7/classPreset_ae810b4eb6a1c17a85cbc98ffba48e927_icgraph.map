@@ -1,0 +1,24 @@
+<map id="Preset::findBestDeviceConfig" name="Preset::findBestDeviceConfig">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#ac0b7ff868210f9e1e836da6d720a5c53" title="DeviceAPI::loadSamplingDevice\lSettings" alt="" coords="248,150,460,191"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#af42f57768a02c93f043d6226e510b55c" title="MainCore::changeSampleSink" alt="" coords="526,5,725,32"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#a295477ac8c2315ef7e81e47aaf94559c" title="MainCore::changeSampleSource" alt="" coords="519,56,732,83"/>
+<area shape="rect" id="node8" href="$db/d47/classMainCore.html#a224dee060d431a15b347fd691c775e23" title="MainCore::loadPresetSettings" alt="" coords="527,107,723,133"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="791,125,1005,152"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#ae77b2b989dd573c1a244721d3f05efa0" title="MainWindow::sampleMIMOChanged" alt="" coords="508,208,743,235"/>
+<area shape="rect" id="node18" href="$d6/d1a/classMainWindow.html#a81db62bb44853c8cbcb1c5cb457c95fc" title="MainWindow::sampleSinkChanged" alt="" coords="513,277,738,304"/>
+<area shape="rect" id="node21" href="$d6/d1a/classMainWindow.html#a786daf72b8ebc17434ef6510d0d023d1" title="MainWindow::sampleSource\lChanged" alt="" coords="531,371,719,413"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="809,49,987,76"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="1059,40,1243,67"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1327,40,1470,67"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="1053,273,1249,300"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1548,273,1728,300"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="1056,142,1247,183"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1297,273,1500,300"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="1305,142,1493,183"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#ae9f6401d202ffdaaeafc10da4314ffe2" title="MainWindow::addMIMODevice" alt="" coords="797,176,999,203"/>
+<area shape="rect" id="node17" href="$d6/d1a/classMainWindow.html#a9aa2384f1feb1c6f8f11268706ff5858" title="MainWindow::on_action\l_addMIMODevice_triggered" alt="" coords="1059,207,1243,249"/>
+<area shape="rect" id="node19" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="801,328,995,355"/>
+<area shape="rect" id="node20" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="1064,325,1239,366"/>
+<area shape="rect" id="node22" href="$d6/d1a/classMainWindow.html#adac6baaae818c8a27f1fe65a48322f04" title="MainWindow::addSourceDevice" alt="" coords="794,429,1002,456"/>
+<area shape="rect" id="node23" href="$d6/d1a/classMainWindow.html#ab1ed28392dc263c837d85fe5d8e15b0a" title="MainWindow::on_action\l_addSourceDevice_triggered" alt="" coords="1057,390,1246,431"/>
+</map>

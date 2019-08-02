@@ -1,0 +1,5 @@
+<map id="SSBDemod::MsgConfigureSSBDemod" name="SSBDemod::MsgConfigureSSBDemod">
+<area shape="rect" id="node2" href="$d6/d28/classMessage.html" title="Message" alt="" coords="50,109,125,136"/>
+<area shape="rect" id="node3" href="$d5/d5c/structSSBDemodSettings.html" title="SSBDemodSettings" alt="" coords="149,109,287,136"/>
+<area shape="rect" id="node4" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="173,5,263,32"/>
+</map>

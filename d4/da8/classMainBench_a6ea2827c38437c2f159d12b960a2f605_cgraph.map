@@ -1,0 +1,14 @@
+<map id="MainBench::testDecimateIF" name="MainBench::testDecimateIF">
+<area shape="rect" id="node2" href="$d4/da8/classMainBench.html#a5792cf130dbc0d1ef2095f00c22fe11c" title="MainBench::decimateIF" alt="" coords="241,208,401,235"/>
+<area shape="rect" id="node10" href="$d5/d67/classParserBench.html#ad8ce88b4abb598d4db12930c914148dc" title="ParserBench::getLog2Factor" alt="" coords="460,360,648,387"/>
+<area shape="rect" id="node11" href="$d5/d67/classParserBench.html#a969c6c601c953d235540793e2537d114" title="ParserBench::getNbSamples" alt="" coords="459,423,649,449"/>
+<area shape="rect" id="node12" href="$d5/d67/classParserBench.html#ab4a6a1ccae4f1f7360b4375ff7f699ca" title="ParserBench::getRepetition" alt="" coords="463,485,645,512"/>
+<area shape="rect" id="node13" href="$d4/da8/classMainBench.html#aa3dacc3283ae4246bcf1877a2f54384a" title="MainBench::printResults" alt="" coords="239,448,404,475"/>
+<area shape="rect" id="node3" href="$db/d5a/classDecimatorsIF.html#a3482c5a307dbe949054059b5d0b84b87" title="DecimatorsIF::decimate1" alt="" coords="469,5,639,32"/>
+<area shape="rect" id="node4" href="$db/d5a/classDecimatorsIF.html#adc324902eacd530829b0b8f887db381b" title="DecimatorsIF::decimate16_cen" alt="" coords="452,56,656,83"/>
+<area shape="rect" id="node5" href="$db/d5a/classDecimatorsIF.html#aeda764a23fc481589826b78dce92379e" title="DecimatorsIF::decimate2_cen" alt="" coords="455,107,653,133"/>
+<area shape="rect" id="node6" href="$db/d5a/classDecimatorsIF.html#a1af703102f4ba55dd01495c01d38cca9" title="DecimatorsIF::decimate32_cen" alt="" coords="452,157,656,184"/>
+<area shape="rect" id="node7" href="$db/d5a/classDecimatorsIF.html#a9268508ec9fcbfe0b3291915e2418c49" title="DecimatorsIF::decimate4_cen" alt="" coords="455,208,653,235"/>
+<area shape="rect" id="node8" href="$db/d5a/classDecimatorsIF.html#a602451f7540a2069a3449140e80d4fac" title="DecimatorsIF::decimate64_cen" alt="" coords="452,259,656,285"/>
+<area shape="rect" id="node9" href="$db/d5a/classDecimatorsIF.html#add1d8583b25176507cbbffde6cfb1e60" title="DecimatorsIF::decimate8_cen" alt="" coords="455,309,653,336"/>
+</map>

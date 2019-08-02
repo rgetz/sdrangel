@@ -1,0 +1,9 @@
+<map id="SWGSDRangel::SWGAudioInputDevice::setSampleRate" name="SWGSDRangel::SWGAudioInputDevice::setSampleRate">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a1f004e240d68fd4dd3fa11971e0a7567" title="WebAPIAdapterGUI::instance\lAudioInputDelete" alt="" coords="269,5,467,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#aaa8ba2887ec328415ceffbfbccd99fcb" title="WebAPIAdapterSrv::instance\lAudioInputDelete" alt="" coords="271,71,465,112"/>
+<area shape="rect" id="node4" href="$dc/dd8/classWebAPIAdapterSrv.html#a623b4d6489fe4c45909c2918e29ff2b2" title="WebAPIAdapterSrv::instance\lAudioInputPatch" alt="" coords="271,136,465,177"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#a7b2fe2f07d57a7255a36bd6981f34e9c" title="WebAPIAdapterGUI::instance\lAudioInputPatch" alt="" coords="269,201,467,243"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#aaeed761e50a26f26e6a474096832f572" title="WebAPIRequestMapper\l::validateAudioInputDevice" alt="" coords="279,267,457,308"/>
+<area shape="rect" id="node7" href="$dd/da7/classWebAPIRequestMapper.html#ace57c8f1aaac64e3ae3f7ecefd19c59d" title="WebAPIRequestMapper\l::instanceAudioInputParameters\lService" alt="" coords="515,259,723,315"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="771,267,933,308"/>
+</map>

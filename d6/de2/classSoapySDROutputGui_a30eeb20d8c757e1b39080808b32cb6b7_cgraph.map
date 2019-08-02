@@ -1,0 +1,12 @@
+<map id="SoapySDROutputGui::on_transverter_clicked" name="SoapySDROutputGui::on_transverter_clicked">
+<area shape="rect" id="node2" href="$d6/de2/classSoapySDROutputGui.html#ad3a1f5c8f87dd6fb2bf706b537306beb" title="SoapySDROutputGui::\lsendSettings" alt="" coords="221,5,376,47"/>
+<area shape="rect" id="node3" href="$d6/de2/classSoapySDROutputGui.html#a49cf8790127b829857bf6c5dae0003fd" title="SoapySDROutputGui::\lsetCenterFrequencySetting" alt="" coords="208,71,389,112"/>
+<area shape="rect" id="node9" href="$d6/de2/classSoapySDROutputGui.html#ae591c3e92b9e0d4dbe6876161b61ab7b" title="SoapySDROutputGui::\lupdateFrequencyLimits" alt="" coords="220,136,377,177"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="525,78,565,105"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="733,78,841,105"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="923,100,1071,141"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1127,49,1245,75"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1119,100,1253,141"/>
+<area shape="rect" id="node10" href="$d8/df3/classSoapySDROutput.html#a473d49da45a3a2a39cf4540601b93e57" title="SoapySDROutput::getFrequency\lRange" alt="" coords="437,136,652,177"/>
+<area shape="rect" id="node11" href="$df/d0d/classDeviceSoapySDRParams.html#aa9a191ea29af3d95759d4114beb08334" title="DeviceSoapySDRParams\l::getTxChannelSettings" alt="" coords="700,136,875,177"/>
+</map>

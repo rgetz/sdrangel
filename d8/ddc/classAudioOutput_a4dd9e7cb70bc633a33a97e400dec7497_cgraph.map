@@ -1,0 +1,46 @@
+<map id="AudioOutput::setUdpChannelFormat" name="AudioOutput::setUdpChannelFormat">
+<area shape="rect" id="node2" href="$d1/d16/classAudioNetSink.html#a8c04dad8232d8216ad2e3834abd30b6d" title="AudioNetSink::setParameters" alt="" coords="245,118,440,145"/>
+<area shape="rect" id="node3" href="$d3/dd8/classAudioCompressor.html#ac03ab95092bd74237cad07cffb3d0510" title="A&#45;law compression to 8 bits. " alt="" coords="509,25,689,51"/>
+<area shape="rect" id="node5" href="$d3/dd8/classAudioCompressor.html#af991ec80901e01b33615ab0c388aa842" title="u&#45;law compression to 8 bits " alt="" coords="508,86,689,113"/>
+<area shape="rect" id="node7" href="$d1/d16/classAudioNetSink.html#af6fe261f0586b33b3621bb4238aa3435" title="AudioNetSink::setNewCodecData" alt="" coords="488,143,709,170"/>
+<area shape="rect" id="node31" href="$de/df9/classRTPSink.html#a1473de7f110efe9850d177526ccdc672" title="RTPSink::setPayloadInformation" alt="" coords="492,377,705,403"/>
+<area shape="rect" id="node4" href="$d3/dd8/classAudioCompressor.html#aba9e0a8ffc3cafb7d65cad69ade400e9" title="AudioCompressor::ALaw\l_Encode" alt="" coords="781,5,948,47"/>
+<area shape="rect" id="node6" href="$d3/dd8/classAudioCompressor.html#ac21cff6c6a9bcdf2b4bf897b3a23763f" title="AudioCompressor::MuLaw\l_Encode" alt="" coords="777,71,953,112"/>
+<area shape="rect" id="node8" href="$d1/d16/classAudioNetSink.html#ab0e1bb83a367de0fc84496dcdd5263bd" title="AudioNetSink::setDecimation\lFilters" alt="" coords="767,136,962,177"/>
+<area shape="rect" id="node30" href="$d1/de0/classAudioOpus.html#a28ed2eef633edb8591dc7d4048d5bb54" title="AudioOpus::setEncoder" alt="" coords="785,202,945,229"/>
+<area shape="rect" id="node9" href="$d3/d3b/classAudioFilter.html#afde8b0b79fce2c65e244e2231b3abee1" title="AudioFilter::setDecimFilters" alt="" coords="1035,143,1219,170"/>
+<area shape="rect" id="node10" href="$d3/d3b/classAudioFilter.html#aa3783ed10ce039e2bc1e5d36f6305c7a" title="AudioFilter::calculate2" alt="" coords="1283,169,1433,195"/>
+<area shape="rect" id="node29" href="$d5/d94/classIIRFilter.html#adae8f003fa2aee06adc9d70439273bc9" title="IIRFilter::setCoeffs" alt="" coords="1291,118,1425,145"/>
+<area shape="rect" id="node11" href="$d3/d3b/classAudioFilter.html#af72b35c26fb05bb9b3e7844aadca4137" title="AudioFilter::cheby" alt="" coords="1481,169,1608,195"/>
+<area shape="rect" id="node12" href="$d3/d3b/classAudioFilter.html#a6851fe67c2a9d9e7c328f7ad0e068524" title="AudioFilter::cheby_sub" alt="" coords="1656,169,1811,195"/>
+<area shape="rect" id="node13" href="$dd/d58/fixed_8h.html#ad198a68ce3c4a9f529af53f662f45e36" title="cos" alt="" coords="1859,295,1902,322"/>
+<area shape="rect" id="node19" href="$dd/d58/fixed_8h.html#a47ff3dd3b526d335b62ee3e1d4f175d3" title="exp" alt="" coords="1859,93,1902,119"/>
+<area shape="rect" id="node21" href="$dd/d58/fixed_8h.html#a328938076cae788697985ea5b0ea23c6" title="log" alt="" coords="1973,42,2012,69"/>
+<area shape="rect" id="node23" href="$dd/d58/fixed_8h.html#a6fe9633e9b49ad637871e9ffa468bdc5" title="sin" alt="" coords="1861,194,1900,221"/>
+<area shape="rect" id="node25" href="$dd/d58/fixed_8h.html#a112464e01c9263c3bbffc0856583e1bc" title="sqrt" alt="" coords="1859,245,1903,271"/>
+<area shape="rect" id="node27" href="$dd/d58/fixed_8h.html#a490a4012dc2c2c7bd50e5d2325885f27" title="tan" alt="" coords="1861,143,1901,170"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#aee3b063e4154e3244766db7d43e46902" title="Fixed::cos" alt="" coords="1951,295,2034,322"/>
+<area shape="rect" id="node15" href="$dd/d7b/classFixed.html#a86dcc54b1001f704bcf1c67481782b6e" title="Fixed::sin_cos" alt="" coords="2083,182,2189,209"/>
+<area shape="rect" id="node16" href="$dd/d7b/classFixed.html#a31f005fda0e3b89b530e756087c3aa25" title="Fixed::perform_cordic\l_rotation" alt="" coords="2237,128,2385,169"/>
+<area shape="rect" id="node17" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="2441,54,2560,81"/>
+<area shape="rect" id="node18" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="2433,128,2568,169"/>
+<area shape="rect" id="node20" href="$dd/d7b/classFixed.html#a7abd22e3c1949e14183afb0c9287dda6" title="Fixed::exp" alt="" coords="1951,93,2034,119"/>
+<area shape="rect" id="node22" href="$dd/d7b/classFixed.html#a224aef48ef1287088bc1223094c088ba" title="Fixed::log" alt="" coords="2097,46,2175,73"/>
+<area shape="rect" id="node24" href="$dd/d7b/classFixed.html#a341f37b4ca17d3ffa330a82a0ae61d1a" title="Fixed::sin" alt="" coords="1953,194,2032,221"/>
+<area shape="rect" id="node26" href="$dd/d7b/classFixed.html#aafa1d6d4ce5959ddedcf20ec16a2fa3d" title="Fixed::sqrt" alt="" coords="1951,245,2035,271"/>
+<area shape="rect" id="node28" href="$dd/d7b/classFixed.html#afb1d2f7cb54aedf49cbd27e4e40bef71" title="Fixed::tan" alt="" coords="1953,143,2033,170"/>
+<area shape="rect" id="node32" href="$db/d64/classqrtplib_1_1RTPSession.html#a54280b46f38f4f9b3b778a7a77501feb" title="qrtplib::RTPSession\l::SetDefaultPayloadType" alt="" coords="781,533,949,575"/>
+<area shape="rect" id="node34" href="$db/d64/classqrtplib_1_1RTPSession.html#a2c06d48d1c2785195edd46ef2a3f7eb3" title="qrtplib::RTPSession\l::SetTimestampUnit" alt="" coords="795,599,934,640"/>
+<area shape="rect" id="node36" href="$d9/d28/namespaceqrtplib.html#a76d3f7770a31f3fa5f3df14a2321a606" title="qrtplib::RTPGetErrorString" alt="" coords="777,253,952,279"/>
+<area shape="rect" id="node37" href="$db/d64/classqrtplib_1_1RTPSession.html#abdf37c0d9d7b4631aad2433bb1c8c403" title="qrtplib::RTPSession\l::SetDefaultMark" alt="" coords="795,304,934,345"/>
+<area shape="rect" id="node39" href="$db/d64/classqrtplib_1_1RTPSession.html#a531aca72ef71cedd39a317a83e281771" title="qrtplib::RTPSession\l::SetDefaultTimestampIncrement" alt="" coords="757,369,972,411"/>
+<area shape="rect" id="node41" href="$db/d64/classqrtplib_1_1RTPSession.html#a737112418522c3b73887a53ae2403012" title="qrtplib::RTPSession\l::SetMaximumPacketSize" alt="" coords="777,435,952,476"/>
+<area shape="rect" id="node33" href="$dc/da2/classqrtplib_1_1RTPPacketBuilder.html#a9ec3dc4ff6f9afb796032001dccdea4d" title="qrtplib::RTPPacketBuilder\l::SetDefaultPayloadType" alt="" coords="1041,565,1214,607"/>
+<area shape="rect" id="node35" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#aee56fb1e95f8c1200479a15bf9fdc098" title="qrtplib::RTCPPacketBuilder\l::SetTimestampUnit" alt="" coords="1036,631,1219,672"/>
+<area shape="rect" id="node38" href="$dc/da2/classqrtplib_1_1RTPPacketBuilder.html#abf322453edeb6616819c408a676a1b59" title="qrtplib::RTPPacketBuilder\l::SetDefaultMark" alt="" coords="1041,239,1214,280"/>
+<area shape="rect" id="node40" href="$dc/da2/classqrtplib_1_1RTPPacketBuilder.html#a45c1695cb08d20232a4970512f20b36e" title="qrtplib::RTPPacketBuilder\l::SetDefaultTimestampIncrement" alt="" coords="1020,304,1235,345"/>
+<area shape="rect" id="node42" href="$db/dde/classqrtplib_1_1RTPTransmitter.html#ad693c4901a395942e2c96e6a8a326676" title="qrtplib::RTPTransmitter\l::SetMaximumPacketSize" alt="" coords="1040,500,1215,541"/>
+<area shape="rect" id="node43" href="$dc/da2/classqrtplib_1_1RTPPacketBuilder.html#a6c9aaaad4fc194dd7b5ea0f988810a77" title="qrtplib::RTPPacketBuilder\l::SetMaximumPacketSize" alt="" coords="1040,369,1215,411"/>
+<area shape="rect" id="node45" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#affdd6595e8b2a266f1bfc26fd94d8840" title="qrtplib::RTCPPacketBuilder\l::SetMaximumPacketSize" alt="" coords="1036,435,1219,476"/>
+<area shape="rect" id="node44" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="1309,377,1407,403"/>
+</map>

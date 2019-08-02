@@ -1,0 +1,17 @@
+<map id="plugins/channeltx/udpsource/udpsource.h" name="plugins/channeltx/udpsource/udpsource.h">
+<area shape="rect" id="node4" href="$d8/dfa/basebandsamplesource_8h.html" title="dsp/basebandsamplesource.h" alt="" coords="333,95,527,121"/>
+<area shape="rect" id="node16" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1741,169,1885,196"/>
+<area shape="rect" id="node19" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="599,95,779,121"/>
+<area shape="rect" id="node20" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1287,169,1394,196"/>
+<area shape="rect" id="node22" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="734,169,857,196"/>
+<area shape="rect" id="node24" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="1909,169,2055,196"/>
+<area shape="rect" id="node26" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="631,169,709,196"/>
+<area shape="rect" id="node27" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="1419,169,1503,196"/>
+<area shape="rect" id="node29" href="$d2/d6b/udpsourcesettings_8h.html" title="udpsourcesettings.h" alt="" coords="1578,169,1717,196"/>
+<area shape="rect" id="node30" href="$db/db0/udpsourceudphandler_8h.html" title="udpsourceudphandler.h" alt="" coords="960,95,1116,121"/>
+<area shape="rect" id="node5" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="915,244,1025,271"/>
+<area shape="rect" id="node9" href="$df/d84/samplesourcefifo_8h.html" title="dsp/samplesourcefifo.h" alt="" coords="347,169,505,196"/>
+<area shape="rect" id="node13" href="$db/db5/export_8h.html" title="export.h" alt="" coords="635,244,705,271"/>
+<area shape="rect" id="node14" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="129,169,272,196"/>
+<area shape="rect" id="node28" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="1441,244,1493,271"/>
+</map>

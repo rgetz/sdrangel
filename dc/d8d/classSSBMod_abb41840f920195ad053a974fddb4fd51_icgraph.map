@@ -1,0 +1,11 @@
+<map id="SSBMod::applyAudioSampleRate" name="SSBMod::applyAudioSampleRate">
+<area shape="rect" id="node2" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="272,31,433,57"/>
+<area shape="rect" id="node5" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="481,81,655,108"/>
+<area shape="rect" id="node3" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="501,24,635,51"/>
+<area shape="rect" id="node4" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="703,5,929,61"/>
+<area shape="rect" id="node6" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="703,85,929,112"/>
+<area shape="rect" id="node7" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="977,85,1160,112"/>
+<area shape="rect" id="node8" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1208,85,1351,112"/>
+<area shape="rect" id="node9" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1399,85,1640,112"/>
+<area shape="rect" id="node10" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1688,85,1859,112"/>
+</map>

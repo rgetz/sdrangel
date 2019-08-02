@@ -1,0 +1,24 @@
+<map id="SimpleDeserializer::readDouble" name="SimpleDeserializer::readDouble">
+<area shape="rect" id="node2" href="$db/d9f/structSoapySDROutputSettings.html#aed7130850eee985c21d81e0b531080fd" title="SoapySDROutputSettings\l::deserialize" alt="" coords="184,57,359,98"/>
+<area shape="rect" id="node5" href="$da/d56/structXTRXOutputSettings.html#a8408d4a2cb7fd9ebf05ee427b54b78e3" title="XTRXOutputSettings\l::deserialize" alt="" coords="199,147,344,189"/>
+<area shape="rect" id="node13" href="$d7/d21/structSoapySDRInputSettings.html#abf286cbbecd68bebfa5bbeb849a27165" title="SoapySDRInputSettings\l::deserialize" alt="" coords="189,213,354,254"/>
+<area shape="rect" id="node15" href="$da/d8d/structXTRXInputSettings.html#a5beecaa21c9f04b1e9545a78a6877081" title="XTRXInputSettings::\ldeserialize" alt="" coords="200,278,343,319"/>
+<area shape="rect" id="node23" href="$d2/d0e/classSimpleDeserializer.html#a436c98e938644730b12cc637a6c80222" title="SimpleDeserializer\l::dump" alt="" coords="206,343,337,385"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#ad4761396f372a8669b2c809e2a161968" title="SoapySDROutput::deserialize" alt="" coords="411,5,609,32"/>
+<area shape="rect" id="node4" href="$d6/de2/classSoapySDROutputGui.html#aadd380be5a63bd40f793f67d0c2b63a9" title="SoapySDROutputGui::\ldeserialize" alt="" coords="433,57,587,98"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#ab218ce179732a23eb77b798d40759412" title="XTRXOutput::deserialize" alt="" coords="427,123,593,149"/>
+<area shape="rect" id="node12" href="$d8/d63/classXTRXOutputGUI.html#a330967a482b101f56156aa223e18e15f" title="XTRXOutputGUI::deserialize" alt="" coords="415,173,605,200"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#a4a2fb919e0f4485997e2ee2a78130389" title="XTRXOutput::setThread" alt="" coords="661,123,824,149"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#a44dd083e222b948894b25220c7bed28d" title="XTRXOutput::moveThreadTo\lBuddy" alt="" coords="885,115,1077,157"/>
+<area shape="rect" id="node9" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="1139,123,1316,149"/>
+<area shape="rect" id="node10" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="1364,123,1552,149"/>
+<area shape="rect" id="node11" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1600,115,1785,157"/>
+<area shape="rect" id="node14" href="$d8/d96/classSoapySDRInputGui.html#aa5f711bea2660dc5249fd518d477f003" title="SoapySDRInputGui::deserialize" alt="" coords="407,224,613,251"/>
+<area shape="rect" id="node16" href="$dc/d14/classXTRXInput.html#acdc9a0c4202ba1b115bcd5b4845efc30" title="XTRXInput::deserialize" alt="" coords="431,281,589,308"/>
+<area shape="rect" id="node22" href="$d3/df5/classXTRXInputGUI.html#abe927c94932587eda6367a39e2697b80" title="XTRXInputGUI::deserialize" alt="" coords="419,332,601,359"/>
+<area shape="rect" id="node17" href="$dc/d14/classXTRXInput.html#aef006f05c1a7754c43b784d9550ae76f" title="XTRXInput::setThread" alt="" coords="666,281,819,308"/>
+<area shape="rect" id="node18" href="$dc/d14/classXTRXInput.html#af98d092f24a58dff141e9a9e31063d63" title="XTRXInput::moveThreadToBuddy" alt="" coords="872,281,1091,308"/>
+<area shape="rect" id="node19" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="1144,281,1311,308"/>
+<area shape="rect" id="node20" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="1374,281,1542,308"/>
+<area shape="rect" id="node21" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1601,274,1784,315"/>
+</map>

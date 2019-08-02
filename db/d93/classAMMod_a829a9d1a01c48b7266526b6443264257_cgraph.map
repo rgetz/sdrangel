@@ -1,0 +1,37 @@
+<map id="AMMod::webapiFormatChannelSettings" name="AMMod::webapiFormatChannelSettings">
+<area shape="rect" id="node2" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a8173e43990c9903a930c684050f6666a" title="SWGSDRangel::SWGChannelSettings\l::getAmModSettings" alt="" coords="259,5,509,47"/>
+<area shape="rect" id="node3" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a2fc7058efe1d9b34cf3360065316a345" title="SWGSDRangel::SWGAMModSettings\l::getAudioDeviceName" alt="" coords="261,71,507,112"/>
+<area shape="rect" id="node4" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a50759788d0dcc3b9e04a83ca1fb3347e" title="SWGSDRangel::SWGAMModSettings\l::getCwKeyer" alt="" coords="261,136,507,177"/>
+<area shape="rect" id="node5" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a08f81a747196def634e71c41cb821c2a" title="SWGSDRangel::SWGAMModSettings\l::getReverseApiAddress" alt="" coords="261,201,507,243"/>
+<area shape="rect" id="node6" href="$d0/ddd/classCWKeyer.html#afb9ba69302957b937d5dc59910cdbee0" title="CWKeyer::getSettings" alt="" coords="307,267,461,294"/>
+<area shape="rect" id="node7" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a5d0042277a7afa9cdd3a8f4d6a6174f4" title="SWGSDRangel::SWGAMModSettings\l::getTitle" alt="" coords="261,319,507,360"/>
+<area shape="rect" id="node8" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a48513ee7dca262c8a820363e162dc6e7" title="SWGSDRangel::SWGAMModSettings\l::setAudioDeviceName" alt="" coords="261,384,507,425"/>
+<area shape="rect" id="node9" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#af4221d7cf371128e4a301bb5bd575dbb" title="SWGSDRangel::SWGAMModSettings\l::setChannelMute" alt="" coords="261,449,507,491"/>
+<area shape="rect" id="node10" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a45d72d5de4a13f774d5acbc1fc80e50f" title="SWGSDRangel::SWGAMModSettings\l::setCwKeyer" alt="" coords="261,515,507,556"/>
+<area shape="rect" id="node11" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a02a427d9a826eb8c4ee977498594efc2" title="SWGSDRangel::SWGAMModSettings\l::setInputFrequencyOffset" alt="" coords="261,580,507,621"/>
+<area shape="rect" id="node12" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a564016638a6c17f8c4c90bc17c2b5fb2" title="SWGSDRangel::SWGAMModSettings\l::setModAfInput" alt="" coords="261,645,507,687"/>
+<area shape="rect" id="node13" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#ac537a6e7b9ada783eb1370a488c6b55d" title="SWGSDRangel::SWGAMModSettings\l::setModFactor" alt="" coords="261,711,507,752"/>
+<area shape="rect" id="node14" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#afc2cabec2ee15caea4ce4a7ae128463c" title="SWGSDRangel::SWGAMModSettings\l::setPlayLoop" alt="" coords="261,776,507,817"/>
+<area shape="rect" id="node15" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#ae2e9e75b85170fe3ba207eebdb25595b" title="SWGSDRangel::SWGAMModSettings\l::setReverseApiAddress" alt="" coords="261,841,507,883"/>
+<area shape="rect" id="node16" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a28b03f80de3eaece9956ec46a05f77e6" title="SWGSDRangel::SWGAMModSettings\l::setReverseApiChannelIndex" alt="" coords="261,907,507,948"/>
+<area shape="rect" id="node17" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a0b8c94d4e545af2fe6562166c9bb1f19" title="SWGSDRangel::SWGAMModSettings\l::setReverseApiDeviceIndex" alt="" coords="261,972,507,1013"/>
+<area shape="rect" id="node18" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a5706240aa20d00d621dcbf9aac586a30" title="SWGSDRangel::SWGAMModSettings\l::setReverseApiPort" alt="" coords="261,1037,507,1079"/>
+<area shape="rect" id="node19" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a594af8bdc55f3e529c04b43d92a53cbb" title="SWGSDRangel::SWGAMModSettings\l::setRfBandwidth" alt="" coords="261,1103,507,1144"/>
+<area shape="rect" id="node20" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#ab4286a86b9be4cf0b2163ce2e1ef6f95" title="SWGSDRangel::SWGAMModSettings\l::setRgbColor" alt="" coords="261,1168,507,1209"/>
+<area shape="rect" id="node21" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#aea96e5948addff1d8aeea4e57fe5e7a9" title="SWGSDRangel::SWGAMModSettings\l::setTitle" alt="" coords="261,1233,507,1275"/>
+<area shape="rect" id="node22" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a133952b36491d26a9f26e09b789edaef" title="SWGSDRangel::SWGAMModSettings\l::setToneFrequency" alt="" coords="261,1299,507,1340"/>
+<area shape="rect" id="node23" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a74e216e69953b4346b068f3c371d99b0" title="SWGSDRangel::SWGAMModSettings\l::setUseReverseApi" alt="" coords="261,1364,507,1405"/>
+<area shape="rect" id="node24" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a18dce7abc39255b2599eabd753e4abad" title="SWGSDRangel::SWGAMModSettings\l::setVolumeFactor" alt="" coords="261,1429,507,1471"/>
+<area shape="rect" id="node25" href="$d0/ddd/classCWKeyer.html#a9201bf67a79d4a17263d2c9dbbb4b552" title="CWKeyer::webapiFormatChannel\lSettings" alt="" coords="275,1495,493,1536"/>
+<area shape="rect" id="node26" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a31fe2620d5e67a8c9a02af1cb61dea3a" title="SWGSDRangel::SWGCWKeyerSettings\l::setLoop" alt="" coords="557,1168,816,1209"/>
+<area shape="rect" id="node27" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a3d98f769039ed2824916e46544e349ea" title="SWGSDRangel::SWGCWKeyerSettings\l::setMode" alt="" coords="557,1233,816,1275"/>
+<area shape="rect" id="node28" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a41935b3eb345b767084cf4e8726aeafe" title="SWGSDRangel::SWGCWKeyerSettings\l::setSampleRate" alt="" coords="557,1299,816,1340"/>
+<area shape="rect" id="node29" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ab393704d430af159f6354f024a51b1ee" title="SWGSDRangel::SWGCWKeyerSettings\l::getText" alt="" coords="557,1364,816,1405"/>
+<area shape="rect" id="node30" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ab1911fa8feb6f9583f002659e8966463" title="SWGSDRangel::SWGCWKeyerSettings\l::setText" alt="" coords="557,1429,816,1471"/>
+<area shape="rect" id="node31" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ae77c7d12eaabdff622858ad28fed40af" title="SWGSDRangel::SWGCWKeyerSettings\l::setWpm" alt="" coords="557,1495,816,1536"/>
+<area shape="rect" id="node32" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a5ac07656f6452a3152fce26122284a9b" title="SWGSDRangel::SWGCWKeyerSettings\l::setKeyboardIambic" alt="" coords="557,1560,816,1601"/>
+<area shape="rect" id="node33" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ad9210c525a11fcc9e8f4cff2e08a6ac6" title="SWGSDRangel::SWGCWKeyerSettings\l::setDotKey" alt="" coords="557,1625,816,1667"/>
+<area shape="rect" id="node34" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#aff8fd91b9282aca8ed410c2e27bd7cb8" title="SWGSDRangel::SWGCWKeyerSettings\l::setDotKeyModifiers" alt="" coords="557,1691,816,1732"/>
+<area shape="rect" id="node35" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#adc925659aaf63da43b369cc2a2262111" title="SWGSDRangel::SWGCWKeyerSettings\l::setDashKey" alt="" coords="557,1756,816,1797"/>
+<area shape="rect" id="node36" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a28044070e85fe144c708dab9182df701" title="SWGSDRangel::SWGCWKeyerSettings\l::setDashKeyModifiers" alt="" coords="557,1821,816,1863"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MainCore::addChannel" name="MainCore::addChannel">
+<area shape="rect" id="node2" href="$d5/d32/classDeviceSet.html#a58e4d50f423117dbd5f84eda51716622" title="DeviceSet::addRxChannel" alt="" coords="215,101,393,127"/>
+<area shape="rect" id="node9" href="$d5/d32/classDeviceSet.html#a6fd623b77485b3bfb03ac9681eb2005e" title="DeviceSet::addTxChannel" alt="" coords="217,171,391,198"/>
+<area shape="rect" id="node12" href="$de/d59/classPluginManager.html#a1ecaa5570cfd6e929fd24892793149b4" title="PluginManager::getPluginAPI" alt="" coords="208,222,400,249"/>
+<area shape="rect" id="node3" href="$d2/ded/structDeviceSet_1_1ChannelInstanceRegistration.html#afc95e832d4b13db31d28b73b2db5fd33" title="DeviceSet::ChannelInstance\lRegistration::ChannelInstanceRegistration" alt="" coords="448,123,716,164"/>
+<area shape="rect" id="node6" href="$d7/d02/classChannelAPI.html#a8fbd0a7ffe2857a030d0689b1124e2be" title="ChannelAPI::getName" alt="" coords="1043,105,1197,131"/>
+<area shape="rect" id="node7" href="$d6/d95/classPluginAPI.html#a85e7fec0bfd413a4722340c9ed3d50cc" title="PluginAPI::getRxChannelRegistrations" alt="" coords="458,17,706,43"/>
+<area shape="rect" id="node4" href="$d2/ded/structDeviceSet_1_1ChannelInstanceRegistration.html#a694ccde2d158ea5bdbea1b537cd0db89" title="DeviceSet::ChannelInstance\lRegistration::operator\&lt;" alt="" coords="769,123,958,164"/>
+<area shape="rect" id="node5" href="$d7/d02/classChannelAPI.html#a93ddb7150a360c79903bd29294664f6e" title="Applies to a default stream. " alt="" coords="1011,155,1229,182"/>
+<area shape="rect" id="node8" href="$de/d59/classPluginManager.html#a11be2551809c2ea9e8202b33bb79b1ff" title="PluginManager::getRxChannel\lRegistrations" alt="" coords="764,5,963,47"/>
+<area shape="rect" id="node10" href="$d6/d95/classPluginAPI.html#a17dad214d5f728eda11bb6249447b072" title="PluginAPI::getTxChannelRegistrations" alt="" coords="459,191,705,218"/>
+<area shape="rect" id="node11" href="$de/d59/classPluginManager.html#a29a1043f47b65ccd65305e21c2a456aa" title="PluginManager::getTxChannel\lRegistrations" alt="" coords="765,188,962,229"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="SWGSDRangel::SWGChannelSettings::setDsdDemodSettings" name="SWGSDRangel::SWGChannelSettings::setDsdDemodSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a906e2386603e46ccbbd6be27d987789f" title="WebAPIRequestMapper\l::resetChannelSettings" alt="" coords="333,13,496,55"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="329,79,500,120"/>
+<area shape="rect" id="node7" href="$d6/d40/classDSDDemod.html#a79f72791c0cfe1ba7bf9b7173ae0cac2" title="DSDDemod::webapiReverseSend\lSettings" alt="" coords="304,144,525,185"/>
+<area shape="rect" id="node17" href="$d6/d40/classDSDDemod.html#a51399ab32591ea82cddfa41429b5f1fd" title="DSDDemod::webapiSettingsGet" alt="" coords="309,235,520,262"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="583,5,762,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="581,71,764,127"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="854,16,1017,57"/>
+<area shape="rect" id="node8" href="$d6/d40/classDSDDemod.html#a8a94e65b7c12b8b37353b7fb0cc8f81b" title="DSDDemod::applySettings" alt="" coords="583,151,763,178"/>
+<area shape="rect" id="node9" href="$d6/d40/classDSDDemod.html#af5b6ef4a42d1d324ede668dd1d8241c0" title="DSDDemod::DSDDemod" alt="" coords="849,97,1021,123"/>
+<area shape="rect" id="node11" href="$d6/d40/classDSDDemod.html#a711070bcc23d8edde938c1ebe94f2208" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="839,151,1031,178"/>
+<area shape="rect" id="node10" href="$d2/d27/classDSDDemod_1_1MsgConfigureChannelizer.html#af4e9c84f91e8e1e15312f6768a613584" title="DSDDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1099,85,1349,127"/>
+<area shape="rect" id="node12" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="1124,151,1324,178"/>
+<area shape="rect" id="node13" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="1397,177,1617,203"/>
+<area shape="rect" id="node14" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1665,177,1827,203"/>
+<area shape="rect" id="node15" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1875,169,2065,211"/>
+<area shape="rect" id="node16" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="2113,177,2304,203"/>
+<area shape="rect" id="node18" href="$d6/d40/classDSDDemod.html#abab2f2e503443588368023c56dd0daf5" title="DSDDemod::getMagSqLevels" alt="" coords="573,249,772,275"/>
+<area shape="rect" id="node19" href="$d8/d46/classDSDDemodGUI.html#a79fee02ef629c7f1fd556d0237060619" title="DSDDemodGUI::tick" alt="" coords="1151,202,1297,229"/>
+<area shape="rect" id="node20" href="$d6/d40/classDSDDemod.html#a5a54c041f499b9bcc3885b938ec4c234" title="DSDDemod::webapiFormatChannel\lReport" alt="" coords="820,253,1051,295"/>
+<area shape="rect" id="node21" href="$d6/d40/classDSDDemod.html#a5e75d3255f92671186337e36c45525c0" title="DSDDemod::webapiReportGet" alt="" coords="1123,290,1325,317"/>
+</map>

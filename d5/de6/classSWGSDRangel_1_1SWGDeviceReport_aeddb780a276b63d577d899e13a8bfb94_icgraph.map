@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setRemoteOutputReport" name="SWGSDRangel::SWGDeviceReport::setRemoteOutputReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="315,5,477,47"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#ab301b8454f7b50e3dcfcddb9662ffdb6" title="RemoteOutput::webapiReportGet" alt="" coords="288,71,504,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="563,5,774,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="833,5,996,47"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="552,71,785,98"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="DeviceSampleMIMO::getInputMessageQueue" name="DeviceSampleMIMO::getInputMessageQueue">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a6234e9ad2aa4df03a66654ba736bcd76" title="Sampling device (ex: single Rx) input message queue. " alt="" coords="252,125,459,166"/>
+<area shape="rect" id="node15" href="$df/d78/classTestMIGui.html#aff2d2e140500471aad351fd7e3bc22b2" title="TestMIGui::on_record\l_toggled" alt="" coords="281,190,429,231"/>
+<area shape="rect" id="node16" href="$df/d78/classTestMIGui.html#a1626342201bbfad1a6ea2c43106791f7" title="TestMIGui::on_startStop\l_toggled" alt="" coords="273,255,438,297"/>
+<area shape="rect" id="node17" href="$df/d78/classTestMIGui.html#ad251f64995428df8c4382721ee59a178" title="TestMIGui::updateHardware" alt="" coords="262,321,449,348"/>
+<area shape="rect" id="node3" href="$dc/df6/classHackRFOutput.html#a30703c7dc5506c9d37bdf004d0bd1168" title="HackRFOutput::applySettings" alt="" coords="507,81,704,108"/>
+<area shape="rect" id="node9" href="$d2/d57/classHackRFInput.html#a78599ec02456151749280eeab1c32e09" title="HackRFInput::applySettings" alt="" coords="512,183,699,209"/>
+<area shape="rect" id="node4" href="$dc/df6/classHackRFOutput.html#a3fddaf36fb4eb6f37c423207d245f870" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="789,5,924,32"/>
+<area shape="rect" id="node6" href="$dc/df6/classHackRFOutput.html#ab11691a4e396d71d42886ea479e738af" title="HackRFOutput::start" alt="" coords="785,56,929,83"/>
+<area shape="rect" id="node7" href="$dc/df6/classHackRFOutput.html#af8dd846352b6ce3ac49c54229454938a" title="HackRFOutput::handleMessage" alt="" coords="752,107,961,133"/>
+<area shape="rect" id="node5" href="$dd/dfd/classHackRFOutput_1_1MsgReportHackRF.html#a5b710bd90a6c3c2e7c11e658594f5303" title="HackRFOutput::MsgReportHack\lRF::MsgReportHackRF" alt="" coords="1009,19,1223,61"/>
+<area shape="rect" id="node8" href="$dc/df6/classHackRFOutput.html#a216c6ce9858362f5300a11d07347f5eb" title="For when the sink sample rate is set externally. " alt="" coords="1012,107,1220,133"/>
+<area shape="rect" id="node10" href="$d2/d57/classHackRFInput.html#a89402aaffa75bb414800e6465fc97dcc" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="794,157,919,184"/>
+<area shape="rect" id="node12" href="$d2/d57/classHackRFInput.html#a7d7867a96bc77f460a73a8dd3519aea8" title="HackRFInput::start" alt="" coords="789,208,924,235"/>
+<area shape="rect" id="node13" href="$d2/d57/classHackRFInput.html#a75a77fa8c78b7dabafd8435056c483a7" title="HackRFInput::handleMessage" alt="" coords="757,259,956,285"/>
+<area shape="rect" id="node11" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#ad7f973dae01345d8d7e1b6606d8e497e" title="HackRFInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1018,175,1214,217"/>
+<area shape="rect" id="node14" href="$d2/d57/classHackRFInput.html#a4a0867e41233fc777459b2479b9e2942" title="For when the source sample rate is set externally. " alt="" coords="1017,259,1215,285"/>
+<area shape="rect" id="node18" href="$df/d78/classTestMIGui.html#a46d27a080d13bc0e97967b840af36f24" title="TestMIGui::TestMIGui" alt="" coords="529,321,681,348"/>
+</map>

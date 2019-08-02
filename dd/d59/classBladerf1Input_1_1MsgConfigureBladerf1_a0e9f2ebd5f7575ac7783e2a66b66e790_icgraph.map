@@ -1,0 +1,9 @@
+<map id="Bladerf1Input::MsgConfigureBladerf1::create" name="Bladerf1Input::MsgConfigureBladerf1::create">
+<area shape="rect" id="node2" href="$d2/d3a/classBladerf1Input.html#ae90752f5b2ba658d44399d918b4d891d" title="Bladerf1Input::deserialize" alt="" coords="255,13,424,39"/>
+<area shape="rect" id="node4" href="$d2/d3a/classBladerf1Input.html#a2549d74ad4077cf352b8fab1bc842ebd" title="Bladerf1Input::setCenter\lFrequency" alt="" coords="257,64,421,105"/>
+<area shape="rect" id="node6" href="$d1/d5e/classBladerf1InputGui.html#a3c5a3b6f7c004856c79da44d4cc6f57d" title="Bladerf1InputGui::update\lHardware" alt="" coords="256,195,423,236"/>
+<area shape="rect" id="node8" href="$d2/d3a/classBladerf1Input.html#ae0afabe071a260a1fde7faf34a5f7afe" title="Bladerf1Input::webapiSettings\lPutPatch" alt="" coords="241,129,437,171"/>
+<area shape="rect" id="node3" href="$d4/d7a/classBladerf1Input_1_1MsgStartStop.html#aece111352ba192c6c19b8248ed7c2ab2" title="Bladerf1Input::MsgStartStop\l::MsgStartStop" alt="" coords="491,5,677,47"/>
+<area shape="rect" id="node5" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="485,105,683,131"/>
+<area shape="rect" id="node7" href="$d1/d5e/classBladerf1InputGui.html#a87cec0483291f33a701f410e5055bc25" title="Bladerf1InputGui::Bladerf1\lInputGui" alt="" coords="497,195,671,236"/>
+</map>

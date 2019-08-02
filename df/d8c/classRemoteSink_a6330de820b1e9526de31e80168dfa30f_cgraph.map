@@ -1,0 +1,10 @@
+<map id="RemoteSink::~RemoteSink" name="RemoteSink::~RemoteSink">
+<area shape="rect" id="node2" href="$df/d8c/classRemoteSink.html#a7c88c93ff9c59ca2e4d091f93aa8a1bd" title="RemoteSink::networkManager\lFinished" alt="" coords="242,12,441,53"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="236,78,447,105"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a0256b15fffe8fe72d67a3c7f48dd1de3" title="DeviceAPI::removeChannel\lSinkAPI" alt="" coords="249,129,433,171"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#abfc2e3f0274e76009daa461526fb810e" title="Remove a channel sink that runs on its own thread. " alt="" coords="523,5,689,47"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3dbc76bc6de91d8fe553d3a70ee6f287" title="Remove a sample sink that runs on its own thread. " alt="" coords="520,71,692,112"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="765,46,944,73"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="499,137,713,163"/>
+<area shape="rect" id="node9" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="495,187,717,214"/>
+</map>

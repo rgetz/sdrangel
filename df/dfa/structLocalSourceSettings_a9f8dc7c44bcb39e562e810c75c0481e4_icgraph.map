@@ -1,0 +1,10 @@
+<map id="LocalSourceSettings::deserialize" name="LocalSourceSettings::deserialize">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a90334c6bdb5d84f8cadcbb06bc11ca65" title="LocalSourceGUI::deserialize" alt="" coords="196,5,384,32"/>
+<area shape="rect" id="node3" href="$d9/d2e/classLocalSource.html#aa91e4d78ba004eb54b627501b60a43dd" title="LocalSource::deserialize" alt="" coords="208,56,372,83"/>
+<area shape="rect" id="node5" href="$df/dfa/structLocalSourceSettings.html#a49c595afabd18f93cdf2d7bd7f812c40" title="LocalSourceSettings\l::setChannelMarker" alt="" coords="219,107,361,149"/>
+<area shape="rect" id="node4" href="$d9/d2e/classLocalSource.html#a82513e84d1afe48c46a24c027d1c3dec" title="Applies to a default stream. " alt="" coords="433,56,653,83"/>
+<area shape="rect" id="node6" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="432,115,655,141"/>
+<area shape="rect" id="node7" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="703,115,865,141"/>
+<area shape="rect" id="node8" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="913,107,1059,149"/>
+<area shape="rect" id="node9" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1107,107,1245,149"/>
+</map>

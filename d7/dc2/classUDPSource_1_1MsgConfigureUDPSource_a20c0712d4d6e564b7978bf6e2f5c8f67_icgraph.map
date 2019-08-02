@@ -1,0 +1,10 @@
+<map id="UDPSource::MsgConfigureUDPSource::getSettings" name="UDPSource::MsgConfigureUDPSource::getSettings">
+<area shape="rect" id="node2" href="$d5/d9e/classUDPSourceGUI.html#a08f240e2a9696143fac27c9f8550ba47" title="UDPSourceGUI::handleMessage" alt="" coords="304,15,519,42"/>
+<area shape="rect" id="node8" href="$de/da4/classUDPSource.html#a82bb428067797487c24e51149955b6af" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="316,67,507,94"/>
+<area shape="rect" id="node3" href="$d5/d9e/classUDPSourceGUI.html#a8aecb7a54b99c15d28ed2ab1658ebcac" title="UDPSourceGUI::handleSource\lMessages" alt="" coords="567,5,769,47"/>
+<area shape="rect" id="node4" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="817,42,1036,69"/>
+<area shape="rect" id="node5" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1084,42,1244,69"/>
+<area shape="rect" id="node6" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1292,35,1479,76"/>
+<area shape="rect" id="node7" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1527,42,1716,69"/>
+<area shape="rect" id="node9" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="568,71,768,98"/>
+</map>

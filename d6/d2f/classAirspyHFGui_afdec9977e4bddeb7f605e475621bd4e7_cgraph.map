@@ -1,0 +1,5 @@
+<map id="AirspyHFGui::on_startStop_toggled" name="AirspyHFGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#abecbe3fff0c345719ab72439361307eb" title="AirspyHFInput::MsgStartStop\l::create" alt="" coords="232,5,427,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="245,71,413,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="255,137,404,163"/>
+</map>

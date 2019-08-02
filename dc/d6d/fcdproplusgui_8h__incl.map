@@ -1,0 +1,18 @@
+<map id="plugins/samplesource/fcdproplus/fcdproplusgui.h" name="plugins/samplesource/fcdproplus/fcdproplusgui.h">
+<area shape="rect" id="node2" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="5,169,176,196"/>
+<area shape="rect" id="node9" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="687,244,830,271"/>
+<area shape="rect" id="node13" href="$d2/d24/fcdproplusinput_8h.html" title="fcdproplusinput.h" alt="" coords="571,95,693,121"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="897,319,967,345"/>
+<area shape="rect" id="node16" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="670,169,847,196"/>
+<area shape="rect" id="node24" href="$db/d0a/audioinput_8h.html" title="audio/audioinput.h" alt="" coords="1087,244,1214,271"/>
+<area shape="rect" id="node28" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="547,244,664,271"/>
+<area shape="rect" id="node30" href="$da/df0/fcdproplussettings_8h.html" title="fcdproplussettings.h" alt="" coords="200,169,339,196"/>
+<area shape="rect" id="node31" href="$d8/d48/fcdhid_8h.html" title="fcdhid.h" alt="" coords="1435,169,1503,196"/>
+<area shape="rect" id="node17" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="405,244,523,271"/>
+<area shape="rect" id="node22" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="956,244,1063,271"/>
+<area shape="rect" id="node19" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="341,319,451,345"/>
+<area shape="rect" id="node35" href="$de/d54/fcdhidcmd_8h.html" title="fcdhidcmd.h" alt="" coords="1659,244,1752,271"/>
+<area shape="rect" id="node38" href="$dc/dd0/hidapi_8h.html" title="hidapi.h" alt="" coords="1781,244,1848,271"/>
+<area shape="rect" id="node36" href="$d5/d1e/fcdprohidcmd_8h.html" title="fcdprohidcmd.h" alt="" coords="1650,319,1761,345"/>
+<area shape="rect" id="node37" href="$d7/dfc/fcdproplushidcmd_8h.html" title="fcdproplushidcmd.h" alt="" coords="1491,319,1626,345"/>
+</map>

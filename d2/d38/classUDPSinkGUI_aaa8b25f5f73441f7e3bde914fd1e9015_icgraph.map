@@ -1,0 +1,11 @@
+<map id="UDPSinkGUI::applySettings" name="UDPSinkGUI::applySettings">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a75a5e77479a21892e6768899c662c016" title="UDPSinkGUI::deserialize" alt="" coords="516,82,687,108"/>
+<area shape="rect" id="node3" href="$d2/d38/classUDPSinkGUI.html#ae421441b22ea92d4200c8901c1eeee41" title="UDPSinkGUI::on_applyBtn\l_clicked" alt="" coords="264,41,445,82"/>
+<area shape="rect" id="node4" href="$d2/d38/classUDPSinkGUI.html#ae0a1097c6a69f4098ecc4d997f49ce62" title="UDPSinkGUI::on_deltaFrequency\l_changed" alt="" coords="245,106,464,148"/>
+<area shape="rect" id="node5" href="$d2/d38/classUDPSinkGUI.html#a2c5a07580fe9e60650bd090e387a1919" title="UDPSinkGUI::resetToDefaults" alt="" coords="253,172,456,199"/>
+<area shape="rect" id="node6" href="$d2/d38/classUDPSinkGUI.html#aae311a7b3313783e7d30ab5984bbbad1" title="UDPSinkGUI::setCenterFrequency" alt="" coords="241,223,468,250"/>
+<area shape="rect" id="node7" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="261,274,449,300"/>
+<area shape="rect" id="node8" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="529,274,674,300"/>
+<area shape="rect" id="node9" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="735,274,981,300"/>
+<area shape="rect" id="node10" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1029,274,1204,300"/>
+</map>

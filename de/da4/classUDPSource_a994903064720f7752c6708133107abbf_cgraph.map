@@ -1,0 +1,13 @@
+<map id="UDPSource::webapiFormatChannelReport" name="UDPSource::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="342,5,467,32"/>
+<area shape="rect" id="node3" href="$de/da4/classUDPSource.html#ac2d4d6c8585fc37d09d3f088f37b5b2f" title="UDPSource::getBufferGauge" alt="" coords="309,56,500,83"/>
+<area shape="rect" id="node5" href="$de/da4/classUDPSource.html#a41013eef3cf8698c26939b0a8b2b506d" title="UDPSource::getInMagSq" alt="" coords="319,107,490,133"/>
+<area shape="rect" id="node6" href="$de/da4/classUDPSource.html#aa5bf8e7c316583669738d8bbcd933a25" title="UDPSource::getMagSq" alt="" coords="325,157,484,184"/>
+<area shape="rect" id="node7" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a98d6375cd8d05dc6d3552372214ec7a3" title="SWGSDRangel::SWGChannelReport\l::getUdpSourceReport" alt="" coords="284,209,525,250"/>
+<area shape="rect" id="node8" href="$de/d78/classSWGSDRangel_1_1SWGUDPSourceReport.html#a1fa5c740a28f1f23b3d889e213fc0196" title="SWGSDRangel::SWGUDPSource\lReport::setBufferGauge" alt="" coords="293,274,517,315"/>
+<area shape="rect" id="node9" href="$de/d78/classSWGSDRangel_1_1SWGUDPSourceReport.html#ac3e7f825b6e198c6925ad6c5fa3a402c" title="SWGSDRangel::SWGUDPSource\lReport::setChannelPowerDb" alt="" coords="293,339,517,381"/>
+<area shape="rect" id="node10" href="$de/d78/classSWGSDRangel_1_1SWGUDPSourceReport.html#a15efae6adb01553bff7dcd5ad9dc723a" title="SWGSDRangel::SWGUDPSource\lReport::setChannelSampleRate" alt="" coords="293,405,517,446"/>
+<area shape="rect" id="node11" href="$de/d78/classSWGSDRangel_1_1SWGUDPSourceReport.html#a39b7cdd2f1d93a46fd1bfa67302c2d96" title="SWGSDRangel::SWGUDPSource\lReport::setInputPowerDb" alt="" coords="293,470,517,511"/>
+<area shape="rect" id="node12" href="$de/d78/classSWGSDRangel_1_1SWGUDPSourceReport.html#a2f12bc81b95cd8f9e6c046b3926725c3" title="SWGSDRangel::SWGUDPSource\lReport::setSquelch" alt="" coords="293,535,517,577"/>
+<area shape="rect" id="node4" href="$d3/d40/classUDPSourceUDPHandler.html#a716be99b9e4c6ded87aa7d69d3bd93f0" title="UDPSourceUDPHandler\l::getBufferGauge" alt="" coords="573,49,740,90"/>
+</map>

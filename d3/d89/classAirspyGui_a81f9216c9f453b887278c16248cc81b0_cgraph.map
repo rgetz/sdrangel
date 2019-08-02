@@ -1,0 +1,55 @@
+<map id="AirspyGui::AirspyGui" name="AirspyGui::AirspyGui">
+<area shape="rect" id="node2" href="$d3/d89/classAirspyGui.html#ada11017d279c71c8007e69564e464bbc" title="AirspyGui::displaySample\lRates" alt="" coords="219,719,391,760"/>
+<area shape="rect" id="node8" href="$d3/d89/classAirspyGui.html#a00656edc5f53854839d614e5d608d5ca" title="AirspyGui::displaySettings" alt="" coords="729,297,905,323"/>
+<area shape="rect" id="node9" href="$d3/d89/classAirspyGui.html#a27ac4f872ab17c2cc24c24eee570382c" title="AirspyGui::updateFrequency\lLimits" alt="" coords="976,5,1163,47"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html#a21b67655f61be838b73d4df898f18a56" title="Return pointer to the device sample source (single Rx) or nullptr. " alt="" coords="207,1019,403,1046"/>
+<area shape="rect" id="node12" href="$d3/d89/classAirspyGui.html#aad2d9beff85ec01ab16a4ab4c56e28f1" title="AirspyGui::handleInputMessages" alt="" coords="197,269,412,295"/>
+<area shape="rect" id="node28" href="$d3/d89/classAirspyGui.html#a30264d2da5f476c32ccd85722c50dc16" title="AirspyGui::openDeviceSettings\lDialog" alt="" coords="203,903,407,944"/>
+<area shape="rect" id="node37" href="$d3/d89/classAirspyGui.html#abe85bd3851d1e1f509d63a7525c66ca0" title="AirspyGui::sendSettings" alt="" coords="478,1230,641,1257"/>
+<area shape="rect" id="node38" href="$db/d0c/classDeviceSampleSource.html#a93220663ec268097bdd9f6c14f6f3b91" title="DeviceSampleSource\l::setMessageQueueToGUI" alt="" coords="215,1071,394,1112"/>
+<area shape="rect" id="node39" href="$d3/d89/classAirspyGui.html#ac547884dcae3c786362e6e64ae9c7bd6" title="AirspyGui::updateHardware" alt="" coords="213,615,396,642"/>
+<area shape="rect" id="node43" href="$d3/d89/classAirspyGui.html#a24da14c98978469d0db0c07c352fd20e" title="AirspyGui::updateStatus" alt="" coords="223,1347,387,1374"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1049,699,1089,726"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1211,699,1319,726"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1571,670,1689,697"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1367,721,1515,763"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1563,721,1697,763"/>
+<area shape="rect" id="node11" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="473,1281,645,1323"/>
+<area shape="rect" id="node13" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="488,298,631,325"/>
+<area shape="rect" id="node14" href="$d6/d28/classMessage.html#a607a4adf44d727623cc9eaf8bdadd91a" title="Message::getIdentifier" alt="" coords="484,349,635,375"/>
+<area shape="rect" id="node15" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="758,63,877,90"/>
+<area shape="rect" id="node17" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="483,115,635,156"/>
+<area shape="rect" id="node18" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="483,232,635,273"/>
+<area shape="rect" id="node19" href="$d3/d89/classAirspyGui.html#a40d047af2fcaf9a83d109d14cf1e7311" title="AirspyGui::updateSampleRate\lAndFrequency" alt="" coords="460,451,659,492"/>
+<area shape="rect" id="node24" href="$d3/d89/classAirspyGui.html#a8f78032e682fbc44a437e8aa88570b88" title="AirspyGui::handleMessage" alt="" coords="470,181,649,207"/>
+<area shape="rect" id="node16" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="985,71,1154,98"/>
+<area shape="rect" id="node20" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="728,347,907,374"/>
+<area shape="rect" id="node21" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="721,398,914,425"/>
+<area shape="rect" id="node23" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="707,449,928,475"/>
+<area shape="rect" id="node22" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="995,474,1144,501"/>
+<area shape="rect" id="node25" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#acfc36453e4031c22692c1d9450440259" title="AirspyInput::MsgConfigure\lAirspy::getSettings" alt="" coords="729,180,906,221"/>
+<area shape="rect" id="node26" href="$d3/d89/classAirspyGui.html#aeb71416e6bddd5a8df54c7bce1e8e2ba" title="AirspyGui::blockApplySettings" alt="" coords="718,246,917,273"/>
+<area shape="rect" id="node27" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#af383197be6add48f0e9507ced436d675" title="AirspyInput::MsgStartStop\l::getStartStop" alt="" coords="729,115,905,156"/>
+<area shape="rect" id="node29" href="$dd/d41/classBasicDeviceSettingsDialog.html#a620777e513db5769113671f437eb92df" title="BasicDeviceSettingsDialog\l::setUseReverseAPI" alt="" coords="469,1164,650,1205"/>
+<area shape="rect" id="node30" href="$dd/d41/classBasicDeviceSettingsDialog.html#a515540601bb272d9a04b9f048f912ad6" title="BasicDeviceSettingsDialog\l::useReverseAPI" alt="" coords="727,1012,908,1053"/>
+<area shape="rect" id="node31" href="$dd/d41/classBasicDeviceSettingsDialog.html#a2336847621183281351768eb2b807bd5" title="BasicDeviceSettingsDialog\l::setReverseAPIAddress" alt="" coords="469,903,650,944"/>
+<area shape="rect" id="node32" href="$dd/d41/classBasicDeviceSettingsDialog.html#a354a53bfe121fccc20ef67ca2d460402" title="BasicDeviceSettingsDialog\l::setReverseAPIPort" alt="" coords="727,816,908,857"/>
+<area shape="rect" id="node33" href="$dd/d41/classBasicDeviceSettingsDialog.html#a868a115f83061f3f1f97125c52f5caf2" title="BasicDeviceSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="721,751,913,792"/>
+<area shape="rect" id="node34" href="$dd/d41/classBasicDeviceSettingsDialog.html#a4f0da112a518f3aacaa69639f8f6f527" title="BasicDeviceSettingsDialog\l::getReverseAPIAddress" alt="" coords="469,968,650,1009"/>
+<area shape="rect" id="node35" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9e97aa1103eb0b3564ca02a9c836a952" title="BasicDeviceSettingsDialog\l::getReverseAPIPort" alt="" coords="469,1033,650,1075"/>
+<area shape="rect" id="node36" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9dc629d97e53555fb3f1df907f9bf490" title="BasicDeviceSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="463,1099,655,1140"/>
+<area shape="rect" id="node40" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a64d748dd77ad6e449c2933ad333a2175" title="AirspyInput::MsgConfigure\lAirspy::create" alt="" coords="471,633,648,675"/>
+<area shape="rect" id="node42" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="475,568,643,609"/>
+<area shape="rect" id="node41" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a5a95e873f7c6a819e93b4bf620b82b60" title="AirspyInput::MsgConfigure\lAirspy::MsgConfigureAirspy" alt="" coords="725,633,910,675"/>
+<area shape="rect" id="node44" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="498,1347,621,1374"/>
+<area shape="rect" id="node48" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="473,1477,645,1503"/>
+<area shape="rect" id="node45" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="731,1372,903,1413"/>
+<area shape="rect" id="node46" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="739,1241,896,1283"/>
+<area shape="rect" id="node47" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="734,1307,901,1348"/>
+<area shape="rect" id="node49" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="731,1503,903,1544"/>
+<area shape="rect" id="node52" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="739,1437,896,1479"/>
+<area shape="rect" id="node53" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="734,1568,901,1609"/>
+<area shape="rect" id="node50" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="980,1510,1159,1537"/>
+<area shape="rect" id="node51" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="993,1440,1145,1481"/>
+<area shape="rect" id="node54" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="976,1561,1163,1617"/>
+</map>

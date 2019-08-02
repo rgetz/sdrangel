@@ -1,0 +1,9 @@
+<map id="KiwiSDRInput::setWorkerGain" name="KiwiSDRInput::setWorkerGain">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#a29e737cd6de8d5f348129f09b0d7a362" title="KiwiSDRInput::applySettings" alt="" coords="253,56,445,83"/>
+<area shape="rect" id="node7" href="$d4/dbc/classKiwiSDRInput.html#ad8eac7e9247ca39ef86fb9a22b032c58" title="KiwiSDRInput::start" alt="" coords="526,107,665,133"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#a405b361e1193c892149c8cd4ac89f534" title="KiwiSDRInput::handleMessage" alt="" coords="493,5,697,32"/>
+<area shape="rect" id="node5" href="$d4/dbc/classKiwiSDRInput.html#a74556d41d14597af9db0d374469636b3" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="781,56,912,83"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="745,5,948,32"/>
+<area shape="rect" id="node6" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="996,99,1192,141"/>
+<area shape="rect" id="node8" href="$d4/dbc/classKiwiSDRInput.html#a82985e560c9e21de05c9a39135bf1afb" title="KiwiSDRInput::KiwiSDRInput" alt="" coords="749,157,945,184"/>
+</map>

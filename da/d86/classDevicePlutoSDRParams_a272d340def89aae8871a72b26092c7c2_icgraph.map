@@ -1,0 +1,37 @@
+<map id="DevicePlutoSDRParams::getBox" name="DevicePlutoSDRParams::getBox">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#a4a7d956731df0e59855999390a468698" title="PlutoSDROutput::applySettings" alt="" coords="232,35,439,61"/>
+<area shape="rect" id="node5" href="$da/dff/classPlutoSDROutput.html#a758177843de5ed2ee7853997d9ab95c9" title="PlutoSDROutput::start" alt="" coords="541,85,696,112"/>
+<area shape="rect" id="node8" href="$d2/d3a/classPlutoSDRInput.html#ae5f536a2e37bd78859b82a18adcb17b1" title="PlutoSDRInput::applySettings" alt="" coords="237,440,434,467"/>
+<area shape="rect" id="node11" href="$d2/d3a/classPlutoSDRInput.html#ac87318bcbf81306f72de477bcd2b87fc" title="PlutoSDRInput::start" alt="" coords="547,491,691,517"/>
+<area shape="rect" id="node14" href="$da/dff/classPlutoSDROutput.html#a8588e6225682c553093d72249d6bd508" title="PlutoSDROutput::closeDevice" alt="" coords="235,136,435,163"/>
+<area shape="rect" id="node16" href="$d2/d3a/classPlutoSDRInput.html#a3b58f4f99d3155549b59d814de608dc8" title="PlutoSDRInput::closeDevice" alt="" coords="240,541,431,568"/>
+<area shape="rect" id="node18" href="$da/dff/classPlutoSDROutput.html#aac5722bb3dd55744acf026e5e2b50ad9" title="PlutoSDROutput::fetchTemperature" alt="" coords="220,187,451,213"/>
+<area shape="rect" id="node22" href="$d2/d3a/classPlutoSDRInput.html#ad171aa182a204051b875034fd36f5a06" title="PlutoSDRInput::fetchTemperature" alt="" coords="225,744,445,771"/>
+<area shape="rect" id="node26" href="$da/dff/classPlutoSDROutput.html#a66c8daa99d27fe27d83c73931645ee00" title="PlutoSDROutput::getbbLPRange" alt="" coords="228,389,443,416"/>
+<area shape="rect" id="node27" href="$d2/d3a/classPlutoSDRInput.html#a25409c96ee18ae12baeefc9b391ae0dd" title="PlutoSDRInput::getbbLPRange" alt="" coords="233,845,437,872"/>
+<area shape="rect" id="node28" href="$d2/d3a/classPlutoSDRInput.html#a87668ddebc61741e8f77caba8cede519" title="PlutoSDRInput::getGain" alt="" coords="254,592,417,619"/>
+<area shape="rect" id="node29" href="$da/dff/classPlutoSDROutput.html#a58de2b7129f200de7b499965d1277064" title="PlutoSDROutput::getLORange" alt="" coords="235,339,436,365"/>
+<area shape="rect" id="node30" href="$d2/d3a/classPlutoSDRInput.html#a60ea73d9038b3eca29e32beb0b2beb75" title="PlutoSDRInput::getLORange" alt="" coords="240,795,431,821"/>
+<area shape="rect" id="node31" href="$da/dff/classPlutoSDROutput.html#a3dbba8cc92d64d7745f0135fa085b2c1" title="PlutoSDROutput::getRSSI" alt="" coords="246,237,425,264"/>
+<area shape="rect" id="node32" href="$d2/d3a/classPlutoSDRInput.html#adaccd10bf070346e4cb3553174bbad2d" title="PlutoSDRInput::getRSSI" alt="" coords="251,643,419,669"/>
+<area shape="rect" id="node33" href="$da/dff/classPlutoSDROutput.html#a1e5e7b989e0210e9955ea641c074fb68" title="PlutoSDROutput::getTemperature" alt="" coords="226,288,445,315"/>
+<area shape="rect" id="node34" href="$d2/d3a/classPlutoSDRInput.html#afbcebd5a8aff4a576251c585974302b6" title="PlutoSDRInput::getTemperature" alt="" coords="231,693,440,720"/>
+<area shape="rect" id="node35" href="$da/dff/classPlutoSDROutput.html#a57892a02372c1aecdb938d5b1652c0b4" title="PlutoSDROutput::openDevice" alt="" coords="237,896,434,923"/>
+<area shape="rect" id="node36" href="$d2/d3a/classPlutoSDRInput.html#abf1de67c02b7fc8925627079863c585d" title="PlutoSDRInput::openDevice" alt="" coords="242,947,429,973"/>
+<area shape="rect" id="node3" href="$da/dff/classPlutoSDROutput.html#a66507a2a3ab336dcb05000ddf5cf7f4b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="546,35,691,61"/>
+<area shape="rect" id="node6" href="$da/dff/classPlutoSDROutput.html#ad132fd5cef658cfceffc18fe8cc34967" title="PlutoSDROutput::handleMessage" alt="" coords="792,5,1011,32"/>
+<area shape="rect" id="node4" href="$da/d5d/classPlutoSDROutput_1_1MsgStartStop.html#a5f1f592f6e818d950c7c1e031495c4df" title="PlutoSDROutput::MsgStart\lStop::MsgStartStop" alt="" coords="811,78,992,119"/>
+<area shape="rect" id="node7" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="1064,76,1283,103"/>
+<area shape="rect" id="node9" href="$d2/d3a/classPlutoSDRInput.html#a2bf0318755e5aa6874bdfec176d7d2d2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="551,440,686,467"/>
+<area shape="rect" id="node12" href="$d2/d3a/classPlutoSDRInput.html#a9afd466714904b65e49763015e29e79b" title="PlutoSDRInput::handleMessage" alt="" coords="797,411,1006,437"/>
+<area shape="rect" id="node10" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="802,483,1001,525"/>
+<area shape="rect" id="node13" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="1069,491,1277,517"/>
+<area shape="rect" id="node15" href="$da/dff/classPlutoSDROutput.html#a3a7a54db8bbb986195d53106909b195b" title="PlutoSDROutput::~PlutoSDROutput" alt="" coords="501,136,736,163"/>
+<area shape="rect" id="node17" href="$d2/d3a/classPlutoSDRInput.html#a71f7f3daf8b715c51223ac33a45fafd2" title="PlutoSDRInput::~PlutoSDRInput" alt="" coords="511,541,726,568"/>
+<area shape="rect" id="node19" href="$da/dff/classPlutoSDROutput.html#ad7e94b43fb3c79a2e558328e05611bbd" title="PlutoSDROutput::webapiFormat\lDeviceReport" alt="" coords="513,205,724,246"/>
+<area shape="rect" id="node21" href="$da/dff/classPlutoSDROutput.html#ac6f70233befaa4bed6e019c8110d270e" title="PlutoSDROutput::getFIRSampleRate" alt="" coords="499,288,739,315"/>
+<area shape="rect" id="node20" href="$da/dff/classPlutoSDROutput.html#aad7abfa70c2b75289ad54a3a3abaac46" title="PlutoSDROutput::webapiReportGet" alt="" coords="787,179,1016,205"/>
+<area shape="rect" id="node23" href="$d2/d3a/classPlutoSDRInput.html#af58fe1eeb906a67d45789b2766c86b98" title="PlutoSDRInput::webapiFormat\lDeviceReport" alt="" coords="519,635,719,677"/>
+<area shape="rect" id="node25" href="$d2/d3a/classPlutoSDRInput.html#a07944aa827bff2938fca7132916df433" title="PlutoSDRInput::getFIRSampleRate" alt="" coords="503,723,734,749"/>
+<area shape="rect" id="node24" href="$d2/d3a/classPlutoSDRInput.html#ab4a7a1352d8602a54cbfa7c24767bc75" title="PlutoSDRInput::webapiReportGet" alt="" coords="792,596,1011,623"/>
+</map>

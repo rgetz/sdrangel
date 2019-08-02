@@ -1,0 +1,6 @@
+<map id="CSocket::FillAddr" name="CSocket::FillAddr">
+<area shape="rect" id="node2" href="$d1/d23/classCSocket.html#a648d3f219439382aa4e6cc45b445e96c" title="CSocket::BindLocalAddress\lAndPort" alt="" coords="181,5,367,47"/>
+<area shape="rect" id="node4" href="$d1/d23/classCSocket.html#a29f03aa485954c2c587ce1a8bb6fe7db" title="CSocket::ConnectToHost" alt="" coords="187,71,361,98"/>
+<area shape="rect" id="node5" href="$d9/df3/classUDPSocket.html#ac22a9b24310ad0ee2b91b16a91888e6f" title="UDPSocket::SendDataGram" alt="" coords="179,122,369,149"/>
+<area shape="rect" id="node3" href="$d9/df3/classUDPSocket.html#af19281c523f15ed30d7d78f09033713d" title="UDPSocket::UDPSocket" alt="" coords="417,13,588,39"/>
+</map>

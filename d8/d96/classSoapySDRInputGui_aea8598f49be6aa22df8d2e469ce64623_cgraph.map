@@ -1,0 +1,14 @@
+<map id="SoapySDRInputGui::serialize" name="SoapySDRInputGui::serialize">
+<area shape="rect" id="node2" href="$d7/d21/structSoapySDRInputSettings.html#a326a69d8d105712490642ae24a0b1e28" title="SoapySDRInputSettings\l::serialize" alt="" coords="247,226,412,267"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="469,5,644,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="469,56,645,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="467,107,646,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="469,157,644,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="463,208,650,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="467,259,646,285"/>
+<area shape="rect" id="node10" href="$d7/d21/structSoapySDRInputSettings.html#a6c1c530aa368803a88d9c146d17e3b77" title="SoapySDRInputSettings\l::serializeNamedElementMap" alt="" coords="460,310,653,351"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#a313ea3b5686b5ab522c4b13c5b71f4f2" title="SimpleSerializer::writeDouble" alt="" coords="460,376,653,403"/>
+<area shape="rect" id="node12" href="$d7/d21/structSoapySDRInputSettings.html#aa5a07ff557bb1410d3952fc8dff1c4f4" title="SoapySDRInputSettings\l::serializeArgumentMap" alt="" coords="474,427,639,469"/>
+<area shape="rect" id="node13" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="483,493,631,520"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="701,157,876,184"/>
+</map>

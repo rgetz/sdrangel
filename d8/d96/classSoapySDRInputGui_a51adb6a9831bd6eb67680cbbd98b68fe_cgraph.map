@@ -1,0 +1,24 @@
+<map id="SoapySDRInputGui::createCorrectionsControl" name="SoapySDRInputGui::createCorrectionsControl">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#ad526e17cbdace7b544736c30499a7598" title="SoapySDRInputGui::autoDCCorrection\lChanged" alt="" coords="235,201,485,243"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#a2f58e313157cc6055cd4adbca811480e" title="SoapySDRInputGui::autoIQCorrection\lChanged" alt="" coords="238,136,482,177"/>
+<area shape="rect" id="node5" href="$d8/d96/classSoapySDRInputGui.html#aa3186209125ff054219e7f58fa8be0e4" title="SoapySDRInputGui::dcCorrection\lArgumentChanged" alt="" coords="251,71,469,112"/>
+<area shape="rect" id="node8" href="$d8/d96/classSoapySDRInputGui.html#aa1fed0e143e7ea01ec0f147c5a786945" title="SoapySDRInputGui::dcCorrection\lModuleChanged" alt="" coords="251,332,469,373"/>
+<area shape="rect" id="node14" href="$da/d65/classSoapySDRInput.html#aec40e9add588edb02c73174c8754d3e7" title="SoapySDRInput::hasDCAuto\lCorrection" alt="" coords="263,397,457,439"/>
+<area shape="rect" id="node16" href="$da/d65/classSoapySDRInput.html#a2efe24c653ea12be551ec267f8c03005" title="SoapySDRInput::hasDCCorrection\lValue" alt="" coords="247,463,473,504"/>
+<area shape="rect" id="node17" href="$da/d65/classSoapySDRInput.html#a7d276f459bb2be920aa3c7b8ebdd88b5" title="SoapySDRInput::hasIQAuto\lCorrection" alt="" coords="267,593,453,635"/>
+<area shape="rect" id="node18" href="$da/d65/classSoapySDRInput.html#afc33a436d1b55893cc81d7b014fb2158" title="SoapySDRInput::hasIQCorrection\lValue" alt="" coords="250,528,470,569"/>
+<area shape="rect" id="node19" href="$d8/d96/classSoapySDRInputGui.html#a9db72504449f3f039bdfdf5b661c3048" title="SoapySDRInputGui::iqCorrection\lArgumentChanged" alt="" coords="253,5,467,47"/>
+<area shape="rect" id="node20" href="$d8/d96/classSoapySDRInputGui.html#ac6e2a55ff30d831fa0885066d61685e2" title="SoapySDRInputGui::iqCorrection\lModuleChanged" alt="" coords="253,267,467,308"/>
+<area shape="rect" id="node21" href="$d0/d5a/classComplexFactorGUI.html#a783f6ec8bd740a2814dd380470fa89b2" title="ComplexFactorGUI::setAutomatic\lEnable" alt="" coords="250,659,470,700"/>
+<area shape="rect" id="node22" href="$d0/d5a/classComplexFactorGUI.html#a72ada8570188238fc30d5f29a2872000" title="ComplexFactorGUI::setLabel" alt="" coords="264,725,456,751"/>
+<area shape="rect" id="node23" href="$d0/d5a/classComplexFactorGUI.html#ae41bbcc58e7b2ed026a1fb5d84e3c623" title="ComplexFactorGUI::setToolTip" alt="" coords="258,775,462,802"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a868ab9f107250956a99c440943eb7b0a" title="SoapySDRInputGui::sendSettings" alt="" coords="533,177,755,203"/>
+<area shape="rect" id="node6" href="$dd/d58/fixed_8h.html#a8f22b20379bd986a21335100e02cc7db" title="abs" alt="" coords="623,46,665,73"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#a62cb73f2f5151a99b8d3206136e9c951" title="Fixed::abs" alt="" coords="815,46,898,73"/>
+<area shape="rect" id="node9" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="624,306,664,333"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="803,306,911,333"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="959,328,1107,369"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1163,277,1281,303"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1155,328,1289,369"/>
+<area shape="rect" id="node15" href="$df/d0d/classDeviceSoapySDRParams.html#a6a33ea2d7bbfaef69fc75ca280f8ab2a" title="DeviceSoapySDRParams\l::getRxChannelSettings" alt="" coords="557,463,731,504"/>
+</map>

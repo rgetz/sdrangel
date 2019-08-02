@@ -1,0 +1,5 @@
+<map id="TestMIGui::on_startStop_toggled" name="TestMIGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d8/de7/classTestMI_1_1MsgStartStop.html#ae85802b7a58eeb206eb4b0dd5c624cbc" title="TestMI::MsgStartStop\l::create" alt="" coords="243,5,393,47"/>
+<area shape="rect" id="node3" href="$d1/d50/classDeviceSampleMIMO.html#a3392aa003550e5f1c74dc75125a92b1b" title="DeviceSampleMIMO::getInput\lMessageQueue" alt="" coords="219,71,417,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="243,137,393,163"/>
+</map>

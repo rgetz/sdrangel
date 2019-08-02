@@ -1,0 +1,10 @@
+<map id="SSBModGUI::audioFeedbackSelect" name="SSBModGUI::audioFeedbackSelect">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#aa05cd8f647ed6ecd3f56fd6aea3c757b" title="SSBModGUI::applySettings" alt="" coords="471,111,656,138"/>
+<area shape="rect" id="node8" href="$db/d2a/classSSBModGUI.html#a5cbbca5ac390978c2d0dc69b770bd2a7" title="SSBModGUI::audioSelect" alt="" coords="248,149,423,175"/>
+<area shape="rect" id="node9" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="490,174,637,201"/>
+<area shape="rect" id="node3" href="$dd/d7e/classSSBMod_1_1MsgConfigureSSBMod.html#a1d551d4614c4a6ede45afa3501f42bc2" title="SSBMod::MsgConfigureSSBMod\l::create" alt="" coords="713,5,927,47"/>
+<area shape="rect" id="node5" href="$d0/d3b/classSSBMod_1_1MsgConfigureChannelizer.html#a6785add8032fedae179e4e58e480fe6b" title="SSBMod::MsgConfigureChannelizer\l::create" alt="" coords="704,71,936,112"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="736,136,904,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="745,202,895,229"/>
+<area shape="rect" id="node4" href="$dd/d7e/classSSBMod_1_1MsgConfigureSSBMod.html#a3133bb46fb386ee6835943d6d5d87a24" title="SSBMod::MsgConfigureSSBMod\l::MsgConfigureSSBMod" alt="" coords="984,5,1199,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="XTRXOutput::openDevice" name="XTRXOutput::openDevice">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a2f7cb4278292fa7864f420103fe92624" title="DeviceAPI::getBuddySharedPtr" alt="" coords="228,5,435,32"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a6a132cbd77d935d2ffc96bc5b2be58de" title="DeviceAPI::getDeviceItem\lIndex" alt="" coords="242,57,421,98"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a067d3393f92545000623e007a166dd87" title="DeviceAPI::getSamplingDevice\lSerial" alt="" coords="228,122,435,163"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="239,188,423,215"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="232,239,431,265"/>
+<area shape="rect" id="node7" href="$dd/d06/classDeviceXTRX.html#a00cd765cb6d8179df7cd9c1c57fc399a" title="DeviceXTRX::open" alt="" coords="264,289,399,316"/>
+<area shape="rect" id="node8" href="$d6/d8d/classSampleSourceFifo.html#ae8af45490db22323de76a110d6b20ee0" title="SampleSourceFifo::resize" alt="" coords="245,340,417,367"/>
+<area shape="rect" id="node11" href="$dd/db6/classDeviceAPI.html#a3aedc22d25fe2047b30ce24bfc394703" title="DeviceAPI::setBuddySharedPtr" alt="" coords="228,391,435,417"/>
+<area shape="rect" id="node9" href="$d6/d8d/classSampleSourceFifo.html#a885172a26be6aaf0f76b6f4326eb1bbb" title="SampleSourceFifo::init" alt="" coords="486,315,641,341"/>
+<area shape="rect" id="node10" href="$d6/d8d/classSampleSourceFifo.html#a7853625d0b01bb3e897ad875c0a7c51f" title="SampleSourceFifo::size" alt="" coords="483,365,644,392"/>
+</map>

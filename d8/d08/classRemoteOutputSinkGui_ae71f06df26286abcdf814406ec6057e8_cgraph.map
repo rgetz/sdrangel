@@ -1,0 +1,5 @@
+<map id="RemoteOutputSinkGui::on_startStop_toggled" name="RemoteOutputSinkGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d3/d9b/classRemoteOutput_1_1MsgStartStop.html#ae3f3b1a2579aefe595b9bb37e1b9888d" title="RemoteOutput::MsgStartStop\l::create" alt="" coords="207,5,401,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="210,71,398,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="229,137,379,163"/>
+</map>

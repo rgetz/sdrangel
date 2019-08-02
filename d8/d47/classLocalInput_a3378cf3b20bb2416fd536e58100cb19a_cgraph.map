@@ -1,0 +1,5 @@
+<map id="LocalInput::webapiFormatDeviceReport" name="LocalInput::webapiFormatDeviceReport">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a795cab8fbc9d727c39feca46d10e417d" title="SWGSDRangel::SWGDeviceReport\l::getLocalInputReport" alt="" coords="225,5,460,47"/>
+<area shape="rect" id="node3" href="$d3/d70/classSWGSDRangel_1_1SWGLocalInputReport.html#a3a82c540d5d8b534d6b4f932c0a04a9e" title="SWGSDRangel::SWGLocalInput\lReport::setCenterFrequency" alt="" coords="235,71,450,112"/>
+<area shape="rect" id="node4" href="$d3/d70/classSWGSDRangel_1_1SWGLocalInputReport.html#a02d2c7405410a3cdcb4cdb265201cda0" title="SWGSDRangel::SWGLocalInput\lReport::setSampleRate" alt="" coords="235,136,450,177"/>
+</map>

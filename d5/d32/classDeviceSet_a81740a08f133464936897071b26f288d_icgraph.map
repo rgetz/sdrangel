@@ -1,0 +1,7 @@
+<map id="DeviceSet::deleteRxChannel" name="DeviceSet::deleteRxChannel">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#ad5edabdb2b23de6b0c90e36f18f3f0b3" title="MainCore::deleteChannel" alt="" coords="251,5,421,32"/>
+<area shape="rect" id="node6" href="$d5/d32/classDeviceSet.html#a804724a8f32050e8f1582511fb330cdc" title="DeviceSet::getNumberOfTx\lChannels" alt="" coords="244,57,428,98"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="476,5,653,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="701,5,885,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="933,5,1076,32"/>
+</map>

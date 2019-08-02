@@ -1,0 +1,27 @@
+<map id="SSBDemod::feed" name="SSBDemod::feed">
+<area shape="rect" id="node2" href="$d3/df3/classInterpolator.html#a2b6a9455606974de92e6bfe5f5eb1faf" title="Interpolator::decimate" alt="" coords="210,5,358,32"/>
+<area shape="rect" id="node5" href="$d3/df3/classInterpolator.html#ae3e83b70864ee36b262f526b531e3a69" title="Interpolator::interpolate" alt="" coords="207,56,361,83"/>
+<area shape="rect" id="node6" href="$d0/d17/classNCOF.html#a4005f77a42d6f596cc600c6682865eea" title="Return next complex sample. " alt="" coords="231,107,337,133"/>
+<area shape="rect" id="node8" href="$d6/d4d/classSSBDemod.html#a9a17d3956911da433ebf0b8036fb1018" title="SSBDemod::processOneSample" alt="" coords="177,333,391,360"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a05e80256399b9904a0a4c1bf63ce0155" title="floor" alt="" coords="514,17,561,44"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a0b4002c0f3f7ae2655c40b9415f99a99" title="Fixed::floor" alt="" coords="737,17,824,44"/>
+<area shape="rect" id="node7" href="$d0/d17/classNCOF.html#a5e5075bd57e89ad549ccd05b42add291" title="NCOF::nextPhase" alt="" coords="472,93,603,120"/>
+<area shape="rect" id="node9" href="$d0/de5/classfftfilt.html#a4064e6543ad199fe1d29e396d489b817" title="fftfilt::runDSB" alt="" coords="486,363,589,389"/>
+<area shape="rect" id="node12" href="$d0/de5/classfftfilt.html#ad42a83610e88b5bc1ab4f4ea5acfbafd" title="fftfilt::runSSB" alt="" coords="487,413,588,440"/>
+<area shape="rect" id="node13" href="$d7/de9/classMagAGC.html#ad98a816816e71938161cbd3e449ee7d1" title="MagAGC::feedAndGetValue" alt="" coords="444,464,631,491"/>
+<area shape="rect" id="node20" href="$de/d7a/classDoubleBufferFIFO.html#a3d99e9fad45d66d3bd6a3dbbdf77ac91" title="DoubleBufferFIFO::readBack" alt="" coords="442,565,633,592"/>
+<area shape="rect" id="node21" href="$d7/de9/classMagAGC.html#a9fca3780d2834f0a38b920065d84e143" title="MagAGC::getStepDownDelay" alt="" coords="439,144,636,171"/>
+<area shape="rect" id="node22" href="$de/d7a/classDoubleBufferFIFO.html#a7a5a2c90f91b82360d942aa8f046b378" title="DoubleBufferFIFO::write" alt="" coords="455,195,619,221"/>
+<area shape="rect" id="node23" href="$d7/de9/classMagAGC.html#a8d4e399c5e865b9fd5eb88592834f151" title="MagAGC::getStepValue" alt="" coords="456,515,619,541"/>
+<area shape="rect" id="node24" href="$dc/dd8/classAudioFifo.html#af3d2d6fdc56a9b3e6ef86c019d874105" title="AudioFifo::write" alt="" coords="481,245,594,272"/>
+<area shape="rect" id="node26" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="462,297,613,338"/>
+<area shape="rect" id="node10" href="$d9/daf/classg__fft.html#afd76303c0010b4718ead81ad66e0e1fb" title="g_fft::ComplexFFT" alt="" coords="715,363,847,389"/>
+<area shape="rect" id="node11" href="$d9/daf/classg__fft.html#a86616793d4943c31b5c27a62f117516b" title="g_fft::InverseComplexFFT" alt="" coords="693,312,868,339"/>
+<area shape="rect" id="node14" href="$d0/de4/classMovingAverage.html#a94c33d51b9968076f7c4f11d178899f6" title="MovingAverage::average" alt="" coords="697,464,864,491"/>
+<area shape="rect" id="node15" href="$d0/de4/classMovingAverage.html#a9fa969445ea87d7b0d2cb303facc65d9" title="MovingAverage::feed" alt="" coords="708,515,853,541"/>
+<area shape="rect" id="node16" href="$d7/de9/classMagAGC.html#a6f12e71ce796f5f6b0b2f01c049c4ec5" title="MagAGC::hardLimiter" alt="" coords="707,413,855,440"/>
+<area shape="rect" id="node17" href="$dd/d58/fixed_8h.html#a112464e01c9263c3bbffc0856583e1bc" title="sqrt" alt="" coords="925,489,969,516"/>
+<area shape="rect" id="node19" href="$d3/d54/classStepFunctions.html#ad84e50853f81e5671706dea6d71c9a9f" title="StepFunctions::smootherstep" alt="" coords="684,616,877,643"/>
+<area shape="rect" id="node18" href="$dd/d7b/classFixed.html#aafa1d6d4ce5959ddedcf20ec16a2fa3d" title="Fixed::sqrt" alt="" coords="1017,489,1101,516"/>
+<area shape="rect" id="node25" href="$dc/dd8/classAudioFifo.html#aafd22a861c9aacc3cd7e9b987f7923ed" title="AudioFifo::isFull" alt="" coords="723,245,839,272"/>
+</map>

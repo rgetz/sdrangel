@@ -1,0 +1,24 @@
+<map id="WFMDemodGUI::resetToDefaults" name="WFMDemodGUI::resetToDefaults">
+<area shape="rect" id="node2" href="$dd/d7d/classWFMDemodGUI.html#ab4de70ee082782e52823fb5058d14541" title="WFMDemodGUI::applySettings" alt="" coords="280,202,487,229"/>
+<area shape="rect" id="node10" href="$dd/d7d/classWFMDemodGUI.html#ab0d0e90fdb6bb45ec8cfafe45d7d1ed5" title="WFMDemodGUI::displaySettings" alt="" coords="275,497,492,523"/>
+<area shape="rect" id="node23" href="$df/d8b/structWFMDemodSettings.html#a9ea116d228207a3572f9204ae11ed120" title="WFMDemodSettings::resetTo\lDefaults" alt="" coords="285,548,481,589"/>
+<area shape="rect" id="node3" href="$d0/d2f/classWFMDemod_1_1MsgConfigureWFMDemod.html#a8bcb5320ae1c263fa89a9e25bbf0ba46" title="WFMDemod::MsgConfigureWFMDemod\l::create" alt="" coords="540,5,799,47"/>
+<area shape="rect" id="node5" href="$db/d08/classWFMDemod_1_1MsgConfigureChannelizer.html#ae27f714c6abf4edf9f8a3fdfe4450d99" title="WFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="542,71,797,112"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="582,304,757,345"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="585,136,753,177"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="595,202,744,229"/>
+<area shape="rect" id="node9" href="$d3/dbd/classWFMDemod.html#a3eaf0fda5e85844519c9ad04726d23c8" title="WFMDemod::requiredBW" alt="" coords="583,253,755,279"/>
+<area shape="rect" id="node4" href="$d0/d2f/classWFMDemod_1_1MsgConfigureWFMDemod.html#a6d3317a0ea688f416823f254ca596bb9" title="WFMDemod::MsgConfigureWFMDemod\l::MsgConfigureWFMDemod" alt="" coords="847,5,1105,47"/>
+<area shape="rect" id="node11" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="649,370,689,397"/>
+<area shape="rect" id="node16" href="$dd/d7d/classWFMDemodGUI.html#ab9a57551591117d13cab2a2f358acdbf" title="WFMDemodGUI::blockApplySettings" alt="" coords="549,421,789,447"/>
+<area shape="rect" id="node17" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="589,471,750,498"/>
+<area shape="rect" id="node18" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="571,522,768,549"/>
+<area shape="rect" id="node19" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="582,573,757,615"/>
+<area shape="rect" id="node20" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="586,639,753,666"/>
+<area shape="rect" id="node21" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="589,690,750,717"/>
+<area shape="rect" id="node22" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="578,741,761,767"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="922,370,1030,397"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1153,392,1301,433"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1357,341,1476,367"/>
+<area shape="rect" id="node15" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1349,392,1484,433"/>
+</map>

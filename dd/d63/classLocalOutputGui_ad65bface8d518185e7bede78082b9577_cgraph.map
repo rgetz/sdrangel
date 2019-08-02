@@ -1,0 +1,17 @@
+<map id="LocalOutputGui::deserialize" name="LocalOutputGui::deserialize">
+<area shape="rect" id="node2" href="$d2/d5a/structLocalOutputSettings.html#a9ccefc37c4bc34d0954bcfe8aeef231a" title="LocalOutputSettings\l::deserialize" alt="" coords="271,169,411,211"/>
+<area shape="rect" id="node9" href="$dd/d63/classLocalOutputGui.html#a72392f70748f21b18e8ebefe731fe4e0" title="LocalOutputGui::displaySettings" alt="" coords="236,339,445,366"/>
+<area shape="rect" id="node16" href="$dd/d63/classLocalOutputGui.html#aa66c828126211084e4c5e63e3543ddc8" title="LocalOutputGui::sendSettings" alt="" coords="243,390,439,417"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="520,5,651,47"/>
+<area shape="rect" id="node4" href="$d2/d5a/structLocalOutputSettings.html#ae2cc41e5524499f275ad35d590abfb7a" title="LocalOutputSettings\l::resetToDefaults" alt="" coords="515,71,655,112"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="520,136,651,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="520,201,651,243"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="520,267,651,308"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="725,267,856,308"/>
+<area shape="rect" id="node10" href="$dd/d63/classLocalOutputGui.html#a7ee4b6fa85d4cfb2517fe891c1560350" title="LocalOutputGui::blockApply\lSettings" alt="" coords="493,332,677,373"/>
+<area shape="rect" id="node11" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="565,398,605,425"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="737,398,845,425"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="904,420,1052,461"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1108,369,1227,395"/>
+<area shape="rect" id="node15" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1100,420,1235,461"/>
+</map>

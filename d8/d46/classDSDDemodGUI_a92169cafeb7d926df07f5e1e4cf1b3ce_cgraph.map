@@ -1,0 +1,19 @@
+<map id="DSDDemodGUI::displaySettings" name="DSDDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="367,35,407,61"/>
+<area shape="rect" id="node7" href="$d8/d46/classDSDDemodGUI.html#a2f1122179e9adb4252c4b2255c4fc7d4" title="DSDDemodGUI::blockApplySettings" alt="" coords="268,85,505,112"/>
+<area shape="rect" id="node8" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="299,137,474,178"/>
+<area shape="rect" id="node9" href="$df/d09/classDSDDemodBaudRates.html#a4dcff3ccdd70c4d191a07e53e99b940c" title="DSDDemodBaudRates::\lgetRateIndex" alt="" coords="303,202,470,243"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="306,268,467,295"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="299,319,474,361"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="303,385,470,412"/>
+<area shape="rect" id="node13" href="$dd/d4a/classScopeVisXY.html#abe0ec840ac55f9395c17212f8d792744" title="ScopeVisXY::setDecay" alt="" coords="307,436,467,463"/>
+<area shape="rect" id="node14" href="$dd/d4a/classScopeVisXY.html#a74195a6513657a2f34fd8529cbc9a1f5" title="ScopeVisXY::setPixelsPer\lFrame" alt="" coords="297,487,476,529"/>
+<area shape="rect" id="node16" href="$dd/d4a/classScopeVisXY.html#a6478a6a2a89da7d99e74348551b7edf1" title="ScopeVisXY::setStroke" alt="" coords="307,553,467,580"/>
+<area shape="rect" id="node17" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="306,604,467,631"/>
+<area shape="rect" id="node18" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="295,655,478,681"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="587,35,695,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="980,5,1099,32"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="776,57,924,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="972,57,1107,98"/>
+<area shape="rect" id="node15" href="$db/d88/classTVScreen.html#aa9059b4ec9da4aa05ed32bfc44e60aa9" title="TVScreen::setAlphaReset" alt="" coords="553,495,728,521"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="EditCommandDialog::fromCommand" name="EditCommandDialog::fromCommand">
+<area shape="rect" id="node2" href="$d9/d71/classCommand.html#adb27d21110d75a0618c048508f78a4cc" title="Command::getArgString" alt="" coords="217,5,380,32"/>
+<area shape="rect" id="node3" href="$d9/d71/classCommand.html#a9444fba99352ab4d4876bbaa8decf011" title="Command::getAssociateKey" alt="" coords="204,56,393,83"/>
+<area shape="rect" id="node4" href="$d9/d71/classCommand.html#aefeb088e745636ec3b0d15156df79514" title="Command::getCommand" alt="" coords="215,107,383,133"/>
+<area shape="rect" id="node5" href="$d9/d71/classCommand.html#a61e32aa7adc9cf1591b839ecfbf84e50" title="Command::getDescription" alt="" coords="211,157,386,184"/>
+<area shape="rect" id="node6" href="$d9/d71/classCommand.html#aa30a6988920c84b8b7876b455175949d" title="Command::getGroup" alt="" coords="227,208,370,235"/>
+<area shape="rect" id="node7" href="$d9/d71/classCommand.html#a429453a56a81564bd18fb1aea63b1c67" title="Command::getKey" alt="" coords="233,259,364,285"/>
+<area shape="rect" id="node8" href="$d9/d71/classCommand.html#aa2c0bc3fac494f60ee3c1529bb580eb5" title="Command::getKeyModifiers" alt="" coords="207,309,391,336"/>
+<area shape="rect" id="node9" href="$d9/d71/classCommand.html#aed1bda95f805372b5ad583ffe3f1ad72" title="Command::getRelease" alt="" coords="221,360,377,387"/>
+<area shape="rect" id="node10" href="$dd/d5a/classEditCommandDialog.html#a0e6781b5a8947d6dd379d3ba1aa80216" title="EditCommandDialog::\lsetKeyAssociate" alt="" coords="223,411,374,453"/>
+<area shape="rect" id="node11" href="$dd/d5a/classEditCommandDialog.html#a397dfdfb118966737f44012d3fc9ccac" title="EditCommandDialog::\lsetKeyLabel" alt="" coords="223,477,374,518"/>
+</map>

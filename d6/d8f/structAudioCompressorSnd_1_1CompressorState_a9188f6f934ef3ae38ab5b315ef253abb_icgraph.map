@@ -1,0 +1,13 @@
+<map id="AudioCompressorSnd::CompressorState::sf_advancecomp" name="AudioCompressorSnd::CompressorState::sf_advancecomp">
+<area shape="rect" id="node2" href="$d0/d17/classAudioCompressorSnd.html#a6cd94cd61c5e27f6ab060bfa9b832095" title="AudioCompressorSnd\l::initState" alt="" coords="204,27,353,69"/>
+<area shape="rect" id="node3" href="$dc/d8d/classSSBMod.html#abb41840f920195ad053a974fddb4fd51" title="SSBMod::applyAudioSampleRate" alt="" coords="401,35,620,61"/>
+<area shape="rect" id="node4" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="877,9,1051,36"/>
+<area shape="rect" id="node10" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="668,60,829,87"/>
+<area shape="rect" id="node5" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1099,5,1325,32"/>
+<area shape="rect" id="node6" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1373,5,1556,32"/>
+<area shape="rect" id="node7" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1604,5,1747,32"/>
+<area shape="rect" id="node8" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1795,5,2036,32"/>
+<area shape="rect" id="node9" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2084,5,2255,32"/>
+<area shape="rect" id="node11" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="897,64,1031,91"/>
+<area shape="rect" id="node12" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1099,56,1325,112"/>
+</map>

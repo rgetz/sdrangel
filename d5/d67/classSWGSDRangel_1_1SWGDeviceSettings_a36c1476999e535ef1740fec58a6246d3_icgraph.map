@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setRtlSdrSettings" name="SWGSDRangel::SWGDeviceSettings::setRtlSdrSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="316,5,479,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="315,71,479,112"/>
+<area shape="rect" id="node6" href="$d0/d36/classRTLSDRInput.html#a2dc5836882b50c2aed93b8f28f80970b" title="RTLSDRInput::webapiReverse\lSendSettings" alt="" coords="296,136,499,177"/>
+<area shape="rect" id="node13" href="$d0/d36/classRTLSDRInput.html#a209c7647a4f8313c3343a1cc86c0c9c0" title="RTLSDRInput::webapiSettingsGet" alt="" coords="547,223,769,250"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="549,8,767,49"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="838,8,1001,49"/>
+<area shape="rect" id="node7" href="$d0/d36/classRTLSDRInput.html#aefb8491a39b2c5efeae1af6a3686d046" title="RTLSDRInput::applySettings" alt="" coords="562,141,754,167"/>
+<area shape="rect" id="node8" href="$d0/d36/classRTLSDRInput.html#ab6825aa9d6aad9ebd5cbddec96646bf3" title="RTLSDRInput::handleMessage" alt="" coords="817,181,1021,207"/>
+<area shape="rect" id="node10" href="$d0/d36/classRTLSDRInput.html#a31cdff111113ccd193efed1948b0c83b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="854,79,985,106"/>
+<area shape="rect" id="node12" href="$d0/d36/classRTLSDRInput.html#a243ae9fc605cd9f09e8c618149137adf" title="RTLSDRInput::start" alt="" coords="850,130,989,157"/>
+<area shape="rect" id="node9" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="1069,195,1272,222"/>
+<area shape="rect" id="node11" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="1074,108,1267,149"/>
+</map>

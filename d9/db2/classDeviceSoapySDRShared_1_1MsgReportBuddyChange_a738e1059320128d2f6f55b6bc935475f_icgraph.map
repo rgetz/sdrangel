@@ -1,0 +1,11 @@
+<map id="DeviceSoapySDRShared::MsgReportBuddyChange::create" name="DeviceSoapySDRShared::MsgReportBuddyChange::create">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#a80b759741784dcb5b4988bbb9abbf22d" title="SoapySDROutput::applySettings" alt="" coords="229,81,444,108"/>
+<area shape="rect" id="node8" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="235,157,439,184"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#a9bd194a9c2f302645ed73ad44ad883d4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="529,5,681,32"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#a593ac84bfa00ca3357404b198f18cd74" title="SoapySDROutput::stop" alt="" coords="525,56,685,83"/>
+<area shape="rect" id="node7" href="$d8/df3/classSoapySDROutput.html#a499eb128e98c2f4ddd17a09edc94bb02" title="SoapySDROutput::handleMessage" alt="" coords="492,107,719,133"/>
+<area shape="rect" id="node5" href="$d8/df3/classSoapySDROutput.html#a0effaa6146ad3377c709cbec5810cf6a" title="SoapySDROutput::~SoapySDROutput" alt="" coords="1021,56,1269,83"/>
+<area shape="rect" id="node6" href="$d8/df3/classSoapySDROutput.html#ac2e1070ac6e19853e92af210321089b7" title="SoapySDROutput::closeDevice" alt="" coords="767,81,973,108"/>
+<area shape="rect" id="node9" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="534,157,677,184"/>
+<area shape="rect" id="node10" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="497,208,713,235"/>
+</map>

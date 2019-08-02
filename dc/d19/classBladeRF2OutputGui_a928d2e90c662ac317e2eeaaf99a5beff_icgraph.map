@@ -1,0 +1,15 @@
+<map id="BladeRF2OutputGui::sendSettings" name="BladeRF2OutputGui::sendSettings">
+<area shape="rect" id="node2" href="$dc/d19/classBladeRF2OutputGui.html#ac4038ea6b22e9f0d0fe4fc0691ad0e86" title="BladeRF2OutputGui::\ldeserialize" alt="" coords="455,288,601,330"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#ae7e7961701599548fd521fcd9b345d65" title="BladeRF2OutputGui::\lon_bandwidth_changed" alt="" coords="224,56,383,98"/>
+<area shape="rect" id="node4" href="$dc/d19/classBladeRF2OutputGui.html#a84730671f2eb1e1d1f7325ea732a0d9d" title="BladeRF2OutputGui::\lon_biasTee_toggled" alt="" coords="230,122,377,163"/>
+<area shape="rect" id="node5" href="$dc/d19/classBladeRF2OutputGui.html#a8c64a3b42d01b47cfdee08b7573a57d8" title="BladeRF2OutputGui::\lon_centerFrequency_changed" alt="" coords="205,187,401,228"/>
+<area shape="rect" id="node6" href="$dc/d19/classBladeRF2OutputGui.html#a49223a5c19257ab3fc16fd89051bdf92" title="BladeRF2OutputGui::\lon_gain_valueChanged" alt="" coords="225,252,382,294"/>
+<area shape="rect" id="node7" href="$dc/d19/classBladeRF2OutputGui.html#a2250b2f0ea5440d38341060d1b0d35f2" title="BladeRF2OutputGui::\lon_interp_currentIndexChanged" alt="" coords="200,318,407,359"/>
+<area shape="rect" id="node8" href="$dc/d19/classBladeRF2OutputGui.html#a95560ac345c169f6e0dc5b75a49db00d" title="BladeRF2OutputGui::\lon_LOppm_valueChanged" alt="" coords="216,383,391,424"/>
+<area shape="rect" id="node9" href="$dc/d19/classBladeRF2OutputGui.html#af456ab0c70ba69cd6feb1c81ed21833a" title="BladeRF2OutputGui::\lon_sampleRate_changed" alt="" coords="219,448,388,490"/>
+<area shape="rect" id="node10" href="$dc/d19/classBladeRF2OutputGui.html#affe27c1f8097be2e2c5b8472f1e366d9" title="BladeRF2OutputGui::\lon_transverter_clicked" alt="" coords="227,514,380,555"/>
+<area shape="rect" id="node11" href="$dc/d19/classBladeRF2OutputGui.html#a33d5e8ad5acb15aa00480c3a18f2f740" title="BladeRF2OutputGui::\lopenDeviceSettingsDialog" alt="" coords="215,644,391,686"/>
+<area shape="rect" id="node13" href="$dc/d19/classBladeRF2OutputGui.html#a23e7824ae7747c29de69deab39e90a87" title="BladeRF2OutputGui::\lresetToDefaults" alt="" coords="230,579,377,620"/>
+<area shape="rect" id="node14" href="$dc/d19/classBladeRF2OutputGui.html#ad713269743c1b93e56c21c6b9b198329" title="BladeRF2OutputGui::\lsetCenterFrequency" alt="" coords="230,710,377,751"/>
+<area shape="rect" id="node12" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="455,644,601,686"/>
+</map>

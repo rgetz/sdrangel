@@ -1,0 +1,6 @@
+<map id="FileInputGUI::on_showFileDialog_clicked" name="FileInputGUI::on_showFileDialog_clicked">
+<area shape="rect" id="node2" href="$da/d99/classFileInputGUI.html#ade27c83027cc719823bbe6cd9ad2651f" title="FileInputGUI::configureFileName" alt="" coords="231,78,444,105"/>
+<area shape="rect" id="node3" href="$de/d44/classFileInput_1_1MsgConfigureFileSourceName.html#a452d13894e99e8f2f284e58b2b7a88ce" title="FileInput::MsgConfigureFile\lSourceName::create" alt="" coords="492,5,675,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="499,71,667,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="509,137,658,163"/>
+</map>

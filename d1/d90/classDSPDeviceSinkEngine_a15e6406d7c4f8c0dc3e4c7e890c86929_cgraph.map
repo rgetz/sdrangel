@@ -1,0 +1,13 @@
+<map id="DSPDeviceSinkEngine::gotoRunning" name="DSPDeviceSinkEngine::gotoRunning">
+<area shape="rect" id="node2" href="$d9/d18/classDeviceSampleSink.html#a97947483187a6743c8f9d886dcbaf924" title="DeviceSampleSink::getSampleFifo" alt="" coords="471,101,696,127"/>
+<area shape="rect" id="node3" href="$d1/d90/classDSPDeviceSinkEngine.html#a585cc77e70580b924032bab69b2e8902" title="Go to an error state. " alt="" coords="238,35,395,76"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#ac331a6101aa883c3be25f55504643994" title="DSPDeviceSinkEngine\l::handleForwardToSpectrumSink" alt="" coords="211,152,423,193"/>
+<area shape="rect" id="node10" href="$d3/df0/classMessageQueue.html#a5e33dfed57d8ee0e73a2bab5faecec36" title="Returns queue size. " alt="" coords="244,218,389,245"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html#a7cef7ec01a28d64ebef503e40d36d721" title="DeviceSampleSink::start" alt="" coords="233,269,400,295"/>
+<area shape="rect" id="node12" href="$d8/df9/classBasebandSampleSink.html#a1af3f8da8e09403597162eb8d6a6b507" title="BasebandSampleSink\l::start" alt="" coords="241,320,392,361"/>
+<area shape="rect" id="node4" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="505,35,662,76"/>
+<area shape="rect" id="node5" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="757,5,909,47"/>
+<area shape="rect" id="node6" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="744,71,923,98"/>
+<area shape="rect" id="node8" href="$d6/d8d/classSampleSourceFifo.html#aeadaa048b08fa955503905bfc46eed30" title="get iterator past the last sample of a read advance operation (i.e. current read iterator) ..." alt="" coords="490,152,677,193"/>
+<area shape="rect" id="node9" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="508,217,659,259"/>
+</map>

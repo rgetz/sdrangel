@@ -1,0 +1,7 @@
+<map id="WebAPIAdapterGUI::instanceLocationGet" name="WebAPIAdapterGUI::instanceLocationGet">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#a73aa1a431bdf0cd1f0388b2b58bba1bd" title="MainSettings::getLatitude" alt="" coords="267,5,437,32"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#a008e4ce695226d8a9720fd36070b5a2b" title="MainSettings::getLongitude" alt="" coords="262,56,442,83"/>
+<area shape="rect" id="node4" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#ad76b0da714911e864b5965565605abb5" title="SWGSDRangel::SWGLocation\lInformation::init" alt="" coords="251,107,453,149"/>
+<area shape="rect" id="node5" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#aa20c2c5c5910ad9a200ae6fae3c77119" title="SWGSDRangel::SWGLocation\lInformation::setLatitude" alt="" coords="251,173,453,214"/>
+<area shape="rect" id="node6" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#af53d4fcd62ad1d5ef5d412defed82755" title="SWGSDRangel::SWGLocation\lInformation::setLongitude" alt="" coords="251,238,453,279"/>
+</map>

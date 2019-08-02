@@ -1,0 +1,10 @@
+<map id="SSBMod::MsgConfigureSSBMod::getSettings" name="SSBMod::MsgConfigureSSBMod::getSettings">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a855dcb8b682351262b93781388af86a8" title="SSBModGUI::handleMessage" alt="" coords="268,5,465,32"/>
+<area shape="rect" id="node8" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="280,56,453,83"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#a4511664850ee42cd3e832efbb173c137" title="SSBModGUI::handleSourceMessages" alt="" coords="513,5,759,32"/>
+<area shape="rect" id="node4" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="807,31,989,57"/>
+<area shape="rect" id="node5" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1037,31,1180,57"/>
+<area shape="rect" id="node6" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1228,31,1469,57"/>
+<area shape="rect" id="node7" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1517,31,1688,57"/>
+<area shape="rect" id="node9" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="523,56,749,83"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="TestMI" name="TestMI">
+<area shape="rect" id="node2" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="329,671,471,697"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="676,536,843,563"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,485,127,512"/>
+<area shape="rect" id="node9" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="325,547,475,573"/>
+<area shape="rect" id="node10" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="681,485,838,512"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="333,433,467,460"/>
+<area shape="rect" id="node13" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="673,211,845,237"/>
+<area shape="rect" id="node14" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="326,84,474,111"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1122,563,1207,589"/>
+<area shape="rect" id="node5" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="705,637,814,664"/>
+<area shape="rect" id="node7" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="342,345,458,372"/>
+<area shape="rect" id="node8" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,107,107,133"/>
+<area shape="rect" id="node12" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,381,135,408"/>
+<area shape="rect" id="node15" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,56,127,83"/>
+<area shape="rect" id="node16" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="320,18,480,59"/>
+<area shape="rect" id="node17" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="330,143,470,185"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="325,273,475,314"/>
+<area shape="rect" id="node19" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="693,587,825,613"/>
+<area shape="rect" id="node20" href="$d9/d0c/structTestMISettings.html" title="TestMISettings" alt="" coords="1109,739,1220,765"/>
+</map>

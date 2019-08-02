@@ -1,0 +1,13 @@
+<map id="MagAGC::setThresholdEnable" name="MagAGC::setThresholdEnable">
+<area shape="rect" id="node2" href="$d9/df0/classAMDemod.html#afd1f6fb2c119035c1e0854c7310fdc6c" title="AMDemod::AMDemod" alt="" coords="264,17,419,43"/>
+<area shape="rect" id="node4" href="$d6/d4d/classSSBDemod.html#a1e77407aab8eb0cfa6d1214e9361b4be" title="SSBDemod::applySettings" alt="" coords="252,71,431,98"/>
+<area shape="rect" id="node3" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#ac1e64f0d8384a19441ee6ff2ce27098a" title="AMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="479,5,721,47"/>
+<area shape="rect" id="node5" href="$d6/d4d/classSSBDemod.html#af1616f000bd0d352b723029a7763d565" title="SSBDemod::SSBDemod" alt="" coords="516,71,684,98"/>
+<area shape="rect" id="node7" href="$d6/d4d/classSSBDemod.html#a48a39544f77dc8534c0a9ab1e6ff2f30" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="505,123,695,150"/>
+<area shape="rect" id="node6" href="$d1/d55/classSSBDemod_1_1MsgConfigureChannelizer.html#a7f6e4b7862591bedc88eb19edca8a53a" title="SSBDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="769,61,1019,103"/>
+<area shape="rect" id="node8" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="801,127,987,154"/>
+<area shape="rect" id="node9" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1067,127,1283,154"/>
+<area shape="rect" id="node10" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1331,127,1489,154"/>
+<area shape="rect" id="node11" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1537,127,1756,154"/>
+<area shape="rect" id="node12" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1804,127,1951,154"/>
+</map>

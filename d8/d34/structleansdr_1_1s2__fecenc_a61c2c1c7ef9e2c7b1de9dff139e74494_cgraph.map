@@ -1,0 +1,12 @@
+<map id="leansdr::s2_fecenc::run_frame" name="leansdr::s2_fecenc::run_frame">
+<area shape="rect" id="node2" href="$d7/d1e/namespaceleansdr.html#a02c69065eb462bc5d1265dc68ad60516" title="leansdr::check_modcod" alt="" coords="191,13,351,40"/>
+<area shape="rect" id="node4" href="$df/d9c/structleansdr_1_1bch__interface.html#a3f3335af8ad711014552b0b7dc0654c7" title="leansdr::bch_interface\l::encode" alt="" coords="196,78,347,119"/>
+<area shape="rect" id="node5" href="$d7/d08/structleansdr_1_1ldpc__engine.html#a61cb8d88fa3a9b8fd4280182ec5915ac" title="leansdr::ldpc_engine\l::encode" alt="" coords="201,143,342,185"/>
+<area shape="rect" id="node11" href="$db/ddf/structleansdr_1_1s2__pls.html#a70bcb255d39b3eecc85739b943c201c2" title="leansdr::s2_pls::framebits" alt="" coords="185,209,357,236"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespaceleansdr.html#aa7ac6e394835c089a0a359dbdb72e0b8" title="leansdr::fail" alt="" coords="438,5,527,32"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespaceleansdr.html#a5a20260cd4357dc6ea9737301472b3b2" title="leansdr::fatal" alt="" coords="434,56,531,83"/>
+<area shape="rect" id="node7" href="$d7/d1e/namespaceleansdr.html#aab0536937949ebecef1eaf832f7c0c9a" title="leansdr::softbit_harden" alt="" coords="405,107,560,133"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespaceleansdr.html#a1d4a738799de74fcb33fec2d6247bf58" title="leansdr::softword_get" alt="" coords="409,157,556,184"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespaceleansdr.html#a6f2f84c0ee5614199b334146a8211f03" title="leansdr::softword_zero" alt="" coords="405,208,560,235"/>
+<area shape="rect" id="node10" href="$d7/d1e/namespaceleansdr.html#a94b2c0d210384e99e6cdda3ca76d0352" title="leansdr::softwords_flip" alt="" coords="406,259,559,285"/>
+</map>

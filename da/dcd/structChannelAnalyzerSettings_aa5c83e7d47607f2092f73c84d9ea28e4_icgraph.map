@@ -1,0 +1,10 @@
+<map id="ChannelAnalyzerSettings::resetToDefaults" name="ChannelAnalyzerSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$da/dcd/structChannelAnalyzerSettings.html#a78647286d350091e9643c68bad5171d3" title="ChannelAnalyzerSettings\l::ChannelAnalyzerSettings" alt="" coords="223,5,400,47"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#af3b84f19e08e6d5e3ad07bfb84fe15f1" title="ChannelAnalyzerGUI\l::deserialize" alt="" coords="460,64,605,105"/>
+<area shape="rect" id="node4" href="$da/dcd/structChannelAnalyzerSettings.html#ac22675d2813d2383705633b6d3049635" title="ChannelAnalyzerSettings\l::deserialize" alt="" coords="227,123,396,164"/>
+<area shape="rect" id="node9" href="$da/d16/classChannelAnalyzerGUI.html#a220f59f2cf313978b1b1cf850afbe3cc" title="ChannelAnalyzerGUI\l::resetToDefaults" alt="" coords="239,188,384,229"/>
+<area shape="rect" id="node5" href="$da/dcd/structChannelAnalyzerSettings.html#a7245d2528a94b2d98371285e29f25912" title="ChannelAnalyzerSettings\l::setScopeGUI" alt="" coords="448,129,617,171"/>
+<area shape="rect" id="node6" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="665,129,819,171"/>
+<area shape="rect" id="node7" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="867,129,1012,171"/>
+<area shape="rect" id="node8" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1060,129,1217,171"/>
+</map>

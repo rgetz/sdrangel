@@ -1,0 +1,7 @@
+<map id="BladeRF2Input::handleMessage" name="BladeRF2Input::handleMessage">
+<area shape="rect" id="node2" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="261,111,463,138"/>
+<area shape="rect" id="node3" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="521,5,716,47"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="511,71,727,112"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="519,136,718,177"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="775,173,993,199"/>
+</map>

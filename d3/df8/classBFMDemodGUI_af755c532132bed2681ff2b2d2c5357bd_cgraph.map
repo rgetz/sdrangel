@@ -1,0 +1,10 @@
+<map id="BFMDemodGUI::on_deltaFrequency_changed" name="BFMDemodGUI::on_deltaFrequency_changed">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a7aa16d14aa5691fa74c9e5dd3b01e041" title="BFMDemodGUI::applySettings" alt="" coords="288,143,491,170"/>
+<area shape="rect" id="node8" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="302,195,477,236"/>
+<area shape="rect" id="node9" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="302,260,477,301"/>
+<area shape="rect" id="node3" href="$d4/d90/classBFMDemod_1_1MsgConfigureBFMDemod.html#a924cfd2f7bfab112b736d006027f28b6" title="BFMDemod::MsgConfigureBFMDemod\l::create" alt="" coords="539,5,789,47"/>
+<area shape="rect" id="node4" href="$da/d6f/classBFMDemod_1_1MsgConfigureChannelizer.html#ad8d9748d41e90bdf86942973de409528" title="BFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="539,71,789,112"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="580,136,748,177"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="589,202,739,229"/>
+<area shape="rect" id="node7" href="$d4/dd5/classBFMDemod.html#abe908fd74e2bf1f2d571786dd5edadfa" title="BFMDemod::requiredBW" alt="" coords="580,253,748,279"/>
+</map>

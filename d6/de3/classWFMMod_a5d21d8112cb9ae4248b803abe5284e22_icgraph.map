@@ -1,0 +1,10 @@
+<map id="WFMMod::getMagSq" name="WFMMod::getMagSq">
+<area shape="rect" id="node2" href="$d0/d42/classWFMModGUI.html#aee87beab5485fcacde9cdaadbec5bdc3" title="WFMModGUI::tick" alt="" coords="243,5,375,32"/>
+<area shape="rect" id="node7" href="$d6/de3/classWFMMod.html#a73955e61c872807dd7ebd4fdf4255b40" title="WFMMod::webapiFormatChannel\lReport" alt="" coords="200,57,417,98"/>
+<area shape="rect" id="node3" href="$d0/d42/classWFMModGUI.html#abc1276ad7c1c5241dd16fe53d452c6e0" title="WFMModGUI::WFMModGUI" alt="" coords="465,5,657,32"/>
+<area shape="rect" id="node4" href="$d0/d42/classWFMModGUI.html#afc9733df91425eb841e54136adc68076" title="WFMModGUI::create" alt="" coords="755,5,902,32"/>
+<area shape="rect" id="node5" href="$d2/d9a/classWFMModPlugin.html#af952471df9facda2c9d5b0f79888cdc6" title="WFMModPlugin::createTxChannelGUI" alt="" coords="1000,5,1247,32"/>
+<area shape="rect" id="node6" href="$d2/d9a/classWFMModPlugin.html#ac39779f1604a7e1ccd4ca2a960ca48b6" title="WFMModPlugin::initPlugin" alt="" coords="1295,5,1471,32"/>
+<area shape="rect" id="node8" href="$d6/de3/classWFMMod.html#ad785dd65909351b8c51f26add72f1f7e" title="WFMMod::webapiReportGet" alt="" coords="467,64,655,91"/>
+<area shape="rect" id="node9" href="$d6/de3/classWFMMod.html#a8912fe9004d7b80a686881fa53a7a3ca" title="WFMMod::getStreamCenterFrequency" alt="" coords="705,64,952,91"/>
+</map>

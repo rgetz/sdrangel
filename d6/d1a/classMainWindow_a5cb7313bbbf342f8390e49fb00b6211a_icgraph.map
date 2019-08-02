@@ -1,0 +1,11 @@
+<map id="MainWindow::addPresetToTree" name="MainWindow::addPresetToTree">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="263,5,459,32"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="523,56,701,83"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a058a91cd021f54b1bbabc493206d76c2" title="MainWindow::on_presetDelete\l_clicked" alt="" coords="261,107,461,149"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a6ef20fde9c652deb547e6522671a0762" title="MainWindow::on_presetEdit\l_clicked" alt="" coords="268,173,453,214"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a71d9dab262e232e3cecc05fa66a40773" title="MainWindow::on_presetImport\l_clicked" alt="" coords="261,238,460,279"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="265,303,457,345"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="259,369,463,410"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="511,5,713,32"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="761,31,941,57"/>
+</map>

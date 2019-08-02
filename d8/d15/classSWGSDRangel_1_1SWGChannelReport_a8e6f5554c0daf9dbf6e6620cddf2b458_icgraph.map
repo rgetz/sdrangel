@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGChannelReport::setAmDemodReport" name="SWGSDRangel::SWGChannelReport::setAmDemodReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a60ddbb1101a6f53e60c8797618ec1e26" title="WebAPIRequestMapper\l::resetChannelReport" alt="" coords="310,8,473,49"/>
+<area shape="rect" id="node5" href="$d9/df0/classAMDemod.html#ab78a3712b1c00b5b5cadb12784f2938a" title="AMDemod::webapiReportGet" alt="" coords="295,75,488,102"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="536,5,753,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="801,5,964,47"/>
+<area shape="rect" id="node6" href="$d9/df0/classAMDemod.html#a7ce9542ab2fd3d85757796e1697a107b" title="AMDemod::getStreamCenter\lFrequency" alt="" coords="549,71,740,112"/>
+</map>

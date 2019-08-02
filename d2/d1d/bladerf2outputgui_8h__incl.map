@@ -1,0 +1,13 @@
+<map id="plugins/samplesink/bladerf2output/bladerf2outputgui.h" name="plugins/samplesink/bladerf2output/bladerf2outputgui.h">
+<area shape="rect" id="node4" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="5,169,176,196"/>
+<area shape="rect" id="node9" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1002,244,1145,271"/>
+<area shape="rect" id="node13" href="$da/d81/bladerf2output_8h.html" title="bladerf2output.h" alt="" coords="429,95,544,121"/>
+<area shape="rect" id="node8" href="$db/db5/export_8h.html" title="export.h" alt="" coords="559,319,628,345"/>
+<area shape="rect" id="node16" href="$d3/d81/devicesamplesink_8h.html" title="dsp/devicesamplesink.h" alt="" coords="873,169,1036,196"/>
+<area shape="rect" id="node25" href="$dc/d32/devicebladerf2shared_8h.html" title="bladerf2/devicebladerf2shared.h" alt="" coords="487,169,694,196"/>
+<area shape="rect" id="node27" href="$dd/d87/bladerf2outputsettings_8h.html" title="bladerf2outputsettings.h" alt="" coords="302,169,463,196"/>
+<area shape="rect" id="node17" href="$df/d84/samplesourcefifo_8h.html" title="samplesourcefifo.h" alt="" coords="846,244,978,271"/>
+<area shape="rect" id="node23" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="420,244,527,271"/>
+<area shape="rect" id="node20" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="887,319,998,345"/>
+<area shape="rect" id="node26" href="$d2/dcd/devicebladerf2_8h.html" title="devicebladerf2.h" alt="" coords="551,244,668,271"/>
+</map>

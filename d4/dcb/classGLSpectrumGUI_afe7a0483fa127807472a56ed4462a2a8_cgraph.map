@@ -1,0 +1,9 @@
+<map id="GLSpectrumGUI::serialize" name="GLSpectrumGUI::serialize">
+<area shape="rect" id="node2" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="255,5,403,32"/>
+<area shape="rect" id="node3" href="$d4/dcb/classGLSpectrumGUI.html#a851fa8f140c736275e9d9af195a27ec8" title="GLSpectrumGUI::getAveraging\lValue" alt="" coords="228,57,431,98"/>
+<area shape="rect" id="node4" href="$d6/dab/classGLSpectrum.html#a07b4445b86bfdba27e9dab0a9b3a1459" title="GLSpectrum::getWaterfall\lShare" alt="" coords="243,122,416,163"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="240,188,419,215"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a5b7538a4f71aea1a1bf489bb57098fbe" title="SimpleSerializer::writeReal" alt="" coords="240,239,419,265"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="242,289,417,316"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="479,239,653,265"/>
+</map>

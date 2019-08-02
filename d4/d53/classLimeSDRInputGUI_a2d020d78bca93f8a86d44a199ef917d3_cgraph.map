@@ -1,0 +1,5 @@
+<map id="LimeSDRInputGUI::on_record_toggled" name="LimeSDRInputGUI::on_record_toggled">
+<area shape="rect" id="node2" href="$d6/d4f/classLimeSDRInput_1_1MsgFileRecord.html#a71b2d49c79c958e5e992e2e04800ee3d" title="LimeSDRInput::MsgFileRecord\l::create" alt="" coords="208,5,412,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="226,71,394,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="235,137,385,163"/>
+</map>

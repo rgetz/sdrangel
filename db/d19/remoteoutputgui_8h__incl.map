@@ -1,0 +1,12 @@
+<map id="plugins/samplesink/remoteoutput/remoteoutputgui.h" name="plugins/samplesink/remoteoutput/remoteoutputgui.h">
+<area shape="rect" id="node7" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="1198,169,1369,196"/>
+<area shape="rect" id="node12" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="455,244,598,271"/>
+<area shape="rect" id="node16" href="$d7/d06/limitedcounter_8h.html" title="util/limitedcounter.h" alt="" coords="38,95,172,121"/>
+<area shape="rect" id="node17" href="$d9/d6a/remoteoutput_8h.html" title="remoteoutput.h" alt="" coords="482,95,592,121"/>
+<area shape="rect" id="node29" href="$db/d64/remoteoutputsettings_8h.html" title="remoteoutputsettings.h" alt="" coords="1020,169,1174,196"/>
+<area shape="rect" id="node11" href="$db/db5/export_8h.html" title="export.h" alt="" coords="857,319,926,345"/>
+<area shape="rect" id="node21" href="$d3/d81/devicesamplesink_8h.html" title="dsp/devicesamplesink.h" alt="" coords="516,169,678,196"/>
+<area shape="rect" id="node22" href="$df/d84/samplesourcefifo_8h.html" title="samplesourcefifo.h" alt="" coords="622,244,754,271"/>
+<area shape="rect" id="node27" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="908,244,1014,271"/>
+<area shape="rect" id="node24" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="671,319,782,345"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RemoteSinkGUI::applyChannelSettings" name="RemoteSinkGUI::applyChannelSettings">
+<area shape="rect" id="node2" href="$d8/d2c/classRemoteSink_1_1MsgConfigureChannelizer.html#a7a651515cc5178ee4a435a471c2aad61" title="RemoteSink::MsgConfigure\lChannelizer::create" alt="" coords="259,5,441,47"/>
+<area shape="rect" id="node3" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="266,71,434,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="275,137,425,163"/>
+</map>

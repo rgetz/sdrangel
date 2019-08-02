@@ -1,0 +1,9 @@
+<map id="PerseusInput::webapiReportGet" name="PerseusInput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a9012f5293586b688f26931e849b3e669" title="SWGSDRangel::SWGDeviceReport\l::getPerseusReport" alt="" coords="554,8,789,49"/>
+<area shape="rect" id="node3" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html#a4c9391edc7fd560a51531e7295ecba1c" title="SWGSDRangel::SWGPerseusReport\l::init" alt="" coords="261,33,503,74"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a747243cf6869ff8f085e8397ffe6ddbe" title="SWGSDRangel::SWGDeviceReport\l::setPerseusReport" alt="" coords="265,98,499,140"/>
+<area shape="rect" id="node5" href="$df/dc2/classPerseusInput.html#a0ee2f2f9358e4d0a8f171c44dac8dd92" title="PerseusInput::webapiFormat\lDeviceReport" alt="" coords="287,164,477,205"/>
+<area shape="rect" id="node6" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html#a7b08b6cf9ecb727ff7c6698d65f0f9a8" title="SWGSDRangel::SWGPerseusReport\l::getSampleRates" alt="" coords="551,105,792,146"/>
+<area shape="rect" id="node7" href="$df/dc2/classPerseusInput.html#a2e5bf0f6bb2f0bc8ada7b5087edd2547" title="PerseusInput::getSampleRates" alt="" coords="569,171,773,198"/>
+<area shape="rect" id="node8" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html#a4eb7432fba1f2126ca15ba13fa7e5bf2" title="SWGSDRangel::SWGPerseusReport\l::setSampleRates" alt="" coords="551,222,792,264"/>
+</map>

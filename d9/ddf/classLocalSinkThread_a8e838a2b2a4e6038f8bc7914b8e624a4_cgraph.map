@@ -1,0 +1,8 @@
+<map id="LocalSinkThread::handleInputMessages" name="LocalSinkThread::handleInputMessages">
+<area shape="rect" id="node2" href="$d6/d11/classLocalSinkThread_1_1MsgStartStop.html#a9d5ea6e69083be5e718265358ca6858c" title="LocalSinkThread::MsgStart\lStop::getStartStop" alt="" coords="250,5,430,47"/>
+<area shape="rect" id="node3" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="281,71,399,98"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="269,122,411,149"/>
+<area shape="rect" id="node6" href="$d9/ddf/classLocalSinkThread.html#ae2c3c14229ab4153d5f1c65d9cd42d2d" title="LocalSinkThread::startWork" alt="" coords="248,173,432,199"/>
+<area shape="rect" id="node7" href="$d9/ddf/classLocalSinkThread.html#a95240b5a00e4480a505b1677a395a3d8" title="LocalSinkThread::stopWork" alt="" coords="249,223,431,250"/>
+<area shape="rect" id="node4" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="480,71,649,98"/>
+</map>

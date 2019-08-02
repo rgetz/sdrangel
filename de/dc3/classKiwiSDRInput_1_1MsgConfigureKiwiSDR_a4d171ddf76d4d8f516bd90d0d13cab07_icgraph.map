@@ -1,0 +1,10 @@
+<map id="KiwiSDRInput::MsgConfigureKiwiSDR::MsgConfigureKiwiSDR" name="KiwiSDRInput::MsgConfigureKiwiSDR::MsgConfigureKiwiSDR">
+<area shape="rect" id="node2" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a0116cb8a67b150dd3d83c9e05a894d7d" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::create" alt="" coords="272,79,467,121"/>
+<area shape="rect" id="node3" href="$db/db4/classKiwiSDRGui.html#a49f7d79fbfe8002a58a623c55e36a519" title="KiwiSDRGui::updateHardware" alt="" coords="531,7,729,33"/>
+<area shape="rect" id="node5" href="$d4/dbc/classKiwiSDRInput.html#a45d8f15d3f3e7bc9fa7171122d3b8474" title="KiwiSDRInput::deserialize" alt="" coords="543,61,717,88"/>
+<area shape="rect" id="node7" href="$d4/dbc/classKiwiSDRInput.html#a641872679c538606c258031958e4f597" title="KiwiSDRInput::setCenterFrequency" alt="" coords="515,112,745,139"/>
+<area shape="rect" id="node9" href="$d4/dbc/classKiwiSDRInput.html#a50bcde0fd8e8717c65a8fcef1e82de50" title="KiwiSDRInput::webapiSettings\lPutPatch" alt="" coords="529,163,731,205"/>
+<area shape="rect" id="node4" href="$db/db4/classKiwiSDRGui.html#a7665b7c854b780810c73ae6827202200" title="KiwiSDRGui::KiwiSDRGui" alt="" coords="805,5,984,32"/>
+<area shape="rect" id="node6" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="797,57,993,98"/>
+<area shape="rect" id="node8" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="793,145,996,172"/>
+</map>

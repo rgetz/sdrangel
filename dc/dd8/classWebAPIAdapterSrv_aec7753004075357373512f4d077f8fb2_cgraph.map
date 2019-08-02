@@ -1,0 +1,29 @@
+<map id="WebAPIAdapterSrv::instancePresetFilePut" name="WebAPIAdapterSrv::instancePresetFilePut">
+<area shape="rect" id="node2" href="$d1/dc7/classPreset.html#a6234f00b24f130c28318063d185e0ba1" title="Preset::deserialize" alt="" coords="303,241,433,267"/>
+<area shape="rect" id="node12" href="$d1/dc7/classPreset.html#a7f773cda853130f7ad8c607482b80b88" title="Preset::getCenterFrequency" alt="" coords="275,291,461,318"/>
+<area shape="rect" id="node13" href="$de/db6/classSWGSDRangel_1_1SWGPresetImport.html#a54bbdf9ebc488fd0ee6c8ff3ffe0389a" title="SWGSDRangel::SWGPresetImport\l::getDescription" alt="" coords="253,343,483,384"/>
+<area shape="rect" id="node14" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="292,409,444,435"/>
+<area shape="rect" id="node15" href="$de/db6/classSWGSDRangel_1_1SWGPresetImport.html#ade56f39326dc0aa76d3b48e75d93af2d" title="SWGSDRangel::SWGPresetImport\l::getFilePath" alt="" coords="253,460,483,501"/>
+<area shape="rect" id="node16" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="307,526,429,553"/>
+<area shape="rect" id="node17" href="$de/db6/classSWGSDRangel_1_1SWGPresetImport.html#a3f76e3b7ac2fcbf3465476b767167ec7" title="SWGSDRangel::SWGPresetImport\l::getGroupName" alt="" coords="253,577,483,619"/>
+<area shape="rect" id="node18" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a795a210cf201aad4bbe512bb974ec19b" title="SWGSDRangel::SWGPresetIdentifier\l::getGroupName" alt="" coords="247,643,489,684"/>
+<area shape="rect" id="node19" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="247,708,489,749"/>
+<area shape="rect" id="node20" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a423213e5086dfdb959910ca6ac6b50ab" title="SWGSDRangel::SWGPresetIdentifier\l::getName" alt="" coords="247,773,489,815"/>
+<area shape="rect" id="node21" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a24e6595601f2ab77a995bc51c43c094a" title="SWGSDRangel::SWGPresetIdentifier\l::getType" alt="" coords="247,839,489,880"/>
+<area shape="rect" id="node22" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="247,904,489,945"/>
+<area shape="rect" id="node23" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#ad26327449b154c94cbfd59e0f7dd9bc8" title="SWGSDRangel::SWGPresetIdentifier\l::init" alt="" coords="247,969,489,1011"/>
+<area shape="rect" id="node24" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="289,1035,447,1062"/>
+<area shape="rect" id="node25" href="$d5/df4/classMainSettings.html#a8f72638769fd04d571fe9182cc10e259" title="MainSettings::newPreset" alt="" coords="284,1137,452,1163"/>
+<area shape="rect" id="node26" href="$d1/dc7/classPreset.html#aaefa9fbeee0518fcfcfbd58d33383bff" title="Preset::setDescription" alt="" coords="542,1111,694,1138"/>
+<area shape="rect" id="node27" href="$d1/dc7/classPreset.html#ae0e2bac1191113d734eae67513b85610" title="Preset::setGroup" alt="" coords="557,1174,679,1201"/>
+<area shape="rect" id="node28" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a314c2fd7d834100b1ea5670b88ceb8bf" title="SWGSDRangel::SWGPresetIdentifier\l::setCenterFrequency" alt="" coords="247,1239,489,1280"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="553,5,683,47"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="553,71,683,112"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="553,136,683,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="553,201,683,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="553,267,683,308"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="553,332,683,373"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a90c7dffb2b72a1b12358f680e9dfa469" title="SimpleDeserializer\l::readU64" alt="" coords="553,397,683,439"/>
+<area shape="rect" id="node11" href="$d1/dc7/classPreset.html#a3f0b72e2a82a164099a5489613294cfc" title="Preset::resetToDefaults" alt="" coords="537,463,699,490"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="747,267,877,308"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="WFMDemodSettings::resetToDefaults" name="WFMDemodSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$df/d8b/structWFMDemodSettings.html#a628564b3d206229486e599ef01aab6a5" title="WFMDemodSettings::deserialize" alt="" coords="255,64,470,91"/>
+<area shape="rect" id="node4" href="$d3/dbd/classWFMDemod.html#a80c15ae0ccb9d14994bd857410bece40" title="WFMDemod::deserialize" alt="" coords="550,123,717,149"/>
+<area shape="rect" id="node11" href="$dd/d7d/classWFMDemodGUI.html#afa4186333d090626932c0bd0e62add52" title="WFMDemodGUI::resetToDefaults" alt="" coords="252,9,473,36"/>
+<area shape="rect" id="node12" href="$df/d8b/structWFMDemodSettings.html#a937f34682d87cad1a3f7fa2e9b7b2ab5" title="WFMDemodSettings::WFMDemod\lSettings" alt="" coords="249,166,476,207"/>
+<area shape="rect" id="node3" href="$dd/d7d/classWFMDemodGUI.html#aa63686a1348119a83fc3bf167aacb208" title="WFMDemodGUI::deserialize" alt="" coords="538,5,729,32"/>
+<area shape="rect" id="node6" href="$df/d8b/structWFMDemodSettings.html#a9f1c4262f82378c63a3f59d8094f5952" title="WFMDemodSettings::setChannel\lMarker" alt="" coords="524,57,743,98"/>
+<area shape="rect" id="node5" href="$d3/dbd/classWFMDemod.html#abfe9e10a709dee8cb0c4b5ef315e708f" title="Applies to a default stream. " alt="" coords="793,123,1015,149"/>
+<area shape="rect" id="node7" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="791,64,1017,91"/>
+<area shape="rect" id="node8" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1065,64,1229,91"/>
+<area shape="rect" id="node9" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1277,64,1500,91"/>
+<area shape="rect" id="node10" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="1548,64,1699,91"/>
+</map>

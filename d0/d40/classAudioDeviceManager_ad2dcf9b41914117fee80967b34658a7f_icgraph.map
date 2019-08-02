@@ -1,0 +1,18 @@
+<map id="AudioDeviceManager::debugAudioInputInfos" name="AudioDeviceManager::debugAudioInputInfos">
+<area shape="rect" id="node2" href="$d0/d40/classAudioDeviceManager.html#afca7fa560813a1404fa5c4ac0136398a" title="AudioDeviceManager\l::deserialize" alt="" coords="209,50,356,91"/>
+<area shape="rect" id="node8" href="$d0/d40/classAudioDeviceManager.html#a7029dbd20095ff8edf5165b6b5706d7c" title="AudioDeviceManager\l::serialize" alt="" coords="209,141,356,182"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="631,31,762,57"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="867,5,1045,32"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="877,56,1035,83"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1105,44,1285,71"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1124,132,1267,159"/>
+<area shape="rect" id="node9" href="$d5/df4/classMainSettings.html#a6310a41f9e236eaf8c0455a6487b72ac" title="MainSettings::save" alt="" coords="404,199,539,225"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="611,300,782,327"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="599,81,795,108"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#ac6e09bbdc312326db2a794cee5ab94c0" title="MainWindow::on_commandsSave\l_clicked" alt="" coords="587,351,807,393"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#a332903d4cb976b351b8c11d6ec9159e3" title="MainWindow::on_settingsSave\l_clicked" alt="" coords="595,133,798,174"/>
+<area shape="rect" id="node15" href="$db/d47/classMainCore.html#ab7a9000d4fe0032b406927c7a4e0f2d2" title="MainCore::~MainCore" alt="" coords="621,199,772,225"/>
+<area shape="rect" id="node16" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="608,249,785,276"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="855,107,1057,133"/>
+<area shape="rect" id="node17" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="864,183,1048,209"/>
+</map>

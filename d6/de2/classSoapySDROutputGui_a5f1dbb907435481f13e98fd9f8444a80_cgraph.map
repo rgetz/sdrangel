@@ -1,0 +1,8 @@
+<map id="SoapySDROutputGui::createAntennasControl" name="SoapySDROutputGui::createAntennasControl">
+<area shape="rect" id="node2" href="$d9/d7a/classStringRangeGUI.html#aff6abe1233432734227537328d1d2a52" title="StringRangeGUI::addItem" alt="" coords="209,5,382,32"/>
+<area shape="rect" id="node3" href="$d6/de2/classSoapySDROutputGui.html#aec988fb4aad5bb81a4ead34f51b4e1ff" title="SoapySDROutputGui::\lantennasChanged" alt="" coords="218,57,373,98"/>
+<area shape="rect" id="node6" href="$d9/d7a/classStringRangeGUI.html#a2ab56f3c01396555e5ecd0720b84971e" title="StringRangeGUI::setLabel" alt="" coords="208,123,383,149"/>
+<area shape="rect" id="node7" href="$d9/d7a/classStringRangeGUI.html#a7d01c5ff0473dbffa155cb733b5f0d63" title="StringRangeGUI::setUnits" alt="" coords="208,173,383,200"/>
+<area shape="rect" id="node4" href="$d9/d7a/classStringRangeGUI.html#ab73718bf5598093be1532f5e49d303ec" title="StringRangeGUI::getCurrent\lValue" alt="" coords="431,25,617,66"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#ad3a1f5c8f87dd6fb2bf706b537306beb" title="SoapySDROutputGui::\lsendSettings" alt="" coords="447,90,601,131"/>
+</map>

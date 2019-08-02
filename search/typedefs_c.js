@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['s16',['s16',['../d7/d1e/namespaceleansdr.html#aa05cd1faaa2220e2310736bcea2a74c9',1,'leansdr']]],
+  ['s2_5fbch_5fengine_5fnf10',['s2_bch_engine_nf10',['../d8/d8e/structleansdr_1_1s2__bch__engines.html#aa0ee8a55cc72822ae2910d5124a89eee',1,'leansdr::s2_bch_engines']]],
+  ['s2_5fbch_5fengine_5fnf12',['s2_bch_engine_nf12',['../d8/d8e/structleansdr_1_1s2__bch__engines.html#a4813c869e2a072189ad8e32bddcc4746',1,'leansdr::s2_bch_engines']]],
+  ['s2_5fbch_5fengine_5fnf8',['s2_bch_engine_nf8',['../d8/d8e/structleansdr_1_1s2__bch__engines.html#a1eebac1deb41288eaba4d84237059862',1,'leansdr::s2_bch_engines']]],
+  ['s2_5fbch_5fengine_5fsf12',['s2_bch_engine_sf12',['../d8/d8e/structleansdr_1_1s2__bch__engines.html#aa17ceffefc7fa6e5b5dedb1d856b1c29',1,'leansdr::s2_bch_engines']]],
+  ['s2_5fldpc_5fengine',['s2_ldpc_engine',['../da/d07/structleansdr_1_1s2__ldpc__engines.html#aa508f37492ccb934a1d4cef13b196c2c',1,'leansdr::s2_ldpc_engines::s2_ldpc_engine()'],['../d8/d34/structleansdr_1_1s2__fecenc.html#a05c2bb9d0ff26e1eda4b764c9544b984',1,'leansdr::s2_fecenc::s2_ldpc_engine()'],['../d7/d1e/namespaceleansdr.html#a035e5254b0ffddb19d3eef6c4690ef0f',1,'leansdr::s2_ldpc_engine()']]],
+  ['s2_5fldpc_5ftable',['s2_ldpc_table',['../d7/d1e/namespaceleansdr.html#ab77cfc45fd5781d0476f77807d02e596',1,'leansdr']]],
+  ['s32',['s32',['../d7/d1e/namespaceleansdr.html#a68c23c47befaaa84df4a4402e646b9ab',1,'leansdr']]],
+  ['s8',['s8',['../d7/d1e/namespaceleansdr.html#a613c332c47de51f3f0e079fa0d13f96c',1,'leansdr']]],
+  ['s_5fangle',['s_angle',['../d7/d1e/namespaceleansdr.html#a4afe370fc25302e8aabf0b82316e7174',1,'leansdr']]],
+  ['samplevector',['SampleVector',['../d2/d7e/dsptypes_8h.html#a0bd387e5bb2ddb57820faf0f507702ef',1,'dsptypes.h']]],
+  ['samplingdeviceregistrations',['SamplingDeviceRegistrations',['../d6/d95/classPluginAPI.html#aef3aa0738b3b9adf04b506d45bdb8ade',1,'PluginAPI']]],
+  ['samplingdevices',['SamplingDevices',['../dc/dd6/classPluginInterface.html#a1a948bf22a9c5aa6e4f88e3d68f007ef',1,'PluginInterface::SamplingDevices()'],['../de/d59/classPluginManager.html#a047aee66229e2199f7ae256dcf809939',1,'PluginManager::SamplingDevices()']]],
+  ['scalar_5ftype',['scalar_type',['../d1/d17/structkissfft__utils_1_1traits.html#a7bf47f92af2b53da963159cad9e29170',1,'kissfft_utils::traits::scalar_type()'],['../dc/d3a/classkissfft.html#a4189899fee95b479bd7cbaef6bad6f4e',1,'kissfft::scalar_type()']]],
+  ['score_5ft',['score_t',['../d7/d08/structleansdr_1_1ldpc__engine.html#a9171f9ca01022dd123394386f30807ca',1,'leansdr::ldpc_engine']]],
+  ['sidebands_5ft',['sidebands_t',['../de/d03/classChannelMarker.html#a890f281ee47dfae59c87780d6b8f20bd',1,'ChannelMarker']]],
+  ['signal_5ft',['signal_t',['../d4/d0c/structleansdr_1_1deconvol__sync.html#a6a3cfa2d5e77f922cc428a0533b3bb3e',1,'leansdr::deconvol_sync']]],
+  ['sockettype',['SocketType',['../d9/d28/namespaceqrtplib.html#a0d767ad8775d1c29d0900ab4a390bafa',1,'qrtplib']]],
+  ['statebank',['statebank',['../d3/dbe/structleansdr_1_1viterbi__dec.html#a19fec5c6c575856a05b9f31d4db00c7b',1,'leansdr::viterbi_dec']]]
+];

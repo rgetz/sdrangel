@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setFcdProPlusSettings" name="SWGSDRangel::SWGDeviceSettings::setFcdProPlusSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="336,5,499,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="335,71,499,112"/>
+<area shape="rect" id="node6" href="$d6/d0c/classFCDProPlusInput.html#a04bfd58fb4b5826ddbc5a027fb007463" title="FCDProPlusInput::webapiReverse\lSendSettings" alt="" coords="306,136,529,177"/>
+<area shape="rect" id="node11" href="$d6/d0c/classFCDProPlusInput.html#aa90fd7cc9797bfa1a4b342bef09125a3" title="FCDProPlusInput::webapiSettingsGet" alt="" coords="296,202,539,229"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="587,16,805,57"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="884,16,1047,57"/>
+<area shape="rect" id="node7" href="$d6/d0c/classFCDProPlusInput.html#abc1e2ec4e142083ff3d6485b20b36154" title="FCDProPlusInput::applySettings" alt="" coords="590,143,802,170"/>
+<area shape="rect" id="node8" href="$d6/d0c/classFCDProPlusInput.html#af2a33a42a9581b86f4d6d6093e92d43e" title="FCDProPlusInput::handleMessage" alt="" coords="853,93,1077,119"/>
+<area shape="rect" id="node9" href="$d6/d0c/classFCDProPlusInput.html#a715d38e9cc6c7b8d70eca26e039953f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="890,143,1041,170"/>
+<area shape="rect" id="node10" href="$d6/d0c/classFCDProPlusInput.html#a2a9b9a703885b1ff1bbc14fca2263336" title="FCDProPlusInput::start" alt="" coords="886,194,1045,221"/>
+</map>

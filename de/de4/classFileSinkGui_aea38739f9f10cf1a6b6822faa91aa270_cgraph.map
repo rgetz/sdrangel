@@ -1,0 +1,5 @@
+<map id="FileSinkGui::on_startStop_toggled" name="FileSinkGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d2/de7/classFileSinkOutput_1_1MsgStartStop.html#a64b83e3624adc7d52d9d05b375f9638d" title="FileSinkOutput::MsgStart\lStop::create" alt="" coords="233,5,403,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="224,71,412,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="243,137,393,163"/>
+</map>

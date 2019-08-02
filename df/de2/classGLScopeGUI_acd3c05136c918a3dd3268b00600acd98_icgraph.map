@@ -1,0 +1,6 @@
+<map id="GLScopeGUI::setTimeOfsDisplay" name="GLScopeGUI::setTimeOfsDisplay">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ad4affb46a75b8aa873d46402a215907f" title="GLScopeGUI::on_scope\l_sampleRateChanged" alt="" coords="281,5,445,47"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="500,42,673,69"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#ad7386347e67bffda84756a36e6e31a9d" title="GLScopeGUI::on_timeOfs\l_valueChanged" alt="" coords="275,123,450,164"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a2d72722756c536c6c7e698d4f884a34a" title="GLScopeGUI::on_traceLen\l_valueChanged" alt="" coords="273,188,452,229"/>
+</map>

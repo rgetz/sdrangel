@@ -1,0 +1,10 @@
+<map id="AudioNetSink::setNewCodecData" name="AudioNetSink::setNewCodecData">
+<area shape="rect" id="node2" href="$d1/d16/classAudioNetSink.html#a9f3afeb08b4804d79f32d9e0a4901308" title="AudioNetSink::setDecimation" alt="" coords="275,37,469,64"/>
+<area shape="rect" id="node8" href="$d1/d16/classAudioNetSink.html#a8c04dad8232d8216ad2e3834abd30b6d" title="AudioNetSink::setParameters" alt="" coords="275,89,469,116"/>
+<area shape="rect" id="node3" href="$d8/ddc/classAudioOutput.html#a98d7bd3c7636155923f0df81144a939c" title="AudioOutput::setUdpDecimation" alt="" coords="517,35,728,61"/>
+<area shape="rect" id="node4" href="$d0/d40/classAudioDeviceManager.html#a626cbd4efa0db2508888c36a535aa842" title="AudioDeviceManager\l::setOutputDeviceInfo" alt="" coords="776,57,927,98"/>
+<area shape="rect" id="node5" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="999,5,1147,32"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#a7e0868764ceab0c25cc1c8d051920b15" title="WebAPIAdapterSrv::instance\lAudioOutputPatch" alt="" coords="977,57,1170,98"/>
+<area shape="rect" id="node7" href="$d7/de5/classWebAPIAdapterGUI.html#a2e3aca4d4c3df256a6ab7b28f2629739" title="WebAPIAdapterGUI::instance\lAudioOutputPatch" alt="" coords="975,122,1172,163"/>
+<area shape="rect" id="node9" href="$d8/ddc/classAudioOutput.html#a4dd9e7cb70bc633a33a97e400dec7497" title="AudioOutput::setUdpChannel\lFormat" alt="" coords="527,86,719,127"/>
+</map>

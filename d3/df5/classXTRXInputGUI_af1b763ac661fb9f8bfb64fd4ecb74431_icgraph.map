@@ -1,0 +1,11 @@
+<map id="XTRXInputGUI::setNCODisplay" name="XTRXInputGUI::setNCODisplay">
+<area shape="rect" id="node2" href="$d3/df5/classXTRXInputGUI.html#a41956258c8ada4f53d445c92f7c2a513" title="XTRXInputGUI::displaySettings" alt="" coords="265,115,473,142"/>
+<area shape="rect" id="node9" href="$d3/df5/classXTRXInputGUI.html#ab80a7cc298f0de29394dd29222238b46" title="XTRXInputGUI::on_hwDecim\l_currentIndexChanged" alt="" coords="272,166,467,208"/>
+<area shape="rect" id="node10" href="$d3/df5/classXTRXInputGUI.html#ac2be61370f17fe07cafd5adff59dffd4" title="XTRXInputGUI::on_sampleRate\l_changed" alt="" coords="264,232,475,273"/>
+<area shape="rect" id="node3" href="$d3/df5/classXTRXInputGUI.html#abe927c94932587eda6367a39e2697b80" title="XTRXInputGUI::deserialize" alt="" coords="811,14,992,40"/>
+<area shape="rect" id="node4" href="$d3/df5/classXTRXInputGUI.html#a14a8a35ee0a173ad0eed8c87ddf8d902" title="XTRXInputGUI::handleInput\lMessages" alt="" coords="808,125,995,166"/>
+<area shape="rect" id="node5" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="1043,162,1251,188"/>
+<area shape="rect" id="node6" href="$d3/df5/classXTRXInputGUI.html#ad5a3b3ea143d7a194ed0f412973d6f44" title="XTRXInputGUI::handleMessage" alt="" coords="536,140,747,167"/>
+<area shape="rect" id="node7" href="$d3/df5/classXTRXInputGUI.html#a1a15ac2f0cdc02f3d6c31288a68d39f1" title="XTRXInputGUI::resetToDefaults" alt="" coords="535,39,747,66"/>
+<area shape="rect" id="node8" href="$d3/df5/classXTRXInputGUI.html#a148df1617f2ef96be40708a07006e326" title="XTRXInputGUI::setCenterFrequency" alt="" coords="523,242,760,268"/>
+</map>

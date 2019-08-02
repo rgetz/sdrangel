@@ -1,0 +1,13 @@
+<map id="HackRFInput::~HackRFInput" name="HackRFInput::~HackRFInput">
+<area shape="rect" id="node2" href="$d2/d57/classHackRFInput.html#a2f59000f2316dffa0dd1c8e7d64a86b1" title="HackRFInput::closeDevice" alt="" coords="264,9,444,36"/>
+<area shape="rect" id="node4" href="$d2/d57/classHackRFInput.html#a1b3b38cae94c7695654c45d84c4f98b4" title="HackRFInput::networkManager\lFinished" alt="" coords="252,63,456,105"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="248,129,460,156"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html#a3aedc22d25fe2047b30ce24bfc394703" title="DeviceAPI::setBuddySharedPtr" alt="" coords="251,180,457,207"/>
+<area shape="rect" id="node11" href="$d2/d57/classHackRFInput.html#a244f1761b3c2d353e6a3dc9e6ff52fc7" title="HackRFInput::stop" alt="" coords="287,245,421,272"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="508,5,692,32"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="517,57,683,98"/>
+<area shape="rect" id="node8" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="514,122,686,163"/>
+<area shape="rect" id="node9" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="521,187,679,229"/>
+<area shape="rect" id="node7" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="740,129,919,156"/>
+<area shape="rect" id="node12" href="$df/d4f/classHackRFInputThread.html#a9664fe999acf9c1de744bbc8f8863b1d" title="HackRFInputThread::\lstopWork" alt="" coords="526,253,674,294"/>
+</map>

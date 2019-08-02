@@ -1,0 +1,7 @@
+<map id="ScopeVis::getTriggerData" name="ScopeVis::getTriggerData">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab19be8ad036558656dea0debc93968e1" title="GLScopeGUI::on_trig\l_valueChanged" alt="" coords="243,5,389,47"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a2e0a854eb802c14c874500575b155e27" title="GLScopeGUI::on_trigDown\l_clicked" alt="" coords="225,71,407,112"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a0e784745942e60e637bc9dce25c6c9d1" title="GLScopeGUI::on_trigUp\l_clicked" alt="" coords="234,136,398,177"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a4fe8c63bd113440f837efcf95ae55e93" title="GLScopeGUI::serialize" alt="" coords="238,202,394,229"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#a37e7446c5c3c52ea5f13241d22ba431f" title="GLScopeGUI::focusOnTrigger" alt="" coords="455,13,652,39"/>
+</map>

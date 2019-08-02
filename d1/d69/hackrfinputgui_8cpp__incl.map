@@ -1,0 +1,36 @@
+<map id="plugins/samplesource/hackrfinput/hackrfinputgui.cpp" name="plugins/samplesource/hackrfinput/hackrfinputgui.cpp">
+<area shape="rect" id="node2" href="$df/d7b/hackrfinputgui_8h.html" title="hackrfinputgui.h" alt="" coords="2699,95,2813,121"/>
+<area shape="rect" id="node30" href="$d9/dd3/colormapper_8h.html" title="gui/colormapper.h" alt="" coords="4477,319,4603,345"/>
+<area shape="rect" id="node33" href="$d0/d34/glspectrum_8h.html" title="gui/glspectrum.h" alt="" coords="1145,244,1263,271"/>
+<area shape="rect" id="node50" href="$d3/dca/crightclickenabler_8h.html" title="gui/crightclickenabler.h" alt="" coords="3000,95,3155,121"/>
+<area shape="rect" id="node53" href="$d5/d9b/basicdevicesettingsdialog_8h.html" title="gui/basicdevicesettingsdialog.h" alt="" coords="3219,95,3421,121"/>
+<area shape="rect" id="node55" href="$d8/d2f/dspengine_8h.html" title="dsp/dspengine.h" alt="" coords="3661,169,3779,196"/>
+<area shape="rect" id="node67" href="$d7/d45/dspcommands_8h.html" title="dsp/dspcommands.h" alt="" coords="1446,244,1589,271"/>
+<area shape="rect" id="node70" href="$d7/d54/deviceapi_8h.html" title="device/deviceapi.h" alt="" coords="2881,244,3012,271"/>
+<area shape="rect" id="node71" href="$dc/d64/deviceuiset_8h.html" title="device/deviceuiset.h" alt="" coords="2615,244,2756,271"/>
+<area shape="rect" id="node72" href="$dc/d8f/devicehackrfvalues_8h.html" title="hackrf/devicehackrfvalues.h" alt="" coords="3451,169,3637,196"/>
+<area shape="rect" id="node3" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="2036,319,2207,345"/>
+<area shape="rect" id="node10" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="3290,319,3433,345"/>
+<area shape="rect" id="node14" href="$d0/db0/hackrfinput_8h.html" title="hackrfinput.h" alt="" coords="1851,169,1949,196"/>
+<area shape="rect" id="node7" href="$db/db5/export_8h.html" title="export.h" alt="" coords="2797,393,2867,420"/>
+<area shape="rect" id="node17" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="2393,244,2570,271"/>
+<area shape="rect" id="node25" href="$d0/da7/devicehackrf_8h.html" title="hackrf/devicehackrf.h" alt="" coords="2171,244,2317,271"/>
+<area shape="rect" id="node26" href="$da/d0f/devicehackrfparam_8h.html" title="hackrf/devicehackrfparam.h" alt="" coords="1809,244,1991,271"/>
+<area shape="rect" id="node27" href="$d7/d5c/hackrfinputsettings_8h.html" title="hackrfinputsettings.h" alt="" coords="635,319,778,345"/>
+<area shape="rect" id="node18" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="2652,319,2769,345"/>
+<area shape="rect" id="node23" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1441,319,1548,345"/>
+<area shape="rect" id="node20" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1849,393,1959,420"/>
+<area shape="rect" id="node38" href="$d5/de0/scaleengine_8h.html" title="gui/scaleengine.h" alt="" coords="1143,319,1265,345"/>
+<area shape="rect" id="node42" href="$dc/d8a/glshadersimple_8h.html" title="gui/glshadersimple.h" alt="" coords="977,319,1119,345"/>
+<area shape="rect" id="node44" href="$d4/d9b/glshadertextured_8h.html" title="gui/glshadertextured.h" alt="" coords="802,319,953,345"/>
+<area shape="rect" id="node46" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="2383,319,2526,345"/>
+<area shape="rect" id="node48" href="$d6/ddd/incrementalarray_8h.html" title="util/incrementalarray.h" alt="" coords="547,393,698,420"/>
+<area shape="rect" id="node41" href="$d0/dd2/physicalunit_8h.html" title="physicalunit.h" alt="" coords="1186,393,1289,420"/>
+<area shape="rect" id="node47" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="2381,393,2529,420"/>
+<area shape="rect" id="node56" href="$d7/d21/audiodevicemanager_8h.html" title="audio/audiodevicemanager.h" alt="" coords="3809,244,3996,271"/>
+<area shape="rect" id="node60" href="$db/d0a/audioinput_8h.html" title="audio/audioinput.h" alt="" coords="4275,319,4402,345"/>
+<area shape="rect" id="node64" href="$d4/d09/audiooutput_8h.html" title="audio/audiooutput.h" alt="" coords="4117,319,4251,345"/>
+<area shape="rect" id="node65" href="$de/d89/ambeengine_8h.html" title="ambe/ambeengine.h" alt="" coords="3508,319,3647,345"/>
+<area shape="rect" id="node68" href="$dd/d49/fftwindow_8h.html" title="fftwindow.h" alt="" coords="1573,319,1662,345"/>
+<area shape="rect" id="node69" href="$df/db1/math_8h.html" title="math.h" alt="" coords="1586,393,1649,420"/>
+</map>

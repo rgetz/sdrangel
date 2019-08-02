@@ -1,0 +1,10 @@
+<map id="SSBDemodGUI::displayAGCThresholdGate" name="SSBDemodGUI::displayAGCThresholdGate">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a4864abc8dd9de9a73b5cdcd9abb1a5fa" title="SSBDemodGUI::displaySettings" alt="" coords="332,56,544,83"/>
+<area shape="rect" id="node3" href="$d4/d5b/classSSBDemodGUI.html#a3541ba1eb532f9302a6e58156ea4f322" title="SSBDemodGUI::deserialize" alt="" coords="607,5,792,32"/>
+<area shape="rect" id="node4" href="$d4/d5b/classSSBDemodGUI.html#aa23b2a82414ac36f9a48433cf0dd1c57" title="SSBDemodGUI::handleMessage" alt="" coords="592,56,807,83"/>
+<area shape="rect" id="node6" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1093,81,1309,108"/>
+<area shape="rect" id="node5" href="$d4/d5b/classSSBDemodGUI.html#a2fd37fa65519ade78b5ee784e667be25" title="SSBDemodGUI::handleInput\lMessages" alt="" coords="855,45,1045,86"/>
+<area shape="rect" id="node7" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1357,81,1516,108"/>
+<area shape="rect" id="node8" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1564,81,1783,108"/>
+<area shape="rect" id="node9" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1831,81,1977,108"/>
+</map>

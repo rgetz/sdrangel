@@ -1,0 +1,14 @@
+<map id="GLSpectrumGUI::on_averaging_currentIndexChanged" name="GLSpectrumGUI::on_averaging_currentIndexChanged">
+<area shape="rect" id="node2" href="$d1/dfc/classSpectrumVis.html#a1c9532ddd3ba2d4293ed8194ccdd9464" title="SpectrumVis::configure" alt="" coords="279,5,438,32"/>
+<area shape="rect" id="node4" href="$d4/dcb/classGLSpectrumGUI.html#a851fa8f140c736275e9d9af195a27ec8" title="GLSpectrumGUI::getAveraging\lValue" alt="" coords="257,57,460,98"/>
+<area shape="rect" id="node5" href="$d4/dcb/classGLSpectrumGUI.html#af2bce5f0bbdc90a2da79dae867651fcd" title="GLSpectrumGUI::setAveraging\lToolitp" alt="" coords="257,122,460,163"/>
+<area shape="rect" id="node13" href="$d6/dab/classGLSpectrum.html#ac1d83a89c40df09d1a4700f4d09d054c" title="GLSpectrum::setTimingRate" alt="" coords="265,188,453,215"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="537,5,687,32"/>
+<area shape="rect" id="node6" href="$d6/dab/classGLSpectrum.html#a913430d8d305205b38fe575db8e6bfa2" title="GLSpectrum::getSampleRate" alt="" coords="515,79,709,105"/>
+<area shape="rect" id="node7" href="$d4/dcb/classGLSpectrumGUI.html#ae91e24b8659e31c7f3f0f09ba79cea28" title="GLSpectrumGUI::setNumberStr" alt="" coords="508,129,716,156"/>
+<area shape="rect" id="node8" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="592,180,632,207"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="764,180,872,207"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="920,202,1068,243"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1124,151,1243,177"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1116,202,1251,243"/>
+</map>

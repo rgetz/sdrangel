@@ -1,0 +1,20 @@
+<map id="FCDProPlusGui::sendSettings" name="FCDProPlusGui::sendSettings">
+<area shape="rect" id="node2" href="$d4/d5d/classFCDProPlusGui.html#a87b2734f6691755758c1c44df30c7da7" title="FCDProPlusGui::deserialize" alt="" coords="535,460,721,486"/>
+<area shape="rect" id="node3" href="$d4/d5d/classFCDProPlusGui.html#a5c5b6964ab2b9ad9ba7f93832ac3c599" title="FCDProPlusGui::on_center\lFrequency_changed" alt="" coords="271,60,453,102"/>
+<area shape="rect" id="node4" href="$d4/d5d/classFCDProPlusGui.html#a95a0cf84c4dc63dc96c99a26799c34ba" title="FCDProPlusGui::on_checkBox\lB_stateChanged" alt="" coords="261,126,463,167"/>
+<area shape="rect" id="node5" href="$d4/d5d/classFCDProPlusGui.html#a3ef9bff171acb0828a55a9650e28436e" title="FCDProPlusGui::on_checkBox\lG_stateChanged" alt="" coords="261,191,463,232"/>
+<area shape="rect" id="node6" href="$d4/d5d/classFCDProPlusGui.html#a15681e68ed9923204f589819414ce8eb" title="FCDProPlusGui::on_dcOffset\l_toggled" alt="" coords="265,256,459,298"/>
+<area shape="rect" id="node7" href="$d4/d5d/classFCDProPlusGui.html#aeffc78ceffae8a76868ee1580915ec1d" title="FCDProPlusGui::on_decim\l_currentIndexChanged" alt="" coords="272,322,452,363"/>
+<area shape="rect" id="node8" href="$d4/d5d/classFCDProPlusGui.html#a824cff528d0018c6ef80f5ca319613d0" title="FCDProPlusGui::on_fcPos\l_currentIndexChanged" alt="" coords="273,387,451,428"/>
+<area shape="rect" id="node9" href="$d4/d5d/classFCDProPlusGui.html#ac87b2529a87bb9581a90364b543c3a99" title="FCDProPlusGui::on_filter\lIF_currentIndexChanged" alt="" coords="277,452,447,494"/>
+<area shape="rect" id="node10" href="$d4/d5d/classFCDProPlusGui.html#ace11645fd945047cdf3bba40c272fe59" title="FCDProPlusGui::on_filter\lRF_currentIndexChanged" alt="" coords="277,518,447,559"/>
+<area shape="rect" id="node11" href="$d4/d5d/classFCDProPlusGui.html#aea9944b9fa6f19af6f59297c3b2ecb97" title="FCDProPlusGui::on_ifGain\l_valueChanged" alt="" coords="273,583,451,624"/>
+<area shape="rect" id="node12" href="$d4/d5d/classFCDProPlusGui.html#a3916788d8d97389df30b1dfaea7a79a9" title="FCDProPlusGui::on_iqImbalance\l_toggled" alt="" coords="255,648,469,690"/>
+<area shape="rect" id="node13" href="$d4/d5d/classFCDProPlusGui.html#a0d8d9bfa06bd3b4c46715aadfa6620af" title="FCDProPlusGui::on_mixGain\l_stateChanged" alt="" coords="265,714,459,755"/>
+<area shape="rect" id="node14" href="$d4/d5d/classFCDProPlusGui.html#a5385a38a6802d51a409dcaf596fb42e7" title="FCDProPlusGui::on_ppm\l_valueChanged" alt="" coords="277,779,447,820"/>
+<area shape="rect" id="node15" href="$d4/d5d/classFCDProPlusGui.html#ad21c7e13c81bfa76a0e7ed42d138f73d" title="FCDProPlusGui::on_transverter\l_clicked" alt="" coords="259,844,465,886"/>
+<area shape="rect" id="node16" href="$d4/d5d/classFCDProPlusGui.html#ad3376108c5955b6aaa50c301fcf83dd4" title="FCDProPlusGui::openDevice\lSettingsDialog" alt="" coords="265,962,459,1003"/>
+<area shape="rect" id="node18" href="$d4/d5d/classFCDProPlusGui.html#abd3943ac3bf91fdcfcbd83cec3566e4f" title="FCDProPlusGui::resetToDefaults" alt="" coords="253,910,471,937"/>
+<area shape="rect" id="node19" href="$d4/d5d/classFCDProPlusGui.html#a3c03ddbd59edbcb14f5f084331a922e4" title="FCDProPlusGui::setCenter\lFrequency" alt="" coords="271,1027,453,1068"/>
+<area shape="rect" id="node17" href="$d4/d5d/classFCDProPlusGui.html#a9710adf9b879ce9451942d6b7bd9b974" title="FCDProPlusGui::FCDProPlusGui" alt="" coords="519,969,737,996"/>
+</map>

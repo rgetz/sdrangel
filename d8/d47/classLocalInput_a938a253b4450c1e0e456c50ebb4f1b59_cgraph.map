@@ -1,0 +1,9 @@
+<map id="LocalInput::~LocalInput" name="LocalInput::~LocalInput">
+<area shape="rect" id="node2" href="$d8/d47/classLocalInput.html#a30adf477474034a742801f3619f38663" title="LocalInput::networkManager\lFinished" alt="" coords="225,12,411,53"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="212,78,424,105"/>
+<area shape="rect" id="node8" href="$d8/d47/classLocalInput.html#a014b72284a8bb607f48d9437aa8a06c7" title="LocalInput::stop" alt="" coords="261,129,375,155"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="475,5,641,47"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="472,71,644,112"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="479,136,637,177"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="692,78,871,105"/>
+</map>

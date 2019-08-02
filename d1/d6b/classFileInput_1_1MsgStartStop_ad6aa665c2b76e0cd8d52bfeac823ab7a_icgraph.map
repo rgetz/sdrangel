@@ -1,0 +1,5 @@
+<map id="FileInput::MsgStartStop::create" name="FileInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$da/d99/classFileInputGUI.html#a77eccabc10f3207b6393282c1b79003c" title="FileInputGUI::on_startStop\l_toggled" alt="" coords="213,5,392,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classFileInput.html#ad0ef3294a2dbca688c3041f7db058a5a" title="FileInput::webapiRun" alt="" coords="230,71,375,98"/>
+<area shape="rect" id="node4" href="$d7/deb/classFileInput.html#a090e6381223a51d1f5c1d1ab81348e5e" title="For when the source sample rate is set externally. " alt="" coords="440,71,611,98"/>
+</map>

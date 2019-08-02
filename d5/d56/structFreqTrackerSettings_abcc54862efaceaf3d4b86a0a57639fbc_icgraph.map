@@ -1,0 +1,10 @@
+<map id="FreqTrackerSettings::deserialize" name="FreqTrackerSettings::deserialize">
+<area shape="rect" id="node2" href="$d1/d46/classFreqTrackerGUI.html#ad8a296fc60757f5c12a027130e83a2a9" title="FreqTrackerGUI::deserialize" alt="" coords="193,5,380,32"/>
+<area shape="rect" id="node3" href="$da/d2e/classFreqTracker.html#a93140c64df21d5ee3aebfe1aee96124d" title="FreqTracker::deserialize" alt="" coords="205,56,368,83"/>
+<area shape="rect" id="node5" href="$d5/d56/structFreqTrackerSettings.html#ad41a6b0faa850e57311e07caaf38a4cd" title="FreqTrackerSettings\l::setChannelMarker" alt="" coords="217,107,357,149"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#ae25fa137b11b09022b5738e637c6168a" title="Applies to a default stream. " alt="" coords="428,56,647,83"/>
+<area shape="rect" id="node6" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="428,115,647,141"/>
+<area shape="rect" id="node7" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="695,115,855,141"/>
+<area shape="rect" id="node8" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="903,107,1049,149"/>
+<area shape="rect" id="node9" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1097,107,1233,149"/>
+</map>

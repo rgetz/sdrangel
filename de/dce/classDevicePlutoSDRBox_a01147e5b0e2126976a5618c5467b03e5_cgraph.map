@@ -1,0 +1,6 @@
+<map id="DevicePlutoSDRBox::~DevicePlutoSDRBox" name="DevicePlutoSDRBox::~DevicePlutoSDRBox">
+<area shape="rect" id="node2" href="$de/dce/classDevicePlutoSDRBox.html#afabcd0ec8b085ff1d17d3ed1b378d634" title="DevicePlutoSDRBox::\lcloseRx" alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$de/dce/classDevicePlutoSDRBox.html#aac99e620cac9686d921879520a65e928" title="DevicePlutoSDRBox::\lcloseTx" alt="" coords="207,71,360,112"/>
+<area shape="rect" id="node4" href="$de/dce/classDevicePlutoSDRBox.html#a3aead0c87fd1892be07d756fb34dac67" title="DevicePlutoSDRBox::\ldeleteRxBuffer" alt="" coords="207,136,360,177"/>
+<area shape="rect" id="node5" href="$de/dce/classDevicePlutoSDRBox.html#aef20d3a9ae6b4fd5ca7d1b49ef9bb27a" title="DevicePlutoSDRBox::\ldeleteTxBuffer" alt="" coords="207,201,360,243"/>
+</map>

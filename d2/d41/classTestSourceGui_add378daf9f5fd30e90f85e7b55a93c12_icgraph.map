@@ -1,0 +1,24 @@
+<map id="TestSourceGui::sendSettings" name="TestSourceGui::sendSettings">
+<area shape="rect" id="node2" href="$d2/d41/classTestSourceGui.html#a8e52e5a7228a25ba42531ad85cf7daf5" title="TestSourceGui::deserialize" alt="" coords="541,596,719,623"/>
+<area shape="rect" id="node3" href="$d2/d41/classTestSourceGui.html#a9ef6d6fc277734b74c28cbd7ab6fe700" title="TestSourceGui::on_amModulation\l_valueChanged" alt="" coords="254,66,473,107"/>
+<area shape="rect" id="node4" href="$d2/d41/classTestSourceGui.html#ace7de0083a9af4abb820eaeea2413137" title="TestSourceGui::on_amplitude\lCoarse_valueChanged" alt="" coords="266,131,461,173"/>
+<area shape="rect" id="node5" href="$d2/d41/classTestSourceGui.html#ad451601fb73b9984bb30b91f3a1aac1c" title="TestSourceGui::on_amplitude\lFine_valueChanged" alt="" coords="266,197,461,238"/>
+<area shape="rect" id="node6" href="$d2/d41/classTestSourceGui.html#aadb26c4598891520442125ff3b53b93a" title="TestSourceGui::on_autoCorr\l_currentIndexChanged" alt="" coords="269,262,457,303"/>
+<area shape="rect" id="node7" href="$d2/d41/classTestSourceGui.html#a96e782bf41a4546b8e94c36900a52a93" title="TestSourceGui::on_center\lFrequency_changed" alt="" coords="276,327,451,369"/>
+<area shape="rect" id="node8" href="$d2/d41/classTestSourceGui.html#a59924c9aa626aaacce835b39df81b519" title="TestSourceGui::on_dcBias\l_valueChanged" alt="" coords="274,393,453,434"/>
+<area shape="rect" id="node9" href="$d2/d41/classTestSourceGui.html#a5ac76aa9431724028caeb7e18767f804" title="TestSourceGui::on_decimation\l_currentIndexChanged" alt="" coords="263,458,464,499"/>
+<area shape="rect" id="node10" href="$d2/d41/classTestSourceGui.html#a977922c51c8b015a7ea36ed680b5cf17" title="TestSourceGui::on_fcPos\l_currentIndexChanged" alt="" coords="277,523,449,565"/>
+<area shape="rect" id="node11" href="$d2/d41/classTestSourceGui.html#a7c13fc9e4c7d0b90a2587d82edd4817b" title="TestSourceGui::on_fmDeviation\l_valueChanged" alt="" coords="259,589,467,630"/>
+<area shape="rect" id="node12" href="$d2/d41/classTestSourceGui.html#a19368fb1cbe18a01d86413cbdc9e6cb2" title="TestSourceGui::on_frequency\lShift_changed" alt="" coords="266,654,461,695"/>
+<area shape="rect" id="node13" href="$d2/d41/classTestSourceGui.html#a9fa410fe60dcc5973d3cc56c7d74fb9a" title="TestSourceGui::on_iBias\l_valueChanged" alt="" coords="280,719,447,761"/>
+<area shape="rect" id="node14" href="$d2/d41/classTestSourceGui.html#ad4f83e5b05d208dd8169cbe87f5f7b28" title="TestSourceGui::on_modulation\l_currentIndexChanged" alt="" coords="263,785,464,826"/>
+<area shape="rect" id="node15" href="$d2/d41/classTestSourceGui.html#a3c81a6e3f1383207767755e799efde14" title="TestSourceGui::on_modulation\lFrequency_valueChanged" alt="" coords="263,850,464,891"/>
+<area shape="rect" id="node16" href="$d2/d41/classTestSourceGui.html#ab75f3a22b37c5a735d0e138e07764671" title="TestSourceGui::on_phaseImbalance\l_valueChanged" alt="" coords="247,915,480,957"/>
+<area shape="rect" id="node17" href="$d2/d41/classTestSourceGui.html#a403d7066d9773cdb9c04de3bafc6a3c9" title="TestSourceGui::on_qBias\l_valueChanged" alt="" coords="278,981,449,1022"/>
+<area shape="rect" id="node18" href="$d2/d41/classTestSourceGui.html#a63a3bd64f4cb52cc762c996056964fe2" title="TestSourceGui::on_sample\lRate_changed" alt="" coords="273,1046,453,1087"/>
+<area shape="rect" id="node19" href="$d2/d41/classTestSourceGui.html#a94c1f9583af4bf549094b4b48904b129" title="TestSourceGui::on_sample\lSize_currentIndexChanged" alt="" coords="273,1111,453,1153"/>
+<area shape="rect" id="node20" href="$d2/d41/classTestSourceGui.html#a4e9fce919c803f6b0560af4627f2e6b2" title="TestSourceGui::openDevice\lSettingsDialog" alt="" coords="270,1229,457,1270"/>
+<area shape="rect" id="node22" href="$d2/d41/classTestSourceGui.html#a98cbce861c3d8ac18f27b5b129cca06e" title="TestSourceGui::resetToDefaults" alt="" coords="258,1177,469,1204"/>
+<area shape="rect" id="node23" href="$d2/d41/classTestSourceGui.html#a37feed7b5d0fb76bffb23214b8514ec7" title="TestSourceGui::setCenter\lFrequency" alt="" coords="276,1294,451,1335"/>
+<area shape="rect" id="node21" href="$d2/d41/classTestSourceGui.html#aa3f7c432f7cd67e0fcb1ca077c9ebb5e" title="TestSourceGui::TestSourceGui" alt="" coords="528,1236,732,1263"/>
+</map>

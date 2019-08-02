@@ -1,0 +1,36 @@
+<map id="BFMDemodGUI::deserialize" name="BFMDemodGUI::deserialize">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a7aa16d14aa5691fa74c9e5dd3b01e041" title="BFMDemodGUI::applySettings" alt="" coords="511,137,713,163"/>
+<area shape="rect" id="node8" href="$d3/d71/structBFMDemodSettings.html#a9ecc9631f0478a9749e196849e78026b" title="BFMDemodSettings::deserialize" alt="" coords="243,509,454,535"/>
+<area shape="rect" id="node20" href="$d3/df8/classBFMDemodGUI.html#a67216c6b7141e9f7017b2394f61ca228" title="BFMDemodGUI::displaySettings" alt="" coords="505,930,719,957"/>
+<area shape="rect" id="node35" href="$d3/df8/classBFMDemodGUI.html#ab30a447aa014be4d9d6d34d9e78c0c4e" title="BFMDemodGUI::resetToDefaults" alt="" coords="240,757,457,783"/>
+<area shape="rect" id="node3" href="$d4/d90/classBFMDemod_1_1MsgConfigureBFMDemod.html#a924cfd2f7bfab112b736d006027f28b6" title="BFMDemod::MsgConfigureBFMDemod\l::create" alt="" coords="767,239,1017,280"/>
+<area shape="rect" id="node4" href="$da/d6f/classBFMDemod_1_1MsgConfigureChannelizer.html#ad8d9748d41e90bdf86942973de409528" title="BFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="767,5,1017,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="808,71,976,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="817,137,967,163"/>
+<area shape="rect" id="node7" href="$d4/dd5/classBFMDemod.html#abe908fd74e2bf1f2d571786dd5edadfa" title="BFMDemod::requiredBW" alt="" coords="808,187,976,214"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="547,567,677,608"/>
+<area shape="rect" id="node10" href="$d3/d71/structBFMDemodSettings.html#a53f8c7b59237e9395ca8b98637870497" title="BFMDemodSettings::resetTo\lDefaults" alt="" coords="516,749,708,791"/>
+<area shape="rect" id="node11" href="$d3/d71/structBFMDemodSettings.html#a209fa63b875c0a7ce94aef7e03fc2cff" title="BFMDemodSettings::getRFBW" alt="" coords="789,698,995,725"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="547,632,677,673"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="547,253,677,295"/>
+<area shape="rect" id="node15" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="547,319,677,360"/>
+<area shape="rect" id="node16" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="547,188,677,229"/>
+<area shape="rect" id="node17" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="533,385,691,411"/>
+<area shape="rect" id="node18" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="547,501,677,543"/>
+<area shape="rect" id="node19" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="547,436,677,477"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="827,319,957,360"/>
+<area shape="rect" id="node21" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="805,1120,979,1161"/>
+<area shape="rect" id="node22" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="793,1186,991,1213"/>
+<area shape="rect" id="node23" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="811,1237,973,1263"/>
+<area shape="rect" id="node24" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="809,799,975,826"/>
+<area shape="rect" id="node25" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="801,850,983,877"/>
+<area shape="rect" id="node26" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="811,901,973,927"/>
+<area shape="rect" id="node27" href="$d3/df8/classBFMDemodGUI.html#a5907fb41d78eaf9fc73864eb0936f266" title="BFMDemodGUI::blockApplySettings" alt="" coords="774,749,1010,775"/>
+<area shape="rect" id="node28" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="805,952,979,993"/>
+<area shape="rect" id="node29" href="$d3/d71/structBFMDemodSettings.html#a972e44696ff8dffc90d77965c097daea" title="BFMDemodSettings::getRFBWIndex" alt="" coords="773,1018,1011,1045"/>
+<area shape="rect" id="node30" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="872,1069,912,1095"/>
+<area shape="rect" id="node31" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1065,1069,1173,1095"/>
+<area shape="rect" id="node32" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1425,1039,1544,1066"/>
+<area shape="rect" id="node33" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1221,1091,1369,1132"/>
+<area shape="rect" id="node34" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1417,1091,1552,1132"/>
+</map>

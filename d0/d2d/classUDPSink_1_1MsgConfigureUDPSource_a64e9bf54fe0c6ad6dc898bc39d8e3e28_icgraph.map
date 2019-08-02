@@ -1,0 +1,11 @@
+<map id="UDPSink::MsgConfigureUDPSource::getSettings" name="UDPSink::MsgConfigureUDPSource::getSettings">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#ae9da3a3f2a4938878f5ca82ce9dfdba0" title="UDPSinkGUI::handleMessage" alt="" coords="289,17,489,43"/>
+<area shape="rect" id="node8" href="$d2/d3d/classUDPSink.html#af42344b7dd6a2086d0b544d6334dcf22" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="301,67,477,94"/>
+<area shape="rect" id="node3" href="$d2/d38/classUDPSinkGUI.html#af55651e46e26ae03aeabe589f7e27752" title="UDPSinkGUI::handleSource\lMessages" alt="" coords="767,5,955,47"/>
+<area shape="rect" id="node4" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1003,42,1191,69"/>
+<area shape="rect" id="node5" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1239,42,1384,69"/>
+<area shape="rect" id="node6" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1432,42,1679,69"/>
+<area shape="rect" id="node7" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1727,42,1901,69"/>
+<area shape="rect" id="node9" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="537,67,719,94"/>
+<area shape="rect" id="node10" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="795,71,926,98"/>
+</map>

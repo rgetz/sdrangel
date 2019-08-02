@@ -1,0 +1,15 @@
+<map id="sdrbase/dsp/phaselockcomplex.h" name="sdrbase/dsp/phaselockcomplex.h">
+<area shape="rect" id="node2" href="$db/d88/chanalyzer_8h.html" title="plugins/channelrx/chanalyzer\l/chanalyzer.h" alt="" coords="328,80,519,121"/>
+<area shape="rect" id="node6" href="$d3/d78/amdemod_8h.html" title="plugins/channelrx/demodam\l/amdemod.h" alt="" coords="962,80,1146,121"/>
+<area shape="rect" id="node10" href="$d2/d7d/freqtracker_8h.html" title="plugins/channelrx/freqtracker\l/freqtracker.h" alt="" coords="1274,80,1463,121"/>
+<area shape="rect" id="node14" href="$dd/de1/phaselockcomplex_8cpp.html" title="sdrbase/dsp/phaselockcomplex.cpp" alt="" coords="1488,87,1719,114"/>
+<area shape="rect" id="node3" href="$db/d3b/chanalyzer_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzer.cpp" alt="" coords="5,169,196,211"/>
+<area shape="rect" id="node4" href="$d3/da2/chanalyzergui_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzergui.cpp" alt="" coords="220,169,411,211"/>
+<area shape="rect" id="node5" href="$d3/d44/chanalyzerplugin_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzerplugin.cpp" alt="" coords="435,169,625,211"/>
+<area shape="rect" id="node7" href="$d1/d00/amdemod_8cpp.html" title="plugins/channelrx/demodam\l/amdemod.cpp" alt="" coords="650,169,834,211"/>
+<area shape="rect" id="node8" href="$d7/db4/amdemodgui_8cpp.html" title="plugins/channelrx/demodam\l/amdemodgui.cpp" alt="" coords="858,169,1042,211"/>
+<area shape="rect" id="node9" href="$d0/d8d/amdemodplugin_8cpp.html" title="plugins/channelrx/demodam\l/amdemodplugin.cpp" alt="" coords="1066,169,1250,211"/>
+<area shape="rect" id="node11" href="$d0/d95/freqtracker_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtracker.cpp" alt="" coords="1274,169,1463,211"/>
+<area shape="rect" id="node12" href="$d7/dca/freqtrackergui_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtrackergui.cpp" alt="" coords="1487,169,1677,211"/>
+<area shape="rect" id="node13" href="$df/df7/freqtrackerplugin_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtrackerplugin.cpp" alt="" coords="1701,169,1890,211"/>
+</map>

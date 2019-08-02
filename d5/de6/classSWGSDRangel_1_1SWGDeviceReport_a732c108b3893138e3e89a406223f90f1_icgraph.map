@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setPlutoSdrInputReport" name="SWGSDRangel::SWGDeviceReport::setPlutoSdrInputReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="316,5,479,47"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#ab4a7a1352d8602a54cbfa7c24767bc75" title="PlutoSDRInput::webapiReportGet" alt="" coords="288,71,507,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="555,5,765,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="813,5,976,47"/>
+<area shape="rect" id="node6" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="556,71,764,98"/>
+</map>

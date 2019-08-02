@@ -1,0 +1,18 @@
+<map id="XTRXOutputGUI::sendSettings" name="XTRXOutputGUI::sendSettings">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a330967a482b101f56156aa223e18e15f" title="XTRXOutputGUI::deserialize" alt="" coords="557,395,748,422"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a2229f93a227e00df9bd0187187130148" title="XTRXOutputGUI::on_antenna\l_currentIndexChanged" alt="" coords="277,61,473,103"/>
+<area shape="rect" id="node4" href="$d8/d63/classXTRXOutputGUI.html#a74e14c4c1ab00691961fbbab6a3fb0e9" title="XTRXOutputGUI::on_center\lFrequency_changed" alt="" coords="281,127,468,168"/>
+<area shape="rect" id="node5" href="$d8/d63/classXTRXOutputGUI.html#a9e3b50a2fbeca368e5e0a0a16253c819" title="XTRXOutputGUI::on_extClock\l_clicked" alt="" coords="273,192,476,233"/>
+<area shape="rect" id="node6" href="$d8/d63/classXTRXOutputGUI.html#a45f945145a0c57df52d57abd8f755d51" title="XTRXOutputGUI::on_gain\l_valueChanged" alt="" coords="287,257,462,299"/>
+<area shape="rect" id="node7" href="$d8/d63/classXTRXOutputGUI.html#a72cdf5ab1d7a0868c43829c972f97ba1" title="XTRXOutputGUI::on_hwInterp\l_currentIndexChanged" alt="" coords="275,323,475,364"/>
+<area shape="rect" id="node8" href="$d8/d63/classXTRXOutputGUI.html#ab1a966fcfc9b49bdde84458947ec54ae" title="XTRXOutputGUI::on_lpf\l_changed" alt="" coords="293,388,457,429"/>
+<area shape="rect" id="node9" href="$d8/d63/classXTRXOutputGUI.html#a5524123df40a64616df3d93c84d7ac7f" title="XTRXOutputGUI::on_ncoEnable\l_toggled" alt="" coords="269,453,480,495"/>
+<area shape="rect" id="node10" href="$d8/d63/classXTRXOutputGUI.html#a1d0f6c9c4145b4ccded3c9b37685bf35" title="XTRXOutputGUI::on_ncoFrequency\l_changed" alt="" coords="259,519,491,560"/>
+<area shape="rect" id="node11" href="$d8/d63/classXTRXOutputGUI.html#aa7594ec4a5e54bbf0c13a2d4e8b403f4" title="XTRXOutputGUI::on_pwrmode\l_currentIndexChanged" alt="" coords="273,584,476,625"/>
+<area shape="rect" id="node12" href="$d8/d63/classXTRXOutputGUI.html#a20c397e5163b378f5825218e09120ad3" title="XTRXOutputGUI::on_sample\lRate_changed" alt="" coords="279,649,471,691"/>
+<area shape="rect" id="node13" href="$d8/d63/classXTRXOutputGUI.html#adcdb83affd2191f05ce9fd53e551ea0e" title="XTRXOutputGUI::on_swInterp\l_currentIndexChanged" alt="" coords="275,715,475,756"/>
+<area shape="rect" id="node14" href="$d8/d63/classXTRXOutputGUI.html#a5a9bc4a234b5aa05a0db49047db2cb35" title="XTRXOutputGUI::openDevice\lSettingsDialog" alt="" coords="275,832,474,873"/>
+<area shape="rect" id="node16" href="$d8/d63/classXTRXOutputGUI.html#aacb8def48e1fe5c647a03b41d687b90a" title="XTRXOutputGUI::resetToDefaults" alt="" coords="263,781,486,807"/>
+<area shape="rect" id="node17" href="$d8/d63/classXTRXOutputGUI.html#aa463559f8433534688e3a278f2801215" title="XTRXOutputGUI::setCenter\lFrequency" alt="" coords="281,897,468,939"/>
+<area shape="rect" id="node15" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="539,839,767,866"/>
+</map>

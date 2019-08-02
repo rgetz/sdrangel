@@ -1,0 +1,5 @@
+<map id="SWGSDRangel::SWGNFMDemodReport::setChannelPowerDb" name="SWGSDRangel::SWGNFMDemodReport::setChannelPowerDb">
+<area shape="rect" id="node2" href="$df/ddf/classNFMDemod.html#ade4a1ebcdaa3d2b9451768b84a47a058" title="NFMDemod::webapiFormatChannel\lReport" alt="" coords="279,5,509,47"/>
+<area shape="rect" id="node3" href="$df/ddf/classNFMDemod.html#a1145ab4f0e9c1dfe98d1c55727669522" title="NFMDemod::webapiReportGet" alt="" coords="557,13,760,39"/>
+<area shape="rect" id="node4" href="$df/ddf/classNFMDemod.html#a47128f43314e6dcaa40e0e62abaa02ba" title="NFMDemod::getStreamCenter\lFrequency" alt="" coords="808,5,1008,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="HackRFInput::MsgStartStop::getStartStop" name="HackRFInput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$df/d85/classHackRFInputGui.html#afe9ac335209e66e218af9b43dc403fe8" title="HackRFInputGui::handleMessage" alt="" coords="241,15,460,42"/>
+<area shape="rect" id="node5" href="$d2/d57/classHackRFInput.html#a75a77fa8c78b7dabafd8435056c483a7" title="HackRFInput::handleMessage" alt="" coords="251,67,450,94"/>
+<area shape="rect" id="node3" href="$df/d85/classHackRFInputGui.html#ae603cb599ef68a3274edb2d205a6c639" title="HackRFInputGui::handleInput\lMessages" alt="" coords="510,5,705,47"/>
+<area shape="rect" id="node4" href="$df/d85/classHackRFInputGui.html#a4e4ce338e76aaef5f7d739e497d2887f" title="HackRFInputGui::HackRFInputGui" alt="" coords="755,13,981,39"/>
+<area shape="rect" id="node6" href="$d2/d57/classHackRFInput.html#a4a0867e41233fc777459b2479b9e2942" title="For when the source sample rate is set externally. " alt="" coords="508,71,707,98"/>
+</map>

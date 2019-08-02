@@ -1,0 +1,8 @@
+<map id="LocalInputGui::sendSettings" name="LocalInputGui::sendSettings">
+<area shape="rect" id="node2" href="$de/da9/classLocalInputGui.html#a3c4ab8c40c5adfbe9efb0f6cb7d757d0" title="LocalInputGui::deserialize" alt="" coords="255,5,427,32"/>
+<area shape="rect" id="node3" href="$de/da9/classLocalInputGui.html#aa49090504ca3edd30e1bfa6e844eb379" title="LocalInputGui::LocalInputGui" alt="" coords="491,151,681,177"/>
+<area shape="rect" id="node4" href="$de/da9/classLocalInputGui.html#a65e0518dfa72a10156e70cdb54426289" title="LocalInputGui::on_dcOffset\l_toggled" alt="" coords="251,107,432,149"/>
+<area shape="rect" id="node5" href="$de/da9/classLocalInputGui.html#a1ad2e8d8260bd05496833499f276c38c" title="LocalInputGui::on_iqImbalance\l_toggled" alt="" coords="241,173,442,214"/>
+<area shape="rect" id="node6" href="$de/da9/classLocalInputGui.html#a5d91f1e79d19bf9f4766327125298576" title="LocalInputGui::openDevice\lSettingsDialog" alt="" coords="252,238,431,279"/>
+<area shape="rect" id="node7" href="$de/da9/classLocalInputGui.html#a5062b334107e9af2adf7ca409b4686ae" title="LocalInputGui::resetToDefaults" alt="" coords="240,304,443,331"/>
+</map>

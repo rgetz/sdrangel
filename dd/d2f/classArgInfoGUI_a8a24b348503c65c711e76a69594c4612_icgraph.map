@@ -1,0 +1,15 @@
+<map id="ArgInfoGUI::setIntegerValue" name="ArgInfoGUI::setIntegerValue">
+<area shape="rect" id="node2" href="$dd/d2f/classArgInfoGUI.html#abac37cf08acbfacabce0f2c5f66baa57" title="ArgInfoGUI::addIntValue" alt="" coords="248,78,413,105"/>
+<area shape="rect" id="node7" href="$dd/d2f/classArgInfoGUI.html#a4deea246368b44407abaff1f8b710ce3" title="ArgInfoGUI::setBoolValue" alt="" coords="244,158,417,185"/>
+<area shape="rect" id="node11" href="$dd/d2f/classArgInfoGUI.html#ab3226ad016f1b850767c9e6dc27a0257" title="ArgInfoGUI::setFloatValue" alt="" coords="243,259,419,286"/>
+<area shape="rect" id="node12" href="$dd/d2f/classArgInfoGUI.html#ad06ea42db6fd086c41007405516b39b0" title="ArgInfoGUI::setIntValue" alt="" coords="249,209,412,235"/>
+<area shape="rect" id="node13" href="$dd/d2f/classArgInfoGUI.html#a63d76e2aacf813da969e6bb1ab14b0d1" title="ArgInfoGUI::setStringValue" alt="" coords="240,310,421,337"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a1e25c19827fc003e70dfb11f7a1c3452" title="SoapySDRInputGui::create\lArgumentsControl" alt="" coords="469,5,651,47"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#a355a578b96af62fa3bdfa6baa6bcab8c" title="SoapySDROutputGui::\lcreateArgumentsControl" alt="" coords="479,71,641,112"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="699,13,959,39"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="751,71,906,112"/>
+<area shape="rect" id="node8" href="$dd/d2f/classArgInfoGUI.html#aa4ca91b2bffc756403cd6d9d2dc48cdc" title="ArgInfoGUI::on_argCheck\l_toggled" alt="" coords="473,136,647,177"/>
+<area shape="rect" id="node9" href="$dd/d2f/classArgInfoGUI.html#a8a04b82e0dfc21a357f7a68d1181b9d8" title="ArgInfoGUI::on_argCombo\l_currentIndexChanged" alt="" coords="471,201,649,243"/>
+<area shape="rect" id="node10" href="$db/dfe/classDynamicArgSettingGUI.html#aa856768df7ba5961c71b07949b0c3898" title="DynamicArgSettingGUI\l::setValue" alt="" coords="481,267,639,308"/>
+<area shape="rect" id="node14" href="$dd/d2f/classArgInfoGUI.html#a910469d7e6cf6544bfdc260308d64e1d" title="ArgInfoGUI::on_argEdit\l_editingFinished" alt="" coords="481,332,639,373"/>
+</map>

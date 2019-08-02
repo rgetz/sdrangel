@@ -1,0 +1,9 @@
+<map id="qrtplib::RTPSessionSources::OnBYEPacket" name="qrtplib::RTPSessionSources::OnBYEPacket">
+<area shape="rect" id="node2" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#ae90c1a03d3d0711c26c0fbc489f0baa3" title="qrtplib::RTCPScheduler\l::ActiveMemberDecrease" alt="" coords="240,35,411,76"/>
+<area shape="rect" id="node8" href="$db/d64/classqrtplib_1_1RTPSession.html#a4a5a1cac4535083707b716b1ad00105f" title="qrtplib::RTPSession\l::OnBYEPacket" alt="" coords="256,100,395,141"/>
+<area shape="rect" id="node3" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a442c04ebcaac884a081a7c4a7a8f7999" title="qrtplib::RTPSources\l::GetActiveMemberCount" alt="" coords="741,5,911,47"/>
+<area shape="rect" id="node4" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a1b9a7fd1d66d0d8ace36881e7a411531" title="qrtplib::RTCPScheduler\l::PerformReverseReconsideration" alt="" coords="459,64,677,105"/>
+<area shape="rect" id="node5" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a7a839e67da04ff032db37f2c1b143d44" title="qrtplib::RTPTime::CurrentTime" alt="" coords="725,71,927,98"/>
+<area shape="rect" id="node7" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a006a1a9d16c89f9198f325a473c89c43" title="qrtplib::RTPTime::GetDouble" alt="" coords="731,122,921,149"/>
+<area shape="rect" id="node6" href="$d9/d28/namespaceqrtplib.html#a2e15b3b3a7eb0ec7566301dbc91baa62" title="qrtplib::RTPTime_timespec\lToDouble" alt="" coords="975,64,1156,105"/>
+</map>

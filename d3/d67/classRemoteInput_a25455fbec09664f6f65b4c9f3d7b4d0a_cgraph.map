@@ -1,0 +1,19 @@
+<map id="RemoteInput::webapiSettingsGet" name="RemoteInput::webapiSettingsGet">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a559a835a6b2011a2edd03a928dc47bad" title="SWGSDRangel::SWGDeviceSettings\l::getRemoteInputSettings" alt="" coords="559,5,801,47"/>
+<area shape="rect" id="node3" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a8d93325d9524d17d6237e736d67552fe" title="SWGSDRangel::SWGRemoteInput\lSettings::init" alt="" coords="275,165,504,207"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a0b4b54b907c446788998d96c49a98151" title="SWGSDRangel::SWGDeviceSettings\l::setRemoteInputSettings" alt="" coords="268,231,511,272"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#aad19073b787d94ca80cf51283f4b914f" title="RemoteInput::webapiFormat\lDeviceSettings" alt="" coords="296,397,483,439"/>
+<area shape="rect" id="node6" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#af60ec25a6e981f8a2536eb30a003a53c" title="SWGSDRangel::SWGRemoteInput\lSettings::getFileRecordName" alt="" coords="565,71,795,112"/>
+<area shape="rect" id="node7" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a8f98225cdfd479019d311117f78ea903" title="SWGSDRangel::SWGRemoteInput\lSettings::getReverseApiAddress" alt="" coords="565,136,795,177"/>
+<area shape="rect" id="node8" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a46fce57eaab32e09758e10e71d3c553f" title="SWGSDRangel::SWGRemoteInput\lSettings::setApiAddress" alt="" coords="565,201,795,243"/>
+<area shape="rect" id="node9" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a457e0578f947b16188ef9929901e869a" title="SWGSDRangel::SWGRemoteInput\lSettings::setApiPort" alt="" coords="565,267,795,308"/>
+<area shape="rect" id="node10" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#abfbf4ea1c962caf7fcd0e20dc37fd994" title="SWGSDRangel::SWGRemoteInput\lSettings::setDataAddress" alt="" coords="565,332,795,373"/>
+<area shape="rect" id="node11" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a3c21fc75a355535f31b4077e0baed91f" title="SWGSDRangel::SWGRemoteInput\lSettings::setDataPort" alt="" coords="565,397,795,439"/>
+<area shape="rect" id="node12" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a01dc43cd6f0e8cd6580e91f284a503c9" title="SWGSDRangel::SWGRemoteInput\lSettings::setDcBlock" alt="" coords="565,463,795,504"/>
+<area shape="rect" id="node13" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#ad5e20cfa5350feaed0d1dd9886e83d9b" title="SWGSDRangel::SWGRemoteInput\lSettings::setFileRecordName" alt="" coords="565,528,795,569"/>
+<area shape="rect" id="node14" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a93d0e0e6bccf2eb2aa04c5ea89bf0e76" title="SWGSDRangel::SWGRemoteInput\lSettings::setIqCorrection" alt="" coords="565,593,795,635"/>
+<area shape="rect" id="node15" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a71c656573e558ec858dbb2dacbd14007" title="SWGSDRangel::SWGRemoteInput\lSettings::setReverseApiAddress" alt="" coords="565,659,795,700"/>
+<area shape="rect" id="node16" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a34d0e0a30d77411915d0f57793c40aac" title="SWGSDRangel::SWGRemoteInput\lSettings::setReverseApiDeviceIndex" alt="" coords="561,724,799,765"/>
+<area shape="rect" id="node17" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a485d41a43e03a74d4b8684396641f4a6" title="SWGSDRangel::SWGRemoteInput\lSettings::setReverseApiPort" alt="" coords="565,789,795,831"/>
+<area shape="rect" id="node18" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#ad47fb10d4e2cf10886d7d53449fe49be" title="SWGSDRangel::SWGRemoteInput\lSettings::setUseReverseApi" alt="" coords="565,855,795,896"/>
+</map>

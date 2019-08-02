@@ -1,0 +1,13 @@
+<map id="WFMMod::~WFMMod" name="WFMMod::~WFMMod">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="226,5,417,47"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="248,71,395,98"/>
+<area shape="rect" id="node4" href="$d6/de3/classWFMMod.html#a11994fc5a68517c033fef5a7a3cd2cc3" title="WFMMod::networkManagerFinished" alt="" coords="205,122,437,149"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#a62ed0af55bcd248e52b979a7ae91ffa0" title="Remove an audio source. " alt="" coords="248,173,395,215"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#aee2ad996d3dbf9127027e7b1f1b80b91" title="Remove a channel source (Tx) " alt="" coords="229,239,413,280"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html#af40e6139cd028a0a92563529c857e490" title="DeviceAPI::removeChannel\lSourceAPI" alt="" coords="229,304,413,345"/>
+<area shape="rect" id="node6" href="$d0/d40/classAudioDeviceManager.html#a223c1d01a24c5dd701c903bc7b638e65" title="AudioDeviceManager\l::stopAudioInput" alt="" coords="523,173,670,215"/>
+<area shape="rect" id="node8" href="$d1/d90/classDSPDeviceSinkEngine.html#a15d2c082fc3c54786cc20086d797411a" title="Remove a baseband sample source that runs on its own thread. " alt="" coords="513,239,681,280"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="756,246,935,273"/>
+<area shape="rect" id="node11" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="490,307,703,334"/>
+<area shape="rect" id="node12" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="485,358,708,385"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGChannelReport::setNfmModReport" name="SWGSDRangel::SWGChannelReport::setNfmModReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a60ddbb1101a6f53e60c8797618ec1e26" title="WebAPIRequestMapper\l::resetChannelReport" alt="" coords="306,5,469,47"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMMod.html#ad7c32126636fa500da14ab8bc5f51886" title="NFMMod::webapiReportGet" alt="" coords="295,71,480,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="541,5,759,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="820,5,983,47"/>
+<area shape="rect" id="node6" href="$de/df8/classNFMMod.html#ae32768518d5b2dc6f2bb314dd8fb8853" title="NFMMod::getStreamCenterFrequency" alt="" coords="528,71,772,98"/>
+</map>

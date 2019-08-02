@@ -1,0 +1,5 @@
+<map id="LimeSDROutput::suspendRxBuddies" name="LimeSDROutput::suspendRxBuddies">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="245,5,444,32"/>
+<area shape="rect" id="node3" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a07f09c7f87d5389d11cf14803715bde8" title="DeviceLimeSDRShared\l::ThreadInterface::isRunning" alt="" coords="251,57,438,98"/>
+<area shape="rect" id="node4" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a1627f86d3dffcbacc660667e562be2af" title="DeviceLimeSDRShared\l::ThreadInterface::stopWork" alt="" coords="252,122,437,163"/>
+</map>

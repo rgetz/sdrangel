@@ -1,0 +1,15 @@
+<map id="RemoteInputGui::updateStatus" name="RemoteInputGui::updateStatus">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="257,119,429,145"/>
+<area shape="rect" id="node9" href="$d3/d67/classRemoteInput.html#a0597bfd96d4810c55482d9a0fe44e68d" title="RemoteInput::isStreaming" alt="" coords="256,216,431,243"/>
+<area shape="rect" id="node11" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="282,313,405,340"/>
+<area shape="rect" id="node3" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="479,143,651,185"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="486,78,643,119"/>
+<area shape="rect" id="node7" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="481,13,648,54"/>
+<area shape="rect" id="node4" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="716,139,868,181"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="703,85,881,112"/>
+<area shape="rect" id="node8" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="699,5,885,61"/>
+<area shape="rect" id="node10" href="$d9/dd6/classRemoteInputUDPHandler.html#aab3fc1dc2be27247da4f22859a3f6f1a" title="RemoteInputUDPHandler\l::isStreaming" alt="" coords="479,209,650,250"/>
+<area shape="rect" id="node12" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="479,274,651,315"/>
+<area shape="rect" id="node13" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="486,339,643,381"/>
+<area shape="rect" id="node14" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="481,405,648,446"/>
+</map>

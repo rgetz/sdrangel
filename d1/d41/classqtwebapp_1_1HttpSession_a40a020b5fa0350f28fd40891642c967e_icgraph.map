@@ -1,0 +1,6 @@
+<map id="qtwebapp::HttpSession::getId" name="qtwebapp::HttpSession::getId">
+<area shape="rect" id="node2" href="$d0/dec/classqtwebapp_1_1HttpSessionStore.html#aeaf8409e1844366c12f18fd34d477a31" title="qtwebapp::HttpSessionStore\l::getSession" alt="" coords="212,5,401,47"/>
+<area shape="rect" id="node3" href="$d0/dec/classqtwebapp_1_1HttpSessionStore.html#a572d35ddc23b3ecac7c40aecc2b40a5e" title="qtwebapp::HttpSessionStore\l::removeSession" alt="" coords="212,71,401,112"/>
+<area shape="rect" id="node4" href="$d0/dec/classqtwebapp_1_1HttpSessionStore.html#aea12ffd0be0f1020eba8cc775794e3f1" title="qtwebapp::HttpSessionStore\l::sessionTimerEvent" alt="" coords="212,136,401,177"/>
+<area shape="rect" id="node5" href="$d0/dec/classqtwebapp_1_1HttpSessionStore.html#a4404d037bc389162148b66b8392580c6" title="qtwebapp::HttpSessionStore\l::HttpSessionStore" alt="" coords="449,136,639,177"/>
+</map>

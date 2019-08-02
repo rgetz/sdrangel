@@ -1,0 +1,5 @@
+<map id="ThreadedBasebandSampleSinkFifo" name="ThreadedBasebandSampleSinkFifo">
+<area shape="rect" id="node2" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="5,109,120,136"/>
+<area shape="rect" id="node3" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="145,109,295,136"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="163,5,277,32"/>
+</map>

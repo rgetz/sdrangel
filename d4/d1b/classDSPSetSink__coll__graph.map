@@ -1,0 +1,6 @@
+<map id="DSPSetSink" name="DSPSetSink">
+<area shape="rect" id="node2" href="$d6/d28/classMessage.html" title="Message" alt="" coords="5,109,80,136"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="104,109,237,136"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="30,5,143,32"/>
+<area shape="rect" id="node5" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="190,5,319,32"/>
+</map>

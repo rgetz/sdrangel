@@ -1,0 +1,24 @@
+<map id="ATVDemodGUI::applySettings" name="ATVDemodGUI::applySettings">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#ad7bbb23e3ead12f5cc47290b3c2fc516" title="ATVDemodGUI::channelMarker\lChangedByCursor" alt="" coords="543,15,749,56"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#a574fba4eb8e30b48aa1e69fe95da6a82" title="ATVDemodGUI::deserialize" alt="" coords="554,494,738,521"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#ae7c35af8b6c0489893987161dfc5c42c" title="ATVDemodGUI::handleMessage" alt="" coords="268,73,481,100"/>
+<area shape="rect" id="node9" href="$df/dd3/classATVDemodGUI.html#ae757da1a46a23a218bdc560bbae40ed3" title="ATVDemodGUI::on_blackLevel\l_valueChanged" alt="" coords="272,175,477,216"/>
+<area shape="rect" id="node10" href="$df/dd3/classATVDemodGUI.html#a7de7c2b713ff8c5094455d73ca5fe226" title="ATVDemodGUI::on_fps\l_currentIndexChanged" alt="" coords="294,240,455,282"/>
+<area shape="rect" id="node11" href="$df/dd3/classATVDemodGUI.html#aa47cfc7eb940f103c7cfeea8b0cf7115" title="ATVDemodGUI::on_halfImage\l_clicked" alt="" coords="275,306,475,347"/>
+<area shape="rect" id="node12" href="$df/dd3/classATVDemodGUI.html#a843ec35c96f3e8b28d88934bc3287647" title="ATVDemodGUI::on_hSync\l_clicked" alt="" coords="285,371,465,412"/>
+<area shape="rect" id="node13" href="$df/dd3/classATVDemodGUI.html#a66c9e212659766d770c596e3be5515c6" title="ATVDemodGUI::on_invertVideo\l_clicked" alt="" coords="271,436,479,478"/>
+<area shape="rect" id="node14" href="$df/dd3/classATVDemodGUI.html#a4dd8179edb0f2b1bcda84acf8d957503" title="ATVDemodGUI::on_lineTime\l_valueChanged" alt="" coords="279,502,471,543"/>
+<area shape="rect" id="node15" href="$df/dd3/classATVDemodGUI.html#a402bbe74e9da5542aa2b00e882d5b200" title="ATVDemodGUI::on_nbLines\l_currentIndexChanged" alt="" coords="281,567,469,608"/>
+<area shape="rect" id="node16" href="$df/dd3/classATVDemodGUI.html#adf212ce989286eea1ce1f2230eeffc8c" title="ATVDemodGUI::on_screenTab\lWidget_currentChanged" alt="" coords="273,632,477,674"/>
+<area shape="rect" id="node17" href="$df/dd3/classATVDemodGUI.html#a98738f4941f6445af4c136117bc2640a" title="ATVDemodGUI::on_standard\l_currentIndexChanged" alt="" coords="278,698,471,739"/>
+<area shape="rect" id="node18" href="$df/dd3/classATVDemodGUI.html#a74f452af8c05a67880124d61ea4c3eab" title="ATVDemodGUI::on_synchLevel\l_valueChanged" alt="" coords="270,763,479,804"/>
+<area shape="rect" id="node19" href="$df/dd3/classATVDemodGUI.html#a102b08b76c5012ae10abd835bf0e51e0" title="ATVDemodGUI::on_topTime\l_valueChanged" alt="" coords="279,828,470,870"/>
+<area shape="rect" id="node20" href="$df/dd3/classATVDemodGUI.html#a463159cf702294c7ab29d24e84d58f8a" title="ATVDemodGUI::on_vSync\l_clicked" alt="" coords="285,894,465,935"/>
+<area shape="rect" id="node21" href="$df/dd3/classATVDemodGUI.html#a6446ad7d97fb0954042934fa7914e5e4" title="ATVDemodGUI::resetToDefaults" alt="" coords="267,960,482,986"/>
+<area shape="rect" id="node23" href="$df/dd3/classATVDemodGUI.html#a532e5175077c91075f5067045bdefdb6" title="ATVDemodGUI::setCenterFrequency" alt="" coords="255,1010,495,1037"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="797,88,1012,114"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1060,88,1219,114"/>
+<area shape="rect" id="node5" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1267,80,1453,122"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#a768c72bf3838c170119f95f0bb2e8331" title="ATVDemodGUI::handleSource\lMessages" alt="" coords="545,80,747,122"/>
+<area shape="rect" id="node22" href="$df/dd3/classATVDemodGUI.html#a591bdbbf2604b8eb23accf877613e90c" title="ATVDemodGUI::on_reset\l_clicked" alt="" coords="560,894,732,935"/>
+</map>

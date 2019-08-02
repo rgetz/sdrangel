@@ -1,0 +1,13 @@
+<map id="AMBEEngine::releaseAll" name="AMBEEngine::releaseAll">
+<area shape="rect" id="node2" href="$d3/d84/classAMBEEngine.html#a23baceae498b2bf1b94c4de6404cf105" title="AMBEEngine::deserialize" alt="" coords="232,31,403,57"/>
+<area shape="rect" id="node8" href="$dc/dd8/classWebAPIAdapterSrv.html#a81e52be34f4fb2f076f4b34ce39de336" title="WebAPIAdapterSrv::instance\lAMBEDevicesDelete" alt="" coords="221,82,414,123"/>
+<area shape="rect" id="node9" href="$d7/de5/classWebAPIAdapterGUI.html#aa4ddf30a6f9858aeb2f799ea4e4c4074" title="WebAPIAdapterGUI::instance\lAMBEDevicesDelete" alt="" coords="219,147,416,189"/>
+<area shape="rect" id="node10" href="$dc/dd8/classWebAPIAdapterSrv.html#ac46b45f37ea2d276a513c524215bf744" title="WebAPIAdapterSrv::instance\lAMBEDevicesPut" alt="" coords="221,213,414,254"/>
+<area shape="rect" id="node11" href="$d7/de5/classWebAPIAdapterGUI.html#a1c9ed18bbfd33adcb618967e18fe16e5" title="WebAPIAdapterGUI::instance\lAMBEDevicesPut" alt="" coords="219,278,416,319"/>
+<area shape="rect" id="node12" href="$d7/d3b/classAMBEDevicesDialog.html#a58ee0cbd1971da968c05255b6c64d84b" title="AMBEDevicesDialog::\lon_clearAmbeList_clicked" alt="" coords="230,343,405,385"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="464,31,595,57"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="643,5,820,32"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="652,56,811,83"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="868,5,1048,32"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="887,56,1029,83"/>
+</map>

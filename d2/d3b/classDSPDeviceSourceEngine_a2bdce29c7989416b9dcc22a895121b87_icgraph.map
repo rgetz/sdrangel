@@ -1,0 +1,43 @@
+<map id="DSPDeviceSourceEngine::removeSink" name="DSPDeviceSourceEngine::removeSink">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="227,555,439,582"/>
+<area shape="rect" id="node37" href="$d6/d1a/classMainWindow.html#aedd0d06820f324cd14a9e688b5cac892" title="MainWindow::removeLastDevice" alt="" coords="225,1078,440,1105"/>
+<area shape="rect" id="node3" href="$d2/d00/classAirspyHFInput.html#aedecd5abc38d149baff2093af060ba49" title="AirspyHFInput::~AirspyHFInput" alt="" coords="499,19,705,46"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#a695a624c09a9fe2eb5574208e424d716" title="AirspyInput::~AirspyInput" alt="" coords="517,78,687,105"/>
+<area shape="rect" id="node7" href="$d2/d3a/classBladerf1Input.html#af5620dbe3caadb4cafda899fbd2496bf" title="Bladerf1Input::~Bladerf1\lInput" alt="" coords="521,129,683,171"/>
+<area shape="rect" id="node9" href="$d6/d2d/classBladeRF2Input.html#a137bd3203ba4210981ca937a27c54516" title="BladeRF2Input::~BladeRF2\lInput" alt="" coords="511,195,693,236"/>
+<area shape="rect" id="node10" href="$db/d44/classFCDProInput.html#a2f482211e39c38ec027679d9c7e4f2ae" title="FCDProInput::~FCDProInput" alt="" coords="506,261,698,287"/>
+<area shape="rect" id="node11" href="$d6/d0c/classFCDProPlusInput.html#ab0a0c9c0b74863d55892c95ba8cb4f57" title="FCDProPlusInput::~FCDPro\lPlusInput" alt="" coords="507,312,697,353"/>
+<area shape="rect" id="node12" href="$d2/d57/classHackRFInput.html#a0d5e0b2b2f1079d1e2d4af74ab3b4b49" title="HackRFInput::~HackRFInput" alt="" coords="505,378,699,405"/>
+<area shape="rect" id="node14" href="$d4/dbc/classKiwiSDRInput.html#a1f25fef430f278a0938c07311962872d" title="KiwiSDRInput::~KiwiSDRInput" alt="" coords="500,429,704,455"/>
+<area shape="rect" id="node16" href="$df/d1b/classLimeSDRInput.html#a805b01659121f348e4ca013a7c81386a" title="LimeSDRInput::~LimeSDRInput" alt="" coords="497,479,707,506"/>
+<area shape="rect" id="node18" href="$d8/d47/classLocalInput.html#a938a253b4450c1e0e456c50ebb4f1b59" title="LocalInput::~LocalInput" alt="" coords="523,530,681,557"/>
+<area shape="rect" id="node20" href="$df/dc2/classPerseusInput.html#ada5bfd597e1e4e7f91e4bccc3cd093eb" title="PerseusInput::~PerseusInput" alt="" coords="506,581,698,607"/>
+<area shape="rect" id="node22" href="$d2/d3a/classPlutoSDRInput.html#a71f7f3daf8b715c51223ac33a45fafd2" title="PlutoSDRInput::~PlutoSDRInput" alt="" coords="495,631,709,658"/>
+<area shape="rect" id="node24" href="$d3/d67/classRemoteInput.html#afa5a81b65b2cb9063263094492bbfcb0" title="RemoteInput::~RemoteInput" alt="" coords="508,682,696,709"/>
+<area shape="rect" id="node26" href="$d0/d36/classRTLSDRInput.html#a56e5ff07ef975cc10db1e05cc358ba02" title="RTLSDRInput::~RTLSDRInput" alt="" coords="500,733,704,759"/>
+<area shape="rect" id="node28" href="$dc/d8c/classSDRPlayInput.html#aee131f1d4112e53ed7cc5291f6492bcd" title="SDRPlayInput::~SDRPlayInput" alt="" coords="499,783,705,810"/>
+<area shape="rect" id="node30" href="$da/d65/classSoapySDRInput.html#afdfa5e1389a22b2deff4ca31ed411c82" title="SoapySDRInput::~SoapySDRInput" alt="" coords="488,834,716,861"/>
+<area shape="rect" id="node31" href="$d7/da7/classTestMI.html#a6f6d0699f1fc8acd0a00fc7fb28e64ec" title="TestMI::~TestMI" alt="" coords="542,885,662,911"/>
+<area shape="rect" id="node33" href="$d9/d2b/classTestSourceInput.html#a3a5e9602e9c06657434b72a7c1a1d473" title="TestSourceInput::~TestSource\lInput" alt="" coords="501,936,703,977"/>
+<area shape="rect" id="node35" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="518,1002,686,1029"/>
+<area shape="rect" id="node4" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#a35999d6c1ec18257ae6f1998efe21ea8" title="AirspyHFInput::MsgStartStop\l::MsgStartStop" alt="" coords="792,5,987,47"/>
+<area shape="rect" id="node6" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#aeca295550ded5e555c36b08e2b2764f4" title="AirspyInput::MsgStartStop\l::MsgStartStop" alt="" coords="801,71,977,112"/>
+<area shape="rect" id="node8" href="$d4/d7a/classBladerf1Input_1_1MsgStartStop.html#aece111352ba192c6c19b8248ed7c2ab2" title="Bladerf1Input::MsgStartStop\l::MsgStartStop" alt="" coords="796,136,983,177"/>
+<area shape="rect" id="node13" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#ad7f973dae01345d8d7e1b6606d8e497e" title="HackRFInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="791,277,987,319"/>
+<area shape="rect" id="node15" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="791,343,987,384"/>
+<area shape="rect" id="node17" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="791,408,987,449"/>
+<area shape="rect" id="node19" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a9360120dec540495691a8f0e74e59a59" title="LocalInput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="764,474,1015,530"/>
+<area shape="rect" id="node21" href="$dd/d6a/classPerseusInput_1_1MsgStartStop.html#a9a0988277f830dfe5e7dad73a0d77a02" title="PerseusInput::MsgStartStop\l::MsgStartStop" alt="" coords="796,555,983,596"/>
+<area shape="rect" id="node23" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="790,620,989,661"/>
+<area shape="rect" id="node25" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="797,685,982,727"/>
+<area shape="rect" id="node27" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="793,751,986,792"/>
+<area shape="rect" id="node29" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="792,816,987,857"/>
+<area shape="rect" id="node32" href="$d8/de7/classTestMI_1_1MsgStartStop.html#ab4b223ac6abdfbde115f22b4e81da814" title="TestMI::MsgStartStop\l::MsgStartStop" alt="" coords="814,881,965,923"/>
+<area shape="rect" id="node34" href="$d6/d4f/classTestSourceInput_1_1MsgStartStop.html#ab5d26e197edbd7b6bafe75bbe72e4a2b" title="TestSourceInput::MsgStart\lStop::MsgStartStop" alt="" coords="800,947,979,988"/>
+<area shape="rect" id="node36" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="798,1012,981,1053"/>
+<area shape="rect" id="node38" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="517,1053,687,1079"/>
+<area shape="rect" id="node39" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="504,1103,700,1130"/>
+<area shape="rect" id="node42" href="$d6/d1a/classMainWindow.html#a52a303cd6ae083095439eecd6a2ca639" title="MainWindow::on_action\l_removeLastDevice_triggered" alt="" coords="505,1155,699,1196"/>
+<area shape="rect" id="node40" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="788,1103,991,1130"/>
+<area shape="rect" id="node41" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1063,1103,1243,1130"/>
+</map>

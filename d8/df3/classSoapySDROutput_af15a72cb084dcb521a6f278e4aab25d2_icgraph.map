@@ -1,0 +1,10 @@
+<map id="SoapySDROutput::updateGains" name="SoapySDROutput::updateGains">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#a80b759741784dcb5b4988bbb9abbf22d" title="SoapySDROutput::applySettings" alt="" coords="261,81,476,108"/>
+<area shape="rect" id="node8" href="$d8/df3/classSoapySDROutput.html#a03d4a60c80037d321b5ddcee7d498a3e" title="SoapySDROutput::initGain\lSettings" alt="" coords="279,133,458,174"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#a499eb128e98c2f4ddd17a09edc94bb02" title="SoapySDROutput::handleMessage" alt="" coords="524,5,751,32"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#a9bd194a9c2f302645ed73ad44ad883d4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="561,56,713,83"/>
+<area shape="rect" id="node5" href="$d8/df3/classSoapySDROutput.html#a593ac84bfa00ca3357404b198f18cd74" title="SoapySDROutput::stop" alt="" coords="557,107,717,133"/>
+<area shape="rect" id="node6" href="$d8/df3/classSoapySDROutput.html#ac2e1070ac6e19853e92af210321089b7" title="SoapySDROutput::closeDevice" alt="" coords="799,81,1005,108"/>
+<area shape="rect" id="node7" href="$d8/df3/classSoapySDROutput.html#a0effaa6146ad3377c709cbec5810cf6a" title="SoapySDROutput::~SoapySDROutput" alt="" coords="1053,107,1301,133"/>
+<area shape="rect" id="node9" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="560,158,715,199"/>
+</map>

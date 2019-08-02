@@ -1,0 +1,6 @@
+<map id="SoapySDRInput::MsgStartStop::getStartStop" name="SoapySDRInput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#ac64da51534c567f2e5af1b5f4676cb28" title="SoapySDRInputGui::handle\lMessage" alt="" coords="275,5,458,47"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="259,71,475,98"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a87af02cdba51b85ff3243d641b406968" title="SoapySDRInputGui::handle\lInputMessages" alt="" coords="523,5,705,47"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="753,13,1013,39"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="sdrbase/dsp/fftengine.h" name="sdrbase/dsp/fftengine.h">
+<area shape="rect" id="node2" href="$db/d87/fftengine_8cpp.html" title="sdrbase/dsp/fftengine.cpp" alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node3" href="$d9/d05/fftwengine_8h.html" title="sdrbase/dsp/fftwengine.h" alt="" coords="202,80,370,107"/>
+<area shape="rect" id="node5" href="$de/d51/kissengine_8h.html" title="sdrbase/dsp/kissengine.h" alt="" coords="394,80,565,107"/>
+<area shape="rect" id="node7" href="$d3/d03/spectrumvis_8h.html" title="sdrgui/dsp/spectrumvis.h" alt="" coords="1714,80,1882,107"/>
+<area shape="rect" id="node4" href="$d6/d2a/fftwengine_8cpp.html" title="sdrbase/dsp/fftwengine.cpp" alt="" coords="180,162,363,189"/>
+<area shape="rect" id="node6" href="$d2/d49/kissengine_8cpp.html" title="sdrbase/dsp/kissengine.cpp" alt="" coords="387,162,571,189"/>
+<area shape="rect" id="node8" href="$d3/da2/chanalyzergui_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzergui.cpp" alt="" coords="1417,244,1608,285"/>
+<area shape="rect" id="node9" href="$dc/d60/bfmdemodgui_8cpp.html" title="plugins/channelrx/demodbfm\l/bfmdemodgui.cpp" alt="" coords="647,155,835,196"/>
+<area shape="rect" id="node10" href="$d4/d24/freedvdemodgui_8cpp.html" title="plugins/channelrx/demodfreedv\l/freedvdemodgui.cpp" alt="" coords="859,155,1062,196"/>
+<area shape="rect" id="node11" href="$d0/d60/lorademodgui_8cpp.html" title="plugins/channelrx/demodlora\l/lorademodgui.cpp" alt="" coords="1086,155,1273,196"/>
+<area shape="rect" id="node12" href="$df/d1f/ssbdemodgui_8cpp.html" title="plugins/channelrx/demodssb\l/ssbdemodgui.cpp" alt="" coords="1297,155,1483,196"/>
+<area shape="rect" id="node13" href="$db/ddc/udpsinkgui_8cpp.html" title="plugins/channelrx/udpsink\l/udpsinkgui.cpp" alt="" coords="1508,155,1680,196"/>
+<area shape="rect" id="node14" href="$db/dc7/freedvmodgui_8cpp.html" title="plugins/channeltx/modfreedv\l/freedvmodgui.cpp" alt="" coords="1704,155,1892,196"/>
+<area shape="rect" id="node15" href="$d7/d12/ssbmodgui_8cpp.html" title="plugins/channeltx/modssb\l/ssbmodgui.cpp" alt="" coords="1917,155,2090,196"/>
+<area shape="rect" id="node16" href="$dd/dc6/udpsourcegui_8cpp.html" title="plugins/channeltx/udpsource\l/udpsourcegui.cpp" alt="" coords="2114,155,2301,196"/>
+<area shape="rect" id="node17" href="$d3/dd6/deviceuiset_8cpp.html" title="sdrgui/device/deviceuiset.cpp" alt="" coords="2325,162,2519,189"/>
+<area shape="rect" id="node18" href="$df/db9/spectrumscopecombovis_8h.html" title="sdrgui/dsp/spectrumscopecombovis.h" alt="" coords="2543,162,2786,189"/>
+<area shape="rect" id="node20" href="$d1/d8c/spectrumvis_8cpp.html" title="sdrgui/dsp/spectrumvis.cpp" alt="" coords="2811,162,2993,189"/>
+<area shape="rect" id="node21" href="$d1/d1a/glspectrumgui_8cpp.html" title="sdrgui/gui/glspectrumgui.cpp" alt="" coords="3017,162,3205,189"/>
+<area shape="rect" id="node22" href="$d8/dd9/mainwindow_8cpp.html" title="sdrgui/mainwindow.cpp" alt="" coords="3229,162,3388,189"/>
+<area shape="rect" id="node19" href="$d2/d0d/spectrumscopecombovis_8cpp.html" title="sdrgui/dsp/spectrumscopecombovis.cpp" alt="" coords="2537,251,2793,278"/>
+</map>

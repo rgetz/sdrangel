@@ -1,0 +1,10 @@
+<map id="UDPSourceUDPHandler::readSample" name="UDPSourceUDPHandler::readSample">
+<area shape="rect" id="node2" href="$de/da4/classUDPSource.html#a4ce4959be772a8873dc8e4b32ec1d5c2" title="UDPSource::modulateSample" alt="" coords="469,13,667,39"/>
+<area shape="rect" id="node9" href="$de/da4/classUDPSource.html#a95e48fdb11cb2dd484a0caff28b68307" title="UDPSource::readMonoSample" alt="" coords="220,38,421,65"/>
+<area shape="rect" id="node3" href="$de/da4/classUDPSource.html#a3268bd2b4c9ee5c651d45e3d4a0f887b" title="UDPSource::pull" alt="" coords="715,13,835,39"/>
+<area shape="rect" id="node4" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="883,13,1083,39"/>
+<area shape="rect" id="node5" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="1131,13,1349,39"/>
+<area shape="rect" id="node6" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1397,13,1557,39"/>
+<area shape="rect" id="node7" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1605,5,1792,47"/>
+<area shape="rect" id="node8" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1840,13,2029,39"/>
+</map>

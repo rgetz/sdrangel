@@ -1,0 +1,9 @@
+<map id="RemoteSource::~RemoteSource" name="RemoteSource::~RemoteSource">
+<area shape="rect" id="node2" href="$de/dd9/classRemoteSource.html#a33517ea8617c0aad1f867271ec1390f0" title="RemoteSource::networkManager\lFinished" alt="" coords="265,5,479,47"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#aee2ad996d3dbf9127027e7b1f1b80b91" title="Remove a channel source (Tx) " alt="" coords="280,71,464,112"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#af40e6139cd028a0a92563529c857e490" title="DeviceAPI::removeChannel\lSourceAPI" alt="" coords="280,136,464,177"/>
+<area shape="rect" id="node4" href="$d1/d90/classDSPDeviceSinkEngine.html#a15d2c082fc3c54786cc20086d797411a" title="Remove a baseband sample source that runs on its own thread. " alt="" coords="554,71,722,112"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="797,78,976,105"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="531,139,745,166"/>
+<area shape="rect" id="node8" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="527,190,749,217"/>
+</map>

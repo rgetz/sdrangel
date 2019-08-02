@@ -1,0 +1,9 @@
+<map id="ChannelAnalyzer::getInputSampleRate" name="ChannelAnalyzer::getInputSampleRate">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#a982b69e4c5149e38275a0e21a1f0939f" title="ChannelAnalyzerGUI\l::displaySettings" alt="" coords="229,57,375,99"/>
+<area shape="rect" id="node7" href="$da/d16/classChannelAnalyzerGUI.html#ad809598e8cebf3e1d7922ae0be2c0a91" title="ChannelAnalyzerGUI\l::handleMessage" alt="" coords="229,123,375,164"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#af3b84f19e08e6d5e3ad07bfb84fe15f1" title="ChannelAnalyzerGUI\l::deserialize" alt="" coords="429,5,574,47"/>
+<area shape="rect" id="node4" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="628,93,781,135"/>
+<area shape="rect" id="node5" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="829,93,975,135"/>
+<area shape="rect" id="node6" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1023,93,1180,135"/>
+<area shape="rect" id="node8" href="$da/d16/classChannelAnalyzerGUI.html#a2072c0e62719b86addc5c4f3ca176142" title="ChannelAnalyzerGUI\l::handleInputMessages" alt="" coords="423,123,580,164"/>
+</map>

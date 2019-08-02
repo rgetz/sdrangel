@@ -1,0 +1,16 @@
+<map id="PhaseDiscriminators::phaseDiscriminator" name="PhaseDiscriminators::phaseDiscriminator">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a6bf10d6bd92011750865dd968a65144f" title="DSDDemod::feed" alt="" coords="196,17,323,43"/>
+<area shape="rect" id="node8" href="$d2/d3d/classUDPSink.html#aa2ba670b7705bceca05e3f4a082f0081" title="UDPSink::feed" alt="" coords="204,67,315,94"/>
+<area shape="rect" id="node15" href="$d4/dd5/classBFMDemod.html#ab3b55676fc3e1b8fd62c1a5c73195816" title="BFMDemod::feed" alt="" coords="197,118,322,145"/>
+<area shape="rect" id="node3" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="371,17,571,43"/>
+<area shape="rect" id="node4" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="619,17,839,43"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="900,15,1061,42"/>
+<area shape="rect" id="node6" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1123,5,1313,47"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1389,13,1580,39"/>
+<area shape="rect" id="node9" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="380,67,561,94"/>
+<area shape="rect" id="node10" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="663,67,794,94"/>
+<area shape="rect" id="node11" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="887,67,1075,94"/>
+<area shape="rect" id="node12" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1145,71,1291,98"/>
+<area shape="rect" id="node13" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1361,71,1608,98"/>
+<area shape="rect" id="node14" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1656,71,1831,98"/>
+</map>

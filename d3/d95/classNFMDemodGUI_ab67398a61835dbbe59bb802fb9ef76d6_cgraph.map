@@ -1,0 +1,9 @@
+<map id="NFMDemodGUI::channelMarkerChangedByCursor" name="NFMDemodGUI::channelMarkerChangedByCursor">
+<area shape="rect" id="node2" href="$d3/d95/classNFMDemodGUI.html#ae66bcb97e245277ffcc2f4d0f303ecc3" title="NFMDemodGUI::applySettings" alt="" coords="264,173,468,199"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="555,253,730,295"/>
+<area shape="rect" id="node3" href="$dc/d6d/classNFMDemod_1_1MsgConfigureNFMDemod.html#ab95a5e59be57b5862f16c765a336b6d4" title="NFMDemod::MsgConfigureNFMDemod\l::create" alt="" coords="516,5,769,47"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMDemod_1_1MsgConfigureChannelizer.html#adc2cf052294d0e81d7e4701e492369a8" title="NFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="517,71,768,112"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="559,136,727,177"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="568,202,717,229"/>
+<area shape="rect" id="node4" href="$dc/d6d/classNFMDemod_1_1MsgConfigureNFMDemod.html#abd4a3d0f408b86f640b96c0f69ec9b45" title="NFMDemod::MsgConfigureNFMDemod\l::MsgConfigureNFMDemod" alt="" coords="817,5,1071,47"/>
+</map>

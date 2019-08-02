@@ -1,0 +1,13 @@
+<map id="Preset::resetToDefaults" name="Preset::resetToDefaults">
+<area shape="rect" id="node2" href="$d1/dc7/classPreset.html#a6234f00b24f130c28318063d185e0ba1" title="Preset::deserialize" alt="" coords="249,74,379,101"/>
+<area shape="rect" id="node10" href="$d1/dc7/classPreset.html#a34fdf37bc4100ace8fa1f82f3ee79141" title="Preset::Preset" alt="" coords="261,126,367,153"/>
+<area shape="rect" id="node11" href="$d5/df4/classMainSettings.html#a150638f89e88fd4af0516cb760eef58b" title="MainSettings::resetToDefaults" alt="" coords="215,181,413,207"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#aec7753004075357373512f4d077f8fb2" title="WebAPIAdapterSrv::instance\lPresetFilePut" alt="" coords="464,5,657,47"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="495,71,626,98"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a71d9dab262e232e3cecc05fa66a40773" title="MainWindow::on_presetImport\l_clicked" alt="" coords="461,123,660,164"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="717,46,876,73"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="708,97,885,123"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="952,46,1095,73"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="933,97,1113,123"/>
+<area shape="rect" id="node12" href="$d5/df4/classMainSettings.html#a0323fe490b6cf390957eed234fdb4b60" title="MainSettings::MainSettings" alt="" coords="469,189,652,215"/>
+</map>

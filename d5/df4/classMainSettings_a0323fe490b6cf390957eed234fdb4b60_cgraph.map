@@ -1,0 +1,7 @@
+<map id="MainSettings::MainSettings" name="MainSettings::MainSettings">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#ad553bdd83e58282dc4e06206cdb06e76" title="see QSettings::Format for the values " alt="" coords="242,5,429,32"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#aee1fceaf2f0554399905ff9aafcb68f3" title="MainSettings::getFileLocation" alt="" coords="238,56,433,83"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#a150638f89e88fd4af0516cb760eef58b" title="MainSettings::resetToDefaults" alt="" coords="236,107,435,133"/>
+<area shape="rect" id="node5" href="$d2/d60/classPreferences.html#a63f1a59405d55e26e2c32ee1870795ee" title="Preferences::resetToDefaults" alt="" coords="483,81,676,108"/>
+<area shape="rect" id="node6" href="$d1/dc7/classPreset.html#a3f0b72e2a82a164099a5489613294cfc" title="Preset::resetToDefaults" alt="" coords="499,132,660,159"/>
+</map>

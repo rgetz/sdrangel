@@ -1,0 +1,14 @@
+<map id="LoRaDemod::MsgConfigureLoRaDemod::MsgConfigureLoRaDemod" name="LoRaDemod::MsgConfigureLoRaDemod::MsgConfigureLoRaDemod">
+<area shape="rect" id="node2" href="$d6/d1e/classLoRaDemod_1_1MsgConfigureLoRaDemod.html#a6d680b7416ded7828712f105a290437e" title="LoRaDemod::MsgConfigureLo\lRaDemod::create" alt="" coords="296,125,495,166"/>
+<area shape="rect" id="node3" href="$d7/d10/classLoRaDemod.html#af995717965a7441bd512e91b0dca664a" title="LoRaDemod::deserialize" alt="" coords="563,56,729,83"/>
+<area shape="rect" id="node5" href="$d6/d57/classLoRaDemodGUI.html#a005cd64ebbf82c2bdd710b2a104ffe13" title="LoRaDemodGUI::applySettings" alt="" coords="543,157,749,184"/>
+<area shape="rect" id="node4" href="$d7/d10/classLoRaDemod.html#a772b3732455809f1ac569e0f50b0dc9a" title="Applies to a default stream. " alt="" coords="809,5,1031,32"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#a3c40e2889b52f7dfb64be8361097db14" title="LoRaDemodGUI::setCenterFrequency" alt="" coords="797,56,1043,83"/>
+<area shape="rect" id="node7" href="$d6/d57/classLoRaDemodGUI.html#a84d41f11720a0ad1795f3f76c7eb61b0" title="LoRaDemodGUI::resetToDefaults" alt="" coords="810,107,1030,133"/>
+<area shape="rect" id="node8" href="$d6/d57/classLoRaDemodGUI.html#adbb53b0cd6030f97ae11e58243437338" title="LoRaDemodGUI::deserialize" alt="" coords="1108,145,1297,172"/>
+<area shape="rect" id="node9" href="$d6/d57/classLoRaDemodGUI.html#a1b213f8db340124928cb979e447b99fb" title="LoRaDemodGUI::viewChanged" alt="" coords="817,208,1023,235"/>
+<area shape="rect" id="node10" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="1091,221,1315,248"/>
+<area shape="rect" id="node13" href="$d6/d57/classLoRaDemodGUI.html#a1aa6c044b66106f16ac062bd82801a31" title="LoRaDemodGUI::on_BW\l_valueChanged" alt="" coords="835,310,1005,351"/>
+<area shape="rect" id="node11" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="1363,221,1525,248"/>
+<area shape="rect" id="node12" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1573,221,1796,248"/>
+</map>

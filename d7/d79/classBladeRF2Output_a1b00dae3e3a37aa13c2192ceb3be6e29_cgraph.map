@@ -1,0 +1,26 @@
+<map id="BladeRF2Output::webapiReportGet" name="BladeRF2Output::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a36a5c31a83d9569ff58719832ddbab02" title="SWGSDRangel::SWGDeviceReport\l::getBladeRf2OutputReport" alt="" coords="565,5,799,47"/>
+<area shape="rect" id="node3" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a41e4e3ed29a3fa6ea183b40c493091e4" title="SWGSDRangel::SWGBladeRF2\lOutputReport::init" alt="" coords="293,273,505,315"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a026fa42ea5dc78027a0a9509c5fe14f0" title="SWGSDRangel::SWGDeviceReport\l::setBladeRf2OutputReport" alt="" coords="281,339,516,380"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a76cd758eaf09eb4333f842bde7a44ec2" title="BladeRF2Output::webapiFormat\lDeviceReport" alt="" coords="294,612,503,653"/>
+<area shape="rect" id="node6" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#ab073194886dfc0d208bc96403fc54297" title="SWGSDRangel::SWGBladeRF2\lOutputReport::getBandwidthRange" alt="" coords="569,71,795,112"/>
+<area shape="rect" id="node7" href="$dd/d3f/classDeviceBladeRF2.html#a98f0ed5069c700cf9755725c3c247f1d" title="DeviceBladeRF2::getBandwidth\lRangeTx" alt="" coords="578,136,786,177"/>
+<area shape="rect" id="node8" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a385c6fb87421e3b98af54efcea53bd40" title="SWGSDRangel::SWGBladeRF2\lOutputReport::getFrequencyRange" alt="" coords="569,201,795,243"/>
+<area shape="rect" id="node9" href="$dd/d3f/classDeviceBladeRF2.html#a427baccb7d9a7e7216a9d2cef4a2cbf2" title="DeviceBladeRF2::getFrequency\lRangeTx" alt="" coords="578,267,786,308"/>
+<area shape="rect" id="node10" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a1ec54b5983ff39ce6c57501090ae9cc0" title="SWGSDRangel::SWGBladeRF2\lOutputReport::getGlobalGainRange" alt="" coords="568,332,796,373"/>
+<area shape="rect" id="node11" href="$dd/d3f/classDeviceBladeRF2.html#ac530e8949a46c7590d04d685d8265a78" title="DeviceBladeRF2::getGlobal\lGainRangeTx" alt="" coords="590,397,774,439"/>
+<area shape="rect" id="node12" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#aa066ff8eaee2ddf823d608a7116bc0f9" title="SWGSDRangel::SWGBladeRF2\lOutputReport::getSampleRateRange" alt="" coords="564,463,800,504"/>
+<area shape="rect" id="node13" href="$dd/d3f/classDeviceBladeRF2.html#ae5d3b072d2dfecdc949fb09daa9a2be6" title="DeviceBladeRF2::getSample\lRateRangeTx" alt="" coords="587,528,777,569"/>
+<area shape="rect" id="node14" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="633,594,731,621"/>
+<area shape="rect" id="node15" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="635,645,729,671"/>
+<area shape="rect" id="node16" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a962dd9186e74ea47f4a95ff483ace2e0" title="SWGSDRangel::SWGBladeRF2\lOutputReport::setBandwidthRange" alt="" coords="569,696,795,737"/>
+<area shape="rect" id="node17" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a5e8743ea688012169012910bd1a917d3" title="SWGSDRangel::SWGBladeRF2\lOutputReport::setFrequencyRange" alt="" coords="569,761,795,803"/>
+<area shape="rect" id="node18" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a5f8b07124b3785808af28e2b04f24776" title="SWGSDRangel::SWGBladeRF2\lOutputReport::setGlobalGainRange" alt="" coords="568,827,796,868"/>
+<area shape="rect" id="node19" href="$dd/da7/classSWGSDRangel_1_1SWGFrequencyRange.html#ad6bca39bffaa7788ddc0a6eb8346785b" title="SWGSDRangel::SWGFrequency\lRange::setMax" alt="" coords="575,892,789,933"/>
+<area shape="rect" id="node20" href="$d5/dbf/classSWGSDRangel_1_1SWGRange.html#a9d63d23f048392ae800bca790260acbd" title="SWGSDRangel::SWGRange\l::setMax" alt="" coords="586,957,778,999"/>
+<area shape="rect" id="node21" href="$dd/da7/classSWGSDRangel_1_1SWGFrequencyRange.html#a131257c3e1a56e61c3df725eb6e2008d" title="SWGSDRangel::SWGFrequency\lRange::setMin" alt="" coords="575,1023,789,1064"/>
+<area shape="rect" id="node22" href="$d5/dbf/classSWGSDRangel_1_1SWGRange.html#aeb1ebf2d3e3dec172415caf336887281" title="SWGSDRangel::SWGRange\l::setMin" alt="" coords="586,1088,778,1129"/>
+<area shape="rect" id="node23" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#af4aeca2a8ab120ea27bd8d23e9b2ea4e" title="SWGSDRangel::SWGBladeRF2\lOutputReport::setSampleRateRange" alt="" coords="564,1153,800,1195"/>
+<area shape="rect" id="node24" href="$d5/dbf/classSWGSDRangel_1_1SWGRange.html#a134c2099b30904528f76df4c03f0b5f0" title="SWGSDRangel::SWGRange\l::setStep" alt="" coords="586,1219,778,1260"/>
+<area shape="rect" id="node25" href="$dd/da7/classSWGSDRangel_1_1SWGFrequencyRange.html#a92b87c3cb500817c45ec5aba0c2cf864" title="SWGSDRangel::SWGFrequency\lRange::setStep" alt="" coords="575,1284,789,1325"/>
+</map>

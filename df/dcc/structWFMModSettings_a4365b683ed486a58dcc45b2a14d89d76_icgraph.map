@@ -1,0 +1,13 @@
+<map id="WFMModSettings::resetToDefaults" name="WFMModSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$df/dcc/structWFMModSettings.html#a480230f711f25d25246790f3d1c6998a" title="WFMModSettings::deserialize" alt="" coords="303,56,500,83"/>
+<area shape="rect" id="node4" href="$d6/de3/classWFMMod.html#aee9d1f1373c12e11d5194e9f18cb5d74" title="WFMMod::deserialize" alt="" coords="612,107,761,133"/>
+<area shape="rect" id="node11" href="$d0/d42/classWFMModGUI.html#aa0c4955eb3ad60a6ccbcaf84f5cdb8d6" title="WFMModGUI::resetToDefaults" alt="" coords="299,5,503,32"/>
+<area shape="rect" id="node12" href="$df/dcc/structWFMModSettings.html#aa10eda7484283f9727151822efc45be6" title="WFMModSettings::WFMModSettings" alt="" coords="281,157,521,184"/>
+<area shape="rect" id="node3" href="$d0/d42/classWFMModGUI.html#a3fe09dae83547e6c6f5a0d718702015a" title="WFMModGUI::deserialize" alt="" coords="600,5,773,32"/>
+<area shape="rect" id="node6" href="$df/dcc/structWFMModSettings.html#a83601f26dfa21b296379807539bfc706" title="WFMModSettings::setCWKeyerGUI" alt="" coords="569,56,804,83"/>
+<area shape="rect" id="node5" href="$d6/de3/classWFMMod.html#ab34b298c08dee2ed10fa5bf9e77ae6d7" title="Applies to a default stream. " alt="" coords="852,107,1057,133"/>
+<area shape="rect" id="node7" href="$d0/d42/classWFMModGUI.html#abc1276ad7c1c5241dd16fe53d452c6e0" title="WFMModGUI::WFMModGUI" alt="" coords="859,56,1051,83"/>
+<area shape="rect" id="node8" href="$d0/d42/classWFMModGUI.html#afc9733df91425eb841e54136adc68076" title="WFMModGUI::create" alt="" coords="1105,56,1252,83"/>
+<area shape="rect" id="node9" href="$d2/d9a/classWFMModPlugin.html#af952471df9facda2c9d5b0f79888cdc6" title="WFMModPlugin::createTxChannelGUI" alt="" coords="1300,56,1547,83"/>
+<area shape="rect" id="node10" href="$d2/d9a/classWFMModPlugin.html#ac39779f1604a7e1ccd4ca2a960ca48b6" title="WFMModPlugin::initPlugin" alt="" coords="1595,56,1771,83"/>
+</map>

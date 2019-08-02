@@ -1,0 +1,9 @@
+<map id="SSBModGUI::updateWithStreamTime" name="SSBModGUI::updateWithStreamTime">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a855dcb8b682351262b93781388af86a8" title="SSBModGUI::handleMessage" alt="" coords="587,5,784,32"/>
+<area shape="rect" id="node8" href="$db/d2a/classSSBModGUI.html#a758a6fa486500fcffe1722345a63a6dc" title="SSBModGUI::updateWithStreamData" alt="" coords="296,31,539,57"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#a4511664850ee42cd3e832efbb173c137" title="SSBModGUI::handleSourceMessages" alt="" coords="832,5,1077,32"/>
+<area shape="rect" id="node4" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1125,5,1308,32"/>
+<area shape="rect" id="node5" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1356,5,1499,32"/>
+<area shape="rect" id="node6" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1547,5,1788,32"/>
+<area shape="rect" id="node7" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1836,5,2007,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="LocalInputGui::updateHardware" name="LocalInputGui::updateHardware">
+<area shape="rect" id="node2" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a715e3e794cd4a1c92d2388d4b1de7c6d" title="LocalInput::MsgConfigure\lLocalInput::create" alt="" coords="259,5,429,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="260,71,428,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="269,137,419,163"/>
+<area shape="rect" id="node3" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a3472a8ca5dad9adb4f093c21d0c627c7" title="LocalInput::MsgConfigure\lLocalInput::MsgConfigureLocalInput" alt="" coords="477,5,708,47"/>
+</map>

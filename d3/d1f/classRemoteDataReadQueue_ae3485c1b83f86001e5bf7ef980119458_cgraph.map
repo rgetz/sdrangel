@@ -1,0 +1,6 @@
+<map id="RemoteDataReadQueue::readSample" name="RemoteDataReadQueue::readSample">
+<area shape="rect" id="node2" href="$d3/d1f/classRemoteDataReadQueue.html#ade0839ca6ee50140ee217dc95986c013" title="RemoteDataReadQueue\l::convertDataToSample" alt="" coords="219,23,384,65"/>
+<area shape="rect" id="node5" href="$d3/d1f/classRemoteDataReadQueue.html#aa78abddd56e93343d8b632e7b05b8a55" title="Returns queue length. " alt="" coords="219,89,384,130"/>
+<area shape="rect" id="node3" href="$d0/d9b/structSample.html#aa0fbfa4d4588953f462109abd4f715f0" title="Sample::setImag" alt="" coords="432,5,553,32"/>
+<area shape="rect" id="node4" href="$d0/d9b/structSample.html#a2fc6a7457940b55080c0ee6460250d81" title="Sample::setReal" alt="" coords="433,56,552,83"/>
+</map>

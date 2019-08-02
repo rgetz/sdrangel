@@ -1,0 +1,10 @@
+<map id="FreeDVDemodGUI::channelMarkerChangedByCursor" name="FreeDVDemodGUI::channelMarkerChangedByCursor">
+<area shape="rect" id="node2" href="$da/d3d/classFreeDVDemodGUI.html#a1ae40ea505f107d92540149010685773" title="FreeDVDemodGUI::applySettings" alt="" coords="280,195,500,222"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="581,305,755,347"/>
+<area shape="rect" id="node3" href="$d0/dc6/classFreeDVDemod_1_1MsgConfigureFreeDVDemod.html#a6fbdf602b3e0d2c89d719bb854803d06" title="FreeDVDemod::MsgConfigure\lFreeDVDemod::create" alt="" coords="569,5,767,47"/>
+<area shape="rect" id="node5" href="$d2/de4/classFreeDVDemod_1_1MsgConfigureChannelizer.html#abe96cd82046c1e4078a2d2a6d3343644" title="FreeDVDemod::MsgConfigure\lChannelizer::create" alt="" coords="569,71,767,112"/>
+<area shape="rect" id="node6" href="$de/de0/classFreeDVDemod.html#ab37d6693ba4a7750c4eeed35354d2e78" title="FreeDVDemod::getAudioSampleRate" alt="" coords="548,137,788,163"/>
+<area shape="rect" id="node8" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="584,188,752,229"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="593,254,743,281"/>
+<area shape="rect" id="node4" href="$d0/dc6/classFreeDVDemod_1_1MsgConfigureFreeDVDemod.html#ac35fe909e98469f21e9eaaf439f85066" title="FreeDVDemod::MsgConfigure\lFreeDVDemod::MsgConfigureFreeDVDemod" alt="" coords="836,5,1121,47"/>
+</map>

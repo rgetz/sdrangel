@@ -1,0 +1,8 @@
+<map id="BFMDemodGUI::rdsUpdate" name="BFMDemodGUI::rdsUpdate">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="487,33,705,60"/>
+<area shape="rect" id="node6" href="$d3/df8/classBFMDemodGUI.html#a0b867e6f25620af329e6bcf2c206cbc6" title="BFMDemodGUI::on_clearData\l_clicked" alt="" coords="237,26,439,67"/>
+<area shape="rect" id="node7" href="$d3/df8/classBFMDemodGUI.html#a9f203b8acf3384b6b404050cdae65f55" title="BFMDemodGUI::tick" alt="" coords="265,92,411,118"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="753,33,913,60"/>
+<area shape="rect" id="node4" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="961,33,1180,60"/>
+<area shape="rect" id="node5" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1228,33,1375,60"/>
+</map>

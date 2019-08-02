@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGTestSourceSettings::setIFactor" name="SWGSDRangel::SWGTestSourceSettings::setIFactor">
+<area shape="rect" id="node2" href="$d9/d2b/classTestSourceInput.html#a3502cc8f81c469bd3c5560c67d255dc7" title="TestSourceInput::webapiFormat\lDeviceSettings" alt="" coords="539,57,747,98"/>
+<area shape="rect" id="node6" href="$d9/d2b/classTestSourceInput.html#a36ea14e55c2539240b38aa3737b91e27" title="TestSourceInput::webapiReverse\lSendSettings" alt="" coords="275,141,491,182"/>
+<area shape="rect" id="node3" href="$d9/d2b/classTestSourceInput.html#ad80f8ac80937985575ffa9771b55ebef" title="TestSourceInput::webapiSettingsGet" alt="" coords="795,5,1031,32"/>
+<area shape="rect" id="node5" href="$d9/d2b/classTestSourceInput.html#a84e175de7eba1ebe14a165d0edc27659" title="TestSourceInput::webapiSettings\lPutPatch" alt="" coords="805,57,1020,98"/>
+<area shape="rect" id="node4" href="$d9/d2b/classTestSourceInput.html#a1e8134add18d5b24f054939ffb07b5c4" title="For when the source sample rate is set externally. " alt="" coords="1079,64,1295,91"/>
+<area shape="rect" id="node7" href="$d9/d2b/classTestSourceInput.html#a62072416ddd710a01feae029571840ff" title="TestSourceInput::applySettings" alt="" coords="540,148,745,175"/>
+<area shape="rect" id="node8" href="$d9/d2b/classTestSourceInput.html#aff00c043f6fb62fc1c84b40220390c0c" title="TestSourceInput::handleMessage" alt="" coords="804,123,1021,149"/>
+<area shape="rect" id="node9" href="$d9/d2b/classTestSourceInput.html#ac33252a3f42099343a427efb1149072d" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="841,173,984,200"/>
+<area shape="rect" id="node11" href="$d9/d2b/classTestSourceInput.html#ad9576782a0c0081f8c4e106279a66a08" title="TestSourceInput::start" alt="" coords="837,224,989,251"/>
+<area shape="rect" id="node10" href="$d6/d4f/classTestSourceInput_1_1MsgStartStop.html#ab5d26e197edbd7b6bafe75bbe72e4a2b" title="TestSourceInput::MsgStart\lStop::MsgStartStop" alt="" coords="1097,191,1276,233"/>
+</map>

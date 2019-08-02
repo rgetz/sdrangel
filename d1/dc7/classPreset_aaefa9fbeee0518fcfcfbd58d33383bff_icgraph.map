@@ -1,0 +1,9 @@
+<map id="Preset::setDescription" name="Preset::setDescription">
+<area shape="rect" id="node2" href="$dc/dd8/classWebAPIAdapterSrv.html#aec7753004075357373512f4d077f8fb2" title="WebAPIAdapterSrv::instance\lPresetFilePut" alt="" coords="441,5,635,47"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#a8f72638769fd04d571fe9182cc10e259" title="MainSettings::newPreset" alt="" coords="214,123,382,150"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a6ef20fde9c652deb547e6522671a0762" title="MainWindow::on_presetEdit\l_clicked" alt="" coords="205,175,391,216"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a9f8854be57d97474e4edc17ac4166455" title="WebAPIAdapterGUI::instance\lPresetPost" alt="" coords="439,71,637,112"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a357870b6c38d50f7d3287678f764f1a0" title="WebAPIAdapterSrv::instance\lPresetPost" alt="" coords="441,136,635,177"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a71d9dab262e232e3cecc05fa66a40773" title="MainWindow::on_presetImport\l_clicked" alt="" coords="439,201,637,243"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="442,267,634,308"/>
+</map>

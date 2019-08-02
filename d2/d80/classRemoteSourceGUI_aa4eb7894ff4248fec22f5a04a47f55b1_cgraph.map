@@ -1,0 +1,31 @@
+<map id="RemoteSourceGUI::handleMessage" name="RemoteSourceGUI::handleMessage">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="639,35,679,61"/>
+<area shape="rect" id="node7" href="$d2/d80/classRemoteSourceGUI.html#a94203ae49f51e4a2089e779e1c1e1082" title="RemoteSourceGUI::blockApply\lSettings" alt="" coords="556,86,761,127"/>
+<area shape="rect" id="node8" href="$d2/d80/classRemoteSourceGUI.html#a0f4693660228e173fd07be26df75f4c4" title="RemoteSourceGUI::display\lEventCounts" alt="" coords="305,313,488,354"/>
+<area shape="rect" id="node9" href="$d2/d80/classRemoteSourceGUI.html#a41897c48376a743d8f7554142c2d8428" title="RemoteSourceGUI::display\lEventStatus" alt="" coords="305,378,488,419"/>
+<area shape="rect" id="node10" href="$d2/d80/classRemoteSourceGUI.html#ac8993c92c71b0323ff160fb1fcedc655" title="RemoteSourceGUI::display\lSettings" alt="" coords="305,195,488,237"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="560,421,757,448"/>
+<area shape="rect" id="node17" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#acaf522d3cf1551e95ecd709beb9dc18e" title="RemoteSource::MsgReportStream\lData::get_nbCorrectableErrors" alt="" coords="285,443,508,485"/>
+<area shape="rect" id="node18" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a1f4de454a93ec44ac8477f085bfa335c" title="RemoteSource::MsgReportStream\lData::get_nbFECBlocks" alt="" coords="285,509,508,550"/>
+<area shape="rect" id="node19" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a4d8d5430162ddf6cb14ef4d786b8cb93" title="RemoteSource::MsgReportStream\lData::get_nbOriginalBlocks" alt="" coords="285,574,508,615"/>
+<area shape="rect" id="node20" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a98dfa633abe72b70081049a9e88bcdf2" title="RemoteSource::MsgReportStream\lData::get_nbUncorrectableErrors" alt="" coords="285,639,508,681"/>
+<area shape="rect" id="node21" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#af0dc696af5f21644de5bacf6d966368c" title="RemoteSource::MsgReportStream\lData::get_queueLength" alt="" coords="285,705,508,746"/>
+<area shape="rect" id="node22" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a2dd3d41266912f18a6eded69091d7596" title="RemoteSource::MsgReportStream\lData::get_queueSize" alt="" coords="285,770,508,811"/>
+<area shape="rect" id="node23" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a20ec363d5992f237357e274da880fc01" title="RemoteSource::MsgReportStream\lData::get_readSamplesCount" alt="" coords="285,835,508,877"/>
+<area shape="rect" id="node24" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a9f4288e12c4eba58cc156ce820ec009e" title="RemoteSource::MsgReportStream\lData::get_sampleRate" alt="" coords="285,901,508,942"/>
+<area shape="rect" id="node25" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a9535d4ab5ee9b51f2502ef80382b86d2" title="RemoteSource::MsgReportStream\lData::get_tv_sec" alt="" coords="285,966,508,1007"/>
+<area shape="rect" id="node26" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#ab7b355d6d5624e3521a1e21620ed644e" title="RemoteSource::MsgReportStream\lData::get_tv_usec" alt="" coords="285,1031,508,1073"/>
+<area shape="rect" id="node27" href="$dd/d9a/classRemoteSource_1_1MsgSampleRateNotification.html#ada86b25af2666150fc2ec796e77b1d56" title="RemoteSource::MsgSampleRate\lNotification::getSampleRate" alt="" coords="289,1097,504,1138"/>
+<area shape="rect" id="node28" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#aad111feeaabdc0d13dfb0c27b9a9dff9" title="RemoteSource::MsgConfigure\lRemoteSource::getSettings" alt="" coords="297,1162,496,1203"/>
+<area shape="rect" id="node29" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="337,1228,456,1255"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="809,35,917,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="965,57,1113,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1169,5,1288,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1161,57,1296,98"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="578,253,739,280"/>
+<area shape="rect" id="node13" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="571,305,746,346"/>
+<area shape="rect" id="node14" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="575,371,742,397"/>
+<area shape="rect" id="node15" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="578,152,739,179"/>
+<area shape="rect" id="node16" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="567,203,750,229"/>
+<area shape="rect" id="node30" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="574,1228,743,1255"/>
+</map>

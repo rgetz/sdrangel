@@ -1,0 +1,5 @@
+<map id="KiwiSDRInput::getStatus" name="KiwiSDRInput::getStatus">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#a917bf80b0ff5a23626ee8a16d1a0d2f8" title="KiwiSDRInput::webapiFormat\lDeviceReport" alt="" coords="223,5,417,47"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#a9a57a0363d365eefd7967ed9dc0323d7" title="KiwiSDRInput::webapiReportGet" alt="" coords="465,13,680,39"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="728,13,931,39"/>
+</map>

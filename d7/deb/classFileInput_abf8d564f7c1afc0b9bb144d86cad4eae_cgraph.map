@@ -1,0 +1,14 @@
+<map id="FileInput::webapiSettingsGet" name="FileInput::webapiSettingsGet">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab2be68e8b2dbc2487e176e16321345e7" title="SWGSDRangel::SWGDeviceSettings\l::getFileInputSettings" alt="" coords="535,5,777,47"/>
+<area shape="rect" id="node3" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a812bb1b22fae1bd194b06c49d4d90076" title="SWGSDRangel::SWGFileInput\lSettings::init" alt="" coords="263,84,467,125"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a2849b8c626e0014122898973423e6515" title="SWGSDRangel::SWGDeviceSettings\l::setFileInputSettings" alt="" coords="244,149,487,191"/>
+<area shape="rect" id="node5" href="$d7/deb/classFileInput.html#ac01f72d869bf8285adee243173629786" title="FileInput::webapiFormatDevice\lSettings" alt="" coords="264,235,467,276"/>
+<area shape="rect" id="node6" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a9a28ffe80add9115889ee01ce2151568" title="SWGSDRangel::SWGFileInput\lSettings::getReverseApiAddress" alt="" coords="550,71,762,112"/>
+<area shape="rect" id="node7" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a056470fa8764426d4b45a37a4ecf37d1" title="SWGSDRangel::SWGFileInput\lSettings::setAccelerationFactor" alt="" coords="553,136,759,177"/>
+<area shape="rect" id="node8" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a753a27f2f6da0090d70fbbcee6319fbf" title="SWGSDRangel::SWGFileInput\lSettings::setFileName" alt="" coords="554,201,758,243"/>
+<area shape="rect" id="node9" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a2020741cc0488b50de45e7e0000eb04d" title="SWGSDRangel::SWGFileInput\lSettings::setLoop" alt="" coords="554,267,758,308"/>
+<area shape="rect" id="node10" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a49c1c3ff78a1112df895827851f2b04b" title="SWGSDRangel::SWGFileInput\lSettings::setReverseApiAddress" alt="" coords="550,332,762,373"/>
+<area shape="rect" id="node11" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a326c54a5084c81b0e1d55e35bb22e30e" title="SWGSDRangel::SWGFileInput\lSettings::setReverseApiDeviceIndex" alt="" coords="537,397,775,439"/>
+<area shape="rect" id="node12" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#ae6a1cda082a4d0d0b52618e42023c628" title="SWGSDRangel::SWGFileInput\lSettings::setReverseApiPort" alt="" coords="554,463,758,504"/>
+<area shape="rect" id="node13" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#a9607bb6095004d54e4cee2ff5b5fb854" title="SWGSDRangel::SWGFileInput\lSettings::setUseReverseApi" alt="" coords="554,528,758,569"/>
+</map>

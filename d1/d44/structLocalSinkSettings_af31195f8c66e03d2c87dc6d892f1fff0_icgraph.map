@@ -1,0 +1,13 @@
+<map id="LocalSinkSettings::resetToDefaults" name="LocalSinkSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$d1/d44/structLocalSinkSettings.html#ac34c0ec08b4e38c60ad89ad04ceaedab" title="LocalSinkSettings::\ldeserialize" alt="" coords="223,57,357,98"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#a3506bb42a4936928936956a74fccd1f6" title="LocalSink::deserialize" alt="" coords="452,5,601,32"/>
+<area shape="rect" id="node11" href="$d1/d44/structLocalSinkSettings.html#a2be7d3bebb7114af4ef1a29ae0d2ee76" title="LocalSinkSettings::\lLocalSinkSettings" alt="" coords="223,122,357,163"/>
+<area shape="rect" id="node12" href="$d1/d43/classLocalSinkGUI.html#a5b0e4344863113d0c2c0212975b620c5" title="LocalSinkGUI::resetToDefaults" alt="" coords="188,188,392,215"/>
+<area shape="rect" id="node3" href="$d1/d43/classLocalSinkGUI.html#a6792b081af5df7acfa27cfea056081b7" title="LocalSinkGUI::deserialize" alt="" coords="440,155,613,181"/>
+<area shape="rect" id="node6" href="$d1/d44/structLocalSinkSettings.html#a138eea398636efe464723868438b115c" title="LocalSinkSettings::\lsetChannelMarker" alt="" coords="459,57,594,98"/>
+<area shape="rect" id="node5" href="$da/d9d/classLocalSink.html#a4cb7a218e0cc717723dfc3585489bf31" title="Applies to a default stream. " alt="" coords="661,5,867,32"/>
+<area shape="rect" id="node7" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="668,64,860,91"/>
+<area shape="rect" id="node8" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="915,64,1061,91"/>
+<area shape="rect" id="node9" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="1109,57,1285,98"/>
+<area shape="rect" id="node10" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="1333,64,1509,91"/>
+</map>

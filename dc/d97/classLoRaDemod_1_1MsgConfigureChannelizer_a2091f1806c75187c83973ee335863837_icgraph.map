@@ -1,0 +1,11 @@
+<map id="LoRaDemod::MsgConfigureChannelizer::create" name="LoRaDemod::MsgConfigureChannelizer::create">
+<area shape="rect" id="node2" href="$d6/d57/classLoRaDemodGUI.html#a005cd64ebbf82c2bdd710b2a104ffe13" title="LoRaDemodGUI::applySettings" alt="" coords="307,132,513,159"/>
+<area shape="rect" id="node3" href="$d6/d57/classLoRaDemodGUI.html#a3c40e2889b52f7dfb64be8361097db14" title="LoRaDemodGUI::setCenterFrequency" alt="" coords="561,5,807,32"/>
+<area shape="rect" id="node4" href="$d6/d57/classLoRaDemodGUI.html#a84d41f11720a0ad1795f3f76c7eb61b0" title="LoRaDemodGUI::resetToDefaults" alt="" coords="574,56,794,83"/>
+<area shape="rect" id="node5" href="$d6/d57/classLoRaDemodGUI.html#adbb53b0cd6030f97ae11e58243437338" title="LoRaDemodGUI::deserialize" alt="" coords="872,95,1061,121"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#a1b213f8db340124928cb979e447b99fb" title="LoRaDemodGUI::viewChanged" alt="" coords="581,157,787,184"/>
+<area shape="rect" id="node7" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="855,171,1079,197"/>
+<area shape="rect" id="node10" href="$d6/d57/classLoRaDemodGUI.html#a1aa6c044b66106f16ac062bd82801a31" title="LoRaDemodGUI::on_BW\l_valueChanged" alt="" coords="599,259,769,301"/>
+<area shape="rect" id="node8" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="1127,171,1289,197"/>
+<area shape="rect" id="node9" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1337,171,1560,197"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ATVDemod::MsgReportChannelSampleRateChanged::getSampleRate" name="ATVDemod::MsgReportChannelSampleRateChanged::getSampleRate">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#ae7c35af8b6c0489893987161dfc5c42c" title="ATVDemodGUI::handleMessage" alt="" coords="297,13,511,39"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a768c72bf3838c170119f95f0bb2e8331" title="ATVDemodGUI::handleSource\lMessages" alt="" coords="559,5,760,47"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="808,13,1023,39"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1071,13,1229,39"/>
+<area shape="rect" id="node6" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1277,5,1464,47"/>
+</map>

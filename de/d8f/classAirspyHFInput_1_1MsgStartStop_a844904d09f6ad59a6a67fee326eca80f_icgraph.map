@@ -1,0 +1,9 @@
+<map id="AirspyHFInput::MsgStartStop::getStartStop" name="AirspyHFInput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$d6/d2f/classAirspyHFGui.html#aa5e34426758bda4bdf2be0da66ee17bf" title="AirspyHFGui::handleMessage" alt="" coords="253,17,449,43"/>
+<area shape="rect" id="node5" href="$d2/d00/classAirspyHFInput.html#a82e515162967e6eceae2aaa307d30df3" title="AirspyHFInput::handleMessage" alt="" coords="248,71,453,98"/>
+<area shape="rect" id="node3" href="$d6/d2f/classAirspyHFGui.html#af7165202db4abfaff6eef942f18f2e14" title="AirspyHFGui::handleInput\lMessages" alt="" coords="503,5,675,47"/>
+<area shape="rect" id="node4" href="$d6/d2f/classAirspyHFGui.html#aea13be5541f92d02861ea15d55940ca9" title="AirspyHFGui::AirspyHFGui" alt="" coords="733,13,913,39"/>
+<area shape="rect" id="node6" href="$d2/d00/classAirspyHFInput.html#a5dc37f4555107ec0badd0749bb37894e" title="AirspyHFInput::getSample\lRates" alt="" coords="501,71,677,112"/>
+<area shape="rect" id="node7" href="$d2/d00/classAirspyHFInput.html#a1d9e33f17961c59899bb2bb9e556a7c0" title="AirspyHFInput::webapiFormat\lDeviceReport" alt="" coords="725,67,921,108"/>
+<area shape="rect" id="node8" href="$d2/d00/classAirspyHFInput.html#adb85453a3249fc95d59eaea43a759338" title="AirspyHFInput::webapiReportGet" alt="" coords="969,103,1184,130"/>
+</map>

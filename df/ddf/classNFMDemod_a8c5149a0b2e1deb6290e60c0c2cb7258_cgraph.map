@@ -1,0 +1,19 @@
+<map id="NFMDemod::deserialize" name="NFMDemod::deserialize">
+<area shape="rect" id="node2" href="$dc/d6d/classNFMDemod_1_1MsgConfigureNFMDemod.html#ab95a5e59be57b5862f16c765a336b6d4" title="NFMDemod::MsgConfigureNFMDemod\l::create" alt="" coords="216,43,469,84"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMDemod_1_1MsgConfigureChannelizer.html#adc2cf052294d0e81d7e4701e492369a8" title="NFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="217,144,468,185"/>
+<area shape="rect" id="node5" href="$d7/d3b/structNFMDemodSettings.html#ad670deee2c702ee23a7ef5b4baa3df46" title="NFMDemodSettings::deserialize" alt="" coords="237,333,448,359"/>
+<area shape="rect" id="node7" href="$d7/d3b/structNFMDemodSettings.html#aafcfec142a9db3e37b6b0657cf0e305f" title="NFMDemodSettings::resetTo\lDefaults" alt="" coords="547,71,741,112"/>
+<area shape="rect" id="node18" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="268,383,417,410"/>
+<area shape="rect" id="node3" href="$dc/d6d/classNFMDemod_1_1MsgConfigureNFMDemod.html#abd4a3d0f408b86f640b96c0f69ec9b45" title="NFMDemod::MsgConfigureNFMDemod\l::MsgConfigureNFMDemod" alt="" coords="517,5,771,47"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="579,136,709,177"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="579,201,709,243"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="579,267,709,308"/>
+<area shape="rect" id="node10" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="565,333,723,359"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="579,384,709,425"/>
+<area shape="rect" id="node13" href="$d7/d3b/structNFMDemodSettings.html#a59677853bfda73c4bf27225e5c43d58d" title="NFMDemodSettings::getRFBW" alt="" coords="541,450,747,477"/>
+<area shape="rect" id="node14" href="$d7/d3b/structNFMDemodSettings.html#afc92a789b8c4bcefc5c5f51a3622e5f7" title="NFMDemodSettings::getFMDev" alt="" coords="539,501,749,527"/>
+<area shape="rect" id="node15" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="579,552,709,593"/>
+<area shape="rect" id="node16" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="579,617,709,659"/>
+<area shape="rect" id="node17" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="579,683,709,724"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="819,552,949,593"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="DSPSetSource" name="DSPSetSource">
+<area shape="rect" id="node2" href="$d6/d28/classMessage.html" title="Message" alt="" coords="5,109,80,136"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="105,109,253,136"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="38,5,151,32"/>
+<area shape="rect" id="node5" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="205,5,320,32"/>
+</map>

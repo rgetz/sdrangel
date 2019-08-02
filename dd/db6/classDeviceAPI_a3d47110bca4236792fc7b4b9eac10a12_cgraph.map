@@ -1,0 +1,6 @@
+<map id="DeviceAPI::addAncillarySink" name="DeviceAPI::addAncillarySink">
+<area shape="rect" id="node2" href="$df/d80/classDSPDeviceMIMOEngine.html#ab21b3ebdbdbb9cc629ada14e2828e2e9" title="Add an ancillary sink like a I/Q recorder. " alt="" coords="247,5,413,47"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a34ea36e3a469a3d6b4e64f74448f041b" title="Add a sample sink. " alt="" coords="244,71,416,112"/>
+<area shape="rect" id="node5" href="$d1/d90/classDSPDeviceSinkEngine.html#acfed8e09a20655be97998ec4425462ea" title="Add a spectrum vis baseband sample sink. " alt="" coords="251,136,409,177"/>
+<area shape="rect" id="node3" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="464,78,643,105"/>
+</map>

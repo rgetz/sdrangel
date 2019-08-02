@@ -1,0 +1,22 @@
+<map id="DeviceAPI::getChanelSinkAPIAt" name="DeviceAPI::getChanelSinkAPIAt">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a2d237ce340ceb7e832ca4a47c9f1f07e" title="WebAPIAdapterGUI::deviceset\lChannelReportGet" alt="" coords="243,5,447,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ae0207e747e826b0e77bd82bf751eb5b2" title="WebAPIAdapterSrv::deviceset\lChannelReportGet" alt="" coords="245,71,445,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a2ddfa40eea2ef4cb8640849dffd55839" title="WebAPIAdapterGUI::deviceset\lChannelSettingsGet" alt="" coords="243,136,447,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#acd25c51ddecb96dfb6a406b8ccc57f97" title="WebAPIAdapterSrv::deviceset\lChannelSettingsGet" alt="" coords="245,201,445,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#af3d377913a22331aa24db4337c23fec9" title="WebAPIAdapterGUI::deviceset\lChannelSettingsPutPatch" alt="" coords="243,267,447,308"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#ab277164f47756ff527061807af8ad4e8" title="WebAPIAdapterSrv::deviceset\lChannelSettingsPutPatch" alt="" coords="245,332,445,373"/>
+<area shape="rect" id="node8" href="$d7/de5/classWebAPIAdapterGUI.html#acb4d0cde800ba39326c2a6f576a596b6" title="WebAPIAdapterGUI::getChannels\lDetail" alt="" coords="235,397,456,439"/>
+<area shape="rect" id="node10" href="$dc/dd8/classWebAPIAdapterSrv.html#ad5ef8eb3681cd995157c7700e55c1365" title="WebAPIAdapterSrv::getChannels\lDetail" alt="" coords="237,463,454,504"/>
+<area shape="rect" id="node12" href="$d7/de5/classWebAPIAdapterGUI.html#ae8408681de3ae1e10c4eb2901ddb6331" title="WebAPIAdapterGUI::getDeviceSet" alt="" coords="232,529,459,555"/>
+<area shape="rect" id="node17" href="$dc/dd8/classWebAPIAdapterSrv.html#a55b81997a76f257027f93bb93dec5b00" title="WebAPIAdapterSrv::getDeviceSet" alt="" coords="234,646,457,673"/>
+<area shape="rect" id="node9" href="$d7/de5/classWebAPIAdapterGUI.html#af0589b71df18ec63cf440bf577cb4747" title="WebAPIAdapterGUI::deviceset\lChannelsReportGet" alt="" coords="517,397,721,439"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#a86c8f18208dfa61f6841c08bb6317c7b" title="WebAPIAdapterSrv::deviceset\lChannelsReportGet" alt="" coords="519,463,719,504"/>
+<area shape="rect" id="node13" href="$d7/de5/classWebAPIAdapterGUI.html#a8509c64805904ff75d5ea925d1235f34" title="WebAPIAdapterGUI::devicesetGet" alt="" coords="507,529,732,555"/>
+<area shape="rect" id="node14" href="$d7/de5/classWebAPIAdapterGUI.html#a22c80d026f881097c4c88407a46b5170" title="WebAPIAdapterGUI::getDevice\lSetList" alt="" coords="516,580,723,621"/>
+<area shape="rect" id="node15" href="$d7/de5/classWebAPIAdapterGUI.html#ac6fa7af9e7a689560d0db3c4bc3a8551" title="WebAPIAdapterGUI::instance\lSummary" alt="" coords="780,528,977,569"/>
+<area shape="rect" id="node16" href="$d7/de5/classWebAPIAdapterGUI.html#a958205ade4e15568ae607d7eaa1b8c5a" title="WebAPIAdapterGUI::instance\lDeviceSetsGet" alt="" coords="780,593,977,635"/>
+<area shape="rect" id="node18" href="$dc/dd8/classWebAPIAdapterSrv.html#a48a3c10e6438cced9c93858220ec396a" title="WebAPIAdapterSrv::devicesetGet" alt="" coords="509,646,730,673"/>
+<area shape="rect" id="node19" href="$dc/dd8/classWebAPIAdapterSrv.html#acd14171d866dc149c860efab28f097e8" title="WebAPIAdapterSrv::getDevice\lSetList" alt="" coords="518,697,721,739"/>
+<area shape="rect" id="node20" href="$dc/dd8/classWebAPIAdapterSrv.html#a505535853574106c725f94efa3f67d17" title="WebAPIAdapterSrv::instance\lSummary" alt="" coords="782,684,975,725"/>
+<area shape="rect" id="node21" href="$dc/dd8/classWebAPIAdapterSrv.html#a2797184f69a2f61a13d5dc8fc511ab7a" title="WebAPIAdapterSrv::instance\lDeviceSetsGet" alt="" coords="782,749,975,791"/>
+</map>

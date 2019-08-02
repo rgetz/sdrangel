@@ -1,0 +1,8 @@
+<map id="Bladerf1InputGui::on_vga2_valueChanged" name="Bladerf1InputGui::on_vga2_valueChanged">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="281,35,321,61"/>
+<area shape="rect" id="node7" href="$d1/d5e/classBladerf1InputGui.html#a92672e2cec6550a40c8c8c5095c780f8" title="Bladerf1InputGui::sendSettings" alt="" coords="200,85,403,112"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="451,35,559,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="811,5,929,32"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="607,57,755,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="803,57,937,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="HackRFInput::MsgConfigureHackRF::create" name="HackRFInput::MsgConfigureHackRF::create">
+<area shape="rect" id="node2" href="$d2/d57/classHackRFInput.html#a9bc5c49863551119967197a4e3348ad5" title="HackRFInput::deserialize" alt="" coords="271,13,441,39"/>
+<area shape="rect" id="node4" href="$d2/d57/classHackRFInput.html#a75a77fa8c78b7dabafd8435056c483a7" title="HackRFInput::handleMessage" alt="" coords="257,63,455,90"/>
+<area shape="rect" id="node6" href="$d2/d57/classHackRFInput.html#ac3d36d5436a8bf34070a30a0fd4cf3d7" title="HackRFInput::setCenterFrequency" alt="" coords="243,114,469,141"/>
+<area shape="rect" id="node7" href="$df/d85/classHackRFInputGui.html#aa7b9d70278af305e34cb520d5ec09d5c" title="HackRFInputGui::updateHardware" alt="" coords="245,231,467,258"/>
+<area shape="rect" id="node9" href="$d2/d57/classHackRFInput.html#a901ec9863d032ea6b20c65f527e219e3" title="HackRFInput::webapiSettings\lPutPatch" alt="" coords="257,165,455,207"/>
+<area shape="rect" id="node3" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#ad7f973dae01345d8d7e1b6606d8e497e" title="HackRFInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="533,5,729,47"/>
+<area shape="rect" id="node5" href="$d2/d57/classHackRFInput.html#a4a0867e41233fc777459b2479b9e2942" title="For when the source sample rate is set externally. " alt="" coords="531,114,730,141"/>
+<area shape="rect" id="node8" href="$df/d85/classHackRFInputGui.html#a4e4ce338e76aaef5f7d739e497d2887f" title="HackRFInputGui::HackRFInputGui" alt="" coords="517,231,744,258"/>
+</map>

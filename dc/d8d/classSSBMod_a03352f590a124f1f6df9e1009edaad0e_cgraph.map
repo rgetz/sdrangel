@@ -1,0 +1,29 @@
+<map id="SSBMod::getCenterFrequency" name="SSBMod::getCenterFrequency">
+<area shape="rect" id="node2" href="$dc/d8d/classSSBMod.html#a6de052496251481d882f6518f9763be3" title="SSBMod::deserialize" alt="" coords="253,326,397,353"/>
+<area shape="rect" id="node18" href="$dc/d8d/classSSBMod.html#abbd8d4219a600ab44abdcf5ca408ea43" title="SSBMod::serialize" alt="" coords="260,613,391,639"/>
+<area shape="rect" id="node3" href="$dd/d7e/classSSBMod_1_1MsgConfigureSSBMod.html#a1d551d4614c4a6ede45afa3501f42bc2" title="SSBMod::MsgConfigureSSBMod\l::create" alt="" coords="445,57,660,99"/>
+<area shape="rect" id="node5" href="$d4/d8d/structSSBModSettings.html#aa3182cfd8c535a0cbbbe9e10f370bba3" title="SSBModSettings::deserialize" alt="" coords="457,326,649,353"/>
+<area shape="rect" id="node7" href="$d4/d8d/structSSBModSettings.html#ae71c6ca64fbab26df96e1d9a28f0e5f8" title="SSBModSettings::resetToDefaults" alt="" coords="708,71,931,98"/>
+<area shape="rect" id="node17" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="478,377,627,403"/>
+<area shape="rect" id="node4" href="$dd/d7e/classSSBMod_1_1MsgConfigureSSBMod.html#a3133bb46fb386ee6835943d6d5d87a24" title="SSBMod::MsgConfigureSSBMod\l::MsgConfigureSSBMod" alt="" coords="712,5,927,47"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="754,123,885,164"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="754,188,885,229"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="754,253,885,295"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="754,319,885,360"/>
+<area shape="rect" id="node12" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="740,385,899,411"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="754,436,885,477"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="754,501,885,543"/>
+<area shape="rect" id="node15" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="754,567,885,608"/>
+<area shape="rect" id="node16" href="$d2/d0e/classSimpleDeserializer.html#a384f1751e99b33e3949207db6edbcb86" title="SimpleDeserializer\l::readReal" alt="" coords="754,632,885,673"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1001,469,1131,511"/>
+<area shape="rect" id="node19" href="$d4/d8d/structSSBModSettings.html#aefe2db9a8a88504b0b64a6d185de9837" title="SSBModSettings::serialize" alt="" coords="463,850,642,877"/>
+<area shape="rect" id="node20" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="732,698,907,725"/>
+<area shape="rect" id="node22" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="730,749,909,775"/>
+<area shape="rect" id="node23" href="$d6/dcb/classSerializable.html#a986c38f88c57f15206278ac65244f3f6" title="Serializable::serialize" alt="" coords="747,799,892,826"/>
+<area shape="rect" id="node24" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="731,850,907,877"/>
+<area shape="rect" id="node25" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="730,901,909,927"/>
+<area shape="rect" id="node26" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="726,951,913,978"/>
+<area shape="rect" id="node27" href="$d9/d39/classSimpleSerializer.html#a5b7538a4f71aea1a1bf489bb57098fbe" title="SimpleSerializer::writeReal" alt="" coords="730,1002,909,1029"/>
+<area shape="rect" id="node28" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="745,1053,893,1079"/>
+<area shape="rect" id="node21" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="979,850,1153,877"/>
+</map>

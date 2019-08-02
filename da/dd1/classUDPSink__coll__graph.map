@@ -1,0 +1,41 @@
+<map id="UDPSink" name="UDPSink">
+<area shape="rect" id="node2" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="325,737,475,764"/>
+<area shape="rect" id="node7" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="703,579,870,605"/>
+<area shape="rect" id="node11" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="708,444,865,471"/>
+<area shape="rect" id="node22" href="$da/d0a/classDownChannelizer.html" title="DownChannelizer" alt="" coords="724,712,849,739"/>
+<area shape="rect" id="node23" href="$d4/dc7/classThreadedBasebandSampleSink.html" title="ThreadedBasebandSampleSink" alt="" coords="1164,815,1368,841"/>
+<area shape="rect" id="node24" href="$d7/d24/classThreadedBasebandSampleSinkFifo.html" title="ThreadedBasebandSampleSinkFifo" alt="" coords="673,876,900,903"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,471,127,497"/>
+<area shape="rect" id="node10" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="329,647,471,673"/>
+<area shape="rect" id="node12" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="333,320,467,347"/>
+<area shape="rect" id="node14" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="701,257,873,284"/>
+<area shape="rect" id="node15" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="326,471,474,497"/>
+<area shape="rect" id="node4" href="$d7/d02/classChannelAPI.html" title="ChannelAPI" alt="" coords="1579,587,1671,613"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1223,579,1309,605"/>
+<area shape="rect" id="node6" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="732,629,841,656"/>
+<area shape="rect" id="node8" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="342,521,458,548"/>
+<area shape="rect" id="node9" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,760,107,787"/>
+<area shape="rect" id="node13" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,305,135,332"/>
+<area shape="rect" id="node16" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,1092,127,1119"/>
+<area shape="rect" id="node17" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="320,29,480,70"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="330,115,470,157"/>
+<area shape="rect" id="node19" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="325,181,475,222"/>
+<area shape="rect" id="node20" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="721,207,853,233"/>
+<area shape="rect" id="node21" href="$d0/de4/classMovingAverage.html" title="MovingAverage\&lt; double \&gt;" alt="" coords="699,931,874,957"/>
+<area shape="rect" id="node36" href="$d5/d56/classAGC.html" title="AGC" alt="" coords="1241,933,1291,960"/>
+<area shape="rect" id="node25" href="$dc/d57/classUDPSinkUtil.html" title="UDPSinkUtil\&lt; UDPSink\l::Sample16 \&gt;" alt="" coords="1543,978,1707,1019"/>
+<area shape="rect" id="node26" href="$dd/d85/structUDPSink_1_1Sample16.html" title="UDPSink::Sample16" alt="" coords="1195,985,1337,1012"/>
+<area shape="rect" id="node27" href="$dc/dd8/classAudioFifo.html" title="AudioFifo" alt="" coords="1586,1044,1663,1071"/>
+<area shape="rect" id="node28" href="$d9/d04/classNCO.html" title="NCO" alt="" coords="1599,1095,1651,1121"/>
+<area shape="rect" id="node29" href="$db/d3d/structUDPSinkSettings.html" title="UDPSinkSettings" alt="" coords="1562,1145,1687,1172"/>
+<area shape="rect" id="node30" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="1221,1145,1311,1172"/>
+<area shape="rect" id="node31" href="$dc/d57/classUDPSinkUtil.html" title="UDPSinkUtil\&lt; int16_t \&gt;" alt="" coords="1545,1196,1705,1223"/>
+<area shape="rect" id="node32" href="$dd/ddd/classBandpass.html" title="Bandpass\&lt; double \&gt;" alt="" coords="1553,1247,1696,1273"/>
+<area shape="rect" id="node33" href="$dc/d57/classUDPSinkUtil.html" title="UDPSinkUtil\&lt; UDPSink\l::Sample24 \&gt;" alt="" coords="1543,1298,1707,1339"/>
+<area shape="rect" id="node34" href="$de/df3/structUDPSink_1_1Sample24.html" title="UDPSink::Sample24" alt="" coords="1195,1305,1337,1332"/>
+<area shape="rect" id="node35" href="$d7/de9/classMagAGC.html" title="MagAGC" alt="" coords="1587,927,1663,953"/>
+<area shape="rect" id="node37" href="$d0/de5/classfftfilt.html" title="fftfilt" alt="" coords="1601,1415,1649,1441"/>
+<area shape="rect" id="node38" href="$d9/daf/classg__fft.html" title="g_fft\&lt; float \&gt;" alt="" coords="1217,1421,1315,1448"/>
+<area shape="rect" id="node39" href="$d3/df3/classInterpolator.html" title="Interpolator" alt="" coords="1581,1465,1668,1492"/>
+<area shape="rect" id="node40" href="$db/d1b/classPhaseDiscriminators.html" title="PhaseDiscriminators" alt="" coords="1553,1516,1696,1543"/>
+</map>

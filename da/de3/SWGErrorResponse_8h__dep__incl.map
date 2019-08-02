@@ -1,0 +1,20 @@
+<map id="swagger/sdrangel/code/qt5/client/SWGErrorResponse.h" name="swagger/sdrangel/code/qt5/client/SWGErrorResponse.h">
+<area shape="rect" id="node2" href="$d9/dc5/webapiadapterinterface_8h.html" title="sdrbase/webapi/webapiadapterinterface.h" alt="" coords="659,102,922,129"/>
+<area shape="rect" id="node5" href="$dc/d9e/webapirequestmapper_8cpp.html" title="sdrbase/webapi/webapirequestmapper.cpp" alt="" coords="872,273,1141,300"/>
+<area shape="rect" id="node10" href="$d3/d3d/webapiadaptergui_8cpp.html" title="sdrgui/webapi/webapiadaptergui.cpp" alt="" coords="5,273,237,300"/>
+<area shape="rect" id="node12" href="$dc/d5a/webapiadaptersrv_8cpp.html" title="sdrsrv/webapi/webapiadaptersrv.cpp" alt="" coords="1168,273,1403,300"/>
+<area shape="rect" id="node13" href="$dd/ddd/SWGDeviceSetApi_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGDeviceSetApi.h" alt="" coords="1327,95,1534,136"/>
+<area shape="rect" id="node15" href="$dc/d98/SWGModelFactory_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGModelFactory.h" alt="" coords="1559,95,1764,136"/>
+<area shape="rect" id="node18" href="$d2/d66/SWGErrorResponse_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGErrorResponse.cpp" alt="" coords="1788,95,2015,136"/>
+<area shape="rect" id="node19" href="$d2/dfa/SWGInstanceApi_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGInstanceApi.h" alt="" coords="2039,95,2233,136"/>
+<area shape="rect" id="node3" href="$d3/d70/webapiadapterinterface_8cpp.html" title="sdrbase/webapi/webapiadapterinterface.cpp" alt="" coords="925,191,1201,218"/>
+<area shape="rect" id="node4" href="$db/deb/webapirequestmapper_8h.html" title="sdrbase/webapi/webapirequestmapper.h" alt="" coords="402,191,657,218"/>
+<area shape="rect" id="node9" href="$da/d24/webapiadaptergui_8h.html" title="sdrgui/webapi/webapiadaptergui.h" alt="" coords="159,191,377,218"/>
+<area shape="rect" id="node11" href="$dc/d73/webapiadaptersrv_8h.html" title="sdrsrv/webapi/webapiadaptersrv.h" alt="" coords="681,191,901,218"/>
+<area shape="rect" id="node6" href="$d3/d94/webapiserver_8cpp.html" title="sdrbase/webapi/webapiserver.cpp" alt="" coords="445,273,664,300"/>
+<area shape="rect" id="node7" href="$d8/dd9/mainwindow_8cpp.html" title="sdrgui/mainwindow.cpp" alt="" coords="262,273,421,300"/>
+<area shape="rect" id="node8" href="$de/d44/maincore_8cpp.html" title="sdrsrv/maincore.cpp" alt="" coords="701,273,841,300"/>
+<area shape="rect" id="node14" href="$d8/d6b/SWGDeviceSetApi_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGDeviceSetApi.cpp" alt="" coords="1327,184,1547,225"/>
+<area shape="rect" id="node16" href="$d6/d32/SWGHelpers_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGHelpers.cpp" alt="" coords="1571,184,1757,225"/>
+<area shape="rect" id="node17" href="$d4/df9/SWGInstanceApi_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGInstanceApi.cpp" alt="" coords="1906,184,2115,225"/>
+</map>

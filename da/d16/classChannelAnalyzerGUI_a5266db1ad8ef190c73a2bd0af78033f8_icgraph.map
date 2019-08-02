@@ -1,0 +1,12 @@
+<map id="ChannelAnalyzerGUI::setNewFinalRate" name="ChannelAnalyzerGUI::setNewFinalRate">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#a982b69e4c5149e38275a0e21a1f0939f" title="ChannelAnalyzerGUI\l::displaySettings" alt="" coords="226,25,371,66"/>
+<area shape="rect" id="node7" href="$da/d16/classChannelAnalyzerGUI.html#ad809598e8cebf3e1d7922ae0be2c0a91" title="ChannelAnalyzerGUI\l::handleMessage" alt="" coords="226,90,371,132"/>
+<area shape="rect" id="node9" href="$da/d16/classChannelAnalyzerGUI.html#a2dd7d8eefe4f5b3389f61bc4967e2cf0" title="ChannelAnalyzerGUI\l::on_channelSampleRate\l_changed" alt="" coords="215,156,383,212"/>
+<area shape="rect" id="node10" href="$da/d16/classChannelAnalyzerGUI.html#a51c5cc58ee9271976884441944c44bbc" title="ChannelAnalyzerGUI\l::on_spanLog2_currentIndex\lChanged" alt="" coords="205,236,392,292"/>
+<area shape="rect" id="node11" href="$da/d16/classChannelAnalyzerGUI.html#ad8267b91a994f0feca9471ffc20108b8" title="ChannelAnalyzerGUI\l::on_useRationalDownsampler\l_toggled" alt="" coords="199,316,399,372"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="652,29,805,70"/>
+<area shape="rect" id="node6" href="$da/d16/classChannelAnalyzerGUI.html#af3b84f19e08e6d5e3ad07bfb84fe15f1" title="ChannelAnalyzerGUI\l::deserialize" alt="" coords="453,25,598,66"/>
+<area shape="rect" id="node4" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="853,29,999,70"/>
+<area shape="rect" id="node5" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1047,29,1204,70"/>
+<area shape="rect" id="node8" href="$da/d16/classChannelAnalyzerGUI.html#a2072c0e62719b86addc5c4f3ca176142" title="ChannelAnalyzerGUI\l::handleInputMessages" alt="" coords="447,90,604,132"/>
+</map>

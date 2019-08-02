@@ -1,0 +1,6 @@
+<map id="SoapySDRInputThread::getNbChannels" name="SoapySDRInputThread::getNbChannels">
+<area shape="rect" id="node2" href="$da/d65/classSoapySDRInput.html#a3c0948afa439f56c59c49422e129cff7" title="SoapySDRInput::start" alt="" coords="211,5,361,32"/>
+<area shape="rect" id="node3" href="$da/d65/classSoapySDRInput.html#a2af6dcccd04f62a49ae1daf53c3b911d" title="SoapySDRInput::stop" alt="" coords="211,56,361,83"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a5e6bcec09b5744db9660f3ce736cf746" title="SoapySDRInput::closeDevice" alt="" coords="409,31,607,57"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#afdfa5e1389a22b2deff4ca31ed411c82" title="SoapySDRInput::~SoapySDRInput" alt="" coords="655,56,883,83"/>
+</map>

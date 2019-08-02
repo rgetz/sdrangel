@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGChannelSettings::setNfmDemodSettings" name="SWGSDRangel::SWGChannelSettings::setNfmDemodSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a906e2386603e46ccbbd6be27d987789f" title="WebAPIRequestMapper\l::resetChannelSettings" alt="" coords="333,13,496,55"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="329,79,500,120"/>
+<area shape="rect" id="node7" href="$df/ddf/classNFMDemod.html#ab6a5ac2b00069e89c6d9857549bfcc52" title="NFMDemod::webapiReverseSend\lSettings" alt="" coords="304,144,525,185"/>
+<area shape="rect" id="node11" href="$df/ddf/classNFMDemod.html#a2543c4e06aea68563500a35a7065983c" title="NFMDemod::webapiSettingsGet" alt="" coords="309,210,520,237"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="584,5,763,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="582,71,765,127"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="836,43,999,84"/>
+<area shape="rect" id="node8" href="$df/ddf/classNFMDemod.html#aa28d38963ba5049eb223738d4d062b40" title="NFMDemod::applySettings" alt="" coords="583,151,763,178"/>
+<area shape="rect" id="node9" href="$df/ddf/classNFMDemod.html#ae02dd8d2d4119bb1273ac19482b37393" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="821,151,1013,178"/>
+<area shape="rect" id="node10" href="$df/ddf/classNFMDemod.html#adaa9ae3c488894b364f630d8ac7934ac" title="NFMDemod::destroy" alt="" coords="1061,151,1205,178"/>
+<area shape="rect" id="node12" href="$df/ddf/classNFMDemod.html#a47128f43314e6dcaa40e0e62abaa02ba" title="NFMDemod::getStreamCenter\lFrequency" alt="" coords="573,203,773,244"/>
+</map>

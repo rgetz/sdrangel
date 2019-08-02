@@ -1,0 +1,6 @@
+<map id="qrtplib::RTCPSenderReportInfo::GetNTPTimestamp" name="qrtplib::RTCPSenderReportInfo::GetNTPTimestamp">
+<area shape="rect" id="node2" href="$da/d75/classqrtplib_1_1RTPSourceData.html#aa6f08cc9209b139a0623f8d0d4ac45bd" title="qrtplib::RTPSourceData\l::INF_GetEstimatedTimestampUnit" alt="" coords="236,5,464,47"/>
+<area shape="rect" id="node3" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#af7619f62c3ac5110dd9fcaea97e5d6e3" title="qrtplib::RTPInternalSource\lData::ProcessRTPPacket" alt="" coords="512,5,688,47"/>
+<area shape="rect" id="node4" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a6600fd1c2b6b0a49651766f30ccdde2b" title="qrtplib::RTPSources\l::ProcessRTPPacket" alt="" coords="736,5,883,47"/>
+<area shape="rect" id="node5" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a61e3ca0645a30fadd38ab89dd4c26622" title="qrtplib::RTPSources\l::ProcessRawPacket" alt="" coords="931,5,1077,47"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="TestMIThread::MsgStartStop::MsgStartStop" name="TestMIThread::MsgStartStop::MsgStartStop">
+<area shape="rect" id="node2" href="$dd/d36/classTestMIThread.html#aa9978e50a17d7111e754c42ff96f89dd" title="TestMIThread::setAMModulation" alt="" coords="251,5,463,32"/>
+<area shape="rect" id="node3" href="$dd/d36/classTestMIThread.html#a885c207b795502ca376465cd7996f130" title="TestMIThread::setAmplitudeBits" alt="" coords="252,56,463,83"/>
+<area shape="rect" id="node4" href="$dd/d36/classTestMIThread.html#a331c500308d92a084c7540e0915b0ace" title="TestMIThread::setBitSize" alt="" coords="272,107,443,133"/>
+<area shape="rect" id="node5" href="$dd/d36/classTestMIThread.html#a5f7246710a381e7d3d3161c22446f2e4" title="TestMIThread::setDCFactor" alt="" coords="264,157,451,184"/>
+<area shape="rect" id="node6" href="$dd/d36/classTestMIThread.html#a025bbabefb86dbafc609a3d243632deb" title="TestMIThread::setFcPos" alt="" coords="274,208,441,235"/>
+<area shape="rect" id="node7" href="$dd/d36/classTestMIThread.html#a0f9fca289e6d72016fc87a511e5552b9" title="TestMIThread::setFMDeviation" alt="" coords="256,259,459,285"/>
+<area shape="rect" id="node8" href="$dd/d36/classTestMIThread.html#a92817821c87e1a1162ff0dc6c533e3dd" title="TestMIThread::setFrequency\lShift" alt="" coords="262,310,453,351"/>
+<area shape="rect" id="node10" href="$dd/d36/classTestMIThread.html#af06576875418f46f9aff70f0b3b667fa" title="TestMIThread::setIFactor" alt="" coords="272,376,443,403"/>
+<area shape="rect" id="node11" href="$dd/d36/classTestMIThread.html#a93d2149d79022a0c407fff2ea98a0a4f" title="TestMIThread::setLog2Decimation" alt="" coords="246,427,469,453"/>
+<area shape="rect" id="node12" href="$dd/d36/classTestMIThread.html#a4a1acfbf505bef350876bf531f56d6f0" title="TestMIThread::setModulation" alt="" coords="261,477,453,504"/>
+<area shape="rect" id="node13" href="$dd/d36/classTestMIThread.html#a1e27df69e2f6dbe8eb99f7ea03510faf" title="TestMIThread::setPattern0" alt="" coords="268,528,447,555"/>
+<area shape="rect" id="node14" href="$dd/d36/classTestMIThread.html#a2594969f00008578bd17633c2654f449" title="TestMIThread::setPattern1" alt="" coords="268,579,447,605"/>
+<area shape="rect" id="node15" href="$dd/d36/classTestMIThread.html#aca33b9e76ad1136fd1e58cdaba9b7edc" title="TestMIThread::setPattern2" alt="" coords="268,629,447,656"/>
+<area shape="rect" id="node16" href="$dd/d36/classTestMIThread.html#af5b36329cc2320539d0abc16189e5747" title="TestMIThread::setPhaseImbalance" alt="" coords="244,680,471,707"/>
+<area shape="rect" id="node17" href="$dd/d36/classTestMIThread.html#adbd8598ade63317a9400883df01840cf" title="TestMIThread::setQFactor" alt="" coords="269,731,445,757"/>
+<area shape="rect" id="node18" href="$dd/d36/classTestMIThread.html#ab20c350142c44e50e19f8d1872082a83" title="TestMIThread::setSamplerate" alt="" coords="260,781,455,808"/>
+<area shape="rect" id="node19" href="$dd/d36/classTestMIThread.html#a48ba395be3f98cb2e5b5aeaa6aac01a8" title="TestMIThread::setToneFrequency" alt="" coords="248,832,467,859"/>
+<area shape="rect" id="node20" href="$dd/d36/classTestMIThread.html#a60cfc4f04bd653d47c0420a9ee34106e" title="TestMIThread::startStop" alt="" coords="275,883,439,909"/>
+<area shape="rect" id="node23" href="$dd/d36/classTestMIThread.html#a92d2b67ec1f44ca5637e8ebb17c4131c" title="TestMIThread::TestMIThread" alt="" coords="261,933,453,960"/>
+<area shape="rect" id="node24" href="$dd/d36/classTestMIThread.html#aa7de6f6e4f0e61e7f4905e7fb26370a6" title="TestMIThread::~TestMIThread" alt="" coords="257,984,457,1011"/>
+<area shape="rect" id="node9" href="$d0/d17/classNCOF.html#abe6b2ef5fff0bb0187711d3eee84c48d" title="NCOF::setFreq" alt="" coords="558,781,670,808"/>
+<area shape="rect" id="node21" href="$dc/d5d/classTestMIThread_1_1MsgStartStop.html#a2fcd9aa8abb18fc81f043a6aa718c558" title="TestMIThread::MsgStartStop\l::create" alt="" coords="519,981,709,1022"/>
+<area shape="rect" id="node22" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="539,883,689,909"/>
+</map>

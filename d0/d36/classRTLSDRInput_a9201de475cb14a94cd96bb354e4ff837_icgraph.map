@@ -1,0 +1,6 @@
+<map id="RTLSDRInput::getGains" name="RTLSDRInput::getGains">
+<area shape="rect" id="node2" href="$d5/d42/classRTLSDRGui.html#a9597363c005b0bb0bc4446abb6a0da70" title="RTLSDRGui::RTLSDRGui" alt="" coords="227,5,405,32"/>
+<area shape="rect" id="node3" href="$d0/d36/classRTLSDRInput.html#a19c1885a939d58764fe888724a0eff41" title="RTLSDRInput::webapiFormat\lDeviceReport" alt="" coords="219,57,413,98"/>
+<area shape="rect" id="node4" href="$d0/d36/classRTLSDRInput.html#aca0398c267788598d41fe2e27b7b5693" title="RTLSDRInput::webapiReportGet" alt="" coords="461,64,676,91"/>
+<area shape="rect" id="node5" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="724,64,927,91"/>
+</map>

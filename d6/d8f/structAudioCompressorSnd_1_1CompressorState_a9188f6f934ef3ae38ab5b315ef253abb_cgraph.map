@@ -1,0 +1,7 @@
+<map id="AudioCompressorSnd::CompressorState::sf_advancecomp" name="AudioCompressorSnd::CompressorState::sf_advancecomp">
+<area shape="rect" id="node2" href="$d0/d17/classAudioCompressorSnd.html#a3eda12048f70f2a9d455fa4b652e3b40" title="AudioCompressorSnd\l::compcurve" alt="" coords="204,5,353,47"/>
+<area shape="rect" id="node3" href="$d0/d17/classAudioCompressorSnd.html#aecf382fb87bdc1b5ffb911ddaa6b7f50" title="AudioCompressorSnd\l::db2lin" alt="" coords="204,71,353,112"/>
+<area shape="rect" id="node4" href="$d0/d17/classAudioCompressorSnd.html#a50283ad4d6e0634bfc5989a8feed0a9b" title="AudioCompressorSnd\l::kneecurve" alt="" coords="204,136,353,177"/>
+<area shape="rect" id="node5" href="$d0/d17/classAudioCompressorSnd.html#a405f7cfe01bb52f84a5f8d3dca6c58a7" title="AudioCompressorSnd\l::kneeslope" alt="" coords="204,201,353,243"/>
+<area shape="rect" id="node6" href="$d0/d17/classAudioCompressorSnd.html#ac861e31a13377bd33cdd465c5414a831" title="AudioCompressorSnd\l::lin2db" alt="" coords="204,267,353,308"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="DSPEngine::getDeviceSinkEngineByIndex" name="DSPEngine::getDeviceSinkEngineByIndex">
+<area shape="rect" id="node2" href="$d9/d2e/classLocalSource.html#acb35a721533da8e9d0a9d9ce2ab7493d" title="LocalSource::getLocalDevice" alt="" coords="239,83,431,110"/>
+<area shape="rect" id="node8" href="$d9/d2e/classLocalSource.html#abbd233f733d0f39c1377a2c8ee85ec3d" title="LocalSource::getLocalDevices" alt="" coords="236,163,435,190"/>
+<area shape="rect" id="node3" href="$d9/d2e/classLocalSource.html#a0314af4055511b9b47f4232b7e09a1e6" title="LocalSource::start" alt="" coords="1037,10,1165,37"/>
+<area shape="rect" id="node5" href="$d9/d2e/classLocalSource.html#ad4f8e6fab4869b976fc197110fa3f188" title="LocalSource::propagateSample\lRateAndFrequency" alt="" coords="483,47,685,88"/>
+<area shape="rect" id="node7" href="$d9/d2e/classLocalSource.html#aaa762764f5f8dd9d77e29bdd9cd3ce4e" title="LocalSource::applySettings" alt="" coords="754,105,935,131"/>
+<area shape="rect" id="node4" href="$d9/d2e/classLocalSource.html#a7558a5e6f8e594bb21f1b9aa06993534" title="LocalSource::destroy" alt="" coords="1245,65,1391,91"/>
+<area shape="rect" id="node6" href="$d9/d2e/classLocalSource.html#a1dd06048e447aec5b3a748f1f66186d4" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1004,90,1197,117"/>
+<area shape="rect" id="node9" href="$d9/d2e/classLocalSource.html#a923091f1396d4e433edf91fa0d2a61ad" title="LocalSource::setSampleRate" alt="" coords="488,163,680,190"/>
+<area shape="rect" id="node10" href="$d5/df2/classLocalSourceGUI.html#adc8ea226fe46d3d8b703c3233a83e480" title="LocalSourceGUI::updateLocal\lDevices" alt="" coords="486,215,682,256"/>
+<area shape="rect" id="node11" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="733,218,956,245"/>
+<area shape="rect" id="node15" href="$d5/df2/classLocalSourceGUI.html#af09fd481dcaab17c2efedc592ce160e3" title="LocalSourceGUI::on\l_localDevicesRefresh\l_clicked" alt="" coords="769,269,920,325"/>
+<area shape="rect" id="node12" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1019,218,1182,245"/>
+<area shape="rect" id="node13" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1245,211,1391,252"/>
+<area shape="rect" id="node14" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1439,211,1577,252"/>
+</map>

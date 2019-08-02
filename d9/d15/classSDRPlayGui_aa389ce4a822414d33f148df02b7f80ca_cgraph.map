@@ -1,0 +1,5 @@
+<map id="SDRPlayGui::on_record_toggled" name="SDRPlayGui::on_record_toggled">
+<area shape="rect" id="node2" href="$df/da9/classSDRPlayInput_1_1MsgFileRecord.html#a84f8fa10c2e0a8f7efe8f9bad03e76c5" title="SDRPlayInput::MsgFileRecord\l::create" alt="" coords="216,5,419,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="233,71,401,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="243,137,392,163"/>
+</map>

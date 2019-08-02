@@ -1,0 +1,8 @@
+<map id="FreqTracker::disconnectTimer" name="FreqTracker::disconnectTimer">
+<area shape="rect" id="node2" href="$da/d2e/classFreqTracker.html#a9462da2d25796f448dbcc8b8a1c4803d" title="FreqTracker::applySettings" alt="" coords="249,31,428,57"/>
+<area shape="rect" id="node7" href="$da/d2e/classFreqTracker.html#af45e5d0baf723e7a11007d55f6ab7a7a" title="FreqTracker::~FreqTracker" alt="" coords="249,81,428,108"/>
+<area shape="rect" id="node3" href="$da/d2e/classFreqTracker.html#a275cfbd97e974f4740b818e3c4b020c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="476,5,667,32"/>
+<area shape="rect" id="node5" href="$da/d2e/classFreqTracker.html#a529838919683b45f93420dc15eea4526" title="FreqTracker::tick" alt="" coords="511,107,632,133"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#a9bc6899a82271a4a31427e8b51d1021b" title="FreqTracker::destroy" alt="" coords="733,5,875,32"/>
+<area shape="rect" id="node6" href="$da/d2e/classFreqTracker.html#a3c55a2e3ba15e2958f21dc97c4fc19b3" title="FreqTracker::connectTimer" alt="" coords="715,81,893,108"/>
+</map>

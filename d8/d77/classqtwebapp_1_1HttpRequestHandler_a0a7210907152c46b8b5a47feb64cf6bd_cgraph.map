@@ -1,0 +1,11 @@
+<map id="qtwebapp::HttpRequestHandler::service" name="qtwebapp::HttpRequestHandler::service">
+<area shape="rect" id="node2" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#ae3c92d9c0f5279c6d5b1bfdb47aaa5e0" title="qtwebapp::HttpRequest\l::getMethod" alt="" coords="264,5,424,47"/>
+<area shape="rect" id="node3" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a9e9f87cc06cdeae2ca03c97d576c217b" title="qtwebapp::HttpRequest\l::getPath" alt="" coords="264,71,424,112"/>
+<area shape="rect" id="node5" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#adfd550673eb70a6477b0c04eb2023bad" title="qtwebapp::HttpRequest\l::getVersion" alt="" coords="264,136,424,177"/>
+<area shape="rect" id="node6" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a07af281f6437c377e6f729051ce4e13c" title="qtwebapp::HttpResponse\l::setStatus" alt="" coords="259,201,429,243"/>
+<area shape="rect" id="node7" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a6e49919cc568835ca6d81fec02533260" title="qtwebapp::HttpResponse\l::write" alt="" coords="259,267,429,308"/>
+<area shape="rect" id="node4" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a83651afcea6094403fb7cdb2d947cd0c" title="qtwebapp::HttpRequest\l::urlDecode" alt="" coords="483,71,643,112"/>
+<area shape="rect" id="node8" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#aeeb2ec292db009a2fd8bea9b03f5df69" title="qtwebapp::HttpResponse\l::writeHeaders" alt="" coords="477,237,648,279"/>
+<area shape="rect" id="node10" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a35de2d1c7f58dba5d40a45692f0df7ff" title="qtwebapp::HttpResponse\l::writeToSocket" alt="" coords="696,296,867,337"/>
+<area shape="rect" id="node9" href="$d1/de3/classqtwebapp_1_1HttpCookie.html#aef937847dbebf7290e94b94afbb8f9a1" title="qtwebapp::HttpCookie\l::toByteArray" alt="" coords="705,231,857,272"/>
+</map>

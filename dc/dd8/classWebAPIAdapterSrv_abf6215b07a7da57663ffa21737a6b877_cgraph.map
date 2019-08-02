@@ -1,0 +1,22 @@
+<map id="WebAPIAdapterSrv::instanceAudioOutputDelete" name="WebAPIAdapterSrv::instanceAudioOutputDelete">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="272,5,463,47"/>
+<area shape="rect" id="node3" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a2029154395eb21b5df7006be542141a2" title="SWGSDRangel::SWGAudioOutput\lDevice::getIndex" alt="" coords="254,71,481,112"/>
+<area shape="rect" id="node4" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="247,136,488,177"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#a370c64cf6a1c8a1221934112d2b8b702" title="AudioDeviceManager\l::getOutputDeviceInfo" alt="" coords="292,201,443,243"/>
+<area shape="rect" id="node6" href="$d0/d40/classAudioDeviceManager.html#abd04140bd856b06109944d15f537f525" title="AudioDeviceManager\l::getOutputDeviceName" alt="" coords="286,267,449,308"/>
+<area shape="rect" id="node7" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a62b3ae76125108ad843235f16aad982a" title="SWGSDRangel::SWGAudioOutput\lDevice::getUdpAddress" alt="" coords="254,332,481,373"/>
+<area shape="rect" id="node8" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="247,397,488,439"/>
+<area shape="rect" id="node9" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ad12ee948bb65fba2bda2ab5b3d9e4c55" title="SWGSDRangel::SWGAudioOutput\lDevice::setCopyToUdp" alt="" coords="254,463,481,504"/>
+<area shape="rect" id="node10" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aa0b09daa827a1ca7d8c2463afa334109" title="SWGSDRangel::SWGAudioOutput\lDevice::setSampleRate" alt="" coords="254,528,481,569"/>
+<area shape="rect" id="node11" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aabd7b6d90a6be6db7d3c1060c51a55df" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpAddress" alt="" coords="254,593,481,635"/>
+<area shape="rect" id="node12" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a721b7bca375a2458d23a910dca153090" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpChannelCodec" alt="" coords="254,659,481,700"/>
+<area shape="rect" id="node13" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#af68f7c52ba78b72d8cdbd2ee9e8873a5" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpChannelMode" alt="" coords="254,724,481,765"/>
+<area shape="rect" id="node14" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#abc4ee6e22b085511762336dc5a697fc5" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpDecimationFactor" alt="" coords="254,789,481,831"/>
+<area shape="rect" id="node15" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ac3892c91115e2c7b3291e86fef40977c" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpPort" alt="" coords="254,855,481,896"/>
+<area shape="rect" id="node16" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a315f81eec5f7b52e71762aad77a1fe01" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpUsesRtp" alt="" coords="254,920,481,961"/>
+<area shape="rect" id="node17" href="$d0/d40/classAudioDeviceManager.html#a903f3876493a84e760cdb402ceaeaeaf" title="AudioDeviceManager\l::unsetInputDeviceInfo" alt="" coords="290,985,445,1027"/>
+<area shape="rect" id="node18" href="$d0/d40/classAudioDeviceManager.html#a5ad1cde15fc95bb5a18bc0457343449a" title="AudioDeviceManager\l::getInputDeviceInfo" alt="" coords="536,897,683,939"/>
+<area shape="rect" id="node19" href="$d0/d40/classAudioDeviceManager.html#a86bfb958e29fc4d4b08a82df12a64718" title="AudioDeviceManager\l::getInputDeviceName" alt="" coords="731,985,884,1027"/>
+<area shape="rect" id="node20" href="$d0/d40/classAudioDeviceManager.html#aad9ead645499f7b9c47d234e55f224d7" title="AudioDeviceManager\l::startAudioInput" alt="" coords="536,1015,683,1056"/>
+<area shape="rect" id="node21" href="$d0/d40/classAudioDeviceManager.html#a223c1d01a24c5dd701c903bc7b638e65" title="AudioDeviceManager\l::stopAudioInput" alt="" coords="536,1080,683,1121"/>
+</map>

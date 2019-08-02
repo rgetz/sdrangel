@@ -1,0 +1,7 @@
+<map id="LimeSDROutput::MsgConfigureLimeSDR::getSettings" name="LimeSDROutput::MsgConfigureLimeSDR::getSettings">
+<area shape="rect" id="node2" href="$d7/dab/classLimeSDROutputGUI.html#aef7c105432e2bb13eb89f534357385d9" title="LimeSDROutputGUI::handle\lInputMessages" alt="" coords="539,5,727,47"/>
+<area shape="rect" id="node4" href="$d7/dab/classLimeSDROutputGUI.html#a41226d62f8d7276ce18dafbe8878b434" title="LimeSDROutputGUI::handle\lMessage" alt="" coords="275,35,463,76"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="260,101,477,127"/>
+<area shape="rect" id="node3" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="789,13,1060,39"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="525,101,741,127"/>
+</map>

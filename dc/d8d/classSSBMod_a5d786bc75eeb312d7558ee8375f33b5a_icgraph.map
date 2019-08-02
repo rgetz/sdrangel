@@ -1,0 +1,10 @@
+<map id="SSBMod::getMagSq" name="SSBMod::getMagSq">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#adf9e03986a8bce23aa0c338af8be2dec" title="SSBModGUI::tick" alt="" coords="237,5,364,32"/>
+<area shape="rect" id="node7" href="$dc/d8d/classSSBMod.html#a2bf1654c61d4a99d2d3abdb722dd4cd1" title="SSBMod::webapiFormatChannel\lReport" alt="" coords="195,57,407,98"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="455,5,637,32"/>
+<area shape="rect" id="node4" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="735,5,878,32"/>
+<area shape="rect" id="node5" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="976,5,1217,32"/>
+<area shape="rect" id="node6" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1265,5,1436,32"/>
+<area shape="rect" id="node8" href="$dc/d8d/classSSBMod.html#abadedd189657df4a260628bd6930da40" title="SSBMod::webapiReportGet" alt="" coords="455,64,637,91"/>
+<area shape="rect" id="node9" href="$dc/d8d/classSSBMod.html#a52109fe5c575d8901546f3fec5aa50e1" title="SSBMod::getStreamCenterFrequency" alt="" coords="685,64,928,91"/>
+</map>

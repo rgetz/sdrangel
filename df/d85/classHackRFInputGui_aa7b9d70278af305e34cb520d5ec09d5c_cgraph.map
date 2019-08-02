@@ -1,0 +1,6 @@
+<map id="HackRFInputGui::updateHardware" name="HackRFInputGui::updateHardware">
+<area shape="rect" id="node2" href="$db/d11/classHackRFInput_1_1MsgConfigureHackRF.html#aade8e87b3e1126a27709b9253884245b" title="HackRFInput::MsgConfigure\lHackRF::create" alt="" coords="276,5,465,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="287,71,455,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="296,137,445,163"/>
+<area shape="rect" id="node3" href="$db/d11/classHackRFInput_1_1MsgConfigureHackRF.html#a948f4153d79b247e3e92e524ff751e33" title="HackRFInput::MsgConfigure\lHackRF::MsgConfigureHackRF" alt="" coords="513,5,723,47"/>
+</map>

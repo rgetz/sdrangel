@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGAMBEDevices::getAmbeDevices" name="SWGSDRangel::SWGAMBEDevices::getAmbeDevices">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a4a39fd62a2697733581045b9414907e4" title="WebAPIAdapterGUI::instance\lAMBEDevicesGet" alt="" coords="293,48,491,89"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#acb801e044443f9d553099e6051be1531" title="WebAPIAdapterGUI::instance\lAMBEDevicesPatch" alt="" coords="545,5,742,47"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a1c9ed18bbfd33adcb618967e18fe16e5" title="WebAPIAdapterGUI::instance\lAMBEDevicesPut" alt="" coords="545,96,742,137"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#aaefee5b2097f5bf0e2a0964c2a6d8645" title="WebAPIAdapterSrv::instance\lAMBEDevicesGet" alt="" coords="295,216,489,257"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#afcb38e8cbffc2fe9a022d6d1a17a956a" title="WebAPIAdapterSrv::instance\lAMBEDevicesPatch" alt="" coords="547,169,740,211"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#ac46b45f37ea2d276a513c524215bf744" title="WebAPIAdapterSrv::instance\lAMBEDevicesPut" alt="" coords="547,249,740,291"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#af1eb75465963b2824b53520317ccebc7" title="WebAPIRequestMapper\l::validateAMBEDevices" alt="" coords="311,333,473,375"/>
+<area shape="rect" id="node9" href="$dd/da7/classWebAPIRequestMapper.html#ac8e82f0f283a3e8064d4019df72b8043" title="WebAPIRequestMapper\l::instanceAMBEDevicesService" alt="" coords="539,333,748,375"/>
+<area shape="rect" id="node10" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="796,333,959,375"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGNFMDemodSettings::setReverseApiAddress" name="SWGSDRangel::SWGNFMDemodSettings::setReverseApiAddress">
+<area shape="rect" id="node2" href="$df/ddf/classNFMDemod.html#ac805f0e3f3021b18b3523c92d720eadb" title="NFMDemod::webapiFormatChannel\lSettings" alt="" coords="279,27,509,69"/>
+<area shape="rect" id="node3" href="$df/ddf/classNFMDemod.html#a2543c4e06aea68563500a35a7065983c" title="NFMDemod::webapiSettingsGet" alt="" coords="557,5,768,32"/>
+<area shape="rect" id="node5" href="$df/ddf/classNFMDemod.html#ab007e69aa851dc5175daa31480ce6169" title="NFMDemod::webapiSettings\lPutPatch" alt="" coords="567,57,758,98"/>
+<area shape="rect" id="node4" href="$df/ddf/classNFMDemod.html#a47128f43314e6dcaa40e0e62abaa02ba" title="NFMDemod::getStreamCenter\lFrequency" alt="" coords="816,27,1016,69"/>
+</map>

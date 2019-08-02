@@ -1,0 +1,13 @@
+<map id="AMModSettings::resetToDefaults" name="AMModSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$df/db9/structAMModSettings.html#a4e1d3015ea3a90fd35fa80cced1719fe" title="AMModSettings::AMModSettings" alt="" coords="269,5,485,32"/>
+<area shape="rect" id="node3" href="$df/db9/structAMModSettings.html#aea173cd91737056330659bdea6584f5c" title="AMModSettings::deserialize" alt="" coords="285,107,470,133"/>
+<area shape="rect" id="node5" href="$db/d93/classAMMod.html#a8b3d91581f1e66a4d6421f2b1b6dbdb3" title="AMMod::deserialize" alt="" coords="576,157,713,184"/>
+<area shape="rect" id="node12" href="$d8/d1b/classAMModGUI.html#a9a1d1c0e185d2f3eba334267fc11e448" title="AMModGUI::resetToDefaults" alt="" coords="281,56,473,83"/>
+<area shape="rect" id="node4" href="$d8/d1b/classAMModGUI.html#a6041467f761ee4df05669fbe4c08f8fb" title="AMModGUI::deserialize" alt="" coords="564,56,725,83"/>
+<area shape="rect" id="node7" href="$df/db9/structAMModSettings.html#a000e9ae91285a9f0b92dc4d77fab8883" title="AMModSettings::setCWKeyerGUI" alt="" coords="533,107,756,133"/>
+<area shape="rect" id="node6" href="$db/d93/classAMMod.html#a573d7af1d5f467ac6f97f96eda2b6260" title="Applies to a default stream. " alt="" coords="804,157,997,184"/>
+<area shape="rect" id="node8" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="817,107,985,133"/>
+<area shape="rect" id="node9" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="1045,107,1180,133"/>
+<area shape="rect" id="node10" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="1228,107,1463,133"/>
+<area shape="rect" id="node11" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1511,107,1675,133"/>
+</map>

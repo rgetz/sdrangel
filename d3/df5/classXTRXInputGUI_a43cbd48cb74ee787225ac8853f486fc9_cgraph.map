@@ -1,0 +1,11 @@
+<map id="XTRXInputGUI::serialize" name="XTRXInputGUI::serialize">
+<area shape="rect" id="node2" href="$da/d8d/structXTRXInputSettings.html#a8b6f27ba6a7340eab3e50de20a55728b" title="XTRXInputSettings::\lserialize" alt="" coords="220,150,363,191"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a313ea3b5686b5ab522c4b13c5b71f4f2" title="SimpleSerializer::writeDouble" alt="" coords="411,5,604,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="419,56,595,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="418,107,597,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="417,157,598,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="420,208,595,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="414,259,601,285"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="433,309,581,336"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="652,132,827,159"/>
+</map>

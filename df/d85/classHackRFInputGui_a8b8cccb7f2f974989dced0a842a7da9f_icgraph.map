@@ -1,0 +1,19 @@
+<map id="HackRFInputGui::sendSettings" name="HackRFInputGui::sendSettings">
+<area shape="rect" id="node2" href="$df/d85/classHackRFInputGui.html#a07536ca7e66cbafd0a52a5fb04f0d186" title="HackRFInputGui::deserialize" alt="" coords="545,31,735,57"/>
+<area shape="rect" id="node3" href="$df/d85/classHackRFInputGui.html#a4e4ce338e76aaef5f7d739e497d2887f" title="HackRFInputGui::HackRFInputGui" alt="" coords="527,921,753,948"/>
+<area shape="rect" id="node4" href="$df/d85/classHackRFInputGui.html#af7a5d6360d68e9f167717ce779b011ae" title="HackRFInputGui::on\l_bbFilter_currentIndexChanged" alt="" coords="267,107,469,149"/>
+<area shape="rect" id="node5" href="$df/d85/classHackRFInputGui.html#a5c48354b49ae3c26ece9d1473837cf49" title="HackRFInputGui::on\l_biasT_stateChanged" alt="" coords="293,173,443,214"/>
+<area shape="rect" id="node6" href="$df/d85/classHackRFInputGui.html#ac6dd8a0d13c9f11a734cf94589b371f5" title="HackRFInputGui::on\l_centerFrequency_changed" alt="" coords="277,238,459,279"/>
+<area shape="rect" id="node7" href="$df/d85/classHackRFInputGui.html#a130687b603237fe0b357935cb3907dc6" title="HackRFInputGui::on\l_dcOffset_toggled" alt="" coords="297,303,439,345"/>
+<area shape="rect" id="node8" href="$df/d85/classHackRFInputGui.html#ab34e51e193ecbec0530e107d93565d74" title="HackRFInputGui::on\l_decim_currentIndexChanged" alt="" coords="271,369,465,410"/>
+<area shape="rect" id="node9" href="$df/d85/classHackRFInputGui.html#adc653041fb4477fd1952c26876ccc405" title="HackRFInputGui::on\l_fcPos_currentIndexChanged" alt="" coords="271,434,465,475"/>
+<area shape="rect" id="node10" href="$df/d85/classHackRFInputGui.html#a2774614c4981c226e0ee8c4d419dfd6d" title="HackRFInputGui::on\l_iqImbalance_toggled" alt="" coords="294,499,442,541"/>
+<area shape="rect" id="node11" href="$df/d85/classHackRFInputGui.html#ad1ea98f278be7992e7963360eb992757" title="HackRFInputGui::on\l_lna_valueChanged" alt="" coords="297,565,439,606"/>
+<area shape="rect" id="node12" href="$df/d85/classHackRFInputGui.html#aad6c81e2f8d00d27b67e02705e88f63c" title="HackRFInputGui::on\l_lnaExt_stateChanged" alt="" coords="291,630,445,671"/>
+<area shape="rect" id="node13" href="$df/d85/classHackRFInputGui.html#a7ad4179ff5aacaf5c9db1878a2556261" title="HackRFInputGui::on\l_LOppm_valueChanged" alt="" coords="287,695,449,737"/>
+<area shape="rect" id="node14" href="$df/d85/classHackRFInputGui.html#a24f9e713053d3f8b6664f2e9cfadb891" title="HackRFInputGui::on\l_sampleRate_changed" alt="" coords="291,761,445,802"/>
+<area shape="rect" id="node15" href="$df/d85/classHackRFInputGui.html#a9787f6649f7257b8fd38494e60f89ed3" title="HackRFInputGui::on\l_vga_valueChanged" alt="" coords="297,826,439,867"/>
+<area shape="rect" id="node16" href="$df/d85/classHackRFInputGui.html#a4bba90f3332d97c78ed97052fa4afb67" title="HackRFInputGui::openDevice\lSettingsDialog" alt="" coords="269,943,467,985"/>
+<area shape="rect" id="node17" href="$df/d85/classHackRFInputGui.html#aeb55ee4d6aff9099794c8b983ca52c9a" title="HackRFInputGui::resetToDefaults" alt="" coords="257,5,479,32"/>
+<area shape="rect" id="node18" href="$df/d85/classHackRFInputGui.html#afa48994e2ea3d0cf63c16a55281920b9" title="HackRFInputGui::setCenter\lFrequency" alt="" coords="275,1009,461,1050"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="FileInput::webapiFormatDeviceReport" name="FileInput::webapiFormatDeviceReport">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a5ea8338541cfd67b13ab72cc6f56283c" title="SWGSDRangel::SWGDeviceReport\l::getFileInputReport" alt="" coords="256,5,491,47"/>
+<area shape="rect" id="node3" href="$d6/d3e/classFileInputThread.html#af9d8b5536b1f1a9e340bb60e62e8bdcb" title="FileInputThread::getSamples\lCount" alt="" coords="279,71,468,112"/>
+<area shape="rect" id="node4" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#ad94d6fb038ecd55ed04990171e76b071" title="SWGSDRangel::SWGFileInput\lReport::setAbsoluteTime" alt="" coords="271,136,475,177"/>
+<area shape="rect" id="node5" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a9cd2b3e7f329c24664e12f96e5707785" title="SWGSDRangel::SWGFileInput\lReport::setDurationTime" alt="" coords="271,201,475,243"/>
+<area shape="rect" id="node6" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a12ec49d1d464a7f95abddf158934272e" title="SWGSDRangel::SWGFileInput\lReport::setElapsedTime" alt="" coords="271,267,475,308"/>
+<area shape="rect" id="node7" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#ad978c540fc66f72166188e903ee64c76" title="SWGSDRangel::SWGFileInput\lReport::setFileName" alt="" coords="271,332,475,373"/>
+<area shape="rect" id="node8" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a5e891e109629d50f20c5392ec855dee6" title="SWGSDRangel::SWGFileInput\lReport::setSampleRate" alt="" coords="271,397,475,439"/>
+<area shape="rect" id="node9" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a678695a302c399d08124b1ad0c6327fb" title="SWGSDRangel::SWGFileInput\lReport::setSampleSize" alt="" coords="271,463,475,504"/>
+</map>

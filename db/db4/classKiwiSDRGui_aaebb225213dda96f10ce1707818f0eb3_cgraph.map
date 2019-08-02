@@ -1,0 +1,23 @@
+<map id="KiwiSDRGui::handleInputMessages" name="KiwiSDRGui::handleInputMessages">
+<area shape="rect" id="node2" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="305,5,457,47"/>
+<area shape="rect" id="node3" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="305,71,457,112"/>
+<area shape="rect" id="node4" href="$db/db4/classKiwiSDRGui.html#af0d175ad867b8b2f2245704bff70e36c" title="KiwiSDRGui::handleMessage" alt="" coords="284,187,479,214"/>
+<area shape="rect" id="node5" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="578,45,697,71"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="310,238,453,265"/>
+<area shape="rect" id="node13" href="$db/db4/classKiwiSDRGui.html#aec9e6352136ab646d4e2d76b0ab74819" title="KiwiSDRGui::updateSample\lRateAndFrequency" alt="" coords="288,439,475,480"/>
+<area shape="rect" id="node7" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a7ba8c50c137c067007f4e60dd1068361" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::getSettings" alt="" coords="540,96,735,137"/>
+<area shape="rect" id="node8" href="$db/db4/classKiwiSDRGui.html#a3c4c12f465d70e1b3a7400697041c603" title="KiwiSDRGui::displaySettings" alt="" coords="541,162,734,189"/>
+<area shape="rect" id="node9" href="$db/db4/classKiwiSDRGui.html#a6475602d4e1fcd64680d869b193f6a9a" title="KiwiSDRGui::blockApplySettings" alt="" coords="796,187,1012,214"/>
+<area shape="rect" id="node10" href="$d7/d70/classKiwiSDRInput_1_1MsgStartStop.html#ac97ff3639e5a1e16aef36a3f3ceafeac" title="KiwiSDRInput::MsgStartStop\l::getStartStop" alt="" coords="541,264,734,305"/>
+<area shape="rect" id="node11" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a419c9f64e2b9d413be18850a1ba44626" title="KiwiSDRInput::MsgSetStatus\l::getStatus" alt="" coords="539,329,735,371"/>
+<area shape="rect" id="node6" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="819,45,989,71"/>
+<area shape="rect" id="node14" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="548,395,727,422"/>
+<area shape="rect" id="node15" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="541,446,734,473"/>
+<area shape="rect" id="node17" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="527,497,748,523"/>
+<area shape="rect" id="node18" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="617,547,657,574"/>
+<area shape="rect" id="node16" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="829,446,979,473"/>
+<area shape="rect" id="node19" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="850,547,958,574"/>
+<area shape="rect" id="node20" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1060,569,1208,611"/>
+<area shape="rect" id="node21" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1264,518,1383,545"/>
+<area shape="rect" id="node22" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1256,569,1391,611"/>
+</map>

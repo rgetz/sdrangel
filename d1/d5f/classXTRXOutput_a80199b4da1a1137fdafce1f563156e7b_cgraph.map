@@ -1,0 +1,5 @@
+<map id="XTRXOutput::setMessageQueueToGUI" name="XTRXOutput::setMessageQueueToGUI">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#a24f0935a84dc0e5d09eac114e58d1018" title="XTRXOutput::getDeviceDescription" alt="" coords="268,5,499,32"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#ac8f22b3f45a58f684334bdfb15f6d489" title="Sample rate exposed by the sink. " alt="" coords="286,56,481,83"/>
+<area shape="rect" id="node4" href="$dd/d06/classDeviceXTRX.html#a83295fa9af9d4fa260cda2da1f4dd780" title="DeviceXTRX::getActualOutputRate" alt="" coords="547,56,776,83"/>
+</map>

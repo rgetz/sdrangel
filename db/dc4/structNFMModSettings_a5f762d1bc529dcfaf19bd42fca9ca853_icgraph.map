@@ -1,0 +1,10 @@
+<map id="NFMModSettings::serialize" name="NFMModSettings::serialize">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a8c19a7425dd26176e991a1e45e6b0c8a" title="NFMModGUI::serialize" alt="" coords="271,5,427,32"/>
+<area shape="rect" id="node3" href="$de/df8/classNFMMod.html#aad182a1657ade659df41feacf9b0b882" title="NFMMod::serialize" alt="" coords="283,56,415,83"/>
+<area shape="rect" id="node5" href="$db/dc4/structNFMModSettings.html#aef07f4edc48ad79d861a2285d5731536" title="NFMModSettings::setCWKeyerGUI" alt="" coords="233,107,464,133"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMMod.html#a22e9b7134f03368fa407b022b6c3845c" title="Applies to a default stream. " alt="" coords="512,56,715,83"/>
+<area shape="rect" id="node6" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="520,107,707,133"/>
+<area shape="rect" id="node7" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="763,107,907,133"/>
+<area shape="rect" id="node8" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="955,107,1197,133"/>
+<area shape="rect" id="node9" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1245,107,1419,133"/>
+</map>

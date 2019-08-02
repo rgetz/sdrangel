@@ -1,0 +1,10 @@
+<map id="FreeDVDemod::getMagSqLevels" name="FreeDVDemod::getMagSqLevels">
+<area shape="rect" id="node2" href="$da/d3d/classFreeDVDemodGUI.html#a8fecb1d13482226c1406b8e0ca19571f" title="FreeDVDemodGUI::tick" alt="" coords="987,5,1149,32"/>
+<area shape="rect" id="node7" href="$de/de0/classFreeDVDemod.html#a8094f9f6ce42336e11e02c3281102298" title="FreeDVDemod::webapiFormat\lChannelReport" alt="" coords="268,31,467,73"/>
+<area shape="rect" id="node3" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="1197,5,1449,32"/>
+<area shape="rect" id="node4" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1497,5,1675,32"/>
+<area shape="rect" id="node5" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1723,5,1959,32"/>
+<area shape="rect" id="node6" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="2007,5,2171,32"/>
+<area shape="rect" id="node8" href="$de/de0/classFreeDVDemod.html#af7e76639b13eb9844e58ed4376632fbc" title="FreeDVDemod::webapiReportGet" alt="" coords="515,35,733,61"/>
+<area shape="rect" id="node9" href="$de/de0/classFreeDVDemod.html#af47e9e95c71ec1881974b508da07520b" title="FreeDVDemod::isSync" alt="" coords="781,31,939,57"/>
+</map>

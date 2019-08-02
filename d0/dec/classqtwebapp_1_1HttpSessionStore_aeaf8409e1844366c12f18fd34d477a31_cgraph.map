@@ -1,0 +1,10 @@
+<map id="qtwebapp::HttpSessionStore::getSession" name="qtwebapp::HttpSessionStore::getSession">
+<area shape="rect" id="node2" href="$d1/d41/classqtwebapp_1_1HttpSession.html#a40a020b5fa0350f28fd40891642c967e" title="qtwebapp::HttpSession\l::getId" alt="" coords="258,5,417,47"/>
+<area shape="rect" id="node3" href="$d0/dec/classqtwebapp_1_1HttpSessionStore.html#aaf9147137698db03b322ea93de548fba" title="qtwebapp::HttpSessionStore\l::getSessionId" alt="" coords="243,71,432,112"/>
+<area shape="rect" id="node6" href="$d1/d41/classqtwebapp_1_1HttpSession.html#a195963a20805ad00e0eacd90c0194d84" title="qtwebapp::HttpSession\l::isNull" alt="" coords="258,136,417,177"/>
+<area shape="rect" id="node7" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#ac32c7fcc332d3f834ec88ae06b2e7d63" title="qtwebapp::HttpResponse\l::setCookie" alt="" coords="252,201,423,243"/>
+<area shape="rect" id="node9" href="$d1/d41/classqtwebapp_1_1HttpSession.html#a3e27faa5905e05aefa8feca7fbddfb70" title="qtwebapp::HttpSession\l::setLastAccess" alt="" coords="258,267,417,308"/>
+<area shape="rect" id="node4" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a1bcd416f520020e944900e35ab51864c" title="qtwebapp::HttpResponse\l::getCookies" alt="" coords="480,39,651,80"/>
+<area shape="rect" id="node5" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a8df857484bbe4cc8362ddd49a604f649" title="qtwebapp::HttpRequest\l::getCookie" alt="" coords="485,104,645,145"/>
+<area shape="rect" id="node8" href="$d1/de3/classqtwebapp_1_1HttpCookie.html#abecd0373e90e3701e82bb4dc630c54a7" title="qtwebapp::HttpCookie\l::getName" alt="" coords="489,201,641,243"/>
+</map>

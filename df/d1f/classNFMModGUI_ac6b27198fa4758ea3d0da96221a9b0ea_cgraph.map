@@ -1,0 +1,9 @@
+<map id="NFMModGUI::on_morseKeyer_toggled" name="NFMModGUI::on_morseKeyer_toggled">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a6bfc3413631db7ba5b07e02185a31d42" title="NFMModGUI::applySettings" alt="" coords="252,143,439,170"/>
+<area shape="rect" id="node3" href="$d5/dfb/classNFMMod_1_1MsgConfigureNFMMod.html#a097988d4943bc503b8e7191f63415add" title="NFMMod::MsgConfigureNFMMod\l::create" alt="" coords="495,5,713,47"/>
+<area shape="rect" id="node5" href="$d1/d49/classNFMMod_1_1MsgConfigureChannelizer.html#a375adcd8867b4a355b4c4f97198fc4a7" title="NFMMod::MsgConfigureChannelizer\l::create" alt="" coords="487,71,721,112"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="517,136,691,177"/>
+<area shape="rect" id="node7" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="520,201,688,243"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="529,267,679,294"/>
+<area shape="rect" id="node4" href="$d5/dfb/classNFMMod_1_1MsgConfigureNFMMod.html#a728ca0771a7b6d7f388a5ff2c6a5f03e" title="NFMMod::MsgConfigureNFMMod\l::MsgConfigureNFMMod" alt="" coords="769,5,988,47"/>
+</map>

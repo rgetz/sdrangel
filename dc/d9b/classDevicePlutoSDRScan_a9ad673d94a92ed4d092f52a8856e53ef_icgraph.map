@@ -1,0 +1,6 @@
+<map id="DevicePlutoSDRScan::getURIFromSerial" name="DevicePlutoSDRScan::getURIFromSerial">
+<area shape="rect" id="node2" href="$d8/d94/classDevicePlutoSDR.html#ab5f220230d9cfa87e286cec6a2d3627d" title="DevicePlutoSDR::getDevice\lFromSerial" alt="" coords="205,23,395,65"/>
+<area shape="rect" id="node3" href="$da/d86/classDevicePlutoSDRParams.html#a48786fba39e4bac08dbab226165aedef" title="DevicePlutoSDRParams\l::open" alt="" coords="443,23,609,65"/>
+<area shape="rect" id="node4" href="$da/dff/classPlutoSDROutput.html#a57892a02372c1aecdb938d5b1652c0b4" title="PlutoSDROutput::openDevice" alt="" coords="657,5,855,32"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#abf1de67c02b7fc8925627079863c585d" title="PlutoSDRInput::openDevice" alt="" coords="663,56,849,83"/>
+</map>

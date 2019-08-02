@@ -1,0 +1,19 @@
+<map id="RemoteInputBuffer::getMinOriginalBlocks" name="RemoteInputBuffer::getMinOriginalBlocks">
+<area shape="rect" id="node2" href="$d9/dd6/classRemoteInputUDPHandler.html#a424a72b7870c1cd3e5a802f9b4033bb2" title="RemoteInputUDPHandler\l::tick" alt="" coords="199,151,369,193"/>
+<area shape="rect" id="node3" href="$d9/dd6/classRemoteInputUDPHandler.html#a9714d4a6105fddb023c9ff8bed6e0c7c" title="RemoteInputUDPHandler\l::connectTimer" alt="" coords="417,118,588,159"/>
+<area shape="rect" id="node5" href="$d9/dd6/classRemoteInputUDPHandler.html#a574aed6e08308b0e50c0c6d9e57e6654" title="RemoteInputUDPHandler\l::disconnectTimer" alt="" coords="417,183,588,225"/>
+<area shape="rect" id="node4" href="$d9/dd6/classRemoteInputUDPHandler.html#af6114806f3ce7a53fd8cc02f145680ea" title="RemoteInputUDPHandler\l::processData" alt="" coords="636,118,807,159"/>
+<area shape="rect" id="node6" href="$d9/dd6/classRemoteInputUDPHandler.html#a217d0624685523aa5a40b72239f8c33a" title="RemoteInputUDPHandler\l::stop" alt="" coords="636,183,807,225"/>
+<area shape="rect" id="node7" href="$d3/d67/classRemoteInput.html#aa53d5eb024c67bf15b3545017ca3d8c8" title="RemoteInput::stop" alt="" coords="1116,107,1247,133"/>
+<area shape="rect" id="node10" href="$d9/dd6/classRemoteInputUDPHandler.html#a8cb475ca4d38cffd8d710c469294b402" title="RemoteInputUDPHandler\l::~RemoteInputUDPHandler" alt="" coords="855,271,1041,313"/>
+<area shape="rect" id="node11" href="$d9/dd6/classRemoteInputUDPHandler.html#a64caba7f9eb69d368f8eabc13aa93266" title="RemoteInputUDPHandler\l::configureUDPLink" alt="" coords="863,154,1033,195"/>
+<area shape="rect" id="node16" href="$d9/dd6/classRemoteInputUDPHandler.html#a99d963dcfb096a762b5bb3fca3b8380e" title="RemoteInputUDPHandler\l::setMessageQueueToGUI" alt="" coords="1092,209,1271,250"/>
+<area shape="rect" id="node8" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="1601,125,1787,166"/>
+<area shape="rect" id="node9" href="$d3/d67/classRemoteInput.html#afa5a81b65b2cb9063263094492bbfcb0" title="RemoteInput::~RemoteInput" alt="" coords="1335,157,1523,184"/>
+<area shape="rect" id="node12" href="$d3/d67/classRemoteInput.html#af18aff424c66d86afda03bec8ecb6ff2" title="RemoteInput::applySettings" alt="" coords="1089,56,1273,83"/>
+<area shape="rect" id="node13" href="$d3/d67/classRemoteInput.html#a4f1ef1abb8edb7ecd68ff0dbd01a4d2f" title="RemoteInput::handleMessage" alt="" coords="1331,5,1527,32"/>
+<area shape="rect" id="node15" href="$d3/d67/classRemoteInput.html#ac531255ff3648ebf37e9c529fd6d9821" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1367,56,1490,83"/>
+<area shape="rect" id="node14" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="1597,5,1791,32"/>
+<area shape="rect" id="node17" href="$d3/d67/classRemoteInput.html#afd26d82f4d56c0d7fa2373bc8b9b5d9b" title="RemoteInput::setMessageQueue\lToGUI" alt="" coords="1321,209,1536,250"/>
+<area shape="rect" id="node18" href="$db/dfb/classRemoteInputGui.html#a78d5a650119812ffc270775a5b070461" title="RemoteInputGui::RemoteInputGui" alt="" coords="1584,216,1804,243"/>
+</map>

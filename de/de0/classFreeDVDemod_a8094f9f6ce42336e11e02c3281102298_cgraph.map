@@ -1,0 +1,10 @@
+<map id="FreeDVDemod::webapiFormatChannelReport" name="FreeDVDemod::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="792,65,917,91"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#ae97d930f2c4dcc150030f1c40a8075da" title="SWGSDRangel::SWGChannelReport\l::getFreeDvDemodReport" alt="" coords="252,57,493,99"/>
+<area shape="rect" id="node4" href="$de/de0/classFreeDVDemod.html#a013fecd94ce5e3b99194dbb2d29a2878" title="FreeDVDemod::getMagSqLevels" alt="" coords="265,123,480,150"/>
+<area shape="rect" id="node6" href="$d3/da6/classSWGSDRangel_1_1SWGFreeDVDemodReport.html#a1c6bb296893d290d601e6d4c6e99bc35" title="SWGSDRangel::SWGFreeDVDemod\lReport::setAudioSampleRate" alt="" coords="252,175,493,216"/>
+<area shape="rect" id="node7" href="$d3/da6/classSWGSDRangel_1_1SWGFreeDVDemodReport.html#aeb29ff5c6c4525a52795b114e9522a33" title="SWGSDRangel::SWGFreeDVDemod\lReport::setChannelPowerDb" alt="" coords="252,240,493,281"/>
+<area shape="rect" id="node8" href="$d3/da6/classSWGSDRangel_1_1SWGFreeDVDemodReport.html#aa10418b77174ed2a3f5edeaa6e4e45a4" title="SWGSDRangel::SWGFreeDVDemod\lReport::setChannelSampleRate" alt="" coords="252,305,493,347"/>
+<area shape="rect" id="node9" href="$d3/da6/classSWGSDRangel_1_1SWGFreeDVDemodReport.html#a9a5808c161e23e1e9bd0ca7c58245a91" title="SWGSDRangel::SWGFreeDVDemod\lReport::setSquelch" alt="" coords="252,371,493,412"/>
+<area shape="rect" id="node5" href="$de/de0/classFreeDVDemod.html#a8b2a90f9b248af9260370292037f8e98" title="FreeDVDemod::getSNRLevels" alt="" coords="541,90,744,117"/>
+</map>

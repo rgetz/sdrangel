@@ -1,0 +1,14 @@
+<map id="NFMDemod::webapiReportGet" name="NFMDemod::webapiReportGet">
+<area shape="rect" id="node2" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a6d95806bb923324dfa591fccd60e2c53" title="SWGSDRangel::SWGChannelReport\l::getNfmDemodReport" alt="" coords="545,5,787,47"/>
+<area shape="rect" id="node3" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a9f20d9d87a90b795dcf75c53d3ce3c00" title="SWGSDRangel::SWGNFMDemod\lReport::init" alt="" coords="264,72,489,113"/>
+<area shape="rect" id="node4" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#ac1bdb152ac91bd33474df21ed7a3d068" title="SWGSDRangel::SWGChannelReport\l::setNfmDemodReport" alt="" coords="256,137,497,179"/>
+<area shape="rect" id="node5" href="$df/ddf/classNFMDemod.html#ade4a1ebcdaa3d2b9451768b84a47a058" title="NFMDemod::webapiFormatChannel\lReport" alt="" coords="261,209,492,251"/>
+<area shape="rect" id="node6" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="603,71,729,98"/>
+<area shape="rect" id="node7" href="$df/ddf/classNFMDemod.html#a35464af643fe071eca08fe4d86c6a0e9" title="NFMDemod::getMagSqLevels" alt="" coords="567,122,765,149"/>
+<area shape="rect" id="node8" href="$d3/d97/classCTCSSDetector.html#a6dddbfde275df3b792bfcd48a914c4ee" title="CTCSSDetector::getToneSet" alt="" coords="569,173,763,199"/>
+<area shape="rect" id="node9" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#af7d9698d06ce447928e5916e6de1bcd2" title="SWGSDRangel::SWGNFMDemod\lReport::setAudioSampleRate" alt="" coords="553,224,779,265"/>
+<area shape="rect" id="node10" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#aa8961f8bb7112ca045ad2cbea46d58ed" title="SWGSDRangel::SWGNFMDemod\lReport::setChannelPowerDb" alt="" coords="553,289,779,331"/>
+<area shape="rect" id="node11" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a868d17a16af4c81edb68bfd803674988" title="SWGSDRangel::SWGNFMDemod\lReport::setChannelSampleRate" alt="" coords="553,355,779,396"/>
+<area shape="rect" id="node12" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a66fd5ade10764b79b9d35e2a16603a62" title="SWGSDRangel::SWGNFMDemod\lReport::setCtcssTone" alt="" coords="553,420,779,461"/>
+<area shape="rect" id="node13" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a1e0f81eabb57e340c0a38dac5213cd58" title="SWGSDRangel::SWGNFMDemod\lReport::setSquelch" alt="" coords="553,485,779,527"/>
+</map>

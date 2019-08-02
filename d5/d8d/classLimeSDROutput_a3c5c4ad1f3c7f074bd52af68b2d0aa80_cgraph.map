@@ -1,0 +1,19 @@
+<map id="LimeSDROutput::webapiReportGet" name="LimeSDROutput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aa189db89187ffa0d41f4554f45c49490" title="SWGSDRangel::SWGDeviceReport\l::getLimeSdrOutputReport" alt="" coords="573,5,807,47"/>
+<area shape="rect" id="node3" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#af898f2f28444c5be392392d8b8592d1d" title="SWGSDRangel::SWGLimeSdrOutput\lReport::init" alt="" coords="280,165,521,207"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ae890929234b6ed79a6ee6a641480f30f" title="SWGSDRangel::SWGDeviceReport\l::setLimeSdrOutputReport" alt="" coords="283,231,518,272"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#aa4a284a097649840a125658104f8f99f" title="LimeSDROutput::webapiFormat\lDeviceReport" alt="" coords="297,397,505,439"/>
+<area shape="rect" id="node6" href="$d8/d20/structDeviceLimeSDRParams.html#a8557f49080c73a508b91fbfe2d342a71" title="DeviceLimeSDRParams\l::getDevice" alt="" coords="607,71,773,112"/>
+<area shape="rect" id="node7" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a56e781d3c73483b8e26f74a3067b7874" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setDroppedPacketsCount" alt="" coords="569,136,811,177"/>
+<area shape="rect" id="node8" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a1559a68cfbf79b02dc48626342471710" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setFifoFill" alt="" coords="569,201,811,243"/>
+<area shape="rect" id="node9" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#ab578e764fc005a45a3cda3aad7a45569" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setFifoSize" alt="" coords="569,267,811,308"/>
+<area shape="rect" id="node10" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a60fbd71a471b1bd841920d5a8d5e0c7c" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setGpioDir" alt="" coords="569,332,811,373"/>
+<area shape="rect" id="node11" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#ac9d21a342965fcb0ca42cc9fde412dd8" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setGpioPins" alt="" coords="569,397,811,439"/>
+<area shape="rect" id="node12" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a31c1ee320766f05d5fb34f27040e348b" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setHwTimestamp" alt="" coords="569,463,811,504"/>
+<area shape="rect" id="node13" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a7f2a73aa8a806c0d162957328bdecb2c" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setLinkRate" alt="" coords="569,528,811,569"/>
+<area shape="rect" id="node14" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#acd77a901e88f769acddf9ee9bd0e21dd" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setOverrunCount" alt="" coords="569,593,811,635"/>
+<area shape="rect" id="node15" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a96eb7222afb1916391e50cc226012768" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setStreamActive" alt="" coords="569,659,811,700"/>
+<area shape="rect" id="node16" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a1a64e4233e4895a7078cde81274e1700" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setSuccess" alt="" coords="569,724,811,765"/>
+<area shape="rect" id="node17" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a961e22e530b2a4425eac2e9749d69806" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setTemperature" alt="" coords="569,789,811,831"/>
+<area shape="rect" id="node18" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#ab5392aeb846630acd5ce9d60def2ab33" title="SWGSDRangel::SWGLimeSdrOutput\lReport::setUnderrunCount" alt="" coords="569,855,811,896"/>
+</map>

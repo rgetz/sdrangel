@@ -1,0 +1,12 @@
+<map id="ChannelAnalyzerSettings::deserialize" name="ChannelAnalyzerSettings::deserialize">
+<area shape="rect" id="node2" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="228,5,387,32"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="242,57,373,98"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="242,122,373,163"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="242,187,373,229"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="242,253,373,294"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="242,318,373,359"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="242,383,373,425"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="242,449,373,490"/>
+<area shape="rect" id="node11" href="$da/dcd/structChannelAnalyzerSettings.html#aa5c83e7d47607f2092f73c84d9ea28e4" title="ChannelAnalyzerSettings\l::resetToDefaults" alt="" coords="223,514,392,555"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="440,318,571,359"/>
+</map>

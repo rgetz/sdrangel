@@ -1,0 +1,10 @@
+<map id="WFMModSettings::serialize" name="WFMModSettings::serialize">
+<area shape="rect" id="node2" href="$d0/d42/classWFMModGUI.html#abcfd5af41cd8769dbcf1395890b543a8" title="WFMModGUI::serialize" alt="" coords="274,5,433,32"/>
+<area shape="rect" id="node3" href="$d6/de3/classWFMMod.html#ab72a1e8cf526a2ce7affb799b404b5f6" title="WFMMod::serialize" alt="" coords="286,56,421,83"/>
+<area shape="rect" id="node5" href="$df/dcc/structWFMModSettings.html#a83601f26dfa21b296379807539bfc706" title="WFMModSettings::setCWKeyerGUI" alt="" coords="236,107,471,133"/>
+<area shape="rect" id="node4" href="$d6/de3/classWFMMod.html#ab34b298c08dee2ed10fa5bf9e77ae6d7" title="Applies to a default stream. " alt="" coords="519,56,724,83"/>
+<area shape="rect" id="node6" href="$d0/d42/classWFMModGUI.html#abc1276ad7c1c5241dd16fe53d452c6e0" title="WFMModGUI::WFMModGUI" alt="" coords="525,107,717,133"/>
+<area shape="rect" id="node7" href="$d0/d42/classWFMModGUI.html#afc9733df91425eb841e54136adc68076" title="WFMModGUI::create" alt="" coords="772,107,919,133"/>
+<area shape="rect" id="node8" href="$d2/d9a/classWFMModPlugin.html#af952471df9facda2c9d5b0f79888cdc6" title="WFMModPlugin::createTxChannelGUI" alt="" coords="967,107,1213,133"/>
+<area shape="rect" id="node9" href="$d2/d9a/classWFMModPlugin.html#ac39779f1604a7e1ccd4ca2a960ca48b6" title="WFMModPlugin::initPlugin" alt="" coords="1261,107,1437,133"/>
+</map>

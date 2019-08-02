@@ -1,0 +1,5 @@
+<map id="SoapySDRInput::webapiReverseSendSettings" name="SoapySDRInput::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="268,31,472,57"/>
+<area shape="rect" id="node3" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="520,5,736,32"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="557,56,699,83"/>
+</map>

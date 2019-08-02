@@ -1,0 +1,9 @@
+<map id="ATVDemodGUI::setRFFiltersSlidersRange" name="ATVDemodGUI::setRFFiltersSlidersRange">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#ae7c35af8b6c0489893987161dfc5c42c" title="ATVDemodGUI::handleMessage" alt="" coords="248,13,461,39"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#a74d7ab4a1a244a465122b996dbbe28a8" title="ATVDemodGUI::on_modulation\l_currentIndexChanged" alt="" coords="251,64,458,105"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#a5fef8164c96669a395c7b9461c692928" title="ATVDemodGUI::on_rfFiltering\l_toggled" alt="" coords="256,129,453,171"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a768c72bf3838c170119f95f0bb2e8331" title="ATVDemodGUI::handleSource\lMessages" alt="" coords="509,5,711,47"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="759,13,973,39"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1021,13,1180,39"/>
+<area shape="rect" id="node6" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1228,5,1415,47"/>
+</map>

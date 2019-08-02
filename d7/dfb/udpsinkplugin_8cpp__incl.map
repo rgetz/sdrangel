@@ -1,0 +1,30 @@
+<map id="plugins/channelrx/udpsink/udpsinkplugin.cpp" name="plugins/channelrx/udpsink/udpsinkplugin.cpp">
+<area shape="rect" id="node3" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="523,244,645,271"/>
+<area shape="rect" id="node9" href="$d2/df5/udpsinkgui_8h.html" title="udpsinkgui.h" alt="" coords="1087,95,1182,121"/>
+<area shape="rect" id="node28" href="$de/d8f/udpsink_8h.html" title="udpsink.h" alt="" coords="2078,169,2157,196"/>
+<area shape="rect" id="node50" href="$d3/dd9/udpsinkplugin_8h.html" title="udpsinkplugin.h" alt="" coords="669,244,781,271"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1796,393,1865,420"/>
+<area shape="rect" id="node7" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="120,319,275,345"/>
+<area shape="rect" id="node10" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="299,319,469,345"/>
+<area shape="rect" id="node14" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="1175,169,1297,196"/>
+<area shape="rect" id="node16" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="494,319,637,345"/>
+<area shape="rect" id="node19" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="2895,319,3041,345"/>
+<area shape="rect" id="node25" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1354,319,1497,345"/>
+<area shape="rect" id="node49" href="$d1/da6/udpsinksettings_8h.html" title="udpsinksettings.h" alt="" coords="763,319,887,345"/>
+<area shape="rect" id="node18" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="606,393,754,420"/>
+<area shape="rect" id="node23" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2495,393,2606,420"/>
+<area shape="rect" id="node30" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="1797,244,1977,271"/>
+<area shape="rect" id="node31" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="2089,319,2196,345"/>
+<area shape="rect" id="node33" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="912,319,1056,345"/>
+<area shape="rect" id="node34" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="2221,319,2299,345"/>
+<area shape="rect" id="node35" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="2786,319,2870,345"/>
+<area shape="rect" id="node37" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="2588,319,2711,345"/>
+<area shape="rect" id="node39" href="$d5/ded/phasediscri_8h.html" title="dsp/phasediscri.h" alt="" coords="2585,244,2709,271"/>
+<area shape="rect" id="node40" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="2797,244,2875,271"/>
+<area shape="rect" id="node42" href="$db/dba/bandpass_8h.html" title="dsp/bandpass.h" alt="" coords="2349,244,2464,271"/>
+<area shape="rect" id="node44" href="$df/d54/udpsinkutil_8h.html" title="util/udpsinkutil.h" alt="" coords="1499,244,1615,271"/>
+<area shape="rect" id="node47" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="1897,319,2015,345"/>
+<area shape="rect" id="node36" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="2802,393,2854,420"/>
+<area shape="rect" id="node41" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="3066,319,3209,345"/>
+<area shape="rect" id="node43" href="$df/db1/math_8h.html" title="math.h" alt="" coords="2375,319,2438,345"/>
+</map>

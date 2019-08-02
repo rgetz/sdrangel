@@ -1,0 +1,10 @@
+<map id="DeviceAPI::addAncillarySink" name="DeviceAPI::addAncillarySink">
+<area shape="rect" id="node2" href="$d2/d00/classAirspyHFInput.html#a715dd76429788308fb4d02fe44fbc5a9" title="AirspyHFInput::AirspyHFInput" alt="" coords="244,22,443,49"/>
+<area shape="rect" id="node4" href="$d9/d02/classAirspyInput.html#a58e6bfdb6cb4fef654b35e7b31524130" title="AirspyInput::AirspyInput" alt="" coords="262,82,425,109"/>
+<area shape="rect" id="node6" href="$d7/da7/classTestMI.html#a23fb9b2a305aeed16d81bc6e33a60c97" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="299,137,387,163"/>
+<area shape="rect" id="node8" href="$d0/d36/classRTLSDRInput.html#a02ae4ac768e914322eef1bb7317dad89" title="RTLSDRInput::RTLSDRInput" alt="" coords="245,194,441,221"/>
+<area shape="rect" id="node3" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#a35999d6c1ec18257ae6f1998efe21ea8" title="AirspyHFInput::MsgStartStop\l::MsgStartStop" alt="" coords="491,5,685,47"/>
+<area shape="rect" id="node5" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#aeca295550ded5e555c36b08e2b2764f4" title="AirspyInput::MsgStartStop\l::MsgStartStop" alt="" coords="500,71,676,112"/>
+<area shape="rect" id="node7" href="$d8/de7/classTestMI_1_1MsgStartStop.html#ab4b223ac6abdfbde115f22b4e81da814" title="TestMI::MsgStartStop\l::MsgStartStop" alt="" coords="513,136,663,177"/>
+<area shape="rect" id="node9" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="491,201,685,243"/>
+</map>

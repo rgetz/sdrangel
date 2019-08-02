@@ -1,0 +1,12 @@
+<map id="SoapySDROutputGui::createIndividualGainsControl" name="SoapySDROutputGui::createIndividualGainsControl">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="300,35,340,61"/>
+<area shape="rect" id="node7" href="$d6/de2/classSoapySDROutputGui.html#ac7b5999c7a17b15047197b34282e9eef" title="SoapySDROutputGui::\lindividualGainChanged" alt="" coords="243,86,397,127"/>
+<area shape="rect" id="node9" href="$dd/d21/classIntervalSliderGUI.html#ad009bf880e061664cdf8145fde5982f2" title="IntervalSliderGUI::\lsetInterval" alt="" coords="255,151,385,193"/>
+<area shape="rect" id="node10" href="$dd/d21/classIntervalSliderGUI.html#a1c53695335e4000cf93841249d8aea03" title="IntervalSliderGUI::\lsetLabel" alt="" coords="255,217,385,258"/>
+<area shape="rect" id="node11" href="$dd/d21/classIntervalSliderGUI.html#adcfbada5a9a220992bb12316ea05a49c" title="IntervalSliderGUI::\lsetUnits" alt="" coords="255,282,385,323"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="469,35,577,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="648,57,796,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="852,5,971,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="844,57,979,98"/>
+<area shape="rect" id="node8" href="$d6/de2/classSoapySDROutputGui.html#ad3a1f5c8f87dd6fb2bf706b537306beb" title="SoapySDROutputGui::\lsendSettings" alt="" coords="445,86,600,127"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGKiwiSDRSettings::setReverseApiDeviceIndex" name="SWGSDRangel::SWGKiwiSDRSettings::setReverseApiDeviceIndex">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#adf4da3328b997247af0b78f664f0ffa0" title="KiwiSDRInput::webapiFormat\lDeviceSettings" alt="" coords="309,27,504,69"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#ae379920a7add1b6b9b114d7b03b6e40e" title="KiwiSDRInput::webapiSettingsGet" alt="" coords="552,5,775,32"/>
+<area shape="rect" id="node5" href="$d4/dbc/classKiwiSDRInput.html#a50bcde0fd8e8717c65a8fcef1e82de50" title="KiwiSDRInput::webapiSettings\lPutPatch" alt="" coords="562,57,765,98"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="823,35,1025,61"/>
+</map>

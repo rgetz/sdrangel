@@ -1,0 +1,108 @@
+<map id="fftfilt::fsinc" name="fftfilt::fsinc">
+<area shape="rect" id="node2" href="$d0/de5/classfftfilt.html#a5aac24a24dc6d5ade4fc52ed3ee44705" title="two different filters for in band and opposite band " alt="" coords="137,483,268,524"/>
+<area shape="rect" id="node14" href="$d0/de5/classfftfilt.html#a531260d8ef2fec1e687cf4104900f389" title="fftfilt::create_dsb\l_filter" alt="" coords="143,297,263,339"/>
+<area shape="rect" id="node50" href="$d0/de5/classfftfilt.html#a20bd094cf966c84ef947054c99e6f1b0" title="fftfilt::create_filter" alt="" coords="141,786,265,813"/>
+<area shape="rect" id="node3" href="$de/dce/classATVDemod.html#a6bcdbcf92af9b224581ac9f3777b4347" title="ATVDemod::applySettings" alt="" coords="345,254,522,281"/>
+<area shape="rect" id="node9" href="$d2/d69/classATVMod.html#a72a48b1e22aab5b059ef40fa93a3a1a0" title="ATVMod::applySettings" alt="" coords="353,609,513,635"/>
+<area shape="rect" id="node4" href="$de/dce/classATVDemod.html#aa2f0eb22c51f28cb7c1bbbe0af96c901" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="621,175,811,202"/>
+<area shape="rect" id="node5" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="919,126,1098,153"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="1210,122,1425,149"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1545,122,1704,149"/>
+<area shape="rect" id="node8" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1799,115,1985,156"/>
+<area shape="rect" id="node10" href="$d2/d69/classATVMod.html#a301c20c1f192bd8c9d23e19a4360ecfa" title="ATVMod::ATVMod" alt="" coords="650,609,782,635"/>
+<area shape="rect" id="node12" href="$d2/d69/classATVMod.html#a252e7a58cb70ea3edc1165f7c266fa99" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="630,558,802,585"/>
+<area shape="rect" id="node11" href="$de/df4/classATVMod_1_1MsgReportEffectiveSampleRate.html#a2bcebe99221cf92b4e42d9780a33e450" title="ATVMod::MsgReportEffective\lSampleRate::MsgReportEffective\lSampleRate" alt="" coords="899,602,1118,658"/>
+<area shape="rect" id="node13" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="1830,682,1954,709"/>
+<area shape="rect" id="node15" href="$d9/df0/classAMDemod.html#a6a1fa77c14572d6db7e3c9c3e6cc0501" title="AMDemod::applyAudioSampleRate" alt="" coords="319,153,547,179"/>
+<area shape="rect" id="node16" href="$d9/df0/classAMDemod.html#a64b221c1e44fae0e0a13388fd4dbe39e" title="AMDemod::applySettings" alt="" coords="631,54,801,81"/>
+<area shape="rect" id="node21" href="$d6/d4d/classSSBDemod.html#aa5472f562a0ec783c818ff60914fe5be" title="SSBDemod::applyAudioSampleRate" alt="" coords="316,305,551,331"/>
+<area shape="rect" id="node28" href="$d6/d4d/classSSBDemod.html#a1e77407aab8eb0cfa6d1214e9361b4be" title="SSBDemod::applySettings" alt="" coords="627,231,805,258"/>
+<area shape="rect" id="node31" href="$dc/d8d/classSSBMod.html#abb41840f920195ad053a974fddb4fd51" title="SSBMod::applyAudioSampleRate" alt="" coords="324,507,543,534"/>
+<area shape="rect" id="node38" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="635,457,797,483"/>
+<area shape="rect" id="node41" href="$d0/de5/classfftfilt.html#a6f9a19fd37fe102a0f679612626935f0" title="fftfilt::fftfilt" alt="" coords="392,102,475,129"/>
+<area shape="rect" id="node42" href="$dc/d0c/classChannelAnalyzer.html#a2a86bf866af78ecd7905a3f0b49b0170" title="ChannelAnalyzer::setFilters" alt="" coords="342,406,525,433"/>
+<area shape="rect" id="node19" href="$d9/df0/classAMDemod.html#a0cc413b8436d68d43d6a3d97e93cef20" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="917,71,1100,98"/>
+<area shape="rect" id="node17" href="$d9/df0/classAMDemod.html#afd1f6fb2c119035c1e0854c7310fdc6c" title="AMDemod::AMDemod" alt="" coords="931,17,1086,43"/>
+<area shape="rect" id="node18" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#ac1e64f0d8384a19441ee6ff2ce27098a" title="AMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1196,5,1439,47"/>
+<area shape="rect" id="node20" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="1250,71,1385,98"/>
+<area shape="rect" id="node22" href="$d6/d4d/classSSBDemod.html#a48a39544f77dc8534c0a9ab1e6ff2f30" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="913,231,1104,258"/>
+<area shape="rect" id="node23" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="1224,239,1411,266"/>
+<area shape="rect" id="node24" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1517,239,1733,266"/>
+<area shape="rect" id="node25" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1813,239,1971,266"/>
+<area shape="rect" id="node26" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="2045,239,2263,266"/>
+<area shape="rect" id="node27" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="2344,239,2491,266"/>
+<area shape="rect" id="node29" href="$d6/d4d/classSSBDemod.html#af1616f000bd0d352b723029a7763d565" title="SSBDemod::SSBDemod" alt="" coords="925,181,1093,207"/>
+<area shape="rect" id="node30" href="$d1/d55/classSSBDemod_1_1MsgConfigureChannelizer.html#a7f6e4b7862591bedc88eb19edca8a53a" title="SSBDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1193,173,1442,215"/>
+<area shape="rect" id="node32" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="922,501,1095,527"/>
+<area shape="rect" id="node33" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1204,501,1431,527"/>
+<area shape="rect" id="node34" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1533,501,1716,527"/>
+<area shape="rect" id="node35" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1821,501,1963,527"/>
+<area shape="rect" id="node36" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="2033,501,2275,527"/>
+<area shape="rect" id="node37" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2332,501,2503,527"/>
+<area shape="rect" id="node39" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="941,450,1076,477"/>
+<area shape="rect" id="node40" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1204,421,1431,477"/>
+<area shape="rect" id="node43" href="$dc/d0c/classChannelAnalyzer.html#a25e568903b6b40d6994fe7ffacd80d16" title="ChannelAnalyzer::applyChannel\lSettings" alt="" coords="612,391,820,432"/>
+<area shape="rect" id="node49" href="$dc/d0c/classChannelAnalyzer.html#a535b9927e11ca7845fca2d7fd5e51e3d" title="ChannelAnalyzer::applySettings" alt="" coords="612,339,820,366"/>
+<area shape="rect" id="node44" href="$dc/d0c/classChannelAnalyzer.html#aa5722c96c8e5559f05af3dec9d27c71a" title="ChannelAnalyzer::Channel\lAnalyzer" alt="" coords="920,283,1097,324"/>
+<area shape="rect" id="node46" href="$dc/d0c/classChannelAnalyzer.html#a54ee1a4ddfe2ffe909bbe7d855e5e6bb" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="899,349,1119,375"/>
+<area shape="rect" id="node48" href="$dc/d0c/classChannelAnalyzer.html#a1f6308efe0b73d28a7d2f4d1036eb993" title="ChannelAnalyzer::start" alt="" coords="931,399,1086,426"/>
+<area shape="rect" id="node45" href="$df/db9/classChannelAnalyzer_1_1MsgReportChannelSampleRateChanged.html#a640c1444f019873ba7e53844b70a104b" title="ChannelAnalyzer::MsgReport\lChannelSampleRateChanged\l::MsgReportChannelSampleRateChanged" alt="" coords="1184,290,1451,346"/>
+<area shape="rect" id="node47" href="$dc/d0c/classChannelAnalyzer.html#aad97ad5db6b44a48a41cf69aa022a0eb" title="ChannelAnalyzer::getPllPhase" alt="" coords="1218,370,1417,397"/>
+<area shape="rect" id="node51" href="$d3/dbd/classWFMDemod.html#a7d73fbc2852f4e0e53ca966c091f08b1" title="WFMDemod::applyChannelSettings" alt="" coords="318,913,549,939"/>
+<area shape="rect" id="node57" href="$d4/dd5/classBFMDemod.html#ac2ce64daabd9d134983a4a3f6c104d09" title="BFMDemod::applyChannelSettings" alt="" coords="320,1115,547,1142"/>
+<area shape="rect" id="node61" href="$d6/de3/classWFMMod.html#a15e2f4eb2ab1972e5b01459b19656043" title="WFMMod::applyChannelSettings" alt="" coords="326,1293,541,1319"/>
+<area shape="rect" id="node67" href="$da/d9b/classDATVDemod.html#a95991198d16e6c3914f15d6b83170e94" title="DATVDemod::applyChannelSettings" alt="" coords="599,710,833,737"/>
+<area shape="rect" id="node69" href="$d2/d69/classATVMod.html#afe25407adbdab83a6d787491984aa758" title="ATVMod::applyChannelSettings" alt="" coords="329,659,537,686"/>
+<area shape="rect" id="node74" href="$d6/da5/classFreeDVMod.html#a99bbdebddb26a24e499fb668c4021792" title="FreeDVMod::applyFreeDVMode" alt="" coords="329,1166,537,1193"/>
+<area shape="rect" id="node84" href="$de/de0/classFreeDVDemod.html#aa2ca69115374e2873b5808f2d357097c" title="FreeDVDemod::applyFreeDVMode" alt="" coords="321,1343,546,1370"/>
+<area shape="rect" id="node94" href="$d3/dbd/classWFMDemod.html#a4cece179a3599879d1fa2c033b7594ce" title="WFMDemod::applySettings" alt="" coords="342,963,525,990"/>
+<area shape="rect" id="node95" href="$de/da4/classUDPSource.html#a71aea5ea4104e814fc05efa55b05724e" title="UDPSource::applySettings" alt="" coords="344,811,523,838"/>
+<area shape="rect" id="node104" href="$d4/dd5/classBFMDemod.html#a97a2e159b9ce8e01c7b1d3c7c71e3c08" title="BFMDemod::applySettings" alt="" coords="344,1065,523,1091"/>
+<area shape="rect" id="node105" href="$d6/de3/classWFMMod.html#aea7a42df0087b2917115e037df66b58a" title="WFMMod::applySettings" alt="" coords="350,1242,517,1269"/>
+<area shape="rect" id="node106" href="$da/d9b/classDATVDemod.html#afa03edab6403470c9ef3d45707277bc8" title="DATVDemod::applySettings" alt="" coords="340,761,527,787"/>
+<area shape="rect" id="node107" href="$d0/de5/classfftfilt.html#aa3dcb8bd3b82434c344555d3c1913814" title="fftfilt::fftfilt" alt="" coords="392,1394,475,1421"/>
+<area shape="rect" id="node52" href="$d3/dbd/classWFMDemod.html#ad1246235d96cc5ec95b1c9737a52432c" title="WFMDemod::WFMDemod" alt="" coords="627,1014,805,1041"/>
+<area shape="rect" id="node54" href="$d3/dbd/classWFMDemod.html#a479b78eb5669e656bbc54b2ab31e63b4" title="WFMDemod::start" alt="" coords="651,913,781,939"/>
+<area shape="rect" id="node56" href="$d3/dbd/classWFMDemod.html#a30f6c3ca378cefc32893420aeb055bfa" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="619,963,813,990"/>
+<area shape="rect" id="node53" href="$db/d08/classWFMDemod_1_1MsgConfigureChannelizer.html#a53a299a353bc18d4f8ad9377d83f5c46" title="WFMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="881,1007,1136,1048"/>
+<area shape="rect" id="node55" href="$d3/dbd/classWFMDemod.html#a9b33a25f6872c716e49e50b36db3d071" title="WFMDemod::destroy" alt="" coords="935,953,1082,979"/>
+<area shape="rect" id="node58" href="$d4/dd5/classBFMDemod.html#adc9823e0e737ea98eb3fa741d5869185" title="BFMDemod::BFMDemod" alt="" coords="631,1065,801,1091"/>
+<area shape="rect" id="node59" href="$d4/dd5/classBFMDemod.html#a7f127d311ce43f903ea95190cc8c8301" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="621,1115,811,1142"/>
+<area shape="rect" id="node60" href="$d4/dd5/classBFMDemod.html#a9b80b585fab74f92db25fd2f3c345ad4" title="BFMDemod::start" alt="" coords="653,1166,779,1193"/>
+<area shape="rect" id="node62" href="$d6/de3/classWFMMod.html#a3ec9a5e2e2e9b52cf401f9898c93c346" title="WFMMod::WFMMod" alt="" coords="644,1267,788,1294"/>
+<area shape="rect" id="node64" href="$d6/de3/classWFMMod.html#a01bdd2bd42ff3d61cce0842e5893bb2b" title="WFMMod::start" alt="" coords="659,1369,773,1395"/>
+<area shape="rect" id="node66" href="$d6/de3/classWFMMod.html#a17f8e8203448d5f97fc8850ffd705b90" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="627,1318,805,1345"/>
+<area shape="rect" id="node63" href="$db/daf/classWFMMod_1_1MsgReportFileSourceStreamData.html#aeff81f569c77de84e535283bda05d14a" title="WFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="895,1267,1122,1323"/>
+<area shape="rect" id="node65" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="943,1353,1074,1379"/>
+<area shape="rect" id="node68" href="$da/d9b/classDATVDemod.html#a4481123048f7b6cdb8bedf264c27fdc9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="909,783,1108,810"/>
+<area shape="rect" id="node70" href="$d2/d69/classATVMod.html#a58566ca325ea9c1b757e6e70f4c7925d" title="ATVMod::start" alt="" coords="663,659,769,686"/>
+<area shape="rect" id="node71" href="$d2/d69/classATVMod.html#accac8cb167adf2ab68b646b3d7f9819b" title="ATVMod::pullVideo" alt="" coords="941,682,1076,709"/>
+<area shape="rect" id="node72" href="$d2/d69/classATVMod.html#a25a025965a496bf97686f6338245ec56" title="ATVMod::modulateSample" alt="" coords="1228,682,1407,709"/>
+<area shape="rect" id="node73" href="$d2/d69/classATVMod.html#af9c47208c17ca80b63b0674e59edfb5a" title="ATVMod::pull" alt="" coords="1574,682,1675,709"/>
+<area shape="rect" id="node75" href="$d6/da5/classFreeDVMod.html#a6131e286149905c42097a601ecbab55e" title="FreeDVMod::applySettings" alt="" coords="627,1217,805,1243"/>
+<area shape="rect" id="node76" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="923,1162,1094,1189"/>
+<area shape="rect" id="node78" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="913,1217,1104,1243"/>
+<area shape="rect" id="node77" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="1204,1143,1431,1199"/>
+<area shape="rect" id="node79" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="1195,1223,1439,1250"/>
+<area shape="rect" id="node80" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1515,1223,1734,1250"/>
+<area shape="rect" id="node81" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1812,1223,1972,1250"/>
+<area shape="rect" id="node82" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="2061,1216,2247,1257"/>
+<area shape="rect" id="node83" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2323,1223,2512,1250"/>
+<area shape="rect" id="node85" href="$de/de0/classFreeDVDemod.html#a98e6dc490d1ea76cf7aad0a49a2ec332" title="FreeDVDemod::applySettings" alt="" coords="618,1419,814,1446"/>
+<area shape="rect" id="node86" href="$de/de0/classFreeDVDemod.html#a3cbf4c7469341cf5db6f73e6a204b882" title="FreeDVDemod::FreeDVDemod" alt="" coords="907,1466,1111,1493"/>
+<area shape="rect" id="node88" href="$de/de0/classFreeDVDemod.html#af7a77e592fb9250da8620b00881147ae" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="905,1414,1113,1441"/>
+<area shape="rect" id="node87" href="$d2/de4/classFreeDVDemod_1_1MsgConfigureChannelizer.html#ae517a606941d0a0786f6902f96883d3d" title="FreeDVDemod::MsgConfigure\lChannelizer::MsgConfigureChannelizer" alt="" coords="1193,1463,1442,1504"/>
+<area shape="rect" id="node89" href="$de/de0/classFreeDVDemod.html#ad960e3d5b9e76abdb096930ccb2e2ead" title="FreeDVDemod::setSampleSink" alt="" coords="1215,1411,1420,1438"/>
+<area shape="rect" id="node90" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="1499,1411,1751,1438"/>
+<area shape="rect" id="node91" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1803,1411,1981,1438"/>
+<area shape="rect" id="node92" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="2036,1411,2272,1438"/>
+<area shape="rect" id="node93" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="2335,1411,2499,1438"/>
+<area shape="rect" id="node96" href="$de/da4/classUDPSource.html#a9d42eb6165ff02cafc2035ca219366ca" title="UDPSource::UDPSource" alt="" coords="631,811,801,838"/>
+<area shape="rect" id="node98" href="$de/da4/classUDPSource.html#a82bb428067797487c24e51149955b6af" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="621,862,811,889"/>
+<area shape="rect" id="node97" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a307eb736cd6c12733d05076ce5841205" title="UDPSource::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="883,835,1134,876"/>
+<area shape="rect" id="node99" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="909,901,1109,927"/>
+<area shape="rect" id="node100" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="1208,901,1427,927"/>
+<area shape="rect" id="node101" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1545,901,1705,927"/>
+<area shape="rect" id="node102" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1799,893,1985,935"/>
+<area shape="rect" id="node103" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="2059,901,2249,927"/>
+</map>

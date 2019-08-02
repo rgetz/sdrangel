@@ -1,0 +1,6 @@
+<map id="RemoteSourceGUI::tick" name="RemoteSourceGUI::tick">
+<area shape="rect" id="node2" href="$db/ddf/classRemoteSource_1_1MsgQueryStreamData.html#a09ceed72226642a9e6e5703754c5c985" title="RemoteSource::MsgQueryStream\lData::create" alt="" coords="216,5,435,47"/>
+<area shape="rect" id="node3" href="$d2/d80/classRemoteSourceGUI.html#a49827fdc512aa74e0ac6b92163918696" title="RemoteSourceGUI::display\lEventTimer" alt="" coords="234,71,417,112"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="241,136,409,177"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="251,202,400,229"/>
+</map>

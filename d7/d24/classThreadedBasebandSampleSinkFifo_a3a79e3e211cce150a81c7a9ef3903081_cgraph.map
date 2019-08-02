@@ -1,0 +1,11 @@
+<map id="ThreadedBasebandSampleSinkFifo::ThreadedBasebandSampleSinkFifo" name="ThreadedBasebandSampleSinkFifo::ThreadedBasebandSampleSinkFifo">
+<area shape="rect" id="node2" href="$d7/d24/classThreadedBasebandSampleSinkFifo.html#aaeeb806757b4b426c5f543c62270ecbc" title="ThreadedBasebandSampleSink\lFifo::handleFifoData" alt="" coords="309,190,513,231"/>
+<area shape="rect" id="node9" href="$d0/d92/classSampleSinkFifo.html#ad8704b13953f2e4719f331be04b777de" title="SampleSinkFifo::setSize" alt="" coords="328,311,495,337"/>
+<area shape="rect" id="node3" href="$d0/d92/classSampleSinkFifo.html#aa737d60305d788b236e71544aba09903" title="SampleSinkFifo::fill" alt="" coords="591,29,725,56"/>
+<area shape="rect" id="node4" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="574,81,742,122"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a5e33dfed57d8ee0e73a2bab5faecec36" title="Returns queue size. " alt="" coords="585,147,731,173"/>
+<area shape="rect" id="node6" href="$d0/d92/classSampleSinkFifo.html#a463a72cc744df8d8a706b82f6101fac9" title="SampleSinkFifo::readBegin" alt="" coords="568,197,748,224"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="583,249,733,290"/>
+<area shape="rect" id="node8" href="$d0/d92/classSampleSinkFifo.html#a754930ac8ee8be021182e0ba0319e909" title="SampleSinkFifo::readCommit" alt="" coords="561,315,755,341"/>
+<area shape="rect" id="node10" href="$d0/d92/classSampleSinkFifo.html#a319ce144cb26ae5ac488085b04478cf9" title="SampleSinkFifo::create" alt="" coords="579,365,737,392"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ATVDemodGUI::blockApplySettings" name="ATVDemodGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#a574fba4eb8e30b48aa1e69fe95da6a82" title="ATVDemodGUI::deserialize" alt="" coords="566,5,750,32"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a6446ad7d97fb0954042934fa7914e5e4" title="ATVDemodGUI::resetToDefaults" alt="" coords="288,56,503,83"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="551,56,765,83"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#a591bdbbf2604b8eb23accf877613e90c" title="ATVDemodGUI::on_reset\l_clicked" alt="" coords="572,107,744,149"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="813,56,972,83"/>
+<area shape="rect" id="node6" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1020,49,1207,90"/>
+</map>

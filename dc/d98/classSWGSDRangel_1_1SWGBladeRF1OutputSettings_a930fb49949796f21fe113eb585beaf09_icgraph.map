@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGBladeRF1OutputSettings::setDevSampleRate" name="SWGSDRangel::SWGBladeRF1OutputSettings::setDevSampleRate">
+<area shape="rect" id="node2" href="$dc/d98/classBladerf1Output.html#a2916d46f95205efbc6b0022ffbf6dd13" title="Bladerf1Output::webapiFormat\lDeviceSettings" alt="" coords="539,57,737,98"/>
+<area shape="rect" id="node6" href="$dc/d98/classBladerf1Output.html#a2c501a4caa8ea49095a2cf471cc611f7" title="Bladerf1Output::webapiReverse\lSendSettings" alt="" coords="284,141,491,182"/>
+<area shape="rect" id="node3" href="$dc/d98/classBladerf1Output.html#a73a2b02fa5bd9646525c8b30adf9b7d4" title="Bladerf1Output::webapiSettingsGet" alt="" coords="785,5,1012,32"/>
+<area shape="rect" id="node5" href="$dc/d98/classBladerf1Output.html#a9d82754c84fe479ebcda971a14acce6e" title="Bladerf1Output::webapiSettings\lPutPatch" alt="" coords="795,57,1002,98"/>
+<area shape="rect" id="node4" href="$dc/d98/classBladerf1Output.html#afcf915bff7fdd761b45084c079586d4d" title="For when the sink sample rate is set externally. " alt="" coords="1060,64,1267,91"/>
+<area shape="rect" id="node7" href="$dc/d98/classBladerf1Output.html#ac6e0cefa4a44cf9b2b13f1bedb0fb232" title="Bladerf1Output::applySettings" alt="" coords="540,148,736,175"/>
+<area shape="rect" id="node8" href="$dc/d98/classBladerf1Output.html#aa0a02ed44fc554a6bfbac999e6d7e6b6" title="Bladerf1Output::handleMessage" alt="" coords="795,123,1003,149"/>
+<area shape="rect" id="node9" href="$dc/d98/classBladerf1Output.html#a51d0859e4a14aa49fad1fc6ab0fa93cf" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="831,173,966,200"/>
+<area shape="rect" id="node11" href="$dc/d98/classBladerf1Output.html#ae09923c3adfa3aea6ddd42cfe2969dd6" title="Bladerf1Output::start" alt="" coords="827,224,970,251"/>
+<area shape="rect" id="node10" href="$df/d80/classBladerf1Output_1_1MsgReportBladerf1.html#af191b9a4b61ba74486cfdffae81c355b" title="Bladerf1Output::MsgReport\lBladerf1::MsgReportBladerf1" alt="" coords="1068,191,1259,233"/>
+</map>

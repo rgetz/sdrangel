@@ -1,0 +1,9 @@
+<map id="PlutoSDROutputGUI::updateFrequencyLimits" name="PlutoSDROutputGUI::updateFrequencyLimits">
+<area shape="rect" id="node2" href="$d2/d66/classPlutoSDROutputGUI.html#a3498a1850fbd69376b3cefe720c59163" title="PlutoSDROutputGUI::\ldisplaySettings" alt="" coords="211,129,363,171"/>
+<area shape="rect" id="node6" href="$d2/d66/classPlutoSDROutputGUI.html#afd8e2abb149639500049e4897eb5d4df" title="PlutoSDROutputGUI::\lPlutoSDROutputGUI" alt="" coords="812,129,964,171"/>
+<area shape="rect" id="node8" href="$d2/d66/classPlutoSDROutputGUI.html#af38c9b2f262a6b71064737392744c83a" title="PlutoSDROutputGUI::\lon_transverter_clicked" alt="" coords="211,305,364,347"/>
+<area shape="rect" id="node3" href="$d2/d66/classPlutoSDROutputGUI.html#ae1839f941adebe805c7e584a454e6e6f" title="PlutoSDROutputGUI::\ldeserialize" alt="" coords="412,5,564,47"/>
+<area shape="rect" id="node4" href="$d2/d66/classPlutoSDROutputGUI.html#af3f2e2282b81049df089b0733f18bf42" title="PlutoSDROutputGUI::\lhandleMessage" alt="" coords="412,71,564,112"/>
+<area shape="rect" id="node7" href="$d2/d66/classPlutoSDROutputGUI.html#aef44b2bf3b1fbef546a99fe8ae46ad5d" title="PlutoSDROutputGUI::\lsetCenterFrequency" alt="" coords="412,188,564,229"/>
+<area shape="rect" id="node5" href="$d2/d66/classPlutoSDROutputGUI.html#a1a9019c8d9d45eda1b322f25cfee7b85" title="PlutoSDROutputGUI::\lhandleInputMessages" alt="" coords="612,71,764,112"/>
+</map>

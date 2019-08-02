@@ -1,0 +1,7 @@
+<map id="DeviceBladeRF2::getBandwidthRangeTx" name="DeviceBladeRF2::getBandwidthRangeTx">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a18db8a0b15bebf44a94682d88b2e294a" title="BladeRF2Output::getBandwidth\lRange" alt="" coords="263,49,469,91"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a76cd758eaf09eb4333f842bde7a44ec2" title="BladeRF2Output::webapiFormat\lDeviceReport" alt="" coords="261,115,471,156"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="559,5,706,47"/>
+<area shape="rect" id="node4" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="795,97,1012,123"/>
+<area shape="rect" id="node6" href="$d7/d79/classBladeRF2Output.html#a1b00dae3e3a37aa13c2192ceb3be6e29" title="BladeRF2Output::webapiReportGet" alt="" coords="519,122,747,149"/>
+</map>

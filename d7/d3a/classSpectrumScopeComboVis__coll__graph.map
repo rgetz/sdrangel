@@ -1,0 +1,21 @@
+<map id="SpectrumScopeComboVis" name="SpectrumScopeComboVis">
+<area shape="rect" id="node2" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="428,544,579,571"/>
+<area shape="rect" id="node4" href="$d7/dcf/classScopeVis.html" title="ScopeVis" alt="" coords="808,384,887,411"/>
+<area shape="rect" id="node14" href="$d1/dfc/classSpectrumVis.html" title="SpectrumVis" alt="" coords="799,629,896,656"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="42,723,155,749"/>
+<area shape="rect" id="node16" href="$d6/dab/classGLSpectrum.html" title="GLSpectrum" alt="" coords="456,468,551,495"/>
+<area shape="rect" id="node5" href="$d2/d02/classGLScope.html" title="GLScope" alt="" coords="465,351,541,377"/>
+<area shape="rect" id="node6" href="$de/d86/classGLShaderSimple.html" title="GLShaderSimple" alt="" coords="39,448,159,475"/>
+<area shape="rect" id="node7" href="$d8/d4d/structScopeVis_1_1TriggerData.html" title="ScopeVis::TriggerData" alt="" coords="21,20,176,47"/>
+<area shape="rect" id="node8" href="$dc/db0/classScaleEngine.html" title="ScaleEngine" alt="" coords="51,340,146,367"/>
+<area shape="rect" id="node9" href="$de/dd6/classIncrementalArray.html" title="IncrementalArray\&lt; GLfloat \&gt;" alt="" coords="5,645,192,672"/>
+<area shape="rect" id="node10" href="$d1/d17/classGLShaderTextured.html" title="GLShaderTextured" alt="" coords="33,169,164,196"/>
+<area shape="rect" id="node11" href="$d8/d80/structScopeVis_1_1TraceBackDiscreteMemory.html" title="ScopeVis::TraceBackDiscrete\lMemory" alt="" coords="404,402,603,443"/>
+<area shape="rect" id="node12" href="$de/df0/classScopeVis_1_1TriggerComparator.html" title="ScopeVis::TriggerComparator" alt="" coords="406,249,601,276"/>
+<area shape="rect" id="node13" href="$d5/d39/structScopeVis_1_1Traces.html" title="ScopeVis::Traces" alt="" coords="440,300,567,327"/>
+<area shape="rect" id="node15" href="$de/d10/classFFTEngine.html" title="FFTEngine" alt="" coords="460,601,547,628"/>
+<area shape="rect" id="node17" href="$d3/d06/classMax2D.html" title="Max2D\&lt; double \&gt;" alt="" coords="440,703,567,729"/>
+<area shape="rect" id="node18" href="$d3/d9f/classFixedAverage2D.html" title="FixedAverage2D\&lt; double \&gt;" alt="" coords="413,753,594,780"/>
+<area shape="rect" id="node19" href="$df/d5a/classFFTWindow.html" title="FFTWindow" alt="" coords="457,804,550,831"/>
+<area shape="rect" id="node20" href="$df/d7f/classMovingAverage2D.html" title="MovingAverage2D\&lt; double \&gt;" alt="" coords="408,652,599,679"/>
+</map>

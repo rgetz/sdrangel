@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGNFMModSettings::setCwKeyer" name="SWGSDRangel::SWGNFMModSettings::setCwKeyer">
+<area shape="rect" id="node2" href="$de/df8/classNFMMod.html#aac99a4c842aa6e142c973867d27fc02b" title="NFMMod::webapiFormatChannel\lSettings" alt="" coords="309,53,524,94"/>
+<area shape="rect" id="node6" href="$de/df8/classNFMMod.html#a5162963cd00aed3b96338b55bed7f93d" title="NFMMod::webapiReverseSend\lCWSettings" alt="" coords="315,118,519,159"/>
+<area shape="rect" id="node9" href="$de/df8/classNFMMod.html#ab8a5d4ade97a659598368c5e176c7c3f" title="NFMMod::webapiReverseSend\lSettings" alt="" coords="315,183,519,225"/>
+<area shape="rect" id="node3" href="$de/df8/classNFMMod.html#a772b8a569862c83e17567ec9ea73057f" title="NFMMod::webapiSettingsGet" alt="" coords="572,5,767,32"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMMod.html#a03bb86d163c92ce35eff191ab7c958a3" title="NFMMod::webapiSettingsPut\lPatch" alt="" coords="573,57,766,98"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMMod.html#ae32768518d5b2dc6f2bb314dd8fb8853" title="NFMMod::getStreamCenterFrequency" alt="" coords="815,35,1059,61"/>
+<area shape="rect" id="node7" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="849,125,1024,152"/>
+<area shape="rect" id="node8" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="1157,125,1283,152"/>
+<area shape="rect" id="node10" href="$de/df8/classNFMMod.html#a5df57ef110295347dabb14a81e2df9d6" title="NFMMod::applySettings" alt="" coords="588,191,751,217"/>
+<area shape="rect" id="node11" href="$de/df8/classNFMMod.html#a6a5f4ec527cfb7e59b5e6abbb13942b2" title="NFMMod::NFMMod" alt="" coords="867,191,1006,217"/>
+<area shape="rect" id="node12" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1107,176,1333,232"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="ATVDemod::MsgReportChannelSampleRateChanged::MsgReportChannelSampleRateChanged" name="ATVDemod::MsgReportChannelSampleRateChanged::MsgReportChannelSampleRateChanged">
+<area shape="rect" id="node2" href="$de/dce/classATVDemod.html#a67ae135d756d0c8643beede8b529a412" title="ATVDemod::ATVDemod" alt="" coords="324,301,491,327"/>
+<area shape="rect" id="node16" href="$de/dce/classATVDemod.html#af2ba0ca629bd85096b3554f6d586e97c" title="ATVDemod::~ATVDemod" alt="" coords="320,435,495,462"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a39a612869ee44449bd80a146184ad721" title="Add a channel sink (Rx) " alt="" coords="556,275,744,302"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a1c01820624b40694bd7cb20c2605e04e" title="DeviceAPI::addChannelSinkAPI" alt="" coords="545,326,755,353"/>
+<area shape="rect" id="node9" href="$de/dce/classATVDemod.html#a1102794e675c1ad8e10c769ec4e913e7" title="ATVDemod::applyStandard" alt="" coords="559,377,741,403"/>
+<area shape="rect" id="node10" href="$de/dce/classATVDemod.html#aa98a1ae31a4087212ec0f7e1fd346ffa" title="ATVDemod::channelSampleRate\lChanged" alt="" coords="543,123,757,164"/>
+<area shape="rect" id="node15" href="$db/d1b/classPhaseDiscriminators.html#add56c2a6c4588531bd470844f83ada3b" title="PhaseDiscriminators\l::setFMScaling" alt="" coords="579,209,721,251"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a74159be7b1305ac70ceb988349c1d799" title="Add a sample sink that will run on its own thread. " alt="" coords="831,253,1003,295"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html#a26be0a9b84c19cc4ad6891104af2a316" title="Add a channel sink that will run on its own thread. " alt="" coords="833,319,1000,360"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1076,410,1255,437"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="810,385,1023,411"/>
+<area shape="rect" id="node11" href="$de/d5c/classATVDemod_1_1MsgReportChannelSampleRateChanged.html#a9e71c16a2a0469c0835a33b6195d4bdd" title="ATVDemod::MsgReportChannel\lSampleRateChanged::create" alt="" coords="811,123,1022,164"/>
+<area shape="rect" id="node12" href="$da/d0a/classDownChannelizer.html#ae051d357f719c8f35dac8b05f0f17b5c" title="DownChannelizer::getInput\lSampleRate" alt="" coords="827,188,1007,229"/>
+<area shape="rect" id="node13" href="$d8/df9/classBasebandSampleSink.html#aaa55cc6dd7c834dbd53d097d3145d42e" title="BasebandSampleSink\l::getMessageQueueToGUI" alt="" coords="827,5,1006,47"/>
+<area shape="rect" id="node14" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="842,71,991,98"/>
+<area shape="rect" id="node17" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="545,494,755,521"/>
+<area shape="rect" id="node20" href="$dd/db6/classDeviceAPI.html#a0256b15fffe8fe72d67a3c7f48dd1de3" title="DeviceAPI::removeChannel\lSinkAPI" alt="" coords="558,428,742,469"/>
+<area shape="rect" id="node18" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3dbc76bc6de91d8fe553d3a70ee6f287" title="Remove a sample sink that runs on its own thread. " alt="" coords="831,552,1003,593"/>
+<area shape="rect" id="node19" href="$df/d80/classDSPDeviceMIMOEngine.html#abfc2e3f0274e76009daa461526fb810e" title="Remove a channel sink that runs on its own thread. " alt="" coords="833,487,1000,528"/>
+<area shape="rect" id="node21" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="805,435,1028,462"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TestMIGui::displaySettings" name="TestMIGui::displaySettings">
+<area shape="rect" id="node2" href="$df/d78/classTestMIGui.html#af7b65965d72d6e061405e6791049821c" title="TestMIGui::deserialize" alt="" coords="523,197,677,224"/>
+<area shape="rect" id="node3" href="$df/d78/classTestMIGui.html#aba641dc6bcd2bd99dca951d826458bad" title="TestMIGui::handleMessage" alt="" coords="247,5,429,32"/>
+<area shape="rect" id="node5" href="$df/d78/classTestMIGui.html#a46d27a080d13bc0e97967b840af36f24" title="TestMIGui::TestMIGui" alt="" coords="757,31,909,57"/>
+<area shape="rect" id="node6" href="$df/d78/classTestMIGui.html#ad1de1d3739648ad8a6b41b6c72347666" title="TestMIGui::on_spectrumSource\l_currentIndexChanged" alt="" coords="235,158,441,199"/>
+<area shape="rect" id="node7" href="$df/d78/classTestMIGui.html#a324091d48ba7558c6209e9551e64364d" title="TestMIGui::on_streamIndex\l_currentIndexChanged" alt="" coords="246,223,430,265"/>
+<area shape="rect" id="node8" href="$df/d78/classTestMIGui.html#a07b55dc7ff5ee0938eb36e47e8cbad2e" title="TestMIGui::resetToDefaults" alt="" coords="246,289,430,316"/>
+<area shape="rect" id="node9" href="$df/d78/classTestMIGui.html#a347c6dd646cb6ae3469661acfc81ea1c" title="TestMIGui::setCenterFrequency" alt="" coords="233,340,443,367"/>
+<area shape="rect" id="node4" href="$df/d78/classTestMIGui.html#ae270a3d1ab89042d0b99e35232b3d96d" title="TestMIGui::handleInputMessages" alt="" coords="491,5,709,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="RemoteInputUDPHandler::start" name="RemoteInputUDPHandler::start">
+<area shape="rect" id="node2" href="$d9/dd6/classRemoteInputUDPHandler.html#a64caba7f9eb69d368f8eabc13aa93266" title="RemoteInputUDPHandler\l::configureUDPLink" alt="" coords="224,75,395,116"/>
+<area shape="rect" id="node8" href="$d9/dd6/classRemoteInputUDPHandler.html#a99d963dcfb096a762b5bb3fca3b8380e" title="RemoteInputUDPHandler\l::setMessageQueueToGUI" alt="" coords="445,16,624,57"/>
+<area shape="rect" id="node11" href="$d3/d67/classRemoteInput.html#ab973ffbb4e3a84922e9b0e34f57abd0b" title="RemoteInput::start" alt="" coords="244,151,375,178"/>
+<area shape="rect" id="node3" href="$d3/d67/classRemoteInput.html#af18aff424c66d86afda03bec8ecb6ff2" title="RemoteInput::applySettings" alt="" coords="443,82,627,109"/>
+<area shape="rect" id="node4" href="$d3/d67/classRemoteInput.html#a4f1ef1abb8edb7ecd68ff0dbd01a4d2f" title="RemoteInput::handleMessage" alt="" coords="684,71,880,98"/>
+<area shape="rect" id="node6" href="$d3/d67/classRemoteInput.html#ac531255ff3648ebf37e9c529fd6d9821" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="721,122,843,149"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="950,67,1145,94"/>
+<area shape="rect" id="node7" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="955,119,1140,160"/>
+<area shape="rect" id="node9" href="$d3/d67/classRemoteInput.html#afd26d82f4d56c0d7fa2373bc8b9b5d9b" title="RemoteInput::setMessageQueue\lToGUI" alt="" coords="675,5,889,47"/>
+<area shape="rect" id="node10" href="$db/dfb/classRemoteInputGui.html#a78d5a650119812ffc270775a5b070461" title="RemoteInputGui::RemoteInputGui" alt="" coords="937,13,1157,39"/>
+</map>

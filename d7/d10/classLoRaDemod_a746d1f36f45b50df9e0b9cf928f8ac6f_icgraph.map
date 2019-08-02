@@ -1,0 +1,7 @@
+<map id="LoRaDemod::detect" name="LoRaDemod::detect">
+<area shape="rect" id="node2" href="$d7/d10/classLoRaDemod.html#a4fbc1b2729aa081bbf1b9aa7e41454ff" title="LoRaDemod::feed" alt="" coords="192,5,320,32"/>
+<area shape="rect" id="node3" href="$d7/d10/classLoRaDemod.html#ac9b00e5bcdd3f5764f28fb37b210d5bb" title="LoRaDemod::setSpectrumSink" alt="" coords="368,5,571,32"/>
+<area shape="rect" id="node4" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="619,5,843,32"/>
+<area shape="rect" id="node5" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="891,5,1053,32"/>
+<area shape="rect" id="node6" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1101,5,1324,32"/>
+</map>

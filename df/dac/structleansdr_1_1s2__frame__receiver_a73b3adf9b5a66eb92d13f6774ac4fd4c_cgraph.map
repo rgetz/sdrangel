@@ -1,0 +1,7 @@
+<map id="leansdr::s2_frame_receiver::run_frame_search" name="leansdr::s2_frame_receiver::run_frame_search">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a05e80256399b9904a0a4c1bf63ce0155" title="floor" alt="" coords="298,5,345,32"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespaceleansdr.html#a3afe578114ae6a586e5a10ae916e1c71" title="leansdr::hamming_weight" alt="" coords="236,56,407,83"/>
+<area shape="rect" id="node5" href="$dd/dbd/structleansdr_1_1s2__frame__receiver_1_1sampler__state.html#a77084e55ef237e5feed1b7559537960e" title="leansdr::s2_frame_receiver\l::sampler_state::normalize" alt="" coords="232,107,411,149"/>
+<area shape="rect" id="node6" href="$d7/da3/structleansdr_1_1sampler__interface.html#a417a41ea4d3ec675181d8bea56b1787a" title="leansdr::sampler_interface\l::update_freq" alt="" coords="234,173,409,214"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#a0b4002c0f3f7ae2655c40b9415f99a99" title="Fixed::floor" alt="" coords="459,5,545,32"/>
+</map>

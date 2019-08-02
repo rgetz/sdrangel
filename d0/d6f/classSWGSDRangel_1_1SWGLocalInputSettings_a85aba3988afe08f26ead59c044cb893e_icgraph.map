@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGLocalInputSettings::setDcBlock" name="SWGSDRangel::SWGLocalInputSettings::setDcBlock">
+<area shape="rect" id="node2" href="$d8/d47/classLocalInput.html#a33aeeff4cf1042f8b0dee480f2846788" title="LocalInput::webapiFormat\lDeviceSettings" alt="" coords="496,57,668,98"/>
+<area shape="rect" id="node6" href="$d8/d47/classLocalInput.html#a116b686777cbe739c124cea2b0175b35" title="LocalInput::webapiReverse\lSendSettings" alt="" coords="268,115,448,157"/>
+<area shape="rect" id="node3" href="$d8/d47/classLocalInput.html#a559aa51c6cf57fd24d60957a82e0c113" title="LocalInput::webapiSettingsGet" alt="" coords="716,5,916,32"/>
+<area shape="rect" id="node5" href="$d8/d47/classLocalInput.html#a4f82e6432d6a6ea95fbbc28a937771ac" title="LocalInput::webapiSettings\lPutPatch" alt="" coords="727,57,905,98"/>
+<area shape="rect" id="node4" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a9360120dec540495691a8f0e74e59a59" title="LocalInput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="964,79,1215,135"/>
+<area shape="rect" id="node7" href="$d8/d47/classLocalInput.html#ad33a3fb9846a5afc48ec1c3526499b9b" title="LocalInput::applySettings" alt="" coords="497,123,667,149"/>
+<area shape="rect" id="node8" href="$d8/d47/classLocalInput.html#a208b495a2352e0312dc1ad04632c22ff" title="LocalInput::handleMessage" alt="" coords="725,123,907,149"/>
+<area shape="rect" id="node9" href="$d8/d47/classLocalInput.html#a0c9c3749856cc77bdffc01ee69758662" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="763,173,869,200"/>
+</map>

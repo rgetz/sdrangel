@@ -1,0 +1,7 @@
+<map id="RTLSDRInput::MsgConfigureRTLSDR::getSettings" name="RTLSDRInput::MsgConfigureRTLSDR::getSettings">
+<area shape="rect" id="node2" href="$d5/d42/classRTLSDRGui.html#a76f0ae6403ce58f5c27ab1f6e8088b1e" title="RTLSDRGui::handleMessage" alt="" coords="253,5,447,32"/>
+<area shape="rect" id="node5" href="$d0/d36/classRTLSDRInput.html#ab6825aa9d6aad9ebd5cbddec96646bf3" title="RTLSDRInput::handleMessage" alt="" coords="248,56,452,83"/>
+<area shape="rect" id="node3" href="$d5/d42/classRTLSDRGui.html#a359248b1e7149d05da1c72cf963db631" title="RTLSDRGui::handleInputMessages" alt="" coords="500,5,731,32"/>
+<area shape="rect" id="node4" href="$d5/d42/classRTLSDRGui.html#a9597363c005b0bb0bc4446abb6a0da70" title="RTLSDRGui::RTLSDRGui" alt="" coords="779,5,957,32"/>
+<area shape="rect" id="node6" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="514,56,717,83"/>
+</map>

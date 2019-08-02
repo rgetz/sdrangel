@@ -1,0 +1,6 @@
+<map id="GLScopeGUI::on_trigDel_clicked" name="GLScopeGUI::on_trigDel_clicked">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#aa3f7f3297ee6428f9d026b4f2ef42040" title="ScopeVis::removeTrigger" alt="" coords="220,78,389,105"/>
+<area shape="rect" id="node3" href="$d2/d18/classScopeVis_1_1MsgScopeVisNGRemoveTrigger.html#a1020007d58474c379c1fd0c860482c26" title="ScopeVis::MsgScopeVisNGRemove\lTrigger::create" alt="" coords="437,5,673,47"/>
+<area shape="rect" id="node4" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="471,71,639,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="481,137,630,163"/>
+</map>

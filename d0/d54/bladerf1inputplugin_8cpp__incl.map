@@ -1,0 +1,18 @@
+<map id="plugins/samplesource/bladerf1input/bladerf1inputplugin.cpp" name="plugins/samplesource/bladerf1input/bladerf1inputplugin.cpp">
+<area shape="rect" id="node2" href="$dd/d03/bladerf1inputplugin_8h.html" title="bladerf1inputplugin.h" alt="" coords="159,169,300,196"/>
+<area shape="rect" id="node9" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="347,169,469,196"/>
+<area shape="rect" id="node11" href="$dc/d1a/simpleserializer_8h.html" title="util/simpleserializer.h" alt="" coords="509,251,653,278"/>
+<area shape="rect" id="node17" href="$db/d3a/bladerf1inputgui_8h.html" title="bladerf1inputgui.h" alt="" coords="1403,95,1527,121"/>
+<area shape="rect" id="node4" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="152,251,307,278"/>
+<area shape="rect" id="node7" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1156,408,1225,435"/>
+<area shape="rect" id="node13" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1250,408,1361,435"/>
+<area shape="rect" id="node18" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="728,251,899,278"/>
+<area shape="rect" id="node22" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1686,333,1829,360"/>
+<area shape="rect" id="node25" href="$d7/dce/bladerf1input_8h.html" title="bladerf1input.h" alt="" coords="1357,169,1464,196"/>
+<area shape="rect" id="node27" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="1769,251,1946,278"/>
+<area shape="rect" id="node32" href="$db/d6e/devicebladerf1_8h.html" title="../../../devices/bladerf1\l/devicebladerf1.h" alt="" coords="1334,244,1487,285"/>
+<area shape="rect" id="node33" href="$df/d38/devicebladerf1param_8h.html" title="../../../devices/bladerf1\l/devicebladerf1param.h" alt="" coords="1152,244,1309,285"/>
+<area shape="rect" id="node34" href="$da/de9/bladerf1inputsettings_8h.html" title="bladerf1inputsettings.h" alt="" coords="923,251,1077,278"/>
+<area shape="rect" id="node28" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="1413,333,1531,360"/>
+<area shape="rect" id="node30" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1555,333,1661,360"/>
+</map>

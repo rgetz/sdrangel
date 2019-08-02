@@ -1,0 +1,9 @@
+<map id="GLScopeGUI::setTrigCountDisplay" name="GLScopeGUI::setTrigCountDisplay">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab9c114e79ee924430c1235ef9d9be216" title="GLScopeGUI::deserialize" alt="" coords="242,5,413,32"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#a4565cd8643baabaa08902db093cd9bd5" title="GLScopeGUI::on_trigCount\l_valueChanged" alt="" coords="236,57,419,98"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a8ccc723bfdeca8e367f5418de13bad75" title="GLScopeGUI::setTriggerUI" alt="" coords="237,123,417,149"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#ab19be8ad036558656dea0debc93968e1" title="GLScopeGUI::on_trig\l_valueChanged" alt="" coords="484,50,631,91"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#a0e784745942e60e637bc9dce25c6c9d1" title="GLScopeGUI::on_trigUp\l_clicked" alt="" coords="475,115,639,157"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#a2e0a854eb802c14c874500575b155e27" title="GLScopeGUI::on_trigDown\l_clicked" alt="" coords="467,181,648,222"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a37e7446c5c3c52ea5f13241d22ba431f" title="GLScopeGUI::focusOnTrigger" alt="" coords="696,57,893,84"/>
+</map>

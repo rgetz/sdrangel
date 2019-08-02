@@ -1,0 +1,11 @@
+<map id="AMDemod::webapiFormatChannelReport" name="AMDemod::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="341,5,466,32"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a63fe0bf766198c38f86e2e532dda8953" title="SWGSDRangel::SWGChannelReport\l::getAmDemodReport" alt="" coords="283,57,524,98"/>
+<area shape="rect" id="node4" href="$d9/df0/classAMDemod.html#a82368b5a0eb4ceffb32cb348ff5bb6b3" title="AMDemod::getMagSqLevels" alt="" coords="309,123,498,149"/>
+<area shape="rect" id="node7" href="$d9/d6f/classSWGSDRangel_1_1SWGAMDemodReport.html#aa63c15c7d8ae1204f59a9e73ce0a6749" title="SWGSDRangel::SWGAMDemodReport\l::setAudioSampleRate" alt="" coords="276,174,531,215"/>
+<area shape="rect" id="node8" href="$d9/d6f/classSWGSDRangel_1_1SWGAMDemodReport.html#aa2d47251f00f6dc31a2d0e0847832572" title="SWGSDRangel::SWGAMDemodReport\l::setChannelPowerDb" alt="" coords="276,239,531,281"/>
+<area shape="rect" id="node9" href="$d9/d6f/classSWGSDRangel_1_1SWGAMDemodReport.html#acdf8814df16381056f8fa9be8eef4da1" title="SWGSDRangel::SWGAMDemodReport\l::setChannelSampleRate" alt="" coords="276,305,531,346"/>
+<area shape="rect" id="node10" href="$d9/d6f/classSWGSDRangel_1_1SWGAMDemodReport.html#a56f9cefc91890c159cc63f4cef2666ea" title="SWGSDRangel::SWGAMDemodReport\l::setSquelch" alt="" coords="276,370,531,411"/>
+<area shape="rect" id="node5" href="$d9/df0/classAMDemod.html#aa08d1c1018adfc1be31183b43d93035a" title="AMDemod::getNumberOfDevice\lStreams" alt="" coords="579,115,789,157"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#a58a81643d0821a4e23beb37cbf75edc7" title="DeviceAPI::getNbSourceStreams" alt="" coords="837,123,1056,149"/>
+</map>

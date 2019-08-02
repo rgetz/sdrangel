@@ -1,0 +1,12 @@
+<map id="CWKeyer::webapiSettingsPutPatch" name="CWKeyer::webapiSettingsPutPatch">
+<area shape="rect" id="node2" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#adfbe7325f4146604aa036870ab44edb0" title="SWGSDRangel::SWGCWKeyerSettings\l::getDashKey" alt="" coords="249,5,508,47"/>
+<area shape="rect" id="node3" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a70a07fd0d59f45faf3b88ecae5b6bf8f" title="SWGSDRangel::SWGCWKeyerSettings\l::getDashKeyModifiers" alt="" coords="249,71,508,112"/>
+<area shape="rect" id="node4" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a923c48ade1d8471294b0bc145c1242a9" title="SWGSDRangel::SWGCWKeyerSettings\l::getDotKey" alt="" coords="249,136,508,177"/>
+<area shape="rect" id="node5" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ac6dd14576bd900e93a09b66c1987b785" title="SWGSDRangel::SWGCWKeyerSettings\l::getDotKeyModifiers" alt="" coords="249,201,508,243"/>
+<area shape="rect" id="node6" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#aaf61ecaf66578cc4a6307c6a4875b606" title="SWGSDRangel::SWGCWKeyerSettings\l::getKeyboardIambic" alt="" coords="249,267,508,308"/>
+<area shape="rect" id="node7" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#af8076535833ed9b74d32ddb6f3e28868" title="SWGSDRangel::SWGCWKeyerSettings\l::getLoop" alt="" coords="249,332,508,373"/>
+<area shape="rect" id="node8" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a13099fc19ebf6d44cf54f4a1d3af3a7a" title="SWGSDRangel::SWGCWKeyerSettings\l::getMode" alt="" coords="249,397,508,439"/>
+<area shape="rect" id="node9" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a40c9ff4fe1bd9387c0cb99721749a282" title="SWGSDRangel::SWGCWKeyerSettings\l::getSampleRate" alt="" coords="249,463,508,504"/>
+<area shape="rect" id="node10" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ab393704d430af159f6354f024a51b1ee" title="SWGSDRangel::SWGCWKeyerSettings\l::getText" alt="" coords="249,528,508,569"/>
+<area shape="rect" id="node11" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a0abc9a77855fa332cdb8b4de4ca76062" title="SWGSDRangel::SWGCWKeyerSettings\l::getWpm" alt="" coords="249,593,508,635"/>
+</map>

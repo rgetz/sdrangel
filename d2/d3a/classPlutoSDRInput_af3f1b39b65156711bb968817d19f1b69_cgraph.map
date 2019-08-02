@@ -1,0 +1,5 @@
+<map id="PlutoSDRInput::suspendBuddies" name="PlutoSDRInput::suspendBuddies">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a2f7cb4278292fa7864f420103fe92624" title="DeviceAPI::getBuddySharedPtr" alt="" coords="268,5,475,32"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="279,56,463,83"/>
+<area shape="rect" id="node4" href="$dc/d53/classDevicePlutoSDRShared_1_1ThreadInterface.html#a2d3c150fe2e56254ce4b7f785cf24186" title="DevicePlutoSDRShared\l::ThreadInterface::stopWork" alt="" coords="279,107,464,149"/>
+</map>

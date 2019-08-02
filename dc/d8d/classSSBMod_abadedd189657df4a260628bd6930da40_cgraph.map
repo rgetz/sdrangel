@@ -1,0 +1,11 @@
+<map id="SSBMod::webapiReportGet" name="SSBMod::webapiReportGet">
+<area shape="rect" id="node2" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a0cfa05bfdf49e8e6f3383ae087cf25c2" title="SWGSDRangel::SWGChannelReport\l::getSsbModReport" alt="" coords="531,5,773,47"/>
+<area shape="rect" id="node3" href="$dc/d35/classSWGSDRangel_1_1SWGSSBModReport.html#a85deca2aff0c5ca8e7ff16224f7d58d9" title="SWGSDRangel::SWGSSBModReport\l::init" alt="" coords="236,53,481,95"/>
+<area shape="rect" id="node4" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#afe59785c1cb698aaf716ee2823a9115f" title="SWGSDRangel::SWGChannelReport\l::setSsbModReport" alt="" coords="238,119,479,160"/>
+<area shape="rect" id="node5" href="$dc/d8d/classSSBMod.html#a2bf1654c61d4a99d2d3abdb722dd4cd1" title="SSBMod::webapiFormatChannel\lReport" alt="" coords="253,184,465,225"/>
+<area shape="rect" id="node6" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="589,82,715,109"/>
+<area shape="rect" id="node7" href="$dc/d8d/classSSBMod.html#a5d786bc75eeb312d7558ee8375f33b5a" title="SSBMod::getMagSq" alt="" coords="581,133,723,159"/>
+<area shape="rect" id="node8" href="$dc/d35/classSWGSDRangel_1_1SWGSSBModReport.html#adead1fac31fcbf790b66413ab63c6cfc" title="SWGSDRangel::SWGSSBModReport\l::setAudioSampleRate" alt="" coords="529,184,775,225"/>
+<area shape="rect" id="node9" href="$dc/d35/classSWGSDRangel_1_1SWGSSBModReport.html#ab33ae53eed22d03dc505c9e7e4c80b43" title="SWGSDRangel::SWGSSBModReport\l::setChannelPowerDb" alt="" coords="529,249,775,291"/>
+<area shape="rect" id="node10" href="$dc/d35/classSWGSDRangel_1_1SWGSSBModReport.html#a95736252564af96a08f18786e7229d71" title="SWGSDRangel::SWGSSBModReport\l::setChannelSampleRate" alt="" coords="529,315,775,356"/>
+</map>

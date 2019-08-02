@@ -1,0 +1,17 @@
+<map id="DeviceBladeRF2::getGlobalGainRangeTx" name="DeviceBladeRF2::getGlobalGainRangeTx">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#aef9c02000ed2ed0f7bf2c977fb3afe32" title="BladeRF2Output::getGlobal\lGainRange" alt="" coords="251,175,433,217"/>
+<area shape="rect" id="node15" href="$d7/d79/classBladeRF2Output.html#a76cd758eaf09eb4333f842bde7a44ec2" title="BladeRF2Output::webapiFormat\lDeviceReport" alt="" coords="237,42,447,83"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#a4c2f93e1c79bcb92fc5c809345f7a74e" title="BladeRF2Output::applySettings" alt="" coords="505,183,712,209"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="1037,56,1255,83"/>
+<area shape="rect" id="node12" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="1073,411,1219,453"/>
+<area shape="rect" id="node13" href="$dc/d19/classBladeRF2OutputGui.html#a889ab6ee5cd258c543671576fab6b16c" title="BladeRF2OutputGui::\lhandleMessage" alt="" coords="535,379,682,421"/>
+<area shape="rect" id="node4" href="$d7/d79/classBladeRF2Output.html#a8324b4feb400afdde8c6dad1073fba23" title="BladeRF2Output::handleMessage" alt="" coords="771,107,989,133"/>
+<area shape="rect" id="node6" href="$d7/d79/classBladeRF2Output.html#a6bb76494a0fa3368ec33e42d9051c3f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1327,157,1471,184"/>
+<area shape="rect" id="node8" href="$d7/d79/classBladeRF2Output.html#a6a209c868a6087edcb74e108ea3b1312" title="BladeRF2Output::start" alt="" coords="1323,208,1476,235"/>
+<area shape="rect" id="node9" href="$d7/d79/classBladeRF2Output.html#a349a7db91f457df51cde0a8a2883ae55" title="BladeRF2Output::stop" alt="" coords="804,265,956,292"/>
+<area shape="rect" id="node7" href="$d1/d57/classBladeRF2Output_1_1MsgReportGainRange.html#a6f2c610c442c6f3565bc397a263d9eab" title="BladeRF2Output::MsgReport\lGainRange::MsgReportGainRange" alt="" coords="1544,226,1768,267"/>
+<area shape="rect" id="node10" href="$d7/d79/classBladeRF2Output.html#a4953c023bf3746fc339f900a0a566778" title="BladeRF2Output::closeDevice" alt="" coords="1047,309,1245,336"/>
+<area shape="rect" id="node11" href="$d7/d79/classBladeRF2Output.html#acb37674096c0372e98ec33162c8af396" title="BladeRF2Output::~BladeRF2\lOutput" alt="" coords="1303,310,1496,351"/>
+<area shape="rect" id="node14" href="$dc/d19/classBladeRF2OutputGui.html#a3c36cd6dfa4afb28b0fe32f56700f573" title="BladeRF2OutputGui::\lhandleInputMessages" alt="" coords="805,405,955,446"/>
+<area shape="rect" id="node16" href="$d7/d79/classBladeRF2Output.html#a1b00dae3e3a37aa13c2192ceb3be6e29" title="BladeRF2Output::webapiReportGet" alt="" coords="495,5,723,32"/>
+</map>

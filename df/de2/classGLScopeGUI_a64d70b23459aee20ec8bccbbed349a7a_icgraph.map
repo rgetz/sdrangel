@@ -1,0 +1,8 @@
+<map id="GLScopeGUI::setTrigPreDisplay" name="GLScopeGUI::setTrigPreDisplay">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab9c114e79ee924430c1235ef9d9be216" title="GLScopeGUI::deserialize" alt="" coords="269,5,440,32"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#a696e6d192229f7953f79ea0dc03d0a8b" title="GLScopeGUI::on_scope\l_preTriggerChanged" alt="" coords="273,57,437,98"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#ad4affb46a75b8aa873d46402a215907f" title="GLScopeGUI::on_scope\l_sampleRateChanged" alt="" coords="273,122,437,163"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a2d72722756c536c6c7e698d4f884a34a" title="GLScopeGUI::on_traceLen\l_valueChanged" alt="" coords="265,187,444,229"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#a91a0a6730e88830178ee07d914af889c" title="GLScopeGUI::on_trigPre\l_valueChanged" alt="" coords="271,253,438,294"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="492,97,665,124"/>
+</map>

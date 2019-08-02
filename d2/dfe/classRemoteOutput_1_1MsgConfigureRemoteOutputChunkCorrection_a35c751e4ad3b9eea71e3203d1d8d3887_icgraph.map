@@ -1,0 +1,8 @@
+<map id="RemoteOutput::MsgConfigureRemoteOutputChunkCorrection::create" name="RemoteOutput::MsgConfigureRemoteOutputChunkCorrection::create">
+<area shape="rect" id="node2" href="$d8/daf/classRemoteOutput.html#ac46ad53252cb933cd3993f783621fa63" title="RemoteOutput::sampleRate\lCorrection" alt="" coords="259,23,444,65"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#a1056a9a45117478687a9591d25612155" title="RemoteOutput::analyzeApi\lReply" alt="" coords="492,23,671,65"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#a539f2f338f92d17a8fa8f86ea117c2de" title="RemoteOutput::networkManager\lFinished" alt="" coords="719,23,929,65"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a55339d934bb32dbe00642caa068a0cdf" title="RemoteOutput::RemoteOutput" alt="" coords="981,5,1181,32"/>
+<area shape="rect" id="node7" href="$d8/daf/classRemoteOutput.html#adfe0ad5d73c39c662144371e4199945b" title="RemoteOutput::~RemoteOutput" alt="" coords="977,56,1185,83"/>
+<area shape="rect" id="node6" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="1233,16,1528,72"/>
+</map>

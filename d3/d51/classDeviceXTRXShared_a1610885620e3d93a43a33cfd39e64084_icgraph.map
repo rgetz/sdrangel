@@ -1,0 +1,10 @@
+<map id="DeviceXTRXShared::get_board_temperature" name="DeviceXTRXShared::get_board_temperature">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="492,5,688,32"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="236,185,423,212"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#a0615d528e5c969f4e14244e6a940566b" title="XTRXOutput::webapiFormat\lDeviceReport" alt="" coords="236,54,423,95"/>
+<area shape="rect" id="node8" href="$dc/d14/classXTRXInput.html#a68acd84134a7b063beca1e791a613a0f" title="XTRXInput::webapiFormatDevice\lReport" alt="" coords="220,119,439,161"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="741,33,936,60"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="746,156,931,183"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#aae5ac06ed8c70f68d20aa8fdd3f809bc" title="XTRXOutput::webapiReportGet" alt="" coords="487,60,693,87"/>
+<area shape="rect" id="node9" href="$dc/d14/classXTRXInput.html#ae6afba0efb5215b0da96ce61e5881c3f" title="XTRXInput::webapiReportGet" alt="" coords="492,131,688,157"/>
+</map>

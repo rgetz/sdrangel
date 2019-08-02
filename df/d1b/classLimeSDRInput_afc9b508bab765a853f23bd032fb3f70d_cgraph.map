@@ -1,0 +1,12 @@
+<map id="LimeSDRInput::acquireChannel" name="LimeSDRInput::acquireChannel">
+<area shape="rect" id="node2" href="$d8/d20/structDeviceLimeSDRParams.html#a8557f49080c73a508b91fbfe2d342a71" title="DeviceLimeSDRParams\l::getDevice" alt="" coords="292,5,457,47"/>
+<area shape="rect" id="node3" href="$df/d1b/classLimeSDRInput.html#aed775e05e560f5f738d17cea6a198189" title="LimeSDRInput::resumeRxBuddies" alt="" coords="263,71,486,98"/>
+<area shape="rect" id="node6" href="$df/d1b/classLimeSDRInput.html#aa5bee27879d678ee294c48635d3f9521" title="LimeSDRInput::resumeTxBuddies" alt="" coords="264,122,485,149"/>
+<area shape="rect" id="node8" href="$df/d1b/classLimeSDRInput.html#a2ce7347e5a4f99a5b13b0e234b7130db" title="LimeSDRInput::suspendRxBuddies" alt="" coords="260,173,489,199"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html#a85a273284d1f7520aa52d2f47fa7d65e" title="LimeSDRInput::suspendTxBuddies" alt="" coords="261,223,488,250"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="537,93,736,119"/>
+<area shape="rect" id="node5" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a3568b8867dc391f88ea41f8e02b8ff8b" title="DeviceLimeSDRShared\l::ThreadInterface::startWork" alt="" coords="543,27,730,68"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="545,143,729,170"/>
+<area shape="rect" id="node9" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a07f09c7f87d5389d11cf14803715bde8" title="DeviceLimeSDRShared\l::ThreadInterface::isRunning" alt="" coords="543,260,730,301"/>
+<area shape="rect" id="node10" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a1627f86d3dffcbacc660667e562be2af" title="DeviceLimeSDRShared\l::ThreadInterface::stopWork" alt="" coords="544,195,729,236"/>
+</map>

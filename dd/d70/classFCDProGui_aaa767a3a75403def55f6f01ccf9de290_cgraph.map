@@ -1,0 +1,5 @@
+<map id="FCDProGui::updateHardware" name="FCDProGui::updateHardware">
+<area shape="rect" id="node2" href="$da/d9b/classFCDProInput_1_1MsgConfigureFCDPro.html#a38a6a9ae9fbb829fdc6eb5bc426559f5" title="FCDProInput::MsgConfigure\lFCDPro::create" alt="" coords="247,5,435,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="257,71,425,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="266,137,415,163"/>
+</map>

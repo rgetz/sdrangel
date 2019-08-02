@@ -1,0 +1,12 @@
+<map id="DeviceSoapySDRParams::getDeviceArgs" name="DeviceSoapySDRParams::getDeviceArgs">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#a5775c7a4b060eb329ed73ef5c15be591" title="SoapySDROutput::getDevice\lArgInfoList" alt="" coords="239,5,434,47"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#adf38a41ad83d3831e3ebfdf85b924a60" title="SoapySDRInput::getDevice\lArgInfoList" alt="" coords="245,136,429,177"/>
+<area shape="rect" id="node6" href="$d8/df3/classSoapySDROutput.html#a5efbb87a2832e62c7f412a6a6f876e56" title="SoapySDROutput::initDevice\lArgSettings" alt="" coords="240,71,433,112"/>
+<area shape="rect" id="node7" href="$da/d65/classSoapySDRInput.html#aa6cd0f3e0150678d2467e33ac21a2953" title="SoapySDRInput::initDevice\lArgSettings" alt="" coords="245,201,428,243"/>
+<area shape="rect" id="node8" href="$d8/df3/classSoapySDROutput.html#ac18ad1e869fa9f83253aa7023d0cc0e3" title="SoapySDROutput::webapiFormat\lDeviceReport" alt="" coords="228,267,445,308"/>
+<area shape="rect" id="node10" href="$da/d65/classSoapySDRInput.html#a2db81f31669f2f9276c5c3386d8d2e8d" title="SoapySDRInput::webapiFormat\lDeviceReport" alt="" coords="233,332,440,373"/>
+<area shape="rect" id="node3" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="546,39,701,80"/>
+<area shape="rect" id="node5" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="493,177,753,203"/>
+<area shape="rect" id="node9" href="$d8/df3/classSoapySDROutput.html#a565aef4543f04ee0170f4887c9db2db9" title="SoapySDROutput::webapiReportGet" alt="" coords="505,274,741,301"/>
+<area shape="rect" id="node11" href="$da/d65/classSoapySDRInput.html#a2feb75ff725f66c7e0beff72f59f8d0d" title="SoapySDRInput::webapiReportGet" alt="" coords="510,339,737,366"/>
+</map>

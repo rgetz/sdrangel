@@ -1,0 +1,8 @@
+<map id="FileSinkGui::sendSettings" name="FileSinkGui::sendSettings">
+<area shape="rect" id="node2" href="$de/de4/classFileSinkGui.html#abcaec46401a2d238c272d730cd7e512e" title="FileSinkGui::deserialize" alt="" coords="489,116,648,143"/>
+<area shape="rect" id="node3" href="$de/de4/classFileSinkGui.html#a876b600e67f8fd891af6627968eee591" title="FileSinkGui::on_centerFrequency\l_changed" alt="" coords="227,43,441,85"/>
+<area shape="rect" id="node4" href="$de/de4/classFileSinkGui.html#ad5bb357e15481cb8be3bc9f71946da61" title="FileSinkGui::on_interp\l_currentIndexChanged" alt="" coords="257,109,411,150"/>
+<area shape="rect" id="node5" href="$de/de4/classFileSinkGui.html#ad5d70ee9e47331c8834a232580574514" title="FileSinkGui::on_sampleRate\l_changed" alt="" coords="240,174,428,215"/>
+<area shape="rect" id="node6" href="$de/de4/classFileSinkGui.html#a249115702562388ff4d374ea240165bd" title="FileSinkGui::resetToDefaults" alt="" coords="239,240,429,267"/>
+<area shape="rect" id="node7" href="$de/de4/classFileSinkGui.html#a2a94b9e012f0ff2205942c36719ca3f8" title="FileSinkGui::setCenterFrequency" alt="" coords="227,291,441,317"/>
+</map>

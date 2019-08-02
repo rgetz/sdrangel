@@ -1,0 +1,32 @@
+<map id="sdrbase/dsp/lowpass.h" name="sdrbase/dsp/lowpass.h">
+<area shape="rect" id="node2" href="$d3/d78/amdemod_8h.html" title="plugins/channelrx/demodam\l/amdemod.h" alt="" coords="317,80,501,121"/>
+<area shape="rect" id="node6" href="$d8/ddb/bfmdemod_8h.html" title="plugins/channelrx/demodbfm\l/bfmdemod.h" alt="" coords="949,80,1137,121"/>
+<area shape="rect" id="node10" href="$d5/d32/dsddemod_8h.html" title="plugins/channelrx/demoddsd\l/dsddemod.h" alt="" coords="1583,80,1769,121"/>
+<area shape="rect" id="node14" href="$d2/d22/nfmdemod_8h.html" title="plugins/channelrx/demodnfm\l/nfmdemod.h" alt="" coords="2217,80,2405,121"/>
+<area shape="rect" id="node18" href="$d5/db6/wfmdemod_8h.html" title="plugins/channelrx/demodwfm\l/wfmdemod.h" alt="" coords="2642,80,2833,121"/>
+<area shape="rect" id="node22" href="$d2/d7d/freqtracker_8h.html" title="plugins/channelrx/freqtracker\l/freqtracker.h" alt="" coords="3287,80,3476,121"/>
+<area shape="rect" id="node26" href="$dd/d24/nfmmod_8h.html" title="plugins/channeltx/modnfm\l/nfmmod.h" alt="" coords="3821,80,3995,121"/>
+<area shape="rect" id="node31" href="$df/d15/lowpass_8cpp.html" title="sdrbase/dsp/lowpass.cpp" alt="" coords="4020,87,4191,114"/>
+<area shape="rect" id="node3" href="$d1/d00/amdemod_8cpp.html" title="plugins/channelrx/demodam\l/amdemod.cpp" alt="" coords="5,169,189,211"/>
+<area shape="rect" id="node4" href="$d7/db4/amdemodgui_8cpp.html" title="plugins/channelrx/demodam\l/amdemodgui.cpp" alt="" coords="213,169,397,211"/>
+<area shape="rect" id="node5" href="$d0/d8d/amdemodplugin_8cpp.html" title="plugins/channelrx/demodam\l/amdemodplugin.cpp" alt="" coords="421,169,605,211"/>
+<area shape="rect" id="node7" href="$d0/d91/bfmdemod_8cpp.html" title="plugins/channelrx/demodbfm\l/bfmdemod.cpp" alt="" coords="630,169,818,211"/>
+<area shape="rect" id="node8" href="$dc/d60/bfmdemodgui_8cpp.html" title="plugins/channelrx/demodbfm\l/bfmdemodgui.cpp" alt="" coords="842,169,1030,211"/>
+<area shape="rect" id="node9" href="$d0/d6a/bfmplugin_8cpp.html" title="plugins/channelrx/demodbfm\l/bfmplugin.cpp" alt="" coords="1054,169,1242,211"/>
+<area shape="rect" id="node11" href="$dc/ddb/dsddemod_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemod.cpp" alt="" coords="1267,169,1453,211"/>
+<area shape="rect" id="node12" href="$d3/d58/dsddemodgui_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemodgui.cpp" alt="" coords="1477,169,1664,211"/>
+<area shape="rect" id="node13" href="$d6/d99/dsddemodplugin_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemodplugin.cpp" alt="" coords="1688,169,1875,211"/>
+<area shape="rect" id="node15" href="$d0/dc4/nfmdemod_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmdemod.cpp" alt="" coords="1899,169,2087,211"/>
+<area shape="rect" id="node16" href="$d8/dab/nfmdemodgui_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmdemodgui.cpp" alt="" coords="2111,169,2299,211"/>
+<area shape="rect" id="node17" href="$d4/d1f/nfmplugin_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmplugin.cpp" alt="" coords="2323,169,2511,211"/>
+<area shape="rect" id="node19" href="$df/d1d/wfmdemod_8cpp.html" title="plugins/channelrx/demodwfm\l/wfmdemod.cpp" alt="" coords="2535,169,2726,211"/>
+<area shape="rect" id="node20" href="$dc/dee/wfmdemodgui_8cpp.html" title="plugins/channelrx/demodwfm\l/wfmdemodgui.cpp" alt="" coords="2750,169,2941,211"/>
+<area shape="rect" id="node21" href="$dd/df5/wfmplugin_8cpp.html" title="plugins/channelrx/demodwfm\l/wfmplugin.cpp" alt="" coords="2965,169,3155,211"/>
+<area shape="rect" id="node23" href="$d0/d95/freqtracker_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtracker.cpp" alt="" coords="3180,169,3369,211"/>
+<area shape="rect" id="node24" href="$d7/dca/freqtrackergui_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtrackergui.cpp" alt="" coords="3393,169,3583,211"/>
+<area shape="rect" id="node25" href="$df/df7/freqtrackerplugin_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtrackerplugin.cpp" alt="" coords="3607,169,3796,211"/>
+<area shape="rect" id="node27" href="$d0/d1c/nfmmod_8cpp.html" title="plugins/channeltx/modnfm\l/nfmmod.cpp" alt="" coords="3821,169,3995,211"/>
+<area shape="rect" id="node28" href="$db/d1a/nfmmodgui_8h.html" title="plugins/channeltx/modnfm\l/nfmmodgui.h" alt="" coords="4019,169,4194,211"/>
+<area shape="rect" id="node30" href="$d9/d47/nfmmodplugin_8cpp.html" title="plugins/channeltx/modnfm\l/nfmmodplugin.cpp" alt="" coords="4145,259,4319,300"/>
+<area shape="rect" id="node29" href="$d5/d97/nfmmodgui_8cpp.html" title="plugins/channeltx/modnfm\l/nfmmodgui.cpp" alt="" coords="3946,259,4121,300"/>
+</map>

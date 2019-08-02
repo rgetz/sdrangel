@@ -1,0 +1,7 @@
+<map id="BFMDemodGUI::getInputMessageQueue" name="BFMDemodGUI::getInputMessageQueue">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="516,13,735,39"/>
+<area shape="rect" id="node6" href="$d3/df8/classBFMDemodGUI.html#ad31c0208223eb1cb89b88e1af9d3d221" title="BFMDemodGUI::handleInput\lMessages" alt="" coords="277,35,468,76"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="783,13,943,39"/>
+<area shape="rect" id="node4" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="991,13,1209,39"/>
+<area shape="rect" id="node5" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1257,13,1404,39"/>
+</map>

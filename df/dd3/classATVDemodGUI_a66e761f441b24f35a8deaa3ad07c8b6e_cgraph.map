@@ -1,0 +1,6 @@
+<map id="ATVDemodGUI::setChannelMarkerBandwidth" name="ATVDemodGUI::setChannelMarkerBandwidth">
+<area shape="rect" id="node2" href="$de/d03/classChannelMarker.html#aa8e2101548a89f0738b85b3a146f3bcc" title="ChannelMarker::emitChanged\lByAPI" alt="" coords="283,5,477,47"/>
+<area shape="rect" id="node3" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="281,71,479,98"/>
+<area shape="rect" id="node4" href="$de/d03/classChannelMarker.html#a0dde88267fae23a14debe67d1847896f" title="ChannelMarker::setOpposite\lBandwidth" alt="" coords="286,123,474,164"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#a07ca4f100dd0da5f1ef8ad40f66dbca6" title="ChannelMarker::setSidebands" alt="" coords="281,189,479,215"/>
+</map>

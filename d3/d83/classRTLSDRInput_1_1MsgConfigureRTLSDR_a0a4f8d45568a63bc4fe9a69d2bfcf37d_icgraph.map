@@ -1,0 +1,9 @@
+<map id="RTLSDRInput::MsgConfigureRTLSDR::create" name="RTLSDRInput::MsgConfigureRTLSDR::create">
+<area shape="rect" id="node2" href="$d0/d36/classRTLSDRInput.html#a23d6b8a033f9c9bc1aadf232432ef275" title="RTLSDRInput::deserialize" alt="" coords="276,13,451,39"/>
+<area shape="rect" id="node4" href="$d0/d36/classRTLSDRInput.html#a25b598053ec69fbe37d92a74e0e8307d" title="RTLSDRInput::setCenterFrequency" alt="" coords="248,63,479,90"/>
+<area shape="rect" id="node6" href="$d5/d42/classRTLSDRGui.html#a3848ca98893e86d1085747cefd85c21b" title="RTLSDRGui::updateHardware" alt="" coords="264,181,463,207"/>
+<area shape="rect" id="node8" href="$d0/d36/classRTLSDRInput.html#a059aa9f8ca18b6f55fd66be528a2db9a" title="RTLSDRInput::webapiSettings\lPutPatch" alt="" coords="262,115,465,156"/>
+<area shape="rect" id="node3" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="531,5,725,47"/>
+<area shape="rect" id="node5" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="527,97,729,123"/>
+<area shape="rect" id="node7" href="$d5/d42/classRTLSDRGui.html#a9597363c005b0bb0bc4446abb6a0da70" title="RTLSDRGui::RTLSDRGui" alt="" coords="539,181,717,207"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="SpectrumVis::configure" name="SpectrumVis::configure">
+<area shape="rect" id="node2" href="$d4/dcb/classGLSpectrumGUI.html#ae1219b592a8b083f159c894d1e4a7771" title="GLSpectrumGUI::applySettings" alt="" coords="218,137,425,164"/>
+<area shape="rect" id="node15" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="212,243,431,269"/>
+<area shape="rect" id="node19" href="$d4/dcb/classGLSpectrumGUI.html#aae3d1d245b3bcfb643322811121c4fdf" title="GLSpectrumGUI::on_averaging\l_currentIndexChanged" alt="" coords="219,294,423,335"/>
+<area shape="rect" id="node20" href="$d4/dcb/classGLSpectrumGUI.html#a83e88f1e85dc4442c634b79d9c6c0733" title="GLSpectrumGUI::on_averaging\lMode_currentIndexChanged" alt="" coords="219,359,423,401"/>
+<area shape="rect" id="node21" href="$d4/dcb/classGLSpectrumGUI.html#ad629be0674263cf628f08552b82ef9de" title="GLSpectrumGUI::on_fftSize\l_currentIndexChanged" alt="" coords="228,425,415,466"/>
+<area shape="rect" id="node22" href="$d4/dcb/classGLSpectrumGUI.html#a7aef3cc606ab9c903a6b40d439d1c48f" title="GLSpectrumGUI::on_fftWindow\l_currentIndexChanged" alt="" coords="218,490,425,531"/>
+<area shape="rect" id="node23" href="$d4/dcb/classGLSpectrumGUI.html#a1f05a814174b4c557508040512f21040" title="GLSpectrumGUI::on_linscale\l_toggled" alt="" coords="225,555,417,597"/>
+<area shape="rect" id="node25" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="227,621,415,648"/>
+<area shape="rect" id="node29" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="212,672,431,699"/>
+<area shape="rect" id="node3" href="$d4/dcb/classGLSpectrumGUI.html#a392ed970ea2eeb5dcb279122611643e7" title="GLSpectrumGUI::deserialize" alt="" coords="779,79,969,105"/>
+<area shape="rect" id="node10" href="$d4/dcb/classGLSpectrumGUI.html#a033522ad9757608b192571266b494342" title="GLSpectrumGUI::on_decayDivisor\l_valueChanged" alt="" coords="479,38,703,79"/>
+<area shape="rect" id="node11" href="$d4/dcb/classGLSpectrumGUI.html#a0c24bf635c4bb82ba1331f674501bb90" title="GLSpectrumGUI::on_stroke\l_valueChanged" alt="" coords="499,103,683,145"/>
+<area shape="rect" id="node12" href="$d4/dcb/classGLSpectrumGUI.html#abafe3ae24d2efec0104628e39a1bb672" title="GLSpectrumGUI::resetToDefaults" alt="" coords="481,169,701,196"/>
+<area shape="rect" id="node13" href="$d4/dcb/classGLSpectrumGUI.html#a7ce4ca2129eccf5a18c0e9d4fcad1391" title="GLSpectrumGUI::setBuddies" alt="" coords="495,220,687,247"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="1045,79,1260,105"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="1308,28,1504,55"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1803,53,1983,80"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="1311,130,1501,171"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1552,28,1755,55"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="1559,130,1747,171"/>
+<area shape="rect" id="node14" href="$d3/d37/classDeviceUISet.html#ad1c64f55be2afb915caf3ae7d604fa3c" title="DeviceUISet::DeviceUISet" alt="" coords="784,220,964,247"/>
+<area shape="rect" id="node16" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="511,271,671,297"/>
+<area shape="rect" id="node17" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="765,271,983,297"/>
+<area shape="rect" id="node18" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1079,271,1226,297"/>
+<area shape="rect" id="node24" href="$d4/dcb/classGLSpectrumGUI.html#a5dabc6202a8a52348a96752c47d8949c" title="GLSpectrumGUI::GLSpectrumGUI" alt="" coords="479,563,703,589"/>
+<area shape="rect" id="node26" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="518,617,663,644"/>
+<area shape="rect" id="node27" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="751,613,997,640"/>
+<area shape="rect" id="node28" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1065,613,1240,640"/>
+<area shape="rect" id="node30" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="511,672,671,699"/>
+<area shape="rect" id="node31" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="781,665,967,706"/>
+<area shape="rect" id="node32" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1058,672,1247,699"/>
+</map>

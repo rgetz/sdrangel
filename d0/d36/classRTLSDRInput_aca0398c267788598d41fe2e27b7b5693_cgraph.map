@@ -1,0 +1,10 @@
+<map id="RTLSDRInput::webapiReportGet" name="RTLSDRInput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ae51f356ca57857660293bf7faae58158" title="SWGSDRangel::SWGDeviceReport\l::getRtlSdrReport" alt="" coords="551,7,785,49"/>
+<area shape="rect" id="node3" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html#ab087d620630d471d3a73d849ba2f5b27" title="SWGSDRangel::SWGRtlSdrReport\l::init" alt="" coords="270,33,501,74"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aa377eb7b660cad1da2e20c3cc0f1b8b4" title="SWGSDRangel::SWGDeviceReport\l::setRtlSdrReport" alt="" coords="268,98,503,139"/>
+<area shape="rect" id="node5" href="$d0/d36/classRTLSDRInput.html#a19c1885a939d58764fe888724a0eff41" title="RTLSDRInput::webapiFormat\lDeviceReport" alt="" coords="288,163,483,205"/>
+<area shape="rect" id="node6" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html#aa50cb90d102f90bb67aa1105c0cf713d" title="SWGSDRangel::SWGRtlSdrReport\l::getGains" alt="" coords="553,105,783,146"/>
+<area shape="rect" id="node7" href="$d0/d36/classRTLSDRInput.html#a9201de475cb14a94cd96bb354e4ff837" title="RTLSDRInput::getGains" alt="" coords="585,171,751,197"/>
+<area shape="rect" id="node9" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html#a0be042e70eff3c5fc6158b0b7b5aa59c" title="SWGSDRangel::SWGRtlSdrReport\l::setGains" alt="" coords="553,222,783,263"/>
+<area shape="rect" id="node8" href="$d0/d36/classRTLSDRInput.html#aa82747283990214d14e6876ca79747a7" title="RTLSDRInput::set_ds_mode" alt="" coords="833,171,1024,197"/>
+</map>

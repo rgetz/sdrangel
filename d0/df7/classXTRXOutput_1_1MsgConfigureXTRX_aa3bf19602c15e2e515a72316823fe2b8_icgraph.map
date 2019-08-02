@@ -1,0 +1,6 @@
+<map id="XTRXOutput::MsgConfigureXTRX::getSettings" name="XTRXOutput::MsgConfigureXTRX::getSettings">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a65c356ea0a031215b0addc1177cf962f" title="XTRXOutputGUI::handleInput\lMessages" alt="" coords="240,5,436,47"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="240,71,436,98"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="484,13,712,39"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="501,71,695,98"/>
+</map>

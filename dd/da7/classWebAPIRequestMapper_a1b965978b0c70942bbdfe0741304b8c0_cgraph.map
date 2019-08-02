@@ -1,0 +1,8 @@
+<map id="WebAPIRequestMapper::validatePresetExport" name="WebAPIRequestMapper::validatePresetExport">
+<area shape="rect" id="node2" href="$dd/de6/classSWGSDRangel_1_1SWGPresetExport.html#a9da760784cc8c16e187e84a8cf663826" title="SWGSDRangel::SWGPresetExport\l::getFilePath" alt="" coords="216,5,447,47"/>
+<area shape="rect" id="node3" href="$dd/de6/classSWGSDRangel_1_1SWGPresetExport.html#a718a8d07554ffa1cf8fb713267cc2e91" title="SWGSDRangel::SWGPresetExport\l::getPreset" alt="" coords="216,71,447,112"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#a16683a0cb75a9a81cd64cb4c8fe57b6d" title="WebAPIRequestMapper\l::validatePresetIdentifer" alt="" coords="250,136,413,177"/>
+<area shape="rect" id="node5" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a795a210cf201aad4bbe512bb974ec19b" title="SWGSDRangel::SWGPresetIdentifier\l::getGroupName" alt="" coords="495,71,737,112"/>
+<area shape="rect" id="node6" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a423213e5086dfdb959910ca6ac6b50ab" title="SWGSDRangel::SWGPresetIdentifier\l::getName" alt="" coords="495,136,737,177"/>
+<area shape="rect" id="node7" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a24e6595601f2ab77a995bc51c43c094a" title="SWGSDRangel::SWGPresetIdentifier\l::getType" alt="" coords="495,201,737,243"/>
+</map>

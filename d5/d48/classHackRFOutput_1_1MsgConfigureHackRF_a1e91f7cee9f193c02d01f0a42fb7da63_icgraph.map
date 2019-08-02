@@ -1,0 +1,7 @@
+<map id="HackRFOutput::MsgConfigureHackRF::getSettings" name="HackRFOutput::MsgConfigureHackRF::getSettings">
+<area shape="rect" id="node2" href="$d0/d64/classHackRFOutputGui.html#a15f13c2beb65ece4e6b7d52388d73b4f" title="HackRFOutputGui::handleMessage" alt="" coords="252,15,481,42"/>
+<area shape="rect" id="node5" href="$dc/df6/classHackRFOutput.html#af8dd846352b6ce3ac49c54229454938a" title="HackRFOutput::handleMessage" alt="" coords="262,67,471,94"/>
+<area shape="rect" id="node3" href="$d0/d64/classHackRFOutputGui.html#aff439aa98baf137a22d67c95cfa42dd1" title="HackRFOutputGui::handleInput\lMessages" alt="" coords="531,5,736,47"/>
+<area shape="rect" id="node4" href="$d0/d64/classHackRFOutputGui.html#a4b3ebe1ec8aeca8cb232c0d41f6a07de" title="HackRFOutputGui::HackRFOutputGui" alt="" coords="785,13,1032,39"/>
+<area shape="rect" id="node6" href="$dc/df6/classHackRFOutput.html#a216c6ce9858362f5300a11d07347f5eb" title="For when the sink sample rate is set externally. " alt="" coords="529,71,737,98"/>
+</map>

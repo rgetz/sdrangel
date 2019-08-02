@@ -1,0 +1,31 @@
+<map id="plugins/channelrx/demoddsd/dsddemodplugin.cpp" name="plugins/channelrx/demoddsd/dsddemodplugin.cpp">
+<area shape="rect" id="node2" href="$db/d2d/dsddemodplugin_8h.html" title="dsddemodplugin.h" alt="" coords="790,169,917,196"/>
+<area shape="rect" id="node8" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="942,169,1064,196"/>
+<area shape="rect" id="node10" href="$d2/dcd/dsddemodgui_8h.html" title="dsddemodgui.h" alt="" coords="1089,169,1200,196"/>
+<area shape="rect" id="node32" href="$d5/d32/dsddemod_8h.html" title="dsddemod.h" alt="" coords="2202,95,2295,121"/>
+<area shape="rect" id="node4" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="24,244,179,271"/>
+<area shape="rect" id="node7" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1667,319,1736,345"/>
+<area shape="rect" id="node11" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="598,244,768,271"/>
+<area shape="rect" id="node15" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="451,244,574,271"/>
+<area shape="rect" id="node17" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2484,319,2594,345"/>
+<area shape="rect" id="node20" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="793,244,936,271"/>
+<area shape="rect" id="node23" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="2328,244,2475,271"/>
+<area shape="rect" id="node26" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1582,244,1725,271"/>
+<area shape="rect" id="node29" href="$dc/d7e/dsddemodsettings_8h.html" title="dsddemodsettings.h" alt="" coords="1200,244,1339,271"/>
+<area shape="rect" id="node30" href="$dd/d3d/dsdstatustextdialog_8h.html" title="dsdstatustextdialog.h" alt="" coords="280,244,427,271"/>
+<area shape="rect" id="node22" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="790,319,938,345"/>
+<area shape="rect" id="node34" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="1661,169,1841,196"/>
+<area shape="rect" id="node35" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="2043,244,2150,271"/>
+<area shape="rect" id="node37" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1363,244,1507,271"/>
+<area shape="rect" id="node38" href="$d5/ded/phasediscri_8h.html" title="dsp/phasediscri.h" alt="" coords="2529,169,2653,196"/>
+<area shape="rect" id="node39" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="2174,244,2253,271"/>
+<area shape="rect" id="node40" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="2864,244,2987,271"/>
+<area shape="rect" id="node42" href="$d0/d58/lowpass_8h.html" title="dsp/lowpass.h" alt="" coords="2678,169,2784,196"/>
+<area shape="rect" id="node44" href="$db/dba/bandpass_8h.html" title="dsp/bandpass.h" alt="" coords="2808,169,2923,196"/>
+<area shape="rect" id="node45" href="$dd/ddd/afsquelch_8h.html" title="dsp/afsquelch.h" alt="" coords="2390,169,2504,196"/>
+<area shape="rect" id="node46" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="3122,169,3265,196"/>
+<area shape="rect" id="node47" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="1851,244,1968,271"/>
+<area shape="rect" id="node49" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="1865,169,2008,196"/>
+<area shape="rect" id="node50" href="$d1/d25/dsddecoder_8h.html" title="dsddecoder.h" alt="" coords="2998,169,3098,196"/>
+<area shape="rect" id="node43" href="$df/db1/math_8h.html" title="math.h" alt="" coords="2652,244,2714,271"/>
+</map>

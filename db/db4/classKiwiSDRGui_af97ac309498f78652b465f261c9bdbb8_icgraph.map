@@ -1,0 +1,13 @@
+<map id="KiwiSDRGui::sendSettings" name="KiwiSDRGui::sendSettings">
+<area shape="rect" id="node2" href="$db/db4/classKiwiSDRGui.html#afbe586dc5241613b9e3c5e954c12a4d2" title="KiwiSDRGui::deserialize" alt="" coords="525,156,692,182"/>
+<area shape="rect" id="node3" href="$db/db4/classKiwiSDRGui.html#a5367b36d8702b1bc82d5f4a151cdaa83" title="KiwiSDRGui::on_agc\l_toggled" alt="" coords="271,50,418,91"/>
+<area shape="rect" id="node4" href="$db/db4/classKiwiSDRGui.html#a4f28ece3af9dc4db88a909a1cfd8586b" title="KiwiSDRGui::on_centerFrequency\l_changed" alt="" coords="233,115,456,156"/>
+<area shape="rect" id="node5" href="$db/db4/classKiwiSDRGui.html#a9d49e03d13167cc67b439b1badce7f34" title="KiwiSDRGui::on_dcBlock\l_toggled" alt="" coords="259,180,431,222"/>
+<area shape="rect" id="node6" href="$db/db4/classKiwiSDRGui.html#acc293a28c9fb70cf4ce23dc9fb0831cd" title="KiwiSDRGui::on_gain\l_valueChanged" alt="" coords="270,246,419,287"/>
+<area shape="rect" id="node7" href="$db/db4/classKiwiSDRGui.html#a43370f2bf1c0a7b2d4bb2d6679f9f224" title="KiwiSDRGui::on_serverAddress\lApplyButton_clicked" alt="" coords="240,363,449,404"/>
+<area shape="rect" id="node9" href="$db/db4/classKiwiSDRGui.html#abfdac037ee5f830ad11762ff3309914c" title="KiwiSDRGui::openDeviceSettings\lDialog" alt="" coords="234,428,455,470"/>
+<area shape="rect" id="node11" href="$db/db4/classKiwiSDRGui.html#a321bfb41b6105838a6d1a13b22a60db2" title="KiwiSDRGui::resetToDefaults" alt="" coords="246,312,443,338"/>
+<area shape="rect" id="node12" href="$db/db4/classKiwiSDRGui.html#a2387326ad8c10e56b93da7625be4a278" title="KiwiSDRGui::setCenterFrequency" alt="" coords="233,494,456,521"/>
+<area shape="rect" id="node8" href="$db/db4/classKiwiSDRGui.html#a2411f814797d41b12e20cdb2af04fc8e" title="KiwiSDRGui::on_serverAddress\l_returnPressed" alt="" coords="504,363,713,404"/>
+<area shape="rect" id="node10" href="$db/db4/classKiwiSDRGui.html#a7665b7c854b780810c73ae6827202200" title="KiwiSDRGui::KiwiSDRGui" alt="" coords="519,436,698,462"/>
+</map>

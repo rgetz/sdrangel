@@ -1,0 +1,12 @@
+<map id="AMDemod::getNumberOfDeviceStreams" name="AMDemod::getNumberOfDeviceStreams">
+<area shape="rect" id="node2" href="$d9/df0/classAMDemod.html#a82368b5a0eb4ceffb32cb348ff5bb6b3" title="AMDemod::getMagSqLevels" alt="" coords="269,63,458,90"/>
+<area shape="rect" id="node11" href="$dd/d2d/classAMDemodGUI.html#a0266483ba72a2e2f22926e32a279d3fc" title="AMDemodGUI::onMenuDialog\lCalled" alt="" coords="264,115,463,156"/>
+<area shape="rect" id="node3" href="$dd/d2d/classAMDemodGUI.html#a11122d6eefaac043d694320644a8f1fe" title="AMDemodGUI::tick" alt="" coords="553,71,691,98"/>
+<area shape="rect" id="node8" href="$d9/df0/classAMDemod.html#ad74417e97251a140331ba47b1cf58d5b" title="AMDemod::webapiFormatChannel\lReport" alt="" coords="511,5,733,47"/>
+<area shape="rect" id="node4" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="781,97,984,123"/>
+<area shape="rect" id="node5" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="1051,97,1203,123"/>
+<area shape="rect" id="node6" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1271,97,1524,123"/>
+<area shape="rect" id="node7" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1572,97,1753,123"/>
+<area shape="rect" id="node9" href="$d9/df0/classAMDemod.html#ab78a3712b1c00b5b5cadb12784f2938a" title="AMDemod::webapiReportGet" alt="" coords="786,13,979,39"/>
+<area shape="rect" id="node10" href="$d9/df0/classAMDemod.html#a7ce9542ab2fd3d85757796e1697a107b" title="AMDemod::getStreamCenter\lFrequency" alt="" coords="1032,5,1223,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="DSDDemodGUI::updateMyPosition" name="DSDDemodGUI::updateMyPosition">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a10137dad1e387d5048f2a1f2a3e15870" title="DSDDemod::configureMyPosition" alt="" coords="283,42,501,69"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="308,93,476,135"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#af9041ba07e01367abaefed831d283854" title="MainWindow::getInstance" alt="" coords="305,159,479,186"/>
+<area shape="rect" id="node7" href="$d5/df4/classMainSettings.html#a73aa1a431bdf0cd1f0388b2b58bba1bd" title="MainSettings::getLatitude" alt="" coords="307,210,477,237"/>
+<area shape="rect" id="node8" href="$d5/df4/classMainSettings.html#a008e4ce695226d8a9720fd36070b5a2b" title="MainSettings::getLongitude" alt="" coords="302,261,482,287"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#af3d459f57154effbac815d109cc1a42f" title="MainWindow::getMainSettings" alt="" coords="293,311,491,338"/>
+<area shape="rect" id="node3" href="$d9/d81/classDSDDemod_1_1MsgConfigureMyPosition.html#ac17a9a089501e9b6a8bb79df6b769424" title="DSDDemod::MsgConfigureMy\lPosition::create" alt="" coords="549,5,749,47"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="575,71,724,98"/>
+</map>

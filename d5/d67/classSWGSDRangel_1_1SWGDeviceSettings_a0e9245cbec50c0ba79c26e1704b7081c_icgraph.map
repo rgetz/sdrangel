@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setFcdProSettings" name="SWGSDRangel::SWGDeviceSettings::setFcdProSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="323,5,486,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="323,71,487,112"/>
+<area shape="rect" id="node6" href="$db/d44/classFCDProInput.html#ad8c1a21b2453de6dc9b68c586b774196" title="FCDProInput::webapiReverse\lSendSettings" alt="" coords="306,136,503,177"/>
+<area shape="rect" id="node11" href="$db/d44/classFCDProInput.html#a2f3e5f0bd79cd7be18039919914e3e58" title="FCDProInput::webapiSettingsGet" alt="" coords="296,202,513,229"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="561,16,780,57"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="846,16,1009,57"/>
+<area shape="rect" id="node7" href="$db/d44/classFCDProInput.html#a03ea5225051b00c5b887e78d390fc962" title="FCDProInput::applySettings" alt="" coords="577,143,764,170"/>
+<area shape="rect" id="node8" href="$db/d44/classFCDProInput.html#a3e255408d8d188ffc3505a3e2134fe60" title="FCDProInput::handleMessage" alt="" coords="828,93,1027,119"/>
+<area shape="rect" id="node9" href="$db/d44/classFCDProInput.html#a3253b71e66f21d286f9617bed63b6d90" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="865,143,989,170"/>
+<area shape="rect" id="node10" href="$db/d44/classFCDProInput.html#a577177b1c226f836f44c4e8d0b6e2e50" title="FCDProInput::start" alt="" coords="861,194,994,221"/>
+</map>

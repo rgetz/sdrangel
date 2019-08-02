@@ -1,0 +1,6 @@
+<map id="ATVDemodSettings::topTimeUpdate" name="ATVDemodSettings::topTimeUpdate">
+<area shape="rect" id="node2" href="$d1/dce/structATVDemodSettings.html#a60641f3e22e7c8a48807560c8e838b94" title="ATVDemodSettings::getEffective\lSampleRate" alt="" coords="247,5,463,47"/>
+<area shape="rect" id="node3" href="$d1/dce/structATVDemodSettings.html#a7fe8ba7a1a135cc2f3dd11e3e241623d" title="ATVDemodSettings::getNominal\lLineTime" alt="" coords="249,71,461,112"/>
+<area shape="rect" id="node4" href="$d1/dce/structATVDemodSettings.html#a92f4d3e3338861d45873576458cc9afd" title="ATVDemodSettings::getFps" alt="" coords="523,49,709,75"/>
+<area shape="rect" id="node5" href="$d1/dce/structATVDemodSettings.html#a665bc65a72a6548e1575d3eaddf283ab" title="ATVDemodSettings::getNumber\lOfLines" alt="" coords="511,100,721,141"/>
+</map>

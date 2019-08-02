@@ -1,0 +1,5 @@
+<map id="HackRFInputGui::on_record_toggled" name="HackRFInputGui::on_record_toggled">
+<area shape="rect" id="node2" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#aa8964a867fb2fcf2efd5ac61b41ca5df" title="HackRFInput::MsgFileRecord\l::create" alt="" coords="196,5,392,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="210,71,378,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="219,137,369,163"/>
+</map>

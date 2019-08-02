@@ -1,0 +1,5 @@
+<map id="LocalSinkGUI::applyChannelSettings" name="LocalSinkGUI::applyChannelSettings">
+<area shape="rect" id="node2" href="$d6/d9b/classLocalSink_1_1MsgConfigureChannelizer.html#aa8b75258096e3419f93d77a5ffb40afa" title="LocalSink::MsgConfigureChannelizer\l::create" alt="" coords="244,5,481,47"/>
+<area shape="rect" id="node3" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="279,71,447,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="288,137,437,163"/>
+</map>

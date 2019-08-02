@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGChannelSettings::setBfmDemodSettings" name="SWGSDRangel::SWGChannelSettings::setBfmDemodSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a906e2386603e46ccbbd6be27d987789f" title="WebAPIRequestMapper\l::resetChannelSettings" alt="" coords="333,13,495,55"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="329,79,499,120"/>
+<area shape="rect" id="node7" href="$d4/dd5/classBFMDemod.html#a349518cedc2e42d098db97198cb0e6d3" title="BFMDemod::webapiReverseSend\lSettings" alt="" coords="304,144,524,185"/>
+<area shape="rect" id="node11" href="$d4/dd5/classBFMDemod.html#a4560aa3e41017d8dd8d38b67ac6cf9bb" title="BFMDemod::webapiSettingsGet" alt="" coords="309,210,519,237"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="574,5,753,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="572,71,755,127"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="817,31,979,72"/>
+<area shape="rect" id="node8" href="$d4/dd5/classBFMDemod.html#a97a2e159b9ce8e01c7b1d3c7c71e3c08" title="BFMDemod::applySettings" alt="" coords="574,151,753,178"/>
+<area shape="rect" id="node9" href="$d4/dd5/classBFMDemod.html#adc9823e0e737ea98eb3fa741d5869185" title="BFMDemod::BFMDemod" alt="" coords="813,122,983,149"/>
+<area shape="rect" id="node10" href="$d4/dd5/classBFMDemod.html#a7f127d311ce43f903ea95190cc8c8301" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="803,173,993,199"/>
+</map>

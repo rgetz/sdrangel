@@ -1,0 +1,19 @@
+<map id="SWGSDRangel::SWGSuccessResponse::init" name="SWGSDRangel::SWGSuccessResponse::init">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ae47330f3de8fae4d430b41b546e30359" title="WebAPIAdapterGUI::deviceset\lChannelDelete" alt="" coords="347,5,551,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#a0366d8307c30d34489700f96fb83f27f" title="WebAPIAdapterSrv::deviceset\lChannelDelete" alt="" coords="349,71,549,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a0a423dbdb84fb6dc17f45e546e233146" title="WebAPIAdapterGUI::deviceset\lChannelPost" alt="" coords="347,136,551,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#ae6db6b5768f950974a92eb79b3f9082e" title="WebAPIAdapterSrv::deviceset\lChannelPost" alt="" coords="349,201,549,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#ab85a5de739bc129074f9295321d960fd" title="WebAPIAdapterGUI::deviceset\lFocusPatch" alt="" coords="347,267,551,308"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a81e52be34f4fb2f076f4b34ce39de336" title="WebAPIAdapterSrv::instance\lAMBEDevicesDelete" alt="" coords="353,332,546,373"/>
+<area shape="rect" id="node8" href="$d7/de5/classWebAPIAdapterGUI.html#aa4ddf30a6f9858aeb2f799ea4e4c4074" title="WebAPIAdapterGUI::instance\lAMBEDevicesDelete" alt="" coords="351,397,548,439"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#a9725ec25878420347491bb92cd56bec5" title="WebAPIAdapterSrv::instance\lAudioInputCleanupPatch" alt="" coords="353,463,546,504"/>
+<area shape="rect" id="node10" href="$d7/de5/classWebAPIAdapterGUI.html#a15812faba8655b973b30411c41f9cdec" title="WebAPIAdapterGUI::instance\lAudioInputCleanupPatch" alt="" coords="351,528,548,569"/>
+<area shape="rect" id="node11" href="$d7/de5/classWebAPIAdapterGUI.html#a76ea7abb45b6a7380d6e75ba2897688a" title="WebAPIAdapterGUI::instance\lAudioOutputCleanupPatch" alt="" coords="351,593,548,635"/>
+<area shape="rect" id="node12" href="$dc/dd8/classWebAPIAdapterSrv.html#a7eaa9b8aa75a69c35156c518502ac55c" title="WebAPIAdapterSrv::instance\lAudioOutputCleanupPatch" alt="" coords="353,659,546,700"/>
+<area shape="rect" id="node13" href="$dc/dd8/classWebAPIAdapterSrv.html#a5ec5e310b95b4b22c6482bd367e711e2" title="WebAPIAdapterSrv::instance\lDelete" alt="" coords="353,724,546,765"/>
+<area shape="rect" id="node14" href="$d7/de5/classWebAPIAdapterGUI.html#a614f05178edc942ef8c0ca1a10166a2a" title="WebAPIAdapterGUI::instance\lDeviceSetDelete" alt="" coords="351,789,548,831"/>
+<area shape="rect" id="node15" href="$dc/dd8/classWebAPIAdapterSrv.html#acdca48079c085c52d46991f0ef8916c1" title="WebAPIAdapterSrv::instance\lDeviceSetDelete" alt="" coords="353,855,546,896"/>
+<area shape="rect" id="node16" href="$d7/de5/classWebAPIAdapterGUI.html#a77f3e2bc13bef9e05bdea8bee4088853" title="WebAPIAdapterGUI::instance\lDeviceSetPost" alt="" coords="351,920,548,961"/>
+<area shape="rect" id="node17" href="$dc/dd8/classWebAPIAdapterSrv.html#af704b7075c2d30f623aeb911d8613937" title="WebAPIAdapterSrv::instance\lDeviceSetPost" alt="" coords="353,985,546,1027"/>
+<area shape="rect" id="node18" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#a28e7c98061929a609871864b3f5ee194" title="SWGSDRangel::SWGSuccessResponse\l::SWGSuccessResponse" alt="" coords="317,1051,581,1092"/>
+</map>

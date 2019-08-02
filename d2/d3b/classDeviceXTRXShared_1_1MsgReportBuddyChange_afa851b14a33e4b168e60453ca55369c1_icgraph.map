@@ -1,0 +1,12 @@
+<map id="DeviceXTRXShared::MsgReportBuddyChange::getDevSampleRate" name="DeviceXTRXShared::MsgReportBuddyChange::getDevSampleRate">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a6bef06277cb9dbaa85094634eb78d151" title="XTRXOutputGUI::handleMessage" alt="" coords="280,21,500,47"/>
+<area shape="rect" id="node5" href="$d3/df5/classXTRXInputGUI.html#ad5a3b3ea143d7a194ed0f412973d6f44" title="XTRXInputGUI::handleMessage" alt="" coords="285,81,495,107"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="292,135,488,162"/>
+<area shape="rect" id="node10" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="297,186,483,213"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a65c356ea0a031215b0addc1177cf962f" title="XTRXOutputGUI::handleInput\lMessages" alt="" coords="548,5,744,47"/>
+<area shape="rect" id="node4" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="792,13,1020,39"/>
+<area shape="rect" id="node6" href="$d3/df5/classXTRXInputGUI.html#a14a8a35ee0a173ad0eed8c87ddf8d902" title="XTRXInputGUI::handleInput\lMessages" alt="" coords="553,71,739,112"/>
+<area shape="rect" id="node7" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="802,78,1010,105"/>
+<area shape="rect" id="node9" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="549,137,743,163"/>
+<area shape="rect" id="node11" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="553,187,739,214"/>
+</map>

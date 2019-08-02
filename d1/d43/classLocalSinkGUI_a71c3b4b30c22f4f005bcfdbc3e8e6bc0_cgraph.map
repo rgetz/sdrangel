@@ -1,0 +1,9 @@
+<map id="LocalSinkGUI::on_localDevice_currentIndexChanged" name="LocalSinkGUI::on_localDevice_currentIndexChanged">
+<area shape="rect" id="node2" href="$d1/d43/classLocalSinkGUI.html#a2dfcccf28fafcec7a28c4f88d38a787b" title="LocalSinkGUI::applySettings" alt="" coords="253,130,444,157"/>
+<area shape="rect" id="node3" href="$d4/d4c/classLocalSink_1_1MsgConfigureLocalSink.html#aa6964ce16b27513c2f66581ac6e55556" title="LocalSink::MsgConfigureLocal\lSink::create" alt="" coords="492,5,691,47"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="508,71,675,98"/>
+<area shape="rect" id="node6" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="507,123,675,164"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="517,189,666,215"/>
+<area shape="rect" id="node8" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="500,239,683,266"/>
+<area shape="rect" id="node4" href="$d4/d4c/classLocalSink_1_1MsgConfigureLocalSink.html#a121098c813bcad8c63d7fd33e6b8a289" title="LocalSink::MsgConfigureLocal\lSink::MsgConfigureLocalSink" alt="" coords="739,5,937,47"/>
+</map>

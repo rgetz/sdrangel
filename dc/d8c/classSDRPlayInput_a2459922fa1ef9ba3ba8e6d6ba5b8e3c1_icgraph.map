@@ -1,0 +1,8 @@
+<map id="SDRPlayInput::setDeviceCenterFrequency" name="SDRPlayInput::setDeviceCenterFrequency">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#a54771c9d02bc434729308f2d73c84335" title="SDRPlayInput::applySettings" alt="" coords="265,45,459,72"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="695,5,900,32"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a2cf8304ffa25857a22e89320aaf47982" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="511,96,642,123"/>
+<area shape="rect" id="node7" href="$dc/d8c/classSDRPlayInput.html#aad64250d9376dda3f45c7d2cf9b546fe" title="SDRPlayInput::start" alt="" coords="507,45,647,72"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="948,5,1152,32"/>
+<area shape="rect" id="node6" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="700,67,895,109"/>
+</map>

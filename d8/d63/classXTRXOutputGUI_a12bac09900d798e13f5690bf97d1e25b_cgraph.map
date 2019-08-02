@@ -1,0 +1,6 @@
+<map id="XTRXOutputGUI::updateHardware" name="XTRXOutputGUI::updateHardware">
+<area shape="rect" id="node2" href="$d0/df7/classXTRXOutput_1_1MsgConfigureXTRX.html#a2faed7b16085d286a3c5266a70292e49" title="XTRXOutput::MsgConfigure\lXTRX::create" alt="" coords="278,5,465,47"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="277,71,465,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="297,137,446,163"/>
+<area shape="rect" id="node3" href="$d0/df7/classXTRXOutput_1_1MsgConfigureXTRX.html#a8610d614edff68c2d25c0072b502aa5f" title="XTRXOutput::MsgConfigure\lXTRX::MsgConfigureXTRX" alt="" coords="513,5,700,47"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="qrtplib::RTPInternalSourceData::ProcessSDESItem" name="qrtplib::RTPInternalSourceData::ProcessSDESItem">
+<area shape="rect" id="node2" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a3d9577ad69bb0602be149514bc37b82b" title="qrtplib::RTCPSDESInfo\l::GetCNAME" alt="" coords="231,5,392,47"/>
+<area shape="rect" id="node3" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a2c3e457ef3891c3ccf25cde8636caf58" title="qrtplib::RTCPSDESInfo\l::GetEMail" alt="" coords="231,71,392,112"/>
+<area shape="rect" id="node4" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a2dcdd931d2fe4df5a27f0e56befb8f65" title="qrtplib::RTCPSDESInfo\l::GetName" alt="" coords="231,136,392,177"/>
+<area shape="rect" id="node5" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#aebc541a79b5f3a480965fd9c7abbb46f" title="qrtplib::RTCPSDESInfo\l::GetTool" alt="" coords="231,201,392,243"/>
+<area shape="rect" id="node6" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a7888f8eb271082bb01c151e011a1c3b8" title="qrtplib::RTCPSDESInfo\l::SetCNAME" alt="" coords="231,267,392,308"/>
+<area shape="rect" id="node7" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#ae3a8a1534bbb93be00a1e288cb38a3a8" title="qrtplib::RTCPSDESInfo\l::SetEMail" alt="" coords="231,332,392,373"/>
+<area shape="rect" id="node8" href="$d7/db6/classqrtplib_1_1RTPSourceStats.html#ad93be831957d1240916c98d2a5aa8558" title="qrtplib::RTPSourceStats\l::SetLastMessageTime" alt="" coords="229,397,393,439"/>
+<area shape="rect" id="node9" href="$d7/db6/classqrtplib_1_1RTPSourceStats.html#aed32ac9f8856455fad763c0cefdc6ef5" title="qrtplib::RTPSourceStats\l::SetLastNoteTime" alt="" coords="229,463,393,504"/>
+<area shape="rect" id="node10" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a4a63ba923348a793a46e6498fb6dc072" title="qrtplib::RTCPSDESInfo\l::SetLocation" alt="" coords="231,528,392,569"/>
+<area shape="rect" id="node11" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a636c7cb14e256b2829cd58006e9f6371" title="qrtplib::RTCPSDESInfo\l::SetName" alt="" coords="231,593,392,635"/>
+<area shape="rect" id="node12" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#af6e234247d3daabf41d6fc31932721f7" title="qrtplib::RTCPSDESInfo\l::SetNote" alt="" coords="231,659,392,700"/>
+<area shape="rect" id="node13" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#a59be29b8c84fe11ef321febc57d6a5a1" title="qrtplib::RTCPSDESInfo\l::SetPhone" alt="" coords="231,724,392,765"/>
+<area shape="rect" id="node14" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#af3989a7b7e2a1ffc76bbf6e0a7d3d703" title="qrtplib::RTCPSDESInfo\l::SetTool" alt="" coords="231,789,392,831"/>
+</map>

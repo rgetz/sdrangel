@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGRemoteOutputSettings::setChannelIndex" name="SWGSDRangel::SWGRemoteOutputSettings::setChannelIndex">
+<area shape="rect" id="node2" href="$d8/daf/classRemoteOutput.html#a162899b2a3df08efad4522cd064f1bf0" title="RemoteOutput::webapiFormat\lDeviceSettings" alt="" coords="545,57,743,98"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#a76ff5aad9628b27e9257576d06005c6b" title="RemoteOutput::webapiReverse\lSendSettings" alt="" coords="292,115,497,157"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#ae2b20ba3e41d86b0e8fb4e9df7d7cff2" title="RemoteOutput::webapiSettingsGet" alt="" coords="791,5,1016,32"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a09c23db456c81edb373d113f10dcfba0" title="RemoteOutput::webapiSettings\lPutPatch" alt="" coords="801,57,1005,98"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="1095,64,1328,91"/>
+<area shape="rect" id="node7" href="$d8/daf/classRemoteOutput.html#a80d6409d58d06eb64b754f15c1c89467" title="RemoteOutput::applySettings" alt="" coords="547,123,741,149"/>
+<area shape="rect" id="node8" href="$d8/daf/classRemoteOutput.html#aaeebf504cf095eb1456c63f58bee06e3" title="RemoteOutput::handleMessage" alt="" coords="800,123,1007,149"/>
+<area shape="rect" id="node9" href="$d8/daf/classRemoteOutput.html#aae7a474b9f713d55e9185b43be00b8b7" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="837,173,969,200"/>
+<area shape="rect" id="node10" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="1064,159,1359,215"/>
+</map>

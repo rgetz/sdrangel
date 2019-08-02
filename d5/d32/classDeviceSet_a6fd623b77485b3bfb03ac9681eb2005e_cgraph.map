@@ -1,0 +1,8 @@
+<map id="DeviceSet::addTxChannel" name="DeviceSet::addTxChannel">
+<area shape="rect" id="node2" href="$d2/ded/structDeviceSet_1_1ChannelInstanceRegistration.html#afc95e832d4b13db31d28b73b2db5fd33" title="DeviceSet::ChannelInstance\lRegistration::ChannelInstanceRegistration" alt="" coords="228,5,496,47"/>
+<area shape="rect" id="node5" href="$d7/d02/classChannelAPI.html#a8fbd0a7ffe2857a030d0689b1124e2be" title="ChannelAPI::getName" alt="" coords="822,67,975,94"/>
+<area shape="rect" id="node6" href="$d6/d95/classPluginAPI.html#a17dad214d5f728eda11bb6249447b072" title="PluginAPI::getTxChannelRegistrations" alt="" coords="239,126,485,153"/>
+<area shape="rect" id="node3" href="$d2/ded/structDeviceSet_1_1ChannelInstanceRegistration.html#a694ccde2d158ea5bdbea1b537cd0db89" title="DeviceSet::ChannelInstance\lRegistration::operator\&lt;" alt="" coords="548,5,737,47"/>
+<area shape="rect" id="node4" href="$d7/d02/classChannelAPI.html#a93ddb7150a360c79903bd29294664f6e" title="Applies to a default stream. " alt="" coords="789,13,1008,39"/>
+<area shape="rect" id="node7" href="$de/d59/classPluginManager.html#a29a1043f47b65ccd65305e21c2a456aa" title="PluginManager::getTxChannel\lRegistrations" alt="" coords="544,123,741,164"/>
+</map>

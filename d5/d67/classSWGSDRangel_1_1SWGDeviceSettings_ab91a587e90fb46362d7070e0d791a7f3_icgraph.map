@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setSdrPlaySettings" name="SWGSDRangel::SWGDeviceSettings::setSdrPlaySettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="317,5,479,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="316,71,480,112"/>
+<area shape="rect" id="node6" href="$dc/d8c/classSDRPlayInput.html#aad7c29a26fd5d185aa3195c92bdf4f3a" title="SDRPlayInput::webapiReverse\lSendSettings" alt="" coords="296,136,500,177"/>
+<area shape="rect" id="node13" href="$dc/d8c/classSDRPlayInput.html#a3f574cbab08bc4d1717b7917e30f06e1" title="SDRPlayInput::webapiSettingsGet" alt="" coords="548,223,772,250"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="551,8,769,49"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="820,8,983,49"/>
+<area shape="rect" id="node7" href="$dc/d8c/classSDRPlayInput.html#a54771c9d02bc434729308f2d73c84335" title="SDRPlayInput::applySettings" alt="" coords="563,141,757,167"/>
+<area shape="rect" id="node8" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="1031,114,1236,141"/>
+<area shape="rect" id="node10" href="$dc/d8c/classSDRPlayInput.html#a2cf8304ffa25857a22e89320aaf47982" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="836,181,967,207"/>
+<area shape="rect" id="node12" href="$dc/d8c/classSDRPlayInput.html#aad64250d9376dda3f45c7d2cf9b546fe" title="SDRPlayInput::start" alt="" coords="831,130,971,157"/>
+<area shape="rect" id="node9" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="1284,173,1488,199"/>
+<area shape="rect" id="node11" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="1036,165,1231,207"/>
+</map>

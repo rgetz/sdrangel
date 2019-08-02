@@ -1,0 +1,106 @@
+<map id="DeviceAPI::getDeviceEngineStateStr" name="DeviceAPI::getDeviceEngineStateStr">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ae8408681de3ae1e10c4eb2901ddb6331" title="WebAPIAdapterGUI::getDeviceSet" alt="" coords="245,65,472,91"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a55b81997a76f257027f93bb93dec5b00" title="WebAPIAdapterSrv::getDeviceSet" alt="" coords="247,139,470,166"/>
+<area shape="rect" id="node12" href="$da/dff/classPlutoSDROutput.html#a5d5a3b30df1e8d071a8cee70913bf46a" title="PlutoSDROutput::webapiRun" alt="" coords="262,190,455,217"/>
+<area shape="rect" id="node14" href="$d2/d3a/classPlutoSDRInput.html#a0ddf58d24f022d65601320486b90705c" title="PlutoSDRInput::webapiRun" alt="" coords="267,342,450,369"/>
+<area shape="rect" id="node16" href="$dc/d98/classBladerf1Output.html#aa4a7b65321cde790c37560310b8c645b" title="Bladerf1Output::webapiRun" alt="" coords="267,443,450,470"/>
+<area shape="rect" id="node18" href="$dc/df6/classHackRFOutput.html#a88d744d0952a503e905c773335439f99" title="HackRFOutput::webapiRun" alt="" coords="267,595,450,622"/>
+<area shape="rect" id="node20" href="$d6/d0c/classFCDProPlusInput.html#a9d6f843e7b953cc28912e174440b5470" title="FCDProPlusInput::webapiRun" alt="" coords="259,393,458,419"/>
+<area shape="rect" id="node21" href="$d9/d2b/classTestSourceInput.html#a26fdae006a85884ad398a39814a65aa0" title="TestSourceInput::webapiRun" alt="" coords="263,646,454,673"/>
+<area shape="rect" id="node23" href="$d9/d02/classAirspyInput.html#a553f900458db978925cdd6d46383c5ee" title="AirspyInput::webapiRun" alt="" coords="278,849,439,875"/>
+<area shape="rect" id="node27" href="$d2/d3a/classBladerf1Input.html#af125875e2b1f85e775b5ed3790e5a4f5" title="Bladerf1Input::webapiRun" alt="" coords="273,899,445,926"/>
+<area shape="rect" id="node29" href="$df/dc2/classPerseusInput.html#a9c3834326493dc16f0ce6764dbe736a9" title="PerseusInput::webapiRun" alt="" coords="273,1051,445,1078"/>
+<area shape="rect" id="node31" href="$d0/d36/classRTLSDRInput.html#a1a8f5f417474646573393d7c2fc31164" title="RTLSDRInput::webapiRun" alt="" coords="269,1102,448,1129"/>
+<area shape="rect" id="node33" href="$d2/d00/classAirspyHFInput.html#a224563bbf0ff5a4d2950adbe163e6bae" title="AirspyHFInput::webapiRun" alt="" coords="269,1305,448,1331"/>
+<area shape="rect" id="node37" href="$d7/da7/classTestMI.html#ade6c60841bdc2dbfb98e25bf04471698" title="TestMI::webapiRun" alt="" coords="291,1406,427,1433"/>
+<area shape="rect" id="node39" href="$db/d44/classFCDProInput.html#a9176ac0999fa0c1cfe84fe066053f473" title="FCDProInput::webapiRun" alt="" coords="273,798,445,825"/>
+<area shape="rect" id="node40" href="$de/db2/classLocalOutput.html#a1a87a2e0ed883b89679b469c66ce36c3" title="LocalOutput::webapiRun" alt="" coords="276,1558,441,1585"/>
+<area shape="rect" id="node42" href="$d7/d79/classBladeRF2Output.html#a85faed4b8255fc6d4f19ef61a2cccf69" title="BladeRF2Output::webapiRun" alt="" coords="263,1609,455,1635"/>
+<area shape="rect" id="node44" href="$d2/d57/classHackRFInput.html#a95f37a16bdd129aede5295d95fd0592f" title="HackRFInput::webapiRun" alt="" coords="272,1761,445,1787"/>
+<area shape="rect" id="node46" href="$d4/dbc/classKiwiSDRInput.html#adf6364947666068ef85b13f525a92ba8" title="KiwiSDRInput::webapiRun" alt="" coords="269,1811,448,1838"/>
+<area shape="rect" id="node48" href="$d8/d47/classLocalInput.html#a3ec3ffba015766e537b70c4374a23b1b" title="LocalInput::webapiRun" alt="" coords="281,2014,436,2041"/>
+<area shape="rect" id="node50" href="$d8/daf/classRemoteOutput.html#a14ff43d9be3aea921fc8f5a8920e3b62" title="RemoteOutput::webapiRun" alt="" coords="269,2065,449,2091"/>
+<area shape="rect" id="node52" href="$dc/d8c/classSDRPlayInput.html#a211e0fe7e1423afeb0f6c45fd4a0dfcf" title="SDRPlayInput::webapiRun" alt="" coords="269,2217,448,2243"/>
+<area shape="rect" id="node54" href="$d8/df3/classSoapySDROutput.html#a274134828344fcf17836637277c94ef3" title="SoapySDROutput::webapiRun" alt="" coords="259,1203,459,1230"/>
+<area shape="rect" id="node55" href="$d6/d2d/classBladeRF2Input.html#a810c531be5b88df72a76f1d236f43cf0" title="BladeRF2Input::webapiRun" alt="" coords="267,2267,450,2294"/>
+<area shape="rect" id="node61" href="$d6/dc4/classFileSinkOutput.html#acb1866611f59827d55f884038abe99b0" title="FileSinkOutput::webapiRun" alt="" coords="268,2470,449,2497"/>
+<area shape="rect" id="node63" href="$da/d65/classSoapySDRInput.html#a528d519a8a68bba3ddfc737d1626873b" title="SoapySDRInput::webapiRun" alt="" coords="263,1355,454,1382"/>
+<area shape="rect" id="node64" href="$d1/d5f/classXTRXOutput.html#a1fa28baf7035633ab4056a967f2a6b34" title="XTRXOutput::webapiRun" alt="" coords="273,2521,444,2547"/>
+<area shape="rect" id="node66" href="$d5/d8d/classLimeSDROutput.html#a09f338bbdd8ec2743c7a7cef7142ad6c" title="LimeSDROutput::webapiRun" alt="" coords="263,2673,454,2699"/>
+<area shape="rect" id="node68" href="$dc/d14/classXTRXInput.html#afc43ac1c21c140466deac9d936af646d" title="XTRXInput::webapiRun" alt="" coords="279,2774,439,2801"/>
+<area shape="rect" id="node70" href="$df/d1b/classLimeSDRInput.html#aca3c6724b989e398f88948800fc1e8cf" title="LimeSDRInput::webapiRun" alt="" coords="268,2977,449,3003"/>
+<area shape="rect" id="node72" href="$d3/d67/classRemoteInput.html#a71c31f43bb15b65293bfe28c95b99385" title="RemoteInput::webapiRun" alt="" coords="273,3027,444,3054"/>
+<area shape="rect" id="node74" href="$d7/deb/classFileInput.html#ad0ef3294a2dbca688c3041f7db058a5a" title="FileInput::webapiRun" alt="" coords="286,3179,431,3206"/>
+<area shape="rect" id="node76" href="$da/dff/classPlutoSDROutput.html#ad2ab23ad243c7c38086857770d81d85c" title="PlutoSDROutput::webapiRunGet" alt="" coords="251,241,466,267"/>
+<area shape="rect" id="node77" href="$d2/d3a/classPlutoSDRInput.html#ac072fab9b6cfe35850565bf7bdf81c31" title="PlutoSDRInput::webapiRunGet" alt="" coords="257,291,461,318"/>
+<area shape="rect" id="node78" href="$dc/d98/classBladerf1Output.html#a30172ec9ca336b6ce2ddd104e58d85df" title="Bladerf1Output::webapiRunGet" alt="" coords="257,494,460,521"/>
+<area shape="rect" id="node79" href="$dc/df6/classHackRFOutput.html#a81fe2c65fcdd9630a9d8fb38f71c47bd" title="HackRFOutput::webapiRunGet" alt="" coords="257,545,461,571"/>
+<area shape="rect" id="node80" href="$d6/d0c/classFCDProPlusInput.html#a64843ab2118b8d3f3913318c93569258" title="FCDProPlusInput::webapiRunGet" alt="" coords="249,1913,468,1939"/>
+<area shape="rect" id="node81" href="$d9/d2b/classTestSourceInput.html#a26c90c6c6005e34dca36e39935c86205" title="TestSourceInput::webapiRunGet" alt="" coords="253,697,465,723"/>
+<area shape="rect" id="node82" href="$d9/d02/classAirspyInput.html#afb7e056887c19b310ab5a779898fd3ed" title="AirspyInput::webapiRunGet" alt="" coords="267,747,450,774"/>
+<area shape="rect" id="node83" href="$d2/d3a/classBladerf1Input.html#ad5e5fd035b6007f7f79da8ae9d43e8cc" title="Bladerf1Input::webapiRunGet" alt="" coords="262,950,455,977"/>
+<area shape="rect" id="node84" href="$df/dc2/classPerseusInput.html#a99f1484c2a1fb9a5516272851becfb4c" title="PerseusInput::webapiRunGet" alt="" coords="262,1001,455,1027"/>
+<area shape="rect" id="node85" href="$d0/d36/classRTLSDRInput.html#a705b98f202a53aa0decb5a4b6734cf59" title="RTLSDRInput::webapiRunGet" alt="" coords="259,1153,458,1179"/>
+<area shape="rect" id="node86" href="$d2/d00/classAirspyHFInput.html#a368400b61d91f904315d24358a00fecf" title="AirspyHFInput::webapiRunGet" alt="" coords="259,1254,459,1281"/>
+<area shape="rect" id="node87" href="$d7/da7/classTestMI.html#a3beccce3babc949cd22e59037649c1e7" title="TestMI::webapiRunGet" alt="" coords="280,1457,437,1483"/>
+<area shape="rect" id="node88" href="$db/d44/classFCDProInput.html#a30e7a84e516016ff26e1178678757776" title="FCDProInput::webapiRunGet" alt="" coords="262,2318,455,2345"/>
+<area shape="rect" id="node89" href="$de/db2/classLocalOutput.html#a8a5a6af60fb5e116e6a20673db68e982" title="LocalOutput::webapiRunGet" alt="" coords="265,1507,452,1534"/>
+<area shape="rect" id="node90" href="$d7/d79/classBladeRF2Output.html#a2330fa44e9b6a8cc1a6a10e1c0caa69b" title="BladeRF2Output::webapiRunGet" alt="" coords="252,1659,465,1686"/>
+<area shape="rect" id="node91" href="$d2/d57/classHackRFInput.html#a0317ee5920f84e14c2b67af8c42c8518" title="HackRFInput::webapiRunGet" alt="" coords="261,1710,456,1737"/>
+<area shape="rect" id="node92" href="$d4/dbc/classKiwiSDRInput.html#a1ffa3070286b9a2275b02188f420296e" title="KiwiSDRInput::webapiRunGet" alt="" coords="259,1862,458,1889"/>
+<area shape="rect" id="node93" href="$d8/d47/classLocalInput.html#a44982529719fbf37169fcb5935ab1c61" title="LocalInput::webapiRunGet" alt="" coords="271,1963,447,1990"/>
+<area shape="rect" id="node94" href="$d8/daf/classRemoteOutput.html#a9d7e4dcf3844c8b6a4e1c98a888cbb26" title="RemoteOutput::webapiRunGet" alt="" coords="258,2115,459,2142"/>
+<area shape="rect" id="node95" href="$dc/d8c/classSDRPlayInput.html#a42d07ae97072c0157e4bd63cfd3bf8cc" title="SDRPlayInput::webapiRunGet" alt="" coords="259,2166,459,2193"/>
+<area shape="rect" id="node96" href="$d8/df3/classSoapySDROutput.html#a4b045a5a946a2f636f11ce730c3a1989" title="SoapySDROutput::webapiRunGet" alt="" coords="248,2723,469,2750"/>
+<area shape="rect" id="node97" href="$d6/d2d/classBladeRF2Input.html#ac93f4b68b3c84e0c9397c2cb32768f17" title="BladeRF2Input::webapiRunGet" alt="" coords="257,2369,460,2395"/>
+<area shape="rect" id="node98" href="$d6/dc4/classFileSinkOutput.html#aac6921b52cb5fa2a9231c16d3d600d8e" title="FileSinkOutput::webapiRunGet" alt="" coords="257,2419,460,2446"/>
+<area shape="rect" id="node99" href="$da/d65/classSoapySDRInput.html#aeb2da30448fdb96ac5c14bb1b7248713" title="SoapySDRInput::webapiRunGet" alt="" coords="253,2875,464,2902"/>
+<area shape="rect" id="node100" href="$d1/d5f/classXTRXOutput.html#ae58dc54bb1c2e837cfcee29d507cc7d1" title="XTRXOutput::webapiRunGet" alt="" coords="263,2571,454,2598"/>
+<area shape="rect" id="node101" href="$d5/d8d/classLimeSDROutput.html#a77623b745e884145a307a8a4ce6590df" title="LimeSDROutput::webapiRunGet" alt="" coords="253,2622,465,2649"/>
+<area shape="rect" id="node102" href="$dc/d14/classXTRXInput.html#a33b0ab0293ebf18e4fc373ee20de0ec6" title="XTRXInput::webapiRunGet" alt="" coords="268,2825,449,2851"/>
+<area shape="rect" id="node103" href="$df/d1b/classLimeSDRInput.html#a80e8da36c08c3e48bfeff06aeaa1a208" title="LimeSDRInput::webapiRunGet" alt="" coords="257,2926,460,2953"/>
+<area shape="rect" id="node104" href="$d3/d67/classRemoteInput.html#a2184945a9c48d0a9325a2831281502f4" title="RemoteInput::webapiRunGet" alt="" coords="263,3078,454,3105"/>
+<area shape="rect" id="node105" href="$d7/deb/classFileInput.html#aaf1b4adff0542ddbc9bfb651ed0e566e" title="FileInput::webapiRunGet" alt="" coords="275,3129,442,3155"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#a8509c64805904ff75d5ea925d1235f34" title="WebAPIAdapterGUI::devicesetGet" alt="" coords="533,6,758,33"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a22c80d026f881097c4c88407a46b5170" title="WebAPIAdapterGUI::getDevice\lSetList" alt="" coords="542,57,749,99"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#ac6fa7af9e7a689560d0db3c4bc3a8551" title="WebAPIAdapterGUI::instance\lSummary" alt="" coords="828,5,1025,47"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#a958205ade4e15568ae607d7eaa1b8c5a" title="WebAPIAdapterGUI::instance\lDeviceSetsGet" alt="" coords="828,71,1025,112"/>
+<area shape="rect" id="node8" href="$dc/dd8/classWebAPIAdapterSrv.html#a48a3c10e6438cced9c93858220ec396a" title="WebAPIAdapterSrv::devicesetGet" alt="" coords="535,123,756,150"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#acd14171d866dc149c860efab28f097e8" title="WebAPIAdapterSrv::getDevice\lSetList" alt="" coords="544,175,747,216"/>
+<area shape="rect" id="node10" href="$dc/dd8/classWebAPIAdapterSrv.html#a505535853574106c725f94efa3f67d17" title="WebAPIAdapterSrv::instance\lSummary" alt="" coords="830,161,1023,203"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#a2797184f69a2f61a13d5dc8fc511ab7a" title="WebAPIAdapterSrv::instance\lDeviceSetsGet" alt="" coords="830,227,1023,268"/>
+<area shape="rect" id="node13" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="536,241,755,267"/>
+<area shape="rect" id="node15" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="541,317,749,343"/>
+<area shape="rect" id="node17" href="$dc/d98/classBladerf1Output.html#afcf915bff7fdd761b45084c079586d4d" title="For when the sink sample rate is set externally. " alt="" coords="542,469,749,495"/>
+<area shape="rect" id="node19" href="$dc/df6/classHackRFOutput.html#a216c6ce9858362f5300a11d07347f5eb" title="For when the sink sample rate is set externally. " alt="" coords="541,570,749,597"/>
+<area shape="rect" id="node22" href="$d9/d2b/classTestSourceInput.html#a1e8134add18d5b24f054939ffb07b5c4" title="For when the source sample rate is set externally. " alt="" coords="537,671,753,698"/>
+<area shape="rect" id="node24" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="549,798,742,825"/>
+<area shape="rect" id="node25" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="837,761,1016,803"/>
+<area shape="rect" id="node26" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="1093,798,1291,825"/>
+<area shape="rect" id="node28" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="547,925,744,951"/>
+<area shape="rect" id="node30" href="$df/dc2/classPerseusInput.html#a5df1af59e9e43e042b6baf24c059bccf" title="For when the source sample rate is set externally. " alt="" coords="547,1039,744,1066"/>
+<area shape="rect" id="node32" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="544,1115,747,1142"/>
+<area shape="rect" id="node34" href="$d2/d00/classAirspyHFInput.html#a5dc37f4555107ec0badd0749bb37894e" title="AirspyHFInput::getSample\lRates" alt="" coords="557,1272,733,1313"/>
+<area shape="rect" id="node35" href="$d2/d00/classAirspyHFInput.html#a1d9e33f17961c59899bb2bb9e556a7c0" title="AirspyHFInput::webapiFormat\lDeviceReport" alt="" coords="829,1243,1025,1284"/>
+<area shape="rect" id="node36" href="$d2/d00/classAirspyHFInput.html#adb85453a3249fc95d59eaea43a759338" title="AirspyHFInput::webapiReportGet" alt="" coords="1085,1279,1299,1306"/>
+<area shape="rect" id="node38" href="$d7/da7/classTestMI.html#a2e624bc3b137c3750b4474973d3126b0" title="TestMI::setSinkCenterFrequency" alt="" coords="538,1423,753,1450"/>
+<area shape="rect" id="node41" href="$d6/d65/classLocalOutput_1_1MsgReportSampleRateAndFrequency.html#adfd503a532898aeb9d8fa0a47471d209" title="LocalOutput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="520,1518,771,1574"/>
+<area shape="rect" id="node43" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="537,1634,754,1661"/>
+<area shape="rect" id="node45" href="$d2/d57/classHackRFInput.html#a4a0867e41233fc777459b2479b9e2942" title="For when the source sample rate is set externally. " alt="" coords="546,1735,745,1762"/>
+<area shape="rect" id="node47" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="544,1837,747,1863"/>
+<area shape="rect" id="node49" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a9360120dec540495691a8f0e74e59a59" title="LocalInput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="520,1974,771,2030"/>
+<area shape="rect" id="node51" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="529,2090,762,2117"/>
+<area shape="rect" id="node53" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="543,2166,747,2193"/>
+<area shape="rect" id="node56" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="545,2318,746,2345"/>
+<area shape="rect" id="node57" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="829,2212,1024,2253"/>
+<area shape="rect" id="node58" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="819,2277,1035,2319"/>
+<area shape="rect" id="node59" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="827,2343,1026,2384"/>
+<area shape="rect" id="node60" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="1083,2379,1301,2406"/>
+<area shape="rect" id="node62" href="$d6/dc4/classFileSinkOutput.html#a24cd6a438e859027e39f5b509329a997" title="For when the sink sample rate is set externally. " alt="" coords="542,2458,749,2485"/>
+<area shape="rect" id="node65" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="548,2534,743,2561"/>
+<area shape="rect" id="node67" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="537,2647,753,2674"/>
+<area shape="rect" id="node69" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="553,2799,738,2826"/>
+<area shape="rect" id="node71" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="542,2951,749,2978"/>
+<area shape="rect" id="node73" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="548,3053,743,3079"/>
+<area shape="rect" id="node75" href="$d7/deb/classFileInput.html#a090e6381223a51d1f5c1d1ab81348e5e" title="For when the source sample rate is set externally. " alt="" coords="560,3154,731,3181"/>
+</map>

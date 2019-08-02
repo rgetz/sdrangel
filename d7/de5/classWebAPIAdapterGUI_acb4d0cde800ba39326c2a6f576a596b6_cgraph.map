@@ -1,0 +1,16 @@
+<map id="WebAPIAdapterGUI::getChannelsDetail" name="WebAPIAdapterGUI::getChannelsDetail">
+<area shape="rect" id="node2" href="$d7/d02/classChannelAPI.html#a93ddb7150a360c79903bd29294664f6e" title="Applies to a default stream. " alt="" coords="277,5,496,32"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#adadca235cf711f5ccf82dafb127cdd7c" title="DeviceAPI::getChanelSink\lAPIAt" alt="" coords="297,57,476,98"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a222008a2a8d273ef4fa3321dc53ac5cf" title="DeviceAPI::getChanelSource\lAPIAt" alt="" coords="290,122,483,163"/>
+<area shape="rect" id="node5" href="$d8/d9c/classSWGSDRangel_1_1SWGChannelsDetail.html#a3ea1dcb0f4489f2c2023af3434b60a6c" title="SWGSDRangel::SWGChannels\lDetail::getChannelcount" alt="" coords="282,187,491,229"/>
+<area shape="rect" id="node6" href="$d8/d9c/classSWGSDRangel_1_1SWGChannelsDetail.html#a87be55a3d06fd429a47a4a87b0bcd253" title="SWGSDRangel::SWGChannels\lDetail::getChannels" alt="" coords="282,253,491,294"/>
+<area shape="rect" id="node7" href="$d7/d02/classChannelAPI.html#a404276b6d624ddeb5f89fc2d7a4e7bc5" title="ChannelAPI::getIdentifier" alt="" coords="303,319,471,345"/>
+<area shape="rect" id="node8" href="$d7/d02/classChannelAPI.html#a9421ed946473753ddec3d68bd634807f" title="ChannelAPI::getIndexInDeviceSet" alt="" coords="275,369,498,396"/>
+<area shape="rect" id="node9" href="$dd/db6/classDeviceAPI.html#a3155bc0c832b46b777dd3f9fd38fdadb" title="DeviceAPI::getNbSinkChannels" alt="" coords="282,420,491,447"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html#aff807d88050d948cf9f730ce56d047d1" title="DeviceAPI::getNbSourceChannels" alt="" coords="275,471,499,497"/>
+<area shape="rect" id="node11" href="$d7/d02/classChannelAPI.html#a32e496cc31ac0cb10f3e944c98668980" title="ChannelAPI::getTitle" alt="" coords="315,521,458,548"/>
+<area shape="rect" id="node12" href="$d7/d02/classChannelAPI.html#ab32f0b32a9392c300ab8162960b39a01" title="ChannelAPI::getUID" alt="" coords="315,572,458,599"/>
+<area shape="rect" id="node13" href="$d8/d9c/classSWGSDRangel_1_1SWGChannelsDetail.html#aa2dd8040290e4deef9e5a1cf6d4ecaa7" title="SWGSDRangel::SWGChannels\lDetail::init" alt="" coords="282,623,491,665"/>
+<area shape="rect" id="node14" href="$d8/d9c/classSWGSDRangel_1_1SWGChannelsDetail.html#a68c6ae04c5b5c484d06b1fc7378716b4" title="SWGSDRangel::SWGChannels\lDetail::setChannelcount" alt="" coords="282,689,491,730"/>
+<area shape="rect" id="node15" href="$d7/d02/classChannelAPI.html#a63e6522c740fff62095a2d932d0ee38e" title="ChannelAPI::webapiReportGet" alt="" coords="286,755,487,781"/>
+</map>

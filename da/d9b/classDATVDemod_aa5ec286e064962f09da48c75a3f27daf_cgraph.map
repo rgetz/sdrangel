@@ -1,0 +1,9 @@
+<map id="DATVDemod::DATVDemod" name="DATVDemod::DATVDemod">
+<area shape="rect" id="node2" href="$d0/d40/classAudioDeviceManager.html#a38e8964b4d002ec11c3207ca0d4ba7b6" title="Add the audio sink. " alt="" coords="262,37,409,79"/>
+<area shape="rect" id="node7" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="240,103,431,144"/>
+<area shape="rect" id="node8" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="262,169,409,195"/>
+<area shape="rect" id="node3" href="$d0/d40/classAudioDeviceManager.html#a181e5e29231a65a1394555e033010912" title="Remove the audio sink. " alt="" coords="479,5,625,47"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#a37b856d43e87963c81ff4b91cdbd0668" title="AudioDeviceManager\l::startAudioOutput" alt="" coords="479,71,625,112"/>
+<area shape="rect" id="node4" href="$d0/d40/classAudioDeviceManager.html#afef27a8a7969bb4c833bee1bbe18d04a" title="AudioDeviceManager\l::stopAudioOutput" alt="" coords="681,5,828,47"/>
+<area shape="rect" id="node6" href="$d0/d40/classAudioDeviceManager.html#abd04140bd856b06109944d15f537f525" title="AudioDeviceManager\l::getOutputDeviceName" alt="" coords="673,71,836,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PlutoSDRInput::closeDevice" name="PlutoSDRInput::closeDevice">
+<area shape="rect" id="node2" href="$da/d86/classDevicePlutoSDRParams.html#a4d56894394027d8d4cb1cac670b59269" title="DevicePlutoSDRParams\l::close" alt="" coords="253,5,419,47"/>
+<area shape="rect" id="node3" href="$da/d86/classDevicePlutoSDRParams.html#a272d340def89aae8871a72b26092c7c2" title="DevicePlutoSDRParams\l::getBox" alt="" coords="253,71,419,112"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="244,137,428,163"/>
+</map>

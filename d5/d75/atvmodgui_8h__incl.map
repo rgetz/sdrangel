@@ -1,0 +1,20 @@
+<map id="plugins/channeltx/modatv/atvmodgui.h" name="plugins/channeltx/modatv/atvmodgui.h">
+<area shape="rect" id="node2" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="249,244,419,271"/>
+<area shape="rect" id="node7" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="1467,95,1590,121"/>
+<area shape="rect" id="node9" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="81,244,224,271"/>
+<area shape="rect" id="node13" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="2136,169,2279,196"/>
+<area shape="rect" id="node15" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1769,244,1912,271"/>
+<area shape="rect" id="node18" href="$dd/d11/atvmod_8h.html" title="atvmod.h" alt="" coords="1237,95,1313,121"/>
+<area shape="rect" id="node38" href="$d5/d14/atvmodsettings_8h.html" title="atvmodsettings.h" alt="" coords="443,244,566,271"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1089,319,1158,345"/>
+<area shape="rect" id="node12" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="5,319,153,345"/>
+<area shape="rect" id="node25" href="$d8/dfa/basebandsamplesource_8h.html" title="dsp/basebandsamplesource.h" alt="" coords="1617,169,1811,196"/>
+<area shape="rect" id="node30" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="590,244,734,271"/>
+<area shape="rect" id="node31" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="1084,244,1163,271"/>
+<area shape="rect" id="node32" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="1289,244,1411,271"/>
+<area shape="rect" id="node34" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="816,244,900,271"/>
+<area shape="rect" id="node36" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="625,169,731,196"/>
+<area shape="rect" id="node26" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1344,319,1455,345"/>
+<area shape="rect" id="node28" href="$df/d84/samplesourcefifo_8h.html" title="dsp/samplesourcefifo.h" alt="" coords="1486,244,1643,271"/>
+<area shape="rect" id="node35" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="832,319,884,345"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ATVMod::calculateCamerasSizes" name="ATVMod::calculateCamerasSizes">
+<area shape="rect" id="node2" href="$d2/d69/classATVMod.html#ab53491a11a8142404b19de0d7c74815b" title="ATVMod::applyStandard" alt="" coords="240,114,404,141"/>
+<area shape="rect" id="node13" href="$d2/d69/classATVMod.html#a18b73842ff0bc57a5eba0c8c6f2fd360" title="ATVMod::scanCameras" alt="" coords="241,165,403,191"/>
+<area shape="rect" id="node3" href="$d2/d69/classATVMod.html#afe25407adbdab83a6d787491984aa758" title="ATVMod::applyChannelSettings" alt="" coords="452,63,660,90"/>
+<area shape="rect" id="node12" href="$d2/d69/classATVMod.html#a72a48b1e22aab5b059ef40fa93a3a1a0" title="ATVMod::applySettings" alt="" coords="476,114,636,141"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a301c20c1f192bd8c9d23e19a4360ecfa" title="ATVMod::ATVMod" alt="" coords="728,139,860,166"/>
+<area shape="rect" id="node6" href="$d2/d69/classATVMod.html#a252e7a58cb70ea3edc1165f7c266fa99" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="708,89,880,115"/>
+<area shape="rect" id="node8" href="$d2/d69/classATVMod.html#a58566ca325ea9c1b757e6e70f4c7925d" title="ATVMod::start" alt="" coords="741,38,847,65"/>
+<area shape="rect" id="node5" href="$de/df4/classATVMod_1_1MsgReportEffectiveSampleRate.html#a2bcebe99221cf92b4e42d9780a33e450" title="ATVMod::MsgReportEffective\lSampleRate::MsgReportEffective\lSampleRate" alt="" coords="928,139,1147,195"/>
+<area shape="rect" id="node7" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="1571,38,1695,65"/>
+<area shape="rect" id="node9" href="$d2/d69/classATVMod.html#accac8cb167adf2ab68b646b3d7f9819b" title="ATVMod::pullVideo" alt="" coords="970,38,1105,65"/>
+<area shape="rect" id="node10" href="$d2/d69/classATVMod.html#a25a025965a496bf97686f6338245ec56" title="ATVMod::modulateSample" alt="" coords="1195,38,1373,65"/>
+<area shape="rect" id="node11" href="$d2/d69/classATVMod.html#af9c47208c17ca80b63b0674e59edfb5a" title="ATVMod::pull" alt="" coords="1421,38,1523,65"/>
+</map>

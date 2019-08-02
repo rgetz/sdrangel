@@ -1,0 +1,27 @@
+<map id="HackRFInputGui::handleInputMessages" name="HackRFInputGui::handleInputMessages">
+<area shape="rect" id="node2" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="281,5,433,47"/>
+<area shape="rect" id="node3" href="$d6/d28/classMessage.html#a607a4adf44d727623cc9eaf8bdadd91a" title="Message::getIdentifier" alt="" coords="282,71,433,98"/>
+<area shape="rect" id="node4" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="281,123,433,164"/>
+<area shape="rect" id="node5" href="$df/d85/classHackRFInputGui.html#afe9ac335209e66e218af9b43dc403fe8" title="HackRFInputGui::handleMessage" alt="" coords="248,239,467,266"/>
+<area shape="rect" id="node6" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="566,122,685,149"/>
+<area shape="rect" id="node21" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="286,290,429,317"/>
+<area shape="rect" id="node22" href="$df/d85/classHackRFInputGui.html#a5c96e0182f18952d97501ece7cbf119e" title="HackRFInputGui::updateSample\lRateAndFrequency" alt="" coords="252,451,463,492"/>
+<area shape="rect" id="node8" href="$db/d11/classHackRFInput_1_1MsgConfigureHackRF.html#aa10cf1691e962b60237c344c9075887c" title="HackRFInput::MsgConfigure\lHackRF::getSettings" alt="" coords="531,173,720,215"/>
+<area shape="rect" id="node9" href="$df/d85/classHackRFInputGui.html#aad77609ebcbf582b3100406c3ce09a44" title="HackRFInputGui::blockApply\lSettings" alt="" coords="809,224,1001,265"/>
+<area shape="rect" id="node10" href="$df/d85/classHackRFInputGui.html#a2d385d9ad3dec96119cca14b82df5de1" title="HackRFInputGui::displaySettings" alt="" coords="517,290,734,317"/>
+<area shape="rect" id="node20" href="$da/dcf/classHackRFInput_1_1MsgStartStop.html#a078885b8b533f90501acee7ee08423e9" title="HackRFInput::MsgStartStop\l::getStartStop" alt="" coords="531,341,719,383"/>
+<area shape="rect" id="node7" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="820,122,989,149"/>
+<area shape="rect" id="node11" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1371,349,1411,375"/>
+<area shape="rect" id="node16" href="$df/d85/classHackRFInputGui.html#a23bb0bc78db3fcaa7650ccdffcf2055b" title="HackRFInputGui::displaySampleRate" alt="" coords="784,407,1025,434"/>
+<area shape="rect" id="node19" href="$d7/d89/classHackRFBandwidths.html#a8d3786f2f9ef33e56416b6e041e7a6f6" title="HackRFBandwidths::getBandwidth\lIndex" alt="" coords="791,341,1018,383"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1524,349,1632,375"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1680,371,1828,412"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1884,319,2003,346"/>
+<area shape="rect" id="node15" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1876,371,2011,412"/>
+<area shape="rect" id="node17" href="$df/d85/classHackRFInputGui.html#a2def1ada54b5df7a9293120903865d45" title="HackRFInputGui::displayFc\lTooltip" alt="" coords="1073,400,1257,441"/>
+<area shape="rect" id="node18" href="$db/d0c/classDeviceSampleSource.html#a8d7e8bf06f70b43e5e52e73d89de852f" title="DeviceSampleSource\l::calculateFrequencyShift" alt="" coords="1305,400,1476,441"/>
+<area shape="rect" id="node23" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="536,458,715,485"/>
+<area shape="rect" id="node24" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="529,509,722,535"/>
+<area shape="rect" id="node26" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="515,559,736,586"/>
+<area shape="rect" id="node25" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="830,509,979,535"/>
+</map>

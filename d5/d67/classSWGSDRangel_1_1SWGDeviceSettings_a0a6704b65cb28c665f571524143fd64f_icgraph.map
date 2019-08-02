@@ -1,0 +1,16 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setBladeRf2OutputSettings" name="SWGSDRangel::SWGDeviceSettings::setBladeRf2OutputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="323,5,487,47"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a04efdccb39b8f2763266d64fbe21fd39" title="BladeRF2Output::webapiReverse\lSendSettings" alt="" coords="296,144,513,185"/>
+<area shape="rect" id="node15" href="$d7/d79/classBladeRF2Output.html#aaa06e33c7fe5c5e6faad00513d4e6b2b" title="BladeRF2Output::webapiSettingsGet" alt="" coords="561,71,799,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="571,5,789,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="875,5,1037,47"/>
+<area shape="rect" id="node6" href="$d7/d79/classBladeRF2Output.html#a4c2f93e1c79bcb92fc5c809345f7a74e" title="BladeRF2Output::applySettings" alt="" coords="577,173,783,199"/>
+<area shape="rect" id="node7" href="$d7/d79/classBladeRF2Output.html#a8324b4feb400afdde8c6dad1073fba23" title="BladeRF2Output::handleMessage" alt="" coords="847,122,1065,149"/>
+<area shape="rect" id="node9" href="$d7/d79/classBladeRF2Output.html#a6bb76494a0fa3368ec33e42d9051c3f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1403,173,1547,199"/>
+<area shape="rect" id="node11" href="$d7/d79/classBladeRF2Output.html#a6a209c868a6087edcb74e108ea3b1312" title="BladeRF2Output::start" alt="" coords="1145,223,1299,250"/>
+<area shape="rect" id="node12" href="$d7/d79/classBladeRF2Output.html#a349a7db91f457df51cde0a8a2883ae55" title="BladeRF2Output::stop" alt="" coords="880,299,1032,326"/>
+<area shape="rect" id="node8" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="1113,97,1331,123"/>
+<area shape="rect" id="node10" href="$d1/d57/classBladeRF2Output_1_1MsgReportGainRange.html#a6f2c610c442c6f3565bc397a263d9eab" title="BladeRF2Output::MsgReport\lGainRange::MsgReportGainRange" alt="" coords="1620,241,1844,283"/>
+<area shape="rect" id="node13" href="$d7/d79/classBladeRF2Output.html#a4953c023bf3746fc339f900a0a566778" title="BladeRF2Output::closeDevice" alt="" coords="1123,375,1321,402"/>
+<area shape="rect" id="node14" href="$d7/d79/classBladeRF2Output.html#acb37674096c0372e98ec33162c8af396" title="BladeRF2Output::~BladeRF2\lOutput" alt="" coords="1379,325,1572,367"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="PluginManager::getPluginAPI" name="PluginManager::getPluginAPI">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#a020876e02b21305a5084d49788714a00" title="MainCore::addChannel" alt="" coords="275,5,430,32"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a224dee060d431a15b347fd691c775e23" title="MainCore::loadPresetSettings" alt="" coords="255,56,451,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="245,107,460,133"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="517,5,695,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="761,5,945,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1021,5,1164,32"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="508,56,704,83"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1003,81,1183,108"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="511,158,701,199"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="752,56,955,83"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="759,158,947,199"/>
+</map>

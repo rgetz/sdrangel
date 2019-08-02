@@ -1,0 +1,6 @@
+<map id="LimeSDROutput::getLORange" name="LimeSDROutput::getLORange">
+<area shape="rect" id="node2" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="252,5,523,32"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="279,56,495,83"/>
+<area shape="rect" id="node4" href="$d7/dab/classLimeSDROutputGUI.html#ad619aea3294d1cd84e3cdf4a905d776b" title="LimeSDROutputGUI::update\lFrequencyLimits" alt="" coords="293,107,482,149"/>
+<area shape="rect" id="node5" href="$d7/dab/classLimeSDROutputGUI.html#a345178f0830e3c6ce5d88a702df8584d" title="LimeSDROutputGUI::on\l_transverter_clicked" alt="" coords="571,107,735,149"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setRemoteInputReport" name="SWGSDRangel::SWGDeviceReport::setRemoteInputReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="310,5,473,47"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#ab3b80c5e700aa55ff87e1628a98961eb" title="RemoteInput::webapiReportGet" alt="" coords="288,71,495,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="543,5,753,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="801,5,964,47"/>
+<area shape="rect" id="node6" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="551,71,745,98"/>
+</map>

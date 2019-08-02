@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGChannelReport::setBfmDemodReport" name="SWGSDRangel::SWGChannelReport::setBfmDemodReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a60ddbb1101a6f53e60c8797618ec1e26" title="WebAPIRequestMapper\l::resetChannelReport" alt="" coords="314,5,477,47"/>
+<area shape="rect" id="node5" href="$d4/dd5/classBFMDemod.html#abd5507f8b0ed15a9dd36fb2e6535fa0a" title="BFMDemod::webapiReportGet" alt="" coords="295,71,496,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="544,5,761,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="809,5,972,47"/>
+</map>

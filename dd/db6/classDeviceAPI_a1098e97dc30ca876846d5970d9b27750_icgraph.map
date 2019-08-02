@@ -1,0 +1,20 @@
+<map id="DeviceAPI::getSamplingDeviceSequence" name="DeviceAPI::getSamplingDeviceSequence">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ae8408681de3ae1e10c4eb2901ddb6331" title="WebAPIAdapterGUI::getDeviceSet" alt="" coords="260,78,487,105"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a55b81997a76f257027f93bb93dec5b00" title="WebAPIAdapterSrv::getDeviceSet" alt="" coords="262,173,485,199"/>
+<area shape="rect" id="node12" href="$d9/d02/classAirspyInput.html#ac1ad73dc75e43ae80ef20cf144c9f48d" title="AirspyInput::openDevice" alt="" coords="291,223,456,250"/>
+<area shape="rect" id="node15" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="272,274,475,301"/>
+<area shape="rect" id="node16" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="285,325,461,351"/>
+<area shape="rect" id="node17" href="$d8/df3/classSoapySDROutput.html#a100d8379cc1f07365e9ee8c29b8a8e11" title="SoapySDROutput::openDevice" alt="" coords="271,375,475,402"/>
+<area shape="rect" id="node18" href="$dc/d8c/classSDRPlayInput.html#aff79d259080c89108ede3b197d449798" title="SDRPlayInput::openDevice" alt="" coords="282,426,465,453"/>
+<area shape="rect" id="node19" href="$da/d65/classSoapySDRInput.html#a654ec5370d3f40f956c1e016513d92dd" title="SoapySDRInput::openDevice" alt="" coords="276,477,471,503"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#a8509c64805904ff75d5ea925d1235f34" title="WebAPIAdapterGUI::devicesetGet" alt="" coords="535,19,760,46"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a22c80d026f881097c4c88407a46b5170" title="WebAPIAdapterGUI::getDevice\lSetList" alt="" coords="544,71,751,112"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#ac6fa7af9e7a689560d0db3c4bc3a8551" title="WebAPIAdapterGUI::instance\lSummary" alt="" coords="808,5,1005,47"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#a958205ade4e15568ae607d7eaa1b8c5a" title="WebAPIAdapterGUI::instance\lDeviceSetsGet" alt="" coords="808,71,1005,112"/>
+<area shape="rect" id="node8" href="$dc/dd8/classWebAPIAdapterSrv.html#a48a3c10e6438cced9c93858220ec396a" title="WebAPIAdapterSrv::devicesetGet" alt="" coords="537,143,758,170"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#acd14171d866dc149c860efab28f097e8" title="WebAPIAdapterSrv::getDevice\lSetList" alt="" coords="546,195,749,236"/>
+<area shape="rect" id="node10" href="$dc/dd8/classWebAPIAdapterSrv.html#a505535853574106c725f94efa3f67d17" title="WebAPIAdapterSrv::instance\lSummary" alt="" coords="810,136,1003,177"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#a2797184f69a2f61a13d5dc8fc511ab7a" title="WebAPIAdapterSrv::instance\lDeviceSetsGet" alt="" coords="810,201,1003,243"/>
+<area shape="rect" id="node13" href="$d9/d02/classAirspyInput.html#a58e6bfdb6cb4fef654b35e7b31524130" title="AirspyInput::AirspyInput" alt="" coords="566,263,729,290"/>
+<area shape="rect" id="node14" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#aeca295550ded5e555c36b08e2b2764f4" title="AirspyInput::MsgStartStop\l::MsgStartStop" alt="" coords="819,267,995,308"/>
+</map>

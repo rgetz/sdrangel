@@ -1,0 +1,20 @@
+<map id="UDPSourceMessages::MsgSampleRateCorrection::MsgSampleRateCorrection" name="UDPSourceMessages::MsgSampleRateCorrection::MsgSampleRateCorrection">
+<area shape="rect" id="node2" href="$df/d64/classUDPSourceMessages_1_1MsgSampleRateCorrection.html#a42612e6e93ac197b9d141a826a7ca29c" title="UDPSourceMessages::\lMsgSampleRateCorrection\l::create" alt="" coords="240,40,419,96"/>
+<area shape="rect" id="node3" href="$d3/d40/classUDPSourceUDPHandler.html#abbd5548339768595db44523f8441d6ad" title="UDPSourceUDPHandler\l::advanceReadPointer" alt="" coords="467,47,633,89"/>
+<area shape="rect" id="node4" href="$d3/d40/classUDPSourceUDPHandler.html#aa4060834de875bf3f8ce53f754489c3a" title="audio mono " alt="" coords="687,10,854,51"/>
+<area shape="rect" id="node13" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#af7eaac41d327dea871e2e425c466ce70" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::MsgUDPAddressAndPort" alt="" coords="681,76,860,132"/>
+<area shape="rect" id="node5" href="$de/da4/classUDPSource.html#a4ce4959be772a8873dc8e4b32ec1d5c2" title="UDPSource::modulateSample" alt="" coords="1157,5,1355,32"/>
+<area shape="rect" id="node12" href="$de/da4/classUDPSource.html#a95e48fdb11cb2dd484a0caff28b68307" title="UDPSource::readMonoSample" alt="" coords="908,21,1109,48"/>
+<area shape="rect" id="node6" href="$de/da4/classUDPSource.html#a3268bd2b4c9ee5c651d45e3d4a0f887b" title="UDPSource::pull" alt="" coords="1432,5,1552,32"/>
+<area shape="rect" id="node7" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="1893,27,2093,53"/>
+<area shape="rect" id="node8" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="2167,27,2385,53"/>
+<area shape="rect" id="node9" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="2433,27,2593,53"/>
+<area shape="rect" id="node10" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="2641,19,2828,61"/>
+<area shape="rect" id="node11" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="2876,27,3065,53"/>
+<area shape="rect" id="node14" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#a6aa92780b8a51bf6efcb593a1e8e806d" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::create" alt="" coords="919,76,1098,132"/>
+<area shape="rect" id="node15" href="$d3/d40/classUDPSourceUDPHandler.html#a28f1ab1466dbbcfd4aad1e5426a16ac3" title="UDPSourceUDPHandler\l::configureUDPLink" alt="" coords="1173,83,1339,125"/>
+<area shape="rect" id="node16" href="$de/da4/classUDPSource.html#a71aea5ea4104e814fc05efa55b05724e" title="UDPSource::applySettings" alt="" coords="1403,91,1581,117"/>
+<area shape="rect" id="node17" href="$de/da4/classUDPSource.html#a82bb428067797487c24e51149955b6af" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1629,56,1820,83"/>
+<area shape="rect" id="node18" href="$de/da4/classUDPSource.html#a9d42eb6165ff02cafc2035ca219366ca" title="UDPSource::UDPSource" alt="" coords="1639,107,1810,133"/>
+<area shape="rect" id="node19" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a307eb736cd6c12733d05076ce5841205" title="UDPSource::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1868,99,2119,141"/>
+</map>

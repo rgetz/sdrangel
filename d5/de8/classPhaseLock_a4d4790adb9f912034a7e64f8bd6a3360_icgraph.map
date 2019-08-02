@@ -1,0 +1,13 @@
+<map id="PhaseLock::configure" name="PhaseLock::configure">
+<area shape="rect" id="node2" href="$d4/dd5/classBFMDemod.html#ac2ce64daabd9d134983a4a3f6c104d09" title="BFMDemod::applyChannelSettings" alt="" coords="201,81,428,108"/>
+<area shape="rect" id="node6" href="$d4/dd5/classBFMDemod.html#a97a2e159b9ce8e01c7b1d3c7c71e3c08" title="BFMDemod::applySettings" alt="" coords="225,31,404,57"/>
+<area shape="rect" id="node7" href="$de/dce/classATVDemod.html#a6bcdbcf92af9b224581ac9f3777b4347" title="ATVDemod::applySettings" alt="" coords="226,132,403,159"/>
+<area shape="rect" id="node3" href="$d4/dd5/classBFMDemod.html#adc9823e0e737ea98eb3fa741d5869185" title="BFMDemod::BFMDemod" alt="" coords="486,5,657,32"/>
+<area shape="rect" id="node4" href="$d4/dd5/classBFMDemod.html#a7f127d311ce43f903ea95190cc8c8301" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="476,56,667,83"/>
+<area shape="rect" id="node5" href="$d4/dd5/classBFMDemod.html#a9b80b585fab74f92db25fd2f3c345ad4" title="BFMDemod::start" alt="" coords="508,107,635,133"/>
+<area shape="rect" id="node8" href="$de/dce/classATVDemod.html#aa2f0eb22c51f28cb7c1bbbe0af96c901" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="477,157,666,184"/>
+<area shape="rect" id="node9" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="715,157,893,184"/>
+<area shape="rect" id="node10" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="941,157,1156,184"/>
+<area shape="rect" id="node11" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1204,157,1363,184"/>
+<area shape="rect" id="node12" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1411,150,1597,191"/>
+</map>

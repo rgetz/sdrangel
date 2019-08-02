@@ -1,0 +1,8 @@
+<map id="GLSpectrumGUI::deserialize" name="GLSpectrumGUI::deserialize">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="243,31,457,57"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1000,5,1180,32"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="505,31,701,57"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="508,82,699,123"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="749,31,952,57"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="757,82,945,123"/>
+</map>

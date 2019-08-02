@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setPlutoSdrOutputReport" name="SWGSDRangel::SWGDeviceReport::setPlutoSdrOutputReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="321,5,484,47"/>
+<area shape="rect" id="node5" href="$da/dff/classPlutoSDROutput.html#aad7abfa70c2b75289ad54a3a3abaac46" title="PlutoSDROutput::webapiReportGet" alt="" coords="288,71,517,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="569,5,780,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="832,5,995,47"/>
+<area shape="rect" id="node6" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="565,71,784,98"/>
+</map>

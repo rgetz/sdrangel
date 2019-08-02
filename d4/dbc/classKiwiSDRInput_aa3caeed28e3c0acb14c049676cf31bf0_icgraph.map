@@ -1,0 +1,9 @@
+<map id="KiwiSDRInput::webapiReverseSendSettings" name="KiwiSDRInput::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#a29e737cd6de8d5f348129f09b0d7a362" title="KiwiSDRInput::applySettings" alt="" coords="256,56,448,83"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#a405b361e1193c892149c8cd4ac89f534" title="KiwiSDRInput::handleMessage" alt="" coords="496,5,700,32"/>
+<area shape="rect" id="node5" href="$d4/dbc/classKiwiSDRInput.html#a74556d41d14597af9db0d374469636b3" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="784,56,915,83"/>
+<area shape="rect" id="node7" href="$d4/dbc/classKiwiSDRInput.html#ad8eac7e9247ca39ef86fb9a22b032c58" title="KiwiSDRInput::start" alt="" coords="529,107,667,133"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="748,5,951,32"/>
+<area shape="rect" id="node6" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="999,99,1195,141"/>
+<area shape="rect" id="node8" href="$d4/dbc/classKiwiSDRInput.html#a82985e560c9e21de05c9a39135bf1afb" title="KiwiSDRInput::KiwiSDRInput" alt="" coords="751,157,947,184"/>
+</map>

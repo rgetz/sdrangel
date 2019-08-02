@@ -1,0 +1,11 @@
+<map id="ATVModGUI::getFPS" name="ATVModGUI::getFPS">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#afc7c826aa5e7fedbb316bc8ca7c185ce" title="ATVModGUI::displaySettings" alt="" coords="203,24,397,51"/>
+<area shape="rect" id="node10" href="$da/d7c/classATVModGUI.html#a5375f159678f9daa043c2b2e8dd53f32" title="ATVModGUI::on_fps_current\lIndexChanged" alt="" coords="205,76,395,117"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#aa80ea452eceea2be8fbf7c053bc379d2" title="ATVModGUI::ATVModGUI" alt="" coords="981,24,1161,51"/>
+<area shape="rect" id="node7" href="$da/d7c/classATVModGUI.html#a944171d71de69266993386308438909e" title="ATVModGUI::deserialize" alt="" coords="460,24,627,51"/>
+<area shape="rect" id="node8" href="$da/d7c/classATVModGUI.html#a41090d7ca4c0286b5e09c829bd23d51d" title="ATVModGUI::handleMessage" alt="" coords="445,75,641,102"/>
+<area shape="rect" id="node4" href="$da/d7c/classATVModGUI.html#acc137c14b5c145becb2951788aa55fdb" title="ATVModGUI::create" alt="" coords="1209,24,1351,51"/>
+<area shape="rect" id="node5" href="$d8/d6e/classATVModPlugin.html#a7357a4f5cfb9fd5dea8ee9cd8119ec1d" title="ATVModPlugin::createTxChannelGUI" alt="" coords="1399,24,1639,51"/>
+<area shape="rect" id="node6" href="$d8/d6e/classATVModPlugin.html#af24b49c750459e0b504133cea6910b93" title="ATVModPlugin::initPlugin" alt="" coords="1687,24,1857,51"/>
+<area shape="rect" id="node9" href="$da/d7c/classATVModGUI.html#ad73566723d42328d8153ac598ea6cff5" title="ATVModGUI::handleSourceMessages" alt="" coords="689,50,933,76"/>
+</map>

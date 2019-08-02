@@ -1,0 +1,10 @@
+<map id="UDPSink::getInMagSq" name="UDPSink::getInMagSq">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="250,5,381,32"/>
+<area shape="rect" id="node7" href="$d2/d3d/classUDPSink.html#a8247b8441ccfdf250c2b936f757d9417" title="UDPSink::webapiFormatChannel\lReport" alt="" coords="208,57,423,98"/>
+<area shape="rect" id="node3" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="471,5,659,32"/>
+<area shape="rect" id="node4" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="726,5,871,32"/>
+<area shape="rect" id="node5" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="939,5,1185,32"/>
+<area shape="rect" id="node6" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1233,5,1408,32"/>
+<area shape="rect" id="node8" href="$d2/d3d/classUDPSink.html#a63c57e08f82b398415f21a71f3d5f0d2" title="UDPSink::webapiReportGet" alt="" coords="471,64,658,91"/>
+<area shape="rect" id="node9" href="$d2/d3d/classUDPSink.html#a5cc20f19910e5d4ab0835c1d91c9a34a" title="UDPSink::getStreamCenter\lFrequency" alt="" coords="707,57,891,98"/>
+</map>

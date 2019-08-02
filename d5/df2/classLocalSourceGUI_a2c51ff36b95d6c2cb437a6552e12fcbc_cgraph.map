@@ -1,0 +1,5 @@
+<map id="LocalSourceGUI::applyChannelSettings" name="LocalSourceGUI::applyChannelSettings">
+<area shape="rect" id="node2" href="$d7/dd3/classLocalSource_1_1MsgConfigureChannelizer.html#a2d33643165c2aaad6da4fbdc65eb7572" title="LocalSource::MsgConfigure\lChannelizer::create" alt="" coords="259,5,441,47"/>
+<area shape="rect" id="node3" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="266,71,434,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="275,137,425,163"/>
+</map>

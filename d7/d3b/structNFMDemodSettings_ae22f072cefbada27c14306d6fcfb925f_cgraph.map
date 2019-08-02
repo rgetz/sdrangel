@@ -1,0 +1,25 @@
+<map id="NFMDemodSettings::setChannelMarker" name="NFMDemodSettings::setChannelMarker">
+<area shape="rect" id="node2" href="$d7/d3b/structNFMDemodSettings.html#ad670deee2c702ee23a7ef5b4baa3df46" title="NFMDemodSettings::deserialize" alt="" coords="268,304,479,331"/>
+<area shape="rect" id="node4" href="$d7/d3b/structNFMDemodSettings.html#afc92a789b8c4bcefc5c5f51a3622e5f7" title="NFMDemodSettings::getFMDev" alt="" coords="541,5,751,32"/>
+<area shape="rect" id="node5" href="$d7/d3b/structNFMDemodSettings.html#a59677853bfda73c4bf27225e5c43d58d" title="NFMDemodSettings::getRFBW" alt="" coords="543,56,749,83"/>
+<area shape="rect" id="node15" href="$d7/d3b/structNFMDemodSettings.html#a86a852167c32803bf036e742664d78b9" title="NFMDemodSettings::getRFBWIndex" alt="" coords="527,683,765,709"/>
+<area shape="rect" id="node16" href="$d7/d3b/structNFMDemodSettings.html#a2c3b31321981d3a4d1b36802b187b449" title="NFMDemodSettings::serialize" alt="" coords="275,835,472,861"/>
+<area shape="rect" id="node3" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="567,304,725,331"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="581,355,711,397"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="581,421,711,462"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="581,486,711,527"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="581,551,711,593"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="581,617,711,658"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="581,173,711,214"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="581,107,711,149"/>
+<area shape="rect" id="node14" href="$d7/d3b/structNFMDemodSettings.html#aafcfec142a9db3e37b6b0657cf0e305f" title="NFMDemodSettings::resetTo\lDefaults" alt="" coords="549,238,743,279"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="835,551,966,593"/>
+<area shape="rect" id="node17" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="572,784,720,811"/>
+<area shape="rect" id="node18" href="$d6/dcb/classSerializable.html#a986c38f88c57f15206278ac65244f3f6" title="Serializable::serialize" alt="" coords="573,835,719,861"/>
+<area shape="rect" id="node19" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="557,987,735,1013"/>
+<area shape="rect" id="node21" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="557,1037,735,1064"/>
+<area shape="rect" id="node22" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="559,733,733,760"/>
+<area shape="rect" id="node23" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="553,885,739,912"/>
+<area shape="rect" id="node24" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="558,936,734,963"/>
+<area shape="rect" id="node20" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="813,936,988,963"/>
+</map>

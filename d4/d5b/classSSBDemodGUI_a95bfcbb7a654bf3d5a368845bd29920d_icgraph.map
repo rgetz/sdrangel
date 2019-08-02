@@ -1,0 +1,15 @@
+<map id="SSBDemodGUI::blockApplySettings" name="SSBDemodGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a5064df3fb941e78adf8f4ce57049e249" title="SSBDemodGUI::applyBandwidths" alt="" coords="288,172,511,199"/>
+<area shape="rect" id="node4" href="$d4/d5b/classSSBDemodGUI.html#aa23b2a82414ac36f9a48433cf0dd1c57" title="SSBDemodGUI::handleMessage" alt="" coords="559,31,773,57"/>
+<area shape="rect" id="node14" href="$d4/d5b/classSSBDemodGUI.html#a4864abc8dd9de9a73b5cdcd9abb1a5fa" title="SSBDemodGUI::displaySettings" alt="" coords="293,31,505,57"/>
+<area shape="rect" id="node3" href="$d4/d5b/classSSBDemodGUI.html#a3541ba1eb532f9302a6e58156ea4f322" title="SSBDemodGUI::deserialize" alt="" coords="573,81,759,108"/>
+<area shape="rect" id="node6" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1060,39,1276,65"/>
+<area shape="rect" id="node10" href="$d4/d5b/classSSBDemodGUI.html#a7fb45a6f7a9ca749b0c8598305d21e30" title="SSBDemodGUI::on_BW\l_valueChanged" alt="" coords="583,133,749,174"/>
+<area shape="rect" id="node11" href="$d4/d5b/classSSBDemodGUI.html#a4751b83df89ff1d4a05129a0a6c52d7c" title="SSBDemodGUI::on_dsb\l_toggled" alt="" coords="583,198,749,239"/>
+<area shape="rect" id="node12" href="$d4/d5b/classSSBDemodGUI.html#a1394dabc863ba66fdf5d7763369c6a29" title="SSBDemodGUI::on_lowCut\l_valueChanged" alt="" coords="573,315,759,357"/>
+<area shape="rect" id="node13" href="$d4/d5b/classSSBDemodGUI.html#a916fd86d7cc406c3b082788b35648c7e" title="SSBDemodGUI::on_spanLog2\l_valueChanged" alt="" coords="566,381,766,422"/>
+<area shape="rect" id="node5" href="$d4/d5b/classSSBDemodGUI.html#a2fd37fa65519ade78b5ee784e667be25" title="SSBDemodGUI::handleInput\lMessages" alt="" coords="821,31,1012,73"/>
+<area shape="rect" id="node7" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1324,39,1483,65"/>
+<area shape="rect" id="node8" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1531,39,1749,65"/>
+<area shape="rect" id="node9" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1797,39,1944,65"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="BladeRF2Output::webapiReverseSendSettings" name="BladeRF2Output::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a4c2f93e1c79bcb92fc5c809345f7a74e" title="BladeRF2Output::applySettings" alt="" coords="271,81,477,108"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#a8324b4feb400afdde8c6dad1073fba23" title="BladeRF2Output::handleMessage" alt="" coords="525,5,744,32"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a6bb76494a0fa3368ec33e42d9051c3f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1082,56,1226,83"/>
+<area shape="rect" id="node7" href="$d7/d79/classBladeRF2Output.html#a6a209c868a6087edcb74e108ea3b1312" title="BladeRF2Output::start" alt="" coords="824,107,977,133"/>
+<area shape="rect" id="node8" href="$d7/d79/classBladeRF2Output.html#a349a7db91f457df51cde0a8a2883ae55" title="BladeRF2Output::stop" alt="" coords="559,183,711,209"/>
+<area shape="rect" id="node4" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="792,5,1009,32"/>
+<area shape="rect" id="node6" href="$d1/d57/classBladeRF2Output_1_1MsgReportGainRange.html#a6f2c610c442c6f3565bc397a263d9eab" title="BladeRF2Output::MsgReport\lGainRange::MsgReportGainRange" alt="" coords="1299,125,1523,166"/>
+<area shape="rect" id="node9" href="$d7/d79/classBladeRF2Output.html#a4953c023bf3746fc339f900a0a566778" title="BladeRF2Output::closeDevice" alt="" coords="801,208,1000,235"/>
+<area shape="rect" id="node10" href="$d7/d79/classBladeRF2Output.html#acb37674096c0372e98ec33162c8af396" title="BladeRF2Output::~BladeRF2\lOutput" alt="" coords="1057,209,1251,250"/>
+</map>

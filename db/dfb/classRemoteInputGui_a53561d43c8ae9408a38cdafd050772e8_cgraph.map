@@ -1,0 +1,6 @@
+<map id="RemoteInputGui::updateHardware" name="RemoteInputGui::updateHardware">
+<area shape="rect" id="node2" href="$d5/dfa/classRemoteInput_1_1MsgConfigureRemoteInput.html#ad4dd673fe825929af4e4402485ad3b13" title="RemoteInput::MsgConfigure\lRemoteInput::create" alt="" coords="273,5,460,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="283,71,451,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="292,137,441,163"/>
+<area shape="rect" id="node3" href="$d5/dfa/classRemoteInput_1_1MsgConfigureRemoteInput.html#ac999f1a8577dfaa1faa94922791f2ee3" title="RemoteInput::MsgConfigure\lRemoteInput::MsgConfigureRemoteInput" alt="" coords="508,5,769,47"/>
+</map>

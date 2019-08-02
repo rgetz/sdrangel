@@ -1,0 +1,6 @@
+<map id="ChannelAnalyzerGUI::getInputMessageQueue" name="ChannelAnalyzerGUI::getInputMessageQueue">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="427,5,580,47"/>
+<area shape="rect" id="node5" href="$da/d16/classChannelAnalyzerGUI.html#a2072c0e62719b86addc5c4f3ca176142" title="ChannelAnalyzerGUI\l::handleInputMessages" alt="" coords="221,35,379,76"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="628,5,773,47"/>
+<area shape="rect" id="node4" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="821,5,979,47"/>
+</map>

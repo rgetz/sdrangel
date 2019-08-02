@@ -1,0 +1,16 @@
+<map id="plugins/samplesource/kiwisdr/kiwisdrplugin.cpp" name="plugins/samplesource/kiwisdr/kiwisdrplugin.cpp">
+<area shape="rect" id="node3" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="218,169,341,196"/>
+<area shape="rect" id="node9" href="$dc/d1a/simpleserializer_8h.html" title="util/simpleserializer.h" alt="" coords="394,244,538,271"/>
+<area shape="rect" id="node15" href="$dd/dbd/kiwisdrgui_8h.html" title="kiwisdrgui.h" alt="" coords="891,95,982,121"/>
+<area shape="rect" id="node32" href="$d0/dd8/kiwisdrplugin_8h.html" title="kiwisdrplugin.h" alt="" coords="60,169,168,196"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="819,393,889,420"/>
+<area shape="rect" id="node7" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="37,244,191,271"/>
+<area shape="rect" id="node11" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="533,393,644,420"/>
+<area shape="rect" id="node16" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="1351,244,1522,271"/>
+<area shape="rect" id="node20" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1208,319,1351,345"/>
+<area shape="rect" id="node23" href="$d6/d00/kiwisdrsettings_8h.html" title="kiwisdrsettings.h" alt="" coords="562,244,682,271"/>
+<area shape="rect" id="node24" href="$df/d19/kiwisdrinput_8h.html" title="kiwisdrinput.h" alt="" coords="885,169,988,196"/>
+<area shape="rect" id="node27" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="848,244,1025,271"/>
+<area shape="rect" id="node28" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="719,319,837,345"/>
+<area shape="rect" id="node30" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="911,319,1018,345"/>
+</map>

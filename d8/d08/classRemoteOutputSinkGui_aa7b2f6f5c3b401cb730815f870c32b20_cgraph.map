@@ -1,0 +1,6 @@
+<map id="RemoteOutputSinkGui::updateHardware" name="RemoteOutputSinkGui::updateHardware">
+<area shape="rect" id="node2" href="$d4/d05/classRemoteOutput_1_1MsgConfigureRemoteOutput.html#a1f82991d75fb5575ec93c2076ac356bb" title="RemoteOutput::MsgConfigure\lRemoteOutput::create" alt="" coords="207,13,403,54"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="211,78,399,119"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="230,144,379,171"/>
+<area shape="rect" id="node3" href="$d4/d05/classRemoteOutput_1_1MsgConfigureRemoteOutput.html#a17847029afbce02bed339c631b9042e4" title="RemoteOutput::MsgConfigure\lRemoteOutput::MsgConfigureRemote\lOutput" alt="" coords="451,5,693,61"/>
+</map>

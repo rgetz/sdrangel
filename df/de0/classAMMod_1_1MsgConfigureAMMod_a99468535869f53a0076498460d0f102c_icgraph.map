@@ -1,0 +1,31 @@
+<map id="AMMod::MsgConfigureAMMod::create" name="AMMod::MsgConfigureAMMod::create">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#a0d66fae94c7940bcc7a9be89df296da1" title="AMModGUI::applySettings" alt="" coords="257,613,436,640"/>
+<area shape="rect" id="node27" href="$db/d93/classAMMod.html#a8b3d91581f1e66a4d6421f2b1b6dbdb3" title="AMMod::deserialize" alt="" coords="278,1203,415,1229"/>
+<area shape="rect" id="node29" href="$db/d93/classAMMod.html#aeffd64b0b601e7dec142d555d528010d" title="AMMod::webapiSettingsPut\lPatch" alt="" coords="255,1254,439,1295"/>
+<area shape="rect" id="node3" href="$d8/d1b/classAMModGUI.html#a88cd6e0657dacb68583e7fb3b021f35b" title="AMModGUI::setCenterFrequency" alt="" coords="498,5,715,32"/>
+<area shape="rect" id="node4" href="$d8/d1b/classAMModGUI.html#a9a1d1c0e185d2f3eba334267fc11e448" title="AMModGUI::resetToDefaults" alt="" coords="511,56,703,83"/>
+<area shape="rect" id="node5" href="$d8/d1b/classAMModGUI.html#a6041467f761ee4df05669fbe4c08f8fb" title="AMModGUI::deserialize" alt="" coords="812,73,973,100"/>
+<area shape="rect" id="node6" href="$d8/d1b/classAMModGUI.html#ae8e08a4093fb426517ae1e7caac91cb6" title="AMModGUI::channelMarkerChanged\lByCursor" alt="" coords="775,142,1011,183"/>
+<area shape="rect" id="node7" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="1059,1029,1227,1056"/>
+<area shape="rect" id="node11" href="$d8/d1b/classAMModGUI.html#a4ad147c783d583dcf02c6dc1e361d1c1" title="AMModGUI::on_deltaFrequency\l_changed" alt="" coords="502,259,711,301"/>
+<area shape="rect" id="node12" href="$d8/d1b/classAMModGUI.html#a76e29b38af7a88e64cdf90b2a7bef9e0" title="AMModGUI::on_rfBW_valueChanged" alt="" coords="487,325,727,352"/>
+<area shape="rect" id="node13" href="$d8/d1b/classAMModGUI.html#a8c536ea72435205fd43fa6610c728a58" title="AMModGUI::on_modPercent\l_valueChanged" alt="" coords="511,377,702,418"/>
+<area shape="rect" id="node14" href="$d8/d1b/classAMModGUI.html#aa6fe7f15f81faf6e5854a32156a8e50f" title="AMModGUI::on_volume\l_valueChanged" alt="" coords="525,442,688,483"/>
+<area shape="rect" id="node15" href="$d8/d1b/classAMModGUI.html#ad1edebcd763ccb1ec34cf757d254491d" title="AMModGUI::on_toneFrequency\l_valueChanged" alt="" coords="503,507,710,549"/>
+<area shape="rect" id="node16" href="$d8/d1b/classAMModGUI.html#ae6a23a58b0ec06749410fbc8b002a3f2" title="AMModGUI::on_channelMute\l_toggled" alt="" coords="509,573,704,614"/>
+<area shape="rect" id="node17" href="$d8/d1b/classAMModGUI.html#a46949b645a6862b7a30881dbf8704ef8" title="AMModGUI::on_playLoop\l_toggled" alt="" coords="521,638,693,679"/>
+<area shape="rect" id="node18" href="$d8/d1b/classAMModGUI.html#a96c51372a72ab60b9219d86b10934bf4" title="AMModGUI::on_play_toggled" alt="" coords="510,704,703,731"/>
+<area shape="rect" id="node19" href="$d8/d1b/classAMModGUI.html#acbffc08e1773dcc80f8fdca607db6d2c" title="AMModGUI::on_tone_toggled" alt="" coords="509,755,704,781"/>
+<area shape="rect" id="node20" href="$d8/d1b/classAMModGUI.html#af794da59409d5392596b3b37f0c1ea67" title="AMModGUI::on_morseKeyer\l_toggled" alt="" coords="511,806,702,847"/>
+<area shape="rect" id="node21" href="$d8/d1b/classAMModGUI.html#aae22f8fb42a79d36179f13c1366403cc" title="AMModGUI::on_mic_toggled" alt="" coords="511,872,702,899"/>
+<area shape="rect" id="node22" href="$d8/d1b/classAMModGUI.html#a5206be4148843936ceac5ae74c07cb49" title="AMModGUI::on_feedbackEnable\l_toggled" alt="" coords="500,923,713,965"/>
+<area shape="rect" id="node23" href="$d8/d1b/classAMModGUI.html#af7e6566dbb5886e06ed466316e52c79e" title="AMModGUI::on_feedbackVolume\l_valueChanged" alt="" coords="498,989,715,1030"/>
+<area shape="rect" id="node24" href="$d8/d1b/classAMModGUI.html#a4d33ca8a5f26709f5954bcb06fd0173b" title="AMModGUI::onMenuDialogCalled" alt="" coords="783,1029,1002,1056"/>
+<area shape="rect" id="node25" href="$d8/d1b/classAMModGUI.html#ad3ae25157aaa3c540dfaae4ed0ed47aa" title="AMModGUI::audioSelect" alt="" coords="523,1105,690,1132"/>
+<area shape="rect" id="node26" href="$d8/d1b/classAMModGUI.html#a52f7f0584a213309ad60596279f6c90a" title="AMModGUI::audioFeedbackSelect" alt="" coords="781,1131,1005,1157"/>
+<area shape="rect" id="node8" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="1275,1029,1409,1056"/>
+<area shape="rect" id="node9" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="1457,1029,1692,1056"/>
+<area shape="rect" id="node10" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1740,1029,1904,1056"/>
+<area shape="rect" id="node28" href="$db/d93/classAMMod.html#a573d7af1d5f467ac6f97f96eda2b6260" title="Applies to a default stream. " alt="" coords="510,1207,703,1233"/>
+<area shape="rect" id="node30" href="$db/d93/classAMMod.html#af36feee696264b51ebdb673512683295" title="AMMod::getStreamCenterFrequency" alt="" coords="489,1261,724,1288"/>
+</map>

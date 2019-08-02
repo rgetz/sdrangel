@@ -1,0 +1,35 @@
+<map id="SoapySDRInputGui::sendSettings" name="SoapySDRInputGui::sendSettings">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#a482882446580527d8e957aae9a73a4ac" title="SoapySDRInputGui::antennas\lChanged" alt="" coords="301,71,499,112"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="836,679,1096,706"/>
+<area shape="rect" id="node5" href="$d8/d96/classSoapySDRInputGui.html#ad526e17cbdace7b544736c30499a7598" title="SoapySDRInputGui::autoDCCorrection\lChanged" alt="" coords="275,319,525,360"/>
+<area shape="rect" id="node7" href="$d8/d96/classSoapySDRInputGui.html#a93cdc80d15747169f07fe6329c289a7c" title="SoapySDRInputGui::autoGain\lChanged" alt="" coords="301,580,499,621"/>
+<area shape="rect" id="node9" href="$d8/d96/classSoapySDRInputGui.html#a2f58e313157cc6055cd4adbca811480e" title="SoapySDRInputGui::autoIQCorrection\lChanged" alt="" coords="278,384,522,425"/>
+<area shape="rect" id="node10" href="$d8/d96/classSoapySDRInputGui.html#a9385654c90982b0f79ae8e7765a85bb2" title="SoapySDRInputGui::bandwidth\lChanged" alt="" coords="579,704,783,745"/>
+<area shape="rect" id="node11" href="$d8/d96/classSoapySDRInputGui.html#aa3186209125ff054219e7f58fa8be0e4" title="SoapySDRInputGui::dcCorrection\lArgumentChanged" alt="" coords="291,449,509,491"/>
+<area shape="rect" id="node12" href="$d8/d96/classSoapySDRInputGui.html#aa1fed0e143e7ea01ec0f147c5a786945" title="SoapySDRInputGui::dcCorrection\lModuleChanged" alt="" coords="291,515,509,556"/>
+<area shape="rect" id="node13" href="$d8/d96/classSoapySDRInputGui.html#aa5f711bea2660dc5249fd518d477f003" title="SoapySDRInputGui::deserialize" alt="" coords="577,795,784,822"/>
+<area shape="rect" id="node14" href="$d8/d96/classSoapySDRInputGui.html#a5cc8c61d15056735d748c7c1b6411d44" title="SoapySDRInputGui::device\lArgChanged" alt="" coords="309,1467,491,1508"/>
+<area shape="rect" id="node16" href="$d8/d96/classSoapySDRInputGui.html#a6df590c0535b81a33326c4e4e346bb4a" title="SoapySDRInputGui::global\lGainChanged" alt="" coords="311,645,489,687"/>
+<area shape="rect" id="node17" href="$d8/d96/classSoapySDRInputGui.html#a237a4ae11094c7bc5a28261f78994baa" title="SoapySDRInputGui::individual\lGainChanged" alt="" coords="301,1336,499,1377"/>
+<area shape="rect" id="node19" href="$d8/d96/classSoapySDRInputGui.html#a9db72504449f3f039bdfdf5b661c3048" title="SoapySDRInputGui::iqCorrection\lArgumentChanged" alt="" coords="293,188,507,229"/>
+<area shape="rect" id="node20" href="$d8/d96/classSoapySDRInputGui.html#ac6e2a55ff30d831fa0885066d61685e2" title="SoapySDRInputGui::iqCorrection\lModuleChanged" alt="" coords="293,253,507,295"/>
+<area shape="rect" id="node21" href="$d8/d96/classSoapySDRInputGui.html#a3946363d2459db8ddd8d55ca02171247" title="SoapySDRInputGui::on\l_centerFrequency_changed" alt="" coords="309,879,491,920"/>
+<area shape="rect" id="node22" href="$d8/d96/classSoapySDRInputGui.html#a3756b8699cc8d8d26bcf59e915033476" title="SoapySDRInputGui::on\l_dcOffset_toggled" alt="" coords="321,944,479,985"/>
+<area shape="rect" id="node23" href="$d8/d96/classSoapySDRInputGui.html#a6abf6d6ea7305bd57fbbed108e99cf67" title="SoapySDRInputGui::on\l_decim_currentIndexChanged" alt="" coords="303,1009,497,1051"/>
+<area shape="rect" id="node24" href="$d8/d96/classSoapySDRInputGui.html#ac43c358fbe6a72ea3c3449804b130e04" title="SoapySDRInputGui::on\l_fcPos_currentIndexChanged" alt="" coords="303,1075,497,1116"/>
+<area shape="rect" id="node25" href="$d8/d96/classSoapySDRInputGui.html#a0b4edfc4aca5f7a4c4005683837ca38c" title="SoapySDRInputGui::on\l_iqImbalance_toggled" alt="" coords="321,1140,479,1181"/>
+<area shape="rect" id="node26" href="$d8/d96/classSoapySDRInputGui.html#a0d09e8d2084320f5596771ba5aec4375" title="SoapySDRInputGui::on\l_LOppm_valueChanged" alt="" coords="319,1205,481,1247"/>
+<area shape="rect" id="node27" href="$d8/d96/classSoapySDRInputGui.html#a68d2200c160aac5b3b6478a469752a93" title="SoapySDRInputGui::on\l_transverter_clicked" alt="" coords="321,1271,479,1312"/>
+<area shape="rect" id="node28" href="$d8/d96/classSoapySDRInputGui.html#a8b2edc08e36054c2e38c4ef0fb6eb957" title="SoapySDRInputGui::openDevice\lSettingsDialog" alt="" coords="573,1493,788,1535"/>
+<area shape="rect" id="node29" href="$d8/d96/classSoapySDRInputGui.html#a891a9b84b9ee51634dbf859933ca9cba" title="SoapySDRInputGui::resetTo\lDefaults" alt="" coords="305,813,495,855"/>
+<area shape="rect" id="node30" href="$d8/d96/classSoapySDRInputGui.html#a3f26d159345ab6ff592064daf14d6917" title="SoapySDRInputGui::sample\lRateChanged" alt="" coords="587,1613,774,1655"/>
+<area shape="rect" id="node31" href="$d8/d96/classSoapySDRInputGui.html#a306ffc2cfcaf12c933164c1733203d7e" title="SoapySDRInputGui::setCenter\lFrequency" alt="" coords="299,1532,501,1573"/>
+<area shape="rect" id="node32" href="$d8/d96/classSoapySDRInputGui.html#aa4a88201b91ecb9caf997ec6cc561170" title="SoapySDRInputGui::stream\lArgChanged" alt="" coords="307,1401,493,1443"/>
+<area shape="rect" id="node33" href="$d8/d96/classSoapySDRInputGui.html#a7f66196fb2818d55387b90ff0f07c04b" title="SoapySDRInputGui::tunable\lElementChanged" alt="" coords="307,5,493,47"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a24d99eee2f22c6ec1888e20203bc6a14" title="SoapySDRInputGui::create\lAntennasControl" alt="" coords="590,71,771,112"/>
+<area shape="rect" id="node6" href="$d8/d96/classSoapySDRInputGui.html#a51adb6a9831bd6eb67680cbbd98b68fe" title="SoapySDRInputGui::create\lCorrectionsControl" alt="" coords="590,384,771,425"/>
+<area shape="rect" id="node8" href="$d8/d96/classSoapySDRInputGui.html#a2fccb3784041f80468da9be403c8e96d" title="SoapySDRInputGui::create\lGlobalGainControl" alt="" coords="590,639,771,680"/>
+<area shape="rect" id="node15" href="$d8/d96/classSoapySDRInputGui.html#a1e25c19827fc003e70dfb11f7a1c3452" title="SoapySDRInputGui::create\lArgumentsControl" alt="" coords="590,1401,771,1443"/>
+<area shape="rect" id="node18" href="$d8/d96/classSoapySDRInputGui.html#a192c6d509f82f229621f5eff6d3e79db" title="SoapySDRInputGui::create\lIndividualGainsControl" alt="" coords="590,1104,771,1145"/>
+<area shape="rect" id="node34" href="$d8/d96/classSoapySDRInputGui.html#a2ecd69c2ca8cceb4addaff1fd03d2b75" title="SoapySDRInputGui::create\lTunableElementsControl" alt="" coords="590,5,771,47"/>
+</map>

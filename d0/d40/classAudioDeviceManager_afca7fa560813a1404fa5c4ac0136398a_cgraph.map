@@ -1,0 +1,10 @@
+<map id="AudioDeviceManager::deserialize" name="AudioDeviceManager::deserialize">
+<area shape="rect" id="node2" href="$d0/d40/classAudioDeviceManager.html#ad2dcf9b41914117fee80967b34658a7f" title="AudioDeviceManager\l::debugAudioInputInfos" alt="" coords="205,5,361,47"/>
+<area shape="rect" id="node3" href="$d0/d40/classAudioDeviceManager.html#ac9e8355f3924c5ae049b8f94285f0d82" title="AudioDeviceManager\l::debugAudioOutputInfos" alt="" coords="200,71,367,112"/>
+<area shape="rect" id="node4" href="$d0/d40/classAudioDeviceManager.html#a02f6cc9a2c23ee34bb1f65dc8dcb8612" title="AudioDeviceManager\l::deserializeInputMap" alt="" coords="210,136,357,177"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#ae2f4ee6208283c6491b88189b0fb071d" title="AudioDeviceManager\l::deserializeOutputMap" alt="" coords="205,201,361,243"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="218,267,349,308"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="218,332,349,373"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="218,397,349,439"/>
+<area shape="rect" id="node9" href="$d0/d40/classAudioDeviceManager.html#a1cea0a40508c93d86ca8b626462788f5" title="AudioDeviceManager\l::resetToDefaults" alt="" coords="210,463,357,504"/>
+</map>

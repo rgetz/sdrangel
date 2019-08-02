@@ -1,0 +1,6 @@
+<map id="ATVDemod::setTVScreen" name="ATVDemod::setTVScreen">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="228,13,443,39"/>
+<area shape="rect" id="node5" href="$de/dce/classATVDemod.html#a0aea47d080449d4659a5e881996877db" title="ATVDemod::getStreamCenter\lFrequency" alt="" coords="237,64,434,105"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="491,13,649,39"/>
+<area shape="rect" id="node4" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="697,5,884,47"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="PhaseLockComplex::getFreq" name="PhaseLockComplex::getFreq">
+<area shape="rect" id="node2" href="$da/d2e/classFreqTracker.html#a201fb8488fcdae1985e44587bcafa072" title="FreqTracker::getFrequency" alt="" coords="266,114,445,141"/>
+<area shape="rect" id="node16" href="$dc/d0c/classChannelAnalyzer.html#ae0954d7e61fc91bad3f40e54cfe0a791" title="ChannelAnalyzer::getPllFrequency" alt="" coords="244,190,467,217"/>
+<area shape="rect" id="node22" href="$d9/df0/classAMDemod.html#ae83bab0b8695b609bc8cc7d29c21b044" title="AMDemod::getPllFrequency" alt="" coords="262,266,449,293"/>
+<area shape="rect" id="node3" href="$da/d2e/classFreqTracker.html#a8c042be80fa3e3775166d3b04f84ff19" title="FreqTracker::getPllLocked" alt="" coords="525,38,700,65"/>
+<area shape="rect" id="node9" href="$da/d2e/classFreqTracker.html#a529838919683b45f93420dc15eea4526" title="FreqTracker::tick" alt="" coords="552,114,673,141"/>
+<area shape="rect" id="node4" href="$d1/d46/classFreqTrackerGUI.html#a5b779eb11f13c2039858f3c6867ea365" title="FreqTrackerGUI::tick" alt="" coords="787,13,933,39"/>
+<area shape="rect" id="node5" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="1009,13,1228,39"/>
+<area shape="rect" id="node6" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1323,13,1483,39"/>
+<area shape="rect" id="node7" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1595,5,1741,47"/>
+<area shape="rect" id="node8" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1807,5,1943,47"/>
+<area shape="rect" id="node10" href="$da/d2e/classFreqTracker.html#a3c55a2e3ba15e2958f21dc97c4fc19b3" title="FreqTracker::connectTimer" alt="" coords="771,63,949,90"/>
+<area shape="rect" id="node14" href="$da/d2e/classFreqTracker.html#ad9c5535e84d10435476fa17c141c643b" title="FreqTracker::disconnectTimer" alt="" coords="762,165,958,191"/>
+<area shape="rect" id="node11" href="$da/d2e/classFreqTracker.html#a9462da2d25796f448dbcc8b8a1c4803d" title="FreqTracker::applySettings" alt="" coords="1029,114,1208,141"/>
+<area shape="rect" id="node12" href="$da/d2e/classFreqTracker.html#a275cfbd97e974f4740b818e3c4b020c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1307,114,1498,141"/>
+<area shape="rect" id="node13" href="$da/d2e/classFreqTracker.html#a9bc6899a82271a4a31427e8b51d1021b" title="FreqTracker::destroy" alt="" coords="1597,114,1739,141"/>
+<area shape="rect" id="node15" href="$da/d2e/classFreqTracker.html#af45e5d0baf723e7a11007d55f6ab7a7a" title="FreqTracker::~FreqTracker" alt="" coords="1029,165,1208,191"/>
+<area shape="rect" id="node17" href="$dc/d0c/classChannelAnalyzer.html#abd0c77820c79c62449428b10292e60b4" title="ChannelAnalyzer::isPllLocked" alt="" coords="515,177,711,203"/>
+<area shape="rect" id="node18" href="$da/d16/classChannelAnalyzerGUI.html#a0c9e256689ccf2a18fb6f6dc2ddf9c65" title="ChannelAnalyzerGUI\l::tick" alt="" coords="787,216,933,257"/>
+<area shape="rect" id="node19" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="1042,216,1195,257"/>
+<area shape="rect" id="node20" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="1330,216,1475,257"/>
+<area shape="rect" id="node21" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1589,216,1747,257"/>
+<area shape="rect" id="node23" href="$dd/d2d/classAMDemodGUI.html#a11122d6eefaac043d694320644a8f1fe" title="AMDemodGUI::tick" alt="" coords="544,279,681,306"/>
+<area shape="rect" id="node24" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="759,282,961,309"/>
+<area shape="rect" id="node25" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="1043,282,1195,309"/>
+<area shape="rect" id="node26" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1276,282,1529,309"/>
+<area shape="rect" id="node27" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1577,282,1759,309"/>
+</map>

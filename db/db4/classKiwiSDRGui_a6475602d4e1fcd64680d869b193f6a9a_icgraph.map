@@ -1,0 +1,9 @@
+<map id="KiwiSDRGui::blockApplySettings" name="KiwiSDRGui::blockApplySettings">
+<area shape="rect" id="node2" href="$db/db4/classKiwiSDRGui.html#a3c4c12f465d70e1b3a7400697041c603" title="KiwiSDRGui::displaySettings" alt="" coords="269,111,463,137"/>
+<area shape="rect" id="node7" href="$db/db4/classKiwiSDRGui.html#af0d175ad867b8b2f2245704bff70e36c" title="KiwiSDRGui::handleMessage" alt="" coords="525,199,719,225"/>
+<area shape="rect" id="node3" href="$db/db4/classKiwiSDRGui.html#a7665b7c854b780810c73ae6827202200" title="KiwiSDRGui::KiwiSDRGui" alt="" coords="1060,47,1239,73"/>
+<area shape="rect" id="node4" href="$db/db4/classKiwiSDRGui.html#a321bfb41b6105838a6d1a13b22a60db2" title="KiwiSDRGui::resetToDefaults" alt="" coords="523,47,721,73"/>
+<area shape="rect" id="node5" href="$db/db4/classKiwiSDRGui.html#afbe586dc5241613b9e3c5e954c12a4d2" title="KiwiSDRGui::deserialize" alt="" coords="813,72,980,99"/>
+<area shape="rect" id="node6" href="$db/db4/classKiwiSDRGui.html#a2387326ad8c10e56b93da7625be4a278" title="KiwiSDRGui::setCenterFrequency" alt="" coords="511,148,733,175"/>
+<area shape="rect" id="node8" href="$db/db4/classKiwiSDRGui.html#aaebb225213dda96f10ce1707818f0eb3" title="KiwiSDRGui::handleInputMessages" alt="" coords="781,148,1012,175"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DSPDeviceSourceEngine::gotoError" name="DSPDeviceSourceEngine::gotoError">
+<area shape="rect" id="node2" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="225,35,397,76"/>
+<area shape="rect" id="node3" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="459,5,611,47"/>
+<area shape="rect" id="node4" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="445,71,624,98"/>
+</map>

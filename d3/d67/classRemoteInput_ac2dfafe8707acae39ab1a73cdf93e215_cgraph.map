@@ -1,0 +1,13 @@
+<map id="RemoteInput::deserialize" name="RemoteInput::deserialize">
+<area shape="rect" id="node2" href="$d5/dfa/classRemoteInput_1_1MsgConfigureRemoteInput.html#ad4dd673fe825929af4e4402485ad3b13" title="RemoteInput::MsgConfigure\lRemoteInput::create" alt="" coords="220,16,407,57"/>
+<area shape="rect" id="node4" href="$dc/dcc/structRemoteInputSettings.html#ab1879578d16b3b0a6fc116f7603103f3" title="RemoteInputSettings\l::deserialize" alt="" coords="241,191,386,232"/>
+<area shape="rect" id="node6" href="$dc/dcc/structRemoteInputSettings.html#ac13e79b7902ebe652ae8ed4b8348cc1b" title="RemoteInputSettings\l::resetToDefaults" alt="" coords="513,71,658,112"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="239,257,388,283"/>
+<area shape="rect" id="node3" href="$d5/dfa/classRemoteInput_1_1MsgConfigureRemoteInput.html#ac999f1a8577dfaa1faa94922791f2ee3" title="RemoteInput::MsgConfigure\lRemoteInput::MsgConfigureRemoteInput" alt="" coords="455,5,716,47"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="520,136,651,177"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="520,201,651,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="520,267,651,308"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="520,332,651,373"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="520,397,651,439"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="764,365,895,407"/>
+</map>

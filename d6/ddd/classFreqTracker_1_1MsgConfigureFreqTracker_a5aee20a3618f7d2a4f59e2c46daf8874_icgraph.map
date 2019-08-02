@@ -1,0 +1,28 @@
+<map id="FreqTracker::MsgConfigureFreqTracker::MsgConfigureFreqTracker" name="FreqTracker::MsgConfigureFreqTracker::MsgConfigureFreqTracker">
+<area shape="rect" id="node2" href="$d6/ddd/classFreqTracker_1_1MsgConfigureFreqTracker.html#a971e73cafc217f134df2e4ed5dd9848e" title="FreqTracker::MsgConfigure\lFreqTracker::create" alt="" coords="304,57,485,98"/>
+<area shape="rect" id="node3" href="$da/d2e/classFreqTracker.html#a93140c64df21d5ee3aebfe1aee96124d" title="FreqTracker::deserialize" alt="" coords="553,5,716,32"/>
+<area shape="rect" id="node5" href="$da/d2e/classFreqTracker.html#aeecc8ca103d3ed99e3d30c508e49936c" title="FreqTracker::webapiSettings\lPutPatch" alt="" coords="540,57,729,98"/>
+<area shape="rect" id="node7" href="$d1/d46/classFreqTrackerGUI.html#a3e241fc48e5cc53b0599d6fd1553bd73" title="FreqTrackerGUI::applySettings" alt="" coords="533,577,736,604"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#ae25fa137b11b09022b5738e637c6168a" title="Applies to a default stream. " alt="" coords="789,5,1008,32"/>
+<area shape="rect" id="node6" href="$da/d2e/classFreqTracker.html#a8782e976ecfcbf1913e2f4c5704c846a" title="FreqTracker::getStreamCenter\lFrequency" alt="" coords="799,57,998,98"/>
+<area shape="rect" id="node8" href="$d1/d46/classFreqTrackerGUI.html#a2c519c6759c9aa66202f272387d7af96" title="FreqTrackerGUI::setCenter\lFrequency" alt="" coords="808,122,989,163"/>
+<area shape="rect" id="node9" href="$d1/d46/classFreqTrackerGUI.html#ab46e19f1db4d6b59ad41fd38d0b68f46" title="FreqTrackerGUI::resetToDefaults" alt="" coords="790,188,1007,215"/>
+<area shape="rect" id="node10" href="$d1/d46/classFreqTrackerGUI.html#ad8a296fc60757f5c12a027130e83a2a9" title="FreqTrackerGUI::deserialize" alt="" coords="1077,213,1264,240"/>
+<area shape="rect" id="node11" href="$d1/d46/classFreqTrackerGUI.html#a45b044dd51719241f36c98a4c63bf9c8" title="FreqTrackerGUI::channelMarker\lChangedByCursor" alt="" coords="794,290,1003,331"/>
+<area shape="rect" id="node12" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="1061,356,1280,383"/>
+<area shape="rect" id="node16" href="$d1/d46/classFreqTrackerGUI.html#a701249c9cb96e3b7393c419057e2f7f7" title="FreqTrackerGUI::on\l_deltaFrequency_changed" alt="" coords="811,407,986,449"/>
+<area shape="rect" id="node17" href="$d1/d46/classFreqTrackerGUI.html#a9ca0b84245f00c119fbe496752fe51b0" title="FreqTrackerGUI::on\l_log2Decim_currentIndexChanged" alt="" coords="787,473,1010,514"/>
+<area shape="rect" id="node18" href="$d1/d46/classFreqTrackerGUI.html#a65fce2e8e76105cc6ecf5a05c69c3d3c" title="FreqTrackerGUI::on\l_rfBW_valueChanged" alt="" coords="824,538,973,579"/>
+<area shape="rect" id="node19" href="$d1/d46/classFreqTrackerGUI.html#a07850109859b8b30670a8807057905b7" title="FreqTrackerGUI::on\l_tracking_toggled" alt="" coords="829,603,968,645"/>
+<area shape="rect" id="node20" href="$d1/d46/classFreqTrackerGUI.html#a54f0dc87eb97d0a0b1cb52af38c3c11a" title="FreqTrackerGUI::on\l_alphaEMA_valueChanged" alt="" coords="809,669,988,710"/>
+<area shape="rect" id="node21" href="$d1/d46/classFreqTrackerGUI.html#ae2cb0ec6ddc17da4c8ea76e4d987f64b" title="FreqTrackerGUI::on\l_trackerType_currentIndexChanged" alt="" coords="784,734,1013,775"/>
+<area shape="rect" id="node22" href="$d1/d46/classFreqTrackerGUI.html#ab251182febdf8ca7aeda01099ce0fe2f" title="FreqTrackerGUI::on\l_pllPskOrder_currentIndexChanged" alt="" coords="785,799,1013,841"/>
+<area shape="rect" id="node23" href="$d1/d46/classFreqTrackerGUI.html#a9f1a115458f47117e41f50fe362e3eef" title="FreqTrackerGUI::on\l_rrc_toggled" alt="" coords="829,865,968,906"/>
+<area shape="rect" id="node24" href="$d1/d46/classFreqTrackerGUI.html#a151dca84ec150e3c540281d54d9a7b4b" title="FreqTrackerGUI::on\l_rrcRolloff_valueChanged" alt="" coords="813,930,985,971"/>
+<area shape="rect" id="node25" href="$d1/d46/classFreqTrackerGUI.html#a919c64eeb4af29231d822ebb5164010d" title="FreqTrackerGUI::on\l_squelch_valueChanged" alt="" coords="817,995,981,1037"/>
+<area shape="rect" id="node26" href="$d1/d46/classFreqTrackerGUI.html#a22cc9103495eca20fa40061077fd16d7" title="FreqTrackerGUI::on\l_squelchGate_valueChanged" alt="" coords="803,1061,995,1102"/>
+<area shape="rect" id="node27" href="$d1/d46/classFreqTrackerGUI.html#a59c6b1b93247fce1a7382ec4185c2b29" title="FreqTrackerGUI::onMenuDialog\lCalled" alt="" coords="795,1126,1002,1167"/>
+<area shape="rect" id="node13" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1328,356,1488,383"/>
+<area shape="rect" id="node14" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1536,349,1683,390"/>
+<area shape="rect" id="node15" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1731,349,1867,390"/>
+</map>

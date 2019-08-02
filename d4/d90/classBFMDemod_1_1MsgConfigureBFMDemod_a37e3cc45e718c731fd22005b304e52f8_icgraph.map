@@ -1,0 +1,9 @@
+<map id="BFMDemod::MsgConfigureBFMDemod::getSettings" name="BFMDemod::MsgConfigureBFMDemod::getSettings">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a2bcd560217bd279f3b47d62399828d6a" title="BFMDemodGUI::handleMessage" alt="" coords="304,13,519,39"/>
+<area shape="rect" id="node8" href="$d4/dd5/classBFMDemod.html#a7f127d311ce43f903ea95190cc8c8301" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="316,63,507,90"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#ad31c0208223eb1cb89b88e1af9d3d221" title="BFMDemodGUI::handleInput\lMessages" alt="" coords="567,5,757,47"/>
+<area shape="rect" id="node4" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="805,13,1024,39"/>
+<area shape="rect" id="node5" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1072,13,1232,39"/>
+<area shape="rect" id="node6" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1280,13,1499,39"/>
+<area shape="rect" id="node7" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1547,13,1693,39"/>
+</map>

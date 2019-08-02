@@ -1,0 +1,34 @@
+<map id="RemoteSink" name="RemoteSink">
+<area shape="rect" id="node2" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="329,739,479,765"/>
+<area shape="rect" id="node7" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="707,581,874,608"/>
+<area shape="rect" id="node11" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="712,517,869,544"/>
+<area shape="rect" id="node23" href="$da/d0a/classDownChannelizer.html" title="DownChannelizer" alt="" coords="728,879,853,905"/>
+<area shape="rect" id="node24" href="$d4/dc7/classThreadedBasebandSampleSink.html" title="ThreadedBasebandSampleSink" alt="" coords="1168,816,1372,843"/>
+<area shape="rect" id="node25" href="$d7/d24/classThreadedBasebandSampleSinkFifo.html" title="ThreadedBasebandSampleSinkFifo" alt="" coords="677,765,904,792"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,563,127,589"/>
+<area shape="rect" id="node10" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="333,643,475,669"/>
+<area shape="rect" id="node12" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="337,467,471,493"/>
+<area shape="rect" id="node14" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="705,220,877,247"/>
+<area shape="rect" id="node15" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="330,12,478,39"/>
+<area shape="rect" id="node33" href="$d4/d3e/classRemoteSinkThread.html" title="RemoteSinkThread" alt="" coords="513,929,648,956"/>
+<area shape="rect" id="node4" href="$d7/d02/classChannelAPI.html" title="ChannelAPI" alt="" coords="1559,649,1651,676"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1227,581,1313,608"/>
+<area shape="rect" id="node6" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="736,467,845,493"/>
+<area shape="rect" id="node8" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="346,291,462,317"/>
+<area shape="rect" id="node9" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,291,107,317"/>
+<area shape="rect" id="node13" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,440,135,467"/>
+<area shape="rect" id="node16" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,213,127,240"/>
+<area shape="rect" id="node17" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="324,129,484,170"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="334,213,474,254"/>
+<area shape="rect" id="node19" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="329,63,479,105"/>
+<area shape="rect" id="node20" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="725,632,857,659"/>
+<area shape="rect" id="node21" href="$d2/d2e/structRemoteSinkSettings.html" title="RemoteSinkSettings" alt="" coords="1534,764,1677,791"/>
+<area shape="rect" id="node22" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="1225,764,1315,791"/>
+<area shape="rect" id="node26" href="$d4/dec/classRemoteDataBlock.html" title="RemoteDataBlock" alt="" coords="1541,991,1670,1017"/>
+<area shape="rect" id="node27" href="$d3/dff/structRemoteRxControlBlock.html" title="RemoteRxControlBlock" alt="" coords="1190,1041,1350,1068"/>
+<area shape="rect" id="node28" href="$d9/def/structRemoteSuperBlock.html" title="RemoteSuperBlock" alt="" coords="1203,1108,1337,1135"/>
+<area shape="rect" id="node29" href="$d8/dc1/structRemoteHeader.html" title="RemoteHeader" alt="" coords="735,1133,846,1160"/>
+<area shape="rect" id="node30" href="$dc/dd6/structRemoteProtectedBlock.html" title="RemoteProtectedBlock" alt="" coords="712,1083,869,1109"/>
+<area shape="rect" id="node31" href="$da/d8d/structRemoteTxControlBlock.html" title="RemoteTxControlBlock" alt="" coords="1191,991,1349,1017"/>
+<area shape="rect" id="node32" href="$d3/d19/structRemoteMetaDataFEC.html" title="RemoteMetaDataFEC" alt="" coords="1529,1041,1681,1068"/>
+</map>

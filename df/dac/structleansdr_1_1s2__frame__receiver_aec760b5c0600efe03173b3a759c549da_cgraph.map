@@ -1,0 +1,8 @@
+<map id="leansdr::s2_frame_receiver::run_frame_locked" name="leansdr::s2_frame_receiver::run_frame_locked">
+<area shape="rect" id="node2" href="$d7/d1e/namespaceleansdr.html#a9388f9fa1118942f8334ce066acd7c10" title="leansdr::conjprod" alt="" coords="261,5,382,32"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespaceleansdr.html#a3afe578114ae6a586e5a10ae916e1c71" title="leansdr::hamming_weight" alt="" coords="236,56,407,83"/>
+<area shape="rect" id="node4" href="$dd/dbd/structleansdr_1_1s2__frame__receiver_1_1sampler__state.html#a77084e55ef237e5feed1b7559537960e" title="leansdr::s2_frame_receiver\l::sampler_state::normalize" alt="" coords="232,107,411,149"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespaceleansdr.html#ab26a491d085f5c8a0e8765ca922e8385" title="leansdr::opt_write" alt="" coords="259,173,384,200"/>
+<area shape="rect" id="node7" href="$d7/da3/structleansdr_1_1sampler__interface.html#a417a41ea4d3ec675181d8bea56b1787a" title="leansdr::sampler_interface\l::update_freq" alt="" coords="234,225,409,266"/>
+<area shape="rect" id="node6" href="$de/d0e/structleansdr_1_1pipewriter.html#ad4fbacd588494cd5993e20e54cc735a6" title="leansdr::pipewriter\l::write" alt="" coords="459,166,587,207"/>
+</map>

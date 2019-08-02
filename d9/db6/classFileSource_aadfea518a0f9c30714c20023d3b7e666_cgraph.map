@@ -1,0 +1,13 @@
+<map id="FileSource::deserialize" name="FileSource::deserialize">
+<area shape="rect" id="node2" href="$dc/ded/classFileSource_1_1MsgConfigureFileSource.html#aed59d7fce91fc117b592e6d63a8f2161" title="FileSource::MsgConfigure\lFileSource::create" alt="" coords="208,52,381,93"/>
+<area shape="rect" id="node3" href="$d8/d16/structFileSourceSettings.html#a72e0467d5101b632be7356954c2f8375" title="FileSourceSettings\l::deserialize" alt="" coords="229,169,361,211"/>
+<area shape="rect" id="node5" href="$d8/d16/structFileSourceSettings.html#a0d9febb6dc532a0d230fa205f0daead5" title="FileSourceSettings\l::resetToDefaults" alt="" coords="429,5,561,47"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="220,235,369,262"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="430,71,561,112"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="430,136,561,177"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="430,201,561,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="430,267,561,308"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="430,332,561,373"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="430,397,561,439"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="609,332,740,373"/>
+</map>

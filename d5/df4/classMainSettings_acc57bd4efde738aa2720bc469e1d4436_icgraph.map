@@ -1,0 +1,22 @@
+<map id="MainSettings::getPreset" name="MainSettings::getPreset">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#a6c41e276b9d2d28b255001765853da94" title="MainSettings::getPreset" alt="" coords="237,5,399,32"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#ae991ce332c112a7394c4ca3c6151765a" title="WebAPIAdapterGUI::instance\lConfigGet" alt="" coords="219,57,417,98"/>
+<area shape="rect" id="node4" href="$dc/dd8/classWebAPIAdapterSrv.html#ab6211abf98376b965ef3b5cda79220f3" title="WebAPIAdapterSrv::instance\lConfigGet" alt="" coords="221,122,415,163"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#ac089ae60bf124eda1ea9c2cfd91d8260" title="WebAPIAdapterGUI::instance\lPresetDelete" alt="" coords="219,187,417,229"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#a859ec24ff34babb4def5c6fcb9c90cd0" title="WebAPIAdapterSrv::instance\lPresetDelete" alt="" coords="221,253,415,294"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a027a3ecc1995fe6b4704ef59b567ca31" title="WebAPIAdapterSrv::instance\lPresetFilePost" alt="" coords="221,318,415,359"/>
+<area shape="rect" id="node8" href="$d7/de5/classWebAPIAdapterGUI.html#af87ab32e0f66cc31cbb573c3b04e2994" title="WebAPIAdapterGUI::instance\lPresetPatch" alt="" coords="219,383,417,425"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#ad99f1878d0f5db15b3f3ba1e4bba6a7f" title="WebAPIAdapterSrv::instance\lPresetPatch" alt="" coords="221,449,415,490"/>
+<area shape="rect" id="node10" href="$d7/de5/classWebAPIAdapterGUI.html#a9f8854be57d97474e4edc17ac4166455" title="WebAPIAdapterGUI::instance\lPresetPost" alt="" coords="219,514,417,555"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#a357870b6c38d50f7d3287678f764f1a0" title="WebAPIAdapterSrv::instance\lPresetPost" alt="" coords="221,579,415,621"/>
+<area shape="rect" id="node12" href="$d7/de5/classWebAPIAdapterGUI.html#a337947339febd24bf0f86b7d8dc16542" title="WebAPIAdapterGUI::instance\lPresetPut" alt="" coords="219,645,417,686"/>
+<area shape="rect" id="node13" href="$dc/dd8/classWebAPIAdapterSrv.html#adc5f145eccc9297926ca74ac0f9c618f" title="WebAPIAdapterSrv::instance\lPresetPut" alt="" coords="221,710,415,751"/>
+<area shape="rect" id="node14" href="$d7/de5/classWebAPIAdapterGUI.html#a3658351379506e6887b2baa784338d53" title="WebAPIAdapterGUI::instance\lPresetsGet" alt="" coords="219,775,417,817"/>
+<area shape="rect" id="node15" href="$dc/dd8/classWebAPIAdapterSrv.html#a37773f8600193e18f4d9fcd8afe3ee41" title="WebAPIAdapterSrv::instance\lPresetsGet" alt="" coords="221,841,415,882"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="229,907,407,933"/>
+<area shape="rect" id="node18" href="$d6/d1a/classMainWindow.html#a058a91cd021f54b1bbabc493206d76c2" title="MainWindow::on_presetDelete\l_clicked" alt="" coords="218,958,418,999"/>
+<area shape="rect" id="node19" href="$d6/d1a/classMainWindow.html#a6ef20fde9c652deb547e6522671a0762" title="MainWindow::on_presetEdit\l_clicked" alt="" coords="468,1078,653,1119"/>
+<area shape="rect" id="node20" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="216,1075,420,1117"/>
+<area shape="rect" id="node21" href="$d5/df4/classMainSettings.html#a86a58928fd7efca91a6612ffd88fb6a1" title="MainSettings::renamePreset\lGroup" alt="" coords="225,1141,411,1182"/>
+<area shape="rect" id="node17" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="471,907,651,933"/>
+</map>

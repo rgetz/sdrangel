@@ -1,0 +1,7 @@
+<map id="LocalInput::MsgStartStop::getStartStop" name="LocalInput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$de/da9/classLocalInputGui.html#aec933c110a782d8e18563df89b3ca237" title="LocalInputGui::handleMessage" alt="" coords="224,19,425,46"/>
+<area shape="rect" id="node5" href="$d8/d47/classLocalInput.html#a208b495a2352e0312dc1ad04632c22ff" title="LocalInput::handleMessage" alt="" coords="234,75,415,102"/>
+<area shape="rect" id="node3" href="$de/da9/classLocalInputGui.html#a9cb888a352c9b84f66dc9ea2a0ef998e" title="LocalInputGui::handleInput\lMessages" alt="" coords="510,5,687,47"/>
+<area shape="rect" id="node4" href="$de/da9/classLocalInputGui.html#aa49090504ca3edd30e1bfa6e844eb379" title="LocalInputGui::LocalInputGui" alt="" coords="772,13,963,39"/>
+<area shape="rect" id="node6" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a9360120dec540495691a8f0e74e59a59" title="LocalInput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="473,71,724,127"/>
+</map>

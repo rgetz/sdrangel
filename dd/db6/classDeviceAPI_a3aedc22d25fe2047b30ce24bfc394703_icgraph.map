@@ -1,0 +1,20 @@
+<map id="DeviceAPI::setBuddySharedPtr" name="DeviceAPI::setBuddySharedPtr">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#a57892a02372c1aecdb938d5b1652c0b4" title="PlutoSDROutput::openDevice" alt="" coords="269,5,466,32"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#a8926cc034e95fc21e540fe034b8a59c7" title="BladeRF2Output::openDevice" alt="" coords="269,56,465,83"/>
+<area shape="rect" id="node4" href="$d2/d3a/classPlutoSDRInput.html#abf1de67c02b7fc8925627079863c585d" title="PlutoSDRInput::openDevice" alt="" coords="274,107,461,133"/>
+<area shape="rect" id="node5" href="$d8/df3/classSoapySDROutput.html#a100d8379cc1f07365e9ee8c29b8a8e11" title="SoapySDROutput::openDevice" alt="" coords="265,157,469,184"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#a47e7e735497780c32c438797b2f55d1f" title="BladeRF2Input::openDevice" alt="" coords="274,208,461,235"/>
+<area shape="rect" id="node7" href="$da/d65/classSoapySDRInput.html#a654ec5370d3f40f956c1e016513d92dd" title="SoapySDRInput::openDevice" alt="" coords="270,259,465,285"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#a82317b9450a34581ffb9421c341b0760" title="XTRXOutput::openDevice" alt="" coords="280,309,455,336"/>
+<area shape="rect" id="node9" href="$d5/d8d/classLimeSDROutput.html#a8c0fd0e72a70c6ec22aa0d7faea17f6e" title="LimeSDROutput::openDevice" alt="" coords="270,360,465,387"/>
+<area shape="rect" id="node10" href="$dc/d14/classXTRXInput.html#a6cda15fcdb9cece4bf39cea0bb17698d" title="XTRXInput::openDevice" alt="" coords="285,411,449,437"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html#ac89498f574bd50438fb256bb315d90df" title="LimeSDRInput::openDevice" alt="" coords="275,461,460,488"/>
+<area shape="rect" id="node12" href="$d2/d3a/classBladerf1Input.html#af5620dbe3caadb4cafda899fbd2496bf" title="Bladerf1Input::~Bladerf1\lInput" alt="" coords="286,513,449,554"/>
+<area shape="rect" id="node14" href="$dc/d98/classBladerf1Output.html#a1b1ed94d4b87bd13e500c1430e7b4a1a" title="Bladerf1Output::~Bladerf1\lOutput" alt="" coords="281,578,454,619"/>
+<area shape="rect" id="node16" href="$d2/d57/classHackRFInput.html#a0d5e0b2b2f1079d1e2d4af74ab3b4b49" title="HackRFInput::~HackRFInput" alt="" coords="270,647,465,673"/>
+<area shape="rect" id="node18" href="$dc/df6/classHackRFOutput.html#a0254904f9b3a49c7cb5a811ae3ef0eb2" title="HackRFOutput::~HackRFOutput" alt="" coords="260,704,475,731"/>
+<area shape="rect" id="node13" href="$d4/d7a/classBladerf1Input_1_1MsgStartStop.html#aece111352ba192c6c19b8248ed7c2ab2" title="Bladerf1Input::MsgStartStop\l::MsgStartStop" alt="" coords="536,510,723,551"/>
+<area shape="rect" id="node15" href="$df/d80/classBladerf1Output_1_1MsgReportBladerf1.html#af191b9a4b61ba74486cfdffae81c355b" title="Bladerf1Output::MsgReport\lBladerf1::MsgReportBladerf1" alt="" coords="534,575,725,617"/>
+<area shape="rect" id="node17" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#ad7f973dae01345d8d7e1b6606d8e497e" title="HackRFInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="531,641,727,682"/>
+<area shape="rect" id="node19" href="$dd/dfd/classHackRFOutput_1_1MsgReportHackRF.html#a5b710bd90a6c3c2e7c11e658594f5303" title="HackRFOutput::MsgReportHack\lRF::MsgReportHackRF" alt="" coords="523,706,736,747"/>
+</map>

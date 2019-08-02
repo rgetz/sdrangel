@@ -1,0 +1,15 @@
+<map id="LocalSourceGUI::displayRateAndShift" name="LocalSourceGUI::displayRateAndShift">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a88fbef4515c807a480b4994566b5b8e6" title="LocalSourceGUI::applyPosition" alt="" coords="248,106,452,133"/>
+<area shape="rect" id="node7" href="$d5/df2/classLocalSourceGUI.html#a42860abe193784ee791bf826aff77c4a" title="LocalSourceGUI::handleMessage" alt="" coords="1039,157,1257,183"/>
+<area shape="rect" id="node3" href="$d5/df2/classLocalSourceGUI.html#ab3155b3d4af68955a3392c6ea7f18b28" title="LocalSourceGUI::applyInterpolation" alt="" coords="500,106,728,133"/>
+<area shape="rect" id="node14" href="$d5/df2/classLocalSourceGUI.html#a0bcef25e5c792627a708da46828e4ae2" title="LocalSourceGUI::on\l_position_valueChanged" alt="" coords="532,40,696,81"/>
+<area shape="rect" id="node4" href="$d5/df2/classLocalSourceGUI.html#a4c41ee4c78fdb3cc6d631e5378011a08" title="LocalSourceGUI::displaySettings" alt="" coords="776,106,991,133"/>
+<area shape="rect" id="node13" href="$d5/df2/classLocalSourceGUI.html#ab9582e4cad88c53bcbf2e72b95fb1777" title="LocalSourceGUI::on\l_interpolationFactor\l_currentIndexChanged" alt="" coords="807,26,960,82"/>
+<area shape="rect" id="node5" href="$d5/df2/classLocalSourceGUI.html#ac98d8ce65ffab3dbef5e77b6e3c66259" title="LocalSourceGUI::resetToDefaults" alt="" coords="1039,55,1257,82"/>
+<area shape="rect" id="node6" href="$d5/df2/classLocalSourceGUI.html#a90334c6bdb5d84f8cadcbb06bc11ca65" title="LocalSourceGUI::deserialize" alt="" coords="1314,66,1502,93"/>
+<area shape="rect" id="node9" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="1559,91,1781,118"/>
+<area shape="rect" id="node8" href="$d5/df2/classLocalSourceGUI.html#a85c16136d557f058b5687f1441e8582f" title="LocalSourceGUI::handleSource\lMessages" alt="" coords="1305,139,1511,180"/>
+<area shape="rect" id="node10" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1829,91,1992,118"/>
+<area shape="rect" id="node11" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="2040,84,2185,125"/>
+<area shape="rect" id="node12" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="2233,84,2372,125"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ChannelMarker::emitChangedByAPI" name="ChannelMarker::emitChangedByAPI">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#a574fba4eb8e30b48aa1e69fe95da6a82" title="ATVDemodGUI::deserialize" alt="" coords="270,85,454,111"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a66e761f441b24f35a8deaa3ad07c8b6e" title="ATVDemodGUI::setChannelMarker\lBandwidth" alt="" coords="248,136,476,177"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#ab4aa3271f7cd61a56f58138acc067f30" title="ATVDemodGUI::on_decimator\lEnable_toggled" alt="" coords="527,5,727,47"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#a74d7ab4a1a244a465122b996dbbe28a8" title="ATVDemodGUI::on_modulation\l_currentIndexChanged" alt="" coords="524,71,731,112"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#addb7864211516c137890aabdae7e58aa" title="ATVDemodGUI::on_rfBW\l_valueChanged" alt="" coords="541,136,714,177"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#a5fef8164c96669a395c7b9461c692928" title="ATVDemodGUI::on_rfFiltering\l_toggled" alt="" coords="529,201,726,243"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#a8a86adccd9312fff2f1fa80af5d43ef4" title="ATVDemodGUI::on_rfOppBW\l_valueChanged" alt="" coords="529,267,726,308"/>
+</map>

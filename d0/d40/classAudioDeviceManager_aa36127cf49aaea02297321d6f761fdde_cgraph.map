@@ -1,0 +1,8 @@
+<map id="AudioDeviceManager::setInputDeviceInfo" name="AudioDeviceManager::setInputDeviceInfo">
+<area shape="rect" id="node2" href="$d0/d40/classAudioDeviceManager.html#a5ad1cde15fc95bb5a18bc0457343449a" title="AudioDeviceManager\l::getInputDeviceInfo" alt="" coords="204,5,351,47"/>
+<area shape="rect" id="node3" href="$d0/d40/classAudioDeviceManager.html#a86bfb958e29fc4d4b08a82df12a64718" title="AudioDeviceManager\l::getInputDeviceName" alt="" coords="201,71,354,112"/>
+<area shape="rect" id="node4" href="$d6/d91/classAudioInput.html#acafba14665fd34aa3b1975693f368780" title="AudioInput::getRate" alt="" coords="208,137,347,163"/>
+<area shape="rect" id="node5" href="$d6/d91/classAudioInput.html#a268775cff2a682024a5d68308aa909c2" title="AudioInput::setVolume" alt="" coords="200,187,355,214"/>
+<area shape="rect" id="node6" href="$d6/d91/classAudioInput.html#ac5acc44c9e2823a97f707f92e576716d" title="AudioInput::start" alt="" coords="218,238,337,265"/>
+<area shape="rect" id="node7" href="$d6/d91/classAudioInput.html#a254e2345054b391f20bb883140a732d0" title="AudioInput::stop" alt="" coords="219,289,336,315"/>
+</map>

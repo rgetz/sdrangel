@@ -1,0 +1,10 @@
+<map id="DeviceBladeRF2Shared::MsgReportBuddyChange::getDevSampleRate" name="DeviceBladeRF2Shared::MsgReportBuddyChange::getDevSampleRate">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a8324b4feb400afdde8c6dad1073fba23" title="BladeRF2Output::handleMessage" alt="" coords="229,61,448,87"/>
+<area shape="rect" id="node4" href="$d6/d2d/classBladeRF2Input.html#ae10a942a658970e5b49777acdbb83256" title="BladeRF2Input::handleMessage" alt="" coords="235,111,443,138"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="496,61,713,87"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="504,111,705,138"/>
+<area shape="rect" id="node6" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="772,5,967,47"/>
+<area shape="rect" id="node7" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="761,71,977,112"/>
+<area shape="rect" id="node8" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="770,136,969,177"/>
+<area shape="rect" id="node9" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="1025,173,1244,199"/>
+</map>

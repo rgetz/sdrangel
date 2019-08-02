@@ -1,0 +1,12 @@
+<map id="PluginManager::loadPlugins" name="PluginManager::loadPlugins">
+<area shape="rect" id="node2" href="$de/d59/classPluginManager.html#adc5cc75faaaf70f69ec35372463abcf0" title="PluginManager::loadPlugins\lFinal" alt="" coords="248,122,431,163"/>
+<area shape="rect" id="node10" href="$de/d59/classPluginManager.html#ae5b9ee467c709456c151da29a0b71692" title="PluginManager::loadPluginsPart" alt="" coords="236,220,443,247"/>
+<area shape="rect" id="node3" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="497,5,684,32"/>
+<area shape="rect" id="node4" href="$d1/d17/classDeviceEnumerator.html#a0a270cb98cfab332693c40030fc069f7" title="DeviceEnumerator::enumerate\lRxDevices" alt="" coords="491,57,690,98"/>
+<area shape="rect" id="node6" href="$d1/d17/classDeviceEnumerator.html#a6b35e80879c13db9a795cc823a1d7cbb" title="DeviceEnumerator::enumerate\lTxDevices" alt="" coords="491,122,690,163"/>
+<area shape="rect" id="node8" href="$d1/d17/classDeviceEnumerator.html#a0a9b14a4198c84a5689ac4d15c4bf0ac" title="DeviceEnumerator::enumerate\lMIMODevices" alt="" coords="491,187,690,229"/>
+<area shape="rect" id="node5" href="$de/d59/classPluginManager.html#ad7dc61c8f56d18b0753730463193bd9c" title="PluginManager::getSource\lDeviceRegistrations" alt="" coords="757,57,931,98"/>
+<area shape="rect" id="node7" href="$de/d59/classPluginManager.html#a21976c48a90cc65fba9266c08905a4a4" title="PluginManager::getSinkDevice\lRegistrations" alt="" coords="743,122,945,163"/>
+<area shape="rect" id="node9" href="$de/d59/classPluginManager.html#ac228ca335f2ec58918552b09d5dabbde" title="PluginManager::getMIMODevice\lRegistrations" alt="" coords="739,187,949,229"/>
+<area shape="rect" id="node11" href="$de/d59/classPluginManager.html#ad3872cf4169c89cf849a8156caca8680" title="PluginManager::loadPluginsDir" alt="" coords="491,253,691,280"/>
+</map>

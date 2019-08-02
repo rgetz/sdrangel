@@ -1,0 +1,12 @@
+<map id="PluginAPI::registerTxChannel" name="PluginAPI::registerTxChannel">
+<area shape="rect" id="node2" href="$d2/d9a/classWFMModPlugin.html#ac39779f1604a7e1ccd4ca2a960ca48b6" title="WFMModPlugin::initPlugin" alt="" coords="255,5,431,32"/>
+<area shape="rect" id="node3" href="$db/d0c/classFileSourcePlugin.html#aca84425aa7f54a40da9f17b69db7ced3" title="FileSourcePlugin::initPlugin" alt="" coords="252,56,433,83"/>
+<area shape="rect" id="node4" href="$d8/d6e/classATVModPlugin.html#af24b49c750459e0b504133cea6910b93" title="ATVModPlugin::initPlugin" alt="" coords="257,107,428,133"/>
+<area shape="rect" id="node5" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="270,158,415,199"/>
+<area shape="rect" id="node6" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="257,224,428,251"/>
+<area shape="rect" id="node7" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="256,275,429,301"/>
+<area shape="rect" id="node8" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="248,325,437,352"/>
+<area shape="rect" id="node9" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="261,376,425,403"/>
+<area shape="rect" id="node10" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="248,427,437,453"/>
+<area shape="rect" id="node11" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="273,478,412,519"/>
+</map>

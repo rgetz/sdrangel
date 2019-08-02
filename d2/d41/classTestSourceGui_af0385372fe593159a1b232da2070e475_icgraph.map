@@ -1,0 +1,10 @@
+<map id="TestSourceGui::updateFrequencyShiftLimit" name="TestSourceGui::updateFrequencyShiftLimit">
+<area shape="rect" id="node2" href="$d2/d41/classTestSourceGui.html#ad5ab1b151f8166baeacfdeed4849635e" title="TestSourceGui::displaySettings" alt="" coords="271,89,477,116"/>
+<area shape="rect" id="node9" href="$d2/d41/classTestSourceGui.html#a63a3bd64f4cb52cc762c996056964fe2" title="TestSourceGui::on_sample\lRate_changed" alt="" coords="284,141,464,182"/>
+<area shape="rect" id="node3" href="$d2/d41/classTestSourceGui.html#a8e52e5a7228a25ba42531ad85cf7daf5" title="TestSourceGui::deserialize" alt="" coords="787,5,965,32"/>
+<area shape="rect" id="node4" href="$d2/d41/classTestSourceGui.html#adeaa72e01b6bdbfb193bfa769f518f13" title="TestSourceGui::handleMessage" alt="" coords="527,89,735,116"/>
+<area shape="rect" id="node6" href="$d2/d41/classTestSourceGui.html#aa3f7c432f7cd67e0fcb1ca077c9ebb5e" title="TestSourceGui::TestSourceGui" alt="" coords="1016,111,1220,137"/>
+<area shape="rect" id="node7" href="$d2/d41/classTestSourceGui.html#a98cbce861c3d8ac18f27b5b129cca06e" title="TestSourceGui::resetToDefaults" alt="" coords="525,39,736,65"/>
+<area shape="rect" id="node8" href="$d2/d41/classTestSourceGui.html#a37feed7b5d0fb76bffb23214b8514ec7" title="TestSourceGui::setCenter\lFrequency" alt="" coords="543,191,718,233"/>
+<area shape="rect" id="node5" href="$d2/d41/classTestSourceGui.html#a489e900b2c309a78ce41802e5e417ade" title="TestSourceGui::handleInput\lMessages" alt="" coords="784,74,968,115"/>
+</map>

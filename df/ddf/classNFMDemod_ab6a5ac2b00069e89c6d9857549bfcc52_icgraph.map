@@ -1,0 +1,5 @@
+<map id="NFMDemod::webapiReverseSendSettings" name="NFMDemod::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$df/ddf/classNFMDemod.html#aa28d38963ba5049eb223738d4d062b40" title="NFMDemod::applySettings" alt="" coords="275,13,455,39"/>
+<area shape="rect" id="node3" href="$df/ddf/classNFMDemod.html#ae02dd8d2d4119bb1273ac19482b37393" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="503,13,695,39"/>
+<area shape="rect" id="node4" href="$df/ddf/classNFMDemod.html#adaa9ae3c488894b364f630d8ac7934ac" title="NFMDemod::destroy" alt="" coords="743,13,887,39"/>
+</map>

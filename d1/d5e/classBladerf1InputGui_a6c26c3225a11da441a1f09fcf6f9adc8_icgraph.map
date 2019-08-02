@@ -1,0 +1,8 @@
+<map id="Bladerf1InputGui::displaySettings" name="Bladerf1InputGui::displaySettings">
+<area shape="rect" id="node2" href="$d1/d5e/classBladerf1InputGui.html#a87cec0483291f33a701f410e5055bc25" title="Bladerf1InputGui::Bladerf1\lInputGui" alt="" coords="691,8,865,50"/>
+<area shape="rect" id="node3" href="$d1/d5e/classBladerf1InputGui.html#aeed3402e1342e9c014510fa228c3ac40" title="Bladerf1InputGui::deserialize" alt="" coords="453,38,643,65"/>
+<area shape="rect" id="node4" href="$d1/d5e/classBladerf1InputGui.html#a7fa52758ae827e5ac4fa4014b4db1a16" title="Bladerf1InputGui::handle\lMessage" alt="" coords="231,126,396,167"/>
+<area shape="rect" id="node6" href="$d1/d5e/classBladerf1InputGui.html#adbf9e62d764e9d6d4358d9e5ca4077f6" title="Bladerf1InputGui::resetTo\lDefaults" alt="" coords="228,60,399,102"/>
+<area shape="rect" id="node7" href="$d1/d5e/classBladerf1InputGui.html#a8f716108ed6b7275481bc6a905a5a861" title="Bladerf1InputGui::setCenter\lFrequency" alt="" coords="221,191,405,232"/>
+<area shape="rect" id="node5" href="$d1/d5e/classBladerf1InputGui.html#af46ff858f0435f78ae2c73acbfc0da7b" title="Bladerf1InputGui::handle\lInputMessages" alt="" coords="465,92,631,134"/>
+</map>

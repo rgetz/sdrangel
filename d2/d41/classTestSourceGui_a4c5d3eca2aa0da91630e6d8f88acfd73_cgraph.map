@@ -1,0 +1,5 @@
+<map id="TestSourceGui::on_startStop_toggled" name="TestSourceGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d6/d4f/classTestSourceInput_1_1MsgStartStop.html#a74ac0fb4eeb32d2295523507a6cd484b" title="TestSourceInput::MsgStart\lStop::create" alt="" coords="244,5,423,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="249,71,417,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="259,137,408,163"/>
+</map>

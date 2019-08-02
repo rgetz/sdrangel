@@ -1,0 +1,5 @@
+<map id="DSPDeviceMIMOEngine::setSpectrumSinkInput" name="DSPDeviceMIMOEngine::setSpectrumSinkInput">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#ad72cc729d9f4a0e7dc7f759c8ea99ff5" title="Used in the MIMO case to select which stream is used as input to main spectrum. " alt="" coords="220,39,413,80"/>
+<area shape="rect" id="node3" href="$df/d78/classTestMIGui.html#ad1de1d3739648ad8a6b41b6c72347666" title="TestMIGui::on_spectrumSource\l_currentIndexChanged" alt="" coords="461,5,668,47"/>
+<area shape="rect" id="node4" href="$df/d78/classTestMIGui.html#a324091d48ba7558c6209e9551e64364d" title="TestMIGui::on_streamIndex\l_currentIndexChanged" alt="" coords="473,71,657,112"/>
+</map>

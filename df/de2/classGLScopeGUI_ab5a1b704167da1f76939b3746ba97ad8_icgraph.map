@@ -1,0 +1,12 @@
+<map id="GLScopeGUI::setAmpOfsDisplay" name="GLScopeGUI::setAmpOfsDisplay">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab9c114e79ee924430c1235ef9d9be216" title="GLScopeGUI::deserialize" alt="" coords="282,5,453,32"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#aa8599935884c9cfacb14a1264bbc6a1a" title="GLScopeGUI::on_ofsCoarse\l_valueChanged" alt="" coords="273,57,462,98"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a3366539e1cea56381da907be8b79f532" title="GLScopeGUI::on_ofsFine\l_valueChanged" alt="" coords="281,122,453,163"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a74bb022be411bc06126f911b5c071874" title="GLScopeGUI::on_traceMode\l_currentIndexChanged" alt="" coords="272,187,463,229"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="281,253,454,280"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#a7733612c148a3993ee3e50165ba7334e" title="GLScopeGUI::setTraceUI" alt="" coords="281,304,454,331"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#ac93a15419883d6cb6cebbd11bae93277" title="GLScopeGUI::on_trace\l_valueChanged" alt="" coords="527,231,686,273"/>
+<area shape="rect" id="node10" href="$df/de2/classGLScopeGUI.html#ae344100c153f6e6f3d32ad6506e681df" title="GLScopeGUI::on_traceUp\l_clicked" alt="" coords="519,297,694,338"/>
+<area shape="rect" id="node11" href="$df/de2/classGLScopeGUI.html#a7f264ecdcc8919e332585b350fc6ca70" title="GLScopeGUI::on_traceDown\l_clicked" alt="" coords="511,362,703,403"/>
+<area shape="rect" id="node9" href="$df/de2/classGLScopeGUI.html#a2153e17c9dce249929ece2cb39296b95" title="GLScopeGUI::focusOnTrace" alt="" coords="751,239,941,265"/>
+</map>

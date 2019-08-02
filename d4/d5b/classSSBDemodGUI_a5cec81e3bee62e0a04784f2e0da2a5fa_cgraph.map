@@ -1,0 +1,11 @@
+<map id="SSBDemodGUI::audioSelect" name="SSBDemodGUI::audioSelect">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a310b39e2d6384f693ab208972fe6e4b5" title="SSBDemodGUI::applySettings" alt="" coords="244,166,447,193"/>
+<area shape="rect" id="node10" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="272,217,419,243"/>
+<area shape="rect" id="node3" href="$da/d25/classSSBDemod_1_1MsgConfigureSSBDemod.html#a81002806371f36a3ce7a1106cb588843" title="SSBDemod::MsgConfigureSSBDemod\l::create" alt="" coords="495,5,744,47"/>
+<area shape="rect" id="node5" href="$d1/d55/classSSBDemod_1_1MsgConfigureChannelizer.html#a4ea4c2d50e0f815a3436429925256aef" title="SSBDemod::MsgConfigureChannelizer\l::create" alt="" coords="495,71,744,112"/>
+<area shape="rect" id="node6" href="$d6/d4d/classSSBDemod.html#a3b97b9910294d187fb65a7fb323c04ca" title="SSBDemod::getAudioSampleRate" alt="" coords="508,137,731,163"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="532,188,707,229"/>
+<area shape="rect" id="node8" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="535,253,703,295"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="545,319,694,346"/>
+<area shape="rect" id="node4" href="$da/d25/classSSBDemod_1_1MsgConfigureSSBDemod.html#a6bf566ba598bbf1cfc789e92ca05adb7" title="SSBDemod::MsgConfigureSSBDemod\l::MsgConfigureSSBDemod" alt="" coords="792,5,1041,47"/>
+</map>

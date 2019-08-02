@@ -1,0 +1,13 @@
+<map id="ATVDemodGUI::on_decimatorEnable_toggled" name="ATVDemodGUI::on_decimatorEnable_toggled">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#aaaff81086b2a209ccee5a2e46a5e40e6" title="ATVDemodGUI::applyRFSettings" alt="" coords="258,134,477,161"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#a66e761f441b24f35a8deaa3ad07c8b6e" title="ATVDemodGUI::setChannelMarker\lBandwidth" alt="" coords="253,276,481,317"/>
+<area shape="rect" id="node3" href="$de/dce/classATVDemod.html#ab322322701a0b8706eb0f3a74dd6fa68" title="ATVDemod::configureRF" alt="" coords="543,42,713,69"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="541,93,715,135"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="544,159,712,200"/>
+<area shape="rect" id="node4" href="$d3/df5/classATVDemod_1_1MsgConfigureRFATVDemod.html#a47d2e926e90281a816124d3fbc8036fd" title="ATVDemod::MsgConfigureRFATVDemod\l::create" alt="" coords="775,5,1040,47"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="833,71,982,98"/>
+<area shape="rect" id="node9" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="529,225,727,251"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#a0dde88267fae23a14debe67d1847896f" title="ChannelMarker::setOpposite\lBandwidth" alt="" coords="534,276,722,317"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a07ca4f100dd0da5f1ef8ad40f66dbca6" title="ChannelMarker::setSidebands" alt="" coords="529,342,727,369"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#aa8e2101548a89f0738b85b3a146f3bcc" title="ChannelMarker::emitChanged\lByAPI" alt="" coords="531,393,725,435"/>
+</map>

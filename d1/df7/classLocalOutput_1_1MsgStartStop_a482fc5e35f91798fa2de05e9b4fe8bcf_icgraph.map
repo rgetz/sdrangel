@@ -1,0 +1,7 @@
+<map id="LocalOutput::MsgStartStop::getStartStop" name="LocalOutput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$dd/d63/classLocalOutputGui.html#ad7584e9c80d7c9c62b37c6d1609196a4" title="LocalOutputGui::handleMessage" alt="" coords="233,19,444,46"/>
+<area shape="rect" id="node5" href="$de/db2/classLocalOutput.html#a9ba5a9690d9e7d913c963b5c3b419cfb" title="LocalOutput::handleMessage" alt="" coords="243,75,434,102"/>
+<area shape="rect" id="node3" href="$dd/d63/classLocalOutputGui.html#a7a31e127b487a3035a2146a0b88f85d4" title="LocalOutputGui::handleInput\lMessages" alt="" coords="524,5,711,47"/>
+<area shape="rect" id="node4" href="$dd/d63/classLocalOutputGui.html#ad495a70e32d2c6a0150910cb3b8c03b5" title="LocalOutputGui::LocalOutputGui" alt="" coords="791,13,1001,39"/>
+<area shape="rect" id="node6" href="$d6/d65/classLocalOutput_1_1MsgReportSampleRateAndFrequency.html#adfd503a532898aeb9d8fa0a47471d209" title="LocalOutput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="492,71,743,127"/>
+</map>

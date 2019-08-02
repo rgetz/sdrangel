@@ -1,0 +1,16 @@
+<map id="BladerfBandwidths::getBandwidthIndex" name="BladerfBandwidths::getBandwidthIndex">
+<area shape="rect" id="node2" href="$d1/d5e/classBladerf1InputGui.html#a6c26c3225a11da441a1f09fcf6f9adc8" title="Bladerf1InputGui::display\lSettings" alt="" coords="192,103,360,144"/>
+<area shape="rect" id="node9" href="$da/de4/classBladerf1OutputGui.html#af569d9d69e8780e1ff2e59a70e40bdcd" title="Bladerf1OutputGui::\ldisplaySettings" alt="" coords="207,339,345,380"/>
+<area shape="rect" id="node3" href="$d1/d5e/classBladerf1InputGui.html#a87cec0483291f33a701f410e5055bc25" title="Bladerf1InputGui::Bladerf1\lInputGui" alt="" coords="877,45,1052,87"/>
+<area shape="rect" id="node4" href="$d1/d5e/classBladerf1InputGui.html#aeed3402e1342e9c014510fa228c3ac40" title="Bladerf1InputGui::deserialize" alt="" coords="640,47,829,74"/>
+<area shape="rect" id="node5" href="$d1/d5e/classBladerf1InputGui.html#a7fa52758ae827e5ac4fa4014b4db1a16" title="Bladerf1InputGui::handle\lMessage" alt="" coords="417,135,583,176"/>
+<area shape="rect" id="node7" href="$d1/d5e/classBladerf1InputGui.html#adbf9e62d764e9d6d4358d9e5ca4077f6" title="Bladerf1InputGui::resetTo\lDefaults" alt="" coords="415,69,585,111"/>
+<area shape="rect" id="node8" href="$d1/d5e/classBladerf1InputGui.html#a8f716108ed6b7275481bc6a905a5a861" title="Bladerf1InputGui::setCenter\lFrequency" alt="" coords="408,200,592,241"/>
+<area shape="rect" id="node6" href="$d1/d5e/classBladerf1InputGui.html#af46ff858f0435f78ae2c73acbfc0da7b" title="Bladerf1InputGui::handle\lInputMessages" alt="" coords="652,132,817,173"/>
+<area shape="rect" id="node10" href="$da/de4/classBladerf1OutputGui.html#a43ce52609f0e47e73417f5cb057413c4" title="Bladerf1OutputGui::\lBladerf1OutputGui" alt="" coords="896,320,1033,361"/>
+<area shape="rect" id="node11" href="$da/de4/classBladerf1OutputGui.html#aff0a470f2b19aa72f2a7783cd6034218" title="Bladerf1OutputGui::\ldeserialize" alt="" coords="666,329,803,371"/>
+<area shape="rect" id="node12" href="$da/de4/classBladerf1OutputGui.html#a8d1148fddeb549cefb119e07a798dcbd" title="Bladerf1OutputGui::\lhandleMessage" alt="" coords="431,433,569,475"/>
+<area shape="rect" id="node14" href="$da/de4/classBladerf1OutputGui.html#add0cce167883ec763c575f7b0777c7cf" title="Bladerf1OutputGui::\lresetToDefaults" alt="" coords="431,368,569,409"/>
+<area shape="rect" id="node15" href="$da/de4/classBladerf1OutputGui.html#a144b563c86975494771f5c757f3a195e" title="Bladerf1OutputGui::\lsetCenterFrequency" alt="" coords="430,499,570,540"/>
+<area shape="rect" id="node13" href="$da/de4/classBladerf1OutputGui.html#ae173a69778f788bbcf695360b0cfc2df" title="Bladerf1OutputGui::\lhandleInputMessages" alt="" coords="660,420,809,461"/>
+</map>

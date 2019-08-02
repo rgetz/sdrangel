@@ -1,0 +1,22 @@
+<map id="LocalOutput" name="LocalOutput">
+<area shape="rect" id="node2" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="333,428,467,455"/>
+<area shape="rect" id="node13" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="681,563,838,589"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,525,127,552"/>
+<area shape="rect" id="node8" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="676,613,843,640"/>
+<area shape="rect" id="node11" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="329,700,471,727"/>
+<area shape="rect" id="node12" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="325,649,475,676"/>
+<area shape="rect" id="node14" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="673,207,845,233"/>
+<area shape="rect" id="node15" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="326,105,474,132"/>
+<area shape="rect" id="node4" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,421,135,448"/>
+<area shape="rect" id="node5" href="$d2/d5a/structLocalOutputSettings.html" title="LocalOutputSettings" alt="" coords="1109,632,1249,659"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1137,519,1222,545"/>
+<area shape="rect" id="node7" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="705,461,814,488"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="342,355,458,381"/>
+<area shape="rect" id="node10" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,151,107,177"/>
+<area shape="rect" id="node21" href="$da/d2c/classFileRecord.html" title="FileRecord" alt="" coords="935,692,1020,719"/>
+<area shape="rect" id="node16" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,45,127,72"/>
+<area shape="rect" id="node17" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="320,285,480,326"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="330,39,470,81"/>
+<area shape="rect" id="node19" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="325,219,475,261"/>
+<area shape="rect" id="node20" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="693,512,825,539"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SoapySDROutputGui::updateHardware" name="SoapySDROutputGui::updateHardware">
+<area shape="rect" id="node2" href="$dd/d8e/classSoapySDROutput_1_1MsgConfigureSoapySDROutput.html#aba22a4d52684400886c61164c72538f5" title="SoapySDROutput::MsgConfigure\lSoapySDROutput::create" alt="" coords="208,5,424,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="222,71,410,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="241,137,391,163"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="qtwebapp::HttpRequest::readFromSocket" name="qtwebapp::HttpRequest::readFromSocket">
+<area shape="rect" id="node2" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a883b286e59d3ca8f68df0d95c2f77f86" title="qtwebapp::HttpRequest\l::decodeRequestParams" alt="" coords="213,5,380,47"/>
+<area shape="rect" id="node4" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a4c267d75203f7c4973895e3c1b6e91a4" title="qtwebapp::HttpRequest\l::extractCookies" alt="" coords="217,71,377,112"/>
+<area shape="rect" id="node6" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a417f31e015e94ae7bd1cc04fe7570bae" title="qtwebapp::HttpRequest\l::readBody" alt="" coords="217,136,377,177"/>
+<area shape="rect" id="node8" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#ac993a017763e58707ccd2b4fc55d10f1" title="qtwebapp::HttpRequest\l::readHeader" alt="" coords="217,201,377,243"/>
+<area shape="rect" id="node9" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a0560e70e04d42f5ead4c54c9814852fb" title="qtwebapp::HttpRequest\l::readRequest" alt="" coords="217,267,377,308"/>
+<area shape="rect" id="node3" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a83651afcea6094403fb7cdb2d947cd0c" title="qtwebapp::HttpRequest\l::urlDecode" alt="" coords="428,5,588,47"/>
+<area shape="rect" id="node5" href="$d1/de3/classqtwebapp_1_1HttpCookie.html#a90009f1b886162d08cc7ead31d6d8209" title="qtwebapp::HttpCookie\l::splitCSV" alt="" coords="432,71,584,112"/>
+<area shape="rect" id="node7" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a91d8962f6d72755810b632f88a59016a" title="qtwebapp::HttpRequest\l::parseMultiPartFile" alt="" coords="428,136,588,177"/>
+</map>

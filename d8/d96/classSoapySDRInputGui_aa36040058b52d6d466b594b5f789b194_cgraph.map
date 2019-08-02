@@ -1,0 +1,143 @@
+<map id="SoapySDRInputGui::SoapySDRInputGui" name="SoapySDRInputGui::SoapySDRInputGui">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#a9385654c90982b0f79ae8e7765a85bb2" title="SoapySDRInputGui::bandwidth\lChanged" alt="" coords="320,889,524,930"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a868ab9f107250956a99c440943eb7b0a" title="SoapySDRInputGui::sendSettings" alt="" coords="877,1187,1099,1214"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#a24d99eee2f22c6ec1888e20203bc6a14" title="SoapySDRInputGui::create\lAntennasControl" alt="" coords="331,358,513,400"/>
+<area shape="rect" id="node10" href="$d8/d96/classSoapySDRInputGui.html#a1e25c19827fc003e70dfb11f7a1c3452" title="SoapySDRInputGui::create\lArgumentsControl" alt="" coords="331,696,513,737"/>
+<area shape="rect" id="node24" href="$d8/d96/classSoapySDRInputGui.html#a51adb6a9831bd6eb67680cbbd98b68fe" title="SoapySDRInputGui::create\lCorrectionsControl" alt="" coords="331,1541,513,1582"/>
+<area shape="rect" id="node46" href="$d8/d96/classSoapySDRInputGui.html#a2fccb3784041f80468da9be403c8e96d" title="SoapySDRInputGui::create\lGlobalGainControl" alt="" coords="331,2252,513,2293"/>
+<area shape="rect" id="node54" href="$d8/d96/classSoapySDRInputGui.html#a192c6d509f82f229621f5eff6d3e79db" title="SoapySDRInputGui::create\lIndividualGainsControl" alt="" coords="331,2504,513,2545"/>
+<area shape="rect" id="node56" href="$d8/d96/classSoapySDRInputGui.html#aee6c0b5be566f209498246ab6f644207" title="SoapySDRInputGui::create\lRangesControl" alt="" coords="613,3344,795,3385"/>
+<area shape="rect" id="node64" href="$d8/d96/classSoapySDRInputGui.html#a2ecd69c2ca8cceb4addaff1fd03d2b75" title="SoapySDRInputGui::create\lTunableElementsControl" alt="" coords="331,3266,513,3308"/>
+<area shape="rect" id="node66" href="$d8/d96/classSoapySDRInputGui.html#adccecfb2a2c4fb076891015f7efcaef4" title="SoapySDRInputGui::display\lSettings" alt="" coords="895,3468,1081,3509"/>
+<area shape="rect" id="node81" href="$da/d65/classSoapySDRInput.html#adcfe4c8d9e1bc6c4fc557b9f0e5eafd6" title="SoapySDRInput::getAntennas" alt="" coords="323,2678,521,2704"/>
+<area shape="rect" id="node82" href="$da/d65/classSoapySDRInput.html#aa6ffd02c08353ef42ff0a2116f086194" title="SoapySDRInput::getBandwidth\lRanges" alt="" coords="320,2804,524,2845"/>
+<area shape="rect" id="node83" href="$da/d65/classSoapySDRInput.html#adf38a41ad83d3831e3ebfdf85b924a60" title="SoapySDRInput::getDevice\lArgInfoList" alt="" coords="330,4144,514,4185"/>
+<area shape="rect" id="node85" href="$da/d65/classSoapySDRInput.html#a882f0a877b2d23b176fe3a3a16b280c5" title="SoapySDRInput::getFrequency\lRange" alt="" coords="320,2934,524,2976"/>
+<area shape="rect" id="node86" href="$da/d65/classSoapySDRInput.html#a9e908d1852be0ec263ee222520976aca" title="SoapySDRInput::getIndividual\lGainsRanges" alt="" coords="323,2058,521,2100"/>
+<area shape="rect" id="node87" href="$da/d65/classSoapySDRInput.html#a88deea3f5bf6c096f2ce89a02da28459" title="SoapySDRInput::getRateRanges" alt="" coords="314,3066,530,3092"/>
+<area shape="rect" id="node88" href="$dd/db6/classDeviceAPI.html#a21b67655f61be838b73d4df898f18a56" title="Return pointer to the device sample source (single Rx) or nullptr. " alt="" coords="324,4210,520,4236"/>
+<area shape="rect" id="node90" href="$da/d65/classSoapySDRInput.html#aacab40d33ce5792373e83d1b338d69ae" title="SoapySDRInput::getStream\lArgInfoList" alt="" coords="329,3117,515,3158"/>
+<area shape="rect" id="node91" href="$da/d65/classSoapySDRInput.html#a803f6acee4b08583bc2eaedef07c64b6" title="SoapySDRInput::getTunable\lElements" alt="" coords="327,3182,517,3224"/>
+<area shape="rect" id="node92" href="$d8/d96/classSoapySDRInputGui.html#a87af02cdba51b85ff3243d641b406968" title="SoapySDRInputGui::handle\lInputMessages" alt="" coords="331,3765,513,3806"/>
+<area shape="rect" id="node111" href="$da/d65/classSoapySDRInput.html#aa6cd0f3e0150678d2467e33ac21a2953" title="SoapySDRInput::initDevice\lArgSettings" alt="" coords="331,4078,513,4120"/>
+<area shape="rect" id="node112" href="$da/d65/classSoapySDRInput.html#ac050edefb016815133e4dda2de878b49" title="SoapySDRInput::initGainSettings" alt="" coords="313,2752,531,2779"/>
+<area shape="rect" id="node114" href="$da/d65/classSoapySDRInput.html#abde34bd270d4545177594f86da4859b0" title="SoapySDRInput::initStream\lArgSettings" alt="" coords="330,3000,514,3041"/>
+<area shape="rect" id="node115" href="$da/d65/classSoapySDRInput.html#a57682e7badf6c339843cbaf87da66adf" title="SoapySDRInput::initTunable\lElementsSettings" alt="" coords="328,2869,516,2910"/>
+<area shape="rect" id="node117" href="$d8/d96/classSoapySDRInputGui.html#a8b2edc08e36054c2e38c4ef0fb6eb957" title="SoapySDRInputGui::openDevice\lSettingsDialog" alt="" coords="597,190,811,232"/>
+<area shape="rect" id="node126" href="$d8/d96/classSoapySDRInputGui.html#a3f26d159345ab6ff592064daf14d6917" title="SoapySDRInputGui::sample\lRateChanged" alt="" coords="329,954,515,996"/>
+<area shape="rect" id="node127" href="$da/d65/classSoapySDRInput.html#ac84d138e485e79ad2d28fefc3e01b438" title="SoapySDRInput::setMessage\lQueueToGUI" alt="" coords="324,4261,520,4302"/>
+<area shape="rect" id="node128" href="$d8/d96/classSoapySDRInputGui.html#a8c8b5c3daff434af12d99ca7eafe768b" title="SoapySDRInputGui::update\lHardware" alt="" coords="330,4013,514,4054"/>
+<area shape="rect" id="node131" href="$d8/d96/classSoapySDRInputGui.html#ab838a9b9c5890868725806b696615d28" title="SoapySDRInputGui::update\lStatus" alt="" coords="330,4326,514,4368"/>
+<area shape="rect" id="node5" href="$d9/d7a/classStringRangeGUI.html#a2ab56f3c01396555e5ecd0720b84971e" title="StringRangeGUI::setLabel" alt="" coords="617,256,791,283"/>
+<area shape="rect" id="node6" href="$d9/d7a/classStringRangeGUI.html#a7d01c5ff0473dbffa155cb733b5f0d63" title="StringRangeGUI::setUnits" alt="" coords="617,307,791,334"/>
+<area shape="rect" id="node7" href="$d9/d7a/classStringRangeGUI.html#aff6abe1233432734227537328d1d2a52" title="StringRangeGUI::addItem" alt="" coords="617,424,791,451"/>
+<area shape="rect" id="node8" href="$d8/d96/classSoapySDRInputGui.html#a482882446580527d8e957aae9a73a4ac" title="SoapySDRInputGui::antennas\lChanged" alt="" coords="605,358,803,400"/>
+<area shape="rect" id="node9" href="$d9/d7a/classStringRangeGUI.html#ab73718bf5598093be1532f5e49d303ec" title="StringRangeGUI::getCurrent\lValue" alt="" coords="895,504,1081,545"/>
+<area shape="rect" id="node11" href="$dd/d2f/classArgInfoGUI.html#abac37cf08acbfacabce0f2c5f66baa57" title="ArgInfoGUI::addIntValue" alt="" coords="621,728,787,755"/>
+<area shape="rect" id="node13" href="$dd/d2f/classArgInfoGUI.html#a8d321367786390cb3409dac4f0e3166c" title="ArgInfoGUI::addFloatValue" alt="" coords="615,678,793,704"/>
+<area shape="rect" id="node15" href="$dd/d2f/classArgInfoGUI.html#af43357cbc7e5c6734256d3158968f717" title="ArgInfoGUI::addStringValue" alt="" coords="612,526,796,552"/>
+<area shape="rect" id="node16" href="$dd/d2f/classArgInfoGUI.html#ad5c49708a9555daad75b01698dda80be" title="ArgInfoGUI::setRange" alt="" coords="628,1456,780,1483"/>
+<area shape="rect" id="node19" href="$dd/d2f/classArgInfoGUI.html#abaf3cc2fd3cb6e6eea116591a8919317" title="ArgInfoGUI::setLabel" alt="" coords="631,576,777,603"/>
+<area shape="rect" id="node20" href="$dd/d2f/classArgInfoGUI.html#a6961e4f76b9f346ed5d3990c52e2cffa" title="ArgInfoGUI::setUnits" alt="" coords="631,627,777,654"/>
+<area shape="rect" id="node21" href="$dd/d2f/classArgInfoGUI.html#a1d6b945733f838f013d6968a98215ae5" title="ArgInfoGUI::setToolTip" alt="" coords="625,475,783,502"/>
+<area shape="rect" id="node22" href="$d8/d96/classSoapySDRInputGui.html#a5cc8c61d15056735d748c7c1b6411d44" title="SoapySDRInputGui::device\lArgChanged" alt="" coords="613,780,795,821"/>
+<area shape="rect" id="node23" href="$d8/d96/classSoapySDRInputGui.html#aa4a88201b91ecb9caf997ec6cc561170" title="SoapySDRInputGui::stream\lArgChanged" alt="" coords="611,845,797,886"/>
+<area shape="rect" id="node12" href="$dd/d2f/classArgInfoGUI.html#a8a24b348503c65c711e76a69594c4612" title="ArgInfoGUI::setIntegerValue" alt="" coords="895,728,1081,755"/>
+<area shape="rect" id="node14" href="$dd/d2f/classArgInfoGUI.html#a32ab6ce189d627a4fe11a1cc01dc1376" title="ArgInfoGUI::setDoubleValue" alt="" coords="894,678,1082,704"/>
+<area shape="rect" id="node17" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="939,2171,1037,2198"/>
+<area shape="rect" id="node18" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="941,1788,1035,1815"/>
+<area shape="rect" id="node25" href="$da/d65/classSoapySDRInput.html#a2efe24c653ea12be551ec267f8c03005" title="SoapySDRInput::hasDCCorrection\lValue" alt="" coords="591,1638,817,1680"/>
+<area shape="rect" id="node27" href="$d0/d5a/classComplexFactorGUI.html#a72ada8570188238fc30d5f29a2872000" title="ComplexFactorGUI::setLabel" alt="" coords="608,1704,800,1731"/>
+<area shape="rect" id="node28" href="$d0/d5a/classComplexFactorGUI.html#ae41bbcc58e7b2ed026a1fb5d84e3c623" title="ComplexFactorGUI::setToolTip" alt="" coords="602,1755,806,1782"/>
+<area shape="rect" id="node29" href="$d0/d5a/classComplexFactorGUI.html#a783f6ec8bd740a2814dd380470fa89b2" title="ComplexFactorGUI::setAutomatic\lEnable" alt="" coords="594,1806,814,1848"/>
+<area shape="rect" id="node30" href="$da/d65/classSoapySDRInput.html#aec40e9add588edb02c73174c8754d3e7" title="SoapySDRInput::hasDCAuto\lCorrection" alt="" coords="607,1508,801,1549"/>
+<area shape="rect" id="node31" href="$d8/d96/classSoapySDRInputGui.html#aa1fed0e143e7ea01ec0f147c5a786945" title="SoapySDRInputGui::dcCorrection\lModuleChanged" alt="" coords="595,1064,813,1105"/>
+<area shape="rect" id="node37" href="$d8/d96/classSoapySDRInputGui.html#aa3186209125ff054219e7f58fa8be0e4" title="SoapySDRInputGui::dcCorrection\lArgumentChanged" alt="" coords="595,1390,813,1432"/>
+<area shape="rect" id="node40" href="$d8/d96/classSoapySDRInputGui.html#ad526e17cbdace7b544736c30499a7598" title="SoapySDRInputGui::autoDCCorrection\lChanged" alt="" coords="579,1260,829,1301"/>
+<area shape="rect" id="node41" href="$da/d65/classSoapySDRInput.html#afc33a436d1b55893cc81d7b014fb2158" title="SoapySDRInput::hasIQCorrection\lValue" alt="" coords="594,1573,814,1614"/>
+<area shape="rect" id="node42" href="$da/d65/classSoapySDRInput.html#a7d276f459bb2be920aa3c7b8ebdd88b5" title="SoapySDRInput::hasIQAuto\lCorrection" alt="" coords="611,1872,797,1913"/>
+<area shape="rect" id="node43" href="$d8/d96/classSoapySDRInputGui.html#ac6e2a55ff30d831fa0885066d61685e2" title="SoapySDRInputGui::iqCorrection\lModuleChanged" alt="" coords="597,1129,811,1170"/>
+<area shape="rect" id="node44" href="$d8/d96/classSoapySDRInputGui.html#a9db72504449f3f039bdfdf5b661c3048" title="SoapySDRInputGui::iqCorrection\lArgumentChanged" alt="" coords="597,1325,811,1366"/>
+<area shape="rect" id="node45" href="$d8/d96/classSoapySDRInputGui.html#a2f58e313157cc6055cd4adbca811480e" title="SoapySDRInputGui::autoIQCorrection\lChanged" alt="" coords="582,1194,826,1236"/>
+<area shape="rect" id="node26" href="$df/d0d/classDeviceSoapySDRParams.html#a6a33ea2d7bbfaef69fc75ca280f8ab2a" title="DeviceSoapySDRParams\l::getRxChannelSettings" alt="" coords="901,2696,1075,2737"/>
+<area shape="rect" id="node32" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1697,2935,1737,2962"/>
+<area shape="rect" id="node33" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1807,2935,1915,2962"/>
+<area shape="rect" id="node34" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1963,2957,2111,2998"/>
+<area shape="rect" id="node35" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="2167,2906,2285,2932"/>
+<area shape="rect" id="node36" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="2159,2957,2293,2998"/>
+<area shape="rect" id="node38" href="$dd/d58/fixed_8h.html#a8f22b20379bd986a21335100e02cc7db" title="abs" alt="" coords="1497,1398,1539,1424"/>
+<area shape="rect" id="node39" href="$dd/d7b/classFixed.html#a62cb73f2f5151a99b8d3206136e9c951" title="Fixed::abs" alt="" coords="1676,1398,1759,1424"/>
+<area shape="rect" id="node47" href="$da/d65/classSoapySDRInput.html#a87d9cef2e45cf686e7f44704e02c29cd" title="SoapySDRInput::getGlobal\lGainRange" alt="" coords="614,2222,794,2264"/>
+<area shape="rect" id="node48" href="$dd/d21/classIntervalSliderGUI.html#ad009bf880e061664cdf8145fde5982f2" title="IntervalSliderGUI::\lsetInterval" alt="" coords="639,2405,769,2446"/>
+<area shape="rect" id="node49" href="$dd/d21/classIntervalSliderGUI.html#a1c53695335e4000cf93841249d8aea03" title="IntervalSliderGUI::\lsetLabel" alt="" coords="639,2470,769,2512"/>
+<area shape="rect" id="node50" href="$dd/d21/classIntervalSliderGUI.html#adcfbada5a9a220992bb12316ea05a49c" title="IntervalSliderGUI::\lsetUnits" alt="" coords="639,2340,769,2381"/>
+<area shape="rect" id="node51" href="$da/d65/classSoapySDRInput.html#a2d13d8f2100891801fc71ac7a30aa8e1" title="SoapySDRInput::isAGCSupported" alt="" coords="593,2288,815,2315"/>
+<area shape="rect" id="node52" href="$d8/d96/classSoapySDRInputGui.html#a93cdc80d15747169f07fe6329c289a7c" title="SoapySDRInputGui::autoGain\lChanged" alt="" coords="605,1989,803,2030"/>
+<area shape="rect" id="node53" href="$d8/d96/classSoapySDRInputGui.html#a6df590c0535b81a33326c4e4e346bb4a" title="SoapySDRInputGui::global\lGainChanged" alt="" coords="615,2054,793,2096"/>
+<area shape="rect" id="node55" href="$d8/d96/classSoapySDRInputGui.html#a237a4ae11094c7bc5a28261f78994baa" title="SoapySDRInputGui::individual\lGainChanged" alt="" coords="605,2536,803,2577"/>
+<area shape="rect" id="node57" href="$d2/d5c/classDiscreteRangeGUI.html#a22a16e8b45bee01ff804436d78b026a5" title="DiscreteRangeGUI::setLabel" alt="" coords="893,3214,1083,3240"/>
+<area shape="rect" id="node58" href="$d2/d5c/classDiscreteRangeGUI.html#a8ed553cfd629bd0098d7da2a0e18e447" title="DiscreteRangeGUI::setUnits" alt="" coords="893,3264,1083,3291"/>
+<area shape="rect" id="node59" href="$d2/d5c/classDiscreteRangeGUI.html#a0ca997c971434eb683ef26e652179776" title="DiscreteRangeGUI::addItem" alt="" coords="894,3011,1082,3038"/>
+<area shape="rect" id="node60" href="$d3/d32/classIntervalRangeGUI.html#a3f159426fc54c89afe5a19e96bc04e14" title="IntervalRangeGUI::setLabel" alt="" coords="896,3062,1080,3088"/>
+<area shape="rect" id="node61" href="$d3/d32/classIntervalRangeGUI.html#a276e4b70280c6ed6b9000f8b342d15b2" title="IntervalRangeGUI::setUnits" alt="" coords="896,3112,1080,3139"/>
+<area shape="rect" id="node62" href="$d3/d32/classIntervalRangeGUI.html#a27ba6df48e6484c381b2e8c23551634a" title="IntervalRangeGUI::addInterval" alt="" coords="1419,2960,1617,2987"/>
+<area shape="rect" id="node63" href="$d3/d32/classIntervalRangeGUI.html#a8bccb60fdd6aaf8abaf2600a6d9af320" title="IntervalRangeGUI::reset" alt="" coords="906,3163,1070,3190"/>
+<area shape="rect" id="node65" href="$d8/d96/classSoapySDRInputGui.html#a7f66196fb2818d55387b90ff0f07c04b" title="SoapySDRInputGui::tunable\lElementChanged" alt="" coords="611,3226,797,3268"/>
+<area shape="rect" id="node67" href="$d8/d96/classSoapySDRInputGui.html#afe95ce7710d0bc8b3bc478176ee4edf1" title="SoapySDRInputGui::blockApply\lSettings" alt="" coords="1149,3660,1358,3701"/>
+<area shape="rect" id="node68" href="$d9/d7a/classStringRangeGUI.html#ae8858bd8a66452fe38abc236c7d704e3" title="StringRangeGUI::setValue" alt="" coords="1165,3390,1342,3416"/>
+<area shape="rect" id="node69" href="$dc/da1/classItemSettingGUI.html#a741770ae3bb9d6a78adb3b3c933da5aa" title="ItemSettingGUI::setValue" alt="" coords="1167,3440,1339,3467"/>
+<area shape="rect" id="node70" href="$dc/da1/classItemSettingGUI.html#ae4a56f7401a42038ec4b109379c0e52d" title="ItemSettingGUI::getCurrent\lValue" alt="" coords="1162,3062,1345,3104"/>
+<area shape="rect" id="node71" href="$dd/d21/classIntervalSliderGUI.html#ac39456f75ff3f74ee91d0a1ac6fd03d7" title="IntervalSliderGUI::\lsetValue" alt="" coords="1453,3609,1583,3650"/>
+<area shape="rect" id="node72" href="$dd/d21/classIntervalSliderGUI.html#a6e8604ad6bd922ecb8552ae7e79f1c43" title="IntervalSliderGUI::\lgetCurrentValue" alt="" coords="1188,3128,1319,3169"/>
+<area shape="rect" id="node73" href="$d8/d96/classSoapySDRInputGui.html#ad6df599c0539b689dc41137893387415" title="SoapySDRInputGui::display\lTunableElementsControlSettings" alt="" coords="1147,3193,1360,3234"/>
+<area shape="rect" id="node74" href="$d8/d96/classSoapySDRInputGui.html#a2424c5b6cc3673768841a3e93aa75649" title="SoapySDRInputGui::display\lIndividualGainsControlSettings" alt="" coords="1153,3258,1354,3300"/>
+<area shape="rect" id="node75" href="$d8/d96/classSoapySDRInputGui.html#aa0c1d18f5d4517927a0e9588c3b6480f" title="SoapySDRInputGui::display\lCorrectionsSettings" alt="" coords="1160,3492,1347,3533"/>
+<area shape="rect" id="node79" href="$d8/d96/classSoapySDRInputGui.html#a34d3824eafe6cf48c18d5d7607af251a" title="SoapySDRInputGui::display\lStreamArgsSettings" alt="" coords="1160,3324,1347,3365"/>
+<area shape="rect" id="node80" href="$d8/d96/classSoapySDRInputGui.html#a217b4124302d401800c9085cee5e749c" title="SoapySDRInputGui::display\lDeviceArgsSettings" alt="" coords="1160,3725,1347,3766"/>
+<area shape="rect" id="node76" href="$d0/d5a/classComplexFactorGUI.html#a34e3cf8a5de10a3b17b9405eb17759fb" title="ComplexFactorGUI::setAutomatic" alt="" coords="1408,3347,1628,3374"/>
+<area shape="rect" id="node77" href="$d0/d5a/classComplexFactorGUI.html#a30f3ec3e938ccfd9cd76a89a0281d5b8" title="ComplexFactorGUI::setModule" alt="" coords="1417,3499,1619,3526"/>
+<area shape="rect" id="node78" href="$d0/d5a/classComplexFactorGUI.html#a8a705f668825d38f6b8922f8829c6ea1" title="ComplexFactorGUI::setArgument" alt="" coords="1409,3398,1627,3424"/>
+<area shape="rect" id="node84" href="$df/d0d/classDeviceSoapySDRParams.html#a837c53b37f3c321e35dbf8599bd2cd37" title="DeviceSoapySDRParams\l::getDeviceArgs" alt="" coords="617,4198,791,4240"/>
+<area shape="rect" id="node89" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="618,4264,790,4305"/>
+<area shape="rect" id="node93" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="633,3914,775,3940"/>
+<area shape="rect" id="node94" href="$d6/d28/classMessage.html#a607a4adf44d727623cc9eaf8bdadd91a" title="Message::getIdentifier" alt="" coords="629,3964,779,3991"/>
+<area shape="rect" id="node95" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="929,4096,1047,4123"/>
+<area shape="rect" id="node97" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="628,3732,780,3773"/>
+<area shape="rect" id="node98" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="628,3797,780,3838"/>
+<area shape="rect" id="node99" href="$d8/d96/classSoapySDRInputGui.html#a940070cb99cc55a619100fc5ca86a199" title="SoapySDRInputGui::update\lSampleRateAndFrequency" alt="" coords="612,3409,796,3450"/>
+<area shape="rect" id="node104" href="$d8/d96/classSoapySDRInputGui.html#ac64da51534c567f2e5af1b5f4676cb28" title="SoapySDRInputGui::handle\lMessage" alt="" coords="613,3666,795,3708"/>
+<area shape="rect" id="node96" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1169,4096,1338,4123"/>
+<area shape="rect" id="node100" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="899,3416,1077,3443"/>
+<area shape="rect" id="node101" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="891,3534,1085,3560"/>
+<area shape="rect" id="node103" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="877,3366,1099,3392"/>
+<area shape="rect" id="node102" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1179,3918,1328,3944"/>
+<area shape="rect" id="node105" href="$da/d2e/classSoapySDRInput_1_1MsgConfigureSoapySDRInput.html#a615583bb4b754f1d028de357dcaf8b91" title="SoapySDRInput::MsgConfigure\lSoapySDRInput::getSettings" alt="" coords="885,3965,1091,4006"/>
+<area shape="rect" id="node106" href="$d8/dde/classSoapySDRInput_1_1MsgReportGainChange.html#ae25cf465acb43cebfbae911b93e2e091" title="SoapySDRInput::MsgReport\lGainChange::getSettings" alt="" coords="893,4030,1083,4072"/>
+<area shape="rect" id="node107" href="$d8/dde/classSoapySDRInput_1_1MsgReportGainChange.html#a362d9a71bae4cfbe1c1590c466064425" title="SoapySDRInput::MsgReport\lGainChange::getGlobalGain" alt="" coords="893,3585,1083,3626"/>
+<area shape="rect" id="node108" href="$d8/dde/classSoapySDRInput_1_1MsgReportGainChange.html#a4cb767e650a86b895730277925c4232b" title="SoapySDRInput::MsgReport\lGainChange::getIndividualGains" alt="" coords="883,3753,1093,3794"/>
+<area shape="rect" id="node109" href="$d1/d05/classDeviceSoapySDRShared_1_1MsgReportDeviceArgsChange.html#a4faf04fd23c2d7f7d0444329da7eb80d" title="DeviceSoapySDRShared\l::MsgReportDeviceArgsChange\l::getDeviceArgSettings" alt="" coords="885,3819,1091,3875"/>
+<area shape="rect" id="node110" href="$dd/dcf/classSoapySDRInput_1_1MsgStartStop.html#a7d33850837a2d468ca9bc505d1698923" title="SoapySDRInput::MsgStartStop\l::getStartStop" alt="" coords="885,3900,1091,3941"/>
+<area shape="rect" id="node113" href="$da/d65/classSoapySDRInput.html#a126a594203ea6616c6ce81d3663fbe89" title="SoapySDRInput::updateGains" alt="" coords="605,2754,803,2780"/>
+<area shape="rect" id="node116" href="$da/d65/classSoapySDRInput.html#a9b9051b076a430797023cdb38f39b97a" title="SoapySDRInput::updateTunable\lElements" alt="" coords="599,2906,809,2948"/>
+<area shape="rect" id="node118" href="$dd/d41/classBasicDeviceSettingsDialog.html#a620777e513db5769113671f437eb92df" title="BasicDeviceSettingsDialog\l::setUseReverseAPI" alt="" coords="897,308,1079,349"/>
+<area shape="rect" id="node119" href="$dd/d41/classBasicDeviceSettingsDialog.html#a515540601bb272d9a04b9f048f912ad6" title="BasicDeviceSettingsDialog\l::useReverseAPI" alt="" coords="1163,278,1344,320"/>
+<area shape="rect" id="node120" href="$dd/d41/classBasicDeviceSettingsDialog.html#a2336847621183281351768eb2b807bd5" title="BasicDeviceSettingsDialog\l::setReverseAPIAddress" alt="" coords="897,373,1079,414"/>
+<area shape="rect" id="node121" href="$dd/d41/classBasicDeviceSettingsDialog.html#a354a53bfe121fccc20ef67ca2d460402" title="BasicDeviceSettingsDialog\l::setReverseAPIPort" alt="" coords="1427,249,1609,290"/>
+<area shape="rect" id="node122" href="$dd/d41/classBasicDeviceSettingsDialog.html#a868a115f83061f3f1f97125c52f5caf2" title="BasicDeviceSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="1422,548,1614,589"/>
+<area shape="rect" id="node123" href="$dd/d41/classBasicDeviceSettingsDialog.html#a4f0da112a518f3aacaa69639f8f6f527" title="BasicDeviceSettingsDialog\l::getReverseAPIAddress" alt="" coords="897,438,1079,480"/>
+<area shape="rect" id="node124" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9e97aa1103eb0b3564ca02a9c836a952" title="BasicDeviceSettingsDialog\l::getReverseAPIPort" alt="" coords="897,125,1079,166"/>
+<area shape="rect" id="node125" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9dc629d97e53555fb3f1df907f9bf490" title="BasicDeviceSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="892,190,1084,232"/>
+<area shape="rect" id="node129" href="$da/d2e/classSoapySDRInput_1_1MsgConfigureSoapySDRInput.html#a5567c7f2e0386aab09be167064732179" title="SoapySDRInput::MsgConfigure\lSoapySDRInput::create" alt="" coords="601,4081,807,4122"/>
+<area shape="rect" id="node130" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="620,4016,788,4057"/>
+<area shape="rect" id="node132" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="643,4332,765,4359"/>
+<area shape="rect" id="node136" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="618,4466,790,4492"/>
+<area shape="rect" id="node133" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="902,4360,1074,4401"/>
+<area shape="rect" id="node134" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="909,4229,1067,4270"/>
+<area shape="rect" id="node135" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="905,4294,1071,4336"/>
+<area shape="rect" id="node137" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="902,4425,1074,4466"/>
+<area shape="rect" id="node140" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="909,4490,1067,4532"/>
+<area shape="rect" id="node141" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="905,4556,1071,4597"/>
+<area shape="rect" id="node138" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="1177,4428,1329,4469"/>
+<area shape="rect" id="node139" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1164,4498,1343,4524"/>
+<area shape="rect" id="node142" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="1160,4548,1347,4604"/>
+</map>

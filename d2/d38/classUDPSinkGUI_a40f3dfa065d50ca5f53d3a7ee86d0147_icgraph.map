@@ -1,0 +1,11 @@
+<map id="UDPSinkGUI::blockApplySettings" name="UDPSinkGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a448967ba9f7e5eff78cbcfda0d985d6f" title="UDPSinkGUI::displaySettings" alt="" coords="275,95,473,122"/>
+<area shape="rect" id="node5" href="$d2/d38/classUDPSinkGUI.html#ae9da3a3f2a4938878f5ca82ce9dfdba0" title="UDPSinkGUI::handleMessage" alt="" coords="523,146,723,173"/>
+<area shape="rect" id="node3" href="$d2/d38/classUDPSinkGUI.html#a2c5a07580fe9e60650bd090e387a1919" title="UDPSinkGUI::resetToDefaults" alt="" coords="521,45,724,71"/>
+<area shape="rect" id="node4" href="$d2/d38/classUDPSinkGUI.html#a75a5e77479a21892e6768899c662c016" title="UDPSinkGUI::deserialize" alt="" coords="781,55,951,82"/>
+<area shape="rect" id="node7" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1008,81,1196,107"/>
+<area shape="rect" id="node6" href="$d2/d38/classUDPSinkGUI.html#af55651e46e26ae03aeabe589f7e27752" title="UDPSinkGUI::handleSource\lMessages" alt="" coords="772,128,960,169"/>
+<area shape="rect" id="node8" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1244,81,1389,107"/>
+<area shape="rect" id="node9" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1437,81,1684,107"/>
+<area shape="rect" id="node10" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1732,81,1907,107"/>
+</map>

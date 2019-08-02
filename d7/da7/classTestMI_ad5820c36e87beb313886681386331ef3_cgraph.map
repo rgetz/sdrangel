@@ -1,0 +1,11 @@
+<map id="TestMI::webapiFormatDeviceSettings" name="TestMI::webapiFormatDeviceSettings">
+<area shape="rect" id="node2" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a9282510bc1d2cd037a8a0be006a29bd0" title="SWGSDRangel::SWGTestMISettings\l::getFileRecordName" alt="" coords="248,5,491,47"/>
+<area shape="rect" id="node3" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a75601166783d9bbd2420dd85569e1300" title="SWGSDRangel::SWGTestMISettings\l::getReverseApiAddress" alt="" coords="248,71,491,112"/>
+<area shape="rect" id="node4" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a5e9fae24b951dfc13384456bb55ca729" title="SWGSDRangel::SWGTestMISettings\l::getStreams" alt="" coords="248,136,491,177"/>
+<area shape="rect" id="node5" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a73dec0ee2b47a20d78107afc3fd6c9b7" title="SWGSDRangel::SWGDeviceSettings\l::getTestMiSettings" alt="" coords="248,201,491,243"/>
+<area shape="rect" id="node6" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a609bc48354ff6673901ff9b6fab3cb47" title="SWGSDRangel::SWGTestMISettings\l::setFileRecordName" alt="" coords="248,267,491,308"/>
+<area shape="rect" id="node7" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#aa7e18b2af9488e58471c68b232af1361" title="SWGSDRangel::SWGTestMISettings\l::setReverseApiAddress" alt="" coords="248,332,491,373"/>
+<area shape="rect" id="node8" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a8cdd93fc1ab0c2f9d77650eb82c4dbd8" title="SWGSDRangel::SWGTestMISettings\l::setReverseApiDeviceIndex" alt="" coords="248,397,491,439"/>
+<area shape="rect" id="node9" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a833c1abea1f66fb9c45342957486ab78" title="SWGSDRangel::SWGTestMISettings\l::setReverseApiPort" alt="" coords="248,463,491,504"/>
+<area shape="rect" id="node10" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a3808beb71cce1e0a7a5456f084697ee4" title="SWGSDRangel::SWGTestMISettings\l::setUseReverseApi" alt="" coords="248,528,491,569"/>
+</map>

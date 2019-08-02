@@ -1,0 +1,12 @@
+<map id="LocalSourceGUI::applyInterpolation" name="LocalSourceGUI::applyInterpolation">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a4c41ee4c78fdb3cc6d631e5378011a08" title="LocalSourceGUI::displaySettings" alt="" coords="281,81,496,108"/>
+<area shape="rect" id="node11" href="$d5/df2/classLocalSourceGUI.html#ab9582e4cad88c53bcbf2e72b95fb1777" title="LocalSourceGUI::on\l_interpolationFactor\l_currentIndexChanged" alt="" coords="312,132,465,188"/>
+<area shape="rect" id="node3" href="$d5/df2/classLocalSourceGUI.html#ac98d8ce65ffab3dbef5e77b6e3c66259" title="LocalSourceGUI::resetToDefaults" alt="" coords="544,5,763,32"/>
+<area shape="rect" id="node4" href="$d5/df2/classLocalSourceGUI.html#a90334c6bdb5d84f8cadcbb06bc11ca65" title="LocalSourceGUI::deserialize" alt="" coords="819,25,1007,52"/>
+<area shape="rect" id="node5" href="$d5/df2/classLocalSourceGUI.html#a42860abe193784ee791bf826aff77c4a" title="LocalSourceGUI::handleMessage" alt="" coords="545,107,762,133"/>
+<area shape="rect" id="node7" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="1064,132,1287,159"/>
+<area shape="rect" id="node6" href="$d5/df2/classLocalSourceGUI.html#a85c16136d557f058b5687f1441e8582f" title="LocalSourceGUI::handleSource\lMessages" alt="" coords="811,95,1016,137"/>
+<area shape="rect" id="node8" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1335,132,1497,159"/>
+<area shape="rect" id="node9" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1545,125,1691,166"/>
+<area shape="rect" id="node10" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1739,125,1877,166"/>
+</map>

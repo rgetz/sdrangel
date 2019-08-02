@@ -1,0 +1,12 @@
+<map id="RemoteSource::RemoteSource" name="RemoteSource::RemoteSource">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#ab843437dfe39ff077923d0a5f8a86504" title="Add a channel source (Tx) " alt="" coords="269,17,471,43"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#abe9434ae5ab458cd225b90e470beea8f" title="DeviceAPI::addChannelSourceAPI" alt="" coords="257,71,483,98"/>
+<area shape="rect" id="node7" href="$de/dd9/classRemoteSource.html#a95478e6cccc47f96477917b8ebd513c6" title="RemoteSource::handleData" alt="" coords="279,122,461,149"/>
+<area shape="rect" id="node10" href="$d3/d19/structRemoteMetaDataFEC.html#aecc612c94d83cca146ebce5d9368ea83" title="RemoteMetaDataFEC::init" alt="" coords="281,173,459,199"/>
+<area shape="rect" id="node11" href="$de/dd9/classRemoteSource.html#a33517ea8617c0aad1f867271ec1390f0" title="RemoteSource::networkManager\lFinished" alt="" coords="263,224,477,265"/>
+<area shape="rect" id="node3" href="$d1/d90/classDSPDeviceSinkEngine.html#add7dc0f3dbe9265ebefec89ed197feac" title="Add a baseband sample source that will run on its own thread. " alt="" coords="559,5,716,47"/>
+<area shape="rect" id="node4" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="792,13,971,39"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="531,71,744,98"/>
+<area shape="rect" id="node8" href="$d4/d6a/classRemoteDataQueue.html#a711f13187f45e3d49a7248f3d55ff4f8" title="Pop message from queue. " alt="" coords="556,122,719,149"/>
+<area shape="rect" id="node9" href="$de/dd9/classRemoteSource.html#a66f584da35d629b69a04cc489cb07f2b" title="RemoteSource::handleData\lBlock" alt="" coords="546,173,729,215"/>
+</map>

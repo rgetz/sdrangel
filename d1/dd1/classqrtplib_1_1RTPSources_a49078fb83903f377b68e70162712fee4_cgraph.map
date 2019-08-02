@@ -1,0 +1,7 @@
+<map id="qrtplib::RTPSources::Timeout" name="qrtplib::RTPSources::Timeout">
+<area shape="rect" id="node2" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af321400893809f7e5b4d3edcc51025a5" title="qrtplib::RTPSourceData\l::INF_GetLastMessageTime" alt="" coords="193,5,380,47"/>
+<area shape="rect" id="node3" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a99db0b33429e923c772af539f449861a" title="qrtplib::RTPSourceData\l::IsActive" alt="" coords="206,71,367,112"/>
+<area shape="rect" id="node4" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af28c94111789b1239bc81d1d0b1c4769" title="qrtplib::RTPSourceData\l::IsSender" alt="" coords="206,136,367,177"/>
+<area shape="rect" id="node5" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad6e3d6997a2695efdcc2e21070c93235" title="qrtplib::RTPSources\l::OnRemoveSource" alt="" coords="217,201,357,243"/>
+<area shape="rect" id="node6" href="$d1/dd1/classqrtplib_1_1RTPSources.html#adc0888617ed95e1fd929aec1b198064d" title="qrtplib::RTPSources\l::OnTimeout" alt="" coords="217,267,357,308"/>
+</map>

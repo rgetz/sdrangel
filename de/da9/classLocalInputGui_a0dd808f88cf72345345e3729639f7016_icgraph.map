@@ -1,0 +1,9 @@
+<map id="LocalInputGui::blockApplySettings" name="LocalInputGui::blockApplySettings">
+<area shape="rect" id="node2" href="$de/da9/classLocalInputGui.html#a017ab310d02506061858accc6e7a7e35" title="LocalInputGui::displaySettings" alt="" coords="228,76,427,103"/>
+<area shape="rect" id="node6" href="$de/da9/classLocalInputGui.html#aec933c110a782d8e18563df89b3ca237" title="LocalInputGui::handleMessage" alt="" coords="475,135,677,161"/>
+<area shape="rect" id="node8" href="$de/da9/classLocalInputGui.html#abfa5ee7140c3e480b2ffbe00be8657d2" title="LocalInputGui::updateSample\lRateAndFrequency" alt="" coords="231,178,424,219"/>
+<area shape="rect" id="node3" href="$de/da9/classLocalInputGui.html#aa49090504ca3edd30e1bfa6e844eb379" title="LocalInputGui::LocalInputGui" alt="" coords="951,59,1141,85"/>
+<area shape="rect" id="node4" href="$de/da9/classLocalInputGui.html#a5062b334107e9af2adf7ca409b4686ae" title="LocalInputGui::resetToDefaults" alt="" coords="475,33,677,60"/>
+<area shape="rect" id="node5" href="$de/da9/classLocalInputGui.html#a3c4ab8c40c5adfbe9efb0f6cb7d757d0" title="LocalInputGui::deserialize" alt="" coords="490,84,662,111"/>
+<area shape="rect" id="node7" href="$de/da9/classLocalInputGui.html#a9cb888a352c9b84f66dc9ea2a0ef998e" title="LocalInputGui::handleInput\lMessages" alt="" coords="725,127,903,169"/>
+</map>

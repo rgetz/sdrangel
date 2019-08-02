@@ -1,0 +1,8 @@
+<map id="FileSource::MsgReportFileSourceAcquisition::create" name="FileSource::MsgReportFileSourceAcquisition::create">
+<area shape="rect" id="node2" href="$d9/db6/classFileSource.html#a2a85516ff1741b261f370cdd1cd449b8" title="FileSource::start" alt="" coords="231,37,349,63"/>
+<area shape="rect" id="node7" href="$d9/db6/classFileSource.html#a876cfdb6f54dacef797d807692cd4c5e" title="FileSource::stop" alt="" coords="231,87,349,114"/>
+<area shape="rect" id="node3" href="$d9/db6/classFileSource.html#ac6a5306a4a7b11087d5aab98f7cd1f16" title="FileSource::destroy" alt="" coords="788,62,923,89"/>
+<area shape="rect" id="node4" href="$d9/db6/classFileSource.html#a8988a0909c9c3a891508f2b32c51abb7" title="FileSource::handleEOF" alt="" coords="410,37,567,63"/>
+<area shape="rect" id="node6" href="$d9/db6/classFileSource.html#abe173f556596f7b341e94a605c390243" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="397,87,580,114"/>
+<area shape="rect" id="node5" href="$d9/db6/classFileSource.html#a1e8eec24c8759c18fa47e66b15b1e45d" title="FileSource::pull" alt="" coords="628,37,740,63"/>
+</map>

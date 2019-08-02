@@ -1,0 +1,33 @@
+<map id="UDPSource" name="UDPSource">
+<area shape="rect" id="node2" href="$d9/dfb/classBasebandSampleSource.html" title="BasebandSampleSource" alt="" coords="1156,85,1321,112"/>
+<area shape="rect" id="node23" href="$d5/d82/classUpChannelizer.html" title="UpChannelizer" alt="" coords="1589,90,1697,117"/>
+<area shape="rect" id="node29" href="$da/df6/classThreadedBasebandSampleSource.html" title="ThreadedBasebandSampleSource" alt="" coords="1533,152,1752,178"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,336,127,362"/>
+<area shape="rect" id="node8" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="723,362,889,389"/>
+<area shape="rect" id="node11" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="354,345,497,372"/>
+<area shape="rect" id="node12" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="350,396,501,422"/>
+<area shape="rect" id="node13" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="727,308,885,334"/>
+<area shape="rect" id="node14" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="359,232,492,258"/>
+<area shape="rect" id="node15" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="720,692,892,718"/>
+<area shape="rect" id="node16" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="351,896,499,922"/>
+<area shape="rect" id="node27" href="$d3/d40/classUDPSourceUDPHandler.html" title="UDPSourceUDPHandler" alt="" coords="529,186,696,213"/>
+<area shape="rect" id="node4" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,74,135,101"/>
+<area shape="rect" id="node5" href="$d7/d02/classChannelAPI.html" title="ChannelAPI" alt="" coords="1597,304,1689,330"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1196,356,1281,382"/>
+<area shape="rect" id="node7" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="751,257,861,284"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="367,561,483,588"/>
+<area shape="rect" id="node10" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,717,107,744"/>
+<area shape="rect" id="node17" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,896,127,922"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="345,750,505,791"/>
+<area shape="rect" id="node19" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="355,830,495,871"/>
+<area shape="rect" id="node20" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="350,684,501,726"/>
+<area shape="rect" id="node21" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="740,413,872,440"/>
+<area shape="rect" id="node22" href="$d0/de4/classMovingAverage.html" title="MovingAverage\&lt; double \&gt;" alt="" coords="1555,253,1730,280"/>
+<area shape="rect" id="node24" href="$d0/d9b/structSample.html" title="Sample" alt="" coords="1205,34,1272,61"/>
+<area shape="rect" id="node25" href="$da/daa/structUDPSourceSettings.html" title="UDPSourceSettings" alt="" coords="1573,417,1713,444"/>
+<area shape="rect" id="node26" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="1194,417,1283,444"/>
+<area shape="rect" id="node28" href="$d9/d04/classNCO.html" title="NCO" alt="" coords="1617,468,1669,494"/>
+<area shape="rect" id="node30" href="$d0/de5/classfftfilt.html" title="fftfilt" alt="" coords="1619,569,1667,596"/>
+<area shape="rect" id="node31" href="$d9/daf/classg__fft.html" title="g_fft\&lt; float \&gt;" alt="" coords="1190,580,1287,606"/>
+<area shape="rect" id="node32" href="$d3/df3/classInterpolator.html" title="Interpolator" alt="" coords="1599,620,1686,646"/>
+</map>

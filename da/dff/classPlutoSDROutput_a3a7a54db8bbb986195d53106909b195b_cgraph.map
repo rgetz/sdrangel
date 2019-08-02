@@ -1,0 +1,12 @@
+<map id="PlutoSDROutput::~PlutoSDROutput" name="PlutoSDROutput::~PlutoSDROutput">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#a8588e6225682c553093d72249d6bd508" title="PlutoSDROutput::closeDevice" alt="" coords="300,107,500,134"/>
+<area shape="rect" id="node6" href="$da/dff/classPlutoSDROutput.html#ac739196563e561cb5d0d18821f7da76b" title="PlutoSDROutput::networkManager\lFinished" alt="" coords="288,297,512,339"/>
+<area shape="rect" id="node7" href="$da/dff/classPlutoSDROutput.html#af50d6813929ff151c43e5d2b819769e9" title="PlutoSDROutput::resumeBuddies" alt="" coords="291,246,509,273"/>
+<area shape="rect" id="node10" href="$da/dff/classPlutoSDROutput.html#abbd9a3be19341db883c6f4270149e724" title="PlutoSDROutput::suspendBuddies" alt="" coords="288,195,512,222"/>
+<area shape="rect" id="node3" href="$da/d86/classDevicePlutoSDRParams.html#a272d340def89aae8871a72b26092c7c2" title="DevicePlutoSDRParams\l::getBox" alt="" coords="580,5,747,47"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="564,137,763,163"/>
+<area shape="rect" id="node5" href="$da/d86/classDevicePlutoSDRParams.html#a4d56894394027d8d4cb1cac670b59269" title="DevicePlutoSDRParams\l::close" alt="" coords="580,71,747,112"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a2f7cb4278292fa7864f420103fe92624" title="DeviceAPI::getBuddySharedPtr" alt="" coords="560,254,767,281"/>
+<area shape="rect" id="node9" href="$dc/d53/classDevicePlutoSDRShared_1_1ThreadInterface.html#a0d3e274c4957941fd2a4548955d144dc" title="DevicePlutoSDRShared\l::ThreadInterface::startWork" alt="" coords="570,305,757,347"/>
+<area shape="rect" id="node11" href="$dc/d53/classDevicePlutoSDRShared_1_1ThreadInterface.html#a2d3c150fe2e56254ce4b7f785cf24186" title="DevicePlutoSDRShared\l::ThreadInterface::stopWork" alt="" coords="571,188,756,229"/>
+</map>

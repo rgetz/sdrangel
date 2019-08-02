@@ -1,0 +1,10 @@
+<map id="TestMIGui::serialize" name="TestMIGui::serialize">
+<area shape="rect" id="node2" href="$d9/d0c/structTestMISettings.html#a382bdb81a7cfb64049d277858149db55" title="TestMISettings::serialize" alt="" coords="192,132,359,159"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="411,5,589,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="407,56,593,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="412,107,588,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="413,157,587,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="409,208,591,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="426,259,574,285"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="641,107,816,133"/>
+</map>

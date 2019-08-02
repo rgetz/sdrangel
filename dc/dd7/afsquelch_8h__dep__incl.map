@@ -1,0 +1,11 @@
+<map id="sdrbase/dsp/afsquelch.h" name="sdrbase/dsp/afsquelch.h">
+<area shape="rect" id="node2" href="$d5/d32/dsddemod_8h.html" title="plugins/channelrx/demoddsd\l/dsddemod.h" alt="" coords="321,80,508,121"/>
+<area shape="rect" id="node6" href="$d2/d22/nfmdemod_8h.html" title="plugins/channelrx/demodnfm\l/nfmdemod.h" alt="" coords="743,80,931,121"/>
+<area shape="rect" id="node10" href="$d1/db8/afsquelch_8cpp.html" title="sdrbase/dsp/afsquelch.cpp" alt="" coords="956,87,1135,114"/>
+<area shape="rect" id="node3" href="$dc/ddb/dsddemod_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemod.cpp" alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node4" href="$d3/d58/dsddemodgui_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemodgui.cpp" alt="" coords="216,169,403,211"/>
+<area shape="rect" id="node5" href="$d6/d99/dsddemodplugin_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemodplugin.cpp" alt="" coords="427,169,613,211"/>
+<area shape="rect" id="node7" href="$d0/dc4/nfmdemod_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmdemod.cpp" alt="" coords="638,169,826,211"/>
+<area shape="rect" id="node8" href="$d8/dab/nfmdemodgui_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmdemodgui.cpp" alt="" coords="850,169,1038,211"/>
+<area shape="rect" id="node9" href="$d4/d1f/nfmplugin_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmplugin.cpp" alt="" coords="1062,169,1250,211"/>
+</map>

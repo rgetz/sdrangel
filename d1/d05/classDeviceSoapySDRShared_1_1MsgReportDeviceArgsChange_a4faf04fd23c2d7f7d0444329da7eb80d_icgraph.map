@@ -1,0 +1,10 @@
+<map id="DeviceSoapySDRShared::MsgReportDeviceArgsChange::getDeviceArgSettings" name="DeviceSoapySDRShared::MsgReportDeviceArgsChange::getDeviceArgSettings">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#ac64da51534c567f2e5af1b5f4676cb28" title="SoapySDRInputGui::handle\lMessage" alt="" coords="282,5,465,47"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#acad814f77379200a4a5e8ab2b5f74124" title="SoapySDROutputGui::\lhandleMessage" alt="" coords="296,71,451,112"/>
+<area shape="rect" id="node8" href="$d8/df3/classSoapySDROutput.html#a499eb128e98c2f4ddd17a09edc94bb02" title="SoapySDROutput::handleMessage" alt="" coords="260,137,487,163"/>
+<area shape="rect" id="node9" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="265,187,481,214"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a87af02cdba51b85ff3243d641b406968" title="SoapySDRInputGui::handle\lInputMessages" alt="" coords="535,5,717,47"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="765,13,1025,39"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#aa4fca618c56951f57c757e4021cfc17b" title="SoapySDROutputGui::\lhandleInputMessages" alt="" coords="549,71,703,112"/>
+<area shape="rect" id="node7" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="818,71,973,112"/>
+</map>

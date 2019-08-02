@@ -1,0 +1,35 @@
+<map id="plugins/samplesource/bladerf1input/bladerf1inputgui.cpp" name="plugins/samplesource/bladerf1input/bladerf1inputgui.cpp">
+<area shape="rect" id="node6" href="$d9/dd3/colormapper_8h.html" title="gui/colormapper.h" alt="" coords="206,333,331,360"/>
+<area shape="rect" id="node11" href="$d0/d34/glspectrum_8h.html" title="gui/glspectrum.h" alt="" coords="1680,251,1799,278"/>
+<area shape="rect" id="node38" href="$d3/dca/crightclickenabler_8h.html" title="gui/crightclickenabler.h" alt="" coords="2110,95,2265,121"/>
+<area shape="rect" id="node41" href="$d5/d9b/basicdevicesettingsdialog_8h.html" title="gui/basicdevicesettingsdialog.h" alt="" coords="2301,95,2503,121"/>
+<area shape="rect" id="node43" href="$d8/d2f/dspengine_8h.html" title="dsp/dspengine.h" alt="" coords="2521,169,2638,196"/>
+<area shape="rect" id="node55" href="$d7/d45/dspcommands_8h.html" title="dsp/dspcommands.h" alt="" coords="2787,251,2929,278"/>
+<area shape="rect" id="node58" href="$d7/d54/deviceapi_8h.html" title="device/deviceapi.h" alt="" coords="3525,251,3655,278"/>
+<area shape="rect" id="node59" href="$dc/d64/deviceuiset_8h.html" title="device/deviceuiset.h" alt="" coords="3005,251,3146,278"/>
+<area shape="rect" id="node60" href="$db/d3a/bladerf1inputgui_8h.html" title="bladerf1inputgui.h" alt="" coords="3427,95,3551,121"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="2578,408,2647,435"/>
+<area shape="rect" id="node18" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2927,408,3037,435"/>
+<area shape="rect" id="node21" href="$d5/de0/scaleengine_8h.html" title="gui/scaleengine.h" alt="" coords="1295,333,1418,360"/>
+<area shape="rect" id="node26" href="$dc/d8a/glshadersimple_8h.html" title="gui/glshadersimple.h" alt="" coords="1669,333,1810,360"/>
+<area shape="rect" id="node28" href="$d4/d9b/glshadertextured_8h.html" title="gui/glshadertextured.h" alt="" coords="1493,333,1644,360"/>
+<area shape="rect" id="node30" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="1835,333,1977,360"/>
+<area shape="rect" id="node34" href="$d6/ddd/incrementalarray_8h.html" title="util/incrementalarray.h" alt="" coords="5,408,156,435"/>
+<area shape="rect" id="node36" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="3019,333,3126,360"/>
+<area shape="rect" id="node25" href="$d0/dd2/physicalunit_8h.html" title="physicalunit.h" alt="" coords="1301,408,1404,435"/>
+<area shape="rect" id="node33" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="1832,408,1980,435"/>
+<area shape="rect" id="node44" href="$d7/d21/audiodevicemanager_8h.html" title="audio/audiodevicemanager.h" alt="" coords="2193,251,2379,278"/>
+<area shape="rect" id="node48" href="$db/d0a/audioinput_8h.html" title="audio/audioinput.h" alt="" coords="565,333,692,360"/>
+<area shape="rect" id="node52" href="$d4/d09/audiooutput_8h.html" title="audio/audiooutput.h" alt="" coords="407,333,541,360"/>
+<area shape="rect" id="node53" href="$de/d89/ambeengine_8h.html" title="ambe/ambeengine.h" alt="" coords="3702,333,3841,360"/>
+<area shape="rect" id="node56" href="$dd/d49/fftwindow_8h.html" title="fftwindow.h" alt="" coords="2855,333,2944,360"/>
+<area shape="rect" id="node57" href="$df/db1/math_8h.html" title="math.h" alt="" coords="2672,408,2735,435"/>
+<area shape="rect" id="node61" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="4017,333,4187,360"/>
+<area shape="rect" id="node63" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="3292,333,3435,360"/>
+<area shape="rect" id="node65" href="$d7/dce/bladerf1input_8h.html" title="bladerf1input.h" alt="" coords="4074,169,4181,196"/>
+<area shape="rect" id="node67" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="3272,251,3449,278"/>
+<area shape="rect" id="node70" href="$db/d6e/devicebladerf1_8h.html" title="../../../devices/bladerf1\l/devicebladerf1.h" alt="" coords="3781,244,3935,285"/>
+<area shape="rect" id="node71" href="$df/d38/devicebladerf1param_8h.html" title="../../../devices/bladerf1\l/devicebladerf1param.h" alt="" coords="4215,244,4373,285"/>
+<area shape="rect" id="node72" href="$da/de9/bladerf1inputsettings_8h.html" title="bladerf1inputsettings.h" alt="" coords="4448,251,4601,278"/>
+<area shape="rect" id="node68" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="3459,333,3577,360"/>
+</map>

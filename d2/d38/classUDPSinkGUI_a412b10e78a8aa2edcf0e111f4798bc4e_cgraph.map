@@ -1,0 +1,12 @@
+<map id="UDPSinkGUI::on_squelch_valueChanged" name="UDPSinkGUI::on_squelch_valueChanged">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a6d3cadc63d500cd1c3469f22f3327aff" title="UDPSinkGUI::applySettings\lImmediate" alt="" coords="228,84,416,125"/>
+<area shape="rect" id="node7" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="302,162,342,189"/>
+<area shape="rect" id="node3" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a5b1883b310e064b49f26e8a602cf8852" title="UDPSink::MsgConfigureUDPSource\l::create" alt="" coords="464,5,700,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="498,71,666,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="507,137,657,163"/>
+<area shape="rect" id="node4" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a4b1c6fb7455d198fe8b59c9fa067e4de" title="UDPSink::MsgConfigureUDPSource\l::MsgConfigureUDPSource" alt="" coords="748,5,984,47"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="528,187,636,214"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="792,209,940,251"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1040,158,1159,185"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1032,209,1167,251"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="GLScope::tick" name="GLScope::tick">
+<area shape="rect" id="node2" href="$d2/d02/classGLScope.html#a9aba20b75d8c238931a987ccf71b2164" title="GLScope::connectTimer" alt="" coords="183,5,346,32"/>
+<area shape="rect" id="node3" href="$d2/d02/classGLScope.html#aa7acd3bd32097fb6461dd702a787b3ba" title="GLScope::GLScope" alt="" coords="195,56,334,83"/>
+<area shape="rect" id="node4" href="$d2/d02/classGLScope.html#a79e24062fde56bc4ae1b2cd79e5aedda" title="GLScope::paintGL" alt="" coords="620,157,749,184"/>
+<area shape="rect" id="node5" href="$d2/d02/classGLScope.html#a9be8d26f58d8d61f2e58423479ea0110" title="Arrange displays when X and Y are stacked horizontally. " alt="" coords="159,157,371,184"/>
+<area shape="rect" id="node7" href="$d2/d02/classGLScope.html#ae1f081c2a3ac33af5b9f51659a0435b7" title="Arrange displays when X and Y are stacked over on the left and polar display is on the right..." alt="" coords="173,208,356,235"/>
+<area shape="rect" id="node8" href="$d2/d02/classGLScope.html#aaef52bb1ef8deda508d295897ed6366e" title="Arrange displays when X and Y are unique on screen. " alt="" coords="167,259,362,285"/>
+<area shape="rect" id="node9" href="$d2/d02/classGLScope.html#a810f6974001d560c5119fe99afcfc869" title="Arrange displays when X and Y are stacked vertically. " alt="" coords="166,309,363,336"/>
+<area shape="rect" id="node6" href="$d2/d02/classGLScope.html#a366e112820a69abe443077941b7fcc86" title="GLScope::applyConfig" alt="" coords="419,208,572,235"/>
+</map>

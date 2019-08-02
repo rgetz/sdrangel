@@ -1,0 +1,44 @@
+<map id="MainWindow::on_presetUpdate_clicked" name="MainWindow::on_presetUpdate_clicked">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a5cb7313bbbf342f8390e49fb00b6211a" title="MainWindow::addPresetToTree" alt="" coords="264,165,469,192"/>
+<area shape="rect" id="node13" href="$d5/df4/classMainSettings.html#acc57bd4efde738aa2720bc469e1d4436" title="MainSettings::getPreset" alt="" coords="285,515,448,541"/>
+<area shape="rect" id="node14" href="$d5/df4/classMainSettings.html#aa613a5791c8a57a6b0e53304f846cedc" title="MainSettings::getPresetCount" alt="" coords="268,565,465,592"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#a87c9229d360865dd18182e77342a2f5e" title="MainWindow::savePresetSettings" alt="" coords="257,464,476,491"/>
+<area shape="rect" id="node42" href="$d5/df4/classMainSettings.html#a26a718c532a7924648ad13a8d34784b0" title="MainSettings::sortPresets" alt="" coords="280,845,453,872"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="612,56,652,83"/>
+<area shape="rect" id="node8" href="$d1/dc7/classPreset.html#a7f773cda853130f7ad8c607482b80b88" title="Preset::getCenterFrequency" alt="" coords="539,5,725,32"/>
+<area shape="rect" id="node9" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="556,224,708,251"/>
+<area shape="rect" id="node10" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="571,275,693,301"/>
+<area shape="rect" id="node11" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="811,343,968,369"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a79ec9920d5825e5bf4a721bf8955e8be" title="MainWindow::updatePreset\lControls" alt="" coords="541,158,723,199"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="835,56,943,83"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1052,78,1200,119"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1269,27,1388,53"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1261,78,1396,119"/>
+<area shape="rect" id="node16" href="$d1/dc7/classPreset.html#a51db69ed5aa297a20cb6ef1abd1cdbf6" title="Preset::setSpectrumConfig" alt="" coords="542,493,722,520"/>
+<area shape="rect" id="node17" href="$d4/dcb/classGLSpectrumGUI.html#afe7a0483fa127807472a56ed4462a2a8" title="GLSpectrumGUI::serialize" alt="" coords="545,1112,719,1139"/>
+<area shape="rect" id="node25" href="$d1/dc7/classPreset.html#a358ff21aaf2d77a8f36f6d77dc618008" title="Preset::clearChannels" alt="" coords="557,376,707,403"/>
+<area shape="rect" id="node26" href="$d3/d37/classDeviceUISet.html#ab73acf36a0c90b00c715b4be035eff35" title="DeviceUISet::saveRxChannel\lSettings" alt="" coords="533,545,731,586"/>
+<area shape="rect" id="node28" href="$dd/db6/classDeviceAPI.html#ab8fcfb36f754d27700ae078908618998" title="DeviceAPI::saveSamplingDevice\lSettings" alt="" coords="524,610,740,651"/>
+<area shape="rect" id="node39" href="$d1/dc7/classPreset.html#a0e4fa7f8e3a03663917e07ff2b9e0526" title="Preset::setSourcePreset" alt="" coords="549,676,715,703"/>
+<area shape="rect" id="node40" href="$d3/d37/classDeviceUISet.html#af409a63fef07714da0406f278172e409" title="DeviceUISet::saveTxChannel\lSettings" alt="" coords="534,427,730,469"/>
+<area shape="rect" id="node41" href="$d1/dc7/classPreset.html#a23efee848f25992e63e82fc5298fdf97" title="Preset::setLayout" alt="" coords="569,325,695,352"/>
+<area shape="rect" id="node18" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="815,1239,963,1265"/>
+<area shape="rect" id="node19" href="$d4/dcb/classGLSpectrumGUI.html#a851fa8f140c736275e9d9af195a27ec8" title="GLSpectrumGUI::getAveraging\lValue" alt="" coords="788,1290,991,1331"/>
+<area shape="rect" id="node20" href="$d6/dab/classGLSpectrum.html#a07b4445b86bfdba27e9dab0a9b3a1459" title="GLSpectrum::getWaterfall\lShare" alt="" coords="803,1021,976,1062"/>
+<area shape="rect" id="node21" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="800,1137,979,1164"/>
+<area shape="rect" id="node23" href="$d9/d39/classSimpleSerializer.html#a5b7538a4f71aea1a1bf489bb57098fbe" title="SimpleSerializer::writeReal" alt="" coords="800,1188,979,1215"/>
+<area shape="rect" id="node24" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="802,1087,977,1113"/>
+<area shape="rect" id="node22" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1039,1112,1213,1139"/>
+<area shape="rect" id="node27" href="$d1/dc7/classPreset.html#a6594c9556a0451bf463a77ce89efe0cf" title="Preset::addChannel" alt="" coords="821,292,958,319"/>
+<area shape="rect" id="node29" href="$d1/dc7/classPreset.html#a979814066f53acca36764004836fae78" title="Preset::addOrUpdateDevice\lConfig" alt="" coords="796,511,983,553"/>
+<area shape="rect" id="node30" href="$d6/d80/classPluginInstanceGUI.html#aa661aee0e3d63c184ac18427d392ae83" title="PluginInstanceGUI::\lgetCenterFrequency" alt="" coords="819,577,959,618"/>
+<area shape="rect" id="node31" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="790,642,989,683"/>
+<area shape="rect" id="node32" href="$db/d0c/classDeviceSampleSource.html#a2e8d4bdd0a614b9dda08f432c36539d3" title="Center frequency exposed by the source. " alt="" coords="815,707,963,749"/>
+<area shape="rect" id="node33" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="811,773,968,814"/>
+<area shape="rect" id="node34" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="803,838,975,879"/>
+<area shape="rect" id="node35" href="$d6/d80/classPluginInstanceGUI.html#a9550fc0924780973ad5521e75137432b" title="PluginInstanceGUI::\lserialize" alt="" coords="819,903,959,945"/>
+<area shape="rect" id="node36" href="$d9/d18/classDeviceSampleSink.html#a3708c7ca205ef1d220cbc5f591bed1b9" title="DeviceSampleSink::serialize" alt="" coords="795,969,984,996"/>
+<area shape="rect" id="node37" href="$db/d0c/classDeviceSampleSource.html#a8c75c771a62d98d3c08acdb9b8347386" title="DeviceSampleSource\l::serialize" alt="" coords="815,394,963,435"/>
+<area shape="rect" id="node38" href="$d1/dc7/classPreset.html#aee9ce3e851f9c8ebb5a750efda892d36" title="Preset::setCenterFrequency" alt="" coords="796,460,983,487"/>
+<area shape="rect" id="node43" href="$d1/dc7/classPreset.html#ae5419aa7cea660134622638d188bc826" title="Preset::presetCompare" alt="" coords="553,1163,711,1189"/>
+</map>

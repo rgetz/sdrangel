@@ -1,0 +1,30 @@
+<map id="DeviceXTRX::getDevice" name="DeviceXTRX::getDevice">
+<area shape="rect" id="node2" href="$dc/d14/classXTRXInput.html#a3dab34c67cdd353287bb494026ccd14d" title="XTRXInput::apply_gain_lna" alt="" coords="221,279,403,305"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a9689478882906279e1d4da7039ee9e99" title="XTRXInput::applySettings" alt="" coords="735,189,909,216"/>
+<area shape="rect" id="node7" href="$dc/d14/classXTRXInput.html#ac5d109f6b6f25ff065a8f0063f2154ab" title="XTRXInput::start" alt="" coords="1010,37,1131,64"/>
+<area shape="rect" id="node8" href="$dc/d14/classXTRXInput.html#a5dd45130f13693615df8dd02147ad8c3" title="XTRXInput::stop" alt="" coords="1011,88,1131,115"/>
+<area shape="rect" id="node11" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="977,443,1164,469"/>
+<area shape="rect" id="node13" href="$dc/d14/classXTRXInput.html#a9d2230b42f99d9fa96d92f46476f5ff6" title="XTRXInput::apply_gain_pga" alt="" coords="729,759,915,785"/>
+<area shape="rect" id="node14" href="$dc/d14/classXTRXInput.html#a0b95e0c4c44612ff1a7abaf71c5c2a65" title="XTRXInput::apply_gain_tia" alt="" coords="223,355,401,381"/>
+<area shape="rect" id="node15" href="$d1/d5f/classXTRXOutput.html#ab799b79f068ae42e8d8f0cd047210e07" title="XTRXOutput::applySettings" alt="" coords="220,880,404,907"/>
+<area shape="rect" id="node18" href="$d1/d5f/classXTRXOutput.html#a3f644b7abb2c8ec5ee8f5ee86e853899" title="XTRXOutput::start" alt="" coords="496,951,627,977"/>
+<area shape="rect" id="node19" href="$d1/d5f/classXTRXOutput.html#aa4b594bd46809603a5a89824488f940f" title="XTRXOutput::stop" alt="" coords="496,849,627,876"/>
+<area shape="rect" id="node22" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="463,728,659,755"/>
+<area shape="rect" id="node24" href="$d3/d51/classDeviceXTRXShared.html#a1610885620e3d93a43a33cfd39e64084" title="DeviceXTRXShared::get\l_board_temperature" alt="" coords="229,545,395,586"/>
+<area shape="rect" id="node25" href="$d1/d5f/classXTRXOutput.html#a0615d528e5c969f4e14244e6a940566b" title="XTRXOutput::webapiFormat\lDeviceReport" alt="" coords="468,662,655,703"/>
+<area shape="rect" id="node27" href="$dc/d14/classXTRXInput.html#a68acd84134a7b063beca1e791a613a0f" title="XTRXInput::webapiFormatDevice\lReport" alt="" coords="452,545,671,586"/>
+<area shape="rect" id="node29" href="$d3/d51/classDeviceXTRXShared.html#a959c633a601e6d029e6f1555f4847eff" title="DeviceXTRXShared::get\l_gps_status" alt="" coords="229,610,395,651"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#a30fccc9db634eaf503dba4393cea2142" title="XTRXInput::apply_gain_auto" alt="" coords="467,291,656,317"/>
+<area shape="rect" id="node12" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="1216,417,1401,444"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a48e88dd0f71731de9460dfe3ba0952c2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1477,164,1589,191"/>
+<area shape="rect" id="node6" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1665,55,1848,97"/>
+<area shape="rect" id="node9" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="1449,88,1617,115"/>
+<area shape="rect" id="node10" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="1225,139,1392,165"/>
+<area shape="rect" id="node16" href="$d1/d5f/classXTRXOutput.html#a628136a6db38d4b915bdfad7344b2aa8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="761,961,883,988"/>
+<area shape="rect" id="node17" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1216,929,1401,970"/>
+<area shape="rect" id="node20" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="977,911,1165,937"/>
+<area shape="rect" id="node21" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="733,911,911,937"/>
+<area shape="rect" id="node23" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="973,683,1168,709"/>
+<area shape="rect" id="node26" href="$d1/d5f/classXTRXOutput.html#aae5ac06ed8c70f68d20aa8fdd3f809bc" title="XTRXOutput::webapiReportGet" alt="" coords="719,657,925,684"/>
+<area shape="rect" id="node28" href="$dc/d14/classXTRXInput.html#ae6afba0efb5215b0da96ce61e5881c3f" title="XTRXInput::webapiReportGet" alt="" coords="724,607,920,633"/>
+</map>

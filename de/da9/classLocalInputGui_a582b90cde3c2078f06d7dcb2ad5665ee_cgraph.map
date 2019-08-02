@@ -1,0 +1,5 @@
+<map id="LocalInputGui::on_record_toggled" name="LocalInputGui::on_record_toggled">
+<area shape="rect" id="node2" href="$d7/d3b/classLocalInput_1_1MsgFileRecord.html#a0eec3dd80a2d22b40e83bd598cfb9457" title="LocalInput::MsgFileRecord\l::create" alt="" coords="220,5,399,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="225,71,393,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="235,137,384,163"/>
+</map>

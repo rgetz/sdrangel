@@ -1,0 +1,9 @@
+<map id="qrtplib::RTPUDPTransmitter::BindSockets" name="qrtplib::RTPUDPTransmitter::BindSockets">
+<area shape="rect" id="node2" href="$da/d89/classqrtplib_1_1RTPUDPTransmitter.html#a20f203ef0578f60dea627e106cc7e9a5" title="qrtplib::RTPUDPTransmitter\l::readRTCPPendingDatagrams" alt="" coords="240,68,443,109"/>
+<area shape="rect" id="node8" href="$da/d89/classqrtplib_1_1RTPUDPTransmitter.html#a2fb9f7ab22372bb9d03d85c837e5c991" title="qrtplib::RTPUDPTransmitter\l::readRTPPendingDatagrams" alt="" coords="245,133,438,175"/>
+<area shape="rect" id="node3" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a7a839e67da04ff032db37f2c1b143d44" title="qrtplib::RTPTime::CurrentTime" alt="" coords="491,137,692,163"/>
+<area shape="rect" id="node5" href="$db/dc5/classqrtplib_1_1RTPAddress.html#a88c800c66a31b1d1345479d368e0c269" title="qrtplib::RTPAddress\l::setAddress" alt="" coords="521,188,661,229"/>
+<area shape="rect" id="node6" href="$db/dc5/classqrtplib_1_1RTPAddress.html#aa71d749a88c89cf00bb36174daf4ce6e" title="qrtplib::RTPAddress\l::setPort" alt="" coords="521,5,661,47"/>
+<area shape="rect" id="node7" href="$da/d89/classqrtplib_1_1RTPUDPTransmitter.html#a6e8a9259ba50132c0ca66eca2788c457" title="qrtplib::RTPUDPTransmitter\l::ShouldAcceptData" alt="" coords="498,71,685,112"/>
+<area shape="rect" id="node4" href="$d9/d28/namespaceqrtplib.html#a2e15b3b3a7eb0ec7566301dbc91baa62" title="qrtplib::RTPTime_timespec\lToDouble" alt="" coords="740,129,921,171"/>
+</map>

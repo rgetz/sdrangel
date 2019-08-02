@@ -1,0 +1,11 @@
+<map id="AMModGUI::on_channelMute_toggled" name="AMModGUI::on_channelMute_toggled">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#a0d66fae94c7940bcc7a9be89df296da1" title="AMModGUI::applySettings" alt="" coords="248,202,427,229"/>
+<area shape="rect" id="node3" href="$df/de0/classAMMod_1_1MsgConfigureAMMod.html#a99468535869f53a0076498460d0f102c" title="AMMod::MsgConfigureAMMod\l::create" alt="" coords="487,5,688,47"/>
+<area shape="rect" id="node5" href="$d9/db8/classAMMod_1_1MsgConfigureChannelizer.html#ad31952f9e0347cb6e07dce41a3fda604" title="AMMod::MsgConfigureChannelizer\l::create" alt="" coords="475,71,700,112"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="500,136,675,177"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="504,202,671,229"/>
+<area shape="rect" id="node8" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="503,253,671,295"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="513,319,662,346"/>
+<area shape="rect" id="node10" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="496,370,679,397"/>
+<area shape="rect" id="node4" href="$df/de0/classAMMod_1_1MsgConfigureAMMod.html#a6d9a8432f0fb7d8e77fc572562a7f103" title="AMMod::MsgConfigureAMMod\l::MsgConfigureAMMod" alt="" coords="748,5,949,47"/>
+</map>

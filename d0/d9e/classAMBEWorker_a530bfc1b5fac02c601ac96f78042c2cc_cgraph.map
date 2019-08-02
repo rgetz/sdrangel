@@ -1,0 +1,9 @@
+<map id="AMBEWorker::upsample" name="AMBEWorker::upsample">
+<area shape="rect" id="node2" href="$d3/dd8/classAudioCompressor.html#a1ddd6d637ae145f4d95e99770e761145" title="AudioCompressor::compress" alt="" coords="220,5,411,32"/>
+<area shape="rect" id="node5" href="$d9/db0/classMBEAudioInterpolatorFilter.html#aa5d82a8fcf3565b002a523f6867bab2b" title="MBEAudioInterpolatorFilter\l::runHP" alt="" coords="226,57,405,98"/>
+<area shape="rect" id="node7" href="$d9/db0/classMBEAudioInterpolatorFilter.html#a852f86a657539db8957df24b4da14be8" title="MBEAudioInterpolatorFilter\l::runLP" alt="" coords="226,122,405,163"/>
+<area shape="rect" id="node8" href="$d9/db0/classMBEAudioInterpolatorFilter.html#af01d500777a36e1b7901bce39f9e8d82" title="MBEAudioInterpolatorFilter\l::usesHP" alt="" coords="226,187,405,229"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a8f22b20379bd986a21335100e02cc7db" title="abs" alt="" coords="485,5,527,32"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a62cb73f2f5151a99b8d3206136e9c951" title="Fixed::abs" alt="" coords="601,5,684,32"/>
+<area shape="rect" id="node6" href="$d5/d94/classIIRFilter.html#aba23546242ec5558bfad7f05530781c9" title="IIRFilter::run" alt="" coords="459,96,553,123"/>
+</map>

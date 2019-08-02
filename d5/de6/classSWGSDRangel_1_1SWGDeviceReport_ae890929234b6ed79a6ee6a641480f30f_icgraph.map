@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setLimeSdrOutputReport" name="SWGSDRangel::SWGDeviceReport::setLimeSdrOutputReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="320,5,483,47"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#a3c5c4ad1f3c7f074bd52af68b2d0aa80" title="LimeSDROutput::webapiReportGet" alt="" coords="288,71,515,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="565,5,776,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="827,5,989,47"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="563,71,779,98"/>
+</map>

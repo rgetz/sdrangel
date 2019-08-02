@@ -1,0 +1,13 @@
+<map id="RemoteSource::deserialize" name="RemoteSource::deserialize">
+<area shape="rect" id="node2" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#afffe926056e4fe7c5d6cb1163a8014a5" title="RemoteSource::MsgConfigure\lRemoteSource::create" alt="" coords="232,26,431,67"/>
+<area shape="rect" id="node4" href="$d5/d20/structRemoteSourceSettings.html#a0aaa1c6ac853740ae41f2ac5f60a189e" title="RemoteSourceSettings\l::deserialize" alt="" coords="253,205,410,246"/>
+<area shape="rect" id="node6" href="$d5/d20/structRemoteSourceSettings.html#a99d572822bdc0502be35d44f3e8b2897" title="RemoteSourceSettings\l::resetToDefaults" alt="" coords="522,86,679,127"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="257,271,406,297"/>
+<area shape="rect" id="node3" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#ad4fce54859e816d5e17cc4b29bcc07ea" title="RemoteSource::MsgConfigure\lRemoteSource::MsgConfigureRemote\lSource" alt="" coords="479,5,723,61"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="535,151,666,193"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="535,217,666,258"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="535,282,666,323"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="535,347,666,389"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="535,413,666,454"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="771,381,901,422"/>
+</map>

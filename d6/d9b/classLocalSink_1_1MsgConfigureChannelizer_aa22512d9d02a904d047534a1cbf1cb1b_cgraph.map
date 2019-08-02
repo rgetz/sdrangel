@@ -1,0 +1,16 @@
+<map id="LocalSink::MsgConfigureChannelizer::MsgConfigureChannelizer" name="LocalSink::MsgConfigureChannelizer::MsgConfigureChannelizer">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#a17f100aa6741b08eb1b4f5a4df36a5bd" title="LocalSink::LocalSink" alt="" coords="295,94,439,121"/>
+<area shape="rect" id="node10" href="$da/d9d/classLocalSink.html#a011dff930afc93181253355ca4b5db49" title="LocalSink::~LocalSink" alt="" coords="291,151,443,178"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a39a612869ee44449bd80a146184ad721" title="Add a channel sink (Rx) " alt="" coords="502,13,690,39"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a1c01820624b40694bd7cb20c2605e04e" title="DeviceAPI::addChannelSinkAPI" alt="" coords="491,63,701,90"/>
+<area shape="rect" id="node9" href="$da/d9d/classLocalSink.html#a44d083ec5198d5e8f0219686fb1205c7" title="LocalSink::networkManager\lFinished" alt="" coords="505,115,687,156"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#a26be0a9b84c19cc4ad6891104af2a316" title="Add a channel sink that will run on its own thread. " alt="" coords="777,5,944,47"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a74159be7b1305ac70ceb988349c1d799" title="Add a sample sink that will run on its own thread. " alt="" coords="775,71,947,112"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1020,162,1199,189"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="754,137,967,163"/>
+<area shape="rect" id="node11" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="491,246,701,273"/>
+<area shape="rect" id="node14" href="$dd/db6/classDeviceAPI.html#a0256b15fffe8fe72d67a3c7f48dd1de3" title="DeviceAPI::removeChannel\lSinkAPI" alt="" coords="504,180,688,221"/>
+<area shape="rect" id="node12" href="$df/d80/classDSPDeviceMIMOEngine.html#abfc2e3f0274e76009daa461526fb810e" title="Remove a channel sink that runs on its own thread. " alt="" coords="777,304,944,345"/>
+<area shape="rect" id="node13" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3dbc76bc6de91d8fe553d3a70ee6f287" title="Remove a sample sink that runs on its own thread. " alt="" coords="775,239,947,280"/>
+<area shape="rect" id="node15" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="749,187,972,214"/>
+</map>

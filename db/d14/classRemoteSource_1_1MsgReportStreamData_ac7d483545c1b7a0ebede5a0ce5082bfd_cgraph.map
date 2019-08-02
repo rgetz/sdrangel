@@ -1,0 +1,18 @@
+<map id="RemoteSource::MsgReportStreamData::MsgReportStreamData" name="RemoteSource::MsgReportStreamData::MsgReportStreamData">
+<area shape="rect" id="node2" href="$de/dd9/classRemoteSource.html#a9d542ba9428eaf328c296022da424b61" title="RemoteSource::RemoteSource" alt="" coords="280,169,484,195"/>
+<area shape="rect" id="node13" href="$de/dd9/classRemoteSource.html#aa553dfb2aac68cc5335e95dde2a93efe" title="RemoteSource::~RemoteSource" alt="" coords="276,285,488,311"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#ab843437dfe39ff077923d0a5f8a86504" title="Add a channel source (Tx) " alt="" coords="547,93,750,119"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#abe9434ae5ab458cd225b90e470beea8f" title="DeviceAPI::addChannelSourceAPI" alt="" coords="536,194,761,221"/>
+<area shape="rect" id="node8" href="$de/dd9/classRemoteSource.html#a95478e6cccc47f96477917b8ebd513c6" title="RemoteSource::handleData" alt="" coords="557,42,740,69"/>
+<area shape="rect" id="node11" href="$d3/d19/structRemoteMetaDataFEC.html#aecc612c94d83cca146ebce5d9368ea83" title="RemoteMetaDataFEC::init" alt="" coords="560,143,737,170"/>
+<area shape="rect" id="node12" href="$de/dd9/classRemoteSource.html#a33517ea8617c0aad1f867271ec1390f0" title="RemoteSource::networkManager\lFinished" alt="" coords="542,245,755,287"/>
+<area shape="rect" id="node4" href="$d1/d90/classDSPDeviceSinkEngine.html#add7dc0f3dbe9265ebefec89ed197feac" title="Add a baseband sample source that will run on its own thread. " alt="" coords="842,135,999,176"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1080,271,1259,298"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="814,225,1027,251"/>
+<area shape="rect" id="node9" href="$de/dd9/classRemoteSource.html#a66f584da35d629b69a04cc489cb07f2b" title="RemoteSource::handleData\lBlock" alt="" coords="829,5,1012,47"/>
+<area shape="rect" id="node10" href="$d4/d6a/classRemoteDataQueue.html#a711f13187f45e3d49a7248f3d55ff4f8" title="Pop message from queue. " alt="" coords="839,71,1002,98"/>
+<area shape="rect" id="node14" href="$dd/db6/classDeviceAPI.html#aee2ad996d3dbf9127027e7b1f1b80b91" title="Remove a channel source (Tx) " alt="" coords="557,376,741,417"/>
+<area shape="rect" id="node16" href="$dd/db6/classDeviceAPI.html#af40e6139cd028a0a92563529c857e490" title="DeviceAPI::removeChannel\lSourceAPI" alt="" coords="557,311,741,352"/>
+<area shape="rect" id="node15" href="$d1/d90/classDSPDeviceSinkEngine.html#a15d2c082fc3c54786cc20086d797411a" title="Remove a baseband sample source that runs on its own thread. " alt="" coords="837,372,1005,413"/>
+<area shape="rect" id="node17" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="809,318,1032,345"/>
+</map>

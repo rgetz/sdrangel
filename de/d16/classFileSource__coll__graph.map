@@ -1,0 +1,29 @@
+<map id="FileSource" name="FileSource">
+<area shape="rect" id="node2" href="$d9/dfb/classBasebandSampleSource.html" title="BasebandSampleSource" alt="" coords="1109,84,1275,111"/>
+<area shape="rect" id="node22" href="$d5/d82/classUpChannelizer.html" title="UpChannelizer" alt="" coords="1542,57,1650,84"/>
+<area shape="rect" id="node25" href="$da/df6/classThreadedBasebandSampleSource.html" title="ThreadedBasebandSampleSource" alt="" coords="1487,179,1705,205"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,333,127,360"/>
+<area shape="rect" id="node8" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="676,357,843,384"/>
+<area shape="rect" id="node11" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="329,419,471,445"/>
+<area shape="rect" id="node12" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="325,305,475,332"/>
+<area shape="rect" id="node13" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="681,245,838,272"/>
+<area shape="rect" id="node14" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="333,144,467,171"/>
+<area shape="rect" id="node15" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="673,593,845,620"/>
+<area shape="rect" id="node16" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="326,809,474,836"/>
+<area shape="rect" id="node4" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,72,135,99"/>
+<area shape="rect" id="node5" href="$d7/d02/classChannelAPI.html" title="ChannelAPI" alt="" coords="1550,292,1642,319"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1149,292,1235,319"/>
+<area shape="rect" id="node7" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="705,644,814,671"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="342,469,458,496"/>
+<area shape="rect" id="node10" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,469,107,496"/>
+<area shape="rect" id="node17" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,809,127,836"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="320,743,480,785"/>
+<area shape="rect" id="node19" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="330,549,470,590"/>
+<area shape="rect" id="node20" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="325,678,475,719"/>
+<area shape="rect" id="node21" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="693,195,825,221"/>
+<area shape="rect" id="node23" href="$d0/d9b/structSample.html" title="Sample" alt="" coords="1159,5,1225,32"/>
+<area shape="rect" id="node24" href="$da/d75/structFileSource_1_1MagSqLevelsStore.html" title="FileSource::MagSqLevelsStore" alt="" coords="1495,343,1697,369"/>
+<area shape="rect" id="node26" href="$d8/d16/structFileSourceSettings.html" title="FileSourceSettings" alt="" coords="1530,393,1662,420"/>
+<area shape="rect" id="node27" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="1147,393,1237,420"/>
+<area shape="rect" id="node28" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l Real, double, 16 \&gt;" alt="" coords="1526,445,1666,486"/>
+</map>

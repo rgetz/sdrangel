@@ -1,0 +1,6 @@
+<map id="BFMDemod::setSampleSink" name="BFMDemod::setSampleSink">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="241,5,460,32"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="508,5,668,32"/>
+<area shape="rect" id="node4" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="716,5,935,32"/>
+<area shape="rect" id="node5" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="983,5,1129,32"/>
+</map>

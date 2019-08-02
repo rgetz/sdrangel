@@ -1,0 +1,13 @@
+<map id="FileInputThread::MsgReportEOF::create" name="FileInputThread::MsgReportEOF::create">
+<area shape="rect" id="node2" href="$d9/d04/classFileInputThread_1_1MsgReportEOF.html#a34bc7f9c57fb217e7fabfda018725861" title="FileInputThread::MsgReport\lEOF::MsgReportEOF" alt="" coords="237,181,421,223"/>
+<area shape="rect" id="node3" href="$d6/d3e/classFileInputThread.html#a1dc40200e68a14a27f19970119e44b53" title="FileInputThread::FileInput\lThread" alt="" coords="475,5,646,47"/>
+<area shape="rect" id="node4" href="$d6/d3e/classFileInputThread.html#aeaa20c9d18f516edc2fa526a150a22c4" title="FileInputThread::setBuffers" alt="" coords="1115,130,1295,157"/>
+<area shape="rect" id="node5" href="$d6/d3e/classFileInputThread.html#ab8051f2b9b99367b980cb873af8fd0ca" title="FileInputThread::setSample\lRateAndSize" alt="" coords="469,123,652,164"/>
+<area shape="rect" id="node6" href="$d6/d3e/classFileInputThread.html#ac8338aa304952cd102dfac7d65b2aab2" title="FileInputThread::stopWork" alt="" coords="701,218,877,245"/>
+<area shape="rect" id="node11" href="$d6/d3e/classFileInputThread.html#a895f8c78dd51c88746e926294d82d4d7" title="FileInputThread::startWork" alt="" coords="700,287,877,314"/>
+<area shape="rect" id="node12" href="$d6/d3e/classFileInputThread.html#adf3ee21ba48be14be3df7d638210d5c6" title="FileInputThread::~FileInput\lThread" alt="" coords="471,240,650,281"/>
+<area shape="rect" id="node7" href="$d6/d3e/classFileInputThread.html#af9f52c883b39484c898383604ee13faf" title="FileInputThread::tick" alt="" coords="925,247,1067,274"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1130,218,1279,245"/>
+<area shape="rect" id="node9" href="$d6/d3e/classFileInputThread.html#aa4dc3f048b097e85b0279dd6444d14f7" title="FileInputThread::writeTo\lSampleFifo" alt="" coords="1123,269,1286,311"/>
+<area shape="rect" id="node10" href="$d0/d92/classSampleSinkFifo.html#a00f37394c7a6f2ccd0cf9f50b12534c7" title="SampleSinkFifo::write" alt="" coords="1343,277,1493,303"/>
+</map>

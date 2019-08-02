@@ -1,0 +1,47 @@
+<map id="LimeSDRInputGUI" name="LimeSDRInputGUI">
+<area shape="rect" id="node2" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="828,635,960,661"/>
+<area shape="rect" id="node26" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1282,911,1367,937"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="42,849,155,876"/>
+<area shape="rect" id="node5" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="811,895,977,921"/>
+<area shape="rect" id="node8" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="438,876,581,903"/>
+<area shape="rect" id="node9" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="434,820,585,847"/>
+<area shape="rect" id="node10" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="815,776,973,803"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="443,707,576,733"/>
+<area shape="rect" id="node13" href="$d4/dcb/classGLSpectrumGUI.html" title="GLSpectrumGUI" alt="" coords="1265,331,1384,357"/>
+<area shape="rect" id="node15" href="$d6/dab/classGLSpectrum.html" title="GLSpectrum" alt="" coords="462,269,557,296"/>
+<area shape="rect" id="node28" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="808,1155,980,1181"/>
+<area shape="rect" id="node29" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="435,1461,583,1488"/>
+<area shape="rect" id="node4" href="$d3/d37/classDeviceUISet.html" title="DeviceUISet" alt="" coords="1616,804,1713,831"/>
+<area shape="rect" id="node6" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="451,1060,567,1087"/>
+<area shape="rect" id="node7" href="$d6/d28/classMessage.html" title="Message" alt="" coords="61,1505,136,1532"/>
+<area shape="rect" id="node20" href="$d1/dfc/classSpectrumVis.html" title="SpectrumVis" alt="" coords="845,545,943,572"/>
+<area shape="rect" id="node46" href="$da/d2c/classFileRecord.html" title="FileRecord" alt="" coords="1069,1080,1155,1107"/>
+<area shape="rect" id="node12" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="34,655,163,681"/>
+<area shape="rect" id="node14" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="849,217,939,244"/>
+<area shape="rect" id="node16" href="$de/d86/classGLShaderSimple.html" title="GLShaderSimple" alt="" coords="39,272,159,299"/>
+<area shape="rect" id="node17" href="$dc/db0/classScaleEngine.html" title="ScaleEngine" alt="" coords="51,45,146,72"/>
+<area shape="rect" id="node18" href="$de/dd6/classIncrementalArray.html" title="IncrementalArray\&lt; GLfloat \&gt;" alt="" coords="5,135,192,161"/>
+<area shape="rect" id="node19" href="$d1/d17/classGLShaderTextured.html" title="GLShaderTextured" alt="" coords="33,221,164,248"/>
+<area shape="rect" id="node21" href="$de/d10/classFFTEngine.html" title="FFTEngine" alt="" coords="466,495,553,521"/>
+<area shape="rect" id="node22" href="$d3/d06/classMax2D.html" title="Max2D\&lt; double \&gt;" alt="" coords="446,545,573,572"/>
+<area shape="rect" id="node23" href="$d3/d9f/classFixedAverage2D.html" title="FixedAverage2D\&lt; double \&gt;" alt="" coords="419,596,600,623"/>
+<area shape="rect" id="node24" href="$df/d5a/classFFTWindow.html" title="FFTWindow" alt="" coords="463,647,556,673"/>
+<area shape="rect" id="node25" href="$df/d7f/classMovingAverage2D.html" title="MovingAverage2D\&lt; double \&gt;" alt="" coords="414,444,605,471"/>
+<area shape="rect" id="node39" href="$df/d1b/classLimeSDRInput.html" title="LimeSDRInput" alt="" coords="1611,1404,1719,1431"/>
+<area shape="rect" id="node27" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="839,956,949,983"/>
+<area shape="rect" id="node30" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="41,1576,156,1603"/>
+<area shape="rect" id="node43" href="$d3/d7a/classLimeSDRInputThread.html" title="LimeSDRInputThread" alt="" coords="1251,1588,1399,1615"/>
+<area shape="rect" id="node31" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="429,1193,589,1234"/>
+<area shape="rect" id="node32" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="439,1261,579,1302"/>
+<area shape="rect" id="node33" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="434,1326,585,1367"/>
+<area shape="rect" id="node34" href="$db/d40/classChannelWindow.html" title="ChannelWindow" alt="" coords="1266,779,1383,805"/>
+<area shape="rect" id="node35" href="$da/d73/classSamplingDeviceControl.html" title="SamplingDeviceControl" alt="" coords="1245,1300,1404,1327"/>
+<area shape="rect" id="node36" href="$de/d59/classPluginManager.html" title="PluginManager" alt="" coords="840,1345,948,1372"/>
+<area shape="rect" id="node37" href="$d6/d95/classPluginAPI.html" title="PluginAPI" alt="" coords="1285,1351,1365,1377"/>
+<area shape="rect" id="node38" href="$d7/dab/structLimeSDRInputSettings.html" title="LimeSDRInputSettings" alt="" coords="1247,1401,1403,1428"/>
+<area shape="rect" id="node40" href="$d2/dc0/classDeviceLimeSDRShared.html" title="DeviceLimeSDRShared" alt="" coords="1244,1683,1405,1709"/>
+<area shape="rect" id="node41" href="$d8/d20/structDeviceLimeSDRParams.html" title="DeviceLimeSDRParams" alt="" coords="811,1732,977,1759"/>
+<area shape="rect" id="node42" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html" title="DeviceLimeSDRShared\l::ThreadInterface" alt="" coords="813,1666,975,1707"/>
+<area shape="rect" id="node44" href="$d0/d5b/classDecimators.html" title="Decimators\&lt; qint32,\l qint16, SDR_RX_SAMP\l_SZ, 12 \&gt;" alt="" coords="809,1535,979,1591"/>
+<area shape="rect" id="node45" href="$da/dea/classIntHalfbandFilterEO.html" title="IntHalfbandFilterEO\l\&lt; qint32, qint32, DECIMATORS\l_HB_FILTER_ORDER \&gt;" alt="" coords="404,1535,615,1591"/>
+</map>

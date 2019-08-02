@@ -1,0 +1,78 @@
+<map id="XTRXOutputGUI::XTRXOutputGUI" name="XTRXOutputGUI::XTRXOutputGUI">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1488,1519,1528,1546"/>
+<area shape="rect" id="node7" href="$d8/d63/classXTRXOutputGUI.html#a074b46a8b516204656bee4e784953f5c" title="XTRXOutputGUI::displaySettings" alt="" coords="841,1687,1059,1714"/>
+<area shape="rect" id="node10" href="$d1/d5f/classXTRXOutput.html#a37bcb21db97cfa60c0d2e84590cc4820" title="XTRXOutput::getSRRange" alt="" coords="1418,1826,1598,1853"/>
+<area shape="rect" id="node15" href="$d1/d5f/classXTRXOutput.html#af7bdcc735967b29d2f1fd7cd949c8c48" title="XTRXOutput::getChannelIndex" alt="" coords="292,2191,495,2218"/>
+<area shape="rect" id="node16" href="$d1/d5f/classXTRXOutput.html#a94140b374065347fa53ddadbdebbd86a" title="XTRXOutput::getLORange" alt="" coords="304,2242,483,2269"/>
+<area shape="rect" id="node17" href="$d1/d5f/classXTRXOutput.html#a278650cc80aaf6f6fede5f170a3fc7e8" title="XTRXOutput::getLPRange" alt="" coords="305,2293,482,2319"/>
+<area shape="rect" id="node18" href="$dd/db6/classDeviceAPI.html#a5524e327d9818a37611bf0e7f2b2b965" title="Return pointer to the device sample sink (single Tx) or nullptr. " alt="" coords="303,2449,484,2475"/>
+<area shape="rect" id="node20" href="$d8/d63/classXTRXOutputGUI.html#a65c356ea0a031215b0addc1177cf962f" title="XTRXOutputGUI::handleInput\lMessages" alt="" coords="295,1660,491,1701"/>
+<area shape="rect" id="node49" href="$d8/d63/classXTRXOutputGUI.html#a5a9bc4a234b5aa05a0db49047db2cb35" title="XTRXOutputGUI::openDevice\lSettingsDialog" alt="" coords="851,285,1049,327"/>
+<area shape="rect" id="node59" href="$d8/d63/classXTRXOutputGUI.html#a12bac09900d798e13f5690bf97d1e25b" title="XTRXOutputGUI::updateHardware" alt="" coords="281,2010,505,2037"/>
+<area shape="rect" id="node63" href="$d8/d63/classXTRXOutputGUI.html#a710cf47fe82e7a1b7a47bfddd27275cf" title="XTRXOutputGUI::updateStatus" alt="" coords="290,2141,497,2167"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1684,1519,1792,1546"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1877,1541,2025,1583"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="2081,1490,2200,1517"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="2073,1541,2208,1583"/>
+<area shape="rect" id="node8" href="$d8/d63/classXTRXOutputGUI.html#aec87e7186e086deb8dd5976c39cd2793" title="XTRXOutputGUI::setCenter\lFrequencyDisplay" alt="" coords="1155,1621,1341,1663"/>
+<area shape="rect" id="node9" href="$d8/d63/classXTRXOutputGUI.html#a0e826027a6b17bbc1cc0f167d1508f63" title="XTRXOutputGUI::displaySampleRate" alt="" coords="1127,1763,1369,1790"/>
+<area shape="rect" id="node11" href="$d8/d63/classXTRXOutputGUI.html#a212a24a37491a3b5914c0fce441a2551" title="XTRXOutputGUI::updateDACRate" alt="" coords="1135,1687,1361,1714"/>
+<area shape="rect" id="node14" href="$d8/d63/classXTRXOutputGUI.html#a19c23efcd352787fc8fa876ce21d017c" title="XTRXOutputGUI::setNCODisplay" alt="" coords="1137,1519,1359,1546"/>
+<area shape="rect" id="node12" href="$d1/d5f/classXTRXOutput.html#ad672930f8b6587271800f83c07c890ca" title="XTRXOutput::getClockGen" alt="" coords="1417,1687,1599,1714"/>
+<area shape="rect" id="node13" href="$dd/d06/classDeviceXTRX.html#a6b64ef55a7c84aa6b952fe5e26e48268" title="DeviceXTRX::getClockGen" alt="" coords="1647,1687,1829,1714"/>
+<area shape="rect" id="node19" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="585,2564,742,2605"/>
+<area shape="rect" id="node21" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="592,1718,735,1745"/>
+<area shape="rect" id="node22" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="891,618,1009,645"/>
+<area shape="rect" id="node24" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="587,1835,739,1876"/>
+<area shape="rect" id="node25" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="587,1536,739,1577"/>
+<area shape="rect" id="node26" href="$d8/d63/classXTRXOutputGUI.html#a76e16bd5bdc5adc84314dafbf2b21ade" title="XTRXOutputGUI::updateSample\lRateAndFrequency" alt="" coords="557,1769,769,1811"/>
+<area shape="rect" id="node31" href="$d0/df7/classXTRXOutput_1_1MsgConfigureXTRX.html#aa3bf19602c15e2e515a72316823fe2b8" title="XTRXOutput::MsgConfigure\lXTRX::getSettings" alt="" coords="570,1601,757,1643"/>
+<area shape="rect" id="node32" href="$d8/d63/classXTRXOutputGUI.html#a6bef06277cb9dbaa85094634eb78d151" title="XTRXOutputGUI::handleMessage" alt="" coords="553,1185,773,1211"/>
+<area shape="rect" id="node23" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1163,618,1333,645"/>
+<area shape="rect" id="node27" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="861,1839,1039,1866"/>
+<area shape="rect" id="node28" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="853,1941,1047,1967"/>
+<area shape="rect" id="node30" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="839,1738,1061,1765"/>
+<area shape="rect" id="node29" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1173,1991,1323,2018"/>
+<area shape="rect" id="node33" href="$d2/d3b/classDeviceXTRXShared_1_1MsgReportBuddyChange.html#afa851b14a33e4b168e60453ca55369c1" title="DeviceXTRXShared::MsgReport\lBuddyChange::getDevSampleRate" alt="" coords="837,851,1063,892"/>
+<area shape="rect" id="node34" href="$d2/d3b/classDeviceXTRXShared_1_1MsgReportBuddyChange.html#a59492b56c22d51b14c962f5d029da674" title="DeviceXTRXShared::MsgReport\lBuddyChange::getLog2HardDecimInterp" alt="" coords="821,916,1079,957"/>
+<area shape="rect" id="node35" href="$d2/d3b/classDeviceXTRXShared_1_1MsgReportBuddyChange.html#a47769f984f035d8305c3daa91cf9d4a3" title="DeviceXTRXShared::MsgReport\lBuddyChange::getRxElseTx" alt="" coords="844,981,1056,1023"/>
+<area shape="rect" id="node36" href="$d2/d3b/classDeviceXTRXShared_1_1MsgReportBuddyChange.html#ac4fd56666a26e5c02d18ad2abede9837" title="DeviceXTRXShared::MsgReport\lBuddyChange::getCenterFrequency" alt="" coords="835,1047,1065,1088"/>
+<area shape="rect" id="node37" href="$d8/d63/classXTRXOutputGUI.html#ae7b98bf3d1a4eb6e977323528c9d163c" title="XTRXOutputGUI::blockApply\lSettings" alt="" coords="853,1112,1047,1153"/>
+<area shape="rect" id="node38" href="$d0/dd4/classDeviceXTRXShared_1_1MsgReportClockSourceChange.html#ad5c39414acfa85146d9e47b032f37d38" title="DeviceXTRXShared::MsgReport\lClockSourceChange::getExtClockFeq" alt="" coords="828,1177,1072,1219"/>
+<area shape="rect" id="node39" href="$d0/dd4/classDeviceXTRXShared_1_1MsgReportClockSourceChange.html#a3acdc86db91ab4b07e45db9d6c663d3b" title="DeviceXTRXShared::MsgReport\lClockSourceChange::getExtClock" alt="" coords="839,1243,1061,1284"/>
+<area shape="rect" id="node40" href="$d1/d5f/classXTRXOutput.html#a53a889e2ababd82866c0511a5bd50424" title="XTRXOutput::getDevSampleRate" alt="" coords="841,669,1059,695"/>
+<area shape="rect" id="node42" href="$d6/d0d/classXTRXOutput_1_1MsgReportStreamInfo.html#abe35fc50c5b7b9152b58e14ed18c70cd" title="XTRXOutput::MsgReportStream\lInfo::getSuccess" alt="" coords="845,1360,1055,1401"/>
+<area shape="rect" id="node43" href="$d6/d0d/classXTRXOutput_1_1MsgReportStreamInfo.html#a1b2ab4745b1c2f1f56bd859ce287d7ab" title="XTRXOutput::MsgReportStream\lInfo::getActive" alt="" coords="845,1425,1055,1467"/>
+<area shape="rect" id="node44" href="$d6/d0d/classXTRXOutput_1_1MsgReportStreamInfo.html#a913d12bf9a6b41fa2352df95c81223f9" title="XTRXOutput::MsgReportStream\lInfo::getFifoSize" alt="" coords="845,1491,1055,1532"/>
+<area shape="rect" id="node45" href="$d6/d0d/classXTRXOutput_1_1MsgReportStreamInfo.html#a9120f9c5249f6df0dcf91dd06936e5ec" title="XTRXOutput::MsgReportStream\lInfo::getFifoFilledCount" alt="" coords="845,1556,1055,1597"/>
+<area shape="rect" id="node46" href="$d2/dd6/classDeviceXTRXShared_1_1MsgReportDeviceInfo.html#a8ee9db6d8f89ff485e139cddbcd708d9" title="DeviceXTRXShared::MsgReport\lDeviceInfo::getTemperature" alt="" coords="844,1621,1056,1663"/>
+<area shape="rect" id="node47" href="$d2/dd6/classDeviceXTRXShared_1_1MsgReportDeviceInfo.html#a14c14a03477c051fcf3b4069d80b2253" title="DeviceXTRXShared::MsgReport\lDeviceInfo::getGPSLocked" alt="" coords="844,720,1056,761"/>
+<area shape="rect" id="node48" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#a65c7d056763b43f6be16b8ea7c6ed0eb" title="XTRXOutput::MsgStartStop\l::getStartStop" alt="" coords="857,785,1043,827"/>
+<area shape="rect" id="node41" href="$dd/d06/classDeviceXTRX.html#a83295fa9af9d4fa260cda2da1f4dd780" title="DeviceXTRX::getActualOutputRate" alt="" coords="1133,669,1363,695"/>
+<area shape="rect" id="node50" href="$dd/d41/classBasicDeviceSettingsDialog.html#a620777e513db5769113671f437eb92df" title="BasicDeviceSettingsDialog\l::setUseReverseAPI" alt="" coords="1157,253,1339,295"/>
+<area shape="rect" id="node51" href="$dd/d41/classBasicDeviceSettingsDialog.html#a515540601bb272d9a04b9f048f912ad6" title="BasicDeviceSettingsDialog\l::useReverseAPI" alt="" coords="1417,224,1599,265"/>
+<area shape="rect" id="node52" href="$dd/d41/classBasicDeviceSettingsDialog.html#a2336847621183281351768eb2b807bd5" title="BasicDeviceSettingsDialog\l::setReverseAPIAddress" alt="" coords="1157,5,1339,47"/>
+<area shape="rect" id="node53" href="$dd/d41/classBasicDeviceSettingsDialog.html#a354a53bfe121fccc20ef67ca2d460402" title="BasicDeviceSettingsDialog\l::setReverseAPIPort" alt="" coords="1157,436,1339,477"/>
+<area shape="rect" id="node54" href="$dd/d41/classBasicDeviceSettingsDialog.html#a868a115f83061f3f1f97125c52f5caf2" title="BasicDeviceSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="1152,501,1344,543"/>
+<area shape="rect" id="node55" href="$dd/d41/classBasicDeviceSettingsDialog.html#a4f0da112a518f3aacaa69639f8f6f527" title="BasicDeviceSettingsDialog\l::getReverseAPIAddress" alt="" coords="1157,71,1339,112"/>
+<area shape="rect" id="node56" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9e97aa1103eb0b3564ca02a9c836a952" title="BasicDeviceSettingsDialog\l::getReverseAPIPort" alt="" coords="1157,136,1339,177"/>
+<area shape="rect" id="node57" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9dc629d97e53555fb3f1df907f9bf490" title="BasicDeviceSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="1152,319,1344,360"/>
+<area shape="rect" id="node58" href="$d8/d63/classXTRXOutputGUI.html#a1475ac42c51d6216e7dd7c4cdefd7d2a" title="XTRXOutputGUI::sendSettings" alt="" coords="1145,385,1351,411"/>
+<area shape="rect" id="node60" href="$d0/df7/classXTRXOutput_1_1MsgConfigureXTRX.html#a2faed7b16085d286a3c5266a70292e49" title="XTRXOutput::MsgConfigure\lXTRX::create" alt="" coords="570,2003,757,2044"/>
+<area shape="rect" id="node62" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="569,2068,757,2109"/>
+<area shape="rect" id="node61" href="$d0/df7/classXTRXOutput_1_1MsgConfigureXTRX.html#a8610d614edff68c2d25c0072b502aa5f" title="XTRXOutput::MsgConfigure\lXTRX::MsgConfigureXTRX" alt="" coords="857,2043,1043,2084"/>
+<area shape="rect" id="node64" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="602,2513,725,2539"/>
+<area shape="rect" id="node68" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="577,2377,749,2403"/>
+<area shape="rect" id="node75" href="$dd/d77/classXTRXOutput_1_1MsgGetStreamInfo.html#a3f89cf065059f0399532a12a41bec487" title="XTRXOutput::MsgGetStream\lInfo::create" alt="" coords="567,2199,760,2240"/>
+<area shape="rect" id="node76" href="$dd/db6/classDeviceAPI.html#a4fecbce8675ad605005bf95e1392572e" title="DeviceAPI::isBuddyLeader" alt="" coords="574,2315,753,2342"/>
+<area shape="rect" id="node77" href="$d2/d62/classXTRXOutput_1_1MsgGetDeviceInfo.html#a0e55c413b29dc0f5e21491bad22329f5" title="XTRXOutput::MsgGetDevice\lInfo::create" alt="" coords="567,2133,759,2175"/>
+<area shape="rect" id="node65" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="864,2505,1036,2547"/>
+<area shape="rect" id="node66" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="871,2571,1029,2612"/>
+<area shape="rect" id="node67" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="867,2636,1033,2677"/>
+<area shape="rect" id="node69" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="864,2375,1036,2416"/>
+<area shape="rect" id="node72" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="871,2440,1029,2481"/>
+<area shape="rect" id="node73" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="867,2309,1033,2351"/>
+<area shape="rect" id="node70" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="1172,2436,1324,2477"/>
+<area shape="rect" id="node71" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1159,2382,1337,2409"/>
+<area shape="rect" id="node74" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="1155,2302,1341,2358"/>
+</map>

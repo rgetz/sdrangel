@@ -1,0 +1,12 @@
+<map id="ATVDemodSettings::getFps" name="ATVDemodSettings::getFps">
+<area shape="rect" id="node2" href="$d1/dce/structATVDemodSettings.html#a118534d2fc693c37d18e6b02c6fc64b8" title="ATVDemodSettings::convert\lFromUIValues" alt="" coords="765,400,955,441"/>
+<area shape="rect" id="node3" href="$d1/dce/structATVDemodSettings.html#a90bd352299eec20c23fb1285ecaf2016" title="ATVDemodSettings::setChannel\lMarker" alt="" coords="1003,210,1215,252"/>
+<area shape="rect" id="node4" href="$d1/dce/structATVDemodSettings.html#a7fe8ba7a1a135cc2f3dd11e3e241623d" title="ATVDemodSettings::getNominal\lLineTime" alt="" coords="240,232,452,273"/>
+<area shape="rect" id="node5" href="$d1/dce/structATVDemodSettings.html#ad48e3a5267ca1a09c7179b2742f32f4b" title="ATVDemodSettings::lineTime\lUpdate" alt="" coords="511,290,706,332"/>
+<area shape="rect" id="node6" href="$d1/dce/structATVDemodSettings.html#a19b2d39fc950743e2ee601437ccfd955" title="ATVDemodSettings::getLineTime" alt="" coords="500,356,717,383"/>
+<area shape="rect" id="node7" href="$d1/dce/structATVDemodSettings.html#ac36df8fc3725b85e7c78ab324446a349" title="ATVDemodSettings::getLine\lTimeFactor" alt="" coords="766,64,954,105"/>
+<area shape="rect" id="node8" href="$d1/dce/structATVDemodSettings.html#a9dc7a8702f11476d09efc5bfc4a948d4" title="ATVDemodSettings::topTime\lUpdate" alt="" coords="512,458,705,500"/>
+<area shape="rect" id="node9" href="$d1/dce/structATVDemodSettings.html#ad727923549e6d9ef77c59bd2ec6fff26" title="ATVDemodSettings::getTopTime" alt="" coords="501,239,716,266"/>
+<area shape="rect" id="node10" href="$d1/dce/structATVDemodSettings.html#a73f15ad06e0f8a4d4a2cfbbeb6c8f87b" title="ATVDemodSettings::getTop\lTimeFactor" alt="" coords="515,173,702,214"/>
+<area shape="rect" id="node11" href="$d1/dce/structATVDemodSettings.html#ae92d6722828db30126115fd61eb7c006" title="ATVDemodSettings::convert\lToUIValues" alt="" coords="765,181,955,222"/>
+</map>

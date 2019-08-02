@@ -1,0 +1,5 @@
+<map id="DeviceAPI::configureCorrections" name="DeviceAPI::configureCorrections">
+<area shape="rect" id="node2" href="$d2/d3b/classDSPDeviceSourceEngine.html#a65c2430d7ac74a2c112b3aa50b8d2c10" title="Configure DSP corrections. " alt="" coords="267,5,439,47"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#acee0fcafe1b7eb91dd7ff9a11bb5359a" title="Configure source DSP corrections. " alt="" coords="269,71,436,112"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="487,46,636,73"/>
+</map>

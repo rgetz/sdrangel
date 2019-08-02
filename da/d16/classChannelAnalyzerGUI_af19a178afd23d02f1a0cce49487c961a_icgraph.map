@@ -1,0 +1,16 @@
+<map id="ChannelAnalyzerGUI::setFiltersUIBoundaries" name="ChannelAnalyzerGUI::setFiltersUIBoundaries">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#a317330e74d308fc288ab79269ef74cff" title="ChannelAnalyzerGUI\l::on_BW_valueChanged" alt="" coords="226,5,389,47"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#a3906d78ec3e3ede266c26326b1ea0aaf" title="ChannelAnalyzerGUI\l::on_lowCut_valueChanged" alt="" coords="216,71,399,112"/>
+<area shape="rect" id="node4" href="$da/d16/classChannelAnalyzerGUI.html#acf36d05ac1489e0098b2dc7f6564f11b" title="ChannelAnalyzerGUI\l::on_ssb_toggled" alt="" coords="235,136,380,177"/>
+<area shape="rect" id="node5" href="$da/d16/classChannelAnalyzerGUI.html#a5266db1ad8ef190c73a2bd0af78033f8" title="set sample rate after final in&#45;channel decimation " alt="" coords="235,201,380,243"/>
+<area shape="rect" id="node6" href="$da/d16/classChannelAnalyzerGUI.html#a982b69e4c5149e38275a0e21a1f0939f" title="ChannelAnalyzerGUI\l::displaySettings" alt="" coords="474,63,619,104"/>
+<area shape="rect" id="node11" href="$da/d16/classChannelAnalyzerGUI.html#ad809598e8cebf3e1d7922ae0be2c0a91" title="ChannelAnalyzerGUI\l::handleMessage" alt="" coords="474,128,619,169"/>
+<area shape="rect" id="node13" href="$da/d16/classChannelAnalyzerGUI.html#a2dd7d8eefe4f5b3389f61bc4967e2cf0" title="ChannelAnalyzerGUI\l::on_channelSampleRate\l_changed" alt="" coords="463,194,631,250"/>
+<area shape="rect" id="node14" href="$da/d16/classChannelAnalyzerGUI.html#ad8267b91a994f0feca9471ffc20108b8" title="ChannelAnalyzerGUI\l::on_useRationalDownsampler\l_toggled" alt="" coords="447,274,647,330"/>
+<area shape="rect" id="node15" href="$da/d16/classChannelAnalyzerGUI.html#a51c5cc58ee9271976884441944c44bbc" title="ChannelAnalyzerGUI\l::on_spanLog2_currentIndex\lChanged" alt="" coords="453,354,640,410"/>
+<area shape="rect" id="node7" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="900,67,1053,108"/>
+<area shape="rect" id="node10" href="$da/d16/classChannelAnalyzerGUI.html#af3b84f19e08e6d5e3ad07bfb84fe15f1" title="ChannelAnalyzerGUI\l::deserialize" alt="" coords="701,63,846,104"/>
+<area shape="rect" id="node8" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="1101,67,1247,108"/>
+<area shape="rect" id="node9" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1295,67,1452,108"/>
+<area shape="rect" id="node12" href="$da/d16/classChannelAnalyzerGUI.html#a2072c0e62719b86addc5c4f3ca176142" title="ChannelAnalyzerGUI\l::handleInputMessages" alt="" coords="695,128,852,169"/>
+</map>

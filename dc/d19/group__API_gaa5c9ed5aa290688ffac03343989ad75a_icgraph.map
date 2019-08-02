@@ -1,0 +1,46 @@
+<map id="hid_read_timeout" name="hid_read_timeout">
+<area shape="rect" id="node2" href="$dc/d19/group__API.html#ga6b820f3e72097cf7f994e33715dc7af1" title="Read an Input report from a HID device. " alt="" coords="175,925,245,952"/>
+<area shape="rect" id="node3" href="$d8/d48/fcdhid_8h.html#af4a7394af9b8eedbb880a3923ad90374" title="Read FCD parameter (e.g. gain or filter) " alt="" coords="302,537,425,564"/>
+<area shape="rect" id="node4" href="$d8/d48/fcdhid_8h.html#a7b071760ffb6533fb9dace1e1ca60927" title="Set FCD frequency with Hz resolution. " alt="" coords="309,773,418,800"/>
+<area shape="rect" id="node15" href="$d8/d48/fcdhid_8h.html#af07a856b8f453df5b4bc1246ba64ac2f" title="Set FCD frequency with kHz resolution. " alt="" coords="297,824,430,851"/>
+<area shape="rect" id="node16" href="$d8/d48/fcdhid_8h.html#a5d0c7673fda0cad0feee709b17d48ad2" title="Write FCD parameter (e.g. gain or filter) " alt="" coords="303,588,424,615"/>
+<area shape="rect" id="node39" href="$d8/d48/fcdhid_8h.html#a4b9eb9dfd65fd0ecb81355a583ae292b" title="Erase firmware from FCD. " alt="" coords="320,875,407,901"/>
+<area shape="rect" id="node40" href="$d8/d48/fcdhid_8h.html#a37d2602a161291a562640d062dc20953" title="Verify firmware in FCd flash. " alt="" coords="293,925,433,952"/>
+<area shape="rect" id="node41" href="$d8/d48/fcdhid_8h.html#a27496e796a8540fd222328e538a3d334" title="Write new firmware into the FCD. " alt="" coords="295,976,432,1003"/>
+<area shape="rect" id="node42" href="$d8/d48/fcdhid_8h.html#a4a0b60d03f6d31fe059d83575656175f" title="Get hardware and firmware dependent FCD capabilities. " alt="" coords="317,1027,409,1053"/>
+<area shape="rect" id="node43" href="$d8/d48/fcdhid_8h.html#aa586bab586b2785d5eee09b7ae996e73" title="Get hardware and firmware dependent FCD capabilities as string. " alt="" coords="309,1077,418,1104"/>
+<area shape="rect" id="node44" href="$d8/d48/fcdhid_8h.html#aa1f5a963704741d5ba07c273c599209a" title="Get FCD firmware version as string. " alt="" coords="305,1128,421,1155"/>
+<area shape="rect" id="node45" href="$d8/d48/fcdhid_8h.html#afd41368a3a7149cd342d93eea4b603d7" title="Get FCD mode. " alt="" coords="317,1179,410,1205"/>
+<area shape="rect" id="node5" href="$db/d44/classFCDProInput.html#a800b472307859f88fb708a8fb4e1526c" title="FCDProInput::set_center_freq" alt="" coords="483,883,680,909"/>
+<area shape="rect" id="node10" href="$d6/d0c/classFCDProPlusInput.html#a88d4e7ece86ea1de097ebc9680b5c711" title="FCDProPlusInput::set\l_center_freq" alt="" coords="506,1261,657,1302"/>
+<area shape="rect" id="node6" href="$db/d44/classFCDProInput.html#a03ea5225051b00c5b887e78d390fc962" title="FCDProInput::applySettings" alt="" coords="742,411,929,437"/>
+<area shape="rect" id="node7" href="$db/d44/classFCDProInput.html#a3253b71e66f21d286f9617bed63b6d90" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1039,360,1163,387"/>
+<area shape="rect" id="node8" href="$db/d44/classFCDProInput.html#a577177b1c226f836f44c4e8d0b6e2e50" title="FCDProInput::start" alt="" coords="1035,411,1168,437"/>
+<area shape="rect" id="node9" href="$db/d44/classFCDProInput.html#a3e255408d8d188ffc3505a3e2134fe60" title="FCDProInput::handleMessage" alt="" coords="1002,461,1201,488"/>
+<area shape="rect" id="node11" href="$d6/d0c/classFCDProPlusInput.html#abc1e2ec4e142083ff3d6485b20b36154" title="FCDProPlusInput::applySettings" alt="" coords="729,1072,941,1099"/>
+<area shape="rect" id="node12" href="$d6/d0c/classFCDProPlusInput.html#a715d38e9cc6c7b8d70eca26e039953f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1026,1021,1177,1048"/>
+<area shape="rect" id="node13" href="$d6/d0c/classFCDProPlusInput.html#a2a9b9a703885b1ff1bbc14fca2263336" title="FCDProPlusInput::start" alt="" coords="1022,1072,1181,1099"/>
+<area shape="rect" id="node14" href="$d6/d0c/classFCDProPlusInput.html#af2a33a42a9581b86f4d6d6093e92d43e" title="FCDProPlusInput::handleMessage" alt="" coords="989,1123,1213,1149"/>
+<area shape="rect" id="node17" href="$db/d44/classFCDProInput.html#a703ebe86387fb1ed8a5a7c6dc91391cd" title="FCDProInput::set_band" alt="" coords="501,157,661,184"/>
+<area shape="rect" id="node18" href="$d6/d0c/classFCDProPlusInput.html#ad34fd771f4d008487c6484879b1a50a8" title="FCDProPlusInput::set\l_bias_t" alt="" coords="506,934,657,975"/>
+<area shape="rect" id="node19" href="$db/d44/classFCDProInput.html#a8e51209940b1413811c1a2f3b605b683" title="FCDProInput::set_biasCurrent" alt="" coords="482,208,681,235"/>
+<area shape="rect" id="node20" href="$db/d44/classFCDProInput.html#aeb5d454cf098b420254bc723fdd99831" title="FCDProInput::set_gain1" alt="" coords="500,259,663,285"/>
+<area shape="rect" id="node21" href="$db/d44/classFCDProInput.html#ac2d455ea7e41cad72a492bb531b1c9a4" title="FCDProInput::set_gain2" alt="" coords="500,309,663,336"/>
+<area shape="rect" id="node22" href="$db/d44/classFCDProInput.html#aeba27eb1ead0d1c05ecc28b12c78752f" title="FCDProInput::set_gain3" alt="" coords="500,360,663,387"/>
+<area shape="rect" id="node23" href="$db/d44/classFCDProInput.html#aff6a41d180463c4e96f9fe96eef43ab0" title="FCDProInput::set_gain4" alt="" coords="500,411,663,437"/>
+<area shape="rect" id="node24" href="$db/d44/classFCDProInput.html#a91046d776dff1d93092df6ad7cff6730" title="FCDProInput::set_gain5" alt="" coords="500,461,663,488"/>
+<area shape="rect" id="node25" href="$db/d44/classFCDProInput.html#a2fc5d2e0483b6239078e81b39dca75ad" title="FCDProInput::set_gain6" alt="" coords="500,512,663,539"/>
+<area shape="rect" id="node26" href="$d6/d0c/classFCDProPlusInput.html#abd80cc685a837e9e3c9562341ea39b33" title="FCDProPlusInput::set\l_if_filter" alt="" coords="506,999,657,1041"/>
+<area shape="rect" id="node27" href="$d6/d0c/classFCDProPlusInput.html#ad858141f07c73b22ff37cfb956c00423" title="FCDProPlusInput::set\l_if_gain" alt="" coords="506,1065,657,1106"/>
+<area shape="rect" id="node28" href="$db/d44/classFCDProInput.html#a440613235becbef985bf90b493f07c62" title="FCDProInput::set_ifFilter" alt="" coords="497,563,665,589"/>
+<area shape="rect" id="node29" href="$d6/d0c/classFCDProPlusInput.html#a8a50da99a87047ce172df8c915d7d719" title="FCDProPlusInput::set\l_lna_gain" alt="" coords="506,1130,657,1171"/>
+<area shape="rect" id="node30" href="$db/d44/classFCDProInput.html#a55a0c2c4164aa48b85408f94c03584b7" title="FCDProInput::set_lnaEnhance" alt="" coords="481,613,681,640"/>
+<area shape="rect" id="node31" href="$db/d44/classFCDProInput.html#a4d863fb14e1e199b4a5e12b9bc566bc9" title="FCDProInput::set_lnaGain" alt="" coords="493,664,669,691"/>
+<area shape="rect" id="node32" href="$d6/d0c/classFCDProPlusInput.html#a075bff0a96332091fb996987c001c806" title="FCDProPlusInput::set\l_mixer_gain" alt="" coords="506,1195,657,1237"/>
+<area shape="rect" id="node33" href="$db/d44/classFCDProInput.html#a640d35346a21a3b0a759435832e73beb" title="FCDProInput::set_mixerFilter" alt="" coords="485,715,678,741"/>
+<area shape="rect" id="node34" href="$db/d44/classFCDProInput.html#a6f32f1becc73f167f0092e6e73ce59c9" title="FCDProInput::set_mixerGain" alt="" coords="486,765,677,792"/>
+<area shape="rect" id="node35" href="$db/d44/classFCDProInput.html#a4aab9ded6729fed76ae39a67bf7a443e" title="FCDProInput::set_mode" alt="" coords="499,5,663,32"/>
+<area shape="rect" id="node36" href="$db/d44/classFCDProInput.html#a3681d5ab4693a65afdd3a6d06d7ac4c1" title="FCDProInput::set_rcFilter" alt="" coords="495,56,667,83"/>
+<area shape="rect" id="node37" href="$d6/d0c/classFCDProPlusInput.html#ae1fd342fa2ac3bf58e5c08a41f7db533" title="FCDProPlusInput::set\l_rf_filter" alt="" coords="506,817,657,858"/>
+<area shape="rect" id="node38" href="$db/d44/classFCDProInput.html#a0613c0f1f9dfcee387fcb1170260cf78" title="FCDProInput::set_rfFilter" alt="" coords="497,107,666,133"/>
+</map>

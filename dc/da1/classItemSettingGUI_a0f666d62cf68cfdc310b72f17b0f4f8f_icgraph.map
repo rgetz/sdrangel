@@ -1,0 +1,6 @@
+<map id="ItemSettingGUI::valueChanged" name="ItemSettingGUI::valueChanged">
+<area shape="rect" id="node2" href="$dd/d21/classIntervalSliderGUI.html#a3050a169a581a141a7ee5c2a89926572" title="IntervalSliderGUI::\lon_intervalSlider_valueChanged" alt="" coords="271,5,479,47"/>
+<area shape="rect" id="node3" href="$d2/d5c/classDiscreteRangeGUI.html#a6cf1c5dba92a4df8276ac14364eeba98" title="DiscreteRangeGUI::on\l_rangeCombo_currentIndexChanged" alt="" coords="257,71,492,112"/>
+<area shape="rect" id="node4" href="$d3/d32/classIntervalRangeGUI.html#a0ceaee1f35dce4eea0cadb7dcec7540c" title="IntervalRangeGUI::on\l_rangeInterval_currentIndex\lChanged" alt="" coords="283,137,466,193"/>
+<area shape="rect" id="node5" href="$d3/d32/classIntervalRangeGUI.html#a29a22b4e4961d06b02cd8d0d3de63c67" title="IntervalRangeGUI::on\l_value_changed" alt="" coords="300,217,449,259"/>
+</map>

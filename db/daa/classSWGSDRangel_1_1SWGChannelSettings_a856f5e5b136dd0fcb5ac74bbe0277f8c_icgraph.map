@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGChannelSettings::getChannelType" name="SWGSDRangel::SWGChannelSettings::getChannelType">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a0a423dbdb84fb6dc17f45e546e233146" title="WebAPIAdapterGUI::deviceset\lChannelPost" alt="" coords="304,5,508,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ae6db6b5768f950974a92eb79b3f9082e" title="WebAPIAdapterSrv::deviceset\lChannelPost" alt="" coords="306,71,506,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a2ddfa40eea2ef4cb8640849dffd55839" title="WebAPIAdapterGUI::deviceset\lChannelSettingsGet" alt="" coords="304,136,508,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#acd25c51ddecb96dfb6a406b8ccc57f97" title="WebAPIAdapterSrv::deviceset\lChannelSettingsGet" alt="" coords="306,201,506,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#af3d377913a22331aa24db4337c23fec9" title="WebAPIAdapterGUI::deviceset\lChannelSettingsPutPatch" alt="" coords="304,267,508,308"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#ab277164f47756ff527061807af8ad4e8" title="WebAPIAdapterSrv::deviceset\lChannelSettingsPutPatch" alt="" coords="306,332,506,373"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="321,397,491,439"/>
+<area shape="rect" id="node9" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="556,390,739,446"/>
+<area shape="rect" id="node10" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="787,397,949,439"/>
+</map>

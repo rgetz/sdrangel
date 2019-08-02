@@ -1,0 +1,12 @@
+<map id="GLScopeGUI::serialize" name="GLScopeGUI::serialize">
+<area shape="rect" id="node2" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="226,5,374,32"/>
+<area shape="rect" id="node3" href="$d2/d02/classGLScope.html#abbfd1a99732fc1c59ba79b7e06e331e6" title="GLScope::getDisplayMode" alt="" coords="211,56,389,83"/>
+<area shape="rect" id="node4" href="$d7/dcf/classScopeVis.html#a65d0a6c257d913418edf0893ddd74be3" title="ScopeVis::getNbTriggers" alt="" coords="216,107,384,133"/>
+<area shape="rect" id="node5" href="$d7/dcf/classScopeVis.html#a297449d53396bdc06e5f33a711f625d0" title="ScopeVis::getTracesData" alt="" coords="214,157,386,184"/>
+<area shape="rect" id="node6" href="$d7/dcf/classScopeVis.html#a08d57946317a2eeafdbdb1d02814898c" title="ScopeVis::getTriggerData" alt="" coords="214,208,386,235"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="211,259,389,285"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="209,309,391,336"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="213,360,387,387"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="212,411,388,437"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="439,335,613,361"/>
+</map>

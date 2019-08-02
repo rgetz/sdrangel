@@ -1,0 +1,24 @@
+<map id="SDRPlayInput::webapiReportGet" name="SDRPlayInput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#afaaa93dfa3d721228d018dc14b8d2639" title="SWGSDRangel::SWGDeviceReport\l::getSdrPlayReport" alt="" coords="571,5,805,47"/>
+<area shape="rect" id="node3" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a9cd07c87d9cfe4b45933ed50849bc385" title="SWGSDRangel::SWGSDRPlayReport\l::init" alt="" coords="268,217,516,259"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ae0bbafb3860f42006f6c4ec48c29f2ca" title="SWGSDRangel::SWGDeviceReport\l::setSdrPlayReport" alt="" coords="275,283,509,324"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a09db82c5770a92204fbe621434ce1baf" title="SDRPlayInput::webapiFormat\lDeviceReport" alt="" coords="294,501,490,543"/>
+<area shape="rect" id="node6" href="$d8/d77/classSDRPlayBands.html#a7e2b29326b88ba8498b822604d7ad9f7" title="SDRPlayBands::getBandHigh" alt="" coords="589,71,787,98"/>
+<area shape="rect" id="node7" href="$d8/d77/classSDRPlayBands.html#a75ab90ff5e5954793439ceb1c7c2ca0c" title="SDRPlayBands::getBandLow" alt="" coords="591,122,785,149"/>
+<area shape="rect" id="node8" href="$d8/d77/classSDRPlayBands.html#a928ae34512d321473fc79a4175817004" title="SDRPlayBands::getBandName" alt="" coords="585,173,791,199"/>
+<area shape="rect" id="node9" href="$d7/d77/classSDRPlayBandwidths.html#a1e2a8c7153578995e7cf0324b802793e" title="SDRPlayBandwidths::\lgetBandwidth" alt="" coords="611,224,765,265"/>
+<area shape="rect" id="node10" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a0b7ae9ecffc8e5163c341bb658c77427" title="SWGSDRangel::SWGSDRPlayReport\l::getBandwidths" alt="" coords="564,289,812,331"/>
+<area shape="rect" id="node11" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a73ccd9f54306d9c039f0d139ff7d4d03" title="SWGSDRangel::SWGSDRPlayReport\l::getFrequencyBands" alt="" coords="564,355,812,396"/>
+<area shape="rect" id="node12" href="$d2/d28/classSDRPlayIF.html#abe589fb7ab671bca5746af6d4ae471f3" title="SDRPlayIF::getIF" alt="" coords="625,421,751,447"/>
+<area shape="rect" id="node13" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a01608356e0d727e58a8d9f9a28f05f86" title="SWGSDRangel::SWGSDRPlayReport\l::getIntermediateFrequencies" alt="" coords="564,472,812,513"/>
+<area shape="rect" id="node14" href="$d8/d77/classSDRPlayBands.html#a62c8c047df604cd4b3b96e5671bb9c1d" title="SDRPlayBands::getNbBands" alt="" coords="591,538,785,565"/>
+<area shape="rect" id="node15" href="$d7/d77/classSDRPlayBandwidths.html#a3c40d3e71af2489e88c7d3ca3ad0fca7" title="SDRPlayBandwidths::\lgetNbBandwidths" alt="" coords="611,589,765,631"/>
+<area shape="rect" id="node16" href="$d2/d28/classSDRPlayIF.html#a799d22cbc11d9ce21ce9e82d1c4ed9f2" title="SDRPlayIF::getNbIFs" alt="" coords="613,655,763,682"/>
+<area shape="rect" id="node17" href="$d2/da6/classSDRPlaySampleRates.html#a481286562d424c61687a35fa2b3d539b" title="SDRPlaySampleRates\l::getNbRates" alt="" coords="610,707,766,748"/>
+<area shape="rect" id="node18" href="$d2/da6/classSDRPlaySampleRates.html#a78b0edfca39c8a54d8330e3138e86ce8" title="SDRPlaySampleRates\l::getRate" alt="" coords="610,772,766,813"/>
+<area shape="rect" id="node19" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a2edcbe7007a4d47c5850818d45a777a8" title="SWGSDRangel::SWGSDRPlayReport\l::getSampleRates" alt="" coords="564,837,812,879"/>
+<area shape="rect" id="node20" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a95a6d9747545c403cf88880484448d4f" title="SWGSDRangel::SWGSDRPlayReport\l::setBandwidths" alt="" coords="564,903,812,944"/>
+<area shape="rect" id="node21" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#aa5866d1ac989d611e235e7031ddde7ea" title="SWGSDRangel::SWGSDRPlayReport\l::setFrequencyBands" alt="" coords="564,968,812,1009"/>
+<area shape="rect" id="node22" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#aed0347537ad2242b7241593e195366b4" title="SWGSDRangel::SWGSDRPlayReport\l::setIntermediateFrequencies" alt="" coords="564,1033,812,1075"/>
+<area shape="rect" id="node23" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a4bb3ba18cb8de9ccc239444e963c9fc0" title="SWGSDRangel::SWGSDRPlayReport\l::setSampleRates" alt="" coords="564,1099,812,1140"/>
+</map>

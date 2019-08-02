@@ -1,0 +1,6 @@
+<map id="PlutoSDRInputGui::updateHardware" name="PlutoSDRInputGui::updateHardware">
+<area shape="rect" id="node2" href="$dd/d79/classPlutoSDRInput_1_1MsgConfigurePlutoSDR.html#a6b399b84a50b2a6531471e89c3c35c53" title="PlutoSDRInput::MsgConfigure\lPlutoSDR::create" alt="" coords="231,5,429,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="246,71,414,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="255,137,405,163"/>
+<area shape="rect" id="node3" href="$dd/d79/classPlutoSDRInput_1_1MsgConfigurePlutoSDR.html#a3bb2fc63414d5dd24fd4742598ff7196" title="PlutoSDRInput::MsgConfigure\lPlutoSDR::MsgConfigurePlutoSDR" alt="" coords="477,5,707,47"/>
+</map>

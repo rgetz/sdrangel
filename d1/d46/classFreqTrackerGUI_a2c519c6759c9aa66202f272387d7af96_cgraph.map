@@ -1,0 +1,8 @@
+<map id="FreqTrackerGUI::setCenterFrequency" name="FreqTrackerGUI::setCenterFrequency">
+<area shape="rect" id="node2" href="$d1/d46/classFreqTrackerGUI.html#a3e241fc48e5cc53b0599d6fd1553bd73" title="FreqTrackerGUI::applySettings" alt="" coords="235,78,437,105"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="249,129,423,171"/>
+<area shape="rect" id="node3" href="$d6/ddd/classFreqTracker_1_1MsgConfigureFreqTracker.html#a971e73cafc217f134df2e4ed5dd9848e" title="FreqTracker::MsgConfigure\lFreqTracker::create" alt="" coords="485,5,667,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="492,71,660,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="501,137,651,163"/>
+<area shape="rect" id="node4" href="$d6/ddd/classFreqTracker_1_1MsgConfigureFreqTracker.html#a5aee20a3618f7d2a4f59e2c46daf8874" title="FreqTracker::MsgConfigure\lFreqTracker::MsgConfigureFreqTracker" alt="" coords="715,5,965,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ChannelMarker::serialize" name="ChannelMarker::serialize">
+<area shape="rect" id="node2" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="245,5,393,32"/>
+<area shape="rect" id="node3" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="231,57,406,98"/>
+<area shape="rect" id="node4" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="235,123,402,149"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#a25e55699214d7c72a4f0172d630d2f7c" title="ChannelMarker::getFrequency\lScaleDisplayType" alt="" coords="220,174,417,215"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="238,240,399,267"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="231,291,406,317"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="225,341,412,368"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="231,392,407,419"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="465,341,640,368"/>
+</map>

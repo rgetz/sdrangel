@@ -1,0 +1,9 @@
+<map id="XTRXOutputSettings::serialize" name="XTRXOutputSettings::serialize">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#aceabb0c9d9003de604e41504331e2567" title="XTRXOutputGUI::serialize" alt="" coords="199,5,376,32"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#adb857b00eccb80622f5fc9f34f9fe95c" title="XTRXOutput::serialize" alt="" coords="211,56,364,83"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a4a2fb919e0f4485997e2ee2a78130389" title="XTRXOutput::setThread" alt="" coords="424,56,587,83"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#a44dd083e222b948894b25220c7bed28d" title="XTRXOutput::moveThreadTo\lBuddy" alt="" coords="635,49,827,90"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="875,56,1052,83"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="1100,56,1288,83"/>
+<area shape="rect" id="node8" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1336,49,1521,90"/>
+</map>

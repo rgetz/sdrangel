@@ -1,0 +1,6 @@
+<map id="SSBModSettings::setSpectrumGUI" name="SSBModSettings::setSpectrumGUI">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="281,5,464,32"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="512,5,655,32"/>
+<area shape="rect" id="node4" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="703,5,944,32"/>
+<area shape="rect" id="node5" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="992,5,1163,32"/>
+</map>

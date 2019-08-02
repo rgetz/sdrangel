@@ -1,0 +1,5 @@
+<map id="RemoteOutputSinkGui::updateTxDelayTooltip" name="RemoteOutputSinkGui::updateTxDelayTooltip">
+<area shape="rect" id="node2" href="$d8/d08/classRemoteOutputSinkGui.html#a5811271e3796cf5aa22b7dc6a844907d" title="RemoteOutputSinkGui\l::on_nbFECBlocks_valueChanged" alt="" coords="211,5,433,47"/>
+<area shape="rect" id="node3" href="$d8/d08/classRemoteOutputSinkGui.html#a93555673cb00e0b3e20e04e307d774a0" title="RemoteOutputSinkGui\l::on_sampleRate_changed" alt="" coords="233,71,411,112"/>
+<area shape="rect" id="node4" href="$d8/d08/classRemoteOutputSinkGui.html#abe6f171fe2f7614d9d1691c8daaae935" title="RemoteOutputSinkGui\l::on_txDelay_valueChanged" alt="" coords="229,136,415,177"/>
+</map>

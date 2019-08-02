@@ -1,0 +1,17 @@
+<map id="AMMod::deserialize" name="AMMod::deserialize">
+<area shape="rect" id="node2" href="$df/de0/classAMMod_1_1MsgConfigureAMMod.html#a99468535869f53a0076498460d0f102c" title="AMMod::MsgConfigureAMMod\l::create" alt="" coords="191,32,392,73"/>
+<area shape="rect" id="node4" href="$df/db9/structAMModSettings.html#aea173cd91737056330659bdea6584f5c" title="AMModSettings::deserialize" alt="" coords="199,301,384,327"/>
+<area shape="rect" id="node6" href="$df/db9/structAMModSettings.html#ae5464d706a19433dfe03b80eabb65d16" title="AMModSettings::resetToDefaults" alt="" coords="440,71,656,98"/>
+<area shape="rect" id="node16" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="217,351,366,378"/>
+<area shape="rect" id="node3" href="$df/de0/classAMMod_1_1MsgConfigureAMMod.html#a6d9a8432f0fb7d8e77fc572562a7f103" title="AMMod::MsgConfigureAMMod\l::MsgConfigureAMMod" alt="" coords="447,5,649,47"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="483,123,613,164"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="483,188,613,229"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="483,253,613,295"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a384f1751e99b33e3949207db6edbcb86" title="SimpleDeserializer\l::readReal" alt="" coords="483,319,613,360"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="483,384,613,425"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="483,449,613,491"/>
+<area shape="rect" id="node13" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="469,515,627,542"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="483,567,613,608"/>
+<area shape="rect" id="node15" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="483,632,613,673"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="704,352,835,393"/>
+</map>

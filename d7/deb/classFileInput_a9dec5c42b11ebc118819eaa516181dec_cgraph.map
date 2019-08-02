@@ -1,0 +1,13 @@
+<map id="FileInput::webapiReportGet" name="FileInput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a5ea8338541cfd67b13ab72cc6f56283c" title="SWGSDRangel::SWGDeviceReport\l::getFileInputReport" alt="" coords="517,5,752,47"/>
+<area shape="rect" id="node3" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a5075aa852033035a707bea088c4005bc" title="SWGSDRangel::SWGFileInput\lReport::init" alt="" coords="250,68,454,109"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a775f803c07fc7db5da1fdb969979373d" title="SWGSDRangel::SWGDeviceReport\l::setFileInputReport" alt="" coords="235,133,469,175"/>
+<area shape="rect" id="node5" href="$d7/deb/classFileInput.html#afcea06ef50a950bc60de374efe7ac5cc" title="FileInput::webapiFormatDevice\lReport" alt="" coords="251,201,453,243"/>
+<area shape="rect" id="node6" href="$d6/d3e/classFileInputThread.html#af9d8b5536b1f1a9e340bb60e62e8bdcb" title="FileInputThread::getSamples\lCount" alt="" coords="540,71,729,112"/>
+<area shape="rect" id="node7" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#ad94d6fb038ecd55ed04990171e76b071" title="SWGSDRangel::SWGFileInput\lReport::setAbsoluteTime" alt="" coords="533,136,737,177"/>
+<area shape="rect" id="node8" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a9cd2b3e7f329c24664e12f96e5707785" title="SWGSDRangel::SWGFileInput\lReport::setDurationTime" alt="" coords="533,201,737,243"/>
+<area shape="rect" id="node9" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a12ec49d1d464a7f95abddf158934272e" title="SWGSDRangel::SWGFileInput\lReport::setElapsedTime" alt="" coords="533,267,737,308"/>
+<area shape="rect" id="node10" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#ad978c540fc66f72166188e903ee64c76" title="SWGSDRangel::SWGFileInput\lReport::setFileName" alt="" coords="533,332,737,373"/>
+<area shape="rect" id="node11" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a5e891e109629d50f20c5392ec855dee6" title="SWGSDRangel::SWGFileInput\lReport::setSampleRate" alt="" coords="533,397,737,439"/>
+<area shape="rect" id="node12" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#a678695a302c399d08124b1ad0c6327fb" title="SWGSDRangel::SWGFileInput\lReport::setSampleSize" alt="" coords="533,463,737,504"/>
+</map>

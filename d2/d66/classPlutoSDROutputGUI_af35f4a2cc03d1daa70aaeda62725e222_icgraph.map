@@ -1,0 +1,18 @@
+<map id="PlutoSDROutputGUI::sendSettings" name="PlutoSDROutputGUI::sendSettings">
+<area shape="rect" id="node2" href="$d2/d66/classPlutoSDROutputGUI.html#ae1839f941adebe805c7e584a454e6e6f" title="PlutoSDROutputGUI::\ldeserialize" alt="" coords="246,5,398,47"/>
+<area shape="rect" id="node3" href="$d2/d66/classPlutoSDROutputGUI.html#aa7941b377b92b2578773d1ba036007ea" title="PlutoSDROutputGUI::\lon_antenna_currentIndexChanged" alt="" coords="212,71,432,112"/>
+<area shape="rect" id="node4" href="$d2/d66/classPlutoSDROutputGUI.html#afe1e4f605f90352240d5d04fa6f2c17b" title="PlutoSDROutputGUI::\lon_att_valueChanged" alt="" coords="246,136,398,177"/>
+<area shape="rect" id="node5" href="$d2/d66/classPlutoSDROutputGUI.html#ae273fc834e2f8e1066257a0f722f55a7" title="PlutoSDROutputGUI::\lon_centerFrequency_changed" alt="" coords="224,201,420,243"/>
+<area shape="rect" id="node6" href="$d2/d66/classPlutoSDROutputGUI.html#a2c47af916adc57165b637b75a2de10ea" title="PlutoSDROutputGUI::\lon_loPPM_valueChanged" alt="" coords="236,267,408,308"/>
+<area shape="rect" id="node7" href="$d2/d66/classPlutoSDROutputGUI.html#a92c9e50e2df33898e1efe5317d759f69" title="PlutoSDROutputGUI::\lon_lpf_changed" alt="" coords="246,332,398,373"/>
+<area shape="rect" id="node8" href="$d2/d66/classPlutoSDROutputGUI.html#a0d4c3edbe3bdc25be617e75f6c628c67" title="PlutoSDROutputGUI::\lon_lpFIR_changed" alt="" coords="246,397,398,439"/>
+<area shape="rect" id="node9" href="$d2/d66/classPlutoSDROutputGUI.html#a17c3b4607961af4c01b8895e0619833e" title="PlutoSDROutputGUI::\lon_lpFIREnable_toggled" alt="" coords="240,463,404,504"/>
+<area shape="rect" id="node10" href="$d2/d66/classPlutoSDROutputGUI.html#a029ebb5a9690b2fb8db32aa661ba76e4" title="PlutoSDROutputGUI::\lon_lpFIRGain_currentIndexChanged" alt="" coords="205,528,439,569"/>
+<area shape="rect" id="node11" href="$d2/d66/classPlutoSDROutputGUI.html#afb877a441349c3edb37cc9d4388da225" title="PlutoSDROutputGUI::\lon_lpFIRInterpolation\l_currentIndexChanged" alt="" coords="245,594,399,650"/>
+<area shape="rect" id="node12" href="$d2/d66/classPlutoSDROutputGUI.html#af30ae78ced86554af49720a23aeb6fa6" title="PlutoSDROutputGUI::\lon_sampleRate_changed" alt="" coords="237,675,407,716"/>
+<area shape="rect" id="node13" href="$d2/d66/classPlutoSDROutputGUI.html#a133810a0488075b83bb70f9df39f75bd" title="PlutoSDROutputGUI::\lon_swInterp_currentIndexChanged" alt="" coords="210,740,434,781"/>
+<area shape="rect" id="node14" href="$d2/d66/classPlutoSDROutputGUI.html#af38c9b2f262a6b71064737392744c83a" title="PlutoSDROutputGUI::\lon_transverter_clicked" alt="" coords="245,805,399,847"/>
+<area shape="rect" id="node15" href="$d2/d66/classPlutoSDROutputGUI.html#ad94e484e935d1077aaa83cacd9682e11" title="PlutoSDROutputGUI::\lopenDeviceSettingsDialog" alt="" coords="234,871,410,912"/>
+<area shape="rect" id="node17" href="$d2/d66/classPlutoSDROutputGUI.html#aef44b2bf3b1fbef546a99fe8ae46ad5d" title="PlutoSDROutputGUI::\lsetCenterFrequency" alt="" coords="246,936,398,977"/>
+<area shape="rect" id="node16" href="$d2/d66/classPlutoSDROutputGUI.html#afd8e2abb149639500049e4897eb5d4df" title="PlutoSDROutputGUI::\lPlutoSDROutputGUI" alt="" coords="487,871,639,912"/>
+</map>

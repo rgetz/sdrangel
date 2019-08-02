@@ -1,0 +1,5 @@
+<map id="RTLSDRGui::on_startStop_toggled" name="RTLSDRGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a72bcd7a67ad655d48943ed52d5d82219" title="RTLSDRInput::MsgStartStop\l::create" alt="" coords="232,5,425,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="245,71,413,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="254,137,403,163"/>
+</map>

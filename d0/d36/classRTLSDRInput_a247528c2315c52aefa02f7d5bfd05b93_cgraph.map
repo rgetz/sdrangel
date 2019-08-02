@@ -1,0 +1,25 @@
+<map id="RTLSDRInput::webapiFormatDeviceSettings" name="RTLSDRInput::webapiFormatDeviceSettings">
+<area shape="rect" id="node2" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ae9c2e4e4b0ea8589cd46dc7574a74c26" title="SWGSDRangel::SWGRtlSdrSettings\l::getFileRecordName" alt="" coords="250,5,489,47"/>
+<area shape="rect" id="node3" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a9f33ec52b5a36f96efc1f11cc1d1713e" title="SWGSDRangel::SWGRtlSdrSettings\l::getReverseApiAddress" alt="" coords="250,71,489,112"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab7e5a98897e1899cfe3b49dca84e1260" title="SWGSDRangel::SWGDeviceSettings\l::getRtlSdrSettings" alt="" coords="248,136,491,177"/>
+<area shape="rect" id="node5" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a48318886e3a0139833026ffa2a9ed630" title="SWGSDRangel::SWGRtlSdrSettings\l::setAgc" alt="" coords="250,201,489,243"/>
+<area shape="rect" id="node6" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#afdf951bdfe6811465333d70f46c383e9" title="SWGSDRangel::SWGRtlSdrSettings\l::setCenterFrequency" alt="" coords="250,267,489,308"/>
+<area shape="rect" id="node7" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#aff9bea3c2855aade184b67320a8d44f9" title="SWGSDRangel::SWGRtlSdrSettings\l::setDcBlock" alt="" coords="250,332,489,373"/>
+<area shape="rect" id="node8" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ae6a7fcfed7f96a51fbc05d5d67a04e8f" title="SWGSDRangel::SWGRtlSdrSettings\l::setDevSampleRate" alt="" coords="250,397,489,439"/>
+<area shape="rect" id="node9" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#af299c6a4ec520e8bc43f3fdec1b82699" title="SWGSDRangel::SWGRtlSdrSettings\l::setFcPos" alt="" coords="250,463,489,504"/>
+<area shape="rect" id="node10" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a6340196341539c32c80223f2fc024b48" title="SWGSDRangel::SWGRtlSdrSettings\l::setFileRecordName" alt="" coords="250,528,489,569"/>
+<area shape="rect" id="node11" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a8e0c63164f8650afc5c3d61caefc5cd3" title="SWGSDRangel::SWGRtlSdrSettings\l::setGain" alt="" coords="250,593,489,635"/>
+<area shape="rect" id="node12" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ad33f3e600c50cc594dc382cf003913cf" title="SWGSDRangel::SWGRtlSdrSettings\l::setIqImbalance" alt="" coords="250,659,489,700"/>
+<area shape="rect" id="node13" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a10862cfa2839528da0edbc4c844d830b" title="SWGSDRangel::SWGRtlSdrSettings\l::setLog2Decim" alt="" coords="250,724,489,765"/>
+<area shape="rect" id="node14" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a6fcca4293b17d3a43089fe18d683b67d" title="SWGSDRangel::SWGRtlSdrSettings\l::setLoPpmCorrection" alt="" coords="250,789,489,831"/>
+<area shape="rect" id="node15" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a972740581543e93b0798462b95265443" title="SWGSDRangel::SWGRtlSdrSettings\l::setLowSampleRate" alt="" coords="250,855,489,896"/>
+<area shape="rect" id="node16" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ad147b067a64e1bf87a60256de8a681cd" title="SWGSDRangel::SWGRtlSdrSettings\l::setNoModMode" alt="" coords="250,920,489,961"/>
+<area shape="rect" id="node17" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ab907b1a7a3a4313acb5e94144a92619c" title="SWGSDRangel::SWGRtlSdrSettings\l::setOffsetTuning" alt="" coords="250,985,489,1027"/>
+<area shape="rect" id="node18" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ac10b95fd4bec1a1910ebeaed3ae0306d" title="SWGSDRangel::SWGRtlSdrSettings\l::setReverseApiAddress" alt="" coords="250,1051,489,1092"/>
+<area shape="rect" id="node19" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a3d3776ccc36ad5e431487a2c9d09b70d" title="SWGSDRangel::SWGRtlSdrSettings\l::setReverseApiDeviceIndex" alt="" coords="250,1116,489,1157"/>
+<area shape="rect" id="node20" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#aac974b35a162cf33760d55fe42568e2f" title="SWGSDRangel::SWGRtlSdrSettings\l::setReverseApiPort" alt="" coords="250,1181,489,1223"/>
+<area shape="rect" id="node21" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a7e088ab92281492118b2c580cbd03fd7" title="SWGSDRangel::SWGRtlSdrSettings\l::setRfBandwidth" alt="" coords="250,1247,489,1288"/>
+<area shape="rect" id="node22" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a2dec77fdaa62aef145c900220f08c155" title="SWGSDRangel::SWGRtlSdrSettings\l::setTransverterDeltaFrequency" alt="" coords="250,1312,489,1353"/>
+<area shape="rect" id="node23" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a1622404e47ceba83e25598d639d3da58" title="SWGSDRangel::SWGRtlSdrSettings\l::setTransverterMode" alt="" coords="250,1377,489,1419"/>
+<area shape="rect" id="node24" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a283d177d0cff914a9646bd8f67ce5ba8" title="SWGSDRangel::SWGRtlSdrSettings\l::setUseReverseApi" alt="" coords="250,1443,489,1484"/>
+</map>

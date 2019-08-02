@@ -1,0 +1,16 @@
+<map id="LocalSinkSettings::setChannelMarker" name="LocalSinkSettings::setChannelMarker">
+<area shape="rect" id="node2" href="$d1/d44/structLocalSinkSettings.html#ac34c0ec08b4e38c60ad89ad04ceaedab" title="LocalSinkSettings::\ldeserialize" alt="" coords="188,201,323,243"/>
+<area shape="rect" id="node10" href="$d1/d44/structLocalSinkSettings.html#a3522ae4c281979750e007643eb4caf4c" title="LocalSinkSettings::\lserialize" alt="" coords="188,441,323,483"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="399,5,529,47"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="399,71,529,112"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="399,136,529,177"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="399,201,529,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="399,267,529,308"/>
+<area shape="rect" id="node9" href="$d1/d44/structLocalSinkSettings.html#af31195f8c66e03d2c87dc6d892f1fff0" title="LocalSinkSettings::\lresetToDefaults" alt="" coords="397,332,531,373"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="627,201,758,243"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="390,398,538,425"/>
+<area shape="rect" id="node12" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="375,449,553,475"/>
+<area shape="rect" id="node14" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="371,499,557,526"/>
+<area shape="rect" id="node15" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="376,550,552,577"/>
+<area shape="rect" id="node13" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="605,499,780,526"/>
+</map>

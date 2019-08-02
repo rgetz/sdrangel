@@ -1,0 +1,23 @@
+<map id="sdrbase/util/bitfieldindex.h" name="sdrbase/util/bitfieldindex.h">
+<area shape="rect" id="node2" href="$d3/d35/glscope_8h.html" title="sdrgui/gui/glscope.h" alt="" coords="414,80,553,107"/>
+<area shape="rect" id="node7" href="$de/d9d/tvscreen_8h.html" title="sdrgui/gui/tvscreen.h" alt="" coords="1225,80,1368,107"/>
+<area shape="rect" id="node3" href="$d3/da2/chanalyzergui_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzergui.cpp" alt="" coords="5,155,196,196"/>
+<area shape="rect" id="node4" href="$d2/db6/scopevis_8cpp.html" title="sdrgui/dsp/scopevis.cpp" alt="" coords="221,162,383,189"/>
+<area shape="rect" id="node5" href="$db/d32/glscope_8cpp.html" title="sdrgui/gui/glscope.cpp" alt="" coords="407,162,559,189"/>
+<area shape="rect" id="node6" href="$d0/d5e/glscopegui_8cpp.html" title="sdrgui/gui/glscopegui.cpp" alt="" coords="584,162,753,189"/>
+<area shape="rect" id="node8" href="$d1/d05/atvdemod_8h.html" title="plugins/channelrx/demodatv\l/atvdemod.h" alt="" coords="778,155,962,196"/>
+<area shape="rect" id="node12" href="$d5/dd9/datvconstellation_8h.html" title="plugins/channelrx/demoddatv\l/datvconstellation.h" alt="" coords="987,155,1177,196"/>
+<area shape="rect" id="node18" href="$d2/da6/datvdvbs2constellation_8h.html" title="plugins/channelrx/demoddatv\l/datvdvbs2constellation.h" alt="" coords="1201,155,1392,196"/>
+<area shape="rect" id="node19" href="$d2/de6/datvideorender_8h.html" title="plugins/channelrx/demoddatv\l/datvideorender.h" alt="" coords="1416,155,1607,196"/>
+<area shape="rect" id="node21" href="$d4/d42/scopevisxy_8cpp.html" title="sdrgui/dsp/scopevisxy.cpp" alt="" coords="1631,162,1808,189"/>
+<area shape="rect" id="node22" href="$d1/d90/tvscreen_8cpp.html" title="sdrgui/gui/tvscreen.cpp" alt="" coords="1833,162,1990,189"/>
+<area shape="rect" id="node9" href="$df/d75/atvdemod_8cpp.html" title="plugins/channelrx/demodatv\l/atvdemod.cpp" alt="" coords="570,244,754,285"/>
+<area shape="rect" id="node10" href="$d1/d2f/atvdemodgui_8cpp.html" title="plugins/channelrx/demodatv\l/atvdemodgui.cpp" alt="" coords="778,244,962,285"/>
+<area shape="rect" id="node11" href="$dd/d37/atvdemodplugin_8cpp.html" title="plugins/channelrx/demodatv\l/atvdemodplugin.cpp" alt="" coords="986,244,1170,285"/>
+<area shape="rect" id="node13" href="$d6/d67/datvdemod_8h.html" title="plugins/channelrx/demoddatv\l/datvdemod.h" alt="" coords="1201,244,1392,285"/>
+<area shape="rect" id="node14" href="$df/dc7/datvdemod_8cpp.html" title="plugins/channelrx/demoddatv\l/datvdemod.cpp" alt="" coords="1095,333,1285,375"/>
+<area shape="rect" id="node15" href="$d0/ddc/datvdemodgui_8h.html" title="plugins/channelrx/demoddatv\l/datvdemodgui.h" alt="" coords="1309,333,1500,375"/>
+<area shape="rect" id="node16" href="$da/d24/datvdemodgui_8cpp.html" title="plugins/channelrx/demoddatv\l/datvdemodgui.cpp" alt="" coords="1203,423,1393,464"/>
+<area shape="rect" id="node17" href="$db/dea/datvdemodplugin_8cpp.html" title="plugins/channelrx/demoddatv\l/datvdemodplugin.cpp" alt="" coords="1417,423,1608,464"/>
+<area shape="rect" id="node20" href="$d9/d22/datvideorender_8cpp.html" title="plugins/channelrx/demoddatv\l/datvideorender.cpp" alt="" coords="1416,244,1607,285"/>
+</map>

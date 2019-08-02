@@ -1,0 +1,13 @@
+<map id="WebAPIAdapterSrv::instanceAMBESerialGet" name="WebAPIAdapterSrv::instanceAMBESerialGet">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a6b5ffe664952b5b0ad5ba1e8a0fba9ea" title="DSPEngine::getAMBEEngine" alt="" coords="253,5,447,32"/>
+<area shape="rect" id="node3" href="$d4/d9a/classSWGSDRangel_1_1SWGDVSerialDevices.html#a4970f34f99e76df1bb9a1ae443e82df7" title="SWGSDRangel::SWGDVSerial\lDevices::getDvSerialDevices" alt="" coords="247,57,453,98"/>
+<area shape="rect" id="node4" href="$d4/d9a/classSWGSDRangel_1_1SWGDVSerialDevices.html#a4cbbb7ef59f5d6e3cd7ecacb81967ec4" title="SWGSDRangel::SWGDVSerial\lDevices::init" alt="" coords="247,122,453,163"/>
+<area shape="rect" id="node5" href="$d3/d84/classAMBEEngine.html#ac8d5267bee5234d48191909976c40247" title="AMBEEngine::scan" alt="" coords="282,188,418,215"/>
+<area shape="rect" id="node12" href="$d4/d9a/classSWGSDRangel_1_1SWGDVSerialDevices.html#a6eb972e2a808651691e6af19fb51ff6e" title="SWGSDRangel::SWGDVSerial\lDevices::setNbDevices" alt="" coords="247,239,453,281"/>
+<area shape="rect" id="node6" href="$d0/d9e/classAMBEWorker.html#a08fd1800f29a3c1ca8bb06152f072b5e" title="AMBEWorker::close" alt="" coords="518,137,659,164"/>
+<area shape="rect" id="node7" href="$d3/d84/classAMBEEngine.html#a24876f3c438c10eef5bea41e740b812a" title="AMBEEngine::getComList" alt="" coords="501,188,676,215"/>
+<area shape="rect" id="node11" href="$d0/d9e/classAMBEWorker.html#aab393e37af61bfd0a3e5ea8fe6647c0b" title="Either serial device or ip:port. " alt="" coords="519,239,658,265"/>
+<area shape="rect" id="node8" href="$d3/d84/classAMBEEngine.html#a7f9fdd61c72eba9ddbac693673396906" title="AMBEEngine::probe_serial8250\l_comports" alt="" coords="724,147,931,189"/>
+<area shape="rect" id="node9" href="$d3/d84/classAMBEEngine.html#a0dd94239b158c90dd7955d6bfc2dad0a" title="AMBEEngine::register\l_comport" alt="" coords="752,213,903,254"/>
+<area shape="rect" id="node10" href="$d3/d84/classAMBEEngine.html#a493accef97eac04df24ac085b882db36" title="AMBEEngine::get_driver" alt="" coords="979,220,1144,247"/>
+</map>

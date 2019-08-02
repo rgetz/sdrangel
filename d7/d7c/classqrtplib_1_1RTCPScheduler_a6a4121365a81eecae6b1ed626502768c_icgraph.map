@@ -1,0 +1,9 @@
+<map id="qrtplib::RTCPScheduler::CalculateTransmissionInterval" name="qrtplib::RTCPScheduler::CalculateTransmissionInterval">
+<area shape="rect" id="node2" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a58bc521d794d5fa05895db118b4da84d" title="qrtplib::RTCPScheduler\l::CalculateNextRTCPTime" alt="" coords="260,12,439,53"/>
+<area shape="rect" id="node5" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a975e84397322d651c0c96ae9bcd7330d" title="qrtplib::RTCPScheduler\l::IsTime" alt="" coords="488,71,648,112"/>
+<area shape="rect" id="node3" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#acd75d0c599713320949aef1df24a3d2c" title="qrtplib::RTCPScheduler\l::GetTransmissionDelay" alt="" coords="487,5,649,47"/>
+<area shape="rect" id="node4" href="$db/d64/classqrtplib_1_1RTPSession.html#a5b17194b1cd994e626116604890d31b5" title="qrtplib::RTPSession\l::GetRTCPDelay" alt="" coords="699,5,838,47"/>
+<area shape="rect" id="node6" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="699,71,838,112"/>
+<area shape="rect" id="node8" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="697,136,840,177"/>
+<area shape="rect" id="node7" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="888,78,1032,105"/>
+</map>

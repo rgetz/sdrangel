@@ -1,0 +1,14 @@
+<map id="BFMDemodSettings::getRFBW" name="BFMDemodSettings::getRFBW">
+<area shape="rect" id="node2" href="$d3/d71/structBFMDemodSettings.html#a9ecc9631f0478a9749e196849e78026b" title="BFMDemodSettings::deserialize" alt="" coords="504,173,715,199"/>
+<area shape="rect" id="node5" href="$d3/d71/structBFMDemodSettings.html#a3696b3c625c8ca863f3bfc0039d4e56c" title="BFMDemodSettings::setSpectrumGUI" alt="" coords="767,211,1013,238"/>
+<area shape="rect" id="node10" href="$d3/df8/classBFMDemodGUI.html#a288300e278c77753a62cb71a9889d814" title="BFMDemodGUI::on_rfBW\l_valueChanged" alt="" coords="269,275,443,316"/>
+<area shape="rect" id="node11" href="$d3/d71/structBFMDemodSettings.html#a53f8c7b59237e9395ca8b98637870497" title="BFMDemodSettings::resetTo\lDefaults" alt="" coords="260,107,452,148"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a01537b7a80dc07096428c8b5549902ce" title="BFMDemodGUI::deserialize" alt="" coords="797,161,983,187"/>
+<area shape="rect" id="node4" href="$d4/dd5/classBFMDemod.html#a672105f6dc0624182f218c5defc05194" title="BFMDemod::deserialize" alt="" coords="809,85,971,111"/>
+<area shape="rect" id="node6" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="1061,211,1280,238"/>
+<area shape="rect" id="node7" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1328,211,1488,238"/>
+<area shape="rect" id="node8" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1536,211,1755,238"/>
+<area shape="rect" id="node9" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1803,211,1949,238"/>
+<area shape="rect" id="node12" href="$d3/df8/classBFMDemodGUI.html#ab30a447aa014be4d9d6d34d9e78c0c4e" title="BFMDemodGUI::resetToDefaults" alt="" coords="501,122,718,149"/>
+<area shape="rect" id="node13" href="$d3/d71/structBFMDemodSettings.html#a8e40ed1538212757bdeb131ac18af1ad" title="BFMDemodSettings::BFMDemod\lSettings" alt="" coords="500,5,719,47"/>
+</map>

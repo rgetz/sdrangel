@@ -1,0 +1,13 @@
+<map id="plugins/samplesource/bladerf1input/bladerf1inputgui.h" name="plugins/samplesource/bladerf1input/bladerf1inputgui.h">
+<area shape="rect" id="node2" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="1383,177,1554,203"/>
+<area shape="rect" id="node9" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="143,259,285,285"/>
+<area shape="rect" id="node13" href="$d7/dce/bladerf1input_8h.html" title="bladerf1input.h" alt="" coords="785,95,891,121"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="558,333,627,360"/>
+<area shape="rect" id="node16" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="336,177,513,203"/>
+<area shape="rect" id="node24" href="$db/d6e/devicebladerf1_8h.html" title="../../../devices/bladerf1\l/devicebladerf1.h" alt="" coords="589,169,743,211"/>
+<area shape="rect" id="node25" href="$df/d38/devicebladerf1param_8h.html" title="../../../devices/bladerf1\l/devicebladerf1param.h" alt="" coords="818,169,975,211"/>
+<area shape="rect" id="node26" href="$da/de9/bladerf1inputsettings_8h.html" title="bladerf1inputsettings.h" alt="" coords="1000,177,1153,203"/>
+<area shape="rect" id="node17" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="310,259,427,285"/>
+<area shape="rect" id="node22" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="553,259,659,285"/>
+<area shape="rect" id="node19" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="287,333,397,360"/>
+</map>

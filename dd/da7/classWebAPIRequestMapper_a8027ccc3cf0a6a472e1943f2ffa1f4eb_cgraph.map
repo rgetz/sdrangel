@@ -1,0 +1,34 @@
+<map id="WebAPIRequestMapper::instanceAudioOutputParametersService" name="WebAPIRequestMapper::instanceAudioOutputParametersService">
+<area shape="rect" id="node2" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aace042ac865b76797ef0c78ea1a27481" title="SWGSDRangel::SWGAudioOutput\lDevice::asJson" alt="" coords="272,5,499,47"/>
+<area shape="rect" id="node6" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#abf3b790c21ea6edf9eaad2038b4c0470" title="SWGSDRangel::SWGErrorResponse\l::asJson" alt="" coords="547,71,788,112"/>
+<area shape="rect" id="node8" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#abbeb8becf2709b15be3096bcd3b85181" title="qtwebapp::HttpRequest\l::getBody" alt="" coords="305,523,465,564"/>
+<area shape="rect" id="node9" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="547,173,788,215"/>
+<area shape="rect" id="node10" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#ae3c92d9c0f5279c6d5b1bfdb47aaa5e0" title="qtwebapp::HttpRequest\l::getMethod" alt="" coords="305,588,465,629"/>
+<area shape="rect" id="node11" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="547,249,788,291"/>
+<area shape="rect" id="node12" href="$d0/da8/classWebAPIAdapterInterface.html#ad6114d166f763e915d7c7b6f9009fdde" title="WebAPIAdapterInterface\l::instanceAudioOutputDelete" alt="" coords="291,173,480,215"/>
+<area shape="rect" id="node13" href="$d0/da8/classWebAPIAdapterInterface.html#aba90906a208cf17ab721db15c05ac254" title="WebAPIAdapterInterface\l::instanceAudioOutputPatch" alt="" coords="293,239,478,280"/>
+<area shape="rect" id="node14" href="$dd/da7/classWebAPIRequestMapper.html#af1e491e887fb27df676ecfd8719ba3dc" title="WebAPIRequestMapper\l::parseJsonBody" alt="" coords="304,304,467,345"/>
+<area shape="rect" id="node15" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a07af281f6437c377e6f729051ce4e13c" title="qtwebapp::HttpResponse\l::setStatus" alt="" coords="582,336,753,377"/>
+<area shape="rect" id="node16" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a6e49919cc568835ca6d81fec02533260" title="qtwebapp::HttpResponse\l::write" alt="" coords="582,445,753,487"/>
+<area shape="rect" id="node20" href="$dd/da7/classWebAPIRequestMapper.html#aa9e2329576618905c824f3c5c76e0ba2" title="WebAPIRequestMapper\l::resetAudioOutputDevice" alt="" coords="299,653,471,695"/>
+<area shape="rect" id="node24" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a41029ee24e05e419e6da7ea970bc3724" title="qtwebapp::HttpResponse\l::setHeader" alt="" coords="300,915,471,956"/>
+<area shape="rect" id="node25" href="$dd/da7/classWebAPIRequestMapper.html#a44be6db6d53f8d564666c835672a6fa2" title="WebAPIRequestMapper\l::validateAudioOutputDevice" alt="" coords="291,849,479,891"/>
+<area shape="rect" id="node3" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a7294f810b6b92aa45c791c83d68174da" title="SWGSDRangel::SWGAudioOutput\lDevice::asJsonObject" alt="" coords="843,5,1070,47"/>
+<area shape="rect" id="node4" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1125,46,1320,73"/>
+<area shape="rect" id="node5" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1368,39,1560,80"/>
+<area shape="rect" id="node7" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad779800e6fddc13efb3a3ec7c6bc3ce2" title="SWGSDRangel::SWGErrorResponse\l::asJsonObject" alt="" coords="836,71,1077,112"/>
+<area shape="rect" id="node17" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#aeeb2ec292db009a2fd8bea9b03f5df69" title="qtwebapp::HttpResponse\l::writeHeaders" alt="" coords="871,416,1042,457"/>
+<area shape="rect" id="node19" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a35de2d1c7f58dba5d40a45692f0df7ff" title="qtwebapp::HttpResponse\l::writeToSocket" alt="" coords="1137,475,1308,516"/>
+<area shape="rect" id="node18" href="$d1/de3/classqtwebapp_1_1HttpCookie.html#aef937847dbebf7290e94b94afbb8f9a1" title="qtwebapp::HttpCookie\l::toByteArray" alt="" coords="1147,409,1299,451"/>
+<area shape="rect" id="node21" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ac6784644bc496059a272da6b0a2df385" title="SWGSDRangel::SWGAudioOutput\lDevice::cleanup" alt="" coords="554,588,781,629"/>
+<area shape="rect" id="node22" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a523b9192c240a74f809ed8b7003cbaec" title="SWGSDRangel::SWGAudioOutput\lDevice::setName" alt="" coords="554,523,781,564"/>
+<area shape="rect" id="node23" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aabd7b6d90a6be6db7d3c1060c51a55df" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpAddress" alt="" coords="554,653,781,695"/>
+<area shape="rect" id="node26" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a00a5edca1b7fbe2c116843c421345ebd" title="SWGSDRangel::SWGAudioOutput\lDevice::setIndex" alt="" coords="554,915,781,956"/>
+<area shape="rect" id="node27" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aa0b09daa827a1ca7d8c2463afa334109" title="SWGSDRangel::SWGAudioOutput\lDevice::setSampleRate" alt="" coords="554,980,781,1021"/>
+<area shape="rect" id="node28" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ad12ee948bb65fba2bda2ab5b3d9e4c55" title="SWGSDRangel::SWGAudioOutput\lDevice::setCopyToUdp" alt="" coords="554,1045,781,1087"/>
+<area shape="rect" id="node29" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a315f81eec5f7b52e71762aad77a1fe01" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpUsesRtp" alt="" coords="554,1111,781,1152"/>
+<area shape="rect" id="node30" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#af68f7c52ba78b72d8cdbd2ee9e8873a5" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpChannelMode" alt="" coords="554,1176,781,1217"/>
+<area shape="rect" id="node31" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a721b7bca375a2458d23a910dca153090" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpChannelCodec" alt="" coords="554,719,781,760"/>
+<area shape="rect" id="node32" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#abc4ee6e22b085511762336dc5a697fc5" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpDecimationFactor" alt="" coords="554,784,781,825"/>
+<area shape="rect" id="node33" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ac3892c91115e2c7b3291e86fef40977c" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpPort" alt="" coords="554,849,781,891"/>
+</map>

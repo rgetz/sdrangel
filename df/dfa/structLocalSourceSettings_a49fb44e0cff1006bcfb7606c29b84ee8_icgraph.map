@@ -1,0 +1,13 @@
+<map id="LocalSourceSettings::resetToDefaults" name="LocalSourceSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$df/dfa/structLocalSourceSettings.html#a9f8dc7c44bcb39e562e810c75c0481e4" title="LocalSourceSettings\l::deserialize" alt="" coords="234,57,377,98"/>
+<area shape="rect" id="node4" href="$d9/d2e/classLocalSource.html#aa91e4d78ba004eb54b627501b60a43dd" title="LocalSource::deserialize" alt="" coords="475,5,639,32"/>
+<area shape="rect" id="node11" href="$df/dfa/structLocalSourceSettings.html#a1256da94569c3ec3990806e11562b770" title="LocalSourceSettings\l::LocalSourceSettings" alt="" coords="230,122,381,163"/>
+<area shape="rect" id="node12" href="$d5/df2/classLocalSourceGUI.html#ac98d8ce65ffab3dbef5e77b6e3c66259" title="LocalSourceGUI::resetToDefaults" alt="" coords="196,188,415,215"/>
+<area shape="rect" id="node3" href="$d5/df2/classLocalSourceGUI.html#a90334c6bdb5d84f8cadcbb06bc11ca65" title="LocalSourceGUI::deserialize" alt="" coords="463,155,651,181"/>
+<area shape="rect" id="node6" href="$df/dfa/structLocalSourceSettings.html#a49c595afabd18f93cdf2d7bd7f812c40" title="LocalSourceSettings\l::setChannelMarker" alt="" coords="485,57,628,98"/>
+<area shape="rect" id="node5" href="$d9/d2e/classLocalSource.html#a82513e84d1afe48c46a24c027d1c3dec" title="Applies to a default stream. " alt="" coords="700,5,920,32"/>
+<area shape="rect" id="node7" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="699,64,921,91"/>
+<area shape="rect" id="node8" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="969,64,1132,91"/>
+<area shape="rect" id="node9" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1180,57,1325,98"/>
+<area shape="rect" id="node10" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1373,57,1512,98"/>
+</map>

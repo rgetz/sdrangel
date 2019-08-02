@@ -1,0 +1,6 @@
+<map id="PerseusInput::webapiFormatDeviceReport" name="PerseusInput::webapiFormatDeviceReport">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a9012f5293586b688f26931e849b3e669" title="SWGSDRangel::SWGDeviceReport\l::getPerseusReport" alt="" coords="246,5,481,47"/>
+<area shape="rect" id="node3" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html#a7b08b6cf9ecb727ff7c6698d65f0f9a8" title="SWGSDRangel::SWGPerseusReport\l::getSampleRates" alt="" coords="243,71,484,112"/>
+<area shape="rect" id="node4" href="$df/dc2/classPerseusInput.html#a2e5bf0f6bb2f0bc8ada7b5087edd2547" title="PerseusInput::getSampleRates" alt="" coords="261,137,465,163"/>
+<area shape="rect" id="node5" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html#a4eb7432fba1f2126ca15ba13fa7e5bf2" title="SWGSDRangel::SWGPerseusReport\l::setSampleRates" alt="" coords="243,188,484,229"/>
+</map>

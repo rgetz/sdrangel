@@ -1,0 +1,9 @@
+<map id="TVScreen::resizeTVScreen" name="TVScreen::resizeTVScreen">
+<area shape="rect" id="node2" href="$de/dce/classATVDemod.html#a6bcdbcf92af9b224581ac9f3777b4347" title="ATVDemod::applySettings" alt="" coords="254,13,431,39"/>
+<area shape="rect" id="node8" href="$d3/d2d/classDATVideoRender.html#a0c41a52d381c99530c6ed0644bdef811" title="DATVideoRender::RenderStream" alt="" coords="235,63,451,90"/>
+<area shape="rect" id="node3" href="$de/dce/classATVDemod.html#aa2f0eb22c51f28cb7c1bbbe0af96c901" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="499,13,688,39"/>
+<area shape="rect" id="node4" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="736,13,915,39"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="963,13,1177,39"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1225,13,1384,39"/>
+<area shape="rect" id="node7" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1432,5,1619,47"/>
+</map>

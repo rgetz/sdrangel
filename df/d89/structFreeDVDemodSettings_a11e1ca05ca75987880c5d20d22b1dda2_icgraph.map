@@ -1,0 +1,10 @@
+<map id="FreeDVDemodSettings::serialize" name="FreeDVDemodSettings::serialize">
+<area shape="rect" id="node2" href="$da/d3d/classFreeDVDemodGUI.html#a3d54a62334f0ff70e170ce12694575df" title="FreeDVDemodGUI::serialize" alt="" coords="211,5,400,32"/>
+<area shape="rect" id="node3" href="$de/de0/classFreeDVDemod.html#a7f97a0c9f49b91cf5ecd3774b750c103" title="FreeDVDemod::serialize" alt="" coords="223,56,388,83"/>
+<area shape="rect" id="node5" href="$df/d89/structFreeDVDemodSettings.html#a1abb0172ead2b8ca4ecfdacc6cfd3fa3" title="FreeDVDemodSettings\l::setSpectrumGUI" alt="" coords="227,107,384,149"/>
+<area shape="rect" id="node4" href="$de/de0/classFreeDVDemod.html#a8979ebfb845fefe52d1cd40a5bfbf2e2" title="Applies to a default stream. " alt="" coords="457,56,691,83"/>
+<area shape="rect" id="node6" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="448,115,700,141"/>
+<area shape="rect" id="node7" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="748,115,925,141"/>
+<area shape="rect" id="node8" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="973,115,1209,141"/>
+<area shape="rect" id="node9" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1257,115,1421,141"/>
+</map>

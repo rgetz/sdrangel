@@ -1,0 +1,26 @@
+<map id="LimeSDRInputGUI::sendSettings" name="LimeSDRInputGUI::sendSettings">
+<area shape="rect" id="node2" href="$d4/d53/classLimeSDRInputGUI.html#a6ebbe3102bd706fb1b6874f5da5e1a76" title="LimeSDRInputGUI::deserialize" alt="" coords="557,662,760,688"/>
+<area shape="rect" id="node3" href="$d4/d53/classLimeSDRInputGUI.html#a6d835ed0e0d14093fe247cdbc12e836a" title="LimeSDRInputGUI::on\l_antenna_currentIndexChanged" alt="" coords="274,62,481,104"/>
+<area shape="rect" id="node4" href="$d4/d53/classLimeSDRInputGUI.html#acf047a852ee38778af5d862664f65e78" title="LimeSDRInputGUI::on\l_centerFrequency_changed" alt="" coords="286,128,469,169"/>
+<area shape="rect" id="node5" href="$d4/d53/classLimeSDRInputGUI.html#a2eef0d9f1319548a1647634a3196c9c4" title="LimeSDRInputGUI::on\l_dcOffset_toggled" alt="" coords="300,193,455,234"/>
+<area shape="rect" id="node6" href="$d4/d53/classLimeSDRInputGUI.html#a43eff881d202a7a6320e48e42413fd3b" title="LimeSDRInputGUI::on\l_extClock_clicked" alt="" coords="300,258,455,300"/>
+<area shape="rect" id="node7" href="$d4/d53/classLimeSDRInputGUI.html#ae2e4449022f1e47d9400e8d66b1867eb" title="LimeSDRInputGUI::on\l_gain_valueChanged" alt="" coords="300,324,455,365"/>
+<area shape="rect" id="node8" href="$d4/d53/classLimeSDRInputGUI.html#ac2c3cc6e57cc9d782ef133381a46971f" title="LimeSDRInputGUI::on\l_gainMode_currentIndexChanged" alt="" coords="269,389,485,430"/>
+<area shape="rect" id="node9" href="$d4/d53/classLimeSDRInputGUI.html#afa5ad73d55ee34e002ec6c18b2aeb30d" title="LimeSDRInputGUI::on\l_hwDecim_currentIndexChanged" alt="" coords="270,454,485,496"/>
+<area shape="rect" id="node10" href="$d4/d53/classLimeSDRInputGUI.html#aff62c38bcc40991dcd492a464f86c6e2" title="LimeSDRInputGUI::on\l_iqImbalance_toggled" alt="" coords="300,520,455,561"/>
+<area shape="rect" id="node11" href="$d4/d53/classLimeSDRInputGUI.html#a6d0a9cb6527df88baa0ebefdf22ec08d" title="LimeSDRInputGUI::on\l_lnaGain_valueChanged" alt="" coords="296,585,459,626"/>
+<area shape="rect" id="node12" href="$d4/d53/classLimeSDRInputGUI.html#abfa98e7d9b1aecb284b4503c93a3bffb" title="LimeSDRInputGUI::on\l_lpf_changed" alt="" coords="300,650,455,692"/>
+<area shape="rect" id="node13" href="$d4/d53/classLimeSDRInputGUI.html#aa2875d65612510c34b5c3393bc512a20" title="LimeSDRInputGUI::on\l_lpFIR_changed" alt="" coords="300,716,455,757"/>
+<area shape="rect" id="node14" href="$d4/d53/classLimeSDRInputGUI.html#a75f7fa84c76e2abde449c7b8ba964374" title="LimeSDRInputGUI::on\l_lpFIREnable_toggled" alt="" coords="300,781,455,822"/>
+<area shape="rect" id="node15" href="$d4/d53/classLimeSDRInputGUI.html#a7a969868a574a6d42bddd046042a8fad" title="LimeSDRInputGUI::on\l_ncoEnable_toggled" alt="" coords="300,846,455,888"/>
+<area shape="rect" id="node16" href="$d4/d53/classLimeSDRInputGUI.html#aff1c650a2ab791e4b07c7e0485ab5e10" title="LimeSDRInputGUI::on\l_ncoFrequency_changed" alt="" coords="294,912,461,953"/>
+<area shape="rect" id="node17" href="$d4/d53/classLimeSDRInputGUI.html#a53d4c879daf2561462e929117e73893f" title="LimeSDRInputGUI::on\l_pgaGain_valueChanged" alt="" coords="294,977,461,1018"/>
+<area shape="rect" id="node18" href="$d4/d53/classLimeSDRInputGUI.html#a03b9dcca6403b7849babf1f7ea5ecfba" title="LimeSDRInputGUI::on\l_sampleRate_changed" alt="" coords="300,1042,455,1084"/>
+<area shape="rect" id="node19" href="$d4/d53/classLimeSDRInputGUI.html#a9b6f871b566b359411b6e71cc5ab95ee" title="LimeSDRInputGUI::on\l_swDecim_currentIndexChanged" alt="" coords="270,1108,485,1149"/>
+<area shape="rect" id="node20" href="$d4/d53/classLimeSDRInputGUI.html#a39f64549eac1c064b51cde736bf41b30" title="LimeSDRInputGUI::on\l_tiaGain_currentIndexChanged" alt="" coords="277,1173,478,1214"/>
+<area shape="rect" id="node21" href="$d4/d53/classLimeSDRInputGUI.html#a09599824f7ed23106ecc5104ee1e2d2c" title="LimeSDRInputGUI::on\l_transverter_clicked" alt="" coords="300,1238,455,1280"/>
+<area shape="rect" id="node22" href="$d4/d53/classLimeSDRInputGUI.html#af4113587eae054bcb16dd898c9bbc59d" title="LimeSDRInputGUI::openDevice\lSettingsDialog" alt="" coords="273,1369,482,1410"/>
+<area shape="rect" id="node24" href="$d4/d53/classLimeSDRInputGUI.html#af71934eefe861b91fe23b2781a4f5d58" title="LimeSDRInputGUI::resetTo\lDefaults" alt="" coords="285,1304,469,1345"/>
+<area shape="rect" id="node25" href="$d4/d53/classLimeSDRInputGUI.html#ac7c10150e2e93ca11a687f87ebe602d7" title="LimeSDRInputGUI::setCenter\lFrequency" alt="" coords="279,1434,476,1476"/>
+<area shape="rect" id="node23" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="533,1376,784,1403"/>
+</map>

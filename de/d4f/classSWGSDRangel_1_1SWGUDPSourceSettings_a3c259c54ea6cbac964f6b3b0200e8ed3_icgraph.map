@@ -1,0 +1,16 @@
+<map id="SWGSDRangel::SWGUDPSourceSettings::setGainOut" name="SWGSDRangel::SWGUDPSourceSettings::setGainOut">
+<area shape="rect" id="node2" href="$de/da4/classUDPSource.html#aaf633d2a09d223a7dc9482f4692d16e6" title="UDPSource::webapiFormatChannel\lSettings" alt="" coords="277,53,508,94"/>
+<area shape="rect" id="node6" href="$de/da4/classUDPSource.html#a7a0f564377e095bffb415078f76912f9" title="UDPSource::webapiReverse\lSendSettings" alt="" coords="297,118,488,159"/>
+<area shape="rect" id="node3" href="$de/da4/classUDPSource.html#a14e1c4e26e53534a95aba1a2d8b60a19" title="UDPSource::webapiSettingsGet" alt="" coords="556,5,767,32"/>
+<area shape="rect" id="node5" href="$de/da4/classUDPSource.html#a4fdca4d41d0a6cdeba125c524b8440ab" title="UDPSource::webapiSettings\lPutPatch" alt="" coords="567,57,756,98"/>
+<area shape="rect" id="node4" href="$de/da4/classUDPSource.html#a50fa07dafcd0c0e49d7d4808adf3cdf6" title="UDPSource::getStreamCenter\lFrequency" alt="" coords="815,15,1013,57"/>
+<area shape="rect" id="node7" href="$de/da4/classUDPSource.html#a71aea5ea4104e814fc05efa55b05724e" title="UDPSource::applySettings" alt="" coords="572,125,751,152"/>
+<area shape="rect" id="node8" href="$de/da4/classUDPSource.html#a82bb428067797487c24e51149955b6af" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="819,99,1009,125"/>
+<area shape="rect" id="node14" href="$de/da4/classUDPSource.html#a9d42eb6165ff02cafc2035ca219366ca" title="UDPSource::UDPSource" alt="" coords="829,151,999,177"/>
+<area shape="rect" id="node9" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="1087,96,1287,123"/>
+<area shape="rect" id="node10" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="1360,96,1579,123"/>
+<area shape="rect" id="node11" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1627,96,1787,123"/>
+<area shape="rect" id="node12" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1835,89,2021,130"/>
+<area shape="rect" id="node13" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="2069,96,2259,123"/>
+<area shape="rect" id="node15" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a307eb736cd6c12733d05076ce5841205" title="UDPSource::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1061,147,1312,189"/>
+</map>

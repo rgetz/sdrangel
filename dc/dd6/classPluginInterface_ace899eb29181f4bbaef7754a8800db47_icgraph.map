@@ -1,0 +1,13 @@
+<map id="PluginInterface::createRxChannelBS" name="PluginInterface::createRxChannelBS">
+<area shape="rect" id="node2" href="$de/d59/classPluginManager.html#a1c7d5134c7ff97d5445e5836012b00a9" title="PluginManager::createRxChannel\lInstance" alt="" coords="224,140,441,181"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a58d2be4f97774a9c7413727037209fbb" title="MainWindow::channelAddClicked" alt="" coords="489,147,707,174"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#ae9f6401d202ffdaaeafc10da4314ffe2" title="MainWindow::addMIMODevice" alt="" coords="757,173,960,199"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="1011,122,1207,149"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="762,223,955,250"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#adac6baaae818c8a27f1fe65a48322f04" title="MainWindow::addSourceDevice" alt="" coords="755,71,963,98"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a9aa2384f1feb1c6f8f11268706ff5858" title="MainWindow::on_action\l_addMIMODevice_triggered" alt="" coords="1017,173,1201,215"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1255,122,1457,149"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1505,97,1685,123"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="1021,239,1196,280"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#ab1ed28392dc263c837d85fe5d8e15b0a" title="MainWindow::on_action\l_addSourceDevice_triggered" alt="" coords="1014,5,1203,47"/>
+</map>

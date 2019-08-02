@@ -1,0 +1,11 @@
+<map id="DeviceBladeRF2::getFrequencyRangeRx" name="DeviceBladeRF2::getFrequencyRangeRx">
+<area shape="rect" id="node2" href="$d6/d2d/classBladeRF2Input.html#ae42137c3ea484d40d8f1078d0bffbb3d" title="BladeRF2Input::getFrequency\lRange" alt="" coords="263,53,459,94"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="261,144,460,185"/>
+<area shape="rect" id="node3" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="1035,28,1229,69"/>
+<area shape="rect" id="node4" href="$d6/d2d/classBladeRF2Input.html#addc89c953a38fbc76f2114a462a9f705" title="For when the source sample rate is set externally. " alt="" coords="514,34,721,60"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#ac1ee745a500cf5e52895539835544df4" title="BladeRF2InputGui::update\lFrequencyLimits" alt="" coords="529,85,705,126"/>
+<area shape="rect" id="node6" href="$d8/d0b/classBladeRF2InputGui.html#aa1aefbcad27f1f8d59ff403d62f92788" title="BladeRF2InputGui::on\l_transverter_clicked" alt="" coords="800,85,951,126"/>
+<area shape="rect" id="node8" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="508,151,727,178"/>
+<area shape="rect" id="node9" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="775,151,976,178"/>
+<area shape="rect" id="node10" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="1024,144,1240,185"/>
+</map>

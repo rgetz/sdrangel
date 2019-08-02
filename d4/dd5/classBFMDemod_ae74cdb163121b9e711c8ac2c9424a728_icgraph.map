@@ -1,0 +1,9 @@
+<map id="BFMDemod::getMagSqLevels" name="BFMDemod::getMagSqLevels">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a9f203b8acf3384b6b404050cdae65f55" title="BFMDemodGUI::tick" alt="" coords="293,5,439,32"/>
+<area shape="rect" id="node7" href="$d4/dd5/classBFMDemod.html#affda0903facdfdc2c658a489c29c2bdf" title="BFMDemod::webapiFormatChannel\lReport" alt="" coords="251,57,481,98"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="529,5,748,32"/>
+<area shape="rect" id="node4" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="796,5,956,32"/>
+<area shape="rect" id="node5" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1004,5,1223,32"/>
+<area shape="rect" id="node6" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1271,5,1417,32"/>
+<area shape="rect" id="node8" href="$d4/dd5/classBFMDemod.html#abd5507f8b0ed15a9dd36fb2e6535fa0a" title="BFMDemod::webapiReportGet" alt="" coords="538,64,739,91"/>
+</map>

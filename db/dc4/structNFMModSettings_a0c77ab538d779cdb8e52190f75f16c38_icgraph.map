@@ -1,0 +1,13 @@
+<map id="NFMModSettings::getCTCSSFreq" name="NFMModSettings::getCTCSSFreq">
+<area shape="rect" id="node2" href="$de/df8/classNFMMod.html#a15aeec0a9dcf473026683d4848b86a06" title="NFMMod::applyAudioSampleRate" alt="" coords="281,79,501,105"/>
+<area shape="rect" id="node3" href="$de/df8/classNFMMod.html#a5df57ef110295347dabb14a81e2df9d6" title="NFMMod::applySettings" alt="" coords="567,28,729,55"/>
+<area shape="rect" id="node8" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="555,155,741,181"/>
+<area shape="rect" id="node12" href="$db/dc4/structNFMModSettings.html#aef07f4edc48ad79d861a2285d5731536" title="NFMModSettings::setCWKeyerGUI" alt="" coords="276,180,507,207"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="789,79,964,105"/>
+<area shape="rect" id="node6" href="$de/df8/classNFMMod.html#a6a5f4ec527cfb7e59b5e6abbb13942b2" title="NFMMod::NFMMod" alt="" coords="807,28,946,55"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="1070,85,1197,112"/>
+<area shape="rect" id="node7" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1020,5,1247,61"/>
+<area shape="rect" id="node9" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="805,155,949,181"/>
+<area shape="rect" id="node10" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1012,155,1255,181"/>
+<area shape="rect" id="node11" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1303,155,1476,181"/>
+</map>

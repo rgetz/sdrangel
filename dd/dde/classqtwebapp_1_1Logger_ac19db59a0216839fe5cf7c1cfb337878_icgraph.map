@@ -1,0 +1,8 @@
+<map id="qtwebapp::Logger::getMinMessageLevel" name="qtwebapp::Logger::getMinMessageLevel">
+<area shape="rect" id="node2" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a9be5ad81de7fb870343bce67f4473f24" title="qtwebapp::LoggerWithFile\l::getConsoleMinMessageLevelStr" alt="" coords="225,71,444,112"/>
+<area shape="rect" id="node7" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a872d07aba04634bf89b29cb188e27a53" title="qtwebapp::LoggerWithFile\l::getFileMinMessageLevelStr" alt="" coords="239,136,430,177"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#ac6fa7af9e7a689560d0db3c4bc3a8551" title="WebAPIAdapterGUI::instance\lSummary" alt="" coords="492,136,689,177"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a3798a51ec7a35040c01708a4195be929" title="WebAPIAdapterGUI::instance\lLoggingGet" alt="" coords="492,201,689,243"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a505535853574106c725f94efa3f67d17" title="WebAPIAdapterSrv::instance\lSummary" alt="" coords="494,5,687,47"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#acf2d01377665adfafc1dae977316b695" title="WebAPIAdapterSrv::instance\lLoggingGet" alt="" coords="494,71,687,112"/>
+</map>

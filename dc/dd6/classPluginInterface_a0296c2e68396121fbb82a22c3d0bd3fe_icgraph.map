@@ -1,0 +1,12 @@
+<map id="PluginInterface::createSampleSinkPluginInstance" name="PluginInterface::createSampleSinkPluginInstance">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#af42f57768a02c93f043d6226e510b55c" title="MainCore::changeSampleSink" alt="" coords="264,5,463,32"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a81db62bb44853c8cbcb1c5cb457c95fc" title="MainWindow::sampleSinkChanged" alt="" coords="251,56,476,83"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="532,5,709,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="771,5,955,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1039,5,1182,32"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="524,107,717,133"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="765,56,961,83"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="776,107,951,149"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1009,56,1212,83"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1260,56,1440,83"/>
+</map>

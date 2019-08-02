@@ -1,0 +1,7 @@
+<map id="BFMDemodGUI::applySettings" name="BFMDemodGUI::applySettings">
+<area shape="rect" id="node2" href="$d4/d90/classBFMDemod_1_1MsgConfigureBFMDemod.html#a924cfd2f7bfab112b736d006027f28b6" title="BFMDemod::MsgConfigureBFMDemod\l::create" alt="" coords="256,5,507,47"/>
+<area shape="rect" id="node3" href="$da/d6f/classBFMDemod_1_1MsgConfigureChannelizer.html#ad8d9748d41e90bdf86942973de409528" title="BFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="256,71,507,112"/>
+<area shape="rect" id="node4" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="297,136,465,177"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="307,202,456,229"/>
+<area shape="rect" id="node6" href="$d4/dd5/classBFMDemod.html#abe908fd74e2bf1f2d571786dd5edadfa" title="BFMDemod::requiredBW" alt="" coords="297,253,465,279"/>
+</map>

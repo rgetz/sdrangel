@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGNFMDemodSettings::setAudioMute" name="SWGSDRangel::SWGNFMDemodSettings::setAudioMute">
+<area shape="rect" id="node2" href="$df/ddf/classNFMDemod.html#ac805f0e3f3021b18b3523c92d720eadb" title="NFMDemod::webapiFormatChannel\lSettings" alt="" coords="279,50,509,91"/>
+<area shape="rect" id="node6" href="$df/ddf/classNFMDemod.html#ab6a5ac2b00069e89c6d9857549bfcc52" title="NFMDemod::webapiReverseSend\lSettings" alt="" coords="283,115,505,157"/>
+<area shape="rect" id="node3" href="$df/ddf/classNFMDemod.html#a2543c4e06aea68563500a35a7065983c" title="NFMDemod::webapiSettingsGet" alt="" coords="557,5,768,32"/>
+<area shape="rect" id="node5" href="$df/ddf/classNFMDemod.html#ab007e69aa851dc5175daa31480ce6169" title="NFMDemod::webapiSettings\lPutPatch" alt="" coords="567,57,758,98"/>
+<area shape="rect" id="node4" href="$df/ddf/classNFMDemod.html#a47128f43314e6dcaa40e0e62abaa02ba" title="NFMDemod::getStreamCenter\lFrequency" alt="" coords="816,27,1016,69"/>
+<area shape="rect" id="node7" href="$df/ddf/classNFMDemod.html#aa28d38963ba5049eb223738d4d062b40" title="NFMDemod::applySettings" alt="" coords="573,123,753,149"/>
+<area shape="rect" id="node8" href="$df/ddf/classNFMDemod.html#ae02dd8d2d4119bb1273ac19482b37393" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="820,123,1012,149"/>
+<area shape="rect" id="node9" href="$df/ddf/classNFMDemod.html#adaa9ae3c488894b364f630d8ac7934ac" title="NFMDemod::destroy" alt="" coords="1064,123,1208,149"/>
+</map>

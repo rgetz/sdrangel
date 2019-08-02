@@ -1,0 +1,8 @@
+<map id="SWGSDRangel::SWGDVSerialDevices::setNbDevices" name="SWGSDRangel::SWGDVSerialDevices::setNbDevices">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a24a29ee4790341740b8979f885433db2" title="WebAPIAdapterGUI::instance\lAMBESerialGet" alt="" coords="260,5,457,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#add5467eff9b9984e180241226e234798" title="WebAPIAdapterSrv::instance\lAMBESerialGet" alt="" coords="262,71,455,112"/>
+<area shape="rect" id="node4" href="$dc/dd8/classWebAPIAdapterSrv.html#ad44f2ecdf41410db038e3307ce83a8be" title="WebAPIAdapterSrv::instance\lDVSerialGet" alt="" coords="262,136,455,177"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#a640089a328f27f1a681291e0e5537bf9" title="WebAPIAdapterGUI::instance\lDVSerialGet" alt="" coords="260,201,457,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#a425df6bd33ba0cc0c686905e5f5d5184" title="WebAPIAdapterGUI::instance\lDVSerialPatch" alt="" coords="260,267,457,308"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a03a780439b9d10d23be0c69f946acd90" title="WebAPIAdapterSrv::instance\lDVSerialPatch" alt="" coords="262,332,455,373"/>
+</map>

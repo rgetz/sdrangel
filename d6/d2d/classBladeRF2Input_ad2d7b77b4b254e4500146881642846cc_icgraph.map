@@ -1,0 +1,14 @@
+<map id="BladeRF2Input::getGlobalGainRange" name="BladeRF2Input::getGlobalGainRange">
+<area shape="rect" id="node2" href="$d6/d2d/classBladeRF2Input.html#af237ed1f36c20e4a5fb2d7717d310fa8" title="BladeRF2Input::applySettings" alt="" coords="231,111,427,138"/>
+<area shape="rect" id="node3" href="$d6/d2d/classBladeRF2Input.html#ae10a942a658970e5b49777acdbb83256" title="BladeRF2Input::handleMessage" alt="" coords="480,23,688,50"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="996,168,1191,209"/>
+<area shape="rect" id="node11" href="$d8/d0b/classBladeRF2InputGui.html#a68143d0f2c26c5b993f2243ec0696dab" title="BladeRF2InputGui::handle\lMessage" alt="" coords="241,226,416,268"/>
+<area shape="rect" id="node13" href="$d6/d2d/classBladeRF2Input.html#addc89c953a38fbc76f2114a462a9f705" title="For when the source sample rate is set externally. " alt="" coords="225,292,432,319"/>
+<area shape="rect" id="node9" href="$d6/d2d/classBladeRF2Input.html#a2b7adda3dc4b07c1d2b09e13ae03a611" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="517,124,651,151"/>
+<area shape="rect" id="node10" href="$d6/d2d/classBladeRF2Input.html#a40c1183e02b29306efd51f918ea962f5" title="BladeRF2Input::start" alt="" coords="513,74,655,100"/>
+<area shape="rect" id="node4" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="736,34,937,60"/>
+<area shape="rect" id="node6" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="985,26,1201,68"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="994,92,1193,133"/>
+<area shape="rect" id="node8" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="1249,38,1468,64"/>
+<area shape="rect" id="node12" href="$d8/d0b/classBladeRF2InputGui.html#aace8bf212761eb1c3e8dbe3a78194de6" title="BladeRF2InputGui::handle\lInputMessages" alt="" coords="749,226,924,268"/>
+</map>

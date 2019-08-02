@@ -1,0 +1,11 @@
+<map id="PlutoSDRInputGui::on_swDecim_currentIndexChanged" name="PlutoSDRInputGui::on_swDecim_currentIndexChanged">
+<area shape="rect" id="node2" href="$d7/df0/classPlutoSDRInputGui.html#ade51fdf421cefcf6d8af717c12ab3bba" title="PlutoSDRInputGui::display\lSampleRate" alt="" coords="286,57,465,98"/>
+<area shape="rect" id="node10" href="$d7/df0/classPlutoSDRInputGui.html#ac763a97ec9ef6a4048aa70973d16c88b" title="PlutoSDRInputGui::sendSettings" alt="" coords="268,123,483,149"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="823,35,863,61"/>
+<area shape="rect" id="node8" href="$d7/df0/classPlutoSDRInputGui.html#a5607531ac6c476984526cc57185f6581" title="PlutoSDRInputGui::display\lFcTooltip" alt="" coords="531,86,709,127"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="976,35,1084,61"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1132,57,1280,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1336,5,1455,32"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1328,57,1463,98"/>
+<area shape="rect" id="node9" href="$db/d0c/classDeviceSampleSource.html#a8d7e8bf06f70b43e5e52e73d89de852f" title="DeviceSampleSource\l::calculateFrequencyShift" alt="" coords="757,86,928,127"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="FreqTracker::webapiFormatChannelReport" name="FreqTracker::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="294,5,419,32"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a266db1f13f765bdf51d533c003b06325" title="SWGSDRangel::SWGChannelReport\l::getFreqTrackerReport" alt="" coords="236,57,477,98"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#a6992c5c52f3be6f4006d59550af823d9" title="FreqTracker::getMagSqLevels" alt="" coords="258,123,455,149"/>
+<area shape="rect" id="node5" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a411ff0ba8d03bc6c73c0b7f052605a28" title="SWGSDRangel::SWGFreqTracker\lReport::setChannelPowerDb" alt="" coords="245,174,469,215"/>
+<area shape="rect" id="node6" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a8c6baf83e1dbc68ca6a91f750fbf3de9" title="SWGSDRangel::SWGFreqTracker\lReport::setChannelSampleRate" alt="" coords="245,239,469,281"/>
+<area shape="rect" id="node7" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a1bdc98b75b71315f457ec68758d969f3" title="SWGSDRangel::SWGFreqTracker\lReport::setSampleRate" alt="" coords="245,305,469,346"/>
+<area shape="rect" id="node8" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a94e012ea72c56d4ccf95d3c7360217cd" title="SWGSDRangel::SWGFreqTracker\lReport::setSquelch" alt="" coords="245,370,469,411"/>
+</map>

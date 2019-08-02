@@ -1,0 +1,7 @@
+<map id="FileSourceGUI::tick" name="FileSourceGUI::tick">
+<area shape="rect" id="node2" href="$d9/dec/classFileSource_1_1MsgConfigureFileSourceStreamTiming.html#ae2a02e8d30b2b2b52f4519fb12d4e754" title="FileSource::MsgConfigure\lFileSourceStreamTiming\l::create" alt="" coords="199,5,372,61"/>
+<area shape="rect" id="node3" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="223,85,348,112"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="201,137,369,178"/>
+<area shape="rect" id="node5" href="$d9/db6/classFileSource.html#a86b9a726059262e1f038cbbb65178852" title="FileSource::getMagSqLevels" alt="" coords="191,203,380,229"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="211,253,360,280"/>
+</map>

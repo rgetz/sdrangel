@@ -1,0 +1,4 @@
+<map id="DeviceAPI::removeChannelSource" name="DeviceAPI::removeChannelSource">
+<area shape="rect" id="node2" href="$d1/d90/classDSPDeviceSinkEngine.html#a15d2c082fc3c54786cc20086d797411a" title="Remove a baseband sample source that runs on its own thread. " alt="" coords="237,5,405,47"/>
+<area shape="rect" id="node3" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="453,13,632,39"/>
+</map>

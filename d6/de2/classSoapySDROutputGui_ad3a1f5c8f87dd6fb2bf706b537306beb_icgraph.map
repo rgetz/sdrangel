@@ -1,0 +1,32 @@
+<map id="SoapySDROutputGui::sendSettings" name="SoapySDROutputGui::sendSettings">
+<area shape="rect" id="node2" href="$d6/de2/classSoapySDROutputGui.html#aec988fb4aad5bb81a4ead34f51b4e1ff" title="SoapySDROutputGui::\lantennasChanged" alt="" coords="234,71,389,112"/>
+<area shape="rect" id="node4" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="712,672,867,713"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#ac9d4c23bf85f8bae0de7f36d523c4df8" title="SoapySDROutputGui::\lautoDCCorrectionChanged" alt="" coords="222,515,401,556"/>
+<area shape="rect" id="node7" href="$d6/de2/classSoapySDROutputGui.html#a8a83dac584243fbce4de09844802a2ac" title="SoapySDROutputGui::\lautoGainChanged" alt="" coords="234,645,389,687"/>
+<area shape="rect" id="node9" href="$d6/de2/classSoapySDROutputGui.html#abbde7811ea43190a4d3a55362fe08bcb" title="SoapySDROutputGui::\lautoIQCorrectionChanged" alt="" coords="225,188,398,229"/>
+<area shape="rect" id="node10" href="$d6/de2/classSoapySDROutputGui.html#a53fb9a44eae467b966648550f41fe7b3" title="SoapySDROutputGui::\lbandwidthChanged" alt="" coords="486,704,641,745"/>
+<area shape="rect" id="node11" href="$d6/de2/classSoapySDROutputGui.html#aba106ef5665ed19fc4294d9078e88932" title="SoapySDROutputGui::\ldcCorrectionArgumentChanged" alt="" coords="209,253,413,295"/>
+<area shape="rect" id="node12" href="$d6/de2/classSoapySDROutputGui.html#a9c306cdad3100628a028da662d28f21f" title="SoapySDROutputGui::\ldcCorrectionModuleChanged" alt="" coords="216,319,407,360"/>
+<area shape="rect" id="node13" href="$d6/de2/classSoapySDROutputGui.html#aadd380be5a63bd40f793f67d0c2b63a9" title="SoapySDROutputGui::\ldeserialize" alt="" coords="486,795,641,836"/>
+<area shape="rect" id="node14" href="$d6/de2/classSoapySDROutputGui.html#a094de23d10f18ef3c6a996a4eb10c2ac" title="SoapySDROutputGui::\ldeviceArgChanged" alt="" coords="234,1207,389,1248"/>
+<area shape="rect" id="node16" href="$d6/de2/classSoapySDROutputGui.html#a7ba0d03537f2f0ba3aa791be4fc6e213" title="SoapySDROutputGui::\lglobalGainChanged" alt="" coords="234,580,389,621"/>
+<area shape="rect" id="node17" href="$d6/de2/classSoapySDROutputGui.html#ac7b5999c7a17b15047197b34282e9eef" title="SoapySDROutputGui::\lindividualGainChanged" alt="" coords="234,1141,389,1183"/>
+<area shape="rect" id="node19" href="$d6/de2/classSoapySDROutputGui.html#a48131cbda0f24061fd3bf0dc3f7bc4e1" title="SoapySDROutputGui::\liqCorrectionArgumentChanged" alt="" coords="211,384,411,425"/>
+<area shape="rect" id="node20" href="$d6/de2/classSoapySDROutputGui.html#aaaf9fc0e5ae75d8907e60c57fcd65de0" title="SoapySDROutputGui::\liqCorrectionModuleChanged" alt="" coords="218,449,405,491"/>
+<area shape="rect" id="node21" href="$d6/de2/classSoapySDROutputGui.html#a7294748da1dbc796b9a4e33be954090f" title="SoapySDROutputGui::\lon_centerFrequency_changed" alt="" coords="213,880,409,921"/>
+<area shape="rect" id="node22" href="$d6/de2/classSoapySDROutputGui.html#af7ef2763523f53699bc993c57c8dba56" title="SoapySDROutputGui::\lon_interp_currentIndexChanged" alt="" coords="208,945,415,987"/>
+<area shape="rect" id="node23" href="$d6/de2/classSoapySDROutputGui.html#aca955c06b6e3c48c9ac9ac20a50db856" title="SoapySDROutputGui::\lon_LOppm_valueChanged" alt="" coords="224,1011,399,1052"/>
+<area shape="rect" id="node24" href="$d6/de2/classSoapySDROutputGui.html#a30eeb20d8c757e1b39080808b32cb6b7" title="SoapySDROutputGui::\lon_transverter_clicked" alt="" coords="234,1076,389,1117"/>
+<area shape="rect" id="node25" href="$d6/de2/classSoapySDROutputGui.html#aa2b860855902eb6949efc3f81eb6573a" title="SoapySDROutputGui::\lopenDeviceSettingsDialog" alt="" coords="475,1299,651,1340"/>
+<area shape="rect" id="node26" href="$d6/de2/classSoapySDROutputGui.html#a1610262fe586b79b1e677d5b845fa760" title="SoapySDROutputGui::\lresetToDefaults" alt="" coords="234,763,389,804"/>
+<area shape="rect" id="node27" href="$d6/de2/classSoapySDROutputGui.html#a4b03090c45a50179506ec3e4b160fa05" title="SoapySDROutputGui::\lsampleRateChanged" alt="" coords="486,1419,641,1460"/>
+<area shape="rect" id="node28" href="$d6/de2/classSoapySDROutputGui.html#aa202b82e4c2ba9eecb245ee17066c9b6" title="SoapySDROutputGui::\lsetCenterFrequency" alt="" coords="234,1337,389,1379"/>
+<area shape="rect" id="node29" href="$d6/de2/classSoapySDROutputGui.html#a56bd17e6aee81ce5b14af4f6006645e3" title="SoapySDROutputGui::\lstreamArgChanged" alt="" coords="234,1272,389,1313"/>
+<area shape="rect" id="node30" href="$d6/de2/classSoapySDROutputGui.html#aef4f49ca2b6e18e77242950e3eb336d6" title="SoapySDROutputGui::\ltunableElementChanged" alt="" coords="229,5,393,47"/>
+<area shape="rect" id="node3" href="$d6/de2/classSoapySDROutputGui.html#a5f1dbb907435481f13e98fd9f8444a80" title="SoapySDROutputGui::\lcreateAntennasControl" alt="" coords="486,71,641,112"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#a94b2b7052d529086e38a7ebccac5f5a7" title="SoapySDROutputGui::\lcreateCorrectionsControl" alt="" coords="480,384,647,425"/>
+<area shape="rect" id="node8" href="$d6/de2/classSoapySDROutputGui.html#ac16d1cc67bc7d8bb8b06ddd23ddc8e9e" title="SoapySDROutputGui::\lcreateGlobalGainControl" alt="" coords="481,639,645,680"/>
+<area shape="rect" id="node15" href="$d6/de2/classSoapySDROutputGui.html#a355a578b96af62fa3bdfa6baa6bcab8c" title="SoapySDROutputGui::\lcreateArgumentsControl" alt="" coords="482,1207,645,1248"/>
+<area shape="rect" id="node18" href="$d6/de2/classSoapySDROutputGui.html#a3d72644bf7e22a7c305aa08e75dc18ed" title="SoapySDROutputGui::\lcreateIndividualGainsControl" alt="" coords="469,1013,658,1055"/>
+<area shape="rect" id="node31" href="$d6/de2/classSoapySDROutputGui.html#a289b10c835c033748ab88551d5fdaa7b" title="SoapySDROutputGui::\lcreateTunableElementsControl" alt="" coords="463,5,664,47"/>
+</map>

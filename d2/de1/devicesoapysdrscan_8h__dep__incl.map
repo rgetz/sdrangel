@@ -1,0 +1,10 @@
+<map id="devices/soapysdr/devicesoapysdrscan.h" name="devices/soapysdr/devicesoapysdrscan.h">
+<area shape="rect" id="node2" href="$db/d0f/devicesoapysdr_8h.html" title="devices/soapysdr/devicesoapysdr.h" alt="" coords="683,80,913,107"/>
+<area shape="rect" id="node9" href="$d2/d04/devicesoapysdrscan_8cpp.html" title="devices/soapysdr/devicesoapysdrscan.cpp" alt="" coords="938,80,1210,107"/>
+<area shape="rect" id="node3" href="$da/db3/devicesoapysdr_8cpp.html" title="devices/soapysdr/devicesoapysdr.cpp" alt="" coords="5,162,249,189"/>
+<area shape="rect" id="node4" href="$df/d43/soapysdroutput_8cpp.html" title="plugins/samplesink\l/soapysdroutput/soapysdroutput.cpp" alt="" coords="273,155,507,196"/>
+<area shape="rect" id="node5" href="$d0/d3a/soapysdroutputplugin_8cpp.html" title="plugins/samplesink\l/soapysdroutput/soapysdroutputplugin.cpp" alt="" coords="531,155,798,196"/>
+<area shape="rect" id="node6" href="$d4/d2c/soapysdrinput_8cpp.html" title="plugins/samplesource\l/soapysdrinput/soapysdrinput.cpp" alt="" coords="823,155,1040,196"/>
+<area shape="rect" id="node7" href="$de/d1d/soapysdrinputplugin_8cpp.html" title="plugins/samplesource\l/soapysdrinput/soapysdrinputplugin.cpp" alt="" coords="1065,155,1315,196"/>
+<area shape="rect" id="node8" href="$db/da8/soapysdrinputthread_8cpp.html" title="plugins/samplesource\l/soapysdrinput/soapysdrinputthread.cpp" alt="" coords="1339,155,1593,196"/>
+</map>

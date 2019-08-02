@@ -1,0 +1,18 @@
+<map id="sdrbase/webapi/webapiserver.cpp" name="sdrbase/webapi/webapiserver.cpp">
+<area shape="rect" id="node3" href="$da/d9e/httplistener_8h.html" title="httplistener.h" alt="" coords="621,80,718,107"/>
+<area shape="rect" id="node31" href="$db/deb/webapirequestmapper_8h.html" title="webapirequestmapper.h" alt="" coords="1432,155,1592,181"/>
+<area shape="rect" id="node41" href="$d8/dd3/webapiserver_8h.html" title="webapiserver.h" alt="" coords="1750,80,1861,107"/>
+<area shape="rect" id="node7" href="$d2/d81/httpglobal_8h.html" title="httpglobal.h" alt="" coords="410,528,499,555"/>
+<area shape="rect" id="node9" href="$d3/ddc/httpconnectionhandler_8h.html" title="httpconnectionhandler.h" alt="" coords="544,229,704,256"/>
+<area shape="rect" id="node21" href="$db/d76/httplistenersettings_8h.html" title="httplistenersettings.h" alt="" coords="94,453,237,480"/>
+<area shape="rect" id="node22" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1711,528,1780,555"/>
+<area shape="rect" id="node23" href="$d9/d0a/httprequesthandler_8h.html" title="httprequesthandler.h" alt="" coords="1002,304,1142,331"/>
+<area shape="rect" id="node28" href="$d6/d3b/httpconnectionhandlerpool_8h.html" title="httpconnectionhandlerpool.h" alt="" coords="743,155,927,181"/>
+<area shape="rect" id="node14" href="$d6/d9c/httprequest_8h.html" title="httprequest.h" alt="" coords="813,379,912,405"/>
+<area shape="rect" id="node24" href="$d8/d19/httpresponse_8h.html" title="httpresponse.h" alt="" coords="1319,379,1427,405"/>
+<area shape="rect" id="node26" href="$d2/ddc/httpcookie_8h.html" title="httpcookie.h" alt="" coords="1304,453,1397,480"/>
+<area shape="rect" id="node33" href="$d4/de8/staticfilecontroller_8h.html" title="staticfilecontroller.h" alt="" coords="1281,229,1415,256"/>
+<area shape="rect" id="node35" href="$d9/dc5/webapiadapterinterface_8h.html" title="webapiadapterinterface.h" alt="" coords="1922,304,2089,331"/>
+<area shape="rect" id="node37" href="$db/df4/SWGErrorResponse_8h.html" title="SWGErrorResponse.h" alt="" coords="2040,379,2192,405"/>
+<area shape="rect" id="node39" href="$dc/d4d/SWGObject_8h.html" title="SWGObject.h" alt="" coords="2318,453,2421,480"/>
+</map>

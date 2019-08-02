@@ -1,0 +1,9 @@
+<map id="AirspyHFGui::displayAGC" name="AirspyHFGui::displayAGC">
+<area shape="rect" id="node2" href="$d6/d2f/classAirspyHFGui.html#a9bac0dad2148f77b928778610b664eac" title="AirspyHFGui::displaySettings" alt="" coords="228,87,423,114"/>
+<area shape="rect" id="node3" href="$d6/d2f/classAirspyHFGui.html#aea13be5541f92d02861ea15d55940ca9" title="AirspyHFGui::AirspyHFGui" alt="" coords="961,62,1141,88"/>
+<area shape="rect" id="node4" href="$d6/d2f/classAirspyHFGui.html#aeacf5829c3f817b7172d0281320b371e" title="AirspyHFGui::resetToDefaults" alt="" coords="483,36,681,63"/>
+<area shape="rect" id="node5" href="$d6/d2f/classAirspyHFGui.html#ad7c4bbbba8bcea0dd52ea2c55c6c827d" title="AirspyHFGui::deserialize" alt="" coords="744,62,911,88"/>
+<area shape="rect" id="node6" href="$d6/d2f/classAirspyHFGui.html#a61555d95c541847fb21ca6c1e18eba86" title="AirspyHFGui::setCenterFrequency" alt="" coords="471,138,693,164"/>
+<area shape="rect" id="node7" href="$d6/d2f/classAirspyHFGui.html#aa5e34426758bda4bdf2be0da66ee17bf" title="AirspyHFGui::handleMessage" alt="" coords="484,188,680,215"/>
+<area shape="rect" id="node8" href="$d6/d2f/classAirspyHFGui.html#af7165202db4abfaff6eef942f18f2e14" title="AirspyHFGui::handleInput\lMessages" alt="" coords="741,134,913,176"/>
+</map>

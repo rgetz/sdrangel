@@ -1,0 +1,9 @@
+<map id="LocalSourceGUI::on_localDevice_currentIndexChanged" name="LocalSourceGUI::on_localDevice_currentIndexChanged">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a48be773b6e238faf65c29bed867370b1" title="LocalSourceGUI::applySettings" alt="" coords="281,137,487,164"/>
+<area shape="rect" id="node3" href="$d0/d2d/classLocalSource_1_1MsgConfigureLocalSource.html#aa76dea27bf8c610c36702ce9b665286f" title="LocalSource::MsgConfigure\lLocalSource::create" alt="" coords="535,13,717,54"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="543,79,709,105"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="542,130,710,171"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="551,196,701,223"/>
+<area shape="rect" id="node8" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="535,247,717,273"/>
+<area shape="rect" id="node4" href="$d0/d2d/classLocalSource_1_1MsgConfigureLocalSource.html#a1fdf8a6721b24dbf34b70be7d15cf1dc" title="LocalSource::MsgConfigure\lLocalSource::MsgConfigureLocal\lSource" alt="" coords="765,5,980,61"/>
+</map>

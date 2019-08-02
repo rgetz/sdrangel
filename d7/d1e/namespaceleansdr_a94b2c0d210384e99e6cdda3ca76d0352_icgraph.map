@@ -1,0 +1,7 @@
+<map id="leansdr::softwords_flip" name="leansdr::softwords_flip">
+<area shape="rect" id="node2" href="$d7/d08/structleansdr_1_1ldpc__engine.html#a4cf6583f55c24a9cba81fb6821dfbaed" title="leansdr::ldpc_engine\l::count_edges" alt="" coords="207,5,348,47"/>
+<area shape="rect" id="node3" href="$d7/d08/structleansdr_1_1ldpc__engine.html#a4ebfcedeff9c1d7a871eaab8dee82470" title="leansdr::ldpc_engine\l::decode_bitflip" alt="" coords="207,71,348,112"/>
+<area shape="rect" id="node5" href="$d7/d08/structleansdr_1_1ldpc__engine.html#a61cb8d88fa3a9b8fd4280182ec5915ac" title="leansdr::ldpc_engine\l::encode" alt="" coords="207,136,348,177"/>
+<area shape="rect" id="node4" href="$da/d5d/structleansdr_1_1s2__fecdec.html#a362c6ca7754ac2536a6423ceadfd3367" title="leansdr::s2_fecdec::run" alt="" coords="396,78,555,105"/>
+<area shape="rect" id="node6" href="$d8/d34/structleansdr_1_1s2__fecenc.html#a61c2c1c7ef9e2c7b1de9dff139e74494" title="leansdr::s2_fecenc\l::run_frame" alt="" coords="409,136,541,177"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGRDSReport::isSet" name="SWGSDRangel::SWGRDSReport::isSet">
+<area shape="rect" id="node2" href="$dc/da8/classSWGSDRangel_1_1SWGBFMDemodReport.html#a3b09bbdec10aa9ae1b3adf21c2b9eddd" title="SWGSDRangel::SWGBFMDemod\lReport::asJsonObject" alt="" coords="276,5,500,47"/>
+<area shape="rect" id="node4" href="$dc/da8/classSWGSDRangel_1_1SWGBFMDemodReport.html#a47e391bb89c852d5e2e0c87a233cb313" title="SWGSDRangel::SWGBFMDemod\lReport::isSet" alt="" coords="276,71,500,112"/>
+<area shape="rect" id="node3" href="$dc/da8/classSWGSDRangel_1_1SWGBFMDemodReport.html#ab8b2f8f9d7c42d2c0bdaae2727d69da8" title="SWGSDRangel::SWGBFMDemod\lReport::asJson" alt="" coords="557,5,781,47"/>
+<area shape="rect" id="node5" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a7f5c8cd9ccbd81da9a8c32a21c592bf9" title="SWGSDRangel::SWGChannelReport\l::asJsonObject" alt="" coords="548,71,789,112"/>
+<area shape="rect" id="node9" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#ac4030d04264d292e6832814931e4b954" title="SWGSDRangel::SWGChannelReport\l::isSet" alt="" coords="548,136,789,177"/>
+<area shape="rect" id="node6" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a6e4a0ad3d555520e15c4b35b8da0d02c" title="SWGSDRangel::SWGChannelReport\l::asJson" alt="" coords="837,71,1079,112"/>
+<area shape="rect" id="node7" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="1127,71,1344,112"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="1392,71,1555,112"/>
+<area shape="rect" id="node10" href="$d1/d3d/classSWGSDRangel_1_1SWGChannel.html#ada26409ea84fa78562dd147063449c7e" title="SWGSDRangel::SWGChannel\l::asJsonObject" alt="" coords="857,136,1059,177"/>
+<area shape="rect" id="node12" href="$d1/d3d/classSWGSDRangel_1_1SWGChannel.html#a5bcd806c767ffe3589503d114554c118" title="SWGSDRangel::SWGChannel\l::isSet" alt="" coords="857,201,1059,243"/>
+<area shape="rect" id="node11" href="$d1/d3d/classSWGSDRangel_1_1SWGChannel.html#a4c9883b0b4b87de06ff92574af5bbb90" title="SWGSDRangel::SWGChannel\l::asJson" alt="" coords="1134,136,1337,177"/>
+</map>

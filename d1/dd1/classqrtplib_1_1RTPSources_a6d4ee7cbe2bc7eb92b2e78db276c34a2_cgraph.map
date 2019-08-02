@@ -1,0 +1,16 @@
+<map id="qrtplib::RTPSources::MultipleTimeouts" name="qrtplib::RTPSources::MultipleTimeouts">
+<area shape="rect" id="node2" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#af9d9c56feb7827538bccc7ccf99b03f0" title="qrtplib::RTPInternalSource\lData::ClearNote" alt="" coords="207,5,383,47"/>
+<area shape="rect" id="node3" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a558c90afa0cdd1446bc3ae05e8e58832" title="qrtplib::RTPInternalSource\lData::ClearSenderFlag" alt="" coords="207,71,383,112"/>
+<area shape="rect" id="node4" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a5f70d81a05becdaff630aec47c86f782" title="qrtplib::RTPSourceData\l::GetBYETime" alt="" coords="214,136,375,177"/>
+<area shape="rect" id="node5" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af321400893809f7e5b4d3edcc51025a5" title="qrtplib::RTPSourceData\l::INF_GetLastMessageTime" alt="" coords="201,201,388,243"/>
+<area shape="rect" id="node6" href="$da/d75/classqrtplib_1_1RTPSourceData.html#ace12c3d4b492b03056ab5f5d31e83a16" title="qrtplib::RTPSourceData\l::INF_GetLastRTPPacketTime" alt="" coords="193,267,396,308"/>
+<area shape="rect" id="node7" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a60e9dd30816289d07564293b8251d076" title="qrtplib::RTPSourceData\l::INF_GetLastSDESNoteTime" alt="" coords="195,332,394,373"/>
+<area shape="rect" id="node8" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a99db0b33429e923c772af539f449861a" title="qrtplib::RTPSourceData\l::IsActive" alt="" coords="214,397,375,439"/>
+<area shape="rect" id="node9" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af28c94111789b1239bc81d1d0b1c4769" title="qrtplib::RTPSourceData\l::IsSender" alt="" coords="214,463,375,504"/>
+<area shape="rect" id="node10" href="$d1/dd1/classqrtplib_1_1RTPSources.html#aa6f1fd1a1dfc1b857dee0f1667fc7b8a" title="qrtplib::RTPSources\l::OnBYETimeout" alt="" coords="225,528,365,569"/>
+<area shape="rect" id="node11" href="$d1/dd1/classqrtplib_1_1RTPSources.html#abbf43fe5e93ae6a672298a9866f57f19" title="qrtplib::RTPSources\l::OnNoteTimeout" alt="" coords="225,593,365,635"/>
+<area shape="rect" id="node12" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad6e3d6997a2695efdcc2e21070c93235" title="qrtplib::RTPSources\l::OnRemoveSource" alt="" coords="225,659,365,700"/>
+<area shape="rect" id="node13" href="$d1/dd1/classqrtplib_1_1RTPSources.html#adc0888617ed95e1fd929aec1b198064d" title="qrtplib::RTPSources\l::OnTimeout" alt="" coords="225,724,365,765"/>
+<area shape="rect" id="node14" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a640a8f4a7f3a4495778b3e57f3db54be" title="qrtplib::RTPSourceData\l::ReceivedBYE" alt="" coords="214,789,375,831"/>
+<area shape="rect" id="node15" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a10e4779752f591177e68d4db2c11175b" title="qrtplib::RTPSourceData\l::SDES_GetNote" alt="" coords="214,855,375,896"/>
+</map>

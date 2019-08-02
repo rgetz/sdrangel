@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGSSBDemodReport::setChannelPowerDb" name="SWGSDRangel::SWGSSBDemodReport::setChannelPowerDb">
+<area shape="rect" id="node2" href="$d6/d4d/classSSBDemod.html#a78f66bc894cf0d1a70cc940fba092f59" title="SSBDemod::webapiFormatChannel\lReport" alt="" coords="276,23,505,65"/>
+<area shape="rect" id="node3" href="$d6/d4d/classSSBDemod.html#a6429f3f57a8b4cdc9d82bcc065695f25" title="SSBDemod::webapiReportGet" alt="" coords="553,5,753,32"/>
+<area shape="rect" id="node4" href="$d6/d4d/classSSBDemod.html#a51937c6674c7afaa3b42b2d4c8224db6" title="SSBDemod::getMagSqLevels" alt="" coords="801,31,997,57"/>
+<area shape="rect" id="node5" href="$d4/d5b/classSSBDemodGUI.html#af6018e6cec8ee30801efd2e340b21172" title="SSBDemodGUI::tick" alt="" coords="1045,31,1189,57"/>
+<area shape="rect" id="node6" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1237,31,1453,57"/>
+<area shape="rect" id="node7" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1501,31,1660,57"/>
+<area shape="rect" id="node8" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1708,31,1927,57"/>
+<area shape="rect" id="node9" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1975,31,2121,57"/>
+</map>

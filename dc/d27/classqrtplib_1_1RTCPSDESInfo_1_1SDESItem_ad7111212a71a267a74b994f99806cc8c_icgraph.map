@@ -1,0 +1,7 @@
+<map id="qrtplib::RTCPSDESInfo::SDESItem::SetInfo" name="qrtplib::RTCPSDESInfo::SDESItem::SetInfo">
+<area shape="rect" id="node2" href="$dd/d23/classqrtplib_1_1RTCPSDESInfo.html#adb3428d42e0d75c99a6daca63b1c22a0" title="qrtplib::RTCPSDESInfo\l::SetPrivateValue" alt="" coords="215,5,376,47"/>
+<area shape="rect" id="node3" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#ac66a87b79a9a9c442c9bba2b321c4c9c" title="qrtplib::RTPInternalSource\lData::ProcessPrivateSDESItem" alt="" coords="424,5,635,47"/>
+<area shape="rect" id="node4" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a31599485e05606531554f10bc767a3de" title="qrtplib::RTPSources\l::ProcessSDESPrivateItem" alt="" coords="683,5,865,47"/>
+<area shape="rect" id="node5" href="$d1/dd1/classqrtplib_1_1RTPSources.html#af20131177c76386528a0f7e90685d376" title="qrtplib::RTPSources\l::ProcessRTCPCompoundPacket" alt="" coords="913,5,1132,47"/>
+<area shape="rect" id="node6" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a61e3ca0645a30fadd38ab89dd4c26622" title="qrtplib::RTPSources\l::ProcessRawPacket" alt="" coords="1180,5,1327,47"/>
+</map>

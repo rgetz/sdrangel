@@ -1,0 +1,8 @@
+<map id="RemoteSinkThread::handleInputMessages" name="RemoteSinkThread::handleInputMessages">
+<area shape="rect" id="node2" href="$dd/d98/classRemoteSinkThread_1_1MsgStartStop.html#a0434f02a9ac57b034dd4d33d6ca3e5c8" title="RemoteSinkThread::MsgStart\lStop::getStartStop" alt="" coords="235,5,430,47"/>
+<area shape="rect" id="node3" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="273,71,392,98"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="261,122,404,149"/>
+<area shape="rect" id="node6" href="$d4/d3e/classRemoteSinkThread.html#aad6be8f76cafc2cf518efe4dddd2c31c" title="RemoteSinkThread::startWork" alt="" coords="233,173,432,199"/>
+<area shape="rect" id="node7" href="$d4/d3e/classRemoteSinkThread.html#ab30b7b687236f7e9160035d51787f521" title="RemoteSinkThread::stopWork" alt="" coords="233,223,432,250"/>
+<area shape="rect" id="node4" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="480,71,649,98"/>
+</map>

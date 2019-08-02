@@ -1,0 +1,20 @@
+<map id="UDPSourceGUI::tick" name="UDPSourceGUI::tick">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="277,35,317,61"/>
+<area shape="rect" id="node7" href="$d2/d81/classMovingAverageUtil.html#a387f7f6ee4d247551f44f59cb432d87a" title="MovingAverageUtil::\lasDouble" alt="" coords="227,86,367,127"/>
+<area shape="rect" id="node8" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="234,152,359,179"/>
+<area shape="rect" id="node9" href="$de/da4/classUDPSource.html#ac2d4d6c8585fc37d09d3f088f37b5b2f" title="UDPSource::getBufferGauge" alt="" coords="201,203,392,229"/>
+<area shape="rect" id="node11" href="$de/da4/classUDPSource.html#a41013eef3cf8698c26939b0a8b2b506d" title="UDPSource::getInMagSq" alt="" coords="211,253,382,280"/>
+<area shape="rect" id="node12" href="$de/da4/classUDPSource.html#aa5bf8e7c316583669738d8bbcd933a25" title="UDPSource::getMagSq" alt="" coords="217,304,376,331"/>
+<area shape="rect" id="node13" href="$de/da4/classUDPSource.html#a294be202ae366cc549b694b8cf92453e" title="UDPSource::getSquelchOpen" alt="" coords="199,355,395,381"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="485,35,593,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="734,57,882,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="989,5,1108,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="981,57,1116,98"/>
+<area shape="rect" id="node10" href="$d3/d40/classUDPSourceUDPHandler.html#a716be99b9e4c6ded87aa7d69d3bd93f0" title="UDPSourceUDPHandler\l::getBufferGauge" alt="" coords="455,195,622,237"/>
+<area shape="rect" id="node14" href="$de/da4/classUDPSource.html#aaa54d6e419bf85c7ff2dc2c107846af7" title="UDPSource::resetReadIndex" alt="" coords="443,328,635,355"/>
+<area shape="rect" id="node18" href="$de/da4/classUDPSource.html#a1247576d3a2fa7074724580eb54abac1" title="UDPSource::setSpectrum" alt="" coords="451,380,626,407"/>
+<area shape="rect" id="node15" href="$d5/def/classUDPSource_1_1MsgResetReadIndex.html#ae199d9c937974a6fb3c2fa98f02cf85a" title="UDPSource::MsgResetReadIndex\l::create" alt="" coords="697,253,919,294"/>
+<area shape="rect" id="node16" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="724,318,892,359"/>
+<area shape="rect" id="node17" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="733,384,883,411"/>
+<area shape="rect" id="node19" href="$de/ddb/classUDPSource_1_1MsgUDPSourceSpectrum.html#ab841a8ae0d2f15fdeb7f1e3b444dd13c" title="UDPSource::MsgUDPSourceSpectrum\l::create" alt="" coords="683,435,933,477"/>
+</map>

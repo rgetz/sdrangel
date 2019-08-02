@@ -1,0 +1,64 @@
+<map id="NCOF::nextPhase" name="NCOF::nextPhase">
+<area shape="rect" id="node2" href="$d0/d17/classNCOF.html#a817e0a9b82c6efd9b069df3d7e145875" title="Return next real sample. " alt="" coords="191,208,284,235"/>
+<area shape="rect" id="node46" href="$d0/d17/classNCOF.html#a4005f77a42d6f596cc600c6682865eea" title="Return next complex sample. " alt="" coords="184,537,291,564"/>
+<area shape="rect" id="node63" href="$d0/d17/classNCOF.html#a9b27bf731eb47e8f6327aeff4c13fe08" title="Return next complex sample (reversed) " alt="" coords="184,360,291,387"/>
+<area shape="rect" id="node3" href="$de/df8/classNFMMod.html#af41f6af6bf368ea9c145f42f4d087a62" title="NFMMod::modulateSample" alt="" coords="573,56,755,83"/>
+<area shape="rect" id="node6" href="$dd/d36/classTestMIThread.html#a0ac8ba3e4235480d5f26701710508349" title="TestMIThread::pullAF" alt="" coords="352,208,500,235"/>
+<area shape="rect" id="node14" href="$d5/d94/classTestSourceThread.html#a2685c51352bb0353f04150abc17ad840" title="TestSourceThread::pullAF" alt="" coords="339,309,513,336"/>
+<area shape="rect" id="node22" href="$d6/de3/classWFMMod.html#a92839fe465bef0d2aae120d0ee0b6ac1" title="WFMMod::pullAF" alt="" coords="364,157,488,184"/>
+<area shape="rect" id="node25" href="$db/d93/classAMMod.html#ae4fab483afaa3b291b5e437b8e292146" title="AMMod::pullAF" alt="" coords="370,5,482,32"/>
+<area shape="rect" id="node29" href="$de/df8/classNFMMod.html#a15d42f64c62d7dc6e6d15ed02e60d6b3" title="NFMMod::pullAF" alt="" coords="365,107,487,133"/>
+<area shape="rect" id="node30" href="$d6/da5/classFreeDVMod.html#acf19290a7c20f19c28aa1d6578513afc" title="FreeDVMod::pullAF" alt="" coords="357,259,495,285"/>
+<area shape="rect" id="node38" href="$dc/d8d/classSSBMod.html#a0f77691c1c1a2dddf6fa9c363a8342e8" title="SSBMod::pullAF" alt="" coords="367,360,485,387"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMMod.html#aa8d4f448eb524862a2b376ca46a54b58" title="NFMMod::pull" alt="" coords="889,56,993,83"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="1173,56,1300,83"/>
+<area shape="rect" id="node7" href="$dd/d36/classTestMIThread.html#a99bf5d4bb9d9a1c3b5057a60f225a8bf" title="TestMIThread::generate" alt="" coords="583,220,745,247"/>
+<area shape="rect" id="node8" href="$dd/d36/classTestMIThread.html#a8c15a5bef4c51a1ccaf24dc58fbb7187" title="TestMIThread::tick" alt="" coords="875,208,1007,235"/>
+<area shape="rect" id="node9" href="$dd/d36/classTestMIThread.html#af3216157bda2741311373a201ea9e95d" title="TestMIThread::startWork" alt="" coords="1153,157,1321,184"/>
+<area shape="rect" id="node11" href="$dd/d36/classTestMIThread.html#a89eccb07cae2e7d0a72d483c62fa6df8" title="TestMIThread::convert_16" alt="" coords="1704,183,1879,209"/>
+<area shape="rect" id="node13" href="$dd/d36/classTestMIThread.html#a2359cc03292e2ad3824f7f5bd36936c5" title="TestMIThread::stopWork" alt="" coords="1153,208,1320,235"/>
+<area shape="rect" id="node10" href="$dd/d36/classTestMIThread.html#afd43bb3d67b5197642d2d18d13d54b9f" title="TestMIThread::handleInput\lMessages" alt="" coords="1435,175,1614,217"/>
+<area shape="rect" id="node12" href="$dd/d36/classTestMIThread.html#a79b48f97ac40690757e70bb864d27da8" title="TestMIThread::callback" alt="" coords="1981,217,2140,244"/>
+<area shape="rect" id="node15" href="$d5/d94/classTestSourceThread.html#a736403206c2828757a2531a4133f0057" title="TestSourceThread::generate" alt="" coords="571,461,757,488"/>
+<area shape="rect" id="node16" href="$d5/d94/classTestSourceThread.html#a4f13e84e2efa9626862bd3dcd3e4b56b" title="TestSourceThread::tick" alt="" coords="861,436,1020,463"/>
+<area shape="rect" id="node17" href="$d5/d94/classTestSourceThread.html#a493311c07a24228ec9727203fee1f390" title="TestSourceThread::startWork" alt="" coords="1139,360,1334,387"/>
+<area shape="rect" id="node19" href="$d5/d94/classTestSourceThread.html#ab64b0871a042dbff2d2c9ea531741c65" title="TestSourceThread::convert_16" alt="" coords="1691,461,1892,488"/>
+<area shape="rect" id="node21" href="$d5/d94/classTestSourceThread.html#a739a4813a41162fcc6c4ffbc237fe086" title="TestSourceThread::stopWork" alt="" coords="1140,411,1333,437"/>
+<area shape="rect" id="node18" href="$d5/d94/classTestSourceThread.html#a4304a42298571362e5d373f91d9faf91" title="TestSourceThread::handle\lInputMessages" alt="" coords="1437,395,1612,437"/>
+<area shape="rect" id="node20" href="$d5/d94/classTestSourceThread.html#a098a99b558a57fa81dd88dba55ce0075" title="TestSourceThread::callback" alt="" coords="1968,487,2153,513"/>
+<area shape="rect" id="node23" href="$d6/de3/classWFMMod.html#a57d3834c35c1b3609050896e1210ef2a" title="WFMMod::pull" alt="" coords="611,157,717,184"/>
+<area shape="rect" id="node24" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="875,157,1006,184"/>
+<area shape="rect" id="node26" href="$db/d93/classAMMod.html#a2159bed2c4f7c498879534a59e985925" title="AMMod::modulateSample" alt="" coords="578,5,750,32"/>
+<area shape="rect" id="node27" href="$db/d93/classAMMod.html#abbee0d1ded3e8fbb489652450ef2a012" title="AMMod::pull" alt="" coords="893,5,988,32"/>
+<area shape="rect" id="node28" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="1177,5,1296,32"/>
+<area shape="rect" id="node31" href="$d6/da5/classFreeDVMod.html#a758a03429066a6d122d20601282449db" title="FreeDVMod::modulateSample" alt="" coords="565,284,763,311"/>
+<area shape="rect" id="node32" href="$d6/da5/classFreeDVMod.html#ae6d7c7f00daca75a47302c451b637161" title="FreeDVMod::pull" alt="" coords="881,309,1001,336"/>
+<area shape="rect" id="node33" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="1115,309,1359,336"/>
+<area shape="rect" id="node34" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1415,309,1634,336"/>
+<area shape="rect" id="node35" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1711,309,1871,336"/>
+<area shape="rect" id="node36" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1967,302,2154,343"/>
+<area shape="rect" id="node37" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2229,309,2419,336"/>
+<area shape="rect" id="node39" href="$dc/d8d/classSSBMod.html#a114256426423a3c81eea9cf23ddb79f0" title="SSBMod::modulateSample" alt="" coords="575,512,753,539"/>
+<area shape="rect" id="node40" href="$dc/d8d/classSSBMod.html#aa187a000dd6711ecd0122769016da6ae" title="SSBMod::pull" alt="" coords="889,563,992,589"/>
+<area shape="rect" id="node41" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1123,563,1350,589"/>
+<area shape="rect" id="node42" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1433,563,1616,589"/>
+<area shape="rect" id="node43" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1720,563,1863,589"/>
+<area shape="rect" id="node44" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1940,563,2181,589"/>
+<area shape="rect" id="node45" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2239,563,2409,589"/>
+<area shape="rect" id="node47" href="$d6/d4d/classSSBDemod.html#afeb3669dac7ed17f83bad753927e99f0" title="SSBDemod::feed" alt="" coords="364,613,488,640"/>
+<area shape="rect" id="node53" href="$da/d2e/classFreqTracker.html#a2cf2e91b8c697fb64b5b6dc5f61b1394" title="FreqTracker::feed" alt="" coords="363,664,489,691"/>
+<area shape="rect" id="node55" href="$de/de0/classFreeDVDemod.html#a32ba685e21ae023a0ed5ac66194e0804" title="FreeDVDemod::feed" alt="" coords="355,715,497,741"/>
+<area shape="rect" id="node61" href="$dc/d0c/classChannelAnalyzer.html#a570f30e33492053e4aac43cf9195934e" title="ChannelAnalyzer::feed" alt="" coords="349,765,503,792"/>
+<area shape="rect" id="node48" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="571,613,757,640"/>
+<area shape="rect" id="node49" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="833,613,1049,640"/>
+<area shape="rect" id="node50" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1157,613,1316,640"/>
+<area shape="rect" id="node51" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1415,613,1634,640"/>
+<area shape="rect" id="node52" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1718,613,1865,640"/>
+<area shape="rect" id="node54" href="$da/d2e/classFreqTracker.html#a9bc6899a82271a4a31427e8b51d1021b" title="FreqTracker::destroy" alt="" coords="593,664,735,691"/>
+<area shape="rect" id="node56" href="$de/de0/classFreeDVDemod.html#ad960e3d5b9e76abdb096930ccb2e2ead" title="FreeDVDemod::setSampleSink" alt="" coords="561,715,767,741"/>
+<area shape="rect" id="node57" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="815,715,1067,741"/>
+<area shape="rect" id="node58" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1148,715,1325,741"/>
+<area shape="rect" id="node59" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1407,715,1643,741"/>
+<area shape="rect" id="node60" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1709,715,1873,741"/>
+<area shape="rect" id="node62" href="$dc/d0c/classChannelAnalyzer.html#aad97ad5db6b44a48a41cf69aa022a0eb" title="ChannelAnalyzer::getPllPhase" alt="" coords="565,765,763,792"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="MainCore::loadPresetSettings" name="MainCore::loadPresetSettings">
+<area shape="rect" id="node2" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="567,611,719,637"/>
+<area shape="rect" id="node3" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="583,560,704,587"/>
+<area shape="rect" id="node4" href="$de/d59/classPluginManager.html#a1ecaa5570cfd6e929fd24892793149b4" title="PluginManager::getPluginAPI" alt="" coords="259,509,451,536"/>
+<area shape="rect" id="node5" href="$d5/d32/classDeviceSet.html#a46a1bf76a5e125d5e2cc6666270ed734" title="DeviceSet::loadRxChannel\lSettings" alt="" coords="265,283,445,325"/>
+<area shape="rect" id="node23" href="$dd/db6/classDeviceAPI.html#ac0b7ff868210f9e1e836da6d720a5c53" title="DeviceAPI::loadSamplingDevice\lSettings" alt="" coords="249,810,461,851"/>
+<area shape="rect" id="node35" href="$d5/d32/classDeviceSet.html#a09ebd77730b4cbd366e302d059358065" title="DeviceSet::loadTxChannel\lSettings" alt="" coords="266,418,445,459"/>
+<area shape="rect" id="node6" href="$d2/ded/structDeviceSet_1_1ChannelInstanceRegistration.html#afc95e832d4b13db31d28b73b2db5fd33" title="DeviceSet::ChannelInstance\lRegistration::ChannelInstanceRegistration" alt="" coords="509,225,777,266"/>
+<area shape="rect" id="node10" href="$d5/d32/classDeviceSet.html#aef2748aac5e44abe0b7656b5939a02b9" title="DeviceSet::compareRxChannelURIs" alt="" coords="525,5,762,32"/>
+<area shape="rect" id="node11" href="$d7/d02/classChannelAPI.html#a09a3c7d5c82abeaeb59f4763b952db51" title="ChannelAPI::deserialize" alt="" coords="562,291,725,317"/>
+<area shape="rect" id="node12" href="$d1/dc7/classPreset.html#a370391060c8ebdca2d67cc929f711ad9" title="Preset::getChannelConfig" alt="" coords="557,341,729,368"/>
+<area shape="rect" id="node13" href="$d1/dc7/classPreset.html#a906d1c8d142f5968aaad55d8e9b6a431" title="Preset::getChannelCount" alt="" coords="559,173,728,200"/>
+<area shape="rect" id="node14" href="$d6/d95/classPluginAPI.html#a85e7fec0bfd413a4722340c9ed3d50cc" title="PluginAPI::getRxChannelRegistrations" alt="" coords="519,56,767,83"/>
+<area shape="rect" id="node16" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="565,459,722,485"/>
+<area shape="rect" id="node17" href="$d5/d32/classDeviceSet.html#a63219785b2cbdefd4c6acba40434ce8b" title="DeviceSet::renameRxChannel\lInstances" alt="" coords="544,107,743,149"/>
+<area shape="rect" id="node7" href="$d2/ded/structDeviceSet_1_1ChannelInstanceRegistration.html#a694ccde2d158ea5bdbea1b537cd0db89" title="DeviceSet::ChannelInstance\lRegistration::operator\&lt;" alt="" coords="830,225,1019,266"/>
+<area shape="rect" id="node8" href="$d7/d02/classChannelAPI.html#a93ddb7150a360c79903bd29294664f6e" title="Applies to a default stream. " alt="" coords="1072,207,1291,233"/>
+<area shape="rect" id="node9" href="$d7/d02/classChannelAPI.html#a8fbd0a7ffe2857a030d0689b1124e2be" title="ChannelAPI::getName" alt="" coords="1105,257,1258,284"/>
+<area shape="rect" id="node15" href="$de/d59/classPluginManager.html#a11be2551809c2ea9e8202b33bb79b1ff" title="PluginManager::getRxChannel\lRegistrations" alt="" coords="825,49,1024,90"/>
+<area shape="rect" id="node18" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="905,355,945,381"/>
+<area shape="rect" id="node19" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1127,355,1235,381"/>
+<area shape="rect" id="node20" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1339,377,1487,418"/>
+<area shape="rect" id="node21" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1543,325,1661,352"/>
+<area shape="rect" id="node22" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1535,377,1669,418"/>
+<area shape="rect" id="node24" href="$d6/d80/classPluginInstanceGUI.html#a6e7fb964337ce921a014ce415d918ed9" title="PluginInstanceGUI::\ldeserialize" alt="" coords="573,974,713,1015"/>
+<area shape="rect" id="node25" href="$d9/d18/classDeviceSampleSink.html#a03114d85996d75684888bbd1c8d0978e" title="DeviceSampleSink::deserialize" alt="" coords="542,1040,745,1067"/>
+<area shape="rect" id="node26" href="$db/d0c/classDeviceSampleSource.html#a7e46af2006e0e565e5241febd5db5099" title="DeviceSampleSource\l::deserialize" alt="" coords="569,1091,717,1133"/>
+<area shape="rect" id="node27" href="$d1/dc7/classPreset.html#ae810b4eb6a1c17a85cbc98ffba48e927" title="Preset::findBestDeviceConfig" alt="" coords="546,1157,741,1184"/>
+<area shape="rect" id="node29" href="$d1/dc7/classPreset.html#a7f773cda853130f7ad8c607482b80b88" title="Preset::getCenterFrequency" alt="" coords="550,661,737,688"/>
+<area shape="rect" id="node30" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="565,713,722,754"/>
+<area shape="rect" id="node31" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="557,778,729,819"/>
+<area shape="rect" id="node32" href="$d6/d80/classPluginInstanceGUI.html#a1bdc89d3229eb06e8c4e29ec3cf84a67" title="PluginInstanceGUI::\lsetCenterFrequency" alt="" coords="573,843,713,885"/>
+<area shape="rect" id="node33" href="$d9/d18/classDeviceSampleSink.html#ac1768018534e8e4334cba2f4cb7e48fb" title="DeviceSampleSink::setCenter\lFrequency" alt="" coords="544,909,743,950"/>
+<area shape="rect" id="node34" href="$db/d0c/classDeviceSampleSource.html#ab5e3e693e9acfaa70cf12d45dcc22393" title="DeviceSampleSource\l::setCenterFrequency" alt="" coords="569,1209,717,1250"/>
+<area shape="rect" id="node28" href="$d1/dc7/classPreset.html#abda13dfa8a14b74dfd9df2360b2b4f3c" title="Preset::findBestDeviceConfig\lSoapy" alt="" coords="827,1150,1022,1191"/>
+<area shape="rect" id="node36" href="$d6/d95/classPluginAPI.html#a17dad214d5f728eda11bb6249447b072" title="PluginAPI::getTxChannelRegistrations" alt="" coords="520,509,767,536"/>
+<area shape="rect" id="node38" href="$d5/d32/classDeviceSet.html#a90095a580184653e7dfb13174166db60" title="DeviceSet::renameTxChannel\lInstances" alt="" coords="545,393,742,434"/>
+<area shape="rect" id="node37" href="$de/d59/classPluginManager.html#a29a1043f47b65ccd65305e21c2a456aa" title="PluginManager::getTxChannel\lRegistrations" alt="" coords="826,502,1023,543"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LimeSDRInput::MsgConfigureLimeSDR::create" name="LimeSDRInput::MsgConfigureLimeSDR::create">
+<area shape="rect" id="node2" href="$df/d1b/classLimeSDRInput.html#a6bca0810ec3e04b5582b9b9ec4bdd39c" title="LimeSDRInput::deserialize" alt="" coords="279,13,457,39"/>
+<area shape="rect" id="node4" href="$df/d1b/classLimeSDRInput.html#a9ae316d8cc6c38de5f015a2ce13aa853" title="LimeSDRInput::setCenterFrequency" alt="" coords="251,63,485,90"/>
+<area shape="rect" id="node6" href="$d4/d53/classLimeSDRInputGUI.html#a4e359d3c05a3ad411961f50f7540c6f0" title="LimeSDRInputGUI::updateHardware" alt="" coords="251,181,485,207"/>
+<area shape="rect" id="node8" href="$df/d1b/classLimeSDRInput.html#a144e0e831e693ee66455817c8c590c20" title="LimeSDRInput::webapiSettings\lPutPatch" alt="" coords="265,115,471,156"/>
+<area shape="rect" id="node3" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="561,5,757,47"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="555,97,762,123"/>
+<area shape="rect" id="node7" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="533,181,784,207"/>
+</map>

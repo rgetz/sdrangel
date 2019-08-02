@@ -1,0 +1,10 @@
+<map id="Preset::setLayout" name="Preset::setLayout">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a87c9229d360865dd18182e77342a2f5e" title="MainWindow::savePresetSettings" alt="" coords="179,115,397,141"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="462,5,633,32"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="449,56,645,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="451,107,643,149"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="445,173,649,214"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a332903d4cb976b351b8c11d6ec9159e3" title="MainWindow::on_settingsSave\l_clicked" alt="" coords="446,238,649,279"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="697,56,900,83"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="948,56,1128,83"/>
+</map>

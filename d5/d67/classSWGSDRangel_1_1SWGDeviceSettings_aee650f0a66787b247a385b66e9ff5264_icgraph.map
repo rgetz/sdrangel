@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGDeviceSettings::getSoapySdrInputSettings" name="SWGSDRangel::SWGDeviceSettings::getSoapySdrInputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="321,5,485,47"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#a4d83ed39c6b2a50d6decbe7a9cc874e8" title="SoapySDRInput::webapiFormat\lDeviceSettings" alt="" coords="300,123,507,164"/>
+<area shape="rect" id="node6" href="$da/d65/classSoapySDRInput.html#ab7c19d4653cd329b5e64481e903e09cf" title="SoapySDRInput::webapiSettingsGet" alt="" coords="559,86,793,113"/>
+<area shape="rect" id="node7" href="$da/d65/classSoapySDRInput.html#ac4d83a90102e391f6e43e873ace1c16a" title="SoapySDRInput::webapiSettings\lPutPatch" alt="" coords="569,167,783,208"/>
+<area shape="rect" id="node8" href="$da/d65/classSoapySDRInput.html#a319bfa8463d4b1e0cf484ab18164e0c5" title="SoapySDRInput::webapiReverse\lSendSettings" alt="" coords="296,240,511,281"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="567,5,785,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="868,5,1031,47"/>
+<area shape="rect" id="node9" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="574,247,778,274"/>
+<area shape="rect" id="node10" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="841,222,1057,249"/>
+<area shape="rect" id="node11" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="878,273,1021,299"/>
+</map>

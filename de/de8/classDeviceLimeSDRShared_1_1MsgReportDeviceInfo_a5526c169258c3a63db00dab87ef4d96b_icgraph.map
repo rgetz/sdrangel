@@ -1,0 +1,6 @@
+<map id="DeviceLimeSDRShared::MsgReportDeviceInfo::create" name="DeviceLimeSDRShared::MsgReportDeviceInfo::create">
+<area shape="rect" id="node2" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="215,5,432,32"/>
+<area shape="rect" id="node4" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="220,56,427,83"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="480,5,696,32"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="485,56,691,83"/>
+</map>

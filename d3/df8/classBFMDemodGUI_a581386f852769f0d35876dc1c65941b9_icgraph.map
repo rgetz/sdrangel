@@ -1,0 +1,5 @@
+<map id="BFMDemodGUI::BFMDemodGUI" name="BFMDemodGUI::BFMDemodGUI">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="272,5,432,32"/>
+<area shape="rect" id="node3" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="480,5,699,32"/>
+<area shape="rect" id="node4" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="747,5,893,32"/>
+</map>

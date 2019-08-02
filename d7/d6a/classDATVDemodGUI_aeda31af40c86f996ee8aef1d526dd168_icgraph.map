@@ -1,0 +1,11 @@
+<map id="DATVDemodGUI::blockApplySettings" name="DATVDemodGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$d7/d6a/classDATVDemodGUI.html#a8ce202e2b35830efb13ed8af85bdcb03" title="DATVDemodGUI::displaySettings" alt="" coords="249,31,471,57"/>
+<area shape="rect" id="node9" href="$d7/d6a/classDATVDemodGUI.html#ac75ded87d13d68d8d44316b527ee9d9c" title="DATVDemodGUI::enterEvent" alt="" coords="263,81,457,108"/>
+<area shape="rect" id="node10" href="$d7/d6a/classDATVDemodGUI.html#af1897f2651fa7f42b2e519811c862ae5" title="DATVDemodGUI::leaveEvent" alt="" coords="261,132,459,159"/>
+<area shape="rect" id="node3" href="$d7/d6a/classDATVDemodGUI.html#a1dd795397ee2c509bc3c761cebe86b44" title="DATVDemodGUI::resetToDefaults" alt="" coords="519,56,744,83"/>
+<area shape="rect" id="node4" href="$d7/d6a/classDATVDemodGUI.html#aa39ee32a979168d59cd22b7b9ac0112d" title="DATVDemodGUI::deserialize" alt="" coords="812,5,1007,32"/>
+<area shape="rect" id="node5" href="$d7/d6a/classDATVDemodGUI.html#ae0002d4befcd7cf619607352168acbd6" title="DATVDemodGUI::DATVDemodGUI" alt="" coords="792,56,1027,83"/>
+<area shape="rect" id="node8" href="$d7/d6a/classDATVDemodGUI.html#ae2d20df78383769d210ff3ac9f02ea9c" title="DATVDemodGUI::on_resetDefaults\l_clicked" alt="" coords="794,107,1025,149"/>
+<area shape="rect" id="node6" href="$d7/d6a/classDATVDemodGUI.html#a845ff206f4c1d8020db0c3c57cb2ebb6" title="DATVDemodGUI::create" alt="" coords="1075,56,1243,83"/>
+<area shape="rect" id="node7" href="$d0/d37/classDATVDemodPlugin.html#ab917121134f3fe91c7d3f492d1fda98e" title="DATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1291,49,1488,90"/>
+</map>

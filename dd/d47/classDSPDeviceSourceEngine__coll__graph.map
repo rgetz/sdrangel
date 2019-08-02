@@ -1,0 +1,10 @@
+<map id="DSPDeviceSourceEngine" name="DSPDeviceSourceEngine">
+<area shape="rect" id="node2" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="6,31,119,57"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="311,69,459,96"/>
+<area shape="rect" id="node4" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="5,103,120,129"/>
+<area shape="rect" id="node5" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="305,121,465,162"/>
+<area shape="rect" id="node6" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="327,187,443,213"/>
+<area shape="rect" id="node7" href="$d6/d28/classMessage.html" title="Message" alt="" coords="25,187,100,213"/>
+<area shape="rect" id="node8" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="315,255,455,297"/>
+<area shape="rect" id="node9" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="310,321,461,362"/>
+</map>

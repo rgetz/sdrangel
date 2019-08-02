@@ -1,0 +1,14 @@
+<map id="FreeDVDemod::~FreeDVDemod" name="FreeDVDemod::~FreeDVDemod">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="277,5,467,47"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="299,71,445,98"/>
+<area shape="rect" id="node4" href="$de/de0/classFreeDVDemod.html#a8380b6f5efb0474af68eaf62194c8afb" title="FreeDVDemod::networkManager\lFinished" alt="" coords="265,123,479,164"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#a181e5e29231a65a1394555e033010912" title="Remove the audio sink. " alt="" coords="299,188,445,229"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="267,254,477,281"/>
+<area shape="rect" id="node11" href="$dd/db6/classDeviceAPI.html#a0256b15fffe8fe72d67a3c7f48dd1de3" title="DeviceAPI::removeChannel\lSinkAPI" alt="" coords="280,337,464,379"/>
+<area shape="rect" id="node6" href="$d0/d40/classAudioDeviceManager.html#afef27a8a7969bb4c833bee1bbe18d04a" title="AudioDeviceManager\l::stopAudioOutput" alt="" coords="565,148,711,189"/>
+<area shape="rect" id="node8" href="$df/d80/classDSPDeviceMIMOEngine.html#abfc2e3f0274e76009daa461526fb810e" title="Remove a channel sink that runs on its own thread. " alt="" coords="555,213,721,255"/>
+<area shape="rect" id="node10" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3dbc76bc6de91d8fe553d3a70ee6f287" title="Remove a sample sink that runs on its own thread. " alt="" coords="552,279,724,320"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="797,254,976,281"/>
+<area shape="rect" id="node12" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="531,345,745,371"/>
+<area shape="rect" id="node13" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="527,395,749,422"/>
+</map>

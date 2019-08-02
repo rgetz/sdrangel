@@ -1,0 +1,23 @@
+<map id="BFMDemod::MsgConfigureChannelizer::create" name="BFMDemod::MsgConfigureChannelizer::create">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a7aa16d14aa5691fa74c9e5dd3b01e041" title="BFMDemodGUI::applySettings" alt="" coords="304,447,507,473"/>
+<area shape="rect" id="node22" href="$d4/dd5/classBFMDemod.html#aba32c8822e93709dc078a61f6ca9e25d" title="BFMDemod::webapiSettings\lPutPatch" alt="" coords="311,498,500,539"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a59fbfa4c146fc7282c64922b1e05d831" title="BFMDemodGUI::setCenterFrequency" alt="" coords="555,5,797,32"/>
+<area shape="rect" id="node4" href="$d3/df8/classBFMDemodGUI.html#ab30a447aa014be4d9d6d34d9e78c0c4e" title="BFMDemodGUI::resetToDefaults" alt="" coords="567,56,785,83"/>
+<area shape="rect" id="node5" href="$d3/df8/classBFMDemodGUI.html#a01537b7a80dc07096428c8b5549902ce" title="BFMDemodGUI::deserialize" alt="" coords="861,81,1048,108"/>
+<area shape="rect" id="node6" href="$d3/df8/classBFMDemodGUI.html#a0b94b9fa597f3bfdacb8fa4963eecd78" title="BFMDemodGUI::channelMarker\lChangedByCursor" alt="" coords="571,158,781,199"/>
+<area shape="rect" id="node7" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="845,547,1064,573"/>
+<area shape="rect" id="node11" href="$d3/df8/classBFMDemodGUI.html#af755c532132bed2681ff2b2d2c5357bd" title="BFMDemodGUI::on_deltaFrequency\l_changed" alt="" coords="559,275,793,317"/>
+<area shape="rect" id="node12" href="$d3/df8/classBFMDemodGUI.html#a288300e278c77753a62cb71a9889d814" title="BFMDemodGUI::on_rfBW\l_valueChanged" alt="" coords="589,341,763,382"/>
+<area shape="rect" id="node13" href="$d3/df8/classBFMDemodGUI.html#af466d5ba3227a391d697d3cc37d618ee" title="BFMDemodGUI::on_afBW\l_valueChanged" alt="" coords="587,406,765,447"/>
+<area shape="rect" id="node14" href="$d3/df8/classBFMDemodGUI.html#ae3817a37e1e20be4750fa41280cfb1f2" title="BFMDemodGUI::on_volume\l_valueChanged" alt="" coords="583,471,769,513"/>
+<area shape="rect" id="node15" href="$d3/df8/classBFMDemodGUI.html#a1c329c5be5e32187714e3a8e3ee01457" title="BFMDemodGUI::on_squelch\l_valueChanged" alt="" coords="581,537,771,578"/>
+<area shape="rect" id="node16" href="$d3/df8/classBFMDemodGUI.html#afa8d1dde814369e5c7058e4715c21f36" title="BFMDemodGUI::on_audioStereo\l_toggled" alt="" coords="569,602,783,643"/>
+<area shape="rect" id="node17" href="$d3/df8/classBFMDemodGUI.html#a2b5bdf875ef69b960fb555665e93bea2" title="BFMDemodGUI::on_lsbStereo\l_toggled" alt="" coords="576,667,776,709"/>
+<area shape="rect" id="node18" href="$d3/df8/classBFMDemodGUI.html#add860fccc7f734ab6355a5424504f9a5" title="BFMDemodGUI::on_showPilot\l_clicked" alt="" coords="575,733,777,774"/>
+<area shape="rect" id="node19" href="$d3/df8/classBFMDemodGUI.html#a6e68772de176a58b3bc129e25f04a01b" title="BFMDemodGUI::on_rds\l_clicked" alt="" coords="595,798,757,839"/>
+<area shape="rect" id="node20" href="$d3/df8/classBFMDemodGUI.html#a4d62bfeab73e7beac9e5e546ed763549" title="BFMDemodGUI::onMenuDialog\lCalled" alt="" coords="573,863,779,905"/>
+<area shape="rect" id="node21" href="$d3/df8/classBFMDemodGUI.html#aa438ed2f04b56d050b584d14840f82af" title="BFMDemodGUI::audioSelect" alt="" coords="580,929,772,956"/>
+<area shape="rect" id="node8" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1112,547,1272,573"/>
+<area shape="rect" id="node9" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1320,547,1539,573"/>
+<area shape="rect" id="node10" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1587,547,1733,573"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="LoRaDemodGUI::setCenterFrequency" name="LoRaDemodGUI::setCenterFrequency">
+<area shape="rect" id="node2" href="$d6/d57/classLoRaDemodGUI.html#a005cd64ebbf82c2bdd710b2a104ffe13" title="LoRaDemodGUI::applySettings" alt="" coords="299,202,505,229"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="315,253,489,295"/>
+<area shape="rect" id="node3" href="$d6/d1e/classLoRaDemod_1_1MsgConfigureLoRaDemod.html#a6d680b7416ded7828712f105a290437e" title="LoRaDemod::MsgConfigureLo\lRaDemod::create" alt="" coords="581,5,779,47"/>
+<area shape="rect" id="node5" href="$dc/d97/classLoRaDemod_1_1MsgConfigureChannelizer.html#a2091f1806c75187c83973ee335863837" title="LoRaDemod::MsgConfigureChannelizer\l::create" alt="" coords="553,71,807,112"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="593,136,767,177"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="597,202,763,229"/>
+<area shape="rect" id="node8" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="596,253,764,295"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="605,319,755,346"/>
+<area shape="rect" id="node10" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="589,370,771,397"/>
+<area shape="rect" id="node4" href="$d6/d1e/classLoRaDemod_1_1MsgConfigureLoRaDemod.html#af0723ce0f4d882bbdd750df1b213a43b" title="LoRaDemod::MsgConfigureLo\lRaDemod::MsgConfigureLoRaDemod" alt="" coords="855,5,1097,47"/>
+</map>

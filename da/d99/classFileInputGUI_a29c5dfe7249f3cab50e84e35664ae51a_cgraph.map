@@ -1,0 +1,28 @@
+<map id="FileInputGUI::handleInputMessages" name="FileInputGUI::handleInputMessages">
+<area shape="rect" id="node2" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="245,79,397,121"/>
+<area shape="rect" id="node3" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="245,145,397,186"/>
+<area shape="rect" id="node4" href="$da/d99/classFileInputGUI.html#a067a3669027f488b528e474cb0f7c10f" title="FileInputGUI::handleMessage" alt="" coords="224,261,419,288"/>
+<area shape="rect" id="node5" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="518,5,637,32"/>
+<area shape="rect" id="node22" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="250,312,393,339"/>
+<area shape="rect" id="node23" href="$da/d99/classFileInputGUI.html#a6a9848252e4a84e39cab77cdba96fb59" title="FileInputGUI::updateSample\lRateAndFrequency" alt="" coords="228,647,415,689"/>
+<area shape="rect" id="node7" href="$d5/dee/classFileInput_1_1MsgConfigureFileInput.html#a8dc7b1d932ca766857571eb308a4c96d" title="FileInput::MsgConfigureFile\lInput::getSettings" alt="" coords="486,57,669,98"/>
+<area shape="rect" id="node8" href="$da/d99/classFileInputGUI.html#ac53d9ecb57845d9add84bf3dc2393e4e" title="FileInputGUI::displaySettings" alt="" coords="481,173,674,200"/>
+<area shape="rect" id="node9" href="$da/d99/classFileInputGUI.html#ad9b54e283d256f215c2248c48b30b545" title="FileInputGUI::blockApply\lSettings" alt="" coords="737,115,905,157"/>
+<area shape="rect" id="node11" href="$da/d99/classFileInputGUI.html#a1a6f8b757950d1ffdd2ead0be25e4a89" title="FileInputGUI::updateWith\lAcquisition" alt="" coords="492,225,663,266"/>
+<area shape="rect" id="node12" href="$da/d99/classFileInputGUI.html#a9b2fa6d3d4c203a899547d133289e2fb" title="FileInputGUI::updateWith\lStreamData" alt="" coords="492,342,663,383"/>
+<area shape="rect" id="node18" href="$da/d99/classFileInputGUI.html#a2c7781535fb986c06c758d7a529e0b9f" title="FileInputGUI::updateWith\lStreamTime" alt="" coords="736,313,907,354"/>
+<area shape="rect" id="node19" href="$d1/d6b/classFileInput_1_1MsgStartStop.html#aa72a2905f5f29759001d0f726da16298" title="FileInput::MsgStartStop\l::getStartStop" alt="" coords="497,407,657,449"/>
+<area shape="rect" id="node20" href="$d9/dd2/classFileInput_1_1MsgPlayPause.html#a168b93921ef01e8ca496903b3d30b8e2" title="FileInput::MsgPlayPause\l::getPlayPause" alt="" coords="493,473,661,514"/>
+<area shape="rect" id="node21" href="$dc/df1/classFileInput_1_1MsgReportHeaderCRC.html#a598ed3ae1bad5dc9b1fbec40f4d72cd6" title="FileInput::MsgReportHeader\lCRC::isOK" alt="" coords="484,538,671,579"/>
+<area shape="rect" id="node6" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="737,5,906,32"/>
+<area shape="rect" id="node10" href="$d9/d6e/structFileInputSettings.html#affadc09418712d5e459bbcd647a405d5" title="FileInputSettings::\lgetAccelerationIndex" alt="" coords="749,181,893,222"/>
+<area shape="rect" id="node13" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="801,492,841,519"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="955,492,1063,519"/>
+<area shape="rect" id="node15" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1315,463,1433,489"/>
+<area shape="rect" id="node16" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1111,514,1259,555"/>
+<area shape="rect" id="node17" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1307,514,1441,555"/>
+<area shape="rect" id="node24" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="488,655,667,681"/>
+<area shape="rect" id="node25" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="481,705,674,732"/>
+<area shape="rect" id="node27" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="467,756,688,783"/>
+<area shape="rect" id="node26" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="747,705,896,732"/>
+</map>

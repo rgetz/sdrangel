@@ -1,0 +1,5 @@
+<map id="DeviceSampleSource::DeviceSampleSource" name="DeviceSampleSource::DeviceSampleSource">
+<area shape="rect" id="node2" href="$db/d0c/classDeviceSampleSource.html#a0f09abd533368fda5c90393bef8988e5" title="DeviceSampleSource\l::handleInputMessages" alt="" coords="209,27,367,69"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="417,5,560,32"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a949a91c5fc127655df3fb19ac87bfce5" title="DeviceSampleSource\l::handleMessage" alt="" coords="415,57,563,98"/>
+</map>

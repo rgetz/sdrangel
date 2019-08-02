@@ -1,0 +1,7 @@
+<map id="PlutoSDRInput::getLORange" name="PlutoSDRInput::getLORange">
+<area shape="rect" id="node2" href="$da/d86/classDevicePlutoSDRParams.html#a272d340def89aae8871a72b26092c7c2" title="DevicePlutoSDRParams\l::getBox" alt="" coords="244,5,411,47"/>
+<area shape="rect" id="node3" href="$de/dce/classDevicePlutoSDRBox.html#a62145ec76355ae0d3b10fec4acfadc6a" title="DevicePlutoSDRBox::\lgetRxLORange" alt="" coords="251,71,404,112"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="279,137,376,163"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="281,187,374,214"/>
+<area shape="rect" id="node4" href="$de/dce/classDevicePlutoSDRBox.html#a78fc3f4628a9af5bbedac4ae9e3f8269" title="DevicePlutoSDRBox::\lget_param" alt="" coords="459,71,612,112"/>
+</map>

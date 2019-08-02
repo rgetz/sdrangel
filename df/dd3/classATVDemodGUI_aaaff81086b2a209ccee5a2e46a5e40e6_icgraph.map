@@ -1,0 +1,16 @@
+<map id="ATVDemodGUI::applyRFSettings" name="ATVDemodGUI::applyRFSettings">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#ad7bbb23e3ead12f5cc47290b3c2fc516" title="ATVDemodGUI::channelMarker\lChangedByCursor" alt="" coords="552,5,759,47"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#ae7c35af8b6c0489893987161dfc5c42c" title="ATVDemodGUI::handleMessage" alt="" coords="281,74,495,101"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#af48ff80b23e4de32c58aa97619903a28" title="ATVDemodGUI::on_bfo\l_valueChanged" alt="" coords="307,125,469,167"/>
+<area shape="rect" id="node9" href="$df/dd3/classATVDemodGUI.html#ab4aa3271f7cd61a56f58138acc067f30" title="ATVDemodGUI::on_decimator\lEnable_toggled" alt="" coords="288,191,488,232"/>
+<area shape="rect" id="node10" href="$df/dd3/classATVDemodGUI.html#a9471ea658d902ecfa08dfce8485baa58" title="ATVDemodGUI::on_deltaFrequency\l_changed" alt="" coords="272,256,504,297"/>
+<area shape="rect" id="node11" href="$df/dd3/classATVDemodGUI.html#ab28abe3064ea2909315e38c816c65975" title="ATVDemodGUI::on_fmDeviation\l_valueChanged" alt="" coords="281,321,495,363"/>
+<area shape="rect" id="node12" href="$df/dd3/classATVDemodGUI.html#a74d7ab4a1a244a465122b996dbbe28a8" title="ATVDemodGUI::on_modulation\l_currentIndexChanged" alt="" coords="285,387,491,428"/>
+<area shape="rect" id="node13" href="$df/dd3/classATVDemodGUI.html#addb7864211516c137890aabdae7e58aa" title="ATVDemodGUI::on_rfBW\l_valueChanged" alt="" coords="301,452,475,493"/>
+<area shape="rect" id="node14" href="$df/dd3/classATVDemodGUI.html#a5fef8164c96669a395c7b9461c692928" title="ATVDemodGUI::on_rfFiltering\l_toggled" alt="" coords="289,517,487,559"/>
+<area shape="rect" id="node15" href="$df/dd3/classATVDemodGUI.html#a8a86adccd9312fff2f1fa80af5d43ef4" title="ATVDemodGUI::on_rfOppBW\l_valueChanged" alt="" coords="289,583,487,624"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="807,46,1021,73"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1069,46,1228,73"/>
+<area shape="rect" id="node5" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1276,39,1463,80"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#a768c72bf3838c170119f95f0bb2e8331" title="ATVDemodGUI::handleSource\lMessages" alt="" coords="555,71,756,112"/>
+</map>

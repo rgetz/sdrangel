@@ -1,0 +1,5 @@
+<map id="Bladerf1Input::MsgStartStop::create" name="Bladerf1Input::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d1/d5e/classBladerf1InputGui.html#a2c8c69387868b5651e0a16fdc8d58094" title="Bladerf1InputGui::on\l_startStop_toggled" alt="" coords="255,5,397,47"/>
+<area shape="rect" id="node3" href="$d2/d3a/classBladerf1Input.html#af125875e2b1f85e775b5ed3790e5a4f5" title="Bladerf1Input::webapiRun" alt="" coords="240,71,412,98"/>
+<area shape="rect" id="node4" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="460,71,657,98"/>
+</map>

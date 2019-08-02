@@ -1,0 +1,13 @@
+<map id="DSDDecoder::setUpsampling" name="DSDDecoder::setUpsampling">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a19c8ae8a61aa0a6c7e3d581f58eacf3d" title="DSDDemod::applyAudioSampleRate" alt="" coords="248,15,485,42"/>
+<area shape="rect" id="node12" href="$d2/d1a/classDSDDecoder.html#a1b11561e33f4c7355141519f9ad25afe" title="DSDDecoder::useHPMbelib" alt="" coords="273,66,460,93"/>
+<area shape="rect" id="node3" href="$d6/d40/classDSDDemod.html#a711070bcc23d8edde938c1ebe94f2208" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="761,15,953,42"/>
+<area shape="rect" id="node9" href="$d6/d40/classDSDDemod.html#a8a94e65b7c12b8b37353b7fb0cc8f81b" title="DSDDemod::applySettings" alt="" coords="533,66,713,93"/>
+<area shape="rect" id="node4" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="1027,13,1227,39"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="1300,13,1520,39"/>
+<area shape="rect" id="node6" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1568,13,1729,39"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1777,5,1968,47"/>
+<area shape="rect" id="node8" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="2016,13,2207,39"/>
+<area shape="rect" id="node10" href="$d6/d40/classDSDDemod.html#af5b6ef4a42d1d324ede668dd1d8241c0" title="DSDDemod::DSDDemod" alt="" coords="771,67,943,94"/>
+<area shape="rect" id="node11" href="$d2/d27/classDSDDemod_1_1MsgConfigureChannelizer.html#af4e9c84f91e8e1e15312f6768a613584" title="DSDDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1001,64,1252,105"/>
+</map>

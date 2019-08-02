@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGPerseusSettings::setCenterFrequency" name="SWGSDRangel::SWGPerseusSettings::setCenterFrequency">
+<area shape="rect" id="node2" href="$df/dc2/classPerseusInput.html#a31f120d7a03e60c03f4c1ae40cfd4841" title="PerseusInput::webapiFormat\lDeviceSettings" alt="" coords="549,57,739,98"/>
+<area shape="rect" id="node6" href="$df/dc2/classPerseusInput.html#a6472457fd256addc5b1c5f870a110f49" title="PerseusInput::webapiReverse\lSendSettings" alt="" coords="304,141,501,182"/>
+<area shape="rect" id="node3" href="$df/dc2/classPerseusInput.html#a57d6ebe93f6b03dc804d575d2861d98c" title="PerseusInput::webapiSettingsGet" alt="" coords="787,5,1004,32"/>
+<area shape="rect" id="node5" href="$df/dc2/classPerseusInput.html#a6bc81a004ce742f3c615de79bb10c7fa" title="PerseusInput::webapiSettings\lPutPatch" alt="" coords="797,57,993,98"/>
+<area shape="rect" id="node4" href="$df/dc2/classPerseusInput.html#a5df1af59e9e43e042b6baf24c059bccf" title="For when the source sample rate is set externally. " alt="" coords="1052,64,1249,91"/>
+<area shape="rect" id="node7" href="$df/dc2/classPerseusInput.html#ab73dc1e8c05b2fc266346548da966f3f" title="PerseusInput::applySettings" alt="" coords="551,148,737,175"/>
+<area shape="rect" id="node8" href="$df/dc2/classPerseusInput.html#a21b0cb4115f267f1f9bbadf847ebffb6" title="PerseusInput::handleMessage" alt="" coords="796,123,995,149"/>
+<area shape="rect" id="node9" href="$df/dc2/classPerseusInput.html#a91509ca4d1c22f48ebd8e44c15bed29c" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="833,173,957,200"/>
+<area shape="rect" id="node11" href="$df/dc2/classPerseusInput.html#a8e7bf2b59ba501b27e5b96435c7b14b6" title="PerseusInput::start" alt="" coords="829,224,962,251"/>
+<area shape="rect" id="node10" href="$dd/d6a/classPerseusInput_1_1MsgStartStop.html#a9a0988277f830dfe5e7dad73a0d77a02" title="PerseusInput::MsgStartStop\l::MsgStartStop" alt="" coords="1057,191,1244,233"/>
+</map>

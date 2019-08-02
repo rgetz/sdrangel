@@ -1,0 +1,6 @@
+<map id="BladeRF2Input::getFrequencyRange" name="BladeRF2Input::getFrequencyRange">
+<area shape="rect" id="node2" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="255,5,450,47"/>
+<area shape="rect" id="node3" href="$d6/d2d/classBladeRF2Input.html#addc89c953a38fbc76f2114a462a9f705" title="For when the source sample rate is set externally. " alt="" coords="249,71,456,98"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#ac1ee745a500cf5e52895539835544df4" title="BladeRF2InputGui::update\lFrequencyLimits" alt="" coords="265,123,441,164"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#aa1aefbcad27f1f8d59ff403d62f92788" title="BladeRF2InputGui::on\l_transverter_clicked" alt="" coords="504,123,655,164"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="plugins/channelrx/chanalyzer/chanalyzer.cpp" name="plugins/channelrx/chanalyzer/chanalyzer.cpp">
+<area shape="rect" id="node5" href="$d7/d54/deviceapi_8h.html" title="device/deviceapi.h" alt="" coords="2210,244,2341,271"/>
+<area shape="rect" id="node10" href="$d4/d09/audiooutput_8h.html" title="audio/audiooutput.h" alt="" coords="57,244,192,271"/>
+<area shape="rect" id="node17" href="$d3/da7/threadedbasebandsamplesink_8h.html" title="dsp/threadedbasebandsamplesink.h" alt="" coords="792,95,1023,121"/>
+<area shape="rect" id="node27" href="$d7/d65/downchannelizer_8h.html" title="dsp/downchannelizer.h" alt="" coords="555,95,710,121"/>
+<area shape="rect" id="node31" href="$db/d88/chanalyzer_8h.html" title="chanalyzer.h" alt="" coords="1926,95,2022,121"/>
+<area shape="rect" id="node9" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1575,319,1645,345"/>
+<area shape="rect" id="node18" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="1201,169,1381,196"/>
+<area shape="rect" id="node22" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="944,244,1087,271"/>
+<area shape="rect" id="node26" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="863,169,981,196"/>
+<area shape="rect" id="node19" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1787,244,1897,271"/>
+<area shape="rect" id="node24" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1314,244,1421,271"/>
+<area shape="rect" id="node28" href="$df/d56/inthalfbandfiltereo_8h.html" title="dsp/inthalfbandfiltereo.h" alt="" coords="386,169,546,196"/>
+<area shape="rect" id="node30" href="$d3/dfa/hbfiltertraits_8h.html" title="dsp/hbfiltertraits.h" alt="" coords="403,244,529,271"/>
+<area shape="rect" id="node32" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="2415,244,2559,271"/>
+<area shape="rect" id="node34" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="1743,169,1866,196"/>
+<area shape="rect" id="node35" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="2259,169,2342,196"/>
+<area shape="rect" id="node36" href="$dc/d2b/fftcorr_8h.html" title="dsp/fftcorr.h" alt="" coords="2609,169,2701,196"/>
+<area shape="rect" id="node38" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="2496,169,2580,196"/>
+<area shape="rect" id="node39" href="$d9/d08/phaselockcomplex_8h.html" title="dsp/phaselockcomplex.h" alt="" coords="1891,169,2057,196"/>
+<area shape="rect" id="node40" href="$d1/d07/freqlockcomplex_8h.html" title="dsp/freqlockcomplex.h" alt="" coords="2081,169,2235,196"/>
+<area shape="rect" id="node41" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="1551,169,1669,196"/>
+<area shape="rect" id="node43" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="2725,169,2868,196"/>
+<area shape="rect" id="node45" href="$d5/d31/chanalyzersettings_8h.html" title="chanalyzersettings.h" alt="" coords="2892,169,3035,196"/>
+<area shape="rect" id="node37" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="2635,244,2687,271"/>
+</map>

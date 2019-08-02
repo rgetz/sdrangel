@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setBladeRf1InputSettings" name="SWGSDRangel::SWGDeviceSettings::setBladeRf1InputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="313,5,476,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="313,71,477,112"/>
+<area shape="rect" id="node6" href="$d2/d3a/classBladerf1Input.html#a3d8131c61d1fbf99779a1fd70f58f407" title="Bladerf1Input::webapiReverse\lSendSettings" alt="" coords="296,136,493,177"/>
+<area shape="rect" id="node13" href="$d2/d3a/classBladerf1Input.html#aad0829cd97c33ec2de12baff61adb0b6" title="Bladerf1Input::webapiSettingsGet" alt="" coords="542,223,759,250"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="541,8,760,49"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="826,8,989,49"/>
+<area shape="rect" id="node7" href="$d2/d3a/classBladerf1Input.html#a05bca0cc60f8407cf0c42dc093d487b9" title="Bladerf1Input::applySettings" alt="" coords="557,141,744,167"/>
+<area shape="rect" id="node8" href="$d2/d3a/classBladerf1Input.html#a6c4e0a3d3ebf4db879eda85cda11c5ab" title="Bladerf1Input::handleMessage" alt="" coords="808,181,1007,207"/>
+<area shape="rect" id="node10" href="$d2/d3a/classBladerf1Input.html#a99033280ab77a3a3d2c9163769aea957" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="845,79,969,106"/>
+<area shape="rect" id="node12" href="$d2/d3a/classBladerf1Input.html#a19445b7907f90d945dc6fa824d00f118" title="Bladerf1Input::start" alt="" coords="841,130,974,157"/>
+<area shape="rect" id="node9" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="1055,195,1252,222"/>
+<area shape="rect" id="node11" href="$d4/d7a/classBladerf1Input_1_1MsgStartStop.html#aece111352ba192c6c19b8248ed7c2ab2" title="Bladerf1Input::MsgStartStop\l::MsgStartStop" alt="" coords="1060,108,1247,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGBladeRF1InputSettings::setUseReverseApi" name="SWGSDRangel::SWGBladeRF1InputSettings::setUseReverseApi">
+<area shape="rect" id="node2" href="$d2/d3a/classBladerf1Input.html#a48d3238e71f54433120d1d2ddd88ed63" title="Bladerf1Input::webapiFormat\lDeviceSettings" alt="" coords="271,27,460,69"/>
+<area shape="rect" id="node3" href="$d2/d3a/classBladerf1Input.html#aad0829cd97c33ec2de12baff61adb0b6" title="Bladerf1Input::webapiSettingsGet" alt="" coords="508,5,725,32"/>
+<area shape="rect" id="node5" href="$d2/d3a/classBladerf1Input.html#ae0afabe071a260a1fde7faf34a5f7afe" title="Bladerf1Input::webapiSettings\lPutPatch" alt="" coords="519,57,715,98"/>
+<area shape="rect" id="node4" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="773,35,971,61"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TestSourceInput::MsgConfigureTestSource::MsgConfigureTestSource" name="TestSourceInput::MsgConfigureTestSource::MsgConfigureTestSource">
+<area shape="rect" id="node2" href="$dd/d71/classTestSourceInput_1_1MsgConfigureTestSource.html#a54fb444a1075943b89ca2313d1bed0a5" title="TestSourceInput::MsgConfigure\lTestSource::create" alt="" coords="299,83,505,125"/>
+<area shape="rect" id="node3" href="$d2/d41/classTestSourceGui.html#a2d5747c41cd99d074630b2516714da40" title="TestSourceGui::updateHardware" alt="" coords="555,7,767,33"/>
+<area shape="rect" id="node5" href="$d9/d2b/classTestSourceInput.html#a5e5042ee13a8a78677e46f27ede79c0b" title="TestSourceInput::deserialize" alt="" coords="567,61,755,88"/>
+<area shape="rect" id="node7" href="$d9/d2b/classTestSourceInput.html#af3c7431bfd7ee2022aece9a444d5dc48" title="TestSourceInput::setCenter\lFrequency" alt="" coords="569,113,752,154"/>
+<area shape="rect" id="node9" href="$d9/d2b/classTestSourceInput.html#a84e175de7eba1ebe14a165d0edc27659" title="TestSourceInput::webapiSettings\lPutPatch" alt="" coords="553,178,768,219"/>
+<area shape="rect" id="node4" href="$d2/d41/classTestSourceGui.html#aa3f7c432f7cd67e0fcb1ca077c9ebb5e" title="TestSourceGui::TestSourceGui" alt="" coords="822,5,1026,32"/>
+<area shape="rect" id="node6" href="$d6/d4f/classTestSourceInput_1_1MsgStartStop.html#ab5d26e197edbd7b6bafe75bbe72e4a2b" title="TestSourceInput::MsgStart\lStop::MsgStartStop" alt="" coords="835,57,1013,98"/>
+<area shape="rect" id="node8" href="$d9/d2b/classTestSourceInput.html#a1e8134add18d5b24f054939ffb07b5c4" title="For when the source sample rate is set externally. " alt="" coords="816,153,1032,180"/>
+</map>

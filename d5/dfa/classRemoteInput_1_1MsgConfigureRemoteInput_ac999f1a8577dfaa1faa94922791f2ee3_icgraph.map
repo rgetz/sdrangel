@@ -1,0 +1,9 @@
+<map id="RemoteInput::MsgConfigureRemoteInput::MsgConfigureRemoteInput" name="RemoteInput::MsgConfigureRemoteInput::MsgConfigureRemoteInput">
+<area shape="rect" id="node2" href="$d5/dfa/classRemoteInput_1_1MsgConfigureRemoteInput.html#ad4dd673fe825929af4e4402485ad3b13" title="RemoteInput::MsgConfigure\lRemoteInput::create" alt="" coords="315,64,501,105"/>
+<area shape="rect" id="node3" href="$d3/d67/classRemoteInput.html#ac2dfafe8707acae39ab1a73cdf93e215" title="RemoteInput::deserialize" alt="" coords="576,13,743,39"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#a51646085f4bf1e37885042ee741b578b" title="RemoteInput::webapiSettings\lPutPatch" alt="" coords="562,64,757,105"/>
+<area shape="rect" id="node7" href="$db/dfb/classRemoteInputGui.html#a53561d43c8ae9408a38cdafd050772e8" title="RemoteInputGui::updateHardware" alt="" coords="549,130,769,157"/>
+<area shape="rect" id="node4" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="835,5,1020,47"/>
+<area shape="rect" id="node6" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="830,71,1025,98"/>
+<area shape="rect" id="node8" href="$db/dfb/classRemoteInputGui.html#a78d5a650119812ffc270775a5b070461" title="RemoteInputGui::RemoteInputGui" alt="" coords="817,130,1037,157"/>
+</map>

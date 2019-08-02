@@ -1,0 +1,8 @@
+<map id="DSPDeviceMIMOEngine::removeSpectrumSink" name="DSPDeviceMIMOEngine::removeSpectrumSink">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#aedd0d06820f324cd14a9e688b5cac892" title="MainWindow::removeLastDevice" alt="" coords="220,56,435,83"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="495,5,666,32"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="483,56,679,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a52a303cd6ae083095439eecd6a2ca639" title="MainWindow::on_action\l_removeLastDevice_triggered" alt="" coords="483,107,678,149"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="727,56,929,83"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="977,56,1157,83"/>
+</map>

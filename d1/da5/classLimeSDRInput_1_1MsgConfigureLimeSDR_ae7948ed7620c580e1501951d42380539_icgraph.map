@@ -1,0 +1,7 @@
+<map id="LimeSDRInput::MsgConfigureLimeSDR::getSettings" name="LimeSDRInput::MsgConfigureLimeSDR::getSettings">
+<area shape="rect" id="node2" href="$d4/d53/classLimeSDRInputGUI.html#ac80027ee9587ad6fde5cbe739e217ef3" title="LimeSDRInputGUI::handleInput\lMessages" alt="" coords="529,5,736,47"/>
+<area shape="rect" id="node4" href="$d4/d53/classLimeSDRInputGUI.html#a8f6b05357f9f3d98309cbfe22f195b2f" title="LimeSDRInputGUI::handleMessage" alt="" coords="251,42,481,69"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="263,93,469,119"/>
+<area shape="rect" id="node3" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="784,13,1035,39"/>
+<area shape="rect" id="node6" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="529,93,736,119"/>
+</map>

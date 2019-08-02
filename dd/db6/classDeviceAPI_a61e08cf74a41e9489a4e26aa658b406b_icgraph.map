@@ -1,0 +1,10 @@
+<map id="DeviceAPI::getSamplingDeviceGUIMessageQueue" name="DeviceAPI::getSamplingDeviceGUIMessageQueue">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="271,5,467,32"/>
+<area shape="rect" id="node4" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="260,56,477,83"/>
+<area shape="rect" id="node6" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="275,107,462,133"/>
+<area shape="rect" id="node8" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="265,157,472,184"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="536,5,731,32"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="525,56,741,83"/>
+<area shape="rect" id="node7" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="541,107,726,133"/>
+<area shape="rect" id="node9" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="530,157,737,184"/>
+</map>

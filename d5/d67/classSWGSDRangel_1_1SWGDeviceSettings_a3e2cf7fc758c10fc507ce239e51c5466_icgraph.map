@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGDeviceSettings::getRemoteOutputSettings" name="SWGSDRangel::SWGDeviceSettings::getRemoteOutputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="317,5,481,47"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a162899b2a3df08efad4522cd064f1bf0" title="RemoteOutput::webapiFormat\lDeviceSettings" alt="" coords="300,123,497,164"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ae2b20ba3e41d86b0e8fb4e9df7d7cff2" title="RemoteOutput::webapiSettingsGet" alt="" coords="549,113,775,139"/>
+<area shape="rect" id="node8" href="$d8/daf/classRemoteOutput.html#a09c23db456c81edb373d113f10dcfba0" title="RemoteOutput::webapiSettings\lPutPatch" alt="" coords="560,164,764,205"/>
+<area shape="rect" id="node9" href="$d8/daf/classRemoteOutput.html#a76ff5aad9628b27e9257576d06005c6b" title="RemoteOutput::webapiReverse\lSendSettings" alt="" coords="296,240,501,281"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="553,5,771,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="845,5,1007,47"/>
+<area shape="rect" id="node7" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="1108,167,1341,194"/>
+<area shape="rect" id="node10" href="$d8/daf/classRemoteOutput.html#a80d6409d58d06eb64b754f15c1c89467" title="RemoteOutput::applySettings" alt="" coords="565,247,759,274"/>
+<area shape="rect" id="node11" href="$d8/daf/classRemoteOutput.html#aaeebf504cf095eb1456c63f58bee06e3" title="RemoteOutput::handleMessage" alt="" coords="823,218,1029,245"/>
+<area shape="rect" id="node12" href="$d8/daf/classRemoteOutput.html#aae7a474b9f713d55e9185b43be00b8b7" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="860,269,992,295"/>
+<area shape="rect" id="node13" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="1077,254,1372,310"/>
+</map>

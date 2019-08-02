@@ -1,0 +1,16 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setXtrxInputSettings" name="SWGSDRangel::SWGDeviceSettings::setXtrxInputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="307,5,471,47"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#ad1e2a51d6201123312147807a2f6e507" title="XTRXInput::webapiReverse\lSendSettings" alt="" coords="296,144,481,185"/>
+<area shape="rect" id="node15" href="$dc/d14/classXTRXInput.html#abb286e8286f561e7ae88252e44e3403f" title="XTRXInput::webapiSettingsGet" alt="" coords="536,71,741,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="529,5,748,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="808,5,971,47"/>
+<area shape="rect" id="node6" href="$dc/d14/classXTRXInput.html#a9689478882906279e1d4da7039ee9e99" title="XTRXInput::applySettings" alt="" coords="551,173,726,199"/>
+<area shape="rect" id="node7" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="796,122,983,149"/>
+<area shape="rect" id="node9" href="$dc/d14/classXTRXInput.html#a48e88dd0f71731de9460dfe3ba0952c2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1292,173,1404,199"/>
+<area shape="rect" id="node11" href="$dc/d14/classXTRXInput.html#ac5d109f6b6f25ff065a8f0063f2154ab" title="XTRXInput::start" alt="" coords="1063,223,1184,250"/>
+<area shape="rect" id="node12" href="$dc/d14/classXTRXInput.html#a5dd45130f13693615df8dd02147ad8c3" title="XTRXInput::stop" alt="" coords="829,299,949,326"/>
+<area shape="rect" id="node8" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="1031,97,1216,123"/>
+<area shape="rect" id="node10" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1480,241,1663,283"/>
+<area shape="rect" id="node13" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="1040,375,1207,402"/>
+<area shape="rect" id="node14" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="1264,325,1432,351"/>
+</map>

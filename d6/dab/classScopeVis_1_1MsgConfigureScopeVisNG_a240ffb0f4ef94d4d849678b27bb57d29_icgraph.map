@@ -1,0 +1,9 @@
+<map id="ScopeVis::MsgConfigureScopeVisNG::create" name="ScopeVis::MsgConfigureScopeVisNG::create">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#a96c52e04a7dda17729fa1b4c7b0fb3b3" title="ScopeVis::configure" alt="" coords="257,177,396,203"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#accbd30d76c6ac4aa9ecc3cf1a966cbbe" title="GLScopeGUI::on_freerun\l_toggled" alt="" coords="449,5,618,47"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a4b3fc50d2d0846e28e2629545565bef9" title="GLScopeGUI::on_time\l_valueChanged" alt="" coords="456,71,611,112"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#ad7386347e67bffda84756a36e6e31a9d" title="GLScopeGUI::on_timeOfs\l_valueChanged" alt="" coords="446,136,621,177"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a2d72722756c536c6c7e698d4f884a34a" title="GLScopeGUI::on_traceLen\l_valueChanged" alt="" coords="444,201,623,243"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#a91a0a6730e88830178ee07d914af889c" title="GLScopeGUI::on_trigPre\l_valueChanged" alt="" coords="450,267,617,308"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="447,333,620,359"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="LocalSinkSettings::deserialize" name="LocalSinkSettings::deserialize">
+<area shape="rect" id="node2" href="$d1/d43/classLocalSinkGUI.html#a6792b081af5df7acfa27cfea056081b7" title="LocalSinkGUI::deserialize" alt="" coords="188,5,361,32"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#a3506bb42a4936928936956a74fccd1f6" title="LocalSink::deserialize" alt="" coords="200,56,349,83"/>
+<area shape="rect" id="node5" href="$d1/d44/structLocalSinkSettings.html#a138eea398636efe464723868438b115c" title="LocalSinkSettings::\lsetChannelMarker" alt="" coords="207,107,342,149"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#a4cb7a218e0cc717723dfc3585489bf31" title="Applies to a default stream. " alt="" coords="409,56,615,83"/>
+<area shape="rect" id="node6" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="416,115,608,141"/>
+<area shape="rect" id="node7" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="663,115,809,141"/>
+<area shape="rect" id="node8" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="857,107,1033,149"/>
+<area shape="rect" id="node9" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="1081,115,1257,141"/>
+</map>

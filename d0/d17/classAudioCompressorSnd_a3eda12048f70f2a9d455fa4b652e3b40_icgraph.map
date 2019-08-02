@@ -1,0 +1,19 @@
+<map id="AudioCompressorSnd::compcurve" name="AudioCompressorSnd::compcurve">
+<area shape="rect" id="node2" href="$d6/d8f/structAudioCompressorSnd_1_1CompressorState.html#a9188f6f934ef3ae38ab5b315ef253abb" title="AudioCompressorSnd\l::CompressorState::sf\l_advancecomp" alt="" coords="212,33,363,89"/>
+<area shape="rect" id="node14" href="$d0/d17/classAudioCompressorSnd.html#aea526b82e74ca5485f770853b6c7169e" title="AudioCompressorSnd\l::sf_compressor_process" alt="" coords="203,114,372,155"/>
+<area shape="rect" id="node3" href="$d0/d17/classAudioCompressorSnd.html#a6cd94cd61c5e27f6ab060bfa9b832095" title="AudioCompressorSnd\l::initState" alt="" coords="420,41,569,82"/>
+<area shape="rect" id="node4" href="$dc/d8d/classSSBMod.html#abb41840f920195ad053a974fddb4fd51" title="SSBMod::applyAudioSampleRate" alt="" coords="617,48,836,75"/>
+<area shape="rect" id="node5" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1111,71,1284,97"/>
+<area shape="rect" id="node11" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="893,20,1054,47"/>
+<area shape="rect" id="node6" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1332,103,1559,129"/>
+<area shape="rect" id="node7" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1607,103,1789,129"/>
+<area shape="rect" id="node8" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1837,103,1980,129"/>
+<area shape="rect" id="node9" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="2028,103,2269,129"/>
+<area shape="rect" id="node10" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2317,103,2488,129"/>
+<area shape="rect" id="node12" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="1130,20,1265,47"/>
+<area shape="rect" id="node13" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1332,5,1559,61"/>
+<area shape="rect" id="node15" href="$d0/d17/classAudioCompressorSnd.html#a3e14a9e0b5ffc5f15a6f9657f13f0835" title="AudioCompressorSnd\l::compress" alt="" coords="420,114,569,155"/>
+<area shape="rect" id="node16" href="$dc/d8d/classSSBMod.html#a0f77691c1c1a2dddf6fa9c363a8342e8" title="SSBMod::pullAF" alt="" coords="667,121,786,148"/>
+<area shape="rect" id="node17" href="$dc/d8d/classSSBMod.html#a114256426423a3c81eea9cf23ddb79f0" title="SSBMod::modulateSample" alt="" coords="884,121,1063,148"/>
+<area shape="rect" id="node18" href="$dc/d8d/classSSBMod.html#aa187a000dd6711ecd0122769016da6ae" title="SSBMod::pull" alt="" coords="1146,121,1249,148"/>
+</map>

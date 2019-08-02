@@ -1,0 +1,11 @@
+<map id="plugins/channeltx/filesource/filesource.h" name="plugins/channeltx/filesource/filesource.h">
+<area shape="rect" id="node10" href="$d8/dfa/basebandsamplesource_8h.html" title="dsp/basebandsamplesource.h" alt="" coords="422,95,617,121"/>
+<area shape="rect" id="node22" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="787,95,931,121"/>
+<area shape="rect" id="node23" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="657,95,763,121"/>
+<area shape="rect" id="node25" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="1463,95,1605,121"/>
+<area shape="rect" id="node27" href="$db/d70/filesourcesettings_8h.html" title="filesourcesettings.h" alt="" coords="1007,95,1141,121"/>
+<area shape="rect" id="node11" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="560,244,671,271"/>
+<area shape="rect" id="node15" href="$df/d84/samplesourcefifo_8h.html" title="dsp/samplesourcefifo.h" alt="" coords="425,169,582,196"/>
+<area shape="rect" id="node19" href="$db/db5/export_8h.html" title="export.h" alt="" coords="695,244,765,271"/>
+<area shape="rect" id="node20" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="257,169,400,196"/>
+</map>

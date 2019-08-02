@@ -1,0 +1,11 @@
+<map id="XTRXOutput::webapiFormatDeviceReport" name="XTRXOutput::webapiFormatDeviceReport">
+<area shape="rect" id="node2" href="$d3/d51/classDeviceXTRXShared.html#a1610885620e3d93a43a33cfd39e64084" title="DeviceXTRXShared::get\l_board_temperature" alt="" coords="274,5,441,47"/>
+<area shape="rect" id="node3" href="$dd/d06/classDeviceXTRX.html#ac3826954dcdcd14386ab26226ae5df8b" title="DeviceXTRX::getDevice" alt="" coords="523,71,689,98"/>
+<area shape="rect" id="node4" href="$d3/d51/classDeviceXTRXShared.html#a959c633a601e6d029e6f1555f4847eff" title="DeviceXTRXShared::get\l_gps_status" alt="" coords="274,123,441,164"/>
+<area shape="rect" id="node5" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#abab978a254c28d99e205943507c7efbc" title="SWGSDRangel::SWGDeviceReport\l::getXtrxOutputReport" alt="" coords="240,188,475,229"/>
+<area shape="rect" id="node6" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html#a00df3cf6b831c235a8b50bfcd1b10b6b" title="SWGSDRangel::SWGXtrxOutput\lReport::setFifoFill" alt="" coords="249,253,466,295"/>
+<area shape="rect" id="node7" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html#a8ca64729b70eb6af8daa9151eac93b6d" title="SWGSDRangel::SWGXtrxOutput\lReport::setFifoSize" alt="" coords="249,319,466,360"/>
+<area shape="rect" id="node8" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html#a2e836e44cc7a18c426f0d6b037d12934" title="SWGSDRangel::SWGXtrxOutput\lReport::setGpsLock" alt="" coords="249,384,466,425"/>
+<area shape="rect" id="node9" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html#acf94fd65078adc6940630c5866ecbded" title="SWGSDRangel::SWGXtrxOutput\lReport::setSuccess" alt="" coords="249,449,466,491"/>
+<area shape="rect" id="node10" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html#a14d9e8e7ecacd9358fc11bb78b0777c7" title="SWGSDRangel::SWGXtrxOutput\lReport::setTemperature" alt="" coords="249,515,466,556"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SWGSDRangel::SWGDeviceSettings::getLocalOutputSettings" name="SWGSDRangel::SWGDeviceSettings::getLocalOutputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="305,5,469,47"/>
+<area shape="rect" id="node5" href="$de/db2/classLocalOutput.html#a038579021a75215fd6a02a3285f3f9e5" title="LocalOutput::webapiFormat\lDeviceSettings" alt="" coords="296,123,479,164"/>
+<area shape="rect" id="node6" href="$de/db2/classLocalOutput.html#a560437ffd4eb92164ce4a93a6ff79ee5" title="LocalOutput::webapiSettingsGet" alt="" coords="531,78,741,105"/>
+<area shape="rect" id="node8" href="$de/db2/classLocalOutput.html#a8ff2e6ab2a7cd2c7d5fdbee0de21dc97" title="LocalOutput::webapiSettings\lPutPatch" alt="" coords="541,129,731,171"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="527,5,745,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="837,5,1000,47"/>
+<area shape="rect" id="node7" href="$d6/d65/classLocalOutput_1_1MsgReportSampleRateAndFrequency.html#adfd503a532898aeb9d8fa0a47471d209" title="LocalOutput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="793,97,1044,153"/>
+</map>

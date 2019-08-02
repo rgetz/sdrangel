@@ -1,0 +1,5 @@
+<map id="XTRXInput::MsgStartStop::create" name="XTRXInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d3/df5/classXTRXInputGUI.html#ac57c7a3210fd3393a642ff79abeb6795" title="XTRXInputGUI::on_startStop\l_toggled" alt="" coords="228,5,421,47"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#afc43ac1c21c140466deac9d936af646d" title="XTRXInput::webapiRun" alt="" coords="245,71,405,98"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="469,71,655,98"/>
+</map>

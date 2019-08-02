@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGPlutoSdrOutputSettings::setAntennaPath" name="SWGSDRangel::SWGPlutoSdrOutputSettings::setAntennaPath">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#ace69177b00ebe978e2d864f63b432073" title="PlutoSDROutput::webapiFormat\lDeviceSettings" alt="" coords="531,57,741,98"/>
+<area shape="rect" id="node6" href="$da/dff/classPlutoSDROutput.html#aac3b1eda1bab72009347293155fa7a12" title="PlutoSDROutput::webapiReverse\lSendSettings" alt="" coords="264,141,483,182"/>
+<area shape="rect" id="node3" href="$da/dff/classPlutoSDROutput.html#aef86a03eb9d80d9cfc8361a51859c80c" title="PlutoSDROutput::webapiSettingsGet" alt="" coords="789,5,1028,32"/>
+<area shape="rect" id="node5" href="$da/dff/classPlutoSDROutput.html#a2f7241bbadd20846d8eae0423c10fee6" title="PlutoSDROutput::webapiSettings\lPutPatch" alt="" coords="800,57,1017,98"/>
+<area shape="rect" id="node4" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="1076,64,1295,91"/>
+<area shape="rect" id="node7" href="$da/dff/classPlutoSDROutput.html#a4a7d956731df0e59855999390a468698" title="PlutoSDROutput::applySettings" alt="" coords="533,148,739,175"/>
+<area shape="rect" id="node8" href="$da/dff/classPlutoSDROutput.html#ad132fd5cef658cfceffc18fe8cc34967" title="PlutoSDROutput::handleMessage" alt="" coords="799,123,1018,149"/>
+<area shape="rect" id="node9" href="$da/dff/classPlutoSDROutput.html#a66507a2a3ab336dcb05000ddf5cf7f4b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="836,173,981,200"/>
+<area shape="rect" id="node11" href="$da/dff/classPlutoSDROutput.html#a758177843de5ed2ee7853997d9ab95c9" title="PlutoSDROutput::start" alt="" coords="831,224,986,251"/>
+<area shape="rect" id="node10" href="$da/d5d/classPlutoSDROutput_1_1MsgStartStop.html#a5f1f592f6e818d950c7c1e031495c4df" title="PlutoSDROutput::MsgStart\lStop::MsgStartStop" alt="" coords="1095,191,1276,233"/>
+</map>

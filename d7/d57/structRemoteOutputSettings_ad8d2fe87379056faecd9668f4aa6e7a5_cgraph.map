@@ -1,0 +1,11 @@
+<map id="RemoteOutputSettings::deserialize" name="RemoteOutputSettings::deserialize">
+<area shape="rect" id="node2" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="220,5,351,47"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="220,71,351,112"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="220,136,351,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a8fd742bd11d35703a58df7c15af1014a" title="SimpleDeserializer\l::readFloat" alt="" coords="220,201,351,243"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="220,267,351,308"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="220,332,351,373"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a90c7dffb2b72a1b12358f680e9dfa469" title="SimpleDeserializer\l::readU64" alt="" coords="220,397,351,439"/>
+<area shape="rect" id="node10" href="$d7/d57/structRemoteOutputSettings.html#aca7a49d75fc60a0aaa3da8ed851c33e8" title="RemoteOutputSettings\l::resetToDefaults" alt="" coords="208,463,363,504"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="411,267,541,308"/>
+</map>

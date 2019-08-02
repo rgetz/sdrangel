@@ -1,0 +1,5 @@
+<map id="FileSourceGUI::on_playLoop_toggled" name="FileSourceGUI::on_playLoop_toggled">
+<area shape="rect" id="node2" href="$dc/ded/classFileSource_1_1MsgConfigureFileSource.html#aed59d7fce91fc117b592e6d63a8f2161" title="FileSource::MsgConfigure\lFileSource::create" alt="" coords="243,5,416,47"/>
+<area shape="rect" id="node3" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="245,71,413,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="255,137,404,163"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="XTRXOutputGUI::on_centerFrequency_changed" name="XTRXOutputGUI::on_centerFrequency_changed">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a1475ac42c51d6216e7dd7c4cdefd7d2a" title="XTRXOutputGUI::sendSettings" alt="" coords="240,5,445,32"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a9fbe137c2bd554e66dc28a894a7249e3" title="XTRXOutputGUI::setCenter\lFrequencySetting" alt="" coords="249,57,436,98"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="493,64,533,91"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="581,64,689,91"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="737,86,885,127"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="941,35,1060,61"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="933,86,1068,127"/>
+</map>

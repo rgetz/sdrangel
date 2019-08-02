@@ -1,0 +1,5 @@
+<map id="FreeDVDemodGUI::on_reSync_clicked" name="FreeDVDemodGUI::on_reSync_clicked">
+<area shape="rect" id="node2" href="$d4/d72/classFreeDVDemod_1_1MsgResyncFreeDVDemod.html#a5503ee1b2fd614c1cf72f15f95b04454" title="FreeDVDemod::MsgResyncFree\lDVDemod::create" alt="" coords="208,5,421,47"/>
+<area shape="rect" id="node3" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="231,71,399,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="240,137,389,163"/>
+</map>

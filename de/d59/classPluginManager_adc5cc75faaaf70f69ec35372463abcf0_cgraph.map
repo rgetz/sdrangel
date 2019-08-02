@@ -1,0 +1,9 @@
+<map id="PluginManager::loadPluginsFinal" name="PluginManager::loadPluginsFinal">
+<area shape="rect" id="node2" href="$d1/d17/classDeviceEnumerator.html#a0a9b14a4198c84a5689ac4d15c4bf0ac" title="DeviceEnumerator::enumerate\lMIMODevices" alt="" coords="236,5,435,47"/>
+<area shape="rect" id="node4" href="$d1/d17/classDeviceEnumerator.html#a0a270cb98cfab332693c40030fc069f7" title="DeviceEnumerator::enumerate\lRxDevices" alt="" coords="236,71,435,112"/>
+<area shape="rect" id="node6" href="$d1/d17/classDeviceEnumerator.html#a6b35e80879c13db9a795cc823a1d7cbb" title="DeviceEnumerator::enumerate\lTxDevices" alt="" coords="236,136,435,177"/>
+<area shape="rect" id="node8" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="242,202,429,229"/>
+<area shape="rect" id="node3" href="$de/d59/classPluginManager.html#ac228ca335f2ec58918552b09d5dabbde" title="PluginManager::getMIMODevice\lRegistrations" alt="" coords="483,5,693,47"/>
+<area shape="rect" id="node5" href="$de/d59/classPluginManager.html#ad7dc61c8f56d18b0753730463193bd9c" title="PluginManager::getSource\lDeviceRegistrations" alt="" coords="501,71,675,112"/>
+<area shape="rect" id="node7" href="$de/d59/classPluginManager.html#a21976c48a90cc65fba9266c08905a4a4" title="PluginManager::getSinkDevice\lRegistrations" alt="" coords="487,136,689,177"/>
+</map>

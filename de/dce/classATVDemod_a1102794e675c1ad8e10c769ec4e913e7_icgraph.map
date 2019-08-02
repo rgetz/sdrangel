@@ -1,0 +1,10 @@
+<map id="ATVDemod::applyStandard" name="ATVDemod::applyStandard">
+<area shape="rect" id="node2" href="$de/dce/classATVDemod.html#a6bcdbcf92af9b224581ac9f3777b4347" title="ATVDemod::applySettings" alt="" coords="235,17,412,43"/>
+<area shape="rect" id="node8" href="$de/dce/classATVDemod.html#a67ae135d756d0c8643beede8b529a412" title="ATVDemod::ATVDemod" alt="" coords="240,71,407,98"/>
+<area shape="rect" id="node3" href="$de/dce/classATVDemod.html#aa2f0eb22c51f28cb7c1bbbe0af96c901" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="499,13,688,39"/>
+<area shape="rect" id="node4" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="775,13,953,39"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="1001,13,1216,39"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1264,13,1423,39"/>
+<area shape="rect" id="node7" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1471,5,1657,47"/>
+<area shape="rect" id="node9" href="$de/d5c/classATVDemod_1_1MsgReportChannelSampleRateChanged.html#a6bb977796486b0a34e454f1f90c0acb0" title="ATVDemod::MsgReportChannel\lSampleRateChanged::MsgReportChannel\lSampleRateChanged" alt="" coords="460,63,727,119"/>
+</map>

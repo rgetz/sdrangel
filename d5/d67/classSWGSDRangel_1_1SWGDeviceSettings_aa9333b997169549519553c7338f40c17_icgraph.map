@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setTestMiSettings" name="SWGSDRangel::SWGDeviceSettings::setTestMiSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="309,28,473,69"/>
+<area shape="rect" id="node5" href="$d7/da7/classTestMI.html#aabe52f09b544daebb2143890bd9e99df" title="TestMI::webapiReverseSend\lSettings" alt="" coords="296,115,487,156"/>
+<area shape="rect" id="node12" href="$d7/da7/classTestMI.html#a53ce35be2891c1a948f9fb40eab78a65" title="TestMI::webapiSettingsGet" alt="" coords="553,213,735,239"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="535,17,753,59"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="801,5,964,47"/>
+<area shape="rect" id="node6" href="$d7/da7/classTestMI.html#a9f64c4a053f84986cd1669c95cd39235" title="TestMI::applySettings" alt="" coords="569,122,719,149"/>
+<area shape="rect" id="node7" href="$d7/da7/classTestMI.html#afd09ce663d84b09aca7d2273d7daf6f4" title="TestMI::handleMessage" alt="" coords="801,173,964,199"/>
+<area shape="rect" id="node9" href="$d7/da7/classTestMI.html#a23fb9b2a305aeed16d81bc6e33a60c97" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="839,71,927,98"/>
+<area shape="rect" id="node11" href="$d7/da7/classTestMI.html#a0a4ce6bd238b2516abfd08a131ebccc3" title="TestMI::start" alt="" coords="834,122,931,149"/>
+<area shape="rect" id="node8" href="$d7/da7/classTestMI.html#a2e624bc3b137c3750b4474973d3126b0" title="TestMI::setSinkCenterFrequency" alt="" coords="1012,187,1227,214"/>
+<area shape="rect" id="node10" href="$d8/de7/classTestMI_1_1MsgStartStop.html#ab4b223ac6abdfbde115f22b4e81da814" title="TestMI::MsgStartStop\l::MsgStartStop" alt="" coords="1044,100,1195,141"/>
+</map>

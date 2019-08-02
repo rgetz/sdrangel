@@ -1,0 +1,5 @@
+<map id="FileInputGUI::tick" name="FileInputGUI::tick">
+<area shape="rect" id="node2" href="$db/d02/classFileInput_1_1MsgConfigureFileInputStreamTiming.html#a9d286c84e322807efb5ea0e87b66a1bb" title="FileInput::MsgConfigureFile\lInputStreamTiming::create" alt="" coords="179,5,361,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="186,71,354,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="195,137,345,163"/>
+</map>

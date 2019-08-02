@@ -1,0 +1,8 @@
+<map id="ScopeVis::TraceBackBuffer::serialize" name="ScopeVis::TraceBackBuffer::serialize">
+<area shape="rect" id="node2" href="$da/d44/classDoubleBufferSimple.html#a0580af22e58650d8e1a7cff840843b11" title="DoubleBufferSimple\l::begin" alt="" coords="257,5,396,47"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="253,71,401,98"/>
+<area shape="rect" id="node4" href="$da/d44/classDoubleBufferSimple.html#a9510cd820e99e3197c25538e202c7439" title="DoubleBufferSimple\l::serialize" alt="" coords="257,123,396,164"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="237,189,416,215"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="239,239,415,266"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="464,214,639,241"/>
+</map>

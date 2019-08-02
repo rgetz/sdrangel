@@ -1,0 +1,9 @@
+<map id="qrtplib::RTPSourceData::INF_GetRoundtripTime" name="qrtplib::RTPSourceData::INF_GetRoundtripTime">
+<area shape="rect" id="node2" href="$db/da3/classqrtplib_1_1RTCPReceiverReportInfo.html#a46eb52e0e9ed99652eeea7195a2dbc8c" title="qrtplib::RTCPReceiverReport\lInfo::GetDelaySinceLastSR" alt="" coords="225,5,419,47"/>
+<area shape="rect" id="node3" href="$db/da3/classqrtplib_1_1RTCPReceiverReportInfo.html#a48a40e5d95e4d7cb6e81ab54224128f1" title="qrtplib::RTCPReceiverReport\lInfo::GetLastSRTimestamp" alt="" coords="225,71,419,112"/>
+<area shape="rect" id="node4" href="$d1/df2/classqrtplib_1_1RTPNTPTime.html#a1a02530b2b66c081f9d26c01d79f0318" title="qrtplib::RTPNTPTime\l::GetLSW" alt="" coords="248,136,396,177"/>
+<area shape="rect" id="node5" href="$d1/df2/classqrtplib_1_1RTPNTPTime.html#aba979073016378b238c8705740fc5f3e" title="qrtplib::RTPNTPTime\l::GetMSW" alt="" coords="248,201,396,243"/>
+<area shape="rect" id="node6" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a4ab1de7e9a3c2f0d7c1f534fb3906a26" title="qrtplib::RTPTime::GetNTPTime" alt="" coords="219,267,425,294"/>
+<area shape="rect" id="node7" href="$db/da3/classqrtplib_1_1RTCPReceiverReportInfo.html#ac3b2c1d5b37bab042c241535ab254e5e" title="qrtplib::RTCPReceiverReport\lInfo::GetReceiveTime" alt="" coords="225,319,419,360"/>
+<area shape="rect" id="node8" href="$db/da3/classqrtplib_1_1RTCPReceiverReportInfo.html#a3b0a3c62d5e32ff571a23283c9338227" title="qrtplib::RTCPReceiverReport\lInfo::HasInfo" alt="" coords="225,384,419,425"/>
+</map>

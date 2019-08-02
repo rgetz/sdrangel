@@ -1,0 +1,7 @@
+<map id="LoRaDemodGUI::displaySettings" name="LoRaDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$d6/d57/classLoRaDemodGUI.html#adbb53b0cd6030f97ae11e58243437338" title="LoRaDemodGUI::deserialize" alt="" coords="541,5,731,32"/>
+<area shape="rect" id="node3" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="269,81,493,108"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#a84d41f11720a0ad1795f3f76c7eb61b0" title="LoRaDemodGUI::resetToDefaults" alt="" coords="271,31,491,57"/>
+<area shape="rect" id="node4" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="555,81,717,108"/>
+<area shape="rect" id="node5" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="779,81,1001,108"/>
+</map>

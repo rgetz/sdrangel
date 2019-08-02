@@ -1,0 +1,11 @@
+<map id="DSPDeviceSinkEngine::start" name="DSPDeviceSinkEngine::start">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#a012e6364a5331d3edbbde13815b877b4" title="MainCore::addSinkDevice" alt="" coords="220,5,395,32"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="211,56,404,83"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="461,5,639,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="705,5,889,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="965,5,1108,32"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="452,56,648,83"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="463,107,637,149"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="696,56,899,83"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="947,56,1127,83"/>
+</map>

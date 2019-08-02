@@ -1,0 +1,10 @@
+<map id="FileSinkGui::handleMessage" name="FileSinkGui::handleMessage">
+<area shape="rect" id="node2" href="$de/de4/classFileSinkGui.html#ad08f7d455466c95bb09039af1abbdc27" title="FileSinkGui::blockApplySettings" alt="" coords="254,5,463,32"/>
+<area shape="rect" id="node3" href="$de/de4/classFileSinkGui.html#a464832fb59b6e033f1edffab8f1dd699" title="FileSinkGui::displaySettings" alt="" coords="265,56,452,83"/>
+<area shape="rect" id="node4" href="$d8/ded/classFileSinkOutput_1_1MsgConfigureFileSink.html#af444683860beefd8a9abb770b2fc0246" title="FileSinkOutput::MsgConfigure\lFileSink::getSettings" alt="" coords="260,107,457,149"/>
+<area shape="rect" id="node5" href="$d2/de7/classFileSinkOutput_1_1MsgStartStop.html#a4836c70165034788785270a007d73d5e" title="FileSinkOutput::MsgStart\lStop::getStartStop" alt="" coords="274,173,443,214"/>
+<area shape="rect" id="node6" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="299,239,418,265"/>
+<area shape="rect" id="node8" href="$de/de4/classFileSinkGui.html#ada831e35f7b2ba2a115e974ac3940260" title="FileSinkGui::updateWithGeneration" alt="" coords="245,289,472,316"/>
+<area shape="rect" id="node9" href="$de/de4/classFileSinkGui.html#add9957086283dabefa6cae6c8f400338" title="FileSinkGui::updateWithStreamTime" alt="" coords="241,340,476,367"/>
+<area shape="rect" id="node7" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="524,239,693,265"/>
+</map>

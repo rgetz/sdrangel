@@ -1,0 +1,8 @@
+<map id="RemoteOutput::webapiRun" name="RemoteOutput::webapiRun">
+<area shape="rect" id="node2" href="$d3/d9b/classRemoteOutput_1_1MsgStartStop.html#ae3f3b1a2579aefe595b9bb37e1b9888d" title="RemoteOutput::MsgStartStop\l::create" alt="" coords="249,5,444,47"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a811af8bc5060090941d30a73c9737888" title="DeviceAPI::getDeviceEngine\lStateStr" alt="" coords="251,71,443,112"/>
+<area shape="rect" id="node6" href="$d5/d21/classSWGSDRangel_1_1SWGDeviceState.html#a4ef298a8b0f695f47c578146f041e10c" title="SWGSDRangel::SWGDeviceState\l::getState" alt="" coords="233,136,460,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="272,202,421,229"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="508,39,680,80"/>
+<area shape="rect" id="node5" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="515,104,673,145"/>
+</map>

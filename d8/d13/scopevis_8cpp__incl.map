@@ -1,0 +1,21 @@
+<map id="sdrgui/dsp/scopevis.cpp" name="sdrgui/dsp/scopevis.cpp">
+<area shape="rect" id="node4" href="$d2/d76/scopevis_8h.html" title="scopevis.h" alt="" coords="741,155,826,181"/>
+<area shape="rect" id="node29" href="$d7/d45/dspcommands_8h.html" title="dsp/dspcommands.h" alt="" coords="1353,229,1496,256"/>
+<area shape="rect" id="node31" href="$d3/d35/glscope_8h.html" title="gui/glscope.h" alt="" coords="1569,80,1667,107"/>
+<area shape="rect" id="node9" href="$df/db1/math_8h.html" title="math.h" alt="" coords="1220,379,1283,405"/>
+<area shape="rect" id="node13" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="556,379,667,405"/>
+<area shape="rect" id="node16" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="821,229,1001,256"/>
+<area shape="rect" id="node18" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1481,379,1550,405"/>
+<area shape="rect" id="node22" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1371,304,1478,331"/>
+<area shape="rect" id="node24" href="$d2/dde/projector_8h.html" title="dsp/projector.h" alt="" coords="607,304,715,331"/>
+<area shape="rect" id="node25" href="$d7/df6/doublebuffer_8h.html" title="util/doublebuffer.h" alt="" coords="381,229,506,256"/>
+<area shape="rect" id="node19" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="937,304,1080,331"/>
+<area shape="rect" id="node26" href="$dc/d1a/simpleserializer_8h.html" title="simpleserializer.h" alt="" coords="739,304,862,331"/>
+<area shape="rect" id="node30" href="$dd/d49/fftwindow_8h.html" title="fftwindow.h" alt="" coords="1207,304,1296,331"/>
+<area shape="rect" id="node38" href="$d5/de0/scaleengine_8h.html" title="gui/scaleengine.h" alt="" coords="1705,155,1827,181"/>
+<area shape="rect" id="node41" href="$dc/d8a/glshadersimple_8h.html" title="gui/glshadersimple.h" alt="" coords="1871,304,2013,331"/>
+<area shape="rect" id="node43" href="$d4/d9b/glshadertextured_8h.html" title="gui/glshadertextured.h" alt="" coords="2037,304,2188,331"/>
+<area shape="rect" id="node45" href="$d3/d12/bitfieldindex_8h.html" title="util/bitfieldindex.h" alt="" coords="2113,155,2235,181"/>
+<area shape="rect" id="node46" href="$d6/ddd/incrementalarray_8h.html" title="util/incrementalarray.h" alt="" coords="2260,155,2411,181"/>
+<area shape="rect" id="node40" href="$d0/dd2/physicalunit_8h.html" title="physicalunit.h" alt="" coords="1833,229,1936,256"/>
+</map>

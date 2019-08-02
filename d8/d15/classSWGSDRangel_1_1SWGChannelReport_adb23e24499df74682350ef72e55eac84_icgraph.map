@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGChannelReport::setRemoteSourceReport" name="SWGSDRangel::SWGChannelReport::setRemoteSourceReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a60ddbb1101a6f53e60c8797618ec1e26" title="WebAPIRequestMapper\l::resetChannelReport" alt="" coords="323,8,485,49"/>
+<area shape="rect" id="node5" href="$de/dd9/classRemoteSource.html#a404b4738e0e6e470fd9b22297cde0b86" title="RemoteSource::webapiReportGet" alt="" coords="295,75,513,102"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="561,5,779,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="827,5,989,47"/>
+<area shape="rect" id="node6" href="$de/dd9/classRemoteSource.html#a023f9330a89a0fc29905fbd72f678d4b" title="RemoteSource::getStreamCenter\lFrequency" alt="" coords="562,71,778,112"/>
+</map>

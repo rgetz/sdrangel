@@ -1,0 +1,11 @@
+<map id="RemoteOutputSinkGui::resetToDefaults" name="RemoteOutputSinkGui::resetToDefaults">
+<area shape="rect" id="node2" href="$d8/d08/classRemoteOutputSinkGui.html#ab51945842a41a46b2403c86e9398f1b0" title="RemoteOutputSinkGui\l::blockApplySettings" alt="" coords="409,5,563,47"/>
+<area shape="rect" id="node3" href="$d8/d08/classRemoteOutputSinkGui.html#ae4eecb8e75f1fcd71eb3c85583605d8e" title="RemoteOutputSinkGui\l::displaySettings" alt="" coords="207,64,361,105"/>
+<area shape="rect" id="node9" href="$d7/d57/structRemoteOutputSettings.html#aca7a49d75fc60a0aaa3da8ed851c33e8" title="RemoteOutputSettings\l::resetToDefaults" alt="" coords="207,129,361,171"/>
+<area shape="rect" id="node10" href="$d8/d08/classRemoteOutputSinkGui.html#a8ff59cbe0987436c0af39fc5bb6fa0a8" title="RemoteOutputSinkGui\l::sendSettings" alt="" coords="207,195,361,236"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="466,71,506,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="611,71,719,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="767,93,915,135"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="971,42,1089,69"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="963,93,1097,135"/>
+</map>

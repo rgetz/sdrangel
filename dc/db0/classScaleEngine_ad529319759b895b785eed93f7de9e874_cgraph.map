@@ -1,0 +1,12 @@
+<map id="ScaleEngine::reCalc" name="ScaleEngine::reCalc">
+<area shape="rect" id="node2" href="$dc/db0/classScaleEngine.html#a579a9b6552d8445259dd2d08deec330f" title="ScaleEngine::calcMajorTick\lUnits" alt="" coords="458,26,642,67"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a05e80256399b9904a0a4c1bf63ce0155" title="floor" alt="" coords="701,33,748,60"/>
+<area shape="rect" id="node5" href="$dc/db0/classScaleEngine.html#a29b4048b3ec5189ffd73a7342c686e94" title="ScaleEngine::calcScaleFactor" alt="" coords="198,54,395,81"/>
+<area shape="rect" id="node6" href="$dc/db0/classScaleEngine.html#a9f5581fa2a8be59cbee65f0a53b817f3" title="ScaleEngine::calcTickTextSize" alt="" coords="195,105,399,132"/>
+<area shape="rect" id="node7" href="$dc/db0/classScaleEngine.html#a4616be66c163e3ceb9de10fb1b488794" title="ScaleEngine::formatTick" alt="" coords="467,134,633,161"/>
+<area shape="rect" id="node8" href="$dc/db0/classScaleEngine.html#ac5a8051f0d3363d37c1c9e74d23bb229" title="ScaleEngine::forceTwoTicks" alt="" coords="202,206,391,233"/>
+<area shape="rect" id="node9" href="$dc/db0/classScaleEngine.html#ae6e8e41cc75c630ce9d67046dbe13b2f" title="ScaleEngine::getPosFromValue" alt="" coords="447,232,653,258"/>
+<area shape="rect" id="node10" href="$dc/db0/classScaleEngine.html#a14c91b98bcb295161e79d0a35e7373d5" title="ScaleEngine::majorTickValue" alt="" coords="200,308,393,334"/>
+<area shape="rect" id="node11" href="$dc/db0/classScaleEngine.html#a35303eba2ebe473fed0f5bedaa6253c6" title="ScaleEngine::minorTickValue" alt="" coords="200,358,393,385"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a0b4002c0f3f7ae2655c40b9415f99a99" title="Fixed::floor" alt="" coords="796,33,883,60"/>
+</map>

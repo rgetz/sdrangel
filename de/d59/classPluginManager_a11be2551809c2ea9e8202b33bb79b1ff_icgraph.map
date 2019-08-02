@@ -1,0 +1,22 @@
+<map id="PluginManager::getRxChannelRegistrations" name="PluginManager::getRxChannelRegistrations">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a0a423dbdb84fb6dc17f45e546e233146" title="WebAPIAdapterGUI::deviceset\lChannelPost" alt="" coords="274,5,478,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ae6db6b5768f950974a92eb79b3f9082e" title="WebAPIAdapterSrv::deviceset\lChannelPost" alt="" coords="276,71,476,112"/>
+<area shape="rect" id="node4" href="$d6/d95/classPluginAPI.html#a85e7fec0bfd413a4722340c9ed3d50cc" title="PluginAPI::getRxChannelRegistrations" alt="" coords="252,137,500,163"/>
+<area shape="rect" id="node20" href="$dc/dd8/classWebAPIAdapterSrv.html#ac72787780feb73ca8aafd6d457f0bb1a" title="WebAPIAdapterSrv::instance\lChannels" alt="" coords="279,188,473,229"/>
+<area shape="rect" id="node21" href="$d7/de5/classWebAPIAdapterGUI.html#a90152448bc97c53ff67fb72e18d63d0f" title="WebAPIAdapterGUI::instance\lChannels" alt="" coords="277,253,475,295"/>
+<area shape="rect" id="node5" href="$d5/d32/classDeviceSet.html#a58e4d50f423117dbd5f84eda51716622" title="DeviceSet::addRxChannel" alt="" coords="557,78,734,105"/>
+<area shape="rect" id="node11" href="$d5/d32/classDeviceSet.html#a46a1bf76a5e125d5e2cc6666270ed734" title="DeviceSet::loadRxChannel\lSettings" alt="" coords="555,129,735,171"/>
+<area shape="rect" id="node13" href="$d3/d37/classDeviceUISet.html#a33a14ec5c6d32b6b9c04a531b3c9c035" title="DeviceUISet::loadRxChannel\lSettings" alt="" coords="548,195,743,236"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a020876e02b21305a5084d49788714a00" title="MainCore::addChannel" alt="" coords="821,27,975,54"/>
+<area shape="rect" id="node10" href="$d5/d32/classDeviceSet.html#a804724a8f32050e8f1582511fb330cdc" title="DeviceSet::getNumberOfTx\lChannels" alt="" coords="806,79,990,120"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="1063,101,1240,127"/>
+<area shape="rect" id="node8" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="1307,101,1491,127"/>
+<area shape="rect" id="node9" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1567,101,1709,127"/>
+<area shape="rect" id="node12" href="$db/d47/classMainCore.html#a224dee060d431a15b347fd691c775e23" title="MainCore::loadPresetSettings" alt="" coords="800,145,996,171"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="791,202,1005,229"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="1053,151,1249,178"/>
+<area shape="rect" id="node17" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1548,177,1728,203"/>
+<area shape="rect" id="node18" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="1056,253,1247,295"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1297,151,1500,178"/>
+<area shape="rect" id="node19" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="1305,253,1493,295"/>
+</map>

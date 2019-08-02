@@ -1,0 +1,9 @@
+<map id="SWGSDRangel::SWGDeviceSetList::init" name="SWGSDRangel::SWGDeviceSetList::init">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a22c80d026f881097c4c88407a46b5170" title="WebAPIAdapterGUI::getDevice\lSetList" alt="" coords="272,71,479,112"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#acd14171d866dc149c860efab28f097e8" title="WebAPIAdapterSrv::getDevice\lSetList" alt="" coords="274,136,477,177"/>
+<area shape="rect" id="node8" href="$d6/d81/classSWGSDRangel_1_1SWGDeviceSetList.html#a9309e26e5ae352e84044f9bbf24f0bd4" title="SWGSDRangel::SWGDeviceSet\lList::SWGDeviceSetList" alt="" coords="268,201,483,243"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#a958205ade4e15568ae607d7eaa1b8c5a" title="WebAPIAdapterGUI::instance\lDeviceSetsGet" alt="" coords="531,5,728,47"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#ac6fa7af9e7a689560d0db3c4bc3a8551" title="WebAPIAdapterGUI::instance\lSummary" alt="" coords="531,71,728,112"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#a2797184f69a2f61a13d5dc8fc511ab7a" title="WebAPIAdapterSrv::instance\lDeviceSetsGet" alt="" coords="533,136,726,177"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a505535853574106c725f94efa3f67d17" title="WebAPIAdapterSrv::instance\lSummary" alt="" coords="533,201,726,243"/>
+</map>

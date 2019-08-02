@@ -1,0 +1,7 @@
+<map id="ChannelAnalyzerGUI::blockApplySettings" name="ChannelAnalyzerGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#a982b69e4c5149e38275a0e21a1f0939f" title="ChannelAnalyzerGUI\l::displaySettings" alt="" coords="199,39,344,80"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#af3b84f19e08e6d5e3ad07bfb84fe15f1" title="ChannelAnalyzerGUI\l::deserialize" alt="" coords="396,5,541,47"/>
+<area shape="rect" id="node4" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="392,71,545,112"/>
+<area shape="rect" id="node5" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="593,71,739,112"/>
+<area shape="rect" id="node6" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="787,71,944,112"/>
+</map>

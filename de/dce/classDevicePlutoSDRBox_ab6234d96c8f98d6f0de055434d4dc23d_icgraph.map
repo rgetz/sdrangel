@@ -1,0 +1,7 @@
+<map id="DevicePlutoSDRBox::getRxGain" name="DevicePlutoSDRBox::getRxGain">
+<area shape="rect" id="node2" href="$d2/d3a/classPlutoSDRInput.html#a87668ddebc61741e8f77caba8cede519" title="PlutoSDRInput::getGain" alt="" coords="207,42,369,69"/>
+<area shape="rect" id="node3" href="$d2/d3a/classPlutoSDRInput.html#af58fe1eeb906a67d45789b2766c86b98" title="PlutoSDRInput::webapiFormat\lDeviceReport" alt="" coords="433,5,633,47"/>
+<area shape="rect" id="node6" href="$d2/d3a/classPlutoSDRInput.html#a07944aa827bff2938fca7132916df433" title="PlutoSDRInput::getFIRSampleRate" alt="" coords="417,71,648,98"/>
+<area shape="rect" id="node4" href="$d2/d3a/classPlutoSDRInput.html#ab4a7a1352d8602a54cbfa7c24767bc75" title="PlutoSDRInput::webapiReportGet" alt="" coords="696,13,915,39"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="963,13,1171,39"/>
+</map>

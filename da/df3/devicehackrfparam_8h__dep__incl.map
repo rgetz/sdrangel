@@ -1,0 +1,12 @@
+<map id="devices/hackrf/devicehackrfparam.h" name="devices/hackrf/devicehackrfparam.h">
+<area shape="rect" id="node2" href="$d7/d44/hackrfoutput_8h.html" title="plugins/samplesink\l/hackrfoutput/hackrfoutput.h" alt="" coords="237,80,423,121"/>
+<area shape="rect" id="node7" href="$d0/db0/hackrfinput_8h.html" title="plugins/samplesource\l/hackrfinput/hackrfinput.h" alt="" coords="463,80,632,121"/>
+<area shape="rect" id="node3" href="$d2/d93/hackrfoutput_8cpp.html" title="plugins/samplesink\l/hackrfoutput/hackrfoutput.cpp" alt="" coords="5,169,204,211"/>
+<area shape="rect" id="node4" href="$d2/d56/hackrfoutputgui_8h.html" title="plugins/samplesink\l/hackrfoutput/hackrfoutputgui.h" alt="" coords="229,169,431,211"/>
+<area shape="rect" id="node5" href="$d0/dbd/hackrfoutputgui_8cpp.html" title="plugins/samplesink\l/hackrfoutput/hackrfoutputgui.cpp" alt="" coords="19,259,235,300"/>
+<area shape="rect" id="node6" href="$d3/d32/hackrfoutputplugin_8cpp.html" title="plugins/samplesink\l/hackrfoutput/hackrfoutputplugin.cpp" alt="" coords="260,259,493,300"/>
+<area shape="rect" id="node8" href="$de/d8d/hackrfinput_8cpp.html" title="plugins/samplesource\l/hackrfinput/hackrfinput.cpp" alt="" coords="456,169,639,211"/>
+<area shape="rect" id="node9" href="$df/d7b/hackrfinputgui_8h.html" title="plugins/samplesource\l/hackrfinput/hackrfinputgui.h" alt="" coords="663,169,850,211"/>
+<area shape="rect" id="node10" href="$d8/d97/hackrfinputgui_8cpp.html" title="plugins/samplesource\l/hackrfinput/hackrfinputgui.cpp" alt="" coords="610,259,810,300"/>
+<area shape="rect" id="node11" href="$da/df8/hackrfinputplugin_8cpp.html" title="plugins/samplesource\l/hackrfinput/hackrfinputplugin.cpp" alt="" coords="835,259,1052,300"/>
+</map>

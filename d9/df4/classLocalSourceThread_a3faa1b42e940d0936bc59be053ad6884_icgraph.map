@@ -1,0 +1,10 @@
+<map id="LocalSourceThread::setSampleFifo" name="LocalSourceThread::setSampleFifo">
+<area shape="rect" id="node2" href="$d9/d2e/classLocalSource.html#aaa762764f5f8dd9d77e29bdd9cd3ce4e" title="LocalSource::applySettings" alt="" coords="201,16,382,43"/>
+<area shape="rect" id="node5" href="$d2/dbe/classLocalSourceThread_1_1MsgStartStop.html#a68c59ce9d48b9315f71e8128f29c4b84" title="LocalSourceThread::\lMsgStartStop::MsgStartStop" alt="" coords="196,79,387,121"/>
+<area shape="rect" id="node8" href="$d9/d2e/classLocalSource.html#a0314af4055511b9b47f4232b7e09a1e6" title="LocalSource::start" alt="" coords="1045,112,1173,139"/>
+<area shape="rect" id="node3" href="$d9/d2e/classLocalSource.html#a1dd06048e447aec5b3a748f1f66186d4" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="629,5,823,32"/>
+<area shape="rect" id="node4" href="$d9/d2e/classLocalSource.html#a7558a5e6f8e594bb21f1b9aa06993534" title="LocalSource::destroy" alt="" coords="1221,61,1367,88"/>
+<area shape="rect" id="node6" href="$d2/dbe/classLocalSourceThread_1_1MsgStartStop.html#a7a2b4967104ebe80d992e9b153464671" title="LocalSourceThread::\lMsgStartStop::create" alt="" coords="435,54,581,95"/>
+<area shape="rect" id="node7" href="$d9/df4/classLocalSourceThread.html#aab0c51e2bf9f9e8a181ac365fbcf7213" title="LocalSourceThread::\lstartStop" alt="" coords="655,74,797,115"/>
+<area shape="rect" id="node9" href="$d9/d2e/classLocalSource.html#a54b7318f3ad7186b55d548aaa030eb5e" title="LocalSource::stop" alt="" coords="871,61,997,88"/>
+</map>

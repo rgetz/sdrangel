@@ -1,0 +1,14 @@
+<map id="DeviceLimeSDR::setClockSource" name="DeviceLimeSDR::setClockSource">
+<area shape="rect" id="node2" href="$d5/d8d/classLimeSDROutput.html#a5816077a66159b6a47c7a34d2266dbc1" title="LimeSDROutput::applySettings" alt="" coords="275,95,480,121"/>
+<area shape="rect" id="node8" href="$df/d1b/classLimeSDRInput.html#aa7ed54a39044881adbfdc15391b12754" title="LimeSDRInput::applySettings" alt="" coords="280,171,475,197"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#a76ef259647397f322323ef8462de170e" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="565,5,708,32"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#a4a8697a5c6dba54158991d86bbdd6bf1" title="LimeSDROutput::start" alt="" coords="561,56,713,83"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="528,107,745,133"/>
+<area shape="rect" id="node4" href="$d3/de5/classLimeSDROutput_1_1MsgReportStreamInfo.html#ae00eecd9dcdfd51d15998bc465368dd2" title="LimeSDROutput::MsgReport\lStreamInfo::MsgReportStreamInfo" alt="" coords="793,19,1016,61"/>
+<area shape="rect" id="node7" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="797,107,1013,133"/>
+<area shape="rect" id="node9" href="$df/d1b/classLimeSDRInput.html#a8b151e62b476bc7af1c1b821ab41b3be" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="570,157,703,184"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html#a40c84d8ccb4a4de2b3e6c38025a32871" title="LimeSDRInput::start" alt="" coords="565,208,708,235"/>
+<area shape="rect" id="node12" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="533,259,740,285"/>
+<area shape="rect" id="node10" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="807,175,1003,217"/>
+<area shape="rect" id="node13" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="801,259,1008,285"/>
+</map>

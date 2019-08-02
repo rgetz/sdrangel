@@ -1,0 +1,11 @@
+<map id="LimeSDRInputGUI::setCenterFrequencyDisplay" name="LimeSDRInputGUI::setCenterFrequencyDisplay">
+<area shape="rect" id="node2" href="$d4/d53/classLimeSDRInputGUI.html#a5ed1f0d4a0b6d3cd99c68748e85d5d89" title="LimeSDRInputGUI::display\lSettings" alt="" coords="251,127,432,169"/>
+<area shape="rect" id="node9" href="$d4/d53/classLimeSDRInputGUI.html#a7a969868a574a6d42bddd046042a8fad" title="LimeSDRInputGUI::on\l_ncoEnable_toggled" alt="" coords="264,193,419,234"/>
+<area shape="rect" id="node10" href="$d4/d53/classLimeSDRInputGUI.html#aff1c650a2ab791e4b07c7e0485ab5e10" title="LimeSDRInputGUI::on\l_ncoFrequency_changed" alt="" coords="258,258,425,299"/>
+<area shape="rect" id="node3" href="$d4/d53/classLimeSDRInputGUI.html#a6ebbe3102bd706fb1b6874f5da5e1a76" title="LimeSDRInputGUI::deserialize" alt="" coords="761,21,963,48"/>
+<area shape="rect" id="node4" href="$d4/d53/classLimeSDRInputGUI.html#ac80027ee9587ad6fde5cbe739e217ef3" title="LimeSDRInputGUI::handleInput\lMessages" alt="" coords="759,145,965,186"/>
+<area shape="rect" id="node5" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="1013,181,1264,208"/>
+<area shape="rect" id="node6" href="$d4/d53/classLimeSDRInputGUI.html#a8f6b05357f9f3d98309cbfe22f195b2f" title="LimeSDRInputGUI::handleMessage" alt="" coords="480,160,711,187"/>
+<area shape="rect" id="node7" href="$d4/d53/classLimeSDRInputGUI.html#af71934eefe861b91fe23b2781a4f5d58" title="LimeSDRInputGUI::resetTo\lDefaults" alt="" coords="503,43,687,85"/>
+<area shape="rect" id="node8" href="$d4/d53/classLimeSDRInputGUI.html#ac7c10150e2e93ca11a687f87ebe602d7" title="LimeSDRInputGUI::setCenter\lFrequency" alt="" coords="497,262,694,303"/>
+</map>

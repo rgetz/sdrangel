@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceListItem::setDirection" name="SWGSDRangel::SWGDeviceListItem::setDirection">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a15f501434bcacfde796d991bd167dc69" title="WebAPIAdapterGUI::deviceset\lDevicePut" alt="" coords="269,5,473,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#aa69f61bd113948407636cf844ffbfd34" title="WebAPIAdapterSrv::deviceset\lDevicePut" alt="" coords="271,71,471,112"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#ab9163d1d6aed07a21f5de18832e10515" title="WebAPIRequestMapper\l::validateDeviceListItem" alt="" coords="290,136,453,177"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a60aa408cb1ab15269aba2da727e99342" title="WebAPIRequestMapper\l::devicesetDeviceService" alt="" coords="521,136,692,177"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="740,136,903,177"/>
+</map>

@@ -1,0 +1,61 @@
+<map id="BasebandSampleSource::getMessageQueueToGUI" name="BasebandSampleSource::getMessageQueueToGUI">
+<area shape="rect" id="node2" href="$dc/d8d/classSSBMod.html#abb41840f920195ad053a974fddb4fd51" title="SSBMod::applyAudioSampleRate" alt="" coords="232,132,451,159"/>
+<area shape="rect" id="node3" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="760,75,933,101"/>
+<area shape="rect" id="node12" href="$d2/d69/classATVMod.html#afe25407adbdab83a6d787491984aa758" title="ATVMod::applyChannelSettings" alt="" coords="237,284,445,311"/>
+<area shape="rect" id="node15" href="$d2/d69/classATVMod.html#a252e7a58cb70ea3edc1165f7c266fa99" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="508,277,680,304"/>
+<area shape="rect" id="node18" href="$d2/d69/classATVMod.html#accac8cb167adf2ab68b646b3d7f9819b" title="ATVMod::pullVideo" alt="" coords="779,379,914,405"/>
+<area shape="rect" id="node21" href="$d6/da5/classFreeDVMod.html#a99bbdebddb26a24e499fb668c4021792" title="FreeDVMod::applyFreeDVMode" alt="" coords="237,436,445,463"/>
+<area shape="rect" id="node25" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="751,505,942,532"/>
+<area shape="rect" id="node31" href="$d2/d69/classATVMod.html#a72a48b1e22aab5b059ef40fa93a3a1a0" title="ATVMod::applySettings" alt="" coords="261,183,421,209"/>
+<area shape="rect" id="node32" href="$d2/d69/classATVMod.html#a56ef398a00b7a699b9375fbb45942062" title="ATVMod::getCameraNumbers" alt="" coords="242,588,441,615"/>
+<area shape="rect" id="node42" href="$d9/db6/classFileSource.html#a8988a0909c9c3a891508f2b32c51abb7" title="FileSource::handleEOF" alt="" coords="515,841,673,868"/>
+<area shape="rect" id="node45" href="$db/d93/classAMMod.html#acd6c9fea90cb3a88360247196a94fe63" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="511,943,677,969"/>
+<area shape="rect" id="node47" href="$d6/de3/classWFMMod.html#a17f8e8203448d5f97fc8850ffd705b90" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="505,1019,683,1045"/>
+<area shape="rect" id="node49" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="507,1120,681,1147"/>
+<area shape="rect" id="node51" href="$d9/db6/classFileSource.html#abe173f556596f7b341e94a605c390243" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="503,740,685,767"/>
+<area shape="rect" id="node52" href="$d6/de3/classWFMMod.html#a6fef92693b893d6006c2501f137c87bb" title="WFMMod::openFileStream" alt="" coords="252,993,431,1020"/>
+<area shape="rect" id="node53" href="$db/d93/classAMMod.html#abe5c3b68c613442fe815152b9096187c" title="AMMod::openFileStream" alt="" coords="258,892,425,919"/>
+<area shape="rect" id="node54" href="$de/df8/classNFMMod.html#ad2f02928c881751e5a7b4633806d957a" title="NFMMod::openFileStream" alt="" coords="254,1095,429,1121"/>
+<area shape="rect" id="node55" href="$d6/da5/classFreeDVMod.html#a80dbd37d24f0b266db6e7120db497297" title="FreeDVMod::openFileStream" alt="" coords="499,537,689,564"/>
+<area shape="rect" id="node56" href="$dc/d8d/classSSBMod.html#a8f4a8ae0aa7d436a84b481224964b3ba" title="SSBMod::openFileStream" alt="" coords="507,17,681,44"/>
+<area shape="rect" id="node57" href="$d9/db6/classFileSource.html#abb1bf94733d6230872ff39117eba88e9" title="FileSource::openFileStream" alt="" coords="250,689,433,716"/>
+<area shape="rect" id="node58" href="$d2/d69/classATVMod.html#a38ece37bc4030e3802a9267a2f53d434" title="ATVMod::openVideo" alt="" coords="270,233,413,260"/>
+<area shape="rect" id="node59" href="$d9/db6/classFileSource.html#a2a85516ff1741b261f370cdd1cd449b8" title="FileSource::start" alt="" coords="282,841,401,868"/>
+<area shape="rect" id="node60" href="$d9/db6/classFileSource.html#a876cfdb6f54dacef797d807692cd4c5e" title="FileSource::stop" alt="" coords="283,740,400,767"/>
+<area shape="rect" id="node9" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="513,169,675,196"/>
+<area shape="rect" id="node4" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1013,75,1239,101"/>
+<area shape="rect" id="node5" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1325,75,1508,101"/>
+<area shape="rect" id="node6" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1634,75,1777,101"/>
+<area shape="rect" id="node7" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1873,75,2115,101"/>
+<area shape="rect" id="node8" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2172,75,2343,101"/>
+<area shape="rect" id="node10" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="779,147,914,173"/>
+<area shape="rect" id="node11" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1013,132,1239,188"/>
+<area shape="rect" id="node13" href="$d2/d69/classATVMod.html#a301c20c1f192bd8c9d23e19a4360ecfa" title="ATVMod::ATVMod" alt="" coords="528,220,660,247"/>
+<area shape="rect" id="node17" href="$d2/d69/classATVMod.html#a58566ca325ea9c1b757e6e70f4c7925d" title="ATVMod::start" alt="" coords="541,328,647,355"/>
+<area shape="rect" id="node14" href="$de/df4/classATVMod_1_1MsgReportEffectiveSampleRate.html#a2bcebe99221cf92b4e42d9780a33e450" title="ATVMod::MsgReportEffective\lSampleRate::MsgReportEffective\lSampleRate" alt="" coords="737,197,956,253"/>
+<area shape="rect" id="node16" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="1643,328,1767,355"/>
+<area shape="rect" id="node19" href="$d2/d69/classATVMod.html#a25a025965a496bf97686f6338245ec56" title="ATVMod::modulateSample" alt="" coords="1037,379,1215,405"/>
+<area shape="rect" id="node20" href="$d2/d69/classATVMod.html#af9c47208c17ca80b63b0674e59edfb5a" title="ATVMod::pull" alt="" coords="1366,379,1467,405"/>
+<area shape="rect" id="node22" href="$d6/da5/classFreeDVMod.html#a6131e286149905c42097a601ecbab55e" title="FreeDVMod::applySettings" alt="" coords="505,436,683,463"/>
+<area shape="rect" id="node23" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="761,440,932,467"/>
+<area shape="rect" id="node24" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="1013,429,1239,485"/>
+<area shape="rect" id="node26" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="1004,509,1248,536"/>
+<area shape="rect" id="node27" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1307,509,1526,536"/>
+<area shape="rect" id="node28" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1625,509,1785,536"/>
+<area shape="rect" id="node29" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1901,502,2087,543"/>
+<area shape="rect" id="node30" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2163,509,2352,536"/>
+<area shape="rect" id="node33" href="$da/d7c/classATVModGUI.html#aa80ea452eceea2be8fbf7c053bc379d2" title="ATVModGUI::ATVModGUI" alt="" coords="1036,597,1216,624"/>
+<area shape="rect" id="node37" href="$d2/d69/classATVMod.html#a4f4938654cd0f1d7ee79255b06850816" title="ATVMod::getMagSq" alt="" coords="524,639,664,665"/>
+<area shape="rect" id="node34" href="$da/d7c/classATVModGUI.html#acc137c14b5c145becb2951788aa55fdb" title="ATVModGUI::create" alt="" coords="1346,597,1487,624"/>
+<area shape="rect" id="node35" href="$d8/d6e/classATVModPlugin.html#a7357a4f5cfb9fd5dea8ee9cd8119ec1d" title="ATVModPlugin::createTxChannelGUI" alt="" coords="1585,597,1825,624"/>
+<area shape="rect" id="node36" href="$d8/d6e/classATVModPlugin.html#af24b49c750459e0b504133cea6910b93" title="ATVModPlugin::initPlugin" alt="" coords="1909,597,2079,624"/>
+<area shape="rect" id="node38" href="$da/d7c/classATVModGUI.html#a9c4e7723ac5178599eba54b302ba552f" title="ATVModGUI::tick" alt="" coords="783,623,910,649"/>
+<area shape="rect" id="node39" href="$d2/d69/classATVMod.html#a13fa69cc8187f5561a1d8c02e774fc5d" title="ATVMod::webapiFormatChannel\lReport" alt="" coords="741,674,952,715"/>
+<area shape="rect" id="node40" href="$d2/d69/classATVMod.html#a86c22cce0f16a636f3b49a23c4f4bd9d" title="ATVMod::webapiReportGet" alt="" coords="1035,681,1217,708"/>
+<area shape="rect" id="node41" href="$d2/d69/classATVMod.html#a2b0fbe9337e046718fa3ec3a96436ced" title="ATVMod::getStreamCenterFrequency" alt="" coords="1296,681,1537,708"/>
+<area shape="rect" id="node43" href="$d9/db6/classFileSource.html#a1e8eec24c8759c18fa47e66b15b1e45d" title="FileSource::pull" alt="" coords="791,841,903,868"/>
+<area shape="rect" id="node44" href="$d9/db6/classFileSource.html#ac6a5306a4a7b11087d5aab98f7cd1f16" title="FileSource::destroy" alt="" coords="1059,816,1193,843"/>
+<area shape="rect" id="node46" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="787,943,906,969"/>
+<area shape="rect" id="node48" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="781,1019,912,1045"/>
+<area shape="rect" id="node50" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="783,1120,910,1147"/>
+</map>

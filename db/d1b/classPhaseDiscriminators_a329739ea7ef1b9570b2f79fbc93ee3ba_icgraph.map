@@ -1,0 +1,20 @@
+<map id="PhaseDiscriminators::reset" name="PhaseDiscriminators::reset">
+<area shape="rect" id="node2" href="$d3/dbd/classWFMDemod.html#a479b78eb5669e656bbc54b2ab31e63b4" title="WFMDemod::start" alt="" coords="196,5,327,32"/>
+<area shape="rect" id="node4" href="$d6/d40/classDSDDemod.html#a8324e21c8612918d5903b9995e2b9eef" title="DSDDemod::start" alt="" coords="198,56,325,83"/>
+<area shape="rect" id="node10" href="$d2/d3d/classUDPSink.html#a32033a108a22368d55a64082d56b791c" title="UDPSink::start" alt="" coords="206,107,317,133"/>
+<area shape="rect" id="node17" href="$df/ddf/classNFMDemod.html#a4fc973a84199ee4463ed6ca2e7037822" title="NFMDemod::start" alt="" coords="198,157,325,184"/>
+<area shape="rect" id="node19" href="$d4/dd5/classBFMDemod.html#a9b80b585fab74f92db25fd2f3c345ad4" title="BFMDemod::start" alt="" coords="198,208,325,235"/>
+<area shape="rect" id="node3" href="$d3/dbd/classWFMDemod.html#a9b33a25f6872c716e49e50b36db3d071" title="WFMDemod::destroy" alt="" coords="401,5,548,32"/>
+<area shape="rect" id="node5" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="375,56,575,83"/>
+<area shape="rect" id="node6" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="623,56,843,83"/>
+<area shape="rect" id="node7" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="904,55,1065,81"/>
+<area shape="rect" id="node8" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1127,45,1317,86"/>
+<area shape="rect" id="node9" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1393,52,1584,79"/>
+<area shape="rect" id="node11" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="384,107,565,133"/>
+<area shape="rect" id="node12" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="667,107,798,133"/>
+<area shape="rect" id="node13" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="891,107,1079,133"/>
+<area shape="rect" id="node14" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1149,111,1295,137"/>
+<area shape="rect" id="node15" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1365,111,1612,137"/>
+<area shape="rect" id="node16" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1660,111,1835,137"/>
+<area shape="rect" id="node18" href="$df/ddf/classNFMDemod.html#adaa9ae3c488894b364f630d8ac7934ac" title="NFMDemod::destroy" alt="" coords="403,157,547,184"/>
+</map>

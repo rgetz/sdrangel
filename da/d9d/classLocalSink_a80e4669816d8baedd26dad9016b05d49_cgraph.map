@@ -1,0 +1,8 @@
+<map id="LocalSink::serialize" name="LocalSink::serialize">
+<area shape="rect" id="node2" href="$d1/d44/structLocalSinkSettings.html#a3522ae4c281979750e007643eb4caf4c" title="LocalSinkSettings::\lserialize" alt="" coords="188,74,323,115"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="376,5,552,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="371,56,557,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="375,107,553,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="390,157,538,184"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="605,56,780,83"/>
+</map>

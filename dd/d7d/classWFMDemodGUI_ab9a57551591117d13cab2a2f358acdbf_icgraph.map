@@ -1,0 +1,11 @@
+<map id="WFMDemodGUI::blockApplySettings" name="WFMDemodGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$dd/d7d/classWFMDemodGUI.html#ab0d0e90fdb6bb45ec8cfafe45d7d1ed5" title="WFMDemodGUI::displaySettings" alt="" coords="293,95,511,121"/>
+<area shape="rect" id="node5" href="$dd/d7d/classWFMDemodGUI.html#a0feead05701a15b62c609d36922e184c" title="WFMDemodGUI::handleMessage" alt="" coords="560,145,779,172"/>
+<area shape="rect" id="node3" href="$dd/d7d/classWFMDemodGUI.html#afa4186333d090626932c0bd0e62add52" title="WFMDemodGUI::resetToDefaults" alt="" coords="559,44,780,71"/>
+<area shape="rect" id="node4" href="$dd/d7d/classWFMDemodGUI.html#aa63686a1348119a83fc3bf167aacb208" title="WFMDemodGUI::deserialize" alt="" coords="830,55,1021,81"/>
+<area shape="rect" id="node7" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="1071,80,1297,107"/>
+<area shape="rect" id="node6" href="$dd/d7d/classWFMDemodGUI.html#a3009361bf5acca458a12256e0a6503ea" title="WFMDemodGUI::handleInput\lMessages" alt="" coords="828,127,1023,169"/>
+<area shape="rect" id="node8" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1345,80,1509,107"/>
+<area shape="rect" id="node9" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1557,80,1780,107"/>
+<area shape="rect" id="node10" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="1828,80,1979,107"/>
+</map>

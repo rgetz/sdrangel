@@ -1,0 +1,11 @@
+<map id="HackRFOutput::MsgConfigureHackRF::MsgConfigureHackRF" name="HackRFOutput::MsgConfigureHackRF::MsgConfigureHackRF">
+<area shape="rect" id="node2" href="$d5/d48/classHackRFOutput_1_1MsgConfigureHackRF.html#a5743f00c40516c526a6d3414a7b6cbc5" title="HackRFOutput::MsgConfigure\lHackRF::create" alt="" coords="263,107,461,148"/>
+<area shape="rect" id="node3" href="$dc/df6/classHackRFOutput.html#aa80c7c43778181f226f6b93f88b00f98" title="HackRFOutput::deserialize" alt="" coords="537,13,717,39"/>
+<area shape="rect" id="node5" href="$dc/df6/classHackRFOutput.html#a8813206301784320bf0925cca2ce2e00" title="HackRFOutput::setCenterFrequency" alt="" coords="509,63,745,90"/>
+<area shape="rect" id="node7" href="$dc/df6/classHackRFOutput.html#af8dd846352b6ce3ac49c54229454938a" title="HackRFOutput::handleMessage" alt="" coords="523,114,732,141"/>
+<area shape="rect" id="node8" href="$dc/df6/classHackRFOutput.html#aed6b54a2abec8c3dde34613646f4a20e" title="HackRFOutput::webapiSettings\lPutPatch" alt="" coords="524,165,731,207"/>
+<area shape="rect" id="node9" href="$d0/d64/classHackRFOutputGui.html#a34735ff0330dc3472cf221e819182d58" title="HackRFOutputGui::updateHardware" alt="" coords="511,231,744,258"/>
+<area shape="rect" id="node4" href="$dd/dfd/classHackRFOutput_1_1MsgReportHackRF.html#a5b710bd90a6c3c2e7c11e658594f5303" title="HackRFOutput::MsgReportHack\lRF::MsgReportHackRF" alt="" coords="810,5,1023,47"/>
+<area shape="rect" id="node6" href="$dc/df6/classHackRFOutput.html#a216c6ce9858362f5300a11d07347f5eb" title="For when the sink sample rate is set externally. " alt="" coords="813,114,1021,141"/>
+<area shape="rect" id="node10" href="$d0/d64/classHackRFOutputGui.html#a4b3ebe1ec8aeca8cb232c0d41f6a07de" title="HackRFOutputGui::HackRFOutputGui" alt="" coords="793,231,1040,258"/>
+</map>

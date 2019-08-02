@@ -1,0 +1,11 @@
+<map id="GLScopeGUI::changeCurrentTrace" name="GLScopeGUI::changeCurrentTrace">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#aab53e81c101efe762dd5a506f152498c" title="GLScopeGUI::on_amp\l_valueChanged" alt="" coords="265,5,420,47"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#aa8599935884c9cfacb14a1264bbc6a1a" title="GLScopeGUI::on_ofsCoarse\l_valueChanged" alt="" coords="248,71,437,112"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a3366539e1cea56381da907be8b79f532" title="GLScopeGUI::on_ofsFine\l_valueChanged" alt="" coords="257,136,429,177"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a6761398dd0c58a96e2d4af6a9e3f9619" title="GLScopeGUI::on_traceColor\l_clicked" alt="" coords="248,201,437,243"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#af164e405c9795b5591e1061a7b020457" title="GLScopeGUI::on_traceDel\l_clicked" alt="" coords="253,267,432,308"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#ab19a0421a2214626024121ecef82d714" title="GLScopeGUI::on_traceDelay\lCoarse_valueChanged" alt="" coords="247,332,439,373"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#ab6c958c7ca04db09c9d6d7280cbe5032" title="GLScopeGUI::on_traceDelay\lFine_valueChanged" alt="" coords="247,397,439,439"/>
+<area shape="rect" id="node9" href="$df/de2/classGLScopeGUI.html#a74bb022be411bc06126f911b5c071874" title="GLScopeGUI::on_traceMode\l_currentIndexChanged" alt="" coords="247,463,438,504"/>
+<area shape="rect" id="node10" href="$df/de2/classGLScopeGUI.html#aba13b6e4260190b1cb795bc5d0defa99" title="GLScopeGUI::on_traceView\l_toggled" alt="" coords="249,528,436,569"/>
+</map>

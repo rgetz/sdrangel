@@ -1,0 +1,53 @@
+<map id="MainCore::loadSettings" name="MainCore::loadSettings">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="244,667,375,693"/>
+<area shape="rect" id="node29" href="$db/d47/classMainCore.html#adc2dccf373007aa758c31ce89ec6c1be" title="MainCore::setLoggingOptions" alt="" coords="212,1212,407,1239"/>
+<area shape="rect" id="node51" href="$d5/df4/classMainSettings.html#a26a718c532a7924648ad13a8d34784b0" title="MainSettings::sortPresets" alt="" coords="223,1423,396,1449"/>
+<area shape="rect" id="node3" href="$d2/d60/classPreferences.html#a25b1c84e64baf2d997d6861688285760" title="Preferences::deserialize" alt="" coords="474,811,637,837"/>
+<area shape="rect" id="node12" href="$d1/dc7/classPreset.html#a6234f00b24f130c28318063d185e0ba1" title="Preset::deserialize" alt="" coords="490,667,621,693"/>
+<area shape="rect" id="node16" href="$d0/d40/classAudioDeviceManager.html#afca7fa560813a1404fa5c4ac0136398a" title="AudioDeviceManager\l::deserialize" alt="" coords="482,369,629,410"/>
+<area shape="rect" id="node22" href="$d3/d84/classAMBEEngine.html#a23baceae498b2bf1b94c4de6404cf105" title="AMBEEngine::deserialize" alt="" coords="470,56,641,83"/>
+<area shape="rect" id="node26" href="$d9/d71/classCommand.html#afa4e532294216c52ffa57aac27a120cd" title="Command::deserialize" alt="" coords="479,755,631,781"/>
+<area shape="rect" id="node28" href="$d9/d18/structDeviceUserArgs.html#a17dadf2390bbcdef5763ed52a4930dad" title="DeviceUserArgs::deserialize" alt="" coords="461,539,649,565"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="742,499,873,541"/>
+<area shape="rect" id="node5" href="$d2/d60/classPreferences.html#a63f1a59405d55e26e2c32ee1870795ee" title="Preferences::resetToDefaults" alt="" coords="711,996,904,1023"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="742,565,873,606"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="742,930,873,971"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="742,865,873,906"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a8fd742bd11d35703a58df7c15af1014a" title="SimpleDeserializer\l::readFloat" alt="" coords="742,1047,873,1089"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="742,747,873,789"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="974,806,1105,847"/>
+<area shape="rect" id="node13" href="$d1/dc7/classPreset.html#a3f0b72e2a82a164099a5489613294cfc" title="Preset::resetToDefaults" alt="" coords="727,696,888,723"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a90c7dffb2b72a1b12358f680e9dfa469" title="SimpleDeserializer\l::readU64" alt="" coords="742,630,873,671"/>
+<area shape="rect" id="node15" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="742,434,873,475"/>
+<area shape="rect" id="node17" href="$d0/d40/classAudioDeviceManager.html#ad2dcf9b41914117fee80967b34658a7f" title="AudioDeviceManager\l::debugAudioInputInfos" alt="" coords="729,173,885,214"/>
+<area shape="rect" id="node18" href="$d0/d40/classAudioDeviceManager.html#ac9e8355f3924c5ae049b8f94285f0d82" title="AudioDeviceManager\l::debugAudioOutputInfos" alt="" coords="724,238,891,279"/>
+<area shape="rect" id="node19" href="$d0/d40/classAudioDeviceManager.html#a02f6cc9a2c23ee34bb1f65dc8dcb8612" title="AudioDeviceManager\l::deserializeInputMap" alt="" coords="734,303,881,345"/>
+<area shape="rect" id="node20" href="$d0/d40/classAudioDeviceManager.html#ae2f4ee6208283c6491b88189b0fb071d" title="AudioDeviceManager\l::deserializeOutputMap" alt="" coords="729,369,885,410"/>
+<area shape="rect" id="node21" href="$d0/d40/classAudioDeviceManager.html#a1cea0a40508c93d86ca8b626462788f5" title="AudioDeviceManager\l::resetToDefaults" alt="" coords="734,107,881,149"/>
+<area shape="rect" id="node23" href="$d3/d84/classAMBEEngine.html#a4863b9f98ff27149ceef1c032466e4fe" title="create a new controller for the device in reference " alt="" coords="704,56,911,83"/>
+<area shape="rect" id="node25" href="$d3/d84/classAMBEEngine.html#afafce8a3aecb8badbbaff3312982830f" title="AMBEEngine::releaseAll" alt="" coords="725,5,890,32"/>
+<area shape="rect" id="node24" href="$d0/d9e/classAMBEWorker.html#aab393e37af61bfd0a3e5ea8fe6647c0b" title="Either serial device or ip:port. " alt="" coords="970,56,1109,83"/>
+<area shape="rect" id="node27" href="$d9/d71/classCommand.html#a82ae901e95044f61546d0c080cb24cfe" title="Command::resetToDefaults" alt="" coords="716,813,899,840"/>
+<area shape="rect" id="node30" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#addee7a38837e83f163e676f4ae7722c1" title="qtwebapp::LoggerWithFile\l::setConsoleMinMessageLevel" alt="" coords="455,1485,656,1526"/>
+<area shape="rect" id="node32" href="$d5/df4/classMainSettings.html#a735e82e6baada4c111b2419e799931ed" title="MainSettings::getConsole\lMinLogLevel" alt="" coords="469,1550,641,1591"/>
+<area shape="rect" id="node33" href="$d5/df4/classMainSettings.html#a5e23bd1ba797bb917b06b621e4e1fb1c" title="MainSettings::getUseLogFile" alt="" coords="460,872,651,899"/>
+<area shape="rect" id="node34" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a5200e4b55c4281acc3678dbd2c6567e4" title="qtwebapp::LoggerWithFile\l::hasFileLogger" alt="" coords="469,923,642,965"/>
+<area shape="rect" id="node35" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a7eabc54fb5f3ae227e1e797307332bf1" title="qtwebapp::LoggerWithFile\l::getFileLoggerSettings" alt="" coords="469,989,642,1030"/>
+<area shape="rect" id="node36" href="$d5/df4/classMainSettings.html#aadd15621f2b35ad36fad3c607a6a7edc" title="MainSettings::getLogFileName" alt="" coords="455,1055,656,1081"/>
+<area shape="rect" id="node37" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a9c487ee640571c4bfca6318ea0911567" title="qtwebapp::LoggerWithFile\l::createOrSetFileLogger" alt="" coords="469,1106,642,1147"/>
+<area shape="rect" id="node39" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a2f1aa36d5db5df70d7feb68332e85fef" title="qtwebapp::LoggerWithFile\l::setFileMinMessageLevel" alt="" coords="468,1419,643,1461"/>
+<area shape="rect" id="node40" href="$d5/df4/classMainSettings.html#a78ca40ae41f15383a0b55f79f294d067" title="MainSettings::getFileMin\lLogLevel" alt="" coords="472,1171,639,1213"/>
+<area shape="rect" id="node41" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#aad054f26866f0d9aca10a2e2f4b5e025" title="qtwebapp::LoggerWithFile\l::setUseFileLogger" alt="" coords="469,1237,642,1278"/>
+<area shape="rect" id="node42" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="535,1303,575,1329"/>
+<area shape="rect" id="node47" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#abf2f7fc79f61bffe311ec1ee868a12b3" title="qtwebapp::LoggerWithFile\l::logToFile" alt="" coords="469,1354,642,1395"/>
+<area shape="rect" id="node31" href="$dd/dde/classqtwebapp_1_1Logger.html#a897b439f313a82f4020c3e2873ab5a40" title="qtwebapp::Logger::setMin\lMessageLevel" alt="" coords="721,1451,893,1493"/>
+<area shape="rect" id="node38" href="$df/d52/classqtwebapp_1_1FileLogger.html#ae9b256026386974affa23c95d09c3012" title="qtwebapp::FileLogger\l::setFileLoggerSettings" alt="" coords="729,1113,885,1154"/>
+<area shape="rect" id="node43" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="753,1303,861,1329"/>
+<area shape="rect" id="node44" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="965,1237,1113,1278"/>
+<area shape="rect" id="node45" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1189,1303,1307,1329"/>
+<area shape="rect" id="node46" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1181,1237,1315,1278"/>
+<area shape="rect" id="node48" href="$dd/dde/classqtwebapp_1_1Logger.html#af731fc45cf731695d5f971472032190d" title="qtwebapp::Logger::log" alt="" coords="732,1361,883,1388"/>
+<area shape="rect" id="node49" href="$dd/dde/classqtwebapp_1_1Logger.html#a69f50fe67efaa254ee219f6de384e9fa" title="qtwebapp::Logger::write" alt="" coords="959,1361,1120,1388"/>
+<area shape="rect" id="node50" href="$df/d78/classqtwebapp_1_1LogMessage.html#a0afc95ed8eb8b5cc611b5b9436f65053" title="qtwebapp::LogMessage\l::toString" alt="" coords="1168,1354,1328,1395"/>
+<area shape="rect" id="node52" href="$d1/dc7/classPreset.html#ae5419aa7cea660134622638d188bc826" title="Preset::presetCompare" alt="" coords="477,1616,634,1643"/>
+</map>

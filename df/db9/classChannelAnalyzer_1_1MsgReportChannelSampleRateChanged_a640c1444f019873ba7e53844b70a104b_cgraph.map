@@ -1,0 +1,45 @@
+<map id="ChannelAnalyzer::MsgReportChannelSampleRateChanged::MsgReportChannelSampleRateChanged" name="ChannelAnalyzer::MsgReportChannelSampleRateChanged::MsgReportChannelSampleRateChanged">
+<area shape="rect" id="node2" href="$dc/d0c/classChannelAnalyzer.html#aa5722c96c8e5559f05af3dec9d27c71a" title="ChannelAnalyzer::Channel\lAnalyzer" alt="" coords="324,333,501,375"/>
+<area shape="rect" id="node39" href="$dc/d0c/classChannelAnalyzer.html#a4326f76afbcfd371f5fb1b33b40dca91" title="ChannelAnalyzer::~Channel\lAnalyzer" alt="" coords="320,155,505,196"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a39a612869ee44449bd80a146184ad721" title="Add a channel sink (Rx) " alt="" coords="565,311,753,338"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a1c01820624b40694bd7cb20c2605e04e" title="DeviceAPI::addChannelSinkAPI" alt="" coords="553,227,764,254"/>
+<area shape="rect" id="node9" href="$dc/d0c/classChannelAnalyzer.html#a25e568903b6b40d6994fe7ffacd80d16" title="ChannelAnalyzer::applyChannel\lSettings" alt="" coords="555,687,763,728"/>
+<area shape="rect" id="node36" href="$dc/d0c/classChannelAnalyzer.html#a535b9927e11ca7845fca2d7fd5e51e3d" title="ChannelAnalyzer::applySettings" alt="" coords="555,589,763,615"/>
+<area shape="rect" id="node38" href="$da/d6f/classPhaseLockComplex.html#a7ffb1e7e14ec981512ca0efe00258a49" title="PhaseLockComplex::compute\lCoefficients" alt="" coords="560,363,757,404"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a74159be7b1305ac70ceb988349c1d799" title="Add a sample sink that will run on its own thread. " alt="" coords="845,239,1017,280"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html#a26be0a9b84c19cc4ad6891104af2a316" title="Add a channel sink that will run on its own thread. " alt="" coords="847,304,1014,345"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1104,162,1283,189"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="824,187,1037,214"/>
+<area shape="rect" id="node10" href="$d3/df3/classInterpolator.html#a0202c4edcf49fe8b50ebeb20b88ad630" title="Interpolator::create" alt="" coords="865,791,996,818"/>
+<area shape="rect" id="node13" href="$dc/d0c/classChannelAnalyzer.html#a2a86bf866af78ecd7905a3f0b49b0170" title="ChannelAnalyzer::setFilters" alt="" coords="839,741,1022,767"/>
+<area shape="rect" id="node31" href="$d0/d17/classNCOF.html#abe6b2ef5fff0bb0187711d3eee84c48d" title="NCOF::setFreq" alt="" coords="875,842,987,869"/>
+<area shape="rect" id="node32" href="$d9/d40/classFreqLockComplex.html#a1aa34390064d37bfaf4782d02f70739c" title="FreqLockComplex::setSampleRate" alt="" coords="817,639,1044,666"/>
+<area shape="rect" id="node34" href="$da/d6f/classPhaseLockComplex.html#ac8033c98193c4e7340216328b7e2e09c" title="PhaseLockComplex::setSampleRate" alt="" coords="812,538,1049,565"/>
+<area shape="rect" id="node11" href="$d3/df3/classInterpolator.html#a4f2a03f6cd2383ba5e8b45a93c2404d3" title="Interpolator::free" alt="" coords="1135,849,1252,875"/>
+<area shape="rect" id="node12" href="$d3/df3/classInterpolator.html#a9e863174b768230123fa551a681705ef" title="Interpolator::createPolyphase\lLowPass" alt="" coords="1097,900,1289,941"/>
+<area shape="rect" id="node14" href="$d0/de5/classfftfilt.html#a531260d8ef2fec1e687cf4104900f389" title="fftfilt::create_dsb\l_filter" alt="" coords="1133,783,1253,824"/>
+<area shape="rect" id="node28" href="$d0/de5/classfftfilt.html#a20bd094cf966c84ef947054c99e6f1b0" title="fftfilt::create_filter" alt="" coords="1131,731,1255,758"/>
+<area shape="rect" id="node29" href="$d0/de5/classfftfilt.html#aa456535dc37781fa54688dd8717c47c2" title="root raised cosine. fb is half the band pass " alt="" coords="1136,665,1251,707"/>
+<area shape="rect" id="node15" href="$d0/de5/classfftfilt.html#a4163deee5b1bdf9acd61e7be762666c1" title="fftfilt::fsinc" alt="" coords="1361,837,1445,863"/>
+<area shape="rect" id="node22" href="$d0/de5/classfftfilt.html#a3531ed41365780a0f2f2f60ca3c07125" title="fftfilt::_blackman" alt="" coords="1344,735,1463,762"/>
+<area shape="rect" id="node25" href="$d9/daf/classg__fft.html#afd76303c0010b4718ead81ad66e0e1fb" title="g_fft::ComplexFFT" alt="" coords="1337,786,1469,813"/>
+<area shape="rect" id="node26" href="$dd/d58/fixed_8h.html#a8f22b20379bd986a21335100e02cc7db" title="abs" alt="" coords="1382,685,1425,711"/>
+<area shape="rect" id="node16" href="$dd/d58/fixed_8h.html#a6fe9633e9b49ad637871e9ffa468bdc5" title="sin" alt="" coords="1539,786,1578,813"/>
+<area shape="rect" id="node17" href="$dd/d7b/classFixed.html#a341f37b4ca17d3ffa330a82a0ae61d1a" title="Fixed::sin" alt="" coords="1650,761,1729,787"/>
+<area shape="rect" id="node18" href="$dd/d7b/classFixed.html#a86dcc54b1001f704bcf1c67481782b6e" title="Fixed::sin_cos" alt="" coords="1779,735,1885,762"/>
+<area shape="rect" id="node19" href="$dd/d7b/classFixed.html#a31f005fda0e3b89b530e756087c3aa25" title="Fixed::perform_cordic\l_rotation" alt="" coords="1933,728,2081,769"/>
+<area shape="rect" id="node20" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="2137,706,2256,733"/>
+<area shape="rect" id="node21" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="2129,757,2264,799"/>
+<area shape="rect" id="node23" href="$dd/d58/fixed_8h.html#ad198a68ce3c4a9f529af53f662f45e36" title="cos" alt="" coords="1537,659,1580,686"/>
+<area shape="rect" id="node24" href="$dd/d7b/classFixed.html#aee3b063e4154e3244766db7d43e46902" title="Fixed::cos" alt="" coords="1648,698,1731,725"/>
+<area shape="rect" id="node27" href="$dd/d7b/classFixed.html#a62cb73f2f5151a99b8d3206136e9c951" title="Fixed::abs" alt="" coords="1517,710,1600,737"/>
+<area shape="rect" id="node30" href="$d0/de5/classfftfilt.html#aaa30918bc9ad475f3e962540ccaf13e7" title="fftfilt::frrc" alt="" coords="1366,634,1441,661"/>
+<area shape="rect" id="node33" href="$d9/d40/classFreqLockComplex.html#ae827acdc42e303ed618c2426a284b347" title="FreqLockComplex::reset" alt="" coords="1111,597,1276,623"/>
+<area shape="rect" id="node35" href="$da/d6f/classPhaseLockComplex.html#ab22486e0816ee5bb2e86049dfed4ca1e" title="PhaseLockComplex::reset" alt="" coords="1105,450,1281,477"/>
+<area shape="rect" id="node37" href="$da/d6f/classPhaseLockComplex.html#a7dd0013bfb04e3c7be5fef19058266f7" title="PhaseLockComplex::setPsk\lOrder" alt="" coords="837,472,1025,513"/>
+<area shape="rect" id="node40" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="553,78,764,105"/>
+<area shape="rect" id="node43" href="$dd/db6/classDeviceAPI.html#a0256b15fffe8fe72d67a3c7f48dd1de3" title="DeviceAPI::removeChannel\lSinkAPI" alt="" coords="567,155,751,196"/>
+<area shape="rect" id="node41" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3dbc76bc6de91d8fe553d3a70ee6f287" title="Remove a sample sink that runs on its own thread. " alt="" coords="845,71,1017,112"/>
+<area shape="rect" id="node42" href="$df/d80/classDSPDeviceMIMOEngine.html#abfc2e3f0274e76009daa461526fb810e" title="Remove a channel sink that runs on its own thread. " alt="" coords="847,5,1014,47"/>
+<area shape="rect" id="node44" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="819,137,1042,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DeviceAPI::addChannelSink" name="DeviceAPI::addChannelSink">
+<area shape="rect" id="node2" href="$df/d80/classDSPDeviceMIMOEngine.html#a26be0a9b84c19cc4ad6891104af2a316" title="Add a channel sink that will run on its own thread. " alt="" coords="244,5,411,47"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a74159be7b1305ac70ceb988349c1d799" title="Add a sample sink that will run on its own thread. " alt="" coords="241,71,413,112"/>
+<area shape="rect" id="node3" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="461,46,640,73"/>
+</map>

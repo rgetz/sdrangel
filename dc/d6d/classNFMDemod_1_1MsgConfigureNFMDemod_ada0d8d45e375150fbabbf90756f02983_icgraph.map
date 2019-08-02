@@ -1,0 +1,10 @@
+<map id="NFMDemod::MsgConfigureNFMDemod::getSettings" name="NFMDemod::MsgConfigureNFMDemod::getSettings">
+<area shape="rect" id="node2" href="$d3/d95/classNFMDemodGUI.html#ae1131512cf5d5c70f7f9e1313a670df9" title="NFMDemodGUI::handleMessage" alt="" coords="307,15,523,42"/>
+<area shape="rect" id="node8" href="$df/ddf/classNFMDemod.html#ae02dd8d2d4119bb1273ac19482b37393" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="319,67,511,94"/>
+<area shape="rect" id="node3" href="$d3/d95/classNFMDemodGUI.html#a91591b7ae3722a49bce187fcc9488057" title="NFMDemodGUI::handleInput\lMessages" alt="" coords="571,5,763,47"/>
+<area shape="rect" id="node4" href="$d3/d95/classNFMDemodGUI.html#a6c3832ae9989675c2343a580bd3bdf7e" title="NFMDemodGUI::NFMDemodGUI" alt="" coords="811,13,1031,39"/>
+<area shape="rect" id="node5" href="$d3/d95/classNFMDemodGUI.html#af49e6c079fb7a1e49ebb6662c6a6ef95" title="NFMDemodGUI::create" alt="" coords="1079,13,1240,39"/>
+<area shape="rect" id="node6" href="$d8/d38/classNFMPlugin.html#a1c5b954f9a47c0bce00a111ac9300b32" title="NFMPlugin::createRxChannelGUI" alt="" coords="1288,13,1508,39"/>
+<area shape="rect" id="node7" href="$d8/d38/classNFMPlugin.html#a536ce48243ba9169a2ed880db0d341ad" title="NFMPlugin::initPlugin" alt="" coords="1556,13,1704,39"/>
+<area shape="rect" id="node9" href="$df/ddf/classNFMDemod.html#adaa9ae3c488894b364f630d8ac7934ac" title="NFMDemod::destroy" alt="" coords="595,71,739,98"/>
+</map>

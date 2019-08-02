@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGAirspyHFSettings::setFileRecordName" name="SWGSDRangel::SWGAirspyHFSettings::setFileRecordName">
+<area shape="rect" id="node2" href="$d2/d00/classAirspyHFInput.html#afe4c097e886cb53850ffb5f41febc83d" title="AirspyHFInput::webapiFormat\lDeviceSettings" alt="" coords="563,57,759,98"/>
+<area shape="rect" id="node8" href="$d2/d00/classAirspyHFInput.html#a54ef9c96ee111eb2bd1e5b19982cf278" title="AirspyHFInput::webapiReverse\lSendSettings" alt="" coords="311,141,515,182"/>
+<area shape="rect" id="node3" href="$d2/d00/classAirspyHFInput.html#aa57c5060b10261e0e52e7a2c89117ec2" title="AirspyHFInput::webapiSettingsGet" alt="" coords="807,5,1031,32"/>
+<area shape="rect" id="node7" href="$d2/d00/classAirspyHFInput.html#ae07633d045bd0ccb2086abe36c1ce418" title="AirspyHFInput::webapiSettings\lPutPatch" alt="" coords="817,57,1020,98"/>
+<area shape="rect" id="node4" href="$d2/d00/classAirspyHFInput.html#a5dc37f4555107ec0badd0749bb37894e" title="AirspyHFInput::getSample\lRates" alt="" coords="1088,57,1264,98"/>
+<area shape="rect" id="node5" href="$d2/d00/classAirspyHFInput.html#a1d9e33f17961c59899bb2bb9e556a7c0" title="AirspyHFInput::webapiFormat\lDeviceReport" alt="" coords="1321,27,1517,69"/>
+<area shape="rect" id="node6" href="$d2/d00/classAirspyHFInput.html#adb85453a3249fc95d59eaea43a759338" title="AirspyHFInput::webapiReportGet" alt="" coords="1565,64,1780,91"/>
+<area shape="rect" id="node9" href="$d2/d00/classAirspyHFInput.html#a0868c8983c7881267233b4d9ed400eca" title="AirspyHFInput::applySettings" alt="" coords="564,148,757,175"/>
+<area shape="rect" id="node10" href="$d2/d00/classAirspyHFInput.html#a82e515162967e6eceae2aaa307d30df3" title="AirspyHFInput::handleMessage" alt="" coords="816,123,1021,149"/>
+<area shape="rect" id="node11" href="$d2/d00/classAirspyHFInput.html#a2a458bb474f8131eb0b45a8f0d2deaa5" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="853,173,984,200"/>
+<area shape="rect" id="node13" href="$d2/d00/classAirspyHFInput.html#ab7512fd8a41da0cef00af7639d2d92c6" title="AirspyHFInput::start" alt="" coords="849,224,989,251"/>
+<area shape="rect" id="node12" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#a35999d6c1ec18257ae6f1998efe21ea8" title="AirspyHFInput::MsgStartStop\l::MsgStartStop" alt="" coords="1079,191,1273,233"/>
+</map>

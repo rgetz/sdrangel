@@ -1,0 +1,6 @@
+<map id="FileSinkGui::on_showFileDialog_clicked" name="FileSinkGui::on_showFileDialog_clicked">
+<area shape="rect" id="node2" href="$de/de4/classFileSinkGui.html#aa22b475074d40c87d79d45ae3d139b6d" title="FileSinkGui::configureFileName" alt="" coords="224,78,431,105"/>
+<area shape="rect" id="node3" href="$d7/d72/classFileSinkOutput_1_1MsgConfigureFileSinkName.html#acdee4d4331bf3bbabcc1fc4586c0fa6e" title="FileSinkOutput::MsgConfigure\lFileSinkName::create" alt="" coords="479,5,676,47"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="483,71,671,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="503,137,652,163"/>
+</map>

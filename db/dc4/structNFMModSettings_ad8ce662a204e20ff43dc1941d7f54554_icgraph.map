@@ -1,0 +1,8 @@
+<map id="NFMModSettings::getRFBW" name="NFMModSettings::getRFBW">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="523,34,709,61"/>
+<area shape="rect" id="node6" href="$df/d1f/classNFMModGUI.html#a0d29f1bb48f08a8b19f7561a1139b2a3" title="NFMModGUI::on_rfBW\l_currentIndexChanged" alt="" coords="280,27,439,68"/>
+<area shape="rect" id="node7" href="$db/dc4/structNFMModSettings.html#aef07f4edc48ad79d861a2285d5731536" title="NFMModSettings::setCWKeyerGUI" alt="" coords="244,93,475,120"/>
+<area shape="rect" id="node3" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="757,34,901,61"/>
+<area shape="rect" id="node4" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="949,34,1192,61"/>
+<area shape="rect" id="node5" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1240,34,1413,61"/>
+</map>

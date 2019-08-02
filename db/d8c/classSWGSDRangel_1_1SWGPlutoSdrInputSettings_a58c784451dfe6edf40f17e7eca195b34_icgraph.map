@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGPlutoSdrInputSettings::setTransverterDeltaFrequency" name="SWGSDRangel::SWGPlutoSdrInputSettings::setTransverterDeltaFrequency">
+<area shape="rect" id="node2" href="$d2/d3a/classPlutoSDRInput.html#af8afc54a8f522e322e77d550b528a54a" title="PlutoSDRInput::webapiFormat\lDeviceSettings" alt="" coords="513,57,713,98"/>
+<area shape="rect" id="node6" href="$d2/d3a/classPlutoSDRInput.html#afe408663ea57280d64b310d59c167682" title="PlutoSDRInput::webapiReverse\lSendSettings" alt="" coords="257,141,465,182"/>
+<area shape="rect" id="node3" href="$d2/d3a/classPlutoSDRInput.html#ae32e0cc721915bab0d81182ae023635d" title="PlutoSDRInput::webapiSettingsGet" alt="" coords="761,5,989,32"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#a6af88fd0944b787b89c23d86538ec64c" title="PlutoSDRInput::webapiSettings\lPutPatch" alt="" coords="772,57,979,98"/>
+<area shape="rect" id="node4" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="1037,64,1245,91"/>
+<area shape="rect" id="node7" href="$d2/d3a/classPlutoSDRInput.html#ae5f536a2e37bd78859b82a18adcb17b1" title="PlutoSDRInput::applySettings" alt="" coords="515,148,712,175"/>
+<area shape="rect" id="node8" href="$d2/d3a/classPlutoSDRInput.html#a9afd466714904b65e49763015e29e79b" title="PlutoSDRInput::handleMessage" alt="" coords="771,123,980,149"/>
+<area shape="rect" id="node9" href="$d2/d3a/classPlutoSDRInput.html#a2bf0318755e5aa6874bdfec176d7d2d2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="808,173,943,200"/>
+<area shape="rect" id="node11" href="$d2/d3a/classPlutoSDRInput.html#ac87318bcbf81306f72de477bcd2b87fc" title="PlutoSDRInput::start" alt="" coords="803,224,947,251"/>
+<area shape="rect" id="node10" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="1042,191,1241,233"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ScopeVis::initTraceBuffers" name="ScopeVis::initTraceBuffers">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#a4851b721b427be87db7eecb17895f8e3" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="445,13,623,39"/>
+<area shape="rect" id="node4" href="$d7/dcf/classScopeVis.html#a44ad978f3686953d924526fde198aa20" title="ScopeVis::processTrace" alt="" coords="232,95,397,122"/>
+<area shape="rect" id="node7" href="$d7/dcf/classScopeVis.html#a591dc341b92db77b13afd515d386f58e" title="ScopeVis::setTraceSize" alt="" coords="233,45,396,71"/>
+<area shape="rect" id="node3" href="$d2/df7/classSpectrumScopeComboVis.html#a26a00afdc6c2f2c5e59015734cbcc251" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="671,5,847,47"/>
+<area shape="rect" id="node5" href="$d7/dcf/classScopeVis.html#a51ae70c412e56e544b85a962c801c67a" title="ScopeVis::feed" alt="" coords="479,95,589,122"/>
+<area shape="rect" id="node6" href="$d2/df7/classSpectrumScopeComboVis.html#ae8a70537f6057d7ac0386ce2a5244673" title="SpectrumScopeComboVis\l::feed" alt="" coords="671,88,847,129"/>
+</map>

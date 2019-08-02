@@ -1,0 +1,111 @@
+<map id="DeviceAPI::configureCorrections" name="DeviceAPI::configureCorrections">
+<area shape="rect" id="node2" href="$d9/d2b/classTestSourceInput.html#a62072416ddd710a01feae029571840ff" title="TestSourceInput::applySettings" alt="" coords="270,81,475,108"/>
+<area shape="rect" id="node8" href="$d2/d3a/classBladerf1Input.html#a05bca0cc60f8407cf0c42dc093d487b9" title="Bladerf1Input::applySettings" alt="" coords="279,233,466,260"/>
+<area shape="rect" id="node14" href="$d9/d02/classAirspyInput.html#a7f7bedd1a7464e906e12ac6f4a6f5c0d" title="AirspyInput::applySettings" alt="" coords="285,385,460,412"/>
+<area shape="rect" id="node22" href="$d2/d00/classAirspyHFInput.html#a0868c8983c7881267233b4d9ed400eca" title="AirspyHFInput::applySettings" alt="" coords="276,537,469,564"/>
+<area shape="rect" id="node30" href="$d7/da7/classTestMI.html#a9f64c4a053f84986cd1669c95cd39235" title="TestMI::applySettings" alt="" coords="297,689,448,716"/>
+<area shape="rect" id="node36" href="$d0/d36/classRTLSDRInput.html#aefb8491a39b2c5efeae1af6a3686d046" title="RTLSDRInput::applySettings" alt="" coords="277,841,469,868"/>
+<area shape="rect" id="node42" href="$d2/d3a/classPlutoSDRInput.html#ae5f536a2e37bd78859b82a18adcb17b1" title="PlutoSDRInput::applySettings" alt="" coords="274,993,471,1020"/>
+<area shape="rect" id="node48" href="$d2/d57/classHackRFInput.html#a78599ec02456151749280eeab1c32e09" title="HackRFInput::applySettings" alt="" coords="279,1145,466,1172"/>
+<area shape="rect" id="node54" href="$d6/d0c/classFCDProPlusInput.html#abc1e2ec4e142083ff3d6485b20b36154" title="FCDProPlusInput::applySettings" alt="" coords="267,1297,479,1324"/>
+<area shape="rect" id="node58" href="$d4/dbc/classKiwiSDRInput.html#a29e737cd6de8d5f348129f09b0d7a362" title="KiwiSDRInput::applySettings" alt="" coords="277,1399,469,1425"/>
+<area shape="rect" id="node65" href="$d8/d47/classLocalInput.html#ad33a3fb9846a5afc48ec1c3526499b9b" title="LocalInput::applySettings" alt="" coords="288,1525,457,1552"/>
+<area shape="rect" id="node69" href="$db/d44/classFCDProInput.html#a03ea5225051b00c5b887e78d390fc962" title="FCDProInput::applySettings" alt="" coords="279,1652,466,1679"/>
+<area shape="rect" id="node73" href="$dc/d8c/classSDRPlayInput.html#a54771c9d02bc434729308f2d73c84335" title="SDRPlayInput::applySettings" alt="" coords="276,1804,469,1831"/>
+<area shape="rect" id="node79" href="$d6/d2d/classBladeRF2Input.html#af237ed1f36c20e4a5fb2d7717d310fa8" title="BladeRF2Input::applySettings" alt="" coords="275,1956,471,1983"/>
+<area shape="rect" id="node88" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="271,2083,475,2109"/>
+<area shape="rect" id="node91" href="$dc/d14/classXTRXInput.html#a9689478882906279e1d4da7039ee9e99" title="XTRXInput::applySettings" alt="" coords="285,2235,460,2261"/>
+<area shape="rect" id="node100" href="$df/d1b/classLimeSDRInput.html#aa7ed54a39044881adbfdc15391b12754" title="LimeSDRInput::applySettings" alt="" coords="275,2473,470,2500"/>
+<area shape="rect" id="node106" href="$d3/d67/classRemoteInput.html#af18aff424c66d86afda03bec8ecb6ff2" title="RemoteInput::applySettings" alt="" coords="281,2613,465,2640"/>
+<area shape="rect" id="node3" href="$d9/d2b/classTestSourceInput.html#ac33252a3f42099343a427efb1149072d" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="567,5,710,32"/>
+<area shape="rect" id="node5" href="$d9/d2b/classTestSourceInput.html#ad9576782a0c0081f8c4e106279a66a08" title="TestSourceInput::start" alt="" coords="563,56,715,83"/>
+<area shape="rect" id="node6" href="$d9/d2b/classTestSourceInput.html#aff00c043f6fb62fc1c84b40220390c0c" title="TestSourceInput::handleMessage" alt="" coords="530,107,747,133"/>
+<area shape="rect" id="node4" href="$d6/d4f/classTestSourceInput_1_1MsgStartStop.html#ab5d26e197edbd7b6bafe75bbe72e4a2b" title="TestSourceInput::MsgStart\lStop::MsgStartStop" alt="" coords="835,19,1013,61"/>
+<area shape="rect" id="node7" href="$d9/d2b/classTestSourceInput.html#a1e8134add18d5b24f054939ffb07b5c4" title="For when the source sample rate is set externally. " alt="" coords="816,107,1032,133"/>
+<area shape="rect" id="node9" href="$d2/d3a/classBladerf1Input.html#a6c4e0a3d3ebf4db879eda85cda11c5ab" title="Bladerf1Input::handleMessage" alt="" coords="539,157,738,184"/>
+<area shape="rect" id="node11" href="$d2/d3a/classBladerf1Input.html#a99033280ab77a3a3d2c9163769aea957" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="577,208,701,235"/>
+<area shape="rect" id="node13" href="$d2/d3a/classBladerf1Input.html#a19445b7907f90d945dc6fa824d00f118" title="Bladerf1Input::start" alt="" coords="572,259,705,285"/>
+<area shape="rect" id="node10" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="825,157,1023,184"/>
+<area shape="rect" id="node12" href="$d4/d7a/classBladerf1Input_1_1MsgStartStop.html#aece111352ba192c6c19b8248ed7c2ab2" title="Bladerf1Input::MsgStartStop\l::MsgStartStop" alt="" coords="831,226,1017,267"/>
+<area shape="rect" id="node15" href="$d9/d02/classAirspyInput.html#afd55ebeeda530defd16a540d9e45db03" title="AirspyInput::handleMessage" alt="" coords="545,309,732,336"/>
+<area shape="rect" id="node19" href="$d9/d02/classAirspyInput.html#a5cf81deef204e567a7021bf3215f9c16" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="582,360,695,387"/>
+<area shape="rect" id="node21" href="$d9/d02/classAirspyInput.html#a85977f612cada53a781dd21d4bc212d1" title="AirspyInput::start" alt="" coords="577,411,700,437"/>
+<area shape="rect" id="node16" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="827,309,1021,336"/>
+<area shape="rect" id="node17" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="1116,273,1295,314"/>
+<area shape="rect" id="node18" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="1372,309,1569,336"/>
+<area shape="rect" id="node20" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#aeca295550ded5e555c36b08e2b2764f4" title="AirspyInput::MsgStartStop\l::MsgStartStop" alt="" coords="836,374,1012,415"/>
+<area shape="rect" id="node23" href="$d2/d00/classAirspyHFInput.html#a82e515162967e6eceae2aaa307d30df3" title="AirspyHFInput::handleMessage" alt="" coords="536,461,741,488"/>
+<area shape="rect" id="node27" href="$d2/d00/classAirspyHFInput.html#a2a458bb474f8131eb0b45a8f0d2deaa5" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="573,512,704,539"/>
+<area shape="rect" id="node29" href="$d2/d00/classAirspyHFInput.html#ab7512fd8a41da0cef00af7639d2d92c6" title="AirspyHFInput::start" alt="" coords="569,563,709,589"/>
+<area shape="rect" id="node24" href="$d2/d00/classAirspyHFInput.html#a5dc37f4555107ec0badd0749bb37894e" title="AirspyHFInput::getSample\lRates" alt="" coords="836,454,1012,495"/>
+<area shape="rect" id="node25" href="$d2/d00/classAirspyHFInput.html#a1d9e33f17961c59899bb2bb9e556a7c0" title="AirspyHFInput::webapiFormat\lDeviceReport" alt="" coords="1107,425,1303,466"/>
+<area shape="rect" id="node26" href="$d2/d00/classAirspyHFInput.html#adb85453a3249fc95d59eaea43a759338" title="AirspyHFInput::webapiReportGet" alt="" coords="1363,461,1578,488"/>
+<area shape="rect" id="node28" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#a35999d6c1ec18257ae6f1998efe21ea8" title="AirspyHFInput::MsgStartStop\l::MsgStartStop" alt="" coords="827,538,1021,579"/>
+<area shape="rect" id="node31" href="$d7/da7/classTestMI.html#a23fb9b2a305aeed16d81bc6e33a60c97" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="595,613,683,640"/>
+<area shape="rect" id="node33" href="$d7/da7/classTestMI.html#a0a4ce6bd238b2516abfd08a131ebccc3" title="TestMI::start" alt="" coords="590,664,687,691"/>
+<area shape="rect" id="node34" href="$d7/da7/classTestMI.html#afd09ce663d84b09aca7d2273d7daf6f4" title="TestMI::handleMessage" alt="" coords="557,715,720,741"/>
+<area shape="rect" id="node32" href="$d8/de7/classTestMI_1_1MsgStartStop.html#ab4b223ac6abdfbde115f22b4e81da814" title="TestMI::MsgStartStop\l::MsgStartStop" alt="" coords="849,635,999,677"/>
+<area shape="rect" id="node35" href="$d7/da7/classTestMI.html#a2e624bc3b137c3750b4474973d3126b0" title="TestMI::setSinkCenterFrequency" alt="" coords="817,715,1031,741"/>
+<area shape="rect" id="node37" href="$d0/d36/classRTLSDRInput.html#a31cdff111113ccd193efed1948b0c83b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="573,765,704,792"/>
+<area shape="rect" id="node39" href="$d0/d36/classRTLSDRInput.html#a243ae9fc605cd9f09e8c618149137adf" title="RTLSDRInput::start" alt="" coords="569,816,708,843"/>
+<area shape="rect" id="node40" href="$d0/d36/classRTLSDRInput.html#ab6825aa9d6aad9ebd5cbddec96646bf3" title="RTLSDRInput::handleMessage" alt="" coords="537,867,741,893"/>
+<area shape="rect" id="node38" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="827,783,1021,825"/>
+<area shape="rect" id="node41" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="823,867,1025,893"/>
+<area shape="rect" id="node43" href="$d2/d3a/classPlutoSDRInput.html#a2bf0318755e5aa6874bdfec176d7d2d2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="571,917,706,944"/>
+<area shape="rect" id="node45" href="$d2/d3a/classPlutoSDRInput.html#ac87318bcbf81306f72de477bcd2b87fc" title="PlutoSDRInput::start" alt="" coords="567,968,711,995"/>
+<area shape="rect" id="node46" href="$d2/d3a/classPlutoSDRInput.html#a9afd466714904b65e49763015e29e79b" title="PlutoSDRInput::handleMessage" alt="" coords="534,1019,743,1045"/>
+<area shape="rect" id="node44" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="825,935,1023,977"/>
+<area shape="rect" id="node47" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="820,1019,1028,1045"/>
+<area shape="rect" id="node49" href="$d2/d57/classHackRFInput.html#a89402aaffa75bb414800e6465fc97dcc" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="576,1069,701,1096"/>
+<area shape="rect" id="node51" href="$d2/d57/classHackRFInput.html#a7d7867a96bc77f460a73a8dd3519aea8" title="HackRFInput::start" alt="" coords="571,1120,706,1147"/>
+<area shape="rect" id="node52" href="$d2/d57/classHackRFInput.html#a75a77fa8c78b7dabafd8435056c483a7" title="HackRFInput::handleMessage" alt="" coords="539,1171,738,1197"/>
+<area shape="rect" id="node50" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#ad7f973dae01345d8d7e1b6606d8e497e" title="HackRFInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="826,1087,1022,1129"/>
+<area shape="rect" id="node53" href="$d2/d57/classHackRFInput.html#a4a0867e41233fc777459b2479b9e2942" title="For when the source sample rate is set externally. " alt="" coords="825,1171,1023,1197"/>
+<area shape="rect" id="node55" href="$d6/d0c/classFCDProPlusInput.html#a715d38e9cc6c7b8d70eca26e039953f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="563,1221,714,1248"/>
+<area shape="rect" id="node56" href="$d6/d0c/classFCDProPlusInput.html#a2a9b9a703885b1ff1bbc14fca2263336" title="FCDProPlusInput::start" alt="" coords="559,1272,718,1299"/>
+<area shape="rect" id="node57" href="$d6/d0c/classFCDProPlusInput.html#af2a33a42a9581b86f4d6d6093e92d43e" title="FCDProPlusInput::handleMessage" alt="" coords="527,1323,751,1349"/>
+<area shape="rect" id="node59" href="$d4/dbc/classKiwiSDRInput.html#a74556d41d14597af9db0d374469636b3" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="859,1340,989,1367"/>
+<area shape="rect" id="node61" href="$d4/dbc/classKiwiSDRInput.html#ad8eac7e9247ca39ef86fb9a22b032c58" title="KiwiSDRInput::start" alt="" coords="569,1424,708,1451"/>
+<area shape="rect" id="node63" href="$d4/dbc/classKiwiSDRInput.html#a405b361e1193c892149c8cd4ac89f534" title="KiwiSDRInput::handleMessage" alt="" coords="537,1475,741,1501"/>
+<area shape="rect" id="node60" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="1107,1383,1303,1425"/>
+<area shape="rect" id="node62" href="$d4/dbc/classKiwiSDRInput.html#a82985e560c9e21de05c9a39135bf1afb" title="KiwiSDRInput::KiwiSDRInput" alt="" coords="826,1441,1022,1468"/>
+<area shape="rect" id="node64" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="823,1492,1025,1519"/>
+<area shape="rect" id="node66" href="$d8/d47/classLocalInput.html#a0c9c3749856cc77bdffc01ee69758662" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="585,1525,692,1552"/>
+<area shape="rect" id="node68" href="$d8/d47/classLocalInput.html#a208b495a2352e0312dc1ad04632c22ff" title="LocalInput::handleMessage" alt="" coords="548,1576,729,1603"/>
+<area shape="rect" id="node67" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a9360120dec540495691a8f0e74e59a59" title="LocalInput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="799,1552,1049,1608"/>
+<area shape="rect" id="node70" href="$db/d44/classFCDProInput.html#a3253b71e66f21d286f9617bed63b6d90" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="577,1627,701,1653"/>
+<area shape="rect" id="node71" href="$db/d44/classFCDProInput.html#a577177b1c226f836f44c4e8d0b6e2e50" title="FCDProInput::start" alt="" coords="572,1677,705,1704"/>
+<area shape="rect" id="node72" href="$db/d44/classFCDProInput.html#a3e255408d8d188ffc3505a3e2134fe60" title="FCDProInput::handleMessage" alt="" coords="539,1728,738,1755"/>
+<area shape="rect" id="node74" href="$dc/d8c/classSDRPlayInput.html#aad64250d9376dda3f45c7d2cf9b546fe" title="SDRPlayInput::start" alt="" coords="569,1829,709,1856"/>
+<area shape="rect" id="node75" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="821,1785,1027,1812"/>
+<area shape="rect" id="node78" href="$dc/d8c/classSDRPlayInput.html#a2cf8304ffa25857a22e89320aaf47982" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="573,1880,704,1907"/>
+<area shape="rect" id="node77" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="827,1854,1021,1895"/>
+<area shape="rect" id="node76" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="1103,1785,1307,1812"/>
+<area shape="rect" id="node80" href="$d6/d2d/classBladeRF2Input.html#ae10a942a658970e5b49777acdbb83256" title="BladeRF2Input::handleMessage" alt="" coords="535,1931,743,1957"/>
+<area shape="rect" id="node86" href="$d6/d2d/classBladeRF2Input.html#a2b7adda3dc4b07c1d2b09e13ae03a611" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="571,1981,706,2008"/>
+<area shape="rect" id="node87" href="$d6/d2d/classBladeRF2Input.html#a40c1183e02b29306efd51f918ea962f5" title="BladeRF2Input::start" alt="" coords="567,2032,710,2059"/>
+<area shape="rect" id="node81" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="823,1931,1025,1957"/>
+<area shape="rect" id="node82" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="1108,1850,1303,1891"/>
+<area shape="rect" id="node83" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="1097,1915,1313,1957"/>
+<area shape="rect" id="node84" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="1106,1981,1305,2022"/>
+<area shape="rect" id="node85" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="1361,2017,1580,2044"/>
+<area shape="rect" id="node89" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="567,2083,710,2109"/>
+<area shape="rect" id="node90" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="531,2133,747,2160"/>
+<area shape="rect" id="node92" href="$dc/d14/classXTRXInput.html#a48e88dd0f71731de9460dfe3ba0952c2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1149,2184,1261,2211"/>
+<area shape="rect" id="node94" href="$dc/d14/classXTRXInput.html#ac5d109f6b6f25ff065a8f0063f2154ab" title="XTRXInput::start" alt="" coords="1145,2235,1266,2261"/>
+<area shape="rect" id="node95" href="$dc/d14/classXTRXInput.html#a5dd45130f13693615df8dd02147ad8c3" title="XTRXInput::stop" alt="" coords="579,2311,699,2337"/>
+<area shape="rect" id="node98" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="545,2367,732,2393"/>
+<area shape="rect" id="node93" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1379,2253,1562,2294"/>
+<area shape="rect" id="node96" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="1121,2336,1289,2363"/>
+<area shape="rect" id="node97" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="841,2387,1007,2413"/>
+<area shape="rect" id="node99" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="831,2437,1017,2464"/>
+<area shape="rect" id="node101" href="$df/d1b/classLimeSDRInput.html#a8b151e62b476bc7af1c1b821ab41b3be" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="572,2448,705,2475"/>
+<area shape="rect" id="node103" href="$df/d1b/classLimeSDRInput.html#a40c84d8ccb4a4de2b3e6c38025a32871" title="LimeSDRInput::start" alt="" coords="567,2499,710,2525"/>
+<area shape="rect" id="node104" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="535,2553,742,2580"/>
+<area shape="rect" id="node102" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="826,2489,1022,2530"/>
+<area shape="rect" id="node105" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="821,2555,1027,2581"/>
+<area shape="rect" id="node107" href="$d3/d67/classRemoteInput.html#ac531255ff3648ebf37e9c529fd6d9821" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="577,2613,700,2640"/>
+<area shape="rect" id="node109" href="$d3/d67/classRemoteInput.html#a4f1ef1abb8edb7ecd68ff0dbd01a4d2f" title="RemoteInput::handleMessage" alt="" coords="541,2668,737,2695"/>
+<area shape="rect" id="node108" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="831,2606,1017,2647"/>
+<area shape="rect" id="node110" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="827,2672,1021,2699"/>
+</map>

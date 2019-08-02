@@ -1,0 +1,6 @@
+<map id="LocalOutputGui::updateHardware" name="LocalOutputGui::updateHardware">
+<area shape="rect" id="node2" href="$d7/d3a/classLocalOutput_1_1MsgConfigureLocalOutput.html#a50451c040d15886a5f4ccd9631878516" title="LocalOutput::MsgConfigure\lLocalOutput::create" alt="" coords="271,13,453,54"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="268,78,456,119"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="287,144,437,171"/>
+<area shape="rect" id="node3" href="$d7/d3a/classLocalOutput_1_1MsgConfigureLocalOutput.html#a1b626c6556f9e8886a949da58391a081" title="LocalOutput::MsgConfigure\lLocalOutput::MsgConfigureLocal\lOutput" alt="" coords="504,5,716,61"/>
+</map>

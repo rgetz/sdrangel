@@ -1,0 +1,17 @@
+<map id="DeviceBladeRF2::getSampleRateRangeTx" name="DeviceBladeRF2::getSampleRateRangeTx">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a87dea8ae8a9f4476c02cdb5b92df4223" title="BladeRF2Output::getSample\lRateRange" alt="" coords="254,287,443,329"/>
+<area shape="rect" id="node15" href="$d7/d79/classBladeRF2Output.html#a76cd758eaf09eb4333f842bde7a44ec2" title="BladeRF2Output::webapiFormat\lDeviceReport" alt="" coords="244,363,453,405"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="1505,35,1652,77"/>
+<area shape="rect" id="node4" href="$dc/d19/classBladeRF2OutputGui.html#a9d3d15596ef9dc087cd90366f8f99e54" title="BladeRF2OutputGui::\ldisplaySampleRate" alt="" coords="542,275,689,317"/>
+<area shape="rect" id="node14" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="777,392,995,419"/>
+<area shape="rect" id="node5" href="$dc/d19/classBladeRF2OutputGui.html#a0a7073d6638a31e701ea2c052a9c233c" title="BladeRF2OutputGui::\ldisplaySettings" alt="" coords="813,145,959,186"/>
+<area shape="rect" id="node11" href="$dc/d19/classBladeRF2OutputGui.html#a2250b2f0ea5440d38341060d1b0d35f2" title="BladeRF2OutputGui::\lon_interp_currentIndexChanged" alt="" coords="783,210,989,251"/>
+<area shape="rect" id="node12" href="$dc/d19/classBladeRF2OutputGui.html#ab336e8e7fdad6e585c2001519be7e143" title="BladeRF2OutputGui::\lon_sampleRateMode_toggled" alt="" coords="789,275,983,317"/>
+<area shape="rect" id="node13" href="$dc/d19/classBladeRF2OutputGui.html#a4a9724db88895c9e44630534705093d5" title="BladeRF2OutputGui::\lupdateSampleRateAndFrequency" alt="" coords="1043,341,1260,382"/>
+<area shape="rect" id="node6" href="$dc/d19/classBladeRF2OutputGui.html#ac4038ea6b22e9f0d0fe4fc0691ad0e86" title="BladeRF2OutputGui::\ldeserialize" alt="" coords="1309,119,1456,161"/>
+<area shape="rect" id="node7" href="$dc/d19/classBladeRF2OutputGui.html#a889ab6ee5cd258c543671576fab6b16c" title="BladeRF2OutputGui::\lhandleMessage" alt="" coords="1078,210,1225,251"/>
+<area shape="rect" id="node9" href="$dc/d19/classBladeRF2OutputGui.html#a23e7824ae7747c29de69deab39e90a87" title="BladeRF2OutputGui::\lresetToDefaults" alt="" coords="1078,145,1225,186"/>
+<area shape="rect" id="node10" href="$dc/d19/classBladeRF2OutputGui.html#ad713269743c1b93e56c21c6b9b198329" title="BladeRF2OutputGui::\lsetCenterFrequency" alt="" coords="1078,275,1225,317"/>
+<area shape="rect" id="node8" href="$dc/d19/classBladeRF2OutputGui.html#a3c36cd6dfa4afb28b0fe32f56700f573" title="BladeRF2OutputGui::\lhandleInputMessages" alt="" coords="1308,210,1457,251"/>
+<area shape="rect" id="node16" href="$d7/d79/classBladeRF2Output.html#a1b00dae3e3a37aa13c2192ceb3be6e29" title="BladeRF2Output::webapiReportGet" alt="" coords="501,392,729,419"/>
+</map>

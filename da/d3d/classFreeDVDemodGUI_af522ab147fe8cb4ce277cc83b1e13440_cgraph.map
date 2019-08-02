@@ -1,0 +1,21 @@
+<map id="FreeDVDemodGUI::displaySettings" name="FreeDVDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="688,44,728,71"/>
+<area shape="rect" id="node7" href="$da/d3d/classFreeDVDemodGUI.html#a1813903167c87f3c58dbc15a63580295" title="FreeDVDemodGUI::blockApply\lSettings" alt="" coords="307,62,512,103"/>
+<area shape="rect" id="node8" href="$da/d3d/classFreeDVDemodGUI.html#a12cafc06b484b1f0d179930059d7023c" title="FreeDVDemodGUI::displayBandwidths" alt="" coords="284,128,535,155"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="322,179,497,221"/>
+<area shape="rect" id="node11" href="$df/d89/structFreeDVDemodSettings.html#ad38c7007c7c2903eb8d9d2534fa10c6b" title="FreeDVDemodSettings\l::getHiCutoff" alt="" coords="331,245,488,286"/>
+<area shape="rect" id="node12" href="$df/d89/structFreeDVDemodSettings.html#aea96055fe7fb6a047431b697588de71d" title="FreeDVDemodSettings\l::getLowCutoff" alt="" coords="331,310,488,351"/>
+<area shape="rect" id="node13" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="329,376,490,403"/>
+<area shape="rect" id="node14" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="311,427,508,453"/>
+<area shape="rect" id="node15" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="322,478,497,519"/>
+<area shape="rect" id="node16" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="326,544,493,571"/>
+<area shape="rect" id="node17" href="$de/d03/classChannelMarker.html#a21a6a6cf3155c2e5bc1d181bb553225b" title="ChannelMarker::setLowCutoff" alt="" coords="311,595,507,621"/>
+<area shape="rect" id="node18" href="$de/d03/classChannelMarker.html#a07ca4f100dd0da5f1ef8ad40f66dbca6" title="ChannelMarker::setSidebands" alt="" coords="311,645,508,672"/>
+<area shape="rect" id="node19" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="329,696,490,723"/>
+<area shape="rect" id="node20" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="318,747,501,773"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="881,44,989,71"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1037,66,1185,107"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1241,15,1360,41"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1233,66,1368,107"/>
+<area shape="rect" id="node9" href="$de/de0/classFreeDVDemod.html#a2d53040abda888fa8c235da1519d459e" title="FreeDVDemod::getModemSampleRate" alt="" coords="583,128,833,155"/>
+</map>

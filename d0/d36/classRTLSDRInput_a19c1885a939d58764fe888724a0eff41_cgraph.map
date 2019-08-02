@@ -1,0 +1,7 @@
+<map id="RTLSDRInput::webapiFormatDeviceReport" name="RTLSDRInput::webapiFormatDeviceReport">
+<area shape="rect" id="node2" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html#aa50cb90d102f90bb67aa1105c0cf713d" title="SWGSDRangel::SWGRtlSdrReport\l::getGains" alt="" coords="250,5,481,47"/>
+<area shape="rect" id="node3" href="$d0/d36/classRTLSDRInput.html#a9201de475cb14a94cd96bb354e4ff837" title="RTLSDRInput::getGains" alt="" coords="283,71,448,98"/>
+<area shape="rect" id="node5" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ae51f356ca57857660293bf7faae58158" title="SWGSDRangel::SWGDeviceReport\l::getRtlSdrReport" alt="" coords="248,123,483,164"/>
+<area shape="rect" id="node6" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html#a0be042e70eff3c5fc6158b0b7b5aa59c" title="SWGSDRangel::SWGRtlSdrReport\l::setGains" alt="" coords="250,188,481,229"/>
+<area shape="rect" id="node4" href="$d0/d36/classRTLSDRInput.html#aa82747283990214d14e6876ca79747a7" title="RTLSDRInput::set_ds_mode" alt="" coords="531,71,721,98"/>
+</map>

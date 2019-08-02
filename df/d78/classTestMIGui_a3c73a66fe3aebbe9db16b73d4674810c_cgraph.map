@@ -1,0 +1,10 @@
+<map id="TestMIGui::on_amplitudeFine_valueChanged" name="TestMIGui::on_amplitudeFine_valueChanged">
+<area shape="rect" id="node2" href="$df/d78/classTestMIGui.html#a02f9d85ad40f3fcffe980ebb4aba0480" title="TestMIGui::displayAmplitude" alt="" coords="247,60,437,87"/>
+<area shape="rect" id="node9" href="$df/d78/classTestMIGui.html#aca70034344c56fb81b1ecd6e82df7c4d" title="TestMIGui::sendSettings" alt="" coords="259,111,425,137"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="528,35,568,61"/>
+<area shape="rect" id="node8" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="485,85,611,112"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="659,35,767,61"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="815,57,963,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1019,5,1137,32"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1011,57,1145,98"/>
+</map>

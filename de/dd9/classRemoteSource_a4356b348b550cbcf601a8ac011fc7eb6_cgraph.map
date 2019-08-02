@@ -1,0 +1,44 @@
+<map id="RemoteSource::applySettings" name="RemoteSource::applySettings">
+<area shape="rect" id="node2" href="$df/d64/classRemoteSourceThread.html#af43dd49b16b9c45d3ebc0f03ab0287a0" title="RemoteSourceThread\l::dataBind" alt="" coords="278,64,427,105"/>
+<area shape="rect" id="node5" href="$de/dd9/classRemoteSource.html#a689bb839f77544b65e5c169c940d91e2" title="RemoteSource::webapiReverse\lSendSettings" alt="" coords="249,468,456,509"/>
+<area shape="rect" id="node3" href="$d4/d4f/classRemoteSourceThread_1_1MsgDataBind.html#a5de4d0a5f2fcb704c34bb6d86bc4dce0" title="RemoteSourceThread\l::MsgDataBind::create" alt="" coords="553,5,706,47"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="555,71,704,98"/>
+<area shape="rect" id="node6" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a8cff83dd2529f6ca7b1c0b3663eb197b" title="SWGSDRangel::SWGChannelSettings\l::setDirection" alt="" coords="504,123,755,164"/>
+<area shape="rect" id="node7" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#ae499bf28194d5d278e5f93cb1f85740c" title="SWGSDRangel::SWGChannelSettings\l::setOriginatorChannelIndex" alt="" coords="504,188,755,229"/>
+<area shape="rect" id="node8" href="$d7/d02/classChannelAPI.html#a9421ed946473753ddec3d68bd634807f" title="ChannelAPI::getIndexInDeviceSet" alt="" coords="518,254,741,281"/>
+<area shape="rect" id="node9" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aa61492b5ba6ea4814dec07e859a25b66" title="SWGSDRangel::SWGChannelSettings\l::setOriginatorDeviceSetIndex" alt="" coords="504,305,755,347"/>
+<area shape="rect" id="node10" href="$d7/d02/classChannelAPI.html#aeee7a811690467390bc11def4f78b919" title="ChannelAPI::getDeviceSet\lIndex" alt="" coords="540,371,719,412"/>
+<area shape="rect" id="node11" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a9adab6da69bbc65c8aa06d5fb8b11d2e" title="SWGSDRangel::SWGChannelSettings\l::setChannelType" alt="" coords="504,436,755,477"/>
+<area shape="rect" id="node12" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#af7813a5bbc8f9fcf3315d45dcc54a077" title="SWGSDRangel::SWGChannelSettings\l::setRemoteSourceSettings" alt="" coords="504,501,755,543"/>
+<area shape="rect" id="node13" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a10ddab02e15d463499a579ec6d10116c" title="SWGSDRangel::SWGChannelSettings\l::getRemoteSourceSettings" alt="" coords="504,567,755,608"/>
+<area shape="rect" id="node14" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a3db9746b94febde3e478789212d38a9f" title="SWGSDRangel::SWGRemoteSource\lSettings::setDataAddress" alt="" coords="509,632,750,673"/>
+<area shape="rect" id="node15" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a41cee782101109dd198bccfb9bcb861d" title="SWGSDRangel::SWGRemoteSource\lSettings::setDataPort" alt="" coords="509,697,750,739"/>
+<area shape="rect" id="node16" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a1529b72ff6a77d68d61df5962a125331" title="SWGSDRangel::SWGRemoteSource\lSettings::setRgbColor" alt="" coords="509,763,750,804"/>
+<area shape="rect" id="node17" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a64f7a96558b4459dbfb96c24e1c26c89" title="SWGSDRangel::SWGRemoteSource\lSettings::setTitle" alt="" coords="509,828,750,869"/>
+<area shape="rect" id="node18" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#af8ec63c744563e8634ddfbb8f02b41c9" title="SWGSDRangel::SWGChannelSettings\l::asJson" alt="" coords="504,893,755,935"/>
+<area shape="rect" id="node19" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aa64df94d68acbb4b8fc717e48aec6032" title="SWGSDRangel::SWGChannelSettings\l::asJsonObject" alt="" coords="803,893,1053,935"/>
+<area shape="rect" id="node20" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1136,221,1331,247"/>
+<area shape="rect" id="node22" href="$dd/d3c/classSWGSDRangel_1_1SWGAMDemodSettings.html#a80342315fc76dfc0360cb3a41fc0a690" title="SWGSDRangel::SWGAMDemodSettings\l::isSet" alt="" coords="1101,272,1365,313"/>
+<area shape="rect" id="node23" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a732753b726ea928029f2739534c82b03" title="SWGSDRangel::SWGAMModSettings\l::isSet" alt="" coords="1110,337,1357,379"/>
+<area shape="rect" id="node25" href="$d5/df0/classSWGSDRangel_1_1SWGATVModSettings.html#ab27a78edec8f2b6570761065349b9dfc" title="SWGSDRangel::SWGATVModSettings\l::isSet" alt="" coords="1107,403,1360,444"/>
+<area shape="rect" id="node26" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a2192092fffb14a9461ba43d4703f3b78" title="SWGSDRangel::SWGBFMDemod\lSettings::isSet" alt="" coords="1121,468,1345,509"/>
+<area shape="rect" id="node27" href="$d6/d5e/classSWGSDRangel_1_1SWGDSDDemodSettings.html#a6aab825873a7acc8b3b543cf752b3219" title="SWGSDRangel::SWGDSDDemod\lSettings::isSet" alt="" coords="1121,533,1346,575"/>
+<area shape="rect" id="node28" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a2a15537f5c4be8ef06cc59b949a3ec4a" title="SWGSDRangel::SWGFileSource\lSettings::isSet" alt="" coords="1125,599,1341,640"/>
+<area shape="rect" id="node29" href="$d5/d77/classSWGSDRangel_1_1SWGFreeDVDemodSettings.html#a3f7b1a502b5f9b21347fd78e2e959cb4" title="SWGSDRangel::SWGFreeDVDemod\lSettings::isSet" alt="" coords="1113,664,1354,705"/>
+<area shape="rect" id="node30" href="$d2/d68/classSWGSDRangel_1_1SWGFreeDVModSettings.html#a02174a93c8ada96b173a2fbb8d468497" title="SWGSDRangel::SWGFreeDVMod\lSettings::isSet" alt="" coords="1121,729,1345,771"/>
+<area shape="rect" id="node31" href="$dc/d82/classSWGSDRangel_1_1SWGFreqTrackerSettings.html#a480ef11d8cf976fccbcc3099044ac34f" title="SWGSDRangel::SWGFreqTracker\lSettings::isSet" alt="" coords="1121,795,1345,836"/>
+<area shape="rect" id="node32" href="$d4/d7a/classSWGSDRangel_1_1SWGNFMDemodSettings.html#a61616939ff79f4e4926c48c521935c71" title="SWGSDRangel::SWGNFMDemod\lSettings::isSet" alt="" coords="1121,860,1346,901"/>
+<area shape="rect" id="node33" href="$d3/d66/classSWGSDRangel_1_1SWGNFMModSettings.html#a37c9133225a4fa44cf60991d3368bfa4" title="SWGSDRangel::SWGNFMModSettings\l::isSet" alt="" coords="1105,925,1361,967"/>
+<area shape="rect" id="node34" href="$d6/d37/classSWGSDRangel_1_1SWGLocalSinkSettings.html#a814123bc839529d4bca8a1fb721cd012" title="SWGSDRangel::SWGLocalSink\lSettings::isSet" alt="" coords="1128,991,1339,1032"/>
+<area shape="rect" id="node35" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a48f8d0a47fa0a689c1483deacf15d525" title="SWGSDRangel::SWGLocalSource\lSettings::isSet" alt="" coords="1120,1056,1347,1097"/>
+<area shape="rect" id="node36" href="$df/d4d/classSWGSDRangel_1_1SWGRemoteSinkSettings.html#a41fe341a0e97a1f9bd4d9619450a5240" title="SWGSDRangel::SWGRemoteSink\lSettings::isSet" alt="" coords="1120,1121,1347,1163"/>
+<area shape="rect" id="node37" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a8b116fac38336f074f758ccdd10b37ba" title="SWGSDRangel::SWGRemoteSource\lSettings::isSet" alt="" coords="1113,1187,1354,1228"/>
+<area shape="rect" id="node38" href="$d8/d71/classSWGSDRangel_1_1SWGSSBModSettings.html#aebf8e650fb17d628207d87defbe7bae7" title="SWGSDRangel::SWGSSBModSettings\l::isSet" alt="" coords="1106,1252,1361,1293"/>
+<area shape="rect" id="node39" href="$d7/d5c/classSWGSDRangel_1_1SWGSSBDemodSettings.html#a57493542edb9900ad547c6268ec21b5a" title="SWGSDRangel::SWGSSBDemod\lSettings::isSet" alt="" coords="1122,1317,1345,1359"/>
+<area shape="rect" id="node40" href="$de/d4f/classSWGSDRangel_1_1SWGUDPSourceSettings.html#a73f91215fa8c4ef2255602fc85e90623" title="SWGSDRangel::SWGUDPSource\lSettings::isSet" alt="" coords="1121,1383,1345,1424"/>
+<area shape="rect" id="node41" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#ae3d4b88432ac68373fceec6e93b0a1fa" title="SWGSDRangel::SWGUDPSinkSettings\l::isSet" alt="" coords="1105,1448,1362,1489"/>
+<area shape="rect" id="node42" href="$d0/de4/classSWGSDRangel_1_1SWGWFMDemodSettings.html#a3313d482c0c331364842df30dd0abf22" title="SWGSDRangel::SWGWFMDemod\lSettings::isSet" alt="" coords="1119,1513,1347,1555"/>
+<area shape="rect" id="node43" href="$db/d62/classSWGSDRangel_1_1SWGWFMModSettings.html#afc80c7d136c6ff736e9746c774e91187" title="SWGSDRangel::SWGWFMModSettings\l::isSet" alt="" coords="1104,1579,1363,1620"/>
+<area shape="rect" id="node21" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1447,213,1639,255"/>
+<area shape="rect" id="node24" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a64b479e886736ea9e3d26ab93018bcb3" title="SWGSDRangel::SWGCWKeyerSettings\l::isSet" alt="" coords="1413,925,1672,967"/>
+</map>

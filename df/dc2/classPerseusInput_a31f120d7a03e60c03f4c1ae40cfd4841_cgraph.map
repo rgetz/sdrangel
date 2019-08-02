@@ -1,0 +1,20 @@
+<map id="PerseusInput::webapiFormatDeviceSettings" name="PerseusInput::webapiFormatDeviceSettings">
+<area shape="rect" id="node2" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a20ac9a7a99259487ce99a05b1ab86654" title="SWGSDRangel::SWGPerseusSettings\l::getFileRecordName" alt="" coords="243,5,493,47"/>
+<area shape="rect" id="node3" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#add80d3187930d6dac6249aa21c6994ef" title="SWGSDRangel::SWGDeviceSettings\l::getPerseusSettings" alt="" coords="247,71,489,112"/>
+<area shape="rect" id="node4" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a1723ad7f045da5f82bdcd259e7dd2274" title="SWGSDRangel::SWGPerseusSettings\l::getReverseApiAddress" alt="" coords="243,136,493,177"/>
+<area shape="rect" id="node5" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#aa952920ff6c77e62a3f877434ad45fab" title="SWGSDRangel::SWGPerseusSettings\l::setAdcDither" alt="" coords="243,201,493,243"/>
+<area shape="rect" id="node6" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#ad3d551910a4b49eadc3e4f99c9e25295" title="SWGSDRangel::SWGPerseusSettings\l::setAdcPreamp" alt="" coords="243,267,493,308"/>
+<area shape="rect" id="node7" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a781d79a05c0f92cb69b1bbbc998d450e" title="SWGSDRangel::SWGPerseusSettings\l::setAttenuator" alt="" coords="243,332,493,373"/>
+<area shape="rect" id="node8" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a9b4766b351f50a7576d30d5879e4304b" title="SWGSDRangel::SWGPerseusSettings\l::setCenterFrequency" alt="" coords="243,397,493,439"/>
+<area shape="rect" id="node9" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#af336b999e1eb29dfb44f9416f11085b6" title="SWGSDRangel::SWGPerseusSettings\l::setDevSampleRateIndex" alt="" coords="243,463,493,504"/>
+<area shape="rect" id="node10" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a96506d481d2d6772c3f316a74e90f17d" title="SWGSDRangel::SWGPerseusSettings\l::setFileRecordName" alt="" coords="243,528,493,569"/>
+<area shape="rect" id="node11" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#adf0a98d6ce0cc4ebbb2688fba8711f9c" title="SWGSDRangel::SWGPerseusSettings\l::setLog2Decim" alt="" coords="243,593,493,635"/>
+<area shape="rect" id="node12" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a735867cea5bb32bd3aee1715c1189169" title="SWGSDRangel::SWGPerseusSettings\l::setLOppmTenths" alt="" coords="243,659,493,700"/>
+<area shape="rect" id="node13" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a70172c89c2c776b1cc839ad9b30d27e9" title="SWGSDRangel::SWGPerseusSettings\l::setReverseApiAddress" alt="" coords="243,724,493,765"/>
+<area shape="rect" id="node14" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#ad760455f4495f1ac04e9984ec1d3661c" title="SWGSDRangel::SWGPerseusSettings\l::setReverseApiDeviceIndex" alt="" coords="243,789,493,831"/>
+<area shape="rect" id="node15" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a6eee2cc2f375881000455b2989ae552a" title="SWGSDRangel::SWGPerseusSettings\l::setReverseApiPort" alt="" coords="243,855,493,896"/>
+<area shape="rect" id="node16" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a4741c8dcecfe3db4e7718b2414835f87" title="SWGSDRangel::SWGPerseusSettings\l::setTransverterDeltaFrequency" alt="" coords="243,920,493,961"/>
+<area shape="rect" id="node17" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a3da85a670cb84e8ab43491a1c04feade" title="SWGSDRangel::SWGPerseusSettings\l::setTransverterMode" alt="" coords="243,985,493,1027"/>
+<area shape="rect" id="node18" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a89151099054992bed90b71957651e363" title="SWGSDRangel::SWGPerseusSettings\l::setUseReverseApi" alt="" coords="243,1051,493,1092"/>
+<area shape="rect" id="node19" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#a7ef1fbbc589f551b7fbde3a95cfc4929" title="SWGSDRangel::SWGPerseusSettings\l::setWideBand" alt="" coords="243,1116,493,1157"/>
+</map>

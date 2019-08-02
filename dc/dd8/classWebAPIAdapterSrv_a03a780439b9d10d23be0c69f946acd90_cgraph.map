@@ -1,0 +1,8 @@
+<map id="WebAPIAdapterSrv::instanceDVSerialPatch" name="WebAPIAdapterSrv::instanceDVSerialPatch">
+<area shape="rect" id="node2" href="$d4/d9a/classSWGSDRangel_1_1SWGDVSerialDevices.html#a4970f34f99e76df1bb9a1ae443e82df7" title="SWGSDRangel::SWGDVSerial\lDevices::getDvSerialDevices" alt="" coords="250,5,457,47"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#ac3c61f0e0e16257e2228d10b319d1dcc" title="DSPEngine::getDVSerialNames" alt="" coords="248,71,459,98"/>
+<area shape="rect" id="node5" href="$d4/d9a/classSWGSDRangel_1_1SWGDVSerialDevices.html#a4cbbb7ef59f5d6e3cd7ecacb81967ec4" title="SWGSDRangel::SWGDVSerial\lDevices::init" alt="" coords="250,123,457,164"/>
+<area shape="rect" id="node6" href="$d7/d8a/classDSPEngine.html#ad3660f32313fd69f16d1c9c30c4ece42" title="DSPEngine::setDVSerialSupport" alt="" coords="247,189,460,215"/>
+<area shape="rect" id="node7" href="$d4/d9a/classSWGSDRangel_1_1SWGDVSerialDevices.html#a6eb972e2a808651691e6af19fb51ff6e" title="SWGSDRangel::SWGDVSerial\lDevices::setNbDevices" alt="" coords="250,240,457,281"/>
+<area shape="rect" id="node4" href="$d3/d84/classAMBEEngine.html#ab2a653844025de4e7f7fdc628fa9c1ad" title="reference of the devices used (device path or url) " alt="" coords="508,71,703,98"/>
+</map>

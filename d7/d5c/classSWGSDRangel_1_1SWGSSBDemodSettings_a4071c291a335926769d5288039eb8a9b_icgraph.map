@@ -1,0 +1,19 @@
+<map id="SWGSDRangel::SWGSSBDemodSettings::setAudioBinaural" name="SWGSDRangel::SWGSSBDemodSettings::setAudioBinaural">
+<area shape="rect" id="node2" href="$d6/d4d/classSSBDemod.html#ad33ba9d9b2911a4fe962769a69a7727b" title="SSBDemod::webapiFormatChannel\lSettings" alt="" coords="276,115,505,156"/>
+<area shape="rect" id="node13" href="$d6/d4d/classSSBDemod.html#ae1897121735766b8763c3d0c9737fa62" title="SSBDemod::webapiReverseSend\lSettings" alt="" coords="281,180,500,221"/>
+<area shape="rect" id="node3" href="$d6/d4d/classSSBDemod.html#ae2c67b20ff17ed84b3ccbfd91718a228" title="SSBDemod::webapiSettingsGet" alt="" coords="553,125,763,151"/>
+<area shape="rect" id="node12" href="$d6/d4d/classSSBDemod.html#a07c229184cf468bc84dd7eb42eeaff24" title="SSBDemod::webapiSettings\lPutPatch" alt="" coords="564,59,752,100"/>
+<area shape="rect" id="node4" href="$d6/d4d/classSSBDemod.html#a51937c6674c7afaa3b42b2d4c8224db6" title="SSBDemod::getMagSqLevels" alt="" coords="811,71,1007,98"/>
+<area shape="rect" id="node5" href="$d4/d5b/classSSBDemodGUI.html#af6018e6cec8ee30801efd2e340b21172" title="SSBDemodGUI::tick" alt="" coords="1107,122,1251,149"/>
+<area shape="rect" id="node10" href="$d6/d4d/classSSBDemod.html#a78f66bc894cf0d1a70cc940fba092f59" title="SSBDemod::webapiFormatChannel\lReport" alt="" coords="1065,5,1294,47"/>
+<area shape="rect" id="node6" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1352,151,1568,178"/>
+<area shape="rect" id="node7" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1616,151,1775,178"/>
+<area shape="rect" id="node8" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1823,151,2041,178"/>
+<area shape="rect" id="node9" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="2089,151,2236,178"/>
+<area shape="rect" id="node11" href="$d6/d4d/classSSBDemod.html#a6429f3f57a8b4cdc9d82bcc065695f25" title="SSBDemod::webapiReportGet" alt="" coords="1360,42,1560,69"/>
+<area shape="rect" id="node14" href="$d6/d4d/classSSBDemod.html#a1e77407aab8eb0cfa6d1214e9361b4be" title="SSBDemod::applySettings" alt="" coords="569,187,747,214"/>
+<area shape="rect" id="node15" href="$d6/d4d/classSSBDemod.html#a48a39544f77dc8534c0a9ab1e6ff2f30" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="813,237,1004,263"/>
+<area shape="rect" id="node17" href="$d6/d4d/classSSBDemod.html#af1616f000bd0d352b723029a7763d565" title="SSBDemod::SSBDemod" alt="" coords="825,185,993,211"/>
+<area shape="rect" id="node16" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="1086,239,1273,266"/>
+<area shape="rect" id="node18" href="$d1/d55/classSSBDemod_1_1MsgConfigureChannelizer.html#a7f6e4b7862591bedc88eb19edca8a53a" title="SSBDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1055,173,1304,215"/>
+</map>

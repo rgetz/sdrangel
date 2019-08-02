@@ -1,0 +1,12 @@
+<map id="DSPEngine::getDeviceSourceEnginesNumber" name="DSPEngine::getDeviceSourceEnginesNumber">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#a5a703cdd925b4c3467609fbdacfc7378" title="LocalSink::getLocalDevices" alt="" coords="252,35,436,61"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#acaae7aae8b0681421b3a4e91742f5fa2" title="LocalSink::setSampleRate" alt="" coords="486,5,663,32"/>
+<area shape="rect" id="node6" href="$d1/d43/classLocalSinkGUI.html#a81cce87a15308dd845cf3eb63f011eec" title="LocalSinkGUI::updateLocal\lDevices" alt="" coords="484,57,665,98"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#ab1f0a9122fd3a86d7f792b77e9e0fa55" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="727,5,906,32"/>
+<area shape="rect" id="node5" href="$da/d9d/classLocalSink.html#a4d62e619cbbd3616bfcb3d362f050565" title="LocalSink::destroy" alt="" coords="976,5,1107,32"/>
+<area shape="rect" id="node7" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="721,60,913,87"/>
+<area shape="rect" id="node11" href="$d1/d43/classLocalSinkGUI.html#a61556b0dd57cf01e6c4e7c1fdd337995" title="LocalSinkGUI::on_localDevices\lRefresh_clicked" alt="" coords="713,111,920,153"/>
+<area shape="rect" id="node8" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="968,60,1115,87"/>
+<area shape="rect" id="node9" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="1163,53,1339,94"/>
+<area shape="rect" id="node10" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="1387,60,1563,87"/>
+</map>

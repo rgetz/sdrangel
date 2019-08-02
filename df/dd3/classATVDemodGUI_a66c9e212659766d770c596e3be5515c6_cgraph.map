@@ -1,0 +1,13 @@
+<map id="ATVDemodGUI::on_invertVideo_clicked" name="ATVDemodGUI::on_invertVideo_clicked">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#a2aa75cad675282f4ddf39e0af25f3082" title="ATVDemodGUI::applySettings" alt="" coords="261,254,463,281"/>
+<area shape="rect" id="node3" href="$de/dce/classATVDemod.html#aeba64333656048580aac14969656cb80" title="ATVDemod::configure" alt="" coords="559,21,710,47"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="855,71,1005,98"/>
+<area shape="rect" id="node6" href="$d8/d19/classATVDemod_1_1MsgConfigureChannelizer.html#a98a251ea7dd79335a1784d77dd8e41ea" title="ATVDemod::MsgConfigureChannelizer\l::create" alt="" coords="511,123,759,164"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="547,188,722,229"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#afa2cbc44cc64674205d9fdcdff12a997" title="ATVDemodGUI::getFps" alt="" coords="849,295,1011,322"/>
+<area shape="rect" id="node9" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="551,305,719,347"/>
+<area shape="rect" id="node10" href="$df/dd3/classATVDemodGUI.html#a064509953fa3aa33aa873917462be06f" title="ATVDemodGUI::getNominalLineTime" alt="" coords="514,371,755,398"/>
+<area shape="rect" id="node11" href="$df/dd3/classATVDemodGUI.html#ad170d1cf8b9ced7d3a1e15880540e718" title="ATVDemodGUI::getNumberOf\lLines" alt="" coords="830,389,1030,431"/>
+<area shape="rect" id="node12" href="$de/dce/classATVDemod.html#ad04d6dbfa8e5061034ec3287deedd13c" title="ATVDemod::getSampleRate" alt="" coords="541,473,729,499"/>
+<area shape="rect" id="node4" href="$d0/d71/classATVDemod_1_1MsgConfigureATVDemod.html#af5d90df24670b5279fd7a6bae72b578a" title="ATVDemod::MsgConfigureATVDemod\l::create" alt="" coords="807,5,1053,47"/>
+</map>

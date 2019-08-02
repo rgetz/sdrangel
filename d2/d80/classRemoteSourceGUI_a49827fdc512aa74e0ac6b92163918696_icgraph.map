@@ -1,0 +1,8 @@
+<map id="RemoteSourceGUI::displayEventTimer" name="RemoteSourceGUI::displayEventTimer">
+<area shape="rect" id="node2" href="$d2/d80/classRemoteSourceGUI.html#aad0e76b5a4b14b3a0f753f9c7716a282" title="RemoteSourceGUI::on\l_eventCountsReset_clicked" alt="" coords="236,5,423,47"/>
+<area shape="rect" id="node3" href="$d2/d80/classRemoteSourceGUI.html#a1ac9f6623bd75c000ed77a7904988cb4" title="RemoteSourceGUI::tick" alt="" coords="248,71,411,98"/>
+<area shape="rect" id="node4" href="$d2/d80/classRemoteSourceGUI.html#a93d7f19c84f7472cb2d9962ba22db8aa" title="RemoteSourceGUI::RemoteSourceGUI" alt="" coords="471,71,723,98"/>
+<area shape="rect" id="node5" href="$d2/d80/classRemoteSourceGUI.html#a654c4350accb18001e43af22e5872bb6" title="RemoteSourceGUI::create" alt="" coords="771,71,948,98"/>
+<area shape="rect" id="node6" href="$da/d51/classRemoteSourcePlugin.html#a930c94c5b29cb474212c98c631dc196b" title="RemoteSourcePlugin\l::createTxChannelGUI" alt="" coords="996,64,1149,105"/>
+<area shape="rect" id="node7" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="1197,64,1343,105"/>
+</map>

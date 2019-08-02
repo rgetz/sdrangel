@@ -1,0 +1,10 @@
+<map id="AMDemod::MsgConfigureAMDemod::getSettings" name="AMDemod::MsgConfigureAMDemod::getSettings">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#a660e781ea25916bdfa4c86b2a94af807" title="AMDemodGUI::handleMessage" alt="" coords="288,5,495,32"/>
+<area shape="rect" id="node8" href="$d9/df0/classAMDemod.html#a0cc413b8436d68d43d6a3d97e93cef20" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="300,56,483,83"/>
+<area shape="rect" id="node3" href="$dd/d2d/classAMDemodGUI.html#ac14a92c9314f0b9ff290ea1dd8095cc3" title="AMDemodGUI::handleInputMessages" alt="" coords="543,5,785,32"/>
+<area shape="rect" id="node4" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="833,5,1036,32"/>
+<area shape="rect" id="node5" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="1084,5,1236,32"/>
+<area shape="rect" id="node6" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1284,5,1537,32"/>
+<area shape="rect" id="node7" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1585,5,1767,32"/>
+<area shape="rect" id="node9" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="597,56,731,83"/>
+</map>

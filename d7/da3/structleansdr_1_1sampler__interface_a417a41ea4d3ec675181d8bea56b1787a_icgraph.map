@@ -1,0 +1,5 @@
+<map id="leansdr::sampler_interface::update_freq" name="leansdr::sampler_interface::update_freq">
+<area shape="rect" id="node2" href="$d6/dfc/structleansdr_1_1cstln__receiver.html#a855387317afcac9b378e3fcfb1ca2c0f" title="leansdr::cstln_receiver\l\&lt; leansdr::f32, leansdr\l::eucl_ss \&gt;::run" alt="" coords="241,5,394,61"/>
+<area shape="rect" id="node3" href="$df/dac/structleansdr_1_1s2__frame__receiver.html#aec760b5c0600efe03173b3a759c549da" title="leansdr::s2_frame_receiver\l::run_frame_locked" alt="" coords="228,86,407,127"/>
+<area shape="rect" id="node4" href="$df/dac/structleansdr_1_1s2__frame__receiver.html#a73b3adf9b5a66eb92d13f6774ac4fd4c" title="leansdr::s2_frame_receiver\l::run_frame_search" alt="" coords="228,151,407,193"/>
+</map>

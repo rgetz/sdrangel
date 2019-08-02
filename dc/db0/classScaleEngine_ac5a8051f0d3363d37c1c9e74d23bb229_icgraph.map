@@ -1,0 +1,17 @@
+<map id="ScaleEngine::forceTwoTicks" name="ScaleEngine::forceTwoTicks">
+<area shape="rect" id="node2" href="$dc/db0/classScaleEngine.html#ad529319759b895b785eed93f7de9e874" title="ScaleEngine::reCalc" alt="" coords="243,376,384,403"/>
+<area shape="rect" id="node3" href="$dc/db0/classScaleEngine.html#a83b0bd96c847ba4982196a138eb727e7" title="ScaleEngine::getTickList" alt="" coords="443,275,609,301"/>
+<area shape="rect" id="node16" href="$dc/db0/classScaleEngine.html#a3708ef5d562bc095f57f5f4323013451" title="ScaleEngine::getScaleWidth" alt="" coords="432,401,620,428"/>
+<area shape="rect" id="node4" href="$d2/d02/classGLScope.html#a79e24062fde56bc4ae1b2cd79e5aedda" title="GLScope::paintGL" alt="" coords="1172,325,1301,352"/>
+<area shape="rect" id="node5" href="$d2/d02/classGLScope.html#a366e112820a69abe443077941b7fcc86" title="GLScope::applyConfig" alt="" coords="949,249,1103,276"/>
+<area shape="rect" id="node6" href="$d2/d02/classGLScope.html#aaef52bb1ef8deda508d295897ed6366e" title="Arrange displays when X and Y are unique on screen. " alt="" coords="677,173,871,200"/>
+<area shape="rect" id="node7" href="$d2/d02/classGLScope.html#a810f6974001d560c5119fe99afcfc869" title="Arrange displays when X and Y are stacked vertically. " alt="" coords="675,224,873,251"/>
+<area shape="rect" id="node8" href="$d2/d02/classGLScope.html#a9be8d26f58d8d61f2e58423479ea0110" title="Arrange displays when X and Y are stacked horizontally. " alt="" coords="668,275,880,301"/>
+<area shape="rect" id="node9" href="$d2/d02/classGLScope.html#ae1f081c2a3ac33af5b9f51659a0435b7" title="Arrange displays when X and Y are stacked over on the left and polar display is on the right..." alt="" coords="683,325,865,352"/>
+<area shape="rect" id="node10" href="$d6/dab/classGLSpectrum.html#a5f9a30e564c715a23c17138b3376f37e" title="GLSpectrum::paintGL" alt="" coords="952,452,1100,479"/>
+<area shape="rect" id="node11" href="$d6/dab/classGLSpectrum.html#a6f4bacf0e1756d0afc804c9b09dd391e" title="GLSpectrum::applyChanges" alt="" coords="681,477,867,504"/>
+<area shape="rect" id="node12" href="$d3/d92/classLevelMeterVU.html#a87276a94bef12e730df59d5cefac6e3c" title="LevelMeterVU::resized" alt="" coords="697,5,851,32"/>
+<area shape="rect" id="node14" href="$dc/dbc/classLevelMeterSignalDB.html#af6fcd7b57b19a5d54ddd98a401b40d78" title="LevelMeterSignalDB\l::resized" alt="" coords="703,57,845,98"/>
+<area shape="rect" id="node13" href="$d3/d92/classLevelMeterVU.html#a7ba0f90b6224c747b7c50c71dd998a71" title="LevelMeterVU::LevelMeterVU" alt="" coords="928,5,1124,32"/>
+<area shape="rect" id="node15" href="$dc/dbc/classLevelMeterSignalDB.html#a8934ef8bcaa749caa72520637f148417" title="LevelMeterSignalDB\l::LevelMeterSignalDB" alt="" coords="951,57,1101,98"/>
+</map>

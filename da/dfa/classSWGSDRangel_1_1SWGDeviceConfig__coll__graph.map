@@ -1,0 +1,34 @@
+<map id="SWGSDRangel::SWGDeviceConfig" name="SWGSDRangel::SWGDeviceConfig">
+<area shape="rect" id="node2" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html" title="SWGSDRangel::SWGObject" alt="" coords="5,907,197,933"/>
+<area shape="rect" id="node3" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html" title="SWGSDRangel::SWGDeviceSettings" alt="" coords="1271,896,1513,923"/>
+<area shape="rect" id="node4" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html" title="SWGSDRangel::SWGXtrxOutput\lSettings" alt="" coords="545,289,762,330"/>
+<area shape="rect" id="node5" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html" title="SWGSDRangel::SWGLocalInput\lSettings" alt="" coords="546,350,761,391"/>
+<area shape="rect" id="node6" href="$d2/d86/classSWGSDRangel_1_1SWGLimeSdrOutputSettings.html" title="SWGSDRangel::SWGLimeSdrOutput\lSettings" alt="" coords="533,411,774,453"/>
+<area shape="rect" id="node7" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html" title="SWGSDRangel::SWGAirspySettings" alt="" coords="813,472,1051,499"/>
+<area shape="rect" id="node8" href="$d7/d6b/classSWGSDRangel_1_1SWGBladeRF2OutputSettings.html" title="SWGSDRangel::SWGBladeRF2\lOutputSettings" alt="" coords="547,530,759,571"/>
+<area shape="rect" id="node9" href="$db/d8c/classSWGSDRangel_1_1SWGPlutoSdrInputSettings.html" title="SWGSDRangel::SWGPlutoSdr\lInputSettings" alt="" coords="830,586,1034,627"/>
+<area shape="rect" id="node10" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html" title="SWGSDRangel::SWGPerseusSettings" alt="" coords="528,664,779,691"/>
+<area shape="rect" id="node11" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html" title="SWGSDRangel::SWGFileInput\lSettings" alt="" coords="830,715,1034,757"/>
+<area shape="rect" id="node12" href="$dc/d98/classSWGSDRangel_1_1SWGBladeRF1OutputSettings.html" title="SWGSDRangel::SWGBladeRF1\lOutputSettings" alt="" coords="547,774,759,815"/>
+<area shape="rect" id="node13" href="$d3/dbd/classSWGSDRangel_1_1SWGSoapySDROutputSettings.html" title="SWGSDRangel::SWGSoapySDROutput\lSettings" alt="" coords="803,1023,1061,1065"/>
+<area shape="rect" id="node14" href="$d9/d74/classSWGSDRangel_1_1SWGComplex.html" title="SWGSDRangel::SWGComplex" alt="" coords="272,1033,479,1060"/>
+<area shape="rect" id="node15" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html" title="SWGSDRangel::SWGRtlSdrSettings" alt="" coords="813,844,1051,871"/>
+<area shape="rect" id="node16" href="$d3/dba/classSWGSDRangel_1_1SWGPlutoSdrOutputSettings.html" title="SWGSDRangel::SWGPlutoSdr\lOutputSettings" alt="" coords="551,879,755,921"/>
+<area shape="rect" id="node17" href="$d6/dda/classSWGSDRangel_1_1SWGHackRFOutputSettings.html" title="SWGSDRangel::SWGHackRFOutput\lSettings" alt="" coords="811,958,1053,999"/>
+<area shape="rect" id="node18" href="$d3/d73/classSWGSDRangel_1_1SWGBladeRF1InputSettings.html" title="SWGSDRangel::SWGBladeRF1\lInputSettings" alt="" coords="547,1169,759,1210"/>
+<area shape="rect" id="node19" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html" title="SWGSDRangel::SWGRemoteInput\lSettings" alt="" coords="817,1218,1047,1259"/>
+<area shape="rect" id="node20" href="$d3/d55/classSWGSDRangel_1_1SWGXtrxInputSettings.html" title="SWGSDRangel::SWGXtrxInput\lSettings" alt="" coords="550,1275,757,1317"/>
+<area shape="rect" id="node21" href="$db/dd9/classSWGSDRangel_1_1SWGSDRPlaySettings.html" title="SWGSDRangel::SWGSDRPlaySettings" alt="" coords="803,1347,1061,1373"/>
+<area shape="rect" id="node22" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html" title="SWGSDRangel::SWGLocalOutput\lSettings" alt="" coords="541,1382,765,1423"/>
+<area shape="rect" id="node23" href="$de/d36/classSWGSDRangel_1_1SWGLimeSdrInputSettings.html" title="SWGSDRangel::SWGLimeSdrInput\lSettings" alt="" coords="817,1461,1047,1502"/>
+<area shape="rect" id="node24" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html" title="SWGSDRangel::SWGAirspyHFSettings" alt="" coords="247,1493,504,1520"/>
+<area shape="rect" id="node25" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html" title="SWGSDRangel::SWGTestSource\lSettings" alt="" coords="265,1549,486,1590"/>
+<area shape="rect" id="node26" href="$d2/dfa/classSWGSDRangel_1_1SWGFCDProSettings.html" title="SWGSDRangel::SWGFCDProSettings" alt="" coords="250,1624,501,1651"/>
+<area shape="rect" id="node27" href="$d5/da3/classSWGSDRangel_1_1SWGBladeRF2InputSettings.html" title="SWGSDRangel::SWGBladeRF2\lInputSettings" alt="" coords="269,1682,481,1723"/>
+<area shape="rect" id="node28" href="$d1/d60/classSWGSDRangel_1_1SWGHackRFInputSettings.html" title="SWGSDRangel::SWGHackRFInput\lSettings" alt="" coords="259,1766,491,1807"/>
+<area shape="rect" id="node29" href="$de/d42/classSWGSDRangel_1_1SWGSoapySDRInputSettings.html" title="SWGSDRangel::SWGSoapySDRInput\lSettings" alt="" coords="807,1089,1057,1130"/>
+<area shape="rect" id="node30" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html" title="SWGSDRangel::SWGTestMISettings" alt="" coords="254,1840,497,1867"/>
+<area shape="rect" id="node31" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html" title="SWGSDRangel::SWGKiwiSDRSettings" alt="" coords="247,48,503,75"/>
+<area shape="rect" id="node32" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html" title="SWGSDRangel::SWGRemoteOutput\lSettings" alt="" coords="256,102,495,143"/>
+<area shape="rect" id="node33" href="$d9/dae/classSWGSDRangel_1_1SWGFCDProPlusSettings.html" title="SWGSDRangel::SWGFCDProPlus\lSettings" alt="" coords="261,167,489,209"/>
+</map>

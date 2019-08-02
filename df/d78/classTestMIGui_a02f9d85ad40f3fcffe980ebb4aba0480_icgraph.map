@@ -1,0 +1,14 @@
+<map id="TestMIGui::displayAmplitude" name="TestMIGui::displayAmplitude">
+<area shape="rect" id="node2" href="$df/d78/classTestMIGui.html#a5b3b99c7c88f0f7cdd2cbae621e1ecbd" title="TestMIGui::displaySettings" alt="" coords="259,163,439,190"/>
+<area shape="rect" id="node11" href="$df/d78/classTestMIGui.html#a31de13b513065927589dfc3cc12f8dba" title="TestMIGui::on_amplitudeCoarse\l_valueChanged" alt="" coords="244,214,455,256"/>
+<area shape="rect" id="node12" href="$df/d78/classTestMIGui.html#a3c73a66fe3aebbe9db16b73d4674810c" title="TestMIGui::on_amplitudeFine\l_valueChanged" alt="" coords="253,280,446,321"/>
+<area shape="rect" id="node13" href="$df/d78/classTestMIGui.html#a48768d9e60f9f731e78abcfcb34cb5e8" title="TestMIGui::on_sampleSize\l_currentIndexChanged" alt="" coords="259,345,439,386"/>
+<area shape="rect" id="node3" href="$df/d78/classTestMIGui.html#a46d27a080d13bc0e97967b840af36f24" title="TestMIGui::TestMIGui" alt="" coords="1027,152,1179,179"/>
+<area shape="rect" id="node4" href="$df/d78/classTestMIGui.html#a07b55dc7ff5ee0938eb36e47e8cbad2e" title="TestMIGui::resetToDefaults" alt="" coords="515,62,699,88"/>
+<area shape="rect" id="node5" href="$df/d78/classTestMIGui.html#af7b65965d72d6e061405e6791049821c" title="TestMIGui::deserialize" alt="" coords="793,87,946,114"/>
+<area shape="rect" id="node6" href="$df/d78/classTestMIGui.html#a347c6dd646cb6ae3469661acfc81ea1c" title="TestMIGui::setCenterFrequency" alt="" coords="503,163,712,190"/>
+<area shape="rect" id="node7" href="$df/d78/classTestMIGui.html#a324091d48ba7558c6209e9551e64364d" title="TestMIGui::on_streamIndex\l_currentIndexChanged" alt="" coords="515,214,699,256"/>
+<area shape="rect" id="node8" href="$df/d78/classTestMIGui.html#ad1de1d3739648ad8a6b41b6c72347666" title="TestMIGui::on_spectrumSource\l_currentIndexChanged" alt="" coords="504,280,711,321"/>
+<area shape="rect" id="node9" href="$df/d78/classTestMIGui.html#aba641dc6bcd2bd99dca951d826458bad" title="TestMIGui::handleMessage" alt="" coords="516,346,699,372"/>
+<area shape="rect" id="node10" href="$df/d78/classTestMIGui.html#ae270a3d1ab89042d0b99e35232b3d96d" title="TestMIGui::handleInputMessages" alt="" coords="760,228,979,255"/>
+</map>

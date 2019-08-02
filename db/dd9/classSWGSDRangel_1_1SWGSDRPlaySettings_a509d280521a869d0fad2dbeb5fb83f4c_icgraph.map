@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGSDRPlaySettings::setFrequencyBandIndex" name="SWGSDRangel::SWGSDRPlaySettings::setFrequencyBandIndex">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#abe9ed9b5436aa6315266d03f0d9a0720" title="SDRPlayInput::webapiFormat\lDeviceSettings" alt="" coords="804,46,1000,87"/>
+<area shape="rect" id="node6" href="$dc/d8c/classSDRPlayInput.html#aad7c29a26fd5d185aa3195c92bdf4f3a" title="SDRPlayInput::webapiReverse\lSendSettings" alt="" coords="311,123,515,165"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a3f574cbab08bc4d1717b7917e30f06e1" title="SDRPlayInput::webapiSettingsGet" alt="" coords="1048,5,1272,32"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a053171f3d0d513b6d1d69b99aba6c4e1" title="SDRPlayInput::webapiSettings\lPutPatch" alt="" coords="1059,57,1261,98"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="1320,64,1524,91"/>
+<area shape="rect" id="node7" href="$dc/d8c/classSDRPlayInput.html#a54771c9d02bc434729308f2d73c84335" title="SDRPlayInput::applySettings" alt="" coords="563,156,756,183"/>
+<area shape="rect" id="node8" href="$dc/d8c/classSDRPlayInput.html#a6d2447fc15c5fe419ce8fbcf6919cbcf" title="SDRPlayInput::handleMessage" alt="" coords="1057,123,1263,149"/>
+<area shape="rect" id="node9" href="$dc/d8c/classSDRPlayInput.html#a2cf8304ffa25857a22e89320aaf47982" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="837,213,967,240"/>
+<area shape="rect" id="node11" href="$dc/d8c/classSDRPlayInput.html#aad64250d9376dda3f45c7d2cf9b546fe" title="SDRPlayInput::start" alt="" coords="832,163,972,189"/>
+<area shape="rect" id="node10" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="1063,185,1257,226"/>
+</map>

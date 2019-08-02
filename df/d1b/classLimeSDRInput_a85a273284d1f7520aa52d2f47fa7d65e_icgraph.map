@@ -1,0 +1,13 @@
+<map id="LimeSDRInput::suspendTxBuddies" name="LimeSDRInput::suspendTxBuddies">
+<area shape="rect" id="node2" href="$df/d1b/classLimeSDRInput.html#afc9b508bab765a853f23bd032fb3f70d" title="LimeSDRInput::acquireChannel" alt="" coords="280,155,487,182"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#aa7ed54a39044881adbfdc15391b12754" title="LimeSDRInput::applySettings" alt="" coords="535,206,729,232"/>
+<area shape="rect" id="node9" href="$df/d1b/classLimeSDRInput.html#ab8c8e57a422c0133083f1316c817e9a1" title="LimeSDRInput::releaseChannel" alt="" coords="280,104,487,131"/>
+<area shape="rect" id="node12" href="$df/d1b/classLimeSDRInput.html#a805b01659121f348e4ca013a7c81386a" title="LimeSDRInput::~LimeSDRInput" alt="" coords="1032,28,1243,55"/>
+<area shape="rect" id="node3" href="$df/d1b/classLimeSDRInput.html#a40c84d8ccb4a4de2b3e6c38025a32871" title="LimeSDRInput::start" alt="" coords="809,155,952,182"/>
+<area shape="rect" id="node4" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="1291,122,1487,164"/>
+<area shape="rect" id="node6" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="777,206,984,232"/>
+<area shape="rect" id="node8" href="$df/d1b/classLimeSDRInput.html#a8b151e62b476bc7af1c1b821ab41b3be" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1071,256,1204,283"/>
+<area shape="rect" id="node7" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="1034,206,1241,232"/>
+<area shape="rect" id="node10" href="$df/d1b/classLimeSDRInput.html#adaeb662000958deaabbbdbce48273d2e" title="LimeSDRInput::stop" alt="" coords="561,104,703,131"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html#a9179fd6f48c6dc6e67b13d41afc4b1d0" title="LimeSDRInput::closeDevice" alt="" coords="787,54,975,80"/>
+</map>

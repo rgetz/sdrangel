@@ -1,0 +1,11 @@
+<map id="WebAPIAdapterBase::webapiFormatPreset" name="WebAPIAdapterBase::webapiFormatPreset">
+<area shape="rect" id="node2" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aa1f66371d9e4bec3017023a2e62fd4a6" title="SWGSDRangel::SWGPreset\l::getMSpectrumConfig" alt="" coords="225,5,417,47"/>
+<area shape="rect" id="node3" href="$d4/d17/classSWGSDRangel_1_1SWGGLSpectrum.html#a76c91f03ec0b8fb15bbfabeb23aca987" title="SWGSDRangel::SWGGLSpectrum\l::init" alt="" coords="208,71,435,112"/>
+<area shape="rect" id="node4" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#ad8bd550eda3010509ce6edc3802ee234" title="SWGSDRangel::SWGPreset\l::init" alt="" coords="225,136,417,177"/>
+<area shape="rect" id="node5" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#abd1c97baa74fda5138ec1f8e622cad65" title="SWGSDRangel::SWGPreset\l::setCenterFrequency" alt="" coords="225,201,417,243"/>
+<area shape="rect" id="node6" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aedd594fd8989315792b411de3df51401" title="SWGSDRangel::SWGPreset\l::setDcOffsetCorrection" alt="" coords="225,267,417,308"/>
+<area shape="rect" id="node7" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#a1ef01a9128bb0cc026ab61aeb2b0da48" title="SWGSDRangel::SWGPreset\l::setDescription" alt="" coords="225,332,417,373"/>
+<area shape="rect" id="node8" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aab052b97818524cd6f41ad0b4b4a1617" title="SWGSDRangel::SWGPreset\l::setGroup" alt="" coords="225,397,417,439"/>
+<area shape="rect" id="node9" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#a10ea2902bbc56b6ef15e6654719ac51b" title="SWGSDRangel::SWGPreset\l::setIqImbalanceCorrection" alt="" coords="225,463,417,504"/>
+<area shape="rect" id="node10" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#a2e1237cb8811436053d2dc27041230da" title="SWGSDRangel::SWGPreset\l::setSourcePreset" alt="" coords="225,528,417,569"/>
+</map>

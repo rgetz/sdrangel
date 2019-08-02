@@ -1,0 +1,8 @@
+<map id="LocalSource::MsgSampleRateNotification::getSampleRate" name="LocalSource::MsgSampleRateNotification::getSampleRate">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a42860abe193784ee791bf826aff77c4a" title="LocalSourceGUI::handleMessage" alt="" coords="252,13,469,39"/>
+<area shape="rect" id="node3" href="$d5/df2/classLocalSourceGUI.html#a85c16136d557f058b5687f1441e8582f" title="LocalSourceGUI::handleSource\lMessages" alt="" coords="517,5,723,47"/>
+<area shape="rect" id="node4" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="771,13,993,39"/>
+<area shape="rect" id="node5" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1041,13,1204,39"/>
+<area shape="rect" id="node6" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1252,5,1397,47"/>
+<area shape="rect" id="node7" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1445,5,1584,47"/>
+</map>

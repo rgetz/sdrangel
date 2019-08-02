@@ -1,0 +1,16 @@
+<map id="GLShaderTVArray::SetDataColor" name="GLShaderTVArray::SetDataColor">
+<area shape="rect" id="node2" href="$dc/de4/classGLShaderTVArray.html#ab399636d3a2dd8c5e267833908ce8063" title="GLShaderTVArray::setAlpha\lReset" alt="" coords="237,82,424,123"/>
+<area shape="rect" id="node3" href="$db/d88/classTVScreen.html#a3de8825d4cf0713298a348ba515fd395" title="TVScreen::setDataColor" alt="" coords="248,148,413,175"/>
+<area shape="rect" id="node4" href="$de/dce/classATVDemod.html#a515c8fa3a508d904b16e9c813505ba83" title="ATVDemod::processHSkip" alt="" coords="485,5,665,32"/>
+<area shape="rect" id="node11" href="$de/dce/classATVDemod.html#a87d28c4346c30d20b5fd18bb9d960240" title="ATVDemod::processClassic" alt="" coords="481,56,669,83"/>
+<area shape="rect" id="node12" href="$d6/df6/structleansdr_1_1datvconstellation.html#a8cd3b004b44b27df19867d7e7c2dab4f" title="leansdr::datvconstellation\l\&lt; leansdr::f32 \&gt;::run" alt="" coords="489,107,660,149"/>
+<area shape="rect" id="node13" href="$d2/d24/structleansdr_1_1datvdvbs2constellation.html#aac93b7740d07cce48f4ce24e0ab2de98" title="leansdr::datvdvbs2constellation\l\&lt; leansdr::f32 \&gt;::run" alt="" coords="472,173,677,214"/>
+<area shape="rect" id="node14" href="$dd/d4a/classScopeVisXY.html#a2de94f1c4c19dd35e74d5633d8ee8813" title="ScopeVisXY::feed" alt="" coords="729,264,859,291"/>
+<area shape="rect" id="node15" href="$dd/d4a/classScopeVisXY.html#a5e5377f965aea4e1f9e60a1185542b89" title="ScopeVisXY::drawGraticule" alt="" coords="483,289,667,316"/>
+<area shape="rect" id="node5" href="$de/dce/classATVDemod.html#a188b012e005dbcf77900c6952806fa70" title="ATVDemod::demod" alt="" coords="725,31,863,57"/>
+<area shape="rect" id="node6" href="$de/dce/classATVDemod.html#a92701af346cced40f0891f3250e9b0f4" title="ATVDemod::feed" alt="" coords="911,31,1033,57"/>
+<area shape="rect" id="node7" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="1081,31,1260,57"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="1308,31,1523,57"/>
+<area shape="rect" id="node9" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1571,31,1729,57"/>
+<area shape="rect" id="node10" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1777,23,1964,65"/>
+</map>

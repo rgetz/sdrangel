@@ -1,0 +1,13 @@
+<map id="FileSinkThread::stopWork" name="FileSinkThread::stopWork">
+<area shape="rect" id="node2" href="$d6/dc4/classFileSinkOutput.html#aa6320a647e7c520c28da67ae28a17380" title="FileSinkOutput::handleMessage" alt="" coords="752,9,959,36"/>
+<area shape="rect" id="node4" href="$da/d1f/classFileSinkThread.html#a8baae680fccb40f152c671fbc3b7b414" title="FileSinkThread::setLog2Interpolation" alt="" coords="227,60,461,86"/>
+<area shape="rect" id="node9" href="$da/d1f/classFileSinkThread.html#a3101340797a9e31e3a2d61d9b05f10e8" title="FileSinkThread::setSamplerate" alt="" coords="243,110,445,137"/>
+<area shape="rect" id="node10" href="$d6/dc4/classFileSinkOutput.html#a157102c336c285628447be22ed7c8752" title="FileSinkOutput::stop" alt="" coords="536,161,677,188"/>
+<area shape="rect" id="node12" href="$da/d1f/classFileSinkThread.html#a5eba84c51d12c8dd2565606c410a687e" title="FileSinkThread::~FileSink\lThread" alt="" coords="258,212,430,254"/>
+<area shape="rect" id="node3" href="$d6/dc4/classFileSinkOutput.html#a24cd6a438e859027e39f5b509329a997" title="For when the sink sample rate is set externally. " alt="" coords="1015,9,1221,36"/>
+<area shape="rect" id="node5" href="$d6/dc4/classFileSinkOutput.html#acf2dc988b29778c7c2ecde072f668ba2" title="FileSinkOutput::applySettings" alt="" coords="509,60,704,86"/>
+<area shape="rect" id="node8" href="$d6/dc4/classFileSinkOutput.html#a135b1885b719957aa681307c3e428dda" title="FileSinkOutput::start" alt="" coords="535,110,678,137"/>
+<area shape="rect" id="node6" href="$d6/dc4/classFileSinkOutput.html#ae7e30f4c38d25ca119c5c0a112080aa5" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="789,60,922,86"/>
+<area shape="rect" id="node7" href="$d6/d22/classFileSinkOutput_1_1MsgReportFileSinkStreamTiming.html#aeb9f2a8da8a97780bf7e12e813aaae82" title="FileSinkOutput::MsgReport\lFileSinkStreamTiming::MsgReport\lFileSinkStreamTiming" alt="" coords="1007,121,1229,177"/>
+<area shape="rect" id="node11" href="$d6/dc4/classFileSinkOutput.html#ab34d5ed241fc7ad4bbf917cb8bdf428a" title="FileSinkOutput::~FileSink\lOutput" alt="" coords="770,212,941,254"/>
+</map>

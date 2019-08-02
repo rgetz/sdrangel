@@ -1,0 +1,5 @@
+<map id="TestMIPlugin::initPlugin" name="TestMIPlugin::initPlugin">
+<area shape="rect" id="node2" href="$d6/d95/classPluginAPI.html#a3bd13487b5085be9753959fded17aabb" title="PluginAPI::registerSampleMIMO" alt="" coords="213,13,424,39"/>
+<area shape="rect" id="node3" href="$de/d59/classPluginManager.html#a9ac9417efa5f44ba59ef2d48632ed57b" title="PluginManager::registerSampleMIMO" alt="" coords="472,13,711,39"/>
+<area shape="rect" id="node4" href="$dc/dd6/classPluginInterface.html#aaee18ff0dc1d0d35bcd7a5b2d0ea5737" title="PluginInterface::getPlugin\lDescriptor" alt="" coords="759,5,929,47"/>
+</map>

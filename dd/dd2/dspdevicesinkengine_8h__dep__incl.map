@@ -1,0 +1,15 @@
+<map id="sdrbase/dsp/dspdevicesinkengine.h" name="sdrbase/dsp/dspdevicesinkengine.h">
+<area shape="rect" id="node2" href="$d8/dd4/localsource_8cpp.html" title="plugins/channeltx/localsource\l/localsource.cpp" alt="" coords="5,80,199,121"/>
+<area shape="rect" id="node3" href="$d1/d14/bladerf1output_8cpp.html" title="plugins/samplesink\l/bladerf1output/bladerf1output.cpp" alt="" coords="223,80,442,121"/>
+<area shape="rect" id="node4" href="$d0/d5c/bladerf1input_8cpp.html" title="plugins/samplesource\l/bladerf1input/bladerf1input.cpp" alt="" coords="466,80,669,121"/>
+<area shape="rect" id="node5" href="$dc/d36/deviceapi_8cpp.html" title="sdrbase/device/deviceapi.cpp" alt="" coords="693,87,887,114"/>
+<area shape="rect" id="node6" href="$d8/d8c/dspdevicesinkengine_8cpp.html" title="sdrbase/dsp/dspdevicesinkengine.cpp" alt="" coords="911,87,1154,114"/>
+<area shape="rect" id="node7" href="$dc/d06/dspengine_8cpp.html" title="sdrbase/dsp/dspengine.cpp" alt="" coords="1178,87,1359,114"/>
+<area shape="rect" id="node8" href="$d7/d17/pluginmanager_8cpp.html" title="sdrbase/plugin/pluginmanager.cpp" alt="" coords="1383,87,1602,114"/>
+<area shape="rect" id="node9" href="$d3/dd6/deviceuiset_8cpp.html" title="sdrgui/device/deviceuiset.cpp" alt="" coords="1626,87,1821,114"/>
+<area shape="rect" id="node10" href="$d8/dd9/mainwindow_8cpp.html" title="sdrgui/mainwindow.cpp" alt="" coords="1845,87,2004,114"/>
+<area shape="rect" id="node11" href="$d3/d3d/webapiadaptergui_8cpp.html" title="sdrgui/webapi/webapiadaptergui.cpp" alt="" coords="2029,87,2261,114"/>
+<area shape="rect" id="node12" href="$df/d4a/deviceset_8cpp.html" title="sdrsrv/device/deviceset.cpp" alt="" coords="2285,87,2471,114"/>
+<area shape="rect" id="node13" href="$de/d44/maincore_8cpp.html" title="sdrsrv/maincore.cpp" alt="" coords="2495,87,2635,114"/>
+<area shape="rect" id="node14" href="$dc/d5a/webapiadaptersrv_8cpp.html" title="sdrsrv/webapi/webapiadaptersrv.cpp" alt="" coords="2659,87,2894,114"/>
+</map>

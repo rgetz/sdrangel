@@ -1,0 +1,15 @@
+<map id="MainWindow::updatePresetControls" name="MainWindow::updatePresetControls">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a5cb7313bbbf342f8390e49fb00b6211a" title="MainWindow::addPresetToTree" alt="" coords="236,214,441,241"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="992,122,1172,149"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a058a91cd021f54b1bbabc493206d76c2" title="MainWindow::on_presetDelete\l_clicked" alt="" coords="491,5,691,47"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="243,487,434,528"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#ad39f3f9e3f3d9660cfda96b551e079e5" title="MainWindow::on_presetTree\l_currentItemChanged" alt="" coords="245,552,433,593"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="493,71,689,98"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="754,122,931,149"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a6ef20fde9c652deb547e6522671a0762" title="MainWindow::on_presetEdit\l_clicked" alt="" coords="499,173,684,215"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a71d9dab262e232e3cecc05fa66a40773" title="MainWindow::on_presetImport\l_clicked" alt="" coords="492,239,691,280"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="495,304,687,345"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="489,369,693,411"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="741,71,944,98"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="497,487,685,528"/>
+</map>

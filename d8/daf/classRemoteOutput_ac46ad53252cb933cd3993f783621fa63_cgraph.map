@@ -1,0 +1,5 @@
+<map id="RemoteOutput::sampleRateCorrection" name="RemoteOutput::sampleRateCorrection">
+<area shape="rect" id="node2" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#a35c751e4ad3b9eea71e3203d1d8d3887" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::create" alt="" coords="239,5,444,61"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="247,86,435,127"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="267,152,416,179"/>
+</map>

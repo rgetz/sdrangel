@@ -1,0 +1,12 @@
+<map id="DSPEngine::getDVSerialNames" name="DSPEngine::getDVSerialNames">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a4a39fd62a2697733581045b9414907e4" title="WebAPIAdapterGUI::instance\lAMBEDevicesGet" alt="" coords="264,71,461,112"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#aaefee5b2097f5bf0e2a0964c2a6d8645" title="WebAPIAdapterSrv::instance\lAMBEDevicesGet" alt="" coords="266,136,459,177"/>
+<area shape="rect" id="node8" href="$dc/dd8/classWebAPIAdapterSrv.html#ad44f2ecdf41410db038e3307ce83a8be" title="WebAPIAdapterSrv::instance\lDVSerialGet" alt="" coords="266,201,459,243"/>
+<area shape="rect" id="node9" href="$d7/de5/classWebAPIAdapterGUI.html#a640089a328f27f1a681291e0e5537bf9" title="WebAPIAdapterGUI::instance\lDVSerialGet" alt="" coords="264,267,461,308"/>
+<area shape="rect" id="node10" href="$d7/de5/classWebAPIAdapterGUI.html#a425df6bd33ba0cc0c686905e5f5d5184" title="WebAPIAdapterGUI::instance\lDVSerialPatch" alt="" coords="264,332,461,373"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#a03a780439b9d10d23be0c69f946acd90" title="WebAPIAdapterSrv::instance\lDVSerialPatch" alt="" coords="266,397,459,439"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#a1c9ed18bbfd33adcb618967e18fe16e5" title="WebAPIAdapterGUI::instance\lAMBEDevicesPut" alt="" coords="509,5,707,47"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#acb801e044443f9d553099e6051be1531" title="WebAPIAdapterGUI::instance\lAMBEDevicesPatch" alt="" coords="509,71,707,112"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#ac46b45f37ea2d276a513c524215bf744" title="WebAPIAdapterSrv::instance\lAMBEDevicesPut" alt="" coords="511,136,705,177"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#afcb38e8cbffc2fe9a022d6d1a17a956a" title="WebAPIAdapterSrv::instance\lAMBEDevicesPatch" alt="" coords="511,201,705,243"/>
+</map>

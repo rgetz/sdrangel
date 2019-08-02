@@ -1,0 +1,12 @@
+<map id="SSBMod::serialize" name="SSBMod::serialize">
+<area shape="rect" id="node2" href="$d4/d8d/structSSBModSettings.html#aefe2db9a8a88504b0b64a6d185de9837" title="SSBModSettings::serialize" alt="" coords="184,183,363,209"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="417,5,591,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="415,56,593,83"/>
+<area shape="rect" id="node6" href="$d6/dcb/classSerializable.html#a986c38f88c57f15206278ac65244f3f6" title="Serializable::serialize" alt="" coords="431,107,577,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="416,157,592,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="415,208,593,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="411,259,597,285"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a5b7538a4f71aea1a1bf489bb57098fbe" title="SimpleSerializer::writeReal" alt="" coords="415,309,593,336"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="430,360,578,387"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="645,157,820,184"/>
+</map>

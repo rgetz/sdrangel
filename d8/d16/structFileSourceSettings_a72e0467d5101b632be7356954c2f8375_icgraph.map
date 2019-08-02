@@ -1,0 +1,10 @@
+<map id="FileSourceSettings::deserialize" name="FileSourceSettings::deserialize">
+<area shape="rect" id="node2" href="$d1/d74/classFileSourceGUI.html#aa95c6adc74690b811590837fb9667d31" title="FileSourceGUI::deserialize" alt="" coords="185,5,364,32"/>
+<area shape="rect" id="node3" href="$d9/db6/classFileSource.html#aadfea518a0f9c30714c20023d3b7e666" title="FileSource::deserialize" alt="" coords="197,56,352,83"/>
+<area shape="rect" id="node5" href="$d8/d16/structFileSourceSettings.html#ac4585b3721f6fdb6abc3a32c6c49153a" title="FileSourceSettings\l::setChannelMarker" alt="" coords="207,107,343,149"/>
+<area shape="rect" id="node4" href="$d9/db6/classFileSource.html#aacfaec550417cccc98b1891641297bb2" title="FileSource::getStreamCenter\lFrequency" alt="" coords="418,49,609,90"/>
+<area shape="rect" id="node6" href="$d1/d74/classFileSourceGUI.html#ab9a70cccc49111b79d4f637fe8967675" title="FileSourceGUI::FileSourceGUI" alt="" coords="412,115,615,141"/>
+<area shape="rect" id="node7" href="$d1/d74/classFileSourceGUI.html#a5c8d062f9589ed6ba7aac0e2756ab9e8" title="FileSourceGUI::create" alt="" coords="663,115,815,141"/>
+<area shape="rect" id="node8" href="$db/d0c/classFileSourcePlugin.html#ad64cc15924b1a2079783ad347a078ba8" title="FileSourcePlugin::create\lTxChannelGUI" alt="" coords="863,107,1027,149"/>
+<area shape="rect" id="node9" href="$db/d0c/classFileSourcePlugin.html#aca84425aa7f54a40da9f17b69db7ced3" title="FileSourcePlugin::initPlugin" alt="" coords="1075,115,1256,141"/>
+</map>

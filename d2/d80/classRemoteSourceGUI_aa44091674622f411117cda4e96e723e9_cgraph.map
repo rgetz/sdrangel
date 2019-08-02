@@ -1,0 +1,9 @@
+<map id="RemoteSourceGUI::on_dataPort_returnPressed" name="RemoteSourceGUI::on_dataPort_returnPressed">
+<area shape="rect" id="node2" href="$d2/d80/classRemoteSourceGUI.html#ac7f9534581edccf008ba3517db0010eb" title="RemoteSourceGUI::applySettings" alt="" coords="220,137,440,164"/>
+<area shape="rect" id="node3" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#afffe926056e4fe7c5d6cb1163a8014a5" title="RemoteSource::MsgConfigure\lRemoteSource::create" alt="" coords="488,13,687,54"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="504,79,671,105"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="503,130,671,171"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="513,196,662,223"/>
+<area shape="rect" id="node8" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="496,247,679,273"/>
+<area shape="rect" id="node4" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#ad4fce54859e816d5e17cc4b29bcc07ea" title="RemoteSource::MsgConfigure\lRemoteSource::MsgConfigureRemote\lSource" alt="" coords="735,5,979,61"/>
+</map>

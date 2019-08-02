@@ -1,0 +1,6 @@
+<map id="DeviceSoapySDRScan::getNbDevices" name="DeviceSoapySDRScan::getNbDevices">
+<area shape="rect" id="node2" href="$d5/dea/classDeviceSoapySDR.html#aad06ebc68bd2663c3600c6d6137f5683" title="DeviceSoapySDR::openopen\lSoapySDRFromSequence" alt="" coords="212,23,405,65"/>
+<area shape="rect" id="node3" href="$d5/dea/classDeviceSoapySDR.html#ae1ef1712fcca9eea4e59af9271da072f" title="DeviceSoapySDR::openSoapySDR" alt="" coords="453,31,684,57"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#a100d8379cc1f07365e9ee8c29b8a8e11" title="SoapySDROutput::openDevice" alt="" coords="732,5,936,32"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#a654ec5370d3f40f956c1e016513d92dd" title="SoapySDRInput::openDevice" alt="" coords="737,56,931,83"/>
+</map>

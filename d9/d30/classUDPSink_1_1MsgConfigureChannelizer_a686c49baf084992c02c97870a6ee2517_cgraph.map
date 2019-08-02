@@ -1,0 +1,102 @@
+<map id="UDPSink::MsgConfigureChannelizer::MsgConfigureChannelizer" name="UDPSink::MsgConfigureChannelizer::MsgConfigureChannelizer">
+<area shape="rect" id="node2" href="$d2/d3d/classUDPSink.html#a6e0a451e78739fa6faa371afdea73aff" title="UDPSink::UDPSink" alt="" coords="292,2446,432,2473"/>
+<area shape="rect" id="node96" href="$d2/d3d/classUDPSink.html#a2410a39f2cac987e9ea6bdb3d9f7570c" title="UDPSink::~UDPSink" alt="" coords="288,2775,436,2802"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a39a612869ee44449bd80a146184ad721" title="Add a channel sink (Rx) " alt="" coords="505,2573,693,2599"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a1c01820624b40694bd7cb20c2605e04e" title="DeviceAPI::addChannelSinkAPI" alt="" coords="494,2623,705,2650"/>
+<area shape="rect" id="node9" href="$d2/d3d/classUDPSink.html#ab880a4246bbcf0990f88c0bc1fc0d939" title="UDPSink::applyChannelSettings" alt="" coords="493,2471,705,2498"/>
+<area shape="rect" id="node10" href="$d3/df3/classInterpolator.html#a0202c4edcf49fe8b50ebeb20b88ad630" title="Interpolator::create" alt="" coords="809,2503,939,2530"/>
+<area shape="rect" id="node13" href="$d9/d04/classNCO.html#a148dd2bd02b26128fecbdabdd12ff16f" title="NCO::setFreq" alt="" coords="822,2453,926,2479"/>
+<area shape="rect" id="node14" href="$d2/d3d/classUDPSink.html#a90c3091157ab5a24d56942f37359319f" title="UDPSink::applySettings" alt="" coords="517,2091,681,2118"/>
+<area shape="rect" id="node20" href="$d2/d3d/classUDPSink.html#a8d7a3b532f958292e038f780ffa1d2c5" title="UDPSink::audioReadyRead" alt="" coords="781,979,967,1006"/>
+<area shape="rect" id="node34" href="$db/d1b/classPhaseDiscriminators.html#add56c2a6c4588531bd470844f83ada3b" title="PhaseDiscriminators\l::setFMScaling" alt="" coords="803,2387,945,2428"/>
+<area shape="rect" id="node93" href="$d2/d3d/classUDPSink.html#abbcd1b43c1a78c6b820ffa9df48c5c58" title="UDPSink::networkManagerFinished" alt="" coords="484,2674,715,2701"/>
+<area shape="rect" id="node94" href="$d7/de9/classMagAGC.html#ada84f8be018516b5c158e10f2ff46873" title="MagAGC::setClamping" alt="" coords="521,2370,678,2397"/>
+<area shape="rect" id="node95" href="$d7/de9/classMagAGC.html#a9156e285609a7046f2db4bc7efcc8d4e" title="MagAGC::setClampMax" alt="" coords="517,2421,682,2447"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#a26be0a9b84c19cc4ad6891104af2a316" title="Add a channel sink that will run on its own thread. " alt="" coords="791,2555,957,2596"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a74159be7b1305ac70ceb988349c1d799" title="Add a sample sink that will run on its own thread. " alt="" coords="788,2620,960,2661"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1073,2794,1251,2821"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="767,2802,981,2829"/>
+<area shape="rect" id="node11" href="$d3/df3/classInterpolator.html#a9e863174b768230123fa551a681705ef" title="Interpolator::createPolyphase\lLowPass" alt="" coords="1066,2525,1258,2567"/>
+<area shape="rect" id="node12" href="$d3/df3/classInterpolator.html#a4f2a03f6cd2383ba5e8b45a93c2404d3" title="Interpolator::free" alt="" coords="1103,2474,1221,2501"/>
+<area shape="rect" id="node15" href="$d0/d40/classAudioDeviceManager.html#a38e8964b4d002ec11c3207ca0d4ba7b6" title="Add the audio sink. " alt="" coords="801,2269,947,2311"/>
+<area shape="rect" id="node16" href="$d0/d40/classAudioDeviceManager.html#a181e5e29231a65a1394555e033010912" title="Remove the audio sink. " alt="" coords="1089,2332,1235,2373"/>
+<area shape="rect" id="node23" href="$dd/ddd/classBandpass.html#a3d39031bb775f778bc7e1a5a3ed1a309" title="Bandpass::create" alt="" coords="812,1695,936,1722"/>
+<area shape="rect" id="node24" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="779,2685,969,2727"/>
+<area shape="rect" id="node25" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="790,1747,958,1788"/>
+<area shape="rect" id="node26" href="$d2/d3d/classUDPSink.html#a8c58c08de51433bacca5135218fd4d60" title="UDPSink::initSquelch" alt="" coords="799,1813,949,1839"/>
+<area shape="rect" id="node27" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="801,2751,947,2778"/>
+<area shape="rect" id="node28" href="$d8/d27/classCalcDb.html#a54309dc92676a604d2cf847030242222" title="CalcDb::powerFromdB" alt="" coords="797,1863,951,1890"/>
+<area shape="rect" id="node29" href="$d0/de4/classMovingAverage.html#acbcfff2f280c6ee47587820592a80609" title="MovingAverage::resize" alt="" coords="1387,1939,1541,1966"/>
+<area shape="rect" id="node30" href="$d7/de9/classMagAGC.html#a5638214fb84e90d8220cda5aa02068bf" title="MagAGC::resize" alt="" coords="815,1965,933,1991"/>
+<area shape="rect" id="node33" href="$dc/d57/classUDPSinkUtil.html#aae954aa934b322bce045f28e3fbdcf94" title="UDPSinkUtil::setAddress" alt="" coords="789,2015,959,2042"/>
+<area shape="rect" id="node35" href="$d7/de9/classMagAGC.html#abadb3fe84f7bb46efc75e72c7ea391bb" title="MagAGC::setGate" alt="" coords="809,2066,939,2093"/>
+<area shape="rect" id="node36" href="$dc/d57/classUDPSinkUtil.html#ae4aeb83584e6f72176ca74b6a4af698c" title="UDPSinkUtil::setPort" alt="" coords="801,2117,947,2143"/>
+<area shape="rect" id="node37" href="$d7/de9/classMagAGC.html#ac0b1164ffdfe218a81ecf416439fcf8f" title="MagAGC::setStepDownDelay" alt="" coords="775,2167,973,2194"/>
+<area shape="rect" id="node38" href="$d7/de9/classMagAGC.html#a22f205d28508ed26287b5ca65923940e" title="MagAGC::setThreshold" alt="" coords="795,2218,953,2245"/>
+<area shape="rect" id="node39" href="$d2/d3d/classUDPSink.html#a14606eaedad87960e8c27f761104bd09" title="UDPSink::webapiReverseSend\lSettings" alt="" coords="771,1031,977,1072"/>
+<area shape="rect" id="node18" href="$d0/d40/classAudioDeviceManager.html#a37b856d43e87963c81ff4b91cdbd0668" title="AudioDeviceManager\l::startAudioOutput" alt="" coords="1089,2267,1235,2308"/>
+<area shape="rect" id="node17" href="$d0/d40/classAudioDeviceManager.html#afef27a8a7969bb4c833bee1bbe18d04a" title="AudioDeviceManager\l::stopAudioOutput" alt="" coords="1391,2332,1537,2373"/>
+<area shape="rect" id="node19" href="$d0/d40/classAudioDeviceManager.html#abd04140bd856b06109944d15f537f525" title="AudioDeviceManager\l::getOutputDeviceName" alt="" coords="1383,2267,1545,2308"/>
+<area shape="rect" id="node21" href="$dc/dd8/classAudioFifo.html#af3d2d6fdc56a9b3e6ef86c019d874105" title="AudioFifo::write" alt="" coords="1105,46,1219,73"/>
+<area shape="rect" id="node22" href="$dc/dd8/classAudioFifo.html#aafd22a861c9aacc3cd7e9b987f7923ed" title="AudioFifo::isFull" alt="" coords="1406,46,1522,73"/>
+<area shape="rect" id="node31" href="$d0/de4/classMovingAverage.html#a74d6d51467eb9cfb2b728020a2791442" title="MovingAverage::fill" alt="" coords="1095,2015,1229,2042"/>
+<area shape="rect" id="node32" href="$d5/d56/classAGC.html#a5058b22001643d03b22156c8899e3ded" title="AGC::resize" alt="" coords="1115,1965,1209,1991"/>
+<area shape="rect" id="node40" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#af8ec63c744563e8634ddfbb8f02b41c9" title="SWGSDRangel::SWGChannelSettings\l::asJson" alt="" coords="1037,685,1287,727"/>
+<area shape="rect" id="node66" href="$d7/d02/classChannelAPI.html#aeee7a811690467390bc11def4f78b919" title="ChannelAPI::getDeviceSet\lIndex" alt="" coords="1073,751,1251,792"/>
+<area shape="rect" id="node67" href="$d7/d02/classChannelAPI.html#a9421ed946473753ddec3d68bd634807f" title="ChannelAPI::getIndexInDeviceSet" alt="" coords="1051,817,1273,843"/>
+<area shape="rect" id="node68" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a82db5d0f4471556070e42bf264b97992" title="SWGSDRangel::SWGChannelSettings\l::getUdpSinkSettings" alt="" coords="1037,868,1287,909"/>
+<area shape="rect" id="node69" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a067bb05eddb77c746c269ceeb7a77910" title="SWGSDRangel::SWGUDPSinkSettings\l::setAgc" alt="" coords="1033,933,1291,975"/>
+<area shape="rect" id="node70" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#ad079195f5663b6498b5f4c4f7aebec1d" title="SWGSDRangel::SWGUDPSinkSettings\l::setAudioActive" alt="" coords="1033,999,1291,1040"/>
+<area shape="rect" id="node71" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#abf5cfc18bbbc584c6fb5772bcad44402" title="SWGSDRangel::SWGUDPSinkSettings\l::setAudioPort" alt="" coords="1033,1064,1291,1105"/>
+<area shape="rect" id="node72" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a34942eb2cac7c2d5023d5d5b190332b3" title="SWGSDRangel::SWGUDPSinkSettings\l::setAudioStereo" alt="" coords="1033,1129,1291,1171"/>
+<area shape="rect" id="node73" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a540dbd8baf8882613d98e0814ba4d5a4" title="SWGSDRangel::SWGUDPSinkSettings\l::setChannelMute" alt="" coords="1033,1195,1291,1236"/>
+<area shape="rect" id="node74" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a9adab6da69bbc65c8aa06d5fb8b11d2e" title="SWGSDRangel::SWGChannelSettings\l::setChannelType" alt="" coords="1037,1260,1287,1301"/>
+<area shape="rect" id="node75" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a8cff83dd2529f6ca7b1c0b3663eb197b" title="SWGSDRangel::SWGChannelSettings\l::setDirection" alt="" coords="1037,1325,1287,1367"/>
+<area shape="rect" id="node76" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a23388fb69d66c4f044e7168f3385a387" title="SWGSDRangel::SWGUDPSinkSettings\l::setFmDeviation" alt="" coords="1033,1391,1291,1432"/>
+<area shape="rect" id="node77" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a21283f2668b50e1c664f9c9a6e2a65b7" title="SWGSDRangel::SWGUDPSinkSettings\l::setGain" alt="" coords="1033,1456,1291,1497"/>
+<area shape="rect" id="node78" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#abf7d02b67db7d7f01767bcde778f65af" title="SWGSDRangel::SWGUDPSinkSettings\l::setInputFrequencyOffset" alt="" coords="1033,1521,1291,1563"/>
+<area shape="rect" id="node79" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#ae499bf28194d5d278e5f93cb1f85740c" title="SWGSDRangel::SWGChannelSettings\l::setOriginatorChannelIndex" alt="" coords="1037,1587,1287,1628"/>
+<area shape="rect" id="node80" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aa61492b5ba6ea4814dec07e859a25b66" title="SWGSDRangel::SWGChannelSettings\l::setOriginatorDeviceSetIndex" alt="" coords="1037,1652,1287,1693"/>
+<area shape="rect" id="node81" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a131428b65866d790ba0eaaf600f1da90" title="SWGSDRangel::SWGUDPSinkSettings\l::setOutputSampleRate" alt="" coords="1033,1717,1291,1759"/>
+<area shape="rect" id="node82" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a20d809ba755c6bfee0528502a3142068" title="SWGSDRangel::SWGUDPSinkSettings\l::setRfBandwidth" alt="" coords="1033,1783,1291,1824"/>
+<area shape="rect" id="node83" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#aa1e6a1f6e28ddaa6d260c74d6b3f9af8" title="SWGSDRangel::SWGUDPSinkSettings\l::setRgbColor" alt="" coords="1033,1848,1291,1889"/>
+<area shape="rect" id="node84" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#ab060d27824b76d86e7e80c873e698513" title="SWGSDRangel::SWGUDPSinkSettings\l::setSampleFormat" alt="" coords="1033,97,1291,139"/>
+<area shape="rect" id="node85" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a1fb3fbdb8c79bc331cc9dd003cf3ccad" title="SWGSDRangel::SWGUDPSinkSettings\l::setSquelchDb" alt="" coords="1033,163,1291,204"/>
+<area shape="rect" id="node86" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a2aa39a956da9aff3ec36cdbc98a50e76" title="SWGSDRangel::SWGUDPSinkSettings\l::setSquelchEnabled" alt="" coords="1033,228,1291,269"/>
+<area shape="rect" id="node87" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#ac36e7bc8af4cabe3faa045cc022d4faf" title="SWGSDRangel::SWGUDPSinkSettings\l::setSquelchGate" alt="" coords="1033,293,1291,335"/>
+<area shape="rect" id="node88" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a271ac3e722c7f5df01143e9fa1180bf7" title="SWGSDRangel::SWGUDPSinkSettings\l::setTitle" alt="" coords="1033,359,1291,400"/>
+<area shape="rect" id="node89" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#af464c402a9ec65ac243772b9bfc692f0" title="SWGSDRangel::SWGUDPSinkSettings\l::setUdpAddress" alt="" coords="1033,424,1291,465"/>
+<area shape="rect" id="node90" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a281382f9130cda5d068fe8bffc0bc228" title="SWGSDRangel::SWGUDPSinkSettings\l::setUdpPort" alt="" coords="1033,489,1291,531"/>
+<area shape="rect" id="node91" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a72ad98bfea8e9a066b511cb972c23337" title="SWGSDRangel::SWGChannelSettings\l::setUdpSinkSettings" alt="" coords="1037,555,1287,596"/>
+<area shape="rect" id="node92" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#a8404c7998ae6d948eea9a187fe94d075" title="SWGSDRangel::SWGUDPSinkSettings\l::setVolume" alt="" coords="1033,620,1291,661"/>
+<area shape="rect" id="node41" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aa64df94d68acbb4b8fc717e48aec6032" title="SWGSDRangel::SWGChannelSettings\l::asJsonObject" alt="" coords="1339,685,1589,727"/>
+<area shape="rect" id="node42" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1672,13,1867,39"/>
+<area shape="rect" id="node44" href="$dd/d3c/classSWGSDRangel_1_1SWGAMDemodSettings.html#a80342315fc76dfc0360cb3a41fc0a690" title="SWGSDRangel::SWGAMDemodSettings\l::isSet" alt="" coords="1637,64,1901,105"/>
+<area shape="rect" id="node45" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a732753b726ea928029f2739534c82b03" title="SWGSDRangel::SWGAMModSettings\l::isSet" alt="" coords="1646,129,1893,171"/>
+<area shape="rect" id="node47" href="$d5/df0/classSWGSDRangel_1_1SWGATVModSettings.html#ab27a78edec8f2b6570761065349b9dfc" title="SWGSDRangel::SWGATVModSettings\l::isSet" alt="" coords="1643,195,1896,236"/>
+<area shape="rect" id="node48" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a2192092fffb14a9461ba43d4703f3b78" title="SWGSDRangel::SWGBFMDemod\lSettings::isSet" alt="" coords="1657,260,1881,301"/>
+<area shape="rect" id="node49" href="$d6/d5e/classSWGSDRangel_1_1SWGDSDDemodSettings.html#a6aab825873a7acc8b3b543cf752b3219" title="SWGSDRangel::SWGDSDDemod\lSettings::isSet" alt="" coords="1657,325,1882,367"/>
+<area shape="rect" id="node50" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a2a15537f5c4be8ef06cc59b949a3ec4a" title="SWGSDRangel::SWGFileSource\lSettings::isSet" alt="" coords="1661,391,1877,432"/>
+<area shape="rect" id="node51" href="$d5/d77/classSWGSDRangel_1_1SWGFreeDVDemodSettings.html#a3f7b1a502b5f9b21347fd78e2e959cb4" title="SWGSDRangel::SWGFreeDVDemod\lSettings::isSet" alt="" coords="1649,456,1890,497"/>
+<area shape="rect" id="node52" href="$d2/d68/classSWGSDRangel_1_1SWGFreeDVModSettings.html#a02174a93c8ada96b173a2fbb8d468497" title="SWGSDRangel::SWGFreeDVMod\lSettings::isSet" alt="" coords="1657,521,1881,563"/>
+<area shape="rect" id="node53" href="$dc/d82/classSWGSDRangel_1_1SWGFreqTrackerSettings.html#a480ef11d8cf976fccbcc3099044ac34f" title="SWGSDRangel::SWGFreqTracker\lSettings::isSet" alt="" coords="1657,587,1881,628"/>
+<area shape="rect" id="node54" href="$d4/d7a/classSWGSDRangel_1_1SWGNFMDemodSettings.html#a61616939ff79f4e4926c48c521935c71" title="SWGSDRangel::SWGNFMDemod\lSettings::isSet" alt="" coords="1657,652,1882,693"/>
+<area shape="rect" id="node55" href="$d3/d66/classSWGSDRangel_1_1SWGNFMModSettings.html#a37c9133225a4fa44cf60991d3368bfa4" title="SWGSDRangel::SWGNFMModSettings\l::isSet" alt="" coords="1641,717,1897,759"/>
+<area shape="rect" id="node56" href="$d6/d37/classSWGSDRangel_1_1SWGLocalSinkSettings.html#a814123bc839529d4bca8a1fb721cd012" title="SWGSDRangel::SWGLocalSink\lSettings::isSet" alt="" coords="1664,783,1875,824"/>
+<area shape="rect" id="node57" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a48f8d0a47fa0a689c1483deacf15d525" title="SWGSDRangel::SWGLocalSource\lSettings::isSet" alt="" coords="1656,848,1883,889"/>
+<area shape="rect" id="node58" href="$df/d4d/classSWGSDRangel_1_1SWGRemoteSinkSettings.html#a41fe341a0e97a1f9bd4d9619450a5240" title="SWGSDRangel::SWGRemoteSink\lSettings::isSet" alt="" coords="1656,913,1883,955"/>
+<area shape="rect" id="node59" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a8b116fac38336f074f758ccdd10b37ba" title="SWGSDRangel::SWGRemoteSource\lSettings::isSet" alt="" coords="1649,979,1890,1020"/>
+<area shape="rect" id="node60" href="$d8/d71/classSWGSDRangel_1_1SWGSSBModSettings.html#aebf8e650fb17d628207d87defbe7bae7" title="SWGSDRangel::SWGSSBModSettings\l::isSet" alt="" coords="1642,1044,1897,1085"/>
+<area shape="rect" id="node61" href="$d7/d5c/classSWGSDRangel_1_1SWGSSBDemodSettings.html#a57493542edb9900ad547c6268ec21b5a" title="SWGSDRangel::SWGSSBDemod\lSettings::isSet" alt="" coords="1658,1109,1881,1151"/>
+<area shape="rect" id="node62" href="$de/d4f/classSWGSDRangel_1_1SWGUDPSourceSettings.html#a73f91215fa8c4ef2255602fc85e90623" title="SWGSDRangel::SWGUDPSource\lSettings::isSet" alt="" coords="1657,1175,1881,1216"/>
+<area shape="rect" id="node63" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#ae3d4b88432ac68373fceec6e93b0a1fa" title="SWGSDRangel::SWGUDPSinkSettings\l::isSet" alt="" coords="1641,1240,1898,1281"/>
+<area shape="rect" id="node64" href="$d0/de4/classSWGSDRangel_1_1SWGWFMDemodSettings.html#a3313d482c0c331364842df30dd0abf22" title="SWGSDRangel::SWGWFMDemod\lSettings::isSet" alt="" coords="1655,1305,1883,1347"/>
+<area shape="rect" id="node65" href="$db/d62/classSWGSDRangel_1_1SWGWFMModSettings.html#afc80c7d136c6ff736e9746c774e91187" title="SWGSDRangel::SWGWFMModSettings\l::isSet" alt="" coords="1640,1371,1899,1412"/>
+<area shape="rect" id="node43" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1983,5,2175,47"/>
+<area shape="rect" id="node46" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a64b479e886736ea9e3d26ab93018bcb3" title="SWGSDRangel::SWGCWKeyerSettings\l::isSet" alt="" coords="1949,717,2208,759"/>
+<area shape="rect" id="node97" href="$dd/db6/classDeviceAPI.html#a8b98fc6e62f1934e03da5b660620c0fc" title="Remove a channel sink (Rx) " alt="" coords="494,2962,705,2989"/>
+<area shape="rect" id="node100" href="$dd/db6/classDeviceAPI.html#a0256b15fffe8fe72d67a3c7f48dd1de3" title="DeviceAPI::removeChannel\lSinkAPI" alt="" coords="507,2827,691,2868"/>
+<area shape="rect" id="node98" href="$df/d80/classDSPDeviceMIMOEngine.html#abfc2e3f0274e76009daa461526fb810e" title="Remove a channel sink that runs on its own thread. " alt="" coords="791,3020,957,3061"/>
+<area shape="rect" id="node99" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3dbc76bc6de91d8fe553d3a70ee6f287" title="Remove a sample sink that runs on its own thread. " alt="" coords="788,2955,960,2996"/>
+<area shape="rect" id="node101" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="763,2853,985,2879"/>
+</map>

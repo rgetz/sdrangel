@@ -1,0 +1,29 @@
+<map id="FCDProPlusInput" name="FCDProPlusInput">
+<area shape="rect" id="node2" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="351,367,499,393"/>
+<area shape="rect" id="node22" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="724,728,896,755"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,425,127,452"/>
+<area shape="rect" id="node14" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="727,428,893,455"/>
+<area shape="rect" id="node17" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="354,417,497,444"/>
+<area shape="rect" id="node18" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="350,287,501,313"/>
+<area shape="rect" id="node19" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="731,479,889,505"/>
+<area shape="rect" id="node20" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="359,531,492,557"/>
+<area shape="rect" id="node4" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,147,127,173"/>
+<area shape="rect" id="node6" href="$dc/dd1/classFCDProPlusThread.html" title="FCDProPlusThread" alt="" coords="1164,75,1300,101"/>
+<area shape="rect" id="node5" href="$dc/dd8/classAudioFifo.html" title="AudioFifo" alt="" coords="771,119,849,145"/>
+<area shape="rect" id="node7" href="$d0/d5b/classDecimators.html" title="Decimators\&lt; qint32,\l qint16, SDR_RX_SAMP\l_SZ, 16 \&gt;" alt="" coords="725,39,895,95"/>
+<area shape="rect" id="node8" href="$da/dea/classIntHalfbandFilterEO.html" title="IntHalfbandFilterEO\l\&lt; qint32, qint32, DECIMATORS\l_HB_FILTER_ORDER \&gt;" alt="" coords="320,92,531,148"/>
+<area shape="rect" id="node9" href="$d6/d91/classAudioInput.html" title="AudioInput" alt="" coords="1190,259,1274,285"/>
+<area shape="rect" id="node10" href="$d1/d10/structhid__device__.html" title="hid_device_" alt="" coords="1187,208,1277,235"/>
+<area shape="rect" id="node11" href="$d7/de0/structinput__report.html" title="input_report" alt="" coords="765,208,855,235"/>
+<area shape="rect" id="node12" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1189,505,1275,532"/>
+<area shape="rect" id="node13" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="755,580,865,607"/>
+<area shape="rect" id="node15" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="367,639,483,665"/>
+<area shape="rect" id="node16" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,639,107,665"/>
+<area shape="rect" id="node28" href="$da/d2c/classFileRecord.html" title="FileRecord" alt="" coords="985,284,1071,311"/>
+<area shape="rect" id="node21" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,564,135,591"/>
+<area shape="rect" id="node23" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="345,845,505,886"/>
+<area shape="rect" id="node24" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="355,931,495,973"/>
+<area shape="rect" id="node25" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="350,779,501,821"/>
+<area shape="rect" id="node26" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="744,529,876,556"/>
+<area shape="rect" id="node27" href="$d9/dab/structFCDProPlusSettings.html" title="FCDProPlusSettings" alt="" coords="1160,428,1304,455"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GLSpectrum::getWaterfallShare" name="GLSpectrum::getWaterfallShare">
+<area shape="rect" id="node2" href="$d4/dcb/classGLSpectrumGUI.html#afe7a0483fa127807472a56ed4462a2a8" title="GLSpectrumGUI::serialize" alt="" coords="227,115,401,141"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a87c9229d360865dd18182e77342a2f5e" title="MainWindow::savePresetSettings" alt="" coords="449,115,668,141"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="733,5,903,32"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="720,56,916,83"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="722,107,914,149"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="716,173,920,214"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a332903d4cb976b351b8c11d6ec9159e3" title="MainWindow::on_settingsSave\l_clicked" alt="" coords="717,238,919,279"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="968,56,1171,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1219,56,1399,83"/>
+</map>

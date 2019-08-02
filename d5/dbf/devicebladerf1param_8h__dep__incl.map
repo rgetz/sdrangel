@@ -1,0 +1,12 @@
+<map id="devices/bladerf1/devicebladerf1param.h" name="devices/bladerf1/devicebladerf1param.h">
+<area shape="rect" id="node2" href="$da/d72/bladerf1output_8h.html" title="plugins/samplesink\l/bladerf1output/bladerf1output.h" alt="" coords="257,80,463,121"/>
+<area shape="rect" id="node7" href="$d7/dce/bladerf1input_8h.html" title="plugins/samplesource\l/bladerf1input/bladerf1input.h" alt="" coords="503,80,692,121"/>
+<area shape="rect" id="node3" href="$d1/d14/bladerf1output_8cpp.html" title="plugins/samplesink\l/bladerf1output/bladerf1output.cpp" alt="" coords="5,169,224,211"/>
+<area shape="rect" id="node4" href="$d7/d6e/bladerf1outputgui_8h.html" title="plugins/samplesink\l/bladerf1output/bladerf1outputgui.h" alt="" coords="249,169,471,211"/>
+<area shape="rect" id="node5" href="$dc/d64/bladerf1outputgui_8cpp.html" title="plugins/samplesink\l/bladerf1output/bladerf1outputgui.cpp" alt="" coords="23,259,259,300"/>
+<area shape="rect" id="node6" href="$da/d4d/bladerf1outputplugin_8cpp.html" title="plugins/samplesink\l/bladerf1output/bladerf1outputplugin.cpp" alt="" coords="284,259,537,300"/>
+<area shape="rect" id="node8" href="$d0/d5c/bladerf1input_8cpp.html" title="plugins/samplesource\l/bladerf1input/bladerf1input.cpp" alt="" coords="496,169,699,211"/>
+<area shape="rect" id="node9" href="$db/d3a/bladerf1inputgui_8h.html" title="plugins/samplesource\l/bladerf1input/bladerf1inputgui.h" alt="" coords="723,169,930,211"/>
+<area shape="rect" id="node10" href="$d9/d04/bladerf1inputgui_8cpp.html" title="plugins/samplesource\l/bladerf1input/bladerf1inputgui.cpp" alt="" coords="665,259,885,300"/>
+<area shape="rect" id="node11" href="$de/d03/bladerf1inputplugin_8cpp.html" title="plugins/samplesource\l/bladerf1input/bladerf1inputplugin.cpp" alt="" coords="909,259,1147,300"/>
+</map>

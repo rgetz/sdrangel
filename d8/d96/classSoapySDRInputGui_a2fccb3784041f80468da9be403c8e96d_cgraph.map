@@ -1,0 +1,13 @@
+<map id="SoapySDRInputGui::createGlobalGainControl" name="SoapySDRInputGui::createGlobalGainControl">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#a93cdc80d15747169f07fe6329c289a7c" title="SoapySDRInputGui::autoGain\lChanged" alt="" coords="247,5,445,47"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a87d9cef2e45cf686e7f44704e02c29cd" title="SoapySDRInput::getGlobal\lGainRange" alt="" coords="256,136,436,177"/>
+<area shape="rect" id="node6" href="$d8/d96/classSoapySDRInputGui.html#a6df590c0535b81a33326c4e4e346bb4a" title="SoapySDRInputGui::global\lGainChanged" alt="" coords="257,71,435,112"/>
+<area shape="rect" id="node7" href="$da/d65/classSoapySDRInput.html#a2d13d8f2100891801fc71ac7a30aa8e1" title="SoapySDRInput::isAGCSupported" alt="" coords="235,202,457,229"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="297,253,395,279"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="299,303,393,330"/>
+<area shape="rect" id="node10" href="$dd/d21/classIntervalSliderGUI.html#ad009bf880e061664cdf8145fde5982f2" title="IntervalSliderGUI::\lsetInterval" alt="" coords="281,355,411,396"/>
+<area shape="rect" id="node11" href="$dd/d21/classIntervalSliderGUI.html#a1c53695335e4000cf93841249d8aea03" title="IntervalSliderGUI::\lsetLabel" alt="" coords="281,420,411,461"/>
+<area shape="rect" id="node12" href="$dd/d21/classIntervalSliderGUI.html#adcfbada5a9a220992bb12316ea05a49c" title="IntervalSliderGUI::\lsetUnits" alt="" coords="281,485,411,527"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a868ab9f107250956a99c440943eb7b0a" title="SoapySDRInputGui::sendSettings" alt="" coords="505,46,727,73"/>
+<area shape="rect" id="node5" href="$df/d0d/classDeviceSoapySDRParams.html#a6a33ea2d7bbfaef69fc75ca280f8ab2a" title="DeviceSoapySDRParams\l::getRxChannelSettings" alt="" coords="529,165,703,207"/>
+</map>

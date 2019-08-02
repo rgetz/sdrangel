@@ -1,0 +1,8 @@
+<map id="FreeDVDemod::MsgConfigureFreeDVDemodPrivate::create" name="FreeDVDemod::MsgConfigureFreeDVDemodPrivate::create">
+<area shape="rect" id="node2" href="$de/de0/classFreeDVDemod.html#a8a7326ac24eb6a62b5bb7072d6958679" title="FreeDVDemod::configure" alt="" coords="252,13,423,39"/>
+<area shape="rect" id="node3" href="$de/de0/classFreeDVDemod.html#ad960e3d5b9e76abdb096930ccb2e2ead" title="FreeDVDemod::setSampleSink" alt="" coords="471,13,676,39"/>
+<area shape="rect" id="node4" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="724,13,976,39"/>
+<area shape="rect" id="node5" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1024,13,1201,39"/>
+<area shape="rect" id="node6" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1249,13,1485,39"/>
+<area shape="rect" id="node7" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1533,13,1697,39"/>
+</map>

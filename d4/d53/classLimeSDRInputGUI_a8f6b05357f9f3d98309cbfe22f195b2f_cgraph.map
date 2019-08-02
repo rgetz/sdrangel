@@ -1,0 +1,34 @@
+<map id="LimeSDRInputGUI::handleMessage" name="LimeSDRInputGUI::handleMessage">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="914,93,954,119"/>
+<area shape="rect" id="node7" href="$d4/d53/classLimeSDRInputGUI.html#a4369d661a5c485540e288294c564f2e1" title="LimeSDRInputGUI::blockApply\lSettings" alt="" coords="293,27,497,68"/>
+<area shape="rect" id="node8" href="$d4/d53/classLimeSDRInputGUI.html#a5ed1f0d4a0b6d3cd99c68748e85d5d89" title="LimeSDRInputGUI::display\lSettings" alt="" coords="305,92,486,133"/>
+<area shape="rect" id="node14" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#a21a053fc5ce0a8eb1472ac9feebafa36" title="LimeSDRInput::MsgReportStream\lInfo::getActive" alt="" coords="284,157,507,199"/>
+<area shape="rect" id="node15" href="$d9/d1a/classDeviceLimeSDRShared_1_1MsgReportBuddyChange.html#aac6246242eadf394a4b092511d97378e" title="DeviceLimeSDRShared\l::MsgReportBuddyChange\l::getCenterFrequency" alt="" coords="307,223,483,279"/>
+<area shape="rect" id="node16" href="$d9/d1a/classDeviceLimeSDRShared_1_1MsgReportBuddyChange.html#af017b188878d0a9e61fe806a253edf08" title="DeviceLimeSDRShared\l::MsgReportBuddyChange\l::getDevSampleRate" alt="" coords="307,303,483,359"/>
+<area shape="rect" id="node17" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#ac98a3fdc6eea47b4a0e38aac69c2230d" title="LimeSDRInput::MsgReportStream\lInfo::getDroppedPackets" alt="" coords="284,384,507,425"/>
+<area shape="rect" id="node18" href="$d9/dc5/classDeviceLimeSDRShared_1_1MsgReportClockSourceChange.html#adbc129eb272f1dba140c5e4e379921d6" title="DeviceLimeSDRShared\l::MsgReportClockSourceChange\l::getExtClock" alt="" coords="288,450,503,506"/>
+<area shape="rect" id="node19" href="$d9/dc5/classDeviceLimeSDRShared_1_1MsgReportClockSourceChange.html#a141fa4970f5443b91c4ba8bd05579853" title="DeviceLimeSDRShared\l::MsgReportClockSourceChange\l::getExtClockFeq" alt="" coords="288,530,503,586"/>
+<area shape="rect" id="node20" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#ab33941f4acd857cdcff1046278a20e98" title="LimeSDRInput::MsgReportStream\lInfo::getFifoFilledCount" alt="" coords="284,611,507,652"/>
+<area shape="rect" id="node21" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#ae2eeedb88f49c367835aa71a16b11e6c" title="LimeSDRInput::MsgReportStream\lInfo::getFifoSize" alt="" coords="284,676,507,717"/>
+<area shape="rect" id="node22" href="$de/de8/classDeviceLimeSDRShared_1_1MsgReportDeviceInfo.html#aaa26bda8b1fca03a54ec10d0c9d1c6e3" title="DeviceLimeSDRShared\l::MsgReportDeviceInfo\l::getGPIOPins" alt="" coords="315,742,476,798"/>
+<area shape="rect" id="node23" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#aa09639a88565cee065c7781b0138a4d1" title="LimeSDRInput::MsgReportStream\lInfo::getLinkRate" alt="" coords="284,823,507,864"/>
+<area shape="rect" id="node24" href="$d9/d1a/classDeviceLimeSDRShared_1_1MsgReportBuddyChange.html#af3811483b0c8d59f1154d494f156d887" title="DeviceLimeSDRShared\l::MsgReportBuddyChange\l::getLog2HardDecimInterp" alt="" coords="307,889,483,945"/>
+<area shape="rect" id="node25" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#aea5c0f7268cd090d521d463c62d220b6" title="LimeSDRInput::MsgReportStream\lInfo::getOverrun" alt="" coords="284,969,507,1011"/>
+<area shape="rect" id="node26" href="$d9/d1a/classDeviceLimeSDRShared_1_1MsgReportBuddyChange.html#a8aed28c1621139bb057da2ef6b01ef2c" title="DeviceLimeSDRShared\l::MsgReportBuddyChange\l::getRxElseTx" alt="" coords="307,1035,483,1091"/>
+<area shape="rect" id="node27" href="$d1/da5/classLimeSDRInput_1_1MsgConfigureLimeSDR.html#ae7948ed7620c580e1501951d42380539" title="LimeSDRInput::MsgConfigure\lLimeSDR::getSettings" alt="" coords="297,1116,494,1157"/>
+<area shape="rect" id="node28" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#aeae9724ca68c879729f50350b352cee6" title="LimeSDRInput::MsgStartStop\l::getStartStop" alt="" coords="297,1181,493,1223"/>
+<area shape="rect" id="node29" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#a37171b3b46653ab85847dcefccbc4807" title="LimeSDRInput::MsgReportStream\lInfo::getSuccess" alt="" coords="284,1247,507,1288"/>
+<area shape="rect" id="node30" href="$de/de8/classDeviceLimeSDRShared_1_1MsgReportDeviceInfo.html#a776a1110b94b58b4ce5a0c27d4f22ff4" title="DeviceLimeSDRShared\l::MsgReportDeviceInfo\l::getTemperature" alt="" coords="315,1313,476,1369"/>
+<area shape="rect" id="node31" href="$d1/d90/classLimeSDRInput_1_1MsgReportStreamInfo.html#a73dc91854f80a35f68e82a4191d043e4" title="LimeSDRInput::MsgReportStream\lInfo::getUnderrun" alt="" coords="284,1393,507,1435"/>
+<area shape="rect" id="node32" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="336,1459,455,1486"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1077,93,1185,119"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1233,115,1381,156"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1437,63,1556,90"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1429,115,1564,156"/>
+<area shape="rect" id="node9" href="$d4/d53/classLimeSDRInputGUI.html#a20614e960e74deb2e58b32cedd7ffb9f" title="LimeSDRInputGUI::display\lSampleRate" alt="" coords="582,224,763,265"/>
+<area shape="rect" id="node11" href="$d4/d53/classLimeSDRInputGUI.html#a60fd5acff41e33a36643073f1336ba96" title="LimeSDRInputGUI::setCenter\lFrequencyDisplay" alt="" coords="574,56,771,97"/>
+<area shape="rect" id="node12" href="$d4/d53/classLimeSDRInputGUI.html#a264dc6ce82a77e9719d2d1e793108c00" title="LimeSDRInputGUI::setNCODisplay" alt="" coords="557,122,789,149"/>
+<area shape="rect" id="node13" href="$d4/d53/classLimeSDRInputGUI.html#a4d47afb6f236b36cbfadc88fe2c60c6d" title="LimeSDRInputGUI::updateADCRate" alt="" coords="555,173,791,199"/>
+<area shape="rect" id="node10" href="$df/d1b/classLimeSDRInput.html#aed116f7a1d76fa174f7226812284e03d" title="LimeSDRInput::getSRRange" alt="" coords="839,231,1029,258"/>
+<area shape="rect" id="node33" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="588,1459,757,1486"/>
+</map>

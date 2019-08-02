@@ -1,0 +1,9 @@
+<map id="MainSettings::deletePreset" name="MainSettings::deletePreset">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="243,5,421,32"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="234,56,430,83"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a058a91cd021f54b1bbabc493206d76c2" title="MainWindow::on_presetDelete\l_clicked" alt="" coords="232,107,432,149"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="489,5,673,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="749,5,892,32"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="480,56,683,83"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="731,56,911,83"/>
+</map>

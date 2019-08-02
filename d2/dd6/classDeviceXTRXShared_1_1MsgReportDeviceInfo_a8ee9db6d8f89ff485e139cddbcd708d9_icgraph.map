@@ -1,0 +1,8 @@
+<map id="DeviceXTRXShared::MsgReportDeviceInfo::getTemperature" name="DeviceXTRXShared::MsgReportDeviceInfo::getTemperature">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a6bef06277cb9dbaa85094634eb78d151" title="XTRXOutputGUI::handleMessage" alt="" coords="265,17,485,43"/>
+<area shape="rect" id="node5" href="$d3/df5/classXTRXInputGUI.html#ad5a3b3ea143d7a194ed0f412973d6f44" title="XTRXInputGUI::handleMessage" alt="" coords="270,71,481,98"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a65c356ea0a031215b0addc1177cf962f" title="XTRXOutputGUI::handleInput\lMessages" alt="" coords="533,5,729,47"/>
+<area shape="rect" id="node4" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="777,13,1005,39"/>
+<area shape="rect" id="node6" href="$d3/df5/classXTRXInputGUI.html#a14a8a35ee0a173ad0eed8c87ddf8d902" title="XTRXInputGUI::handleInput\lMessages" alt="" coords="538,71,725,112"/>
+<area shape="rect" id="node7" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="787,78,995,105"/>
+</map>

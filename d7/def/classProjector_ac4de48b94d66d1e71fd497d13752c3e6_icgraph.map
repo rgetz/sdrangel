@@ -1,0 +1,10 @@
+<map id="Projector::settProjectionType" name="Projector::settProjectionType">
+<area shape="rect" id="node2" href="$d8/d0c/structScopeVis_1_1TriggerCondition.html#ad01064aee3b4f35a8f0e2f59cbe0016b" title="ScopeVis::TriggerCondition\l::initProjector" alt="" coords="244,5,425,47"/>
+<area shape="rect" id="node3" href="$d0/d0b/structScopeVis_1_1TraceControl.html#a9bd10e9e22a217647cfc7f19e0948689" title="ScopeVis::TraceControl\l::initProjector" alt="" coords="254,71,415,112"/>
+<area shape="rect" id="node9" href="$d8/d0c/structScopeVis_1_1TriggerCondition.html#a87661dbf2c7d58c3cad9179aadeb4f6a" title="ScopeVis::TriggerCondition\l::setData" alt="" coords="244,136,425,177"/>
+<area shape="rect" id="node4" href="$d5/d39/structScopeVis_1_1Traces.html#a567438ea598bd944ec680f3adc33c28d" title="ScopeVis::Traces::addTrace" alt="" coords="479,19,667,46"/>
+<area shape="rect" id="node7" href="$d5/d39/structScopeVis_1_1Traces.html#ad6ce79c20728faa59419a99d9419a5c4" title="ScopeVis::Traces::change\lTrace" alt="" coords="485,71,661,112"/>
+<area shape="rect" id="node8" href="$d5/d39/structScopeVis_1_1Traces.html#a013a1be0519f03e67059bcc03a359050" title="ScopeVis::Traces::moveTrace" alt="" coords="473,137,672,163"/>
+<area shape="rect" id="node5" href="$d7/dcf/classScopeVis.html#a4851b721b427be87db7eecb17895f8e3" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="720,78,897,105"/>
+<area shape="rect" id="node6" href="$d2/df7/classSpectrumScopeComboVis.html#a26a00afdc6c2f2c5e59015734cbcc251" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="945,71,1121,112"/>
+</map>

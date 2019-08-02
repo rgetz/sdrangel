@@ -1,0 +1,12 @@
+<map id="DeviceLimeSDRShared::MsgReportBuddyChange::getLog2HardDecimInterp" name="DeviceLimeSDRShared::MsgReportBuddyChange::getLog2HardDecimInterp">
+<area shape="rect" id="node2" href="$d4/d53/classLimeSDRInputGUI.html#a8f6b05357f9f3d98309cbfe22f195b2f" title="LimeSDRInputGUI::handleMessage" alt="" coords="229,17,460,43"/>
+<area shape="rect" id="node5" href="$d7/dab/classLimeSDROutputGUI.html#a41226d62f8d7276ce18dafbe8878b434" title="LimeSDROutputGUI::handle\lMessage" alt="" coords="251,71,439,112"/>
+<area shape="rect" id="node8" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="236,137,453,163"/>
+<area shape="rect" id="node10" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="241,187,448,214"/>
+<area shape="rect" id="node3" href="$d4/d53/classLimeSDRInputGUI.html#ac80027ee9587ad6fde5cbe739e217ef3" title="LimeSDRInputGUI::handleInput\lMessages" alt="" coords="513,5,719,47"/>
+<area shape="rect" id="node4" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="782,13,1033,39"/>
+<area shape="rect" id="node6" href="$d7/dab/classLimeSDROutputGUI.html#aef7c105432e2bb13eb89f534357385d9" title="LimeSDROutputGUI::handle\lInputMessages" alt="" coords="522,71,710,112"/>
+<area shape="rect" id="node7" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="772,78,1043,105"/>
+<area shape="rect" id="node9" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="508,137,724,163"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="513,187,719,214"/>
+</map>

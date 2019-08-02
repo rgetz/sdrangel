@@ -1,0 +1,9 @@
+<map id="WFMDemodGUI::applySettings" name="WFMDemodGUI::applySettings">
+<area shape="rect" id="node2" href="$d0/d2f/classWFMDemod_1_1MsgConfigureWFMDemod.html#a8bcb5320ae1c263fa89a9e25bbf0ba46" title="WFMDemod::MsgConfigureWFMDemod\l::create" alt="" coords="260,5,519,47"/>
+<area shape="rect" id="node4" href="$db/d08/classWFMDemod_1_1MsgConfigureChannelizer.html#ae27f714c6abf4edf9f8a3fdfe4450d99" title="WFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="262,71,517,112"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="302,136,477,177"/>
+<area shape="rect" id="node6" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="305,201,473,243"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="315,267,464,294"/>
+<area shape="rect" id="node8" href="$d3/dbd/classWFMDemod.html#a3eaf0fda5e85844519c9ad04726d23c8" title="WFMDemod::requiredBW" alt="" coords="303,318,475,345"/>
+<area shape="rect" id="node3" href="$d0/d2f/classWFMDemod_1_1MsgConfigureWFMDemod.html#a6d3317a0ea688f416823f254ca596bb9" title="WFMDemod::MsgConfigureWFMDemod\l::MsgConfigureWFMDemod" alt="" coords="567,5,825,47"/>
+</map>

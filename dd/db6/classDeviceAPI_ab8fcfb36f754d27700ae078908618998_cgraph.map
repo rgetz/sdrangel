@@ -1,0 +1,13 @@
+<map id="DeviceAPI::saveSamplingDeviceSettings" name="DeviceAPI::saveSamplingDeviceSettings">
+<area shape="rect" id="node2" href="$d1/dc7/classPreset.html#a979814066f53acca36764004836fae78" title="Preset::addOrUpdateDevice\lConfig" alt="" coords="275,5,462,47"/>
+<area shape="rect" id="node3" href="$d6/d80/classPluginInstanceGUI.html#aa661aee0e3d63c184ac18427d392ae83" title="PluginInstanceGUI::\lgetCenterFrequency" alt="" coords="299,71,439,112"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="269,136,468,177"/>
+<area shape="rect" id="node5" href="$db/d0c/classDeviceSampleSource.html#a2e8d4bdd0a614b9dda08f432c36539d3" title="Center frequency exposed by the source. " alt="" coords="295,201,443,243"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="290,267,447,308"/>
+<area shape="rect" id="node7" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="283,332,455,373"/>
+<area shape="rect" id="node8" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="290,398,447,425"/>
+<area shape="rect" id="node9" href="$d6/d80/classPluginInstanceGUI.html#a9550fc0924780973ad5521e75137432b" title="PluginInstanceGUI::\lserialize" alt="" coords="299,449,439,491"/>
+<area shape="rect" id="node10" href="$d9/d18/classDeviceSampleSink.html#a3708c7ca205ef1d220cbc5f591bed1b9" title="DeviceSampleSink::serialize" alt="" coords="274,515,463,542"/>
+<area shape="rect" id="node11" href="$db/d0c/classDeviceSampleSource.html#a8c75c771a62d98d3c08acdb9b8347386" title="DeviceSampleSource\l::serialize" alt="" coords="295,567,443,608"/>
+<area shape="rect" id="node12" href="$d1/dc7/classPreset.html#aee9ce3e851f9c8ebb5a750efda892d36" title="Preset::setCenterFrequency" alt="" coords="275,633,462,659"/>
+</map>

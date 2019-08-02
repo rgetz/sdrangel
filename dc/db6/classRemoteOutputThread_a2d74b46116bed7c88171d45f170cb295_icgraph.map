@@ -1,0 +1,11 @@
+<map id="RemoteOutputThread::getSamplesCount" name="RemoteOutputThread::getSamplesCount">
+<area shape="rect" id="node2" href="$d8/daf/classRemoteOutput.html#a1056a9a45117478687a9591d25612155" title="RemoteOutput::analyzeApi\lReply" alt="" coords="209,23,388,65"/>
+<area shape="rect" id="node7" href="$dc/db6/classRemoteOutputThread.html#a37fc1ea7e7292d81e4e08d52b7a258fa" title="RemoteOutputThread\l::isRunning" alt="" coords="225,89,372,130"/>
+<area shape="rect" id="node8" href="$d8/daf/classRemoteOutput.html#a118ece97313af7ee227b1f1d3e5fc59b" title="RemoteOutput::webapiFormat\lDeviceReport" alt="" coords="200,154,397,195"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#a539f2f338f92d17a8fa8f86ea117c2de" title="RemoteOutput::networkManager\lFinished" alt="" coords="448,23,659,65"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#a55339d934bb32dbe00642caa068a0cdf" title="RemoteOutput::RemoteOutput" alt="" coords="726,5,926,32"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#adfe0ad5d73c39c662144371e4199945b" title="RemoteOutput::~RemoteOutput" alt="" coords="722,56,930,83"/>
+<area shape="rect" id="node5" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="991,16,1285,72"/>
+<area shape="rect" id="node9" href="$d8/daf/classRemoteOutput.html#ab301b8454f7b50e3dcfcddb9662ffdb6" title="RemoteOutput::webapiReportGet" alt="" coords="445,161,661,188"/>
+<area shape="rect" id="node10" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="709,161,943,188"/>
+</map>

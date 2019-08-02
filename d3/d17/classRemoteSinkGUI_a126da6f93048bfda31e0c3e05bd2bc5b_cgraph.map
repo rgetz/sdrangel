@@ -1,0 +1,9 @@
+<map id="RemoteSinkGUI::on_dataAddress_returnPressed" name="RemoteSinkGUI::on_dataAddress_returnPressed">
+<area shape="rect" id="node2" href="$d3/d17/classRemoteSinkGUI.html#a3626eca92af947d52a59cdde2f066ede" title="RemoteSinkGUI::applySettings" alt="" coords="273,130,479,157"/>
+<area shape="rect" id="node3" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a9c8900fed8b734275981dfeee87eba49" title="RemoteSink::MsgConfigure\lRemoteSink::create" alt="" coords="527,5,709,47"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="535,71,701,98"/>
+<area shape="rect" id="node6" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="534,123,702,164"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="543,189,693,215"/>
+<area shape="rect" id="node8" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="527,239,709,266"/>
+<area shape="rect" id="node4" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a37287d810857bd12966cd64669f73ac0" title="RemoteSink::MsgConfigure\lRemoteSink::MsgConfigureRemoteSink" alt="" coords="757,5,1012,47"/>
+</map>

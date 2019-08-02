@@ -1,0 +1,6 @@
+<map id="DeviceSampleSource::webapiRun" name="DeviceSampleSource::webapiRun">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a2ed5d5fbd83a5c5d0c7fbff80996248a" title="WebAPIAdapterGUI::deviceset\lDeviceRunDelete" alt="" coords="201,5,405,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#a593c126ca0406436888512db036e642f" title="WebAPIAdapterSrv::deviceset\lDeviceRunDelete" alt="" coords="203,71,403,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a07d7baab85930d161f2c9d52d05756af" title="WebAPIAdapterGUI::deviceset\lDeviceRunPost" alt="" coords="201,136,405,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a580ee653e14a7adc4ea4908bae5c3678" title="WebAPIAdapterSrv::deviceset\lDeviceRunPost" alt="" coords="203,201,403,243"/>
+</map>

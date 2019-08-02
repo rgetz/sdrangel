@@ -1,0 +1,7 @@
+<map id="DeviceBladeRF2::close" name="DeviceBladeRF2::close">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a4953c023bf3746fc339f900a0a566778" title="BladeRF2Output::closeDevice" alt="" coords="213,17,412,43"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#ac6575d6470cbb539403945656dd15990" title="BladeRF2Input::closeDevice" alt="" coords="218,71,407,98"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#acb37674096c0372e98ec33162c8af396" title="BladeRF2Output::~BladeRF2\lOutput" alt="" coords="460,5,653,47"/>
+<area shape="rect" id="node4" href="$d1/d57/classBladeRF2Output_1_1MsgReportGainRange.html#a6f2c610c442c6f3565bc397a263d9eab" title="BladeRF2Output::MsgReport\lGainRange::MsgReportGainRange" alt="" coords="701,5,925,47"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#a137bd3203ba4210981ca937a27c54516" title="BladeRF2Input::~BladeRF2\lInput" alt="" coords="465,71,648,112"/>
+</map>

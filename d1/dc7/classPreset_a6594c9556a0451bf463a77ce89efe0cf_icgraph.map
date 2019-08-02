@@ -1,0 +1,19 @@
+<map id="Preset::addChannel" name="Preset::addChannel">
+<area shape="rect" id="node2" href="$d5/d32/classDeviceSet.html#a95fa11d050cf155fd77e6d1cda4ccdd6" title="DeviceSet::saveRxChannel\lSettings" alt="" coords="198,5,382,47"/>
+<area shape="rect" id="node8" href="$d3/d37/classDeviceUISet.html#ab73acf36a0c90b00c715b4be035eff35" title="DeviceUISet::saveRxChannel\lSettings" alt="" coords="191,136,389,177"/>
+<area shape="rect" id="node17" href="$d5/d32/classDeviceSet.html#ac7a52e2cfb3b2b0675c7f19729ecc69d" title="DeviceSet::saveTxChannel\lSettings" alt="" coords="199,71,381,112"/>
+<area shape="rect" id="node18" href="$d3/d37/classDeviceUISet.html#af409a63fef07714da0406f278172e409" title="DeviceUISet::saveTxChannel\lSettings" alt="" coords="192,201,388,243"/>
+<area shape="rect" id="node3" href="$d5/d32/classDeviceSet.html#a804724a8f32050e8f1582511fb330cdc" title="DeviceSet::getNumberOfTx\lChannels" alt="" coords="455,69,639,111"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#a9e3f6fa32d2f9bccf814d5bfd11fac99" title="MainCore::savePresetSettings" alt="" coords="447,15,647,42"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="717,15,895,42"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="965,15,1149,42"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1225,15,1368,42"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a87c9229d360865dd18182e77342a2f5e" title="MainWindow::savePresetSettings" alt="" coords="437,206,656,233"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a38edb88d43e844aca9d2e762c8706565" title="MainWindow::closeEvent" alt="" coords="721,265,891,291"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="708,315,904,342"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#ad5fbf7307a548244da7770021b706163" title="MainWindow::on_presetSave\l_clicked" alt="" coords="710,68,902,109"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#a480a08e4c858b2d4a0120598b07157db" title="MainWindow::on_presetUpdate\l_clicked" alt="" coords="704,133,908,175"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#a332903d4cb976b351b8c11d6ec9159e3" title="MainWindow::on_settingsSave\l_clicked" alt="" coords="705,199,907,240"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="956,315,1159,342"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1207,315,1387,342"/>
+</map>

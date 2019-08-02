@@ -1,0 +1,5 @@
+<map id="PlutoSDRInputGui::on_record_toggled" name="PlutoSDRInputGui::on_record_toggled">
+<area shape="rect" id="node2" href="$d9/d51/classPlutoSDRInput_1_1MsgFileRecord.html#ab3657f1f432ceb24c2bebbcddea3b28e" title="PlutoSDRInput::MsgFileRecord\l::create" alt="" coords="205,5,412,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="225,71,393,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="234,137,383,163"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="RemoteSource::MsgConfigureRemoteSource::getSettings" name="RemoteSource::MsgConfigureRemoteSource::getSettings">
+<area shape="rect" id="node2" href="$d2/d80/classRemoteSourceGUI.html#aa4eb7894ff4248fec22f5a04a47f55b1" title="RemoteSourceGUI::handleMessage" alt="" coords="252,15,484,42"/>
+<area shape="rect" id="node8" href="$de/dd9/classRemoteSource.html#ac8d02bab284739e3e3e33162b0b5e1e5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="264,67,472,94"/>
+<area shape="rect" id="node3" href="$d2/d80/classRemoteSourceGUI.html#abe838dd666f78a0ee1b3d73e46cfc001" title="RemoteSourceGUI::handleSource\lMessages" alt="" coords="532,5,752,47"/>
+<area shape="rect" id="node4" href="$d2/d80/classRemoteSourceGUI.html#a93d7f19c84f7472cb2d9962ba22db8aa" title="RemoteSourceGUI::RemoteSourceGUI" alt="" coords="800,13,1052,39"/>
+<area shape="rect" id="node5" href="$d2/d80/classRemoteSourceGUI.html#a654c4350accb18001e43af22e5872bb6" title="RemoteSourceGUI::create" alt="" coords="1100,13,1277,39"/>
+<area shape="rect" id="node6" href="$da/d51/classRemoteSourcePlugin.html#a930c94c5b29cb474212c98c631dc196b" title="RemoteSourcePlugin\l::createTxChannelGUI" alt="" coords="1325,5,1479,47"/>
+<area shape="rect" id="node7" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="1527,5,1672,47"/>
+<area shape="rect" id="node9" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="562,71,722,98"/>
+</map>

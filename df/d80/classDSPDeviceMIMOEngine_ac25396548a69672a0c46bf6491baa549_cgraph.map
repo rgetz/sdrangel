@@ -1,0 +1,5 @@
+<map id="DSPDeviceMIMOEngine::gotoError" name="DSPDeviceMIMOEngine::gotoError">
+<area shape="rect" id="node2" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="220,46,387,87"/>
+<area shape="rect" id="node3" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="435,5,621,61"/>
+<area shape="rect" id="node4" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="439,85,617,112"/>
+</map>

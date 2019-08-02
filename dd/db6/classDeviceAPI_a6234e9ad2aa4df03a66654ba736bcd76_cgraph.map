@@ -1,0 +1,8 @@
+<map id="DeviceAPI::getSamplingDeviceInputMessageQueue" name="DeviceAPI::getSamplingDeviceInputMessageQueue">
+<area shape="rect" id="node2" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="265,5,453,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="275,71,443,112"/>
+<area shape="rect" id="node4" href="$d1/d50/classDeviceSampleMIMO.html#a3392aa003550e5f1c74dc75125a92b1b" title="DeviceSampleMIMO::getInput\lMessageQueue" alt="" coords="260,136,459,177"/>
+<area shape="rect" id="node5" href="$df/d80/classDSPDeviceMIMOEngine.html#a1d6ca0bdecefbcb3014cc2a2a3d66ff0" title="DSPDeviceMIMOEngine\l::getMIMO" alt="" coords="276,201,443,243"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="281,267,438,308"/>
+<area shape="rect" id="node7" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="273,332,445,373"/>
+</map>

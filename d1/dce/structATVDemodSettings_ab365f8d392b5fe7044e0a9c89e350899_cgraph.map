@@ -1,0 +1,8 @@
+<map id="ATVDemodSettings::deserialize" name="ATVDemodSettings::deserialize">
+<area shape="rect" id="node2" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="291,5,422,47"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="291,71,422,112"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="291,136,422,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="291,201,422,243"/>
+<area shape="rect" id="node7" href="$d1/dce/structATVDemodSettings.html#ae703d289be348f6e4300a169d3683ff8" title="ATVDemodSettings::resetTo\lDefaults" alt="" coords="261,267,452,308"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="500,169,631,211"/>
+</map>

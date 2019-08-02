@@ -1,0 +1,7 @@
+<map id="LoggingDialog::LoggingDialog" name="LoggingDialog::LoggingDialog">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#a735e82e6baada4c111b2419e799931ed" title="MainSettings::getConsole\lMinLogLevel" alt="" coords="263,5,435,47"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#a78ca40ae41f15383a0b55f79f294d067" title="MainSettings::getFileMin\lLogLevel" alt="" coords="265,71,432,112"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#aadd15621f2b35ad36fad3c607a6a7edc" title="MainSettings::getLogFileName" alt="" coords="248,137,449,163"/>
+<area shape="rect" id="node5" href="$d5/df4/classMainSettings.html#a5e23bd1ba797bb917b06b621e4e1fb1c" title="MainSettings::getUseLogFile" alt="" coords="253,187,444,214"/>
+<area shape="rect" id="node6" href="$de/dde/classLoggingDialog.html#a46edec92af41c6c507fc9bcb46592241" title="LoggingDialog::msgLevelTo\lIndex" alt="" coords="257,239,440,280"/>
+</map>

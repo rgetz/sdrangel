@@ -1,0 +1,6 @@
+<map id="qrtplib::RTCPScheduler::AnalyseIncoming" name="qrtplib::RTCPScheduler::AnalyseIncoming">
+<area shape="rect" id="node2" href="$d2/dff/classqrtplib_1_1RTCPCompoundPacket.html#a90afd782d6a5f2102e9be26928971628" title="qrtplib::RTCPCompoundPacket\l::GetCompoundPacketLength" alt="" coords="213,5,420,47"/>
+<area shape="rect" id="node3" href="$d2/dff/classqrtplib_1_1RTCPCompoundPacket.html#a6d9a398a71ce9eb9d62e9fd62f3da7d8" title="qrtplib::RTCPCompoundPacket\l::GetNextPacket" alt="" coords="213,71,420,112"/>
+<area shape="rect" id="node4" href="$dd/db7/classqrtplib_1_1RTCPPacket.html#a48df28759c1283db0e55e1a0dcdbdd41" title="qrtplib::RTCPPacket\l::GetPacketType" alt="" coords="245,136,388,177"/>
+<area shape="rect" id="node5" href="$d2/dff/classqrtplib_1_1RTCPCompoundPacket.html#a2aa1cb3f8f9d53dc7199d0e347f14f5d" title="qrtplib::RTCPCompoundPacket\l::GotoFirstPacket" alt="" coords="213,201,420,243"/>
+</map>

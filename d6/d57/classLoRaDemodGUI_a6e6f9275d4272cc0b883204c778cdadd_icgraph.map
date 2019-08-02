@@ -1,0 +1,8 @@
+<map id="LoRaDemodGUI::blockApplySettings" name="LoRaDemodGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$d6/d57/classLoRaDemodGUI.html#ac62b7c2d7170bc459332928a3673e460" title="LoRaDemodGUI::displaySettings" alt="" coords="244,56,460,83"/>
+<area shape="rect" id="node3" href="$d6/d57/classLoRaDemodGUI.html#a84d41f11720a0ad1795f3f76c7eb61b0" title="LoRaDemodGUI::resetToDefaults" alt="" coords="510,5,730,32"/>
+<area shape="rect" id="node4" href="$d6/d57/classLoRaDemodGUI.html#adbb53b0cd6030f97ae11e58243437338" title="LoRaDemodGUI::deserialize" alt="" coords="780,31,969,57"/>
+<area shape="rect" id="node5" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="508,107,732,133"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="793,107,956,133"/>
+<area shape="rect" id="node7" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1017,107,1240,133"/>
+</map>

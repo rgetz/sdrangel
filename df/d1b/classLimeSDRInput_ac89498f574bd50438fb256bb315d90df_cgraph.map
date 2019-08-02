@@ -1,0 +1,12 @@
+<map id="LimeSDRInput::openDevice" name="LimeSDRInput::openDevice">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a2f7cb4278292fa7864f420103fe92624" title="DeviceAPI::getBuddySharedPtr" alt="" coords="239,5,445,32"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a6a132cbd77d935d2ffc96bc5b2be58de" title="DeviceAPI::getDeviceItem\lIndex" alt="" coords="253,57,431,98"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a067d3393f92545000623e007a166dd87" title="DeviceAPI::getSamplingDevice\lSerial" alt="" coords="239,122,445,163"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="250,188,434,215"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="243,239,441,265"/>
+<area shape="rect" id="node7" href="$d8/d20/structDeviceLimeSDRParams.html#a6dee88efb0387c9d74f9dd060d7e7fad" title="DeviceLimeSDRParams\l::open" alt="" coords="259,290,425,331"/>
+<area shape="rect" id="node9" href="$dd/db6/classDeviceAPI.html#a3aedc22d25fe2047b30ce24bfc394703" title="DeviceAPI::setBuddySharedPtr" alt="" coords="239,356,445,383"/>
+<area shape="rect" id="node10" href="$d0/d92/classSampleSinkFifo.html#ad8704b13953f2e4719f331be04b777de" title="SampleSinkFifo::setSize" alt="" coords="259,407,425,433"/>
+<area shape="rect" id="node8" href="$d8/d20/structDeviceLimeSDRParams.html#a951822c7b95bc83d7e5ca2a43cfb9b9e" title="DeviceLimeSDRParams\l::getHardwareType" alt="" coords="493,290,659,331"/>
+<area shape="rect" id="node11" href="$d0/d92/classSampleSinkFifo.html#a319ce144cb26ae5ac488085b04478cf9" title="SampleSinkFifo::create" alt="" coords="497,407,655,433"/>
+</map>

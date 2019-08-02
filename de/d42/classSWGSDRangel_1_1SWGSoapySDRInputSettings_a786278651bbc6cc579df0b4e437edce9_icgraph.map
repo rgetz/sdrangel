@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGSoapySDRInputSettings::init" name="SWGSDRangel::SWGSoapySDRInputSettings::init">
+<area shape="rect" id="node2" href="$de/d42/classSWGSDRangel_1_1SWGSoapySDRInputSettings.html#a75449a981c855eca493209c6de490fe3" title="SWGSDRangel::SWGSoapySDRInput\lSettings::SWGSoapySDRInputSettings" alt="" coords="303,5,556,47"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="347,71,511,112"/>
+<area shape="rect" id="node6" href="$da/d65/classSoapySDRInput.html#a319bfa8463d4b1e0cf484ab18164e0c5" title="SoapySDRInput::webapiReverse\lSendSettings" alt="" coords="322,136,537,177"/>
+<area shape="rect" id="node10" href="$da/d65/classSoapySDRInput.html#ab7c19d4653cd329b5e64481e903e09cf" title="SoapySDRInput::webapiSettingsGet" alt="" coords="312,202,547,229"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="604,71,823,112"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="897,71,1060,112"/>
+<area shape="rect" id="node7" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="611,143,815,170"/>
+<area shape="rect" id="node8" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="871,139,1087,166"/>
+<area shape="rect" id="node9" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="907,190,1050,217"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AMDemodGUI::displaySettings" name="AMDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="807,58,1009,84"/>
+<area shape="rect" id="node6" href="$dd/d2d/classAMDemodGUI.html#a3c913ceeb169d0090bd930347de2b833" title="AMDemodGUI::deserialize" alt="" coords="548,32,727,59"/>
+<area shape="rect" id="node7" href="$dd/d2d/classAMDemodGUI.html#a660e781ea25916bdfa4c86b2a94af807" title="AMDemodGUI::handleMessage" alt="" coords="260,122,467,148"/>
+<area shape="rect" id="node9" href="$dd/d2d/classAMDemodGUI.html#a83c7de8854c98941c4169db9284e7ab7" title="AMDemodGUI::resetToDefaults" alt="" coords="259,71,468,98"/>
+<area shape="rect" id="node3" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="1057,58,1209,84"/>
+<area shape="rect" id="node4" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1257,58,1511,84"/>
+<area shape="rect" id="node5" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1559,58,1740,84"/>
+<area shape="rect" id="node8" href="$dd/d2d/classAMDemodGUI.html#ac14a92c9314f0b9ff290ea1dd8095cc3" title="AMDemodGUI::handleInputMessages" alt="" coords="516,108,759,135"/>
+</map>

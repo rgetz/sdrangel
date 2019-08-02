@@ -1,0 +1,10 @@
+<map id="qtwebapp::HttpRequest::urlDecode" name="qtwebapp::HttpRequest::urlDecode">
+<area shape="rect" id="node2" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a883b286e59d3ca8f68df0d95c2f77f86" title="qtwebapp::HttpRequest\l::decodeRequestParams" alt="" coords="213,32,380,73"/>
+<area shape="rect" id="node6" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a9e9f87cc06cdeae2ca03c97d576c217b" title="qtwebapp::HttpRequest\l::getPath" alt="" coords="217,123,377,164"/>
+<area shape="rect" id="node3" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#a87e7ca425b96545e062454f66e346caf" title="qtwebapp::HttpRequest\l::readFromSocket" alt="" coords="451,5,611,47"/>
+<area shape="rect" id="node4" href="$d1/d2b/classqtwebapp_1_1HttpConnectionHandler.html#a5d84633b5a2daef905820a9ada8c59f2" title="qtwebapp::HttpConnection\lHandler::read" alt="" coords="681,64,859,105"/>
+<area shape="rect" id="node5" href="$d1/d2b/classqtwebapp_1_1HttpConnectionHandler.html#a7d60c4a8f80eaeab436adba6e8d529d3" title="qtwebapp::HttpConnection\lHandler::HttpConnectionHandler" alt="" coords="907,64,1117,105"/>
+<area shape="rect" id="node7" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="689,211,851,252"/>
+<area shape="rect" id="node8" href="$d8/d77/classqtwebapp_1_1HttpRequestHandler.html#a0a7210907152c46b8b5a47feb64cf6bd" title="qtwebapp::HttpRequestHandler\l::service" alt="" coords="428,123,633,164"/>
+<area shape="rect" id="node9" href="$d6/d24/classqtwebapp_1_1StaticFileController.html#a88bbd874c62c8335d0775629b22871a1" title="qtwebapp::StaticFileController\l::service" alt="" coords="432,240,629,281"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="LoRaDemodSettings::deserialize" name="LoRaDemodSettings::deserialize">
+<area shape="rect" id="node2" href="$d6/d57/classLoRaDemodGUI.html#adbb53b0cd6030f97ae11e58243437338" title="LoRaDemodGUI::deserialize" alt="" coords="204,5,393,32"/>
+<area shape="rect" id="node3" href="$d7/d10/classLoRaDemod.html#af995717965a7441bd512e91b0dca664a" title="LoRaDemod::deserialize" alt="" coords="216,56,381,83"/>
+<area shape="rect" id="node5" href="$d7/d91/structLoRaDemodSettings.html#a834a0b38fff9a9951d8462474dd6410f" title="LoRaDemodSettings::\lsetSpectrumGUI" alt="" coords="223,107,374,149"/>
+<area shape="rect" id="node4" href="$d7/d10/classLoRaDemod.html#a772b3732455809f1ac569e0f50b0dc9a" title="Applies to a default stream. " alt="" coords="443,56,664,83"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="441,115,665,141"/>
+<area shape="rect" id="node7" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="713,115,876,141"/>
+<area shape="rect" id="node8" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="924,115,1147,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ATVMod::MsgConfigureCameraData::create" name="ATVMod::MsgConfigureCameraData::create">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#a1c38e34343bc5afeddef7eef4b98e3b7" title="ATVModGUI::on_cameraManual\lFPS_valueChanged" alt="" coords="261,5,472,47"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#a55e0ff1899a3778bdf51d42e6ef9ebe9" title="ATVModGUI::on_cameraManual\lFPSEnable_toggled" alt="" coords="261,71,472,112"/>
+</map>

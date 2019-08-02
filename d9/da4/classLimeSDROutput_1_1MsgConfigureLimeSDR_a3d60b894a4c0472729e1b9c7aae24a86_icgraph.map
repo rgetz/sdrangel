@@ -1,0 +1,10 @@
+<map id="LimeSDROutput::MsgConfigureLimeSDR::MsgConfigureLimeSDR" name="LimeSDROutput::MsgConfigureLimeSDR::MsgConfigureLimeSDR">
+<area shape="rect" id="node2" href="$d9/da4/classLimeSDROutput_1_1MsgConfigureLimeSDR.html#add5b295a0a88c0dd7079a20d9e3af727" title="LimeSDROutput::MsgConfigure\lLimeSDR::create" alt="" coords="279,97,485,139"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#af818e579334e468b1f6aa05210a9c638" title="LimeSDROutput::deserialize" alt="" coords="547,13,735,39"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#a38dc564cdd107aee009aa0ab68e18a2a" title="LimeSDROutput::setCenter\lFrequency" alt="" coords="549,64,732,105"/>
+<area shape="rect" id="node7" href="$d5/d8d/classLimeSDROutput.html#ad1ac69a1f28157d7dfeeb5d3c7f126fe" title="LimeSDROutput::webapiSettings\lPutPatch" alt="" coords="533,129,748,171"/>
+<area shape="rect" id="node8" href="$d7/dab/classLimeSDROutputGUI.html#a45d007494f84b0132b192d2c6e6e62ff" title="LimeSDROutputGUI::update\lHardware" alt="" coords="546,195,735,236"/>
+<area shape="rect" id="node4" href="$d3/de5/classLimeSDROutput_1_1MsgReportStreamInfo.html#ae00eecd9dcdfd51d15998bc465368dd2" title="LimeSDROutput::MsgReport\lStreamInfo::MsgReportStreamInfo" alt="" coords="820,5,1043,47"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="823,105,1039,131"/>
+<area shape="rect" id="node9" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="796,202,1067,229"/>
+</map>

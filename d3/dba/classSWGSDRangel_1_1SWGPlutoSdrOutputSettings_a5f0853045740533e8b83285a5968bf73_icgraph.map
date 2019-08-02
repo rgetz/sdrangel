@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGPlutoSdrOutputSettings::setReverseApiPort" name="SWGSDRangel::SWGPlutoSdrOutputSettings::setReverseApiPort">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#ace69177b00ebe978e2d864f63b432073" title="PlutoSDROutput::webapiFormat\lDeviceSettings" alt="" coords="280,27,491,69"/>
+<area shape="rect" id="node3" href="$da/dff/classPlutoSDROutput.html#aef86a03eb9d80d9cfc8361a51859c80c" title="PlutoSDROutput::webapiSettingsGet" alt="" coords="539,5,777,32"/>
+<area shape="rect" id="node5" href="$da/dff/classPlutoSDROutput.html#a2f7241bbadd20846d8eae0423c10fee6" title="PlutoSDROutput::webapiSettings\lPutPatch" alt="" coords="549,57,767,98"/>
+<area shape="rect" id="node4" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="825,35,1044,61"/>
+</map>

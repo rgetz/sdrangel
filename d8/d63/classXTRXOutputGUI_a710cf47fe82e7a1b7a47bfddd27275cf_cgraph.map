@@ -1,0 +1,18 @@
+<map id="XTRXOutputGUI::updateStatus" name="XTRXOutputGUI::updateStatus">
+<area shape="rect" id="node2" href="$dd/d77/classXTRXOutput_1_1MsgGetStreamInfo.html#a3f89cf065059f0399532a12a41bec487" title="XTRXOutput::MsgGetStream\lInfo::create" alt="" coords="260,5,453,47"/>
+<area shape="rect" id="node3" href="$d2/d62/classXTRXOutput_1_1MsgGetDeviceInfo.html#a0e55c413b29dc0f5e21491bad22329f5" title="XTRXOutput::MsgGetDevice\lInfo::create" alt="" coords="261,71,453,112"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="271,137,443,163"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="263,188,451,229"/>
+<area shape="rect" id="node12" href="$dd/db6/classDeviceAPI.html#a4fecbce8675ad605005bf95e1392572e" title="DeviceAPI::isBuddyLeader" alt="" coords="267,254,446,281"/>
+<area shape="rect" id="node13" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="282,305,431,331"/>
+<area shape="rect" id="node14" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="295,355,418,382"/>
+<area shape="rect" id="node5" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="501,64,673,105"/>
+<area shape="rect" id="node8" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="509,129,666,171"/>
+<area shape="rect" id="node9" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="504,195,671,236"/>
+<area shape="rect" id="node6" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="739,68,891,109"/>
+<area shape="rect" id="node7" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="725,137,904,163"/>
+<area shape="rect" id="node10" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="721,187,908,243"/>
+<area shape="rect" id="node15" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="501,283,673,324"/>
+<area shape="rect" id="node16" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="509,348,666,389"/>
+<area shape="rect" id="node17" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="504,413,671,455"/>
+</map>

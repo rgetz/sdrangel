@@ -1,0 +1,7 @@
+<map id="AMDemod::webapiReverseSendSettings" name="AMDemod::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$d9/df0/classAMDemod.html#a64b221c1e44fae0e0a13388fd4dbe39e" title="AMDemod::applySettings" alt="" coords="265,42,436,69"/>
+<area shape="rect" id="node3" href="$d9/df0/classAMDemod.html#afd1f6fb2c119035c1e0854c7310fdc6c" title="AMDemod::AMDemod" alt="" coords="498,15,653,42"/>
+<area shape="rect" id="node5" href="$d9/df0/classAMDemod.html#a0cc413b8436d68d43d6a3d97e93cef20" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="484,67,667,94"/>
+<area shape="rect" id="node4" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#ac1e64f0d8384a19441ee6ff2ce27098a" title="AMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="715,5,957,47"/>
+<area shape="rect" id="node6" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="769,71,903,98"/>
+</map>

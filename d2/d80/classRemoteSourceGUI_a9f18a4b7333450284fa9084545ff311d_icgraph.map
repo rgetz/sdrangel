@@ -1,0 +1,7 @@
+<map id="RemoteSourceGUI::getInputMessageQueue" name="RemoteSourceGUI::getInputMessageQueue">
+<area shape="rect" id="node2" href="$d2/d80/classRemoteSourceGUI.html#abe838dd666f78a0ee1b3d73e46cfc001" title="RemoteSourceGUI::handleSource\lMessages" alt="" coords="241,5,461,47"/>
+<area shape="rect" id="node3" href="$d2/d80/classRemoteSourceGUI.html#a93d7f19c84f7472cb2d9962ba22db8aa" title="RemoteSourceGUI::RemoteSourceGUI" alt="" coords="509,42,761,69"/>
+<area shape="rect" id="node4" href="$d2/d80/classRemoteSourceGUI.html#a654c4350accb18001e43af22e5872bb6" title="RemoteSourceGUI::create" alt="" coords="809,42,987,69"/>
+<area shape="rect" id="node5" href="$da/d51/classRemoteSourcePlugin.html#a930c94c5b29cb474212c98c631dc196b" title="RemoteSourcePlugin\l::createTxChannelGUI" alt="" coords="1035,35,1188,76"/>
+<area shape="rect" id="node6" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="1236,35,1381,76"/>
+</map>

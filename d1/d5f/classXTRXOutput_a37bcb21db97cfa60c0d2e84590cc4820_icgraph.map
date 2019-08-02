@@ -1,0 +1,14 @@
+<map id="XTRXOutput::getSRRange" name="XTRXOutput::getSRRange">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a0e826027a6b17bbc1cc0f167d1508f63" title="XTRXOutputGUI::displaySampleRate" alt="" coords="233,213,476,239"/>
+<area shape="rect" id="node5" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="1305,238,1533,265"/>
+<area shape="rect" id="node13" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="257,441,452,467"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a76e16bd5bdc5adc84314dafbf2b21ade" title="XTRXOutputGUI::updateSample\lRateAndFrequency" alt="" coords="796,5,1008,47"/>
+<area shape="rect" id="node6" href="$d8/d63/classXTRXOutputGUI.html#a074b46a8b516204656bee4e784953f5c" title="XTRXOutputGUI::displaySettings" alt="" coords="524,213,743,239"/>
+<area shape="rect" id="node11" href="$d8/d63/classXTRXOutputGUI.html#adcdb83affd2191f05ce9fd53e551ea0e" title="XTRXOutputGUI::on_swInterp\l_currentIndexChanged" alt="" coords="533,264,733,305"/>
+<area shape="rect" id="node12" href="$d8/d63/classXTRXOutputGUI.html#a4f87ea13e4892783bf4ae5f1915212f4" title="XTRXOutputGUI::on_sample\lRateMode_toggled" alt="" coords="537,96,729,137"/>
+<area shape="rect" id="node4" href="$d8/d63/classXTRXOutputGUI.html#a65c356ea0a031215b0addc1177cf962f" title="XTRXOutputGUI::handleInput\lMessages" alt="" coords="1061,151,1257,192"/>
+<area shape="rect" id="node7" href="$d8/d63/classXTRXOutputGUI.html#aacb8def48e1fe5c647a03b41d687b90a" title="XTRXOutputGUI::resetToDefaults" alt="" coords="791,289,1013,315"/>
+<area shape="rect" id="node8" href="$d8/d63/classXTRXOutputGUI.html#a330967a482b101f56156aa223e18e15f" title="XTRXOutputGUI::deserialize" alt="" coords="1064,314,1255,341"/>
+<area shape="rect" id="node9" href="$d8/d63/classXTRXOutputGUI.html#aa463559f8433534688e3a278f2801215" title="XTRXOutputGUI::setCenter\lFrequency" alt="" coords="809,71,995,112"/>
+<area shape="rect" id="node10" href="$d8/d63/classXTRXOutputGUI.html#a6bef06277cb9dbaa85094634eb78d151" title="XTRXOutputGUI::handleMessage" alt="" coords="792,137,1012,163"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="FreeDVModSettings::resetToDefaults" name="FreeDVModSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$de/d8e/classFreeDVModGUI.html#aacf7f370018111059be584c2b13bb2d5" title="FreeDVModGUI::deserialize" alt="" coords="467,5,653,32"/>
+<area shape="rect" id="node3" href="$dc/d1f/structFreeDVModSettings.html#ac7b56e735afdf2c5e277c1f45c91a2b4" title="FreeDVModSettings::\ldeserialize" alt="" coords="236,57,384,98"/>
+<area shape="rect" id="node4" href="$d6/da5/classFreeDVMod.html#ab1600857c9c7b2ced0c9e6118af5a5fe" title="FreeDVMod::deserialize" alt="" coords="479,173,641,200"/>
+<area shape="rect" id="node11" href="$dc/d1f/structFreeDVModSettings.html#ae649bfcd81fc6c3f3197e7aae2b9a6d6" title="FreeDVModSettings::\lFreeDVModSettings" alt="" coords="236,225,384,266"/>
+<area shape="rect" id="node12" href="$de/d8e/classFreeDVModGUI.html#ac24a3a79e419864dc14c82dd49495222" title="FreeDVModGUI::resetToDefaults" alt="" coords="201,123,419,149"/>
+<area shape="rect" id="node6" href="$dc/d1f/structFreeDVModSettings.html#a0d5b538cd40eb38a11b323cbc582b159" title="FreeDVModSettings::\lsetCWKeyerGUI" alt="" coords="486,57,634,98"/>
+<area shape="rect" id="node5" href="$d6/da5/classFreeDVMod.html#a69bdbab2a59c98c382b38140ab3f87ef" title="Applies to a default stream. " alt="" coords="701,173,920,200"/>
+<area shape="rect" id="node7" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="701,93,920,120"/>
+<area shape="rect" id="node8" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="968,93,1128,120"/>
+<area shape="rect" id="node9" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1176,86,1363,127"/>
+<area shape="rect" id="node10" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="1411,93,1600,120"/>
+</map>

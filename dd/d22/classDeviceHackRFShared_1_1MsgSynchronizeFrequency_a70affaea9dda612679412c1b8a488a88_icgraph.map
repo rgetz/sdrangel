@@ -1,0 +1,6 @@
+<map id="DeviceHackRFShared::MsgSynchronizeFrequency::getFrequency" name="DeviceHackRFShared::MsgSynchronizeFrequency::getFrequency">
+<area shape="rect" id="node2" href="$dc/df6/classHackRFOutput.html#af8dd846352b6ce3ac49c54229454938a" title="HackRFOutput::handleMessage" alt="" coords="241,5,451,32"/>
+<area shape="rect" id="node4" href="$d2/d57/classHackRFInput.html#a75a77fa8c78b7dabafd8435056c483a7" title="HackRFInput::handleMessage" alt="" coords="247,56,445,83"/>
+<area shape="rect" id="node3" href="$dc/df6/classHackRFOutput.html#a216c6ce9858362f5300a11d07347f5eb" title="For when the sink sample rate is set externally. " alt="" coords="499,5,707,32"/>
+<area shape="rect" id="node5" href="$d2/d57/classHackRFInput.html#a4a0867e41233fc777459b2479b9e2942" title="For when the source sample rate is set externally. " alt="" coords="503,56,702,83"/>
+</map>

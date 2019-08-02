@@ -1,0 +1,6 @@
+<map id="RemoteSink::setTxDelay" name="RemoteSink::setTxDelay">
+<area shape="rect" id="node2" href="$df/d8c/classRemoteSink.html#a53a43a221314777f2ef4300e9be4f1ba" title="RemoteSink::applySettings" alt="" coords="228,5,409,32"/>
+<area shape="rect" id="node3" href="$df/d8c/classRemoteSink.html#ac4969813754d792e53bf9b90f9689a91" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="463,56,656,83"/>
+<area shape="rect" id="node5" href="$df/d8c/classRemoteSink.html#aae04eec73834cba0cf41952ae81751a1" title="RemoteSink::setSampleRate" alt="" coords="223,107,415,133"/>
+<area shape="rect" id="node4" href="$df/d8c/classRemoteSink.html#ad7201ac561a0c0cf4f229677a71c36ae" title="RemoteSink::destroy" alt="" coords="704,56,849,83"/>
+</map>

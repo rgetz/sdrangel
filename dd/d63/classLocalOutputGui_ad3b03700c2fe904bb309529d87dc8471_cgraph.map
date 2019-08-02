@@ -1,0 +1,7 @@
+<map id="LocalOutputGui::serialize" name="LocalOutputGui::serialize">
+<area shape="rect" id="node2" href="$d2/d5a/structLocalOutputSettings.html#a7937f51bd6f75dccaceb70c135357370" title="LocalOutputSettings\l::serialize" alt="" coords="221,49,361,90"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="409,5,596,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="415,56,591,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="429,107,577,133"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="644,31,819,57"/>
+</map>

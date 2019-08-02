@@ -1,0 +1,18 @@
+<map id="RemoteSink::MsgConfigureChannelizer::create" name="RemoteSink::MsgConfigureChannelizer::create">
+<area shape="rect" id="node2" href="$d3/d17/classRemoteSinkGUI.html#ab9b79fd27dddc4182da4efa50f1627e7" title="RemoteSinkGUI::applyChannel\lSettings" alt="" coords="236,74,441,115"/>
+<area shape="rect" id="node16" href="$df/d8c/classRemoteSink.html#af499a31a9fb52c7d70d6516b409ce926" title="RemoteSink::webapiSettings\lPutPatch" alt="" coords="243,139,434,181"/>
+<area shape="rect" id="node3" href="$d3/d17/classRemoteSinkGUI.html#acdc63c1ab63656c2aa26f76eda4f6cc6" title="RemoteSinkGUI::applyPosition" alt="" coords="489,81,693,108"/>
+<area shape="rect" id="node4" href="$d3/d17/classRemoteSinkGUI.html#a2d277bfac98df750cc2c9b014e5cfa79" title="RemoteSinkGUI::on_position\l_valueChanged" alt="" coords="757,45,949,86"/>
+<area shape="rect" id="node5" href="$d3/d17/classRemoteSinkGUI.html#a6fdb996eaa65ef9e92aef6c19bf18e54" title="RemoteSinkGUI::applyDecimation" alt="" coords="741,111,964,137"/>
+<area shape="rect" id="node6" href="$d3/d17/classRemoteSinkGUI.html#a6a0896848ccb3c02c70ca2f787d2ee08" title="RemoteSinkGUI::displaySettings" alt="" coords="1012,81,1227,108"/>
+<area shape="rect" id="node15" href="$d3/d17/classRemoteSinkGUI.html#ad0057a5d4902cf1ec680796235020860" title="RemoteSinkGUI::on_decimation\lFactor_currentIndexChanged" alt="" coords="1014,133,1225,174"/>
+<area shape="rect" id="node7" href="$d3/d17/classRemoteSinkGUI.html#a86f6e588f854e4b6d2dbdfef2c0f8093" title="RemoteSinkGUI::resetToDefaults" alt="" coords="1275,5,1493,32"/>
+<area shape="rect" id="node8" href="$d3/d17/classRemoteSinkGUI.html#a5cca2069adda1eda95929ae893514e83" title="RemoteSinkGUI::deserialize" alt="" coords="1550,25,1738,52"/>
+<area shape="rect" id="node9" href="$d3/d17/classRemoteSinkGUI.html#afedc1ccd8be38616e3370733fea54aae" title="RemoteSinkGUI::handleMessage" alt="" coords="1275,107,1493,133"/>
+<area shape="rect" id="node11" href="$d3/d17/classRemoteSinkGUI.html#acfd93f349fc5d94f299de3b0a0ef7a2a" title="RemoteSinkGUI::RemoteSinkGUI" alt="" coords="1795,132,2017,159"/>
+<area shape="rect" id="node10" href="$d3/d17/classRemoteSinkGUI.html#a8406fd76c79ac980153431b6c8372e79" title="RemoteSinkGUI::handleSource\lMessages" alt="" coords="1541,95,1747,137"/>
+<area shape="rect" id="node12" href="$d3/d17/classRemoteSinkGUI.html#a114c07838e4de91ab394e0ac7cf6d652" title="RemoteSinkGUI::create" alt="" coords="2065,132,2228,159"/>
+<area shape="rect" id="node13" href="$d1/d30/classRemoteSinkPlugin.html#a62f192849f16112ddd2604213f7d2f91" title="RemoteSinkPlugin::create\lRxChannelGUI" alt="" coords="2276,125,2451,166"/>
+<area shape="rect" id="node14" href="$d1/d30/classRemoteSinkPlugin.html#a7ca61196bd543b53bfd6ad79c403c290" title="RemoteSinkPlugin::initPlugin" alt="" coords="2499,132,2689,159"/>
+<area shape="rect" id="node17" href="$df/d8c/classRemoteSink.html#a5d2e3e558fcf14e8dd5b220726e0f37d" title="RemoteSink::getStreamCenter\lFrequency" alt="" coords="491,139,692,181"/>
+</map>

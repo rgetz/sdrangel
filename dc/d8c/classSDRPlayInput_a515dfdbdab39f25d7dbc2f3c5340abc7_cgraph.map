@@ -1,0 +1,5 @@
+<map id="SDRPlayInput::setMessageQueueToGUI" name="SDRPlayInput::setMessageQueueToGUI">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#a53236eb6009d20b919de05a7edcb8bc8" title="SDRPlayInput::getDeviceDescription" alt="" coords="239,5,477,32"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#abe6187f76df8530389b6cc25b8785239" title="Sample rate exposed by the source. " alt="" coords="256,56,460,83"/>
+<area shape="rect" id="node4" href="$d2/da6/classSDRPlaySampleRates.html#a78b0edfca39c8a54d8330e3138e86ce8" title="SDRPlaySampleRates\l::getRate" alt="" coords="525,49,681,90"/>
+</map>

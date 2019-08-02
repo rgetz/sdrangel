@@ -1,0 +1,11 @@
+<map id="ATVMod::getEffectiveSampleRate" name="ATVMod::getEffectiveSampleRate">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#afc7c826aa5e7fedbb316bc8ca7c185ce" title="ATVModGUI::displaySettings" alt="" coords="276,56,471,83"/>
+<area shape="rect" id="node10" href="$da/d7c/classATVModGUI.html#a2551ae0faf13f134feb90efdfb037e50" title="ATVModGUI::on_modulation\l_currentIndexChanged" alt="" coords="279,107,468,149"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#a944171d71de69266993386308438909e" title="ATVModGUI::deserialize" alt="" coords="533,5,700,32"/>
+<area shape="rect" id="node4" href="$da/d7c/classATVModGUI.html#a41090d7ca4c0286b5e09c829bd23d51d" title="ATVModGUI::handleMessage" alt="" coords="519,56,715,83"/>
+<area shape="rect" id="node6" href="$da/d7c/classATVModGUI.html#aa80ea452eceea2be8fbf7c053bc379d2" title="ATVModGUI::ATVModGUI" alt="" coords="1055,81,1235,108"/>
+<area shape="rect" id="node5" href="$da/d7c/classATVModGUI.html#ad73566723d42328d8153ac598ea6cff5" title="ATVModGUI::handleSourceMessages" alt="" coords="763,56,1007,83"/>
+<area shape="rect" id="node7" href="$da/d7c/classATVModGUI.html#acc137c14b5c145becb2951788aa55fdb" title="ATVModGUI::create" alt="" coords="1283,81,1424,108"/>
+<area shape="rect" id="node8" href="$d8/d6e/classATVModPlugin.html#a7357a4f5cfb9fd5dea8ee9cd8119ec1d" title="ATVModPlugin::createTxChannelGUI" alt="" coords="1472,81,1712,108"/>
+<area shape="rect" id="node9" href="$d8/d6e/classATVModPlugin.html#af24b49c750459e0b504133cea6910b93" title="ATVModPlugin::initPlugin" alt="" coords="1760,81,1931,108"/>
+</map>

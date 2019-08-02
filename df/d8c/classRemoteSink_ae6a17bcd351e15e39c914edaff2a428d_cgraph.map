@@ -1,0 +1,21 @@
+<map id="RemoteSink::getCenterFrequency" name="RemoteSink::getCenterFrequency">
+<area shape="rect" id="node2" href="$df/d8c/classRemoteSink.html#a4bc9724f72e19a672f7023ade168e01c" title="RemoteSink::deserialize" alt="" coords="273,209,437,235"/>
+<area shape="rect" id="node14" href="$df/d8c/classRemoteSink.html#aa0ba2bd0c29e48b1d27cecbf41780b2a" title="RemoteSink::serialize" alt="" coords="280,386,431,413"/>
+<area shape="rect" id="node3" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a9c8900fed8b734275981dfeee87eba49" title="RemoteSink::MsgConfigure\lRemoteSink::create" alt="" coords="485,27,668,68"/>
+<area shape="rect" id="node5" href="$d2/d2e/structRemoteSinkSettings.html#a8a45283cd2836a80aaadb5c09334d947" title="RemoteSinkSettings\l::deserialize" alt="" coords="505,201,648,243"/>
+<area shape="rect" id="node7" href="$d2/d2e/structRemoteSinkSettings.html#a1eeaffeb4ca1910bb5b0bdc70de91ba6" title="RemoteSinkSettings\l::resetToDefaults" alt="" coords="772,71,915,112"/>
+<area shape="rect" id="node13" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="502,267,651,294"/>
+<area shape="rect" id="node4" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a37287d810857bd12966cd64669f73ac0" title="RemoteSink::MsgConfigure\lRemoteSink::MsgConfigureRemoteSink" alt="" coords="716,5,971,47"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="778,136,909,177"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="778,201,909,243"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="778,267,909,308"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="778,332,909,373"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="778,397,909,439"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1041,332,1171,373"/>
+<area shape="rect" id="node15" href="$d2/d2e/structRemoteSinkSettings.html#a4669b5683c9132f3ef08b7f7283ee4a4" title="RemoteSinkSettings\l::serialize" alt="" coords="505,507,648,548"/>
+<area shape="rect" id="node16" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="755,463,931,490"/>
+<area shape="rect" id="node18" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="750,514,937,541"/>
+<area shape="rect" id="node19" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="754,565,933,591"/>
+<area shape="rect" id="node20" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="769,615,917,642"/>
+<area shape="rect" id="node17" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1019,514,1193,541"/>
+</map>

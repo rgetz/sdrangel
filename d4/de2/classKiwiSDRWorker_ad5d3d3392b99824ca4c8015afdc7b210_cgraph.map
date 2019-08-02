@@ -1,0 +1,10 @@
+<map id="KiwiSDRWorker::KiwiSDRWorker" name="KiwiSDRWorker::KiwiSDRWorker">
+<area shape="rect" id="node2" href="$d4/de2/classKiwiSDRWorker.html#aa8f07a3801f14cb404629efe4d2a0cdc" title="KiwiSDRWorker::onBinaryMessage\lReceived" alt="" coords="276,57,507,98"/>
+<area shape="rect" id="node6" href="$d4/de2/classKiwiSDRWorker.html#a85591d40e08bac7273566ab3db59fd12" title="KiwiSDRWorker::onConnected" alt="" coords="290,123,493,149"/>
+<area shape="rect" id="node7" href="$d4/de2/classKiwiSDRWorker.html#a01156b3a130347cee7289500f7a78c2c" title="KiwiSDRWorker::onDisconnected" alt="" coords="281,173,501,200"/>
+<area shape="rect" id="node8" href="$d4/de2/classKiwiSDRWorker.html#aff8708c9b84fb81a18f79b7030209987" title="KiwiSDRWorker::onSocketError" alt="" coords="287,224,496,251"/>
+<area shape="rect" id="node9" href="$d4/de2/classKiwiSDRWorker.html#a31e33fae4a4e39dde60cfd8db8f2879e" title="KiwiSDRWorker::tick" alt="" coords="318,275,465,301"/>
+<area shape="rect" id="node3" href="$d4/de2/classKiwiSDRWorker.html#a849904dd504ad2604d37879733691ab5" title="KiwiSDRWorker::sendGain" alt="" coords="561,5,742,32"/>
+<area shape="rect" id="node4" href="$d4/de2/classKiwiSDRWorker.html#ae13e26c5ef0f9021660aaea1f882f176" title="KiwiSDRWorker::sendCenter\lFrequency" alt="" coords="555,57,748,98"/>
+<area shape="rect" id="node5" href="$d0/d92/classSampleSinkFifo.html#a00f37394c7a6f2ccd0cf9f50b12534c7" title="SampleSinkFifo::write" alt="" coords="576,123,727,149"/>
+</map>

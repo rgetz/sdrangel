@@ -1,0 +1,7 @@
+<map id="LocalSource::getLocalDevices" name="LocalSource::getLocalDevices">
+<area shape="rect" id="node2" href="$d9/d18/classDeviceSampleSink.html#a1cf38a6b7a124b5b94a81476e74ab2ef" title="DeviceSampleSink::getDevice\lDescription" alt="" coords="252,5,452,47"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#ab6608457a5f8a3350e4c5b7cd020bf0f" title="DSPEngine::getDeviceSink\lEngineByIndex" alt="" coords="261,71,443,112"/>
+<area shape="rect" id="node4" href="$d7/d8a/classDSPEngine.html#abd91b4b1407dd27a2f02e7fb13779a26" title="DSPEngine::getDeviceSink\lEnginesNumber" alt="" coords="261,136,443,177"/>
+<area shape="rect" id="node5" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="273,201,431,243"/>
+<area shape="rect" id="node6" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="279,267,425,294"/>
+</map>

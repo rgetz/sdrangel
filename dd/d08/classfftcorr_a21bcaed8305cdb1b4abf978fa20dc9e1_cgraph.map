@@ -1,0 +1,5 @@
+<map id="fftcorr::run" name="fftcorr::run">
+<area shape="rect" id="node2" href="$dd/d08/classfftcorr.html#abe204af0bd5e5a0f81353a8250f0d91c" title="if inB = 0 then run auto&#45;correlation " alt="" coords="136,31,219,57"/>
+<area shape="rect" id="node3" href="$d9/daf/classg__fft.html#afd76303c0010b4718ead81ad66e0e1fb" title="g_fft::ComplexFFT" alt="" coords="288,5,420,32"/>
+<area shape="rect" id="node4" href="$d9/daf/classg__fft.html#a86616793d4943c31b5c27a62f117516b" title="g_fft::InverseComplexFFT" alt="" coords="267,56,441,83"/>
+</map>

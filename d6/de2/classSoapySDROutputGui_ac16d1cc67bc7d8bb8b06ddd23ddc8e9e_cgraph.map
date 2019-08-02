@@ -1,0 +1,13 @@
+<map id="SoapySDROutputGui::createGlobalGainControl" name="SoapySDROutputGui::createGlobalGainControl">
+<area shape="rect" id="node2" href="$d6/de2/classSoapySDROutputGui.html#a8a83dac584243fbce4de09844802a2ac" title="SoapySDROutputGui::\lautoGainChanged" alt="" coords="257,5,411,47"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#a91d029063110788ba00df6182bd25073" title="SoapySDROutput::getGlobal\lGainRange" alt="" coords="239,136,429,177"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#a7ba0d03537f2f0ba3aa791be4fc6e213" title="SoapySDROutputGui::\lglobalGainChanged" alt="" coords="257,71,411,112"/>
+<area shape="rect" id="node7" href="$d8/df3/classSoapySDROutput.html#ab0ece64484c9f1d14000f7281f92fdfe" title="SoapySDROutput::isAGCSupported" alt="" coords="217,202,451,229"/>
+<area shape="rect" id="node8" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="285,253,383,279"/>
+<area shape="rect" id="node9" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="287,303,381,330"/>
+<area shape="rect" id="node10" href="$dd/d21/classIntervalSliderGUI.html#ad009bf880e061664cdf8145fde5982f2" title="IntervalSliderGUI::\lsetInterval" alt="" coords="269,355,399,396"/>
+<area shape="rect" id="node11" href="$dd/d21/classIntervalSliderGUI.html#a1c53695335e4000cf93841249d8aea03" title="IntervalSliderGUI::\lsetLabel" alt="" coords="269,420,399,461"/>
+<area shape="rect" id="node12" href="$dd/d21/classIntervalSliderGUI.html#adcfbada5a9a220992bb12316ea05a49c" title="IntervalSliderGUI::\lsetUnits" alt="" coords="269,485,399,527"/>
+<area shape="rect" id="node3" href="$d6/de2/classSoapySDROutputGui.html#ad3a1f5c8f87dd6fb2bf706b537306beb" title="SoapySDROutputGui::\lsendSettings" alt="" coords="509,56,663,97"/>
+<area shape="rect" id="node5" href="$df/d0d/classDeviceSoapySDRParams.html#aa9a191ea29af3d95759d4114beb08334" title="DeviceSoapySDRParams\l::getTxChannelSettings" alt="" coords="499,151,673,192"/>
+</map>

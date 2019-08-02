@@ -1,0 +1,10 @@
+<map id="FreqTracker::MsgConfigureFreqTracker::getSettings" name="FreqTracker::MsgConfigureFreqTracker::getSettings">
+<area shape="rect" id="node2" href="$d1/d46/classFreqTrackerGUI.html#a2314f37c393e2e14ec7eb652e48174f2" title="FreqTrackerGUI::handleMessage" alt="" coords="235,15,449,42"/>
+<area shape="rect" id="node8" href="$da/d2e/classFreqTracker.html#a275cfbd97e974f4740b818e3c4b020c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="247,67,437,94"/>
+<area shape="rect" id="node3" href="$d1/d46/classFreqTrackerGUI.html#a7d1287629f7131202e1a45190da90193" title="FreqTrackerGUI::handleInput\lMessages" alt="" coords="497,5,688,47"/>
+<area shape="rect" id="node4" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="736,13,955,39"/>
+<area shape="rect" id="node5" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1003,13,1163,39"/>
+<area shape="rect" id="node6" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1211,5,1357,47"/>
+<area shape="rect" id="node7" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1405,5,1541,47"/>
+<area shape="rect" id="node9" href="$da/d2e/classFreqTracker.html#a9bc6899a82271a4a31427e8b51d1021b" title="FreqTracker::destroy" alt="" coords="521,71,664,98"/>
+</map>

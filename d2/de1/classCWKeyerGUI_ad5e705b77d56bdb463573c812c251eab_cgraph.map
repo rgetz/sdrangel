@@ -1,0 +1,9 @@
+<map id="CWKeyerGUI::on_keyDotCapture_toggled" name="CWKeyerGUI::on_keyDotCapture_toggled">
+<area shape="rect" id="node2" href="$d2/de1/classCWKeyerGUI.html#a5cd7deee7039fc214d8df3cef6867fae" title="CWKeyerGUI::commandKeyPressed" alt="" coords="273,129,512,155"/>
+<area shape="rect" id="node3" href="$d2/de1/classCWKeyerGUI.html#a5dd1254ca648f769cb382546d1840d82" title="CWKeyerGUI::applySettings" alt="" coords="560,78,751,105"/>
+<area shape="rect" id="node7" href="$d2/de1/classCWKeyerGUI.html#a4d7cc52c0ea4402a178a990cc79085cb" title="CWKeyerGUI::setKeyLabel" alt="" coords="564,129,747,155"/>
+<area shape="rect" id="node8" href="$d2/dab/classCommandKeyReceiver.html#a7996f158bc88f24861f43a1997414b89" title="CommandKeyReceiver\l::setRelease" alt="" coords="577,180,734,221"/>
+<area shape="rect" id="node4" href="$d7/d55/classCWKeyer_1_1MsgConfigureCWKeyer.html#a22cbf832644b2cccd5c5a011750d6378" title="CWKeyer::MsgConfigureCWKeyer\l::create" alt="" coords="799,5,1024,47"/>
+<area shape="rect" id="node5" href="$d0/ddd/classCWKeyer.html#aa6b125608561f873233dab954a98a42e" title="Get the queue for asynchronous inbound communication. " alt="" coords="818,71,1005,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="837,137,986,163"/>
+</map>

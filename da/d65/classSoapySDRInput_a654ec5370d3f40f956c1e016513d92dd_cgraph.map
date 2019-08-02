@@ -1,0 +1,16 @@
+<map id="SoapySDRInput::openDevice" name="SoapySDRInput::openDevice">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a2f7cb4278292fa7864f420103fe92624" title="DeviceAPI::getBuddySharedPtr" alt="" coords="260,5,467,32"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a6a132cbd77d935d2ffc96bc5b2be58de" title="DeviceAPI::getDeviceItem\lIndex" alt="" coords="274,57,453,98"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#ac820b03cde06c9e17d671ac8e9b6a8a9" title="DeviceAPI::getHardwareUser\lArguments" alt="" coords="266,122,461,163"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#a1098e97dc30ca876846d5970d9b27750" title="DeviceAPI::getSamplingDevice\lSequence" alt="" coords="260,187,467,229"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="271,253,455,280"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="264,304,463,331"/>
+<area shape="rect" id="node8" href="$d5/dea/classDeviceSoapySDR.html#a793c1b94552968767cf304d648cc5da6" title="DeviceSoapySDR::instance" alt="" coords="530,355,717,381"/>
+<area shape="rect" id="node9" href="$d5/dea/classDeviceSoapySDR.html#ae1ef1712fcca9eea4e59af9271da072f" title="DeviceSoapySDR::openSoapySDR" alt="" coords="248,405,479,432"/>
+<area shape="rect" id="node13" href="$dd/db6/classDeviceAPI.html#a3aedc22d25fe2047b30ce24bfc394703" title="DeviceAPI::setBuddySharedPtr" alt="" coords="260,456,467,483"/>
+<area shape="rect" id="node14" href="$d0/d92/classSampleSinkFifo.html#ad8704b13953f2e4719f331be04b777de" title="SampleSinkFifo::setSize" alt="" coords="280,507,447,533"/>
+<area shape="rect" id="node10" href="$d5/dea/classDeviceSoapySDR.html#aad06ebc68bd2663c3600c6d6137f5683" title="DeviceSoapySDR::openopen\lSoapySDRFromSequence" alt="" coords="527,406,720,447"/>
+<area shape="rect" id="node11" href="$d6/da8/classDeviceSoapySDRScan.html#a7f85c0ea81080a0f3e1ecc8e39b6f01f" title="DeviceSoapySDRScan\l::getDevicesEnumeration" alt="" coords="768,374,937,415"/>
+<area shape="rect" id="node12" href="$d6/da8/classDeviceSoapySDRScan.html#a9e96996e7ef87804c9cd41479b8d59a1" title="DeviceSoapySDRScan\l::getNbDevices" alt="" coords="773,439,932,481"/>
+<area shape="rect" id="node15" href="$d0/d92/classSampleSinkFifo.html#a319ce144cb26ae5ac488085b04478cf9" title="SampleSinkFifo::create" alt="" coords="544,507,703,533"/>
+</map>

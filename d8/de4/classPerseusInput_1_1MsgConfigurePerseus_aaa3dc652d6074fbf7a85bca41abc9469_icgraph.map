@@ -1,0 +1,9 @@
+<map id="PerseusInput::MsgConfigurePerseus::create" name="PerseusInput::MsgConfigurePerseus::create">
+<area shape="rect" id="node2" href="$df/dc2/classPerseusInput.html#ad144b779e2d03c7bce13b4c8621ce5af" title="PerseusInput::deserialize" alt="" coords="269,13,439,39"/>
+<area shape="rect" id="node4" href="$df/dc2/classPerseusInput.html#a1d8d89330e6f8ddaa00b05866f2912ff" title="PerseusInput::setCenterFrequency" alt="" coords="241,63,467,90"/>
+<area shape="rect" id="node6" href="$d5/d50/classPerseusGui.html#a73256009ec4985031e01bf1cea8d7d7b" title="PerseusGui::updateHardware" alt="" coords="257,181,451,207"/>
+<area shape="rect" id="node8" href="$df/dc2/classPerseusInput.html#a6bc81a004ce742f3c615de79bb10c7fa" title="PerseusInput::webapiSettings\lPutPatch" alt="" coords="256,115,452,156"/>
+<area shape="rect" id="node3" href="$dd/d6a/classPerseusInput_1_1MsgStartStop.html#a9a0988277f830dfe5e7dad73a0d77a02" title="PerseusInput::MsgStartStop\l::MsgStartStop" alt="" coords="520,5,707,47"/>
+<area shape="rect" id="node5" href="$df/dc2/classPerseusInput.html#a5df1af59e9e43e042b6baf24c059bccf" title="For when the source sample rate is set externally. " alt="" coords="515,97,712,123"/>
+<area shape="rect" id="node7" href="$d5/d50/classPerseusGui.html#acbc64a3b99beafef07f1ec2a6190b255" title="PerseusGui::PerseusGui" alt="" coords="530,181,697,207"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SDRPlayGui::displaySettings" name="SDRPlayGui::displaySettings">
+<area shape="rect" id="node2" href="$d9/d15/classSDRPlayGui.html#ab466e6103734f8e9068e510ca5349a16" title="SDRPlayGui::deserialize" alt="" coords="551,32,718,58"/>
+<area shape="rect" id="node3" href="$d9/d15/classSDRPlayGui.html#a0924f5cee41324ec9f8e5dda9e2587ab" title="SDRPlayGui::handleMessage" alt="" coords="261,82,457,109"/>
+<area shape="rect" id="node5" href="$d9/d15/classSDRPlayGui.html#ace1afe52225f8a09356d5f34d8f30337" title="SDRPlayGui::SDRPlayGui" alt="" coords="799,108,979,134"/>
+<area shape="rect" id="node6" href="$d9/d15/classSDRPlayGui.html#a269cc5e9b00bbbf1a6121ea4a024aca3" title="SDRPlayGui::resetToDefaults" alt="" coords="260,32,459,58"/>
+<area shape="rect" id="node7" href="$d9/d15/classSDRPlayGui.html#af84a14c12b5511fedf87f3fba35e70ec" title="SDRPlayGui::setCenterFrequency" alt="" coords="248,184,471,210"/>
+<area shape="rect" id="node4" href="$d9/d15/classSDRPlayGui.html#abd830e231d6971f0079292ccd29aa718" title="SDRPlayGui::handleInputMessages" alt="" coords="519,82,751,109"/>
+</map>

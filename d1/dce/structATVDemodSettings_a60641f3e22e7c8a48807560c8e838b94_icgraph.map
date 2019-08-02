@@ -1,0 +1,8 @@
+<map id="ATVDemodSettings::getEffectiveSampleRate" name="ATVDemodSettings::getEffectiveSampleRate">
+<area shape="rect" id="node2" href="$d1/dce/structATVDemodSettings.html#a2369333585f320173d016c315fef4c38" title="ATVDemodSettings::getRFSlider\lDivisor" alt="" coords="269,69,484,111"/>
+<area shape="rect" id="node4" href="$d1/dce/structATVDemodSettings.html#a90bd352299eec20c23fb1285ecaf2016" title="ATVDemodSettings::setChannel\lMarker" alt="" coords="769,103,981,144"/>
+<area shape="rect" id="node6" href="$d1/dce/structATVDemodSettings.html#ad48e3a5267ca1a09c7179b2742f32f4b" title="ATVDemodSettings::lineTime\lUpdate" alt="" coords="279,135,474,176"/>
+<area shape="rect" id="node7" href="$d1/dce/structATVDemodSettings.html#a9dc7a8702f11476d09efc5bfc4a948d4" title="ATVDemodSettings::topTime\lUpdate" alt="" coords="280,200,473,241"/>
+<area shape="rect" id="node3" href="$d1/dce/structATVDemodSettings.html#a118534d2fc693c37d18e6b02c6fc64b8" title="ATVDemodSettings::convert\lFromUIValues" alt="" coords="532,135,721,176"/>
+<area shape="rect" id="node5" href="$d1/dce/structATVDemodSettings.html#ae92d6722828db30126115fd61eb7c006" title="ATVDemodSettings::convert\lToUIValues" alt="" coords="532,69,721,111"/>
+</map>

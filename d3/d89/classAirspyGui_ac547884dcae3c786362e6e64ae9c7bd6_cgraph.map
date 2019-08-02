@@ -1,0 +1,6 @@
+<map id="AirspyGui::updateHardware" name="AirspyGui::updateHardware">
+<area shape="rect" id="node2" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a64d748dd77ad6e449c2933ad333a2175" title="AirspyInput::MsgConfigure\lAirspy::create" alt="" coords="236,5,413,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="241,71,409,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="250,137,399,163"/>
+<area shape="rect" id="node3" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a5a95e873f7c6a819e93b4bf620b82b60" title="AirspyInput::MsgConfigure\lAirspy::MsgConfigureAirspy" alt="" coords="461,5,647,47"/>
+</map>

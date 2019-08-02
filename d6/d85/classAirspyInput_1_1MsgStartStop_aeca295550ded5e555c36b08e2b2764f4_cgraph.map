@@ -1,0 +1,135 @@
+<map id="AirspyInput::MsgStartStop::MsgStartStop" name="AirspyInput::MsgStartStop::MsgStartStop">
+<area shape="rect" id="node2" href="$d9/d02/classAirspyInput.html#a58e6bfdb6cb4fef654b35e7b31524130" title="AirspyInput::AirspyInput" alt="" coords="233,671,396,698"/>
+<area shape="rect" id="node25" href="$d9/d02/classAirspyInput.html#a3a68e68e23abfef2424d4a0c115d858c" title="AirspyInput::deserialize" alt="" coords="235,1445,394,1471"/>
+<area shape="rect" id="node39" href="$d9/d02/classAirspyInput.html#aed6c988bde539ec9ed96389050e5b582" title="AirspyInput::destroy" alt="" coords="245,3295,384,3322"/>
+<area shape="rect" id="node40" href="$d9/d02/classAirspyInput.html#a5cf81deef204e567a7021bf3215f9c16" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="258,2763,371,2790"/>
+<area shape="rect" id="node117" href="$d9/d02/classAirspyInput.html#ad5e9138e6cfa07bac5d5730901db4600" title="AirspyInput::serialize" alt="" coords="243,3513,387,3539"/>
+<area shape="rect" id="node126" href="$d9/d02/classAirspyInput.html#a85977f612cada53a781dd21d4bc212d1" title="AirspyInput::start" alt="" coords="253,3245,376,3271"/>
+<area shape="rect" id="node128" href="$d9/d02/classAirspyInput.html#aa715d66e75bd51ee8065fc1a01544bf9" title="AirspyInput::stop" alt="" coords="497,929,618,955"/>
+<area shape="rect" id="node130" href="$d9/d02/classAirspyInput.html#a695a624c09a9fe2eb5574208e424d716" title="AirspyInput::~AirspyInput" alt="" coords="229,303,400,330"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a3d47110bca4236792fc7b4b9eac10a12" title="Adds a sink to receive full baseband and that is not a channel (e.g. spectrum) " alt="" coords="462,541,653,567"/>
+<area shape="rect" id="node8" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="537,783,577,810"/>
+<area shape="rect" id="node13" href="$dd/db6/classDeviceAPI.html#ae33fa207df2abdfb340ca4f46bfec1f1" title="Return the current device engine unique ID. " alt="" coords="469,671,645,698"/>
+<area shape="rect" id="node17" href="$d9/d02/classAirspyInput.html#acc93d3768c6e39c13410de185ef8e137" title="AirspyInput::networkManager\lFinished" alt="" coords="461,296,653,337"/>
+<area shape="rect" id="node18" href="$d9/d02/classAirspyInput.html#ac1ad73dc75e43ae80ef20cf144c9f48d" title="AirspyInput::openDevice" alt="" coords="475,362,640,389"/>
+<area shape="rect" id="node24" href="$dd/db6/classDeviceAPI.html#a184b8b0647891eaef91d01f0012ed2ab" title="DeviceAPI::setNbSourceStreams" alt="" coords="448,722,667,749"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a34ea36e3a469a3d6b4e64f74448f041b" title="Add a sample sink. " alt="" coords="740,435,912,476"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#acfed8e09a20655be97998ec4425462ea" title="Add a spectrum vis baseband sample sink. " alt="" coords="747,565,905,607"/>
+<area shape="rect" id="node7" href="$df/d80/classDSPDeviceMIMOEngine.html#ab21b3ebdbdbb9cc629ada14e2828e2e9" title="Add an ancillary sink like a I/Q recorder. " alt="" coords="743,500,909,541"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1017,373,1196,399"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="772,827,880,854"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1338,798,1457,825"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1033,849,1181,891"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1330,849,1465,891"/>
+<area shape="rect" id="node14" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae2f0ad2bba3f345cbea514bf3987692f" title="DSPDeviceSourceEngine\l::getUID" alt="" coords="740,696,912,737"/>
+<area shape="rect" id="node15" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="747,761,905,803"/>
+<area shape="rect" id="node16" href="$df/d80/classDSPDeviceMIMOEngine.html#a1318397d3a332701b65af3a78e883eb1" title="DSPDeviceMIMOEngine\l::getUID" alt="" coords="743,631,909,672"/>
+<area shape="rect" id="node19" href="$d9/d02/classAirspyInput.html#a97edf532bed86459288d7ff2293a78a2" title="AirspyInput::closeDevice" alt="" coords="742,202,910,229"/>
+<area shape="rect" id="node20" href="$dd/db6/classDeviceAPI.html#a1098e97dc30ca876846d5970d9b27750" title="DeviceAPI::getSamplingDevice\lSequence" alt="" coords="723,304,929,345"/>
+<area shape="rect" id="node21" href="$d9/d02/classAirspyInput.html#aa09976ff99254b5b3640fc6392bea645" title="AirspyInput::open_airspy\l_from_sequence" alt="" coords="743,369,909,411"/>
+<area shape="rect" id="node22" href="$d0/d92/classSampleSinkFifo.html#ad8704b13953f2e4719f331be04b777de" title="SampleSinkFifo::setSize" alt="" coords="743,253,909,279"/>
+<area shape="rect" id="node23" href="$d0/d92/classSampleSinkFifo.html#a319ce144cb26ae5ac488085b04478cf9" title="SampleSinkFifo::create" alt="" coords="1027,253,1186,279"/>
+<area shape="rect" id="node26" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a64d748dd77ad6e449c2933ad333a2175" title="AirspyInput::MsgConfigure\lAirspy::create" alt="" coords="469,1437,646,1479"/>
+<area shape="rect" id="node28" href="$db/dd5/structAirspySettings.html#a371a78d568652f3d69b0a9c15ef887e1" title="AirspySettings::deserialize" alt="" coords="469,1183,646,1210"/>
+<area shape="rect" id="node30" href="$db/dd5/structAirspySettings.html#acde02e546bc8c7891d578d14e981da6c" title="AirspySettings::resetToDefaults" alt="" coords="722,929,930,955"/>
+<area shape="rect" id="node38" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1323,3131,1472,3158"/>
+<area shape="rect" id="node27" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a5a95e873f7c6a819e93b4bf620b82b60" title="AirspyInput::MsgConfigure\lAirspy::MsgConfigureAirspy" alt="" coords="733,1437,919,1479"/>
+<area shape="rect" id="node29" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="761,1111,891,1152"/>
+<area shape="rect" id="node31" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="761,1176,891,1217"/>
+<area shape="rect" id="node32" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="761,1307,891,1348"/>
+<area shape="rect" id="node34" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="761,1372,891,1413"/>
+<area shape="rect" id="node35" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="761,980,891,1021"/>
+<area shape="rect" id="node36" href="$d2/d0e/classSimpleDeserializer.html#a63b7ff37bc8ed9f4f9f9562d1d7e4e73" title="SimpleDeserializer\l::readS64" alt="" coords="761,1241,891,1283"/>
+<area shape="rect" id="node37" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="761,1045,891,1087"/>
+<area shape="rect" id="node33" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1041,1273,1172,1315"/>
+<area shape="rect" id="node41" href="$d9/d02/classAirspyInput.html#a7f7bedd1a7464e906e12ac6f4a6f5c0d" title="AirspyInput::applySettings" alt="" coords="470,3219,645,3246"/>
+<area shape="rect" id="node42" href="$db/d0c/classDeviceSampleSource.html#a1f77fa12f7d8afe13ea3fbe538d29b15" title="DeviceSampleSource\l::calculateDeviceCenterFrequency" alt="" coords="715,3271,937,3312"/>
+<area shape="rect" id="node44" href="$dd/db6/classDeviceAPI.html#ae4ba357aa335e8111fb187b96309cba4" title="Configure current device engine DSP corrections (Rx) " alt="" coords="719,3219,933,3246"/>
+<area shape="rect" id="node47" href="$dd/db6/classDeviceAPI.html#ac83b6abaec341f91e8652ca70882e5bb" title="Device engine message queue. " alt="" coords="730,3336,922,3377"/>
+<area shape="rect" id="node51" href="$da/d2c/classFileRecord.html#a25a033993e153abc716521e5f6655cad" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="734,1554,918,1581"/>
+<area shape="rect" id="node56" href="$d9/d02/classAirspyInput.html#abc2cead2c3b6046d247005612728243e" title="AirspyInput::setDeviceCenter\lFrequency" alt="" coords="729,3153,923,3195"/>
+<area shape="rect" id="node57" href="$da/d19/classAirspyThread.html#a451894b0154b20d00d64e0a7fe09a3b6" title="AirspyThread::setFcPos" alt="" coords="745,3503,907,3530"/>
+<area shape="rect" id="node58" href="$da/d19/classAirspyThread.html#afd820d3296c514c58879d262ed39617f" title="AirspyThread::setLog2Decimation" alt="" coords="717,3402,935,3429"/>
+<area shape="rect" id="node59" href="$da/d19/classAirspyThread.html#aee98c19fcb0ba9818878cfe9bd2537ef" title="AirspyThread::setSamplerate" alt="" coords="731,3453,921,3479"/>
+<area shape="rect" id="node60" href="$d9/d02/classAirspyInput.html#a2549b911c62c76c40c42e645f3a815ea" title="AirspyInput::webapiReverse\lSendSettings" alt="" coords="733,2360,919,2401"/>
+<area shape="rect" id="node43" href="$db/d0c/classDeviceSampleSource.html#a8d7e8bf06f70b43e5e52e73d89de852f" title="DeviceSampleSource\l::calculateFrequencyShift" alt="" coords="1021,3284,1192,3325"/>
+<area shape="rect" id="node45" href="$d2/d3b/classDSPDeviceSourceEngine.html#a65c2430d7ac74a2c112b3aa50b8d2c10" title="Configure DSP corrections. " alt="" coords="1021,3219,1193,3260"/>
+<area shape="rect" id="node46" href="$df/d80/classDSPDeviceMIMOEngine.html#acee0fcafe1b7eb91dd7ff9a11bb5359a" title="Configure source DSP corrections. " alt="" coords="1023,3153,1190,3195"/>
+<area shape="rect" id="node48" href="$d2/d3b/classDSPDeviceSourceEngine.html#a5c45cdb279f4bf1a37bdeabd96ca7460" title="DSPDeviceSourceEngine\l::getInputMessageQueue" alt="" coords="1021,3349,1193,3391"/>
+<area shape="rect" id="node49" href="$d1/d90/classDSPDeviceSinkEngine.html#af3d2710cedb3a89aeea6fb52ee3c6adc" title="DSPDeviceSinkEngine\l::getInputMessageQueue" alt="" coords="1023,3415,1191,3456"/>
+<area shape="rect" id="node50" href="$df/d80/classDSPDeviceMIMOEngine.html#a7281426ef3076f28470783682717d759" title="DSPDeviceMIMOEngine\l::getInputMessageQueue" alt="" coords="1023,3480,1191,3521"/>
+<area shape="rect" id="node52" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="1047,1430,1166,1457"/>
+<area shape="rect" id="node54" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="1031,1547,1183,1588"/>
+<area shape="rect" id="node55" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="1031,1481,1183,1523"/>
+<area shape="rect" id="node53" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1313,1430,1482,1457"/>
+<area shape="rect" id="node61" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae5eac5b8987ae23686f31a6fd502bb67" title="SWGSDRangel::SWGDeviceSettings\l::asJson" alt="" coords="985,1612,1228,1653"/>
+<area shape="rect" id="node95" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a2d2305b89a6c2500cbc2932f8f7e1408" title="SWGSDRangel::SWGDeviceSettings\l::getAirspySettings" alt="" coords="985,2331,1228,2372"/>
+<area shape="rect" id="node96" href="$dd/db6/classDeviceAPI.html#a5d645b04a7e857affab1cef8fd54ac77" title="DeviceAPI::getDeviceSetIndex" alt="" coords="1005,2397,1209,2423"/>
+<area shape="rect" id="node97" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a4713755e53e2ece6921595fca52ad268" title="SWGSDRangel::SWGDeviceSettings\l::setAirspySettings" alt="" coords="985,2448,1228,2489"/>
+<area shape="rect" id="node98" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a8827b9e1d9bdf739d279a4a5e3e85bcd" title="SWGSDRangel::SWGAirspySettings\l::setBiasT" alt="" coords="987,2513,1226,2555"/>
+<area shape="rect" id="node99" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#adb6445d9dd1e4ef574d5e701d3a15456" title="SWGSDRangel::SWGAirspySettings\l::setCenterFrequency" alt="" coords="987,2579,1226,2620"/>
+<area shape="rect" id="node100" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#ab13167cb0654c6f6ed4579a55fe59793" title="SWGSDRangel::SWGAirspySettings\l::setDcBlock" alt="" coords="987,2644,1226,2685"/>
+<area shape="rect" id="node101" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a3458b2e0f0383ec80ba3bcf51aff66f1" title="SWGSDRangel::SWGDeviceSettings\l::setDeviceHwType" alt="" coords="985,2709,1228,2751"/>
+<area shape="rect" id="node102" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a998b4133f963da95f00c3c3590044797" title="SWGSDRangel::SWGAirspySettings\l::setDevSampleRateIndex" alt="" coords="987,2775,1226,2816"/>
+<area shape="rect" id="node103" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa9e8c4f37cc72d44aa9976e4986c4561" title="SWGSDRangel::SWGDeviceSettings\l::setDirection" alt="" coords="985,2840,1228,2881"/>
+<area shape="rect" id="node104" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a21eeb69ef0d11306153ffb7ec7229007" title="SWGSDRangel::SWGAirspySettings\l::setFcPos" alt="" coords="987,2905,1226,2947"/>
+<area shape="rect" id="node105" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a690ceb6dac6e9e5aabb166ea520b10c9" title="SWGSDRangel::SWGAirspySettings\l::setFileRecordName" alt="" coords="987,2971,1226,3012"/>
+<area shape="rect" id="node106" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a0790bd726341c4428a402ab475814376" title="SWGSDRangel::SWGAirspySettings\l::setIqCorrection" alt="" coords="987,3036,1226,3077"/>
+<area shape="rect" id="node107" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a53992cdfb9147869766705e499d05791" title="SWGSDRangel::SWGAirspySettings\l::setLnaAgc" alt="" coords="987,1677,1226,1719"/>
+<area shape="rect" id="node108" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a813fb909684509ce364ae2e75bc9083a" title="SWGSDRangel::SWGAirspySettings\l::setLnaGain" alt="" coords="987,1743,1226,1784"/>
+<area shape="rect" id="node109" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a9453be0981c2771fcddc12a0c5230119" title="SWGSDRangel::SWGAirspySettings\l::setLog2Decim" alt="" coords="987,1808,1226,1849"/>
+<area shape="rect" id="node110" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a63ae3765590d667fe9365c6e57ae937c" title="SWGSDRangel::SWGAirspySettings\l::setLOppmTenths" alt="" coords="987,1873,1226,1915"/>
+<area shape="rect" id="node111" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a931b04325f58eb4178558e99a289c2e6" title="SWGSDRangel::SWGAirspySettings\l::setMixerAgc" alt="" coords="987,1939,1226,1980"/>
+<area shape="rect" id="node112" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#ac5d70b3b0c3509acb8a59413f73f4c7a" title="SWGSDRangel::SWGAirspySettings\l::setMixerGain" alt="" coords="987,2004,1226,2045"/>
+<area shape="rect" id="node113" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a13bb17c9c39e7e53427daed4b3a55c93" title="SWGSDRangel::SWGDeviceSettings\l::setOriginatorIndex" alt="" coords="985,2069,1228,2111"/>
+<area shape="rect" id="node114" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#aca46d488868135c6ba2a0d8e37302655" title="SWGSDRangel::SWGAirspySettings\l::setTransverterDeltaFrequency" alt="" coords="987,2135,1226,2176"/>
+<area shape="rect" id="node115" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#adb30f5ad7a93b0d9eaaffdc4bca84e6c" title="SWGSDRangel::SWGAirspySettings\l::setTransverterMode" alt="" coords="987,2200,1226,2241"/>
+<area shape="rect" id="node116" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a3a58e08c788276dae2bb9ff899a382ea" title="SWGSDRangel::SWGAirspySettings\l::setVgaGain" alt="" coords="987,2265,1226,2307"/>
+<area shape="rect" id="node62" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae8aa4ed584a5c98577e006d35931ff05" title="SWGSDRangel::SWGDeviceSettings\l::asJsonObject" alt="" coords="1276,1612,1519,1653"/>
+<area shape="rect" id="node63" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1599,678,1793,705"/>
+<area shape="rect" id="node65" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a9d505d4ab2013b25f935ca1a056c7be1" title="SWGSDRangel::SWGAirspySettings\l::isSet" alt="" coords="1577,729,1815,771"/>
+<area shape="rect" id="node66" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#aa635ca9386dbc89d79f95de831e8116d" title="SWGSDRangel::SWGAirspyHFSettings\l::isSet" alt="" coords="1567,795,1825,836"/>
+<area shape="rect" id="node67" href="$d3/d73/classSWGSDRangel_1_1SWGBladeRF1InputSettings.html#aa977046b9d162de88fe2448e622d1259" title="SWGSDRangel::SWGBladeRF1\lInputSettings::isSet" alt="" coords="1590,860,1802,901"/>
+<area shape="rect" id="node68" href="$d5/da3/classSWGSDRangel_1_1SWGBladeRF2InputSettings.html#a159871a0ee376d9c264a748cc259ba32" title="SWGSDRangel::SWGBladeRF2\lInputSettings::isSet" alt="" coords="1590,925,1802,967"/>
+<area shape="rect" id="node69" href="$dc/d98/classSWGSDRangel_1_1SWGBladeRF1OutputSettings.html#ab1f50f493d2f82fc1c4e6aab6115863e" title="SWGSDRangel::SWGBladeRF1\lOutputSettings::isSet" alt="" coords="1590,991,1802,1032"/>
+<area shape="rect" id="node70" href="$d7/d6b/classSWGSDRangel_1_1SWGBladeRF2OutputSettings.html#a32af5ca989fac2fb096a74579dc32ce0" title="SWGSDRangel::SWGBladeRF2\lOutputSettings::isSet" alt="" coords="1590,1056,1802,1097"/>
+<area shape="rect" id="node71" href="$d2/dfa/classSWGSDRangel_1_1SWGFCDProSettings.html#ad21cf14eaf600906811fd85e3d6d3b82" title="SWGSDRangel::SWGFCDProSettings\l::isSet" alt="" coords="1571,1121,1821,1163"/>
+<area shape="rect" id="node72" href="$d9/dae/classSWGSDRangel_1_1SWGFCDProPlusSettings.html#a91a1d480ba60b5d6d134a81bf6d4bba2" title="SWGSDRangel::SWGFCDProPlus\lSettings::isSet" alt="" coords="1582,1187,1810,1228"/>
+<area shape="rect" id="node73" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#aa7cb2defaa87a8c7cd2da5b38ac91e74" title="SWGSDRangel::SWGFileInput\lSettings::isSet" alt="" coords="1594,1252,1798,1293"/>
+<area shape="rect" id="node74" href="$d1/d60/classSWGSDRangel_1_1SWGHackRFInputSettings.html#ad501da19e95542a9997e129d5d014455" title="SWGSDRangel::SWGHackRFInput\lSettings::isSet" alt="" coords="1580,1317,1812,1359"/>
+<area shape="rect" id="node75" href="$d6/dda/classSWGSDRangel_1_1SWGHackRFOutputSettings.html#a51654583cb988aa53db012e08c83b6f4" title="SWGSDRangel::SWGHackRFOutput\lSettings::isSet" alt="" coords="1575,1383,1817,1424"/>
+<area shape="rect" id="node76" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a0b86462661842e88d3fc21902d56106a" title="SWGSDRangel::SWGKiwiSDRSettings\l::isSet" alt="" coords="1568,1448,1824,1489"/>
+<area shape="rect" id="node77" href="$de/d36/classSWGSDRangel_1_1SWGLimeSdrInputSettings.html#aa9622ba290ccdb668705c27ff8d55848" title="SWGSDRangel::SWGLimeSdrInput\lSettings::isSet" alt="" coords="1581,1513,1811,1555"/>
+<area shape="rect" id="node78" href="$d2/d86/classSWGSDRangel_1_1SWGLimeSdrOutputSettings.html#a6c144b066083eb1ec26c1a44bcb9e323" title="SWGSDRangel::SWGLimeSdrOutput\lSettings::isSet" alt="" coords="1575,1579,1817,1620"/>
+<area shape="rect" id="node79" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a55fef4e04eea9285289ea6fd48a6f88f" title="SWGSDRangel::SWGLocalInput\lSettings::isSet" alt="" coords="1589,1644,1803,1685"/>
+<area shape="rect" id="node80" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a048d2276ce03a3ac738b09ed85137d00" title="SWGSDRangel::SWGLocalOutput\lSettings::isSet" alt="" coords="1584,1709,1808,1751"/>
+<area shape="rect" id="node81" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#acc93235430ceb94df8c994cfdf60a47b" title="SWGSDRangel::SWGPerseusSettings\l::isSet" alt="" coords="1571,1775,1821,1816"/>
+<area shape="rect" id="node82" href="$db/d8c/classSWGSDRangel_1_1SWGPlutoSdrInputSettings.html#a645471b6f8e5ae4418a57a57696aba91" title="SWGSDRangel::SWGPlutoSdr\lInputSettings::isSet" alt="" coords="1594,1840,1798,1881"/>
+<area shape="rect" id="node83" href="$d3/dba/classSWGSDRangel_1_1SWGPlutoSdrOutputSettings.html#a1d89876428c80f5d2751cf07096af0eb" title="SWGSDRangel::SWGPlutoSdr\lOutputSettings::isSet" alt="" coords="1594,1905,1798,1947"/>
+<area shape="rect" id="node84" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#abc6ce7d3c763cab292fead83709080a7" title="SWGSDRangel::SWGRtlSdrSettings\l::isSet" alt="" coords="1577,1971,1815,2012"/>
+<area shape="rect" id="node85" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a3fde55e8e7fccbbe1ca88ee670c4fb2a" title="SWGSDRangel::SWGRemoteOutput\lSettings::isSet" alt="" coords="1577,2036,1815,2077"/>
+<area shape="rect" id="node86" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a1d072fc83117abf36dd449846641568b" title="SWGSDRangel::SWGRemoteInput\lSettings::isSet" alt="" coords="1581,2101,1811,2143"/>
+<area shape="rect" id="node87" href="$db/dd9/classSWGSDRangel_1_1SWGSDRPlaySettings.html#a1b2530d906528145fb70bedb1abe1d4a" title="SWGSDRangel::SWGSDRPlaySettings\l::isSet" alt="" coords="1567,2167,1825,2208"/>
+<area shape="rect" id="node88" href="$de/d42/classSWGSDRangel_1_1SWGSoapySDRInputSettings.html#aaa174a13c5d1ff7ade8a8f936b300a95" title="SWGSDRangel::SWGSoapySDRInput\lSettings::isSet" alt="" coords="1571,2232,1821,2273"/>
+<area shape="rect" id="node90" href="$d3/dbd/classSWGSDRangel_1_1SWGSoapySDROutputSettings.html#a4d1deab15b156d4f8c390a23b7fe798f" title="SWGSDRangel::SWGSoapySDROutput\lSettings::isSet" alt="" coords="1567,2297,1825,2339"/>
+<area shape="rect" id="node91" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a09fc1706d0e44a3948b4432af22a417c" title="SWGSDRangel::SWGTestSource\lSettings::isSet" alt="" coords="1585,2363,1807,2404"/>
+<area shape="rect" id="node92" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a4db3b2c4b1cc773ae1814db0d54713c6" title="SWGSDRangel::SWGTestMISettings\l::isSet" alt="" coords="1575,2428,1817,2469"/>
+<area shape="rect" id="node93" href="$d3/d55/classSWGSDRangel_1_1SWGXtrxInputSettings.html#a9082fc187cb345df0e848c5abe93e3df" title="SWGSDRangel::SWGXtrxInput\lSettings::isSet" alt="" coords="1593,2493,1799,2535"/>
+<area shape="rect" id="node94" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#ae15bdef1370707afbd11d2aed5fe94d1" title="SWGSDRangel::SWGXtrxOutput\lSettings::isSet" alt="" coords="1587,2559,1805,2600"/>
+<area shape="rect" id="node64" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1881,671,2073,712"/>
+<area shape="rect" id="node89" href="$d9/d74/classSWGSDRangel_1_1SWGComplex.html#a7b7595061a18780b40e7a0d90e747879" title="SWGSDRangel::SWGComplex\l::isSet" alt="" coords="1873,2264,2080,2305"/>
+<area shape="rect" id="node118" href="$db/dd5/structAirspySettings.html#a83d3a4af302aa715939b2922be7fded8" title="AirspySettings::serialize" alt="" coords="476,3655,639,3682"/>
+<area shape="rect" id="node119" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="739,3554,913,3581"/>
+<area shape="rect" id="node121" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="738,3605,914,3631"/>
+<area shape="rect" id="node122" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="737,3655,915,3682"/>
+<area shape="rect" id="node123" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="739,3757,913,3783"/>
+<area shape="rect" id="node124" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="733,3807,919,3834"/>
+<area shape="rect" id="node125" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="752,3706,900,3733"/>
+<area shape="rect" id="node120" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1019,3655,1194,3682"/>
+<area shape="rect" id="node127" href="$da/d19/classAirspyThread.html#a454737d53850ac1810034d9114a6cf39" title="AirspyThread::startWork" alt="" coords="475,3371,639,3398"/>
+<area shape="rect" id="node129" href="$da/d19/classAirspyThread.html#a8849739495c1671ee955a86cce76181b" title="AirspyThread::stopWork" alt="" coords="745,878,907,905"/>
+<area shape="rect" id="node131" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="451,111,663,138"/>
+<area shape="rect" id="node132" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="740,71,912,112"/>
+<area shape="rect" id="node133" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="747,136,905,177"/>
+<area shape="rect" id="node134" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="743,5,909,47"/>
+</map>

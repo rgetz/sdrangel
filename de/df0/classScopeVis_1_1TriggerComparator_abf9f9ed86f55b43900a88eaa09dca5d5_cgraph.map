@@ -1,0 +1,12 @@
+<map id="ScopeVis::TriggerComparator::triggered" name="ScopeVis::TriggerComparator::triggered">
+<area shape="rect" id="node2" href="$d7/def/classProjector.html#a8caf64e60c04f29017a04ab78d1e2c29" title="Projector::getProjectionType" alt="" coords="248,35,435,61"/>
+<area shape="rect" id="node3" href="$d7/def/classProjector.html#a1123593ba884b34901491abe5d72db21" title="Projector::run" alt="" coords="291,85,391,112"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="548,35,588,61"/>
+<area shape="rect" id="node9" href="$d7/def/classProjector.html#af951dd12229fff9f16221d8a3c37ff23" title="Projector::normalizeAngle" alt="" coords="483,85,653,112"/>
+<area shape="rect" id="node10" href="$dd/d58/fixed_8h.html#a112464e01c9263c3bbffc0856583e1bc" title="sqrt" alt="" coords="546,136,590,163"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="701,35,809,61"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="857,57,1005,98"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1061,5,1180,32"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1053,57,1188,98"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#aafa1d6d4ce5959ddedcf20ec16a2fa3d" title="Fixed::sqrt" alt="" coords="713,136,797,163"/>
+</map>

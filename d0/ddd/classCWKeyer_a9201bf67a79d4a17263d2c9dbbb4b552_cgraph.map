@@ -1,0 +1,13 @@
+<map id="CWKeyer::webapiFormatChannelSettings" name="CWKeyer::webapiFormatChannelSettings">
+<area shape="rect" id="node2" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ab393704d430af159f6354f024a51b1ee" title="SWGSDRangel::SWGCWKeyerSettings\l::getText" alt="" coords="271,5,529,47"/>
+<area shape="rect" id="node3" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#adc925659aaf63da43b369cc2a2262111" title="SWGSDRangel::SWGCWKeyerSettings\l::setDashKey" alt="" coords="271,71,529,112"/>
+<area shape="rect" id="node4" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a28044070e85fe144c708dab9182df701" title="SWGSDRangel::SWGCWKeyerSettings\l::setDashKeyModifiers" alt="" coords="271,136,529,177"/>
+<area shape="rect" id="node5" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ad9210c525a11fcc9e8f4cff2e08a6ac6" title="SWGSDRangel::SWGCWKeyerSettings\l::setDotKey" alt="" coords="271,201,529,243"/>
+<area shape="rect" id="node6" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#aff8fd91b9282aca8ed410c2e27bd7cb8" title="SWGSDRangel::SWGCWKeyerSettings\l::setDotKeyModifiers" alt="" coords="271,267,529,308"/>
+<area shape="rect" id="node7" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a5ac07656f6452a3152fce26122284a9b" title="SWGSDRangel::SWGCWKeyerSettings\l::setKeyboardIambic" alt="" coords="271,332,529,373"/>
+<area shape="rect" id="node8" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a31fe2620d5e67a8c9a02af1cb61dea3a" title="SWGSDRangel::SWGCWKeyerSettings\l::setLoop" alt="" coords="271,397,529,439"/>
+<area shape="rect" id="node9" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a3d98f769039ed2824916e46544e349ea" title="SWGSDRangel::SWGCWKeyerSettings\l::setMode" alt="" coords="271,463,529,504"/>
+<area shape="rect" id="node10" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a41935b3eb345b767084cf4e8726aeafe" title="SWGSDRangel::SWGCWKeyerSettings\l::setSampleRate" alt="" coords="271,528,529,569"/>
+<area shape="rect" id="node11" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ab1911fa8feb6f9583f002659e8966463" title="SWGSDRangel::SWGCWKeyerSettings\l::setText" alt="" coords="271,593,529,635"/>
+<area shape="rect" id="node12" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#ae77c7d12eaabdff622858ad28fed40af" title="SWGSDRangel::SWGCWKeyerSettings\l::setWpm" alt="" coords="271,659,529,700"/>
+</map>

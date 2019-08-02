@@ -1,0 +1,6 @@
+<map id="KiwiSDRGui::updateHardware" name="KiwiSDRGui::updateHardware">
+<area shape="rect" id="node2" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a0116cb8a67b150dd3d83c9e05a894d7d" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::create" alt="" coords="252,5,447,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="265,71,433,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="275,137,424,163"/>
+<area shape="rect" id="node3" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a4d171ddf76d4d8f516bd90d0d13cab07" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::MsgConfigureKiwiSDR" alt="" coords="495,5,713,47"/>
+</map>

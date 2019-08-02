@@ -1,0 +1,5 @@
+<map id="XTRXInputGUI::on_startStop_toggled" name="XTRXInputGUI::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d4/d61/classXTRXInput_1_1MsgStartStop.html#aeff43429a9ebe85993c6f97aff15d3da" title="XTRXInput::MsgStartStop\l::create" alt="" coords="247,5,421,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="250,71,418,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="259,137,409,163"/>
+</map>

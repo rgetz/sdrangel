@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGRemoteOutputSettings::setUseReverseApi" name="SWGSDRangel::SWGRemoteOutputSettings::setUseReverseApi">
+<area shape="rect" id="node2" href="$d8/daf/classRemoteOutput.html#a162899b2a3df08efad4522cd064f1bf0" title="RemoteOutput::webapiFormat\lDeviceSettings" alt="" coords="292,27,489,69"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#ae2b20ba3e41d86b0e8fb4e9df7d7cff2" title="RemoteOutput::webapiSettingsGet" alt="" coords="537,5,763,32"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a09c23db456c81edb373d113f10dcfba0" title="RemoteOutput::webapiSettings\lPutPatch" alt="" coords="548,57,752,98"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="811,35,1044,61"/>
+</map>

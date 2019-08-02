@@ -1,0 +1,13 @@
+<map id="SSBDemodSettings::resetToDefaults" name="SSBDemodSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a3541ba1eb532f9302a6e58156ea4f322" title="SSBDemodGUI::deserialize" alt="" coords="538,5,723,32"/>
+<area shape="rect" id="node3" href="$d5/d5c/structSSBDemodSettings.html#af2e1d844db138b865f469e21c6b0b257" title="SSBDemodSettings::deserialize" alt="" coords="247,56,457,83"/>
+<area shape="rect" id="node4" href="$d6/d4d/classSSBDemod.html#a0a46178a5bea6e6b4a49d5a4dff307df" title="SSBDemod::deserialize" alt="" coords="550,107,711,133"/>
+<area shape="rect" id="node11" href="$d4/d5b/classSSBDemodGUI.html#ab538672106a615ed4889da77192372b8" title="SSBDemodGUI::resetToDefaults" alt="" coords="244,157,460,184"/>
+<area shape="rect" id="node12" href="$d5/d5c/structSSBDemodSettings.html#a03550888f4799df5ff0b6cf4f9f704a7" title="SSBDemodSettings::SSBDemod\lSettings" alt="" coords="244,209,460,250"/>
+<area shape="rect" id="node6" href="$d5/d5c/structSSBDemodSettings.html#aff33eee566aaa42b3b5317f04fe0337a" title="SSBDemodSettings::setSpectrumGUI" alt="" coords="508,56,753,83"/>
+<area shape="rect" id="node5" href="$d6/d4d/classSSBDemod.html#abd95122ab2c3906468d9428ea8a95d71" title="Applies to a default stream. " alt="" coords="801,107,1019,133"/>
+<area shape="rect" id="node7" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="802,56,1018,83"/>
+<area shape="rect" id="node8" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1067,56,1225,83"/>
+<area shape="rect" id="node9" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1273,56,1492,83"/>
+<area shape="rect" id="node10" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1540,56,1687,83"/>
+</map>

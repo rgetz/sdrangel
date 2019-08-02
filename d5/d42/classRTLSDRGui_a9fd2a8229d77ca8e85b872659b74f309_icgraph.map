@@ -1,0 +1,11 @@
+<map id="RTLSDRGui::updateFrequencyLimits" name="RTLSDRGui::updateFrequencyLimits">
+<area shape="rect" id="node2" href="$d5/d42/classRTLSDRGui.html#a7e15bc5044e265b2f05f5165c13ac2ce" title="RTLSDRGui::displaySettings" alt="" coords="257,112,451,139"/>
+<area shape="rect" id="node6" href="$d5/d42/classRTLSDRGui.html#a9597363c005b0bb0bc4446abb6a0da70" title="RTLSDRGui::RTLSDRGui" alt="" coords="1048,137,1227,164"/>
+<area shape="rect" id="node9" href="$d5/d42/classRTLSDRGui.html#a34d60eac0c88667e5b7c062b2bcb0bb6" title="RTLSDRGui::on_checkBox\l_stateChanged" alt="" coords="263,290,445,331"/>
+<area shape="rect" id="node10" href="$d5/d42/classRTLSDRGui.html#a44dba7f93ce96f7520ecf2ce7a04d7af" title="RTLSDRGui::on_transverter\l_clicked" alt="" coords="261,355,447,397"/>
+<area shape="rect" id="node3" href="$d5/d42/classRTLSDRGui.html#adb3bf9070adbe8001529789adbe096ad" title="RTLSDRGui::deserialize" alt="" coords="801,36,968,63"/>
+<area shape="rect" id="node4" href="$d5/d42/classRTLSDRGui.html#a76f0ae6403ce58f5c27ab1f6e8088b1e" title="RTLSDRGui::handleMessage" alt="" coords="513,87,707,113"/>
+<area shape="rect" id="node7" href="$d5/d42/classRTLSDRGui.html#a73412c6e829aa08977553b4e28e78741" title="RTLSDRGui::resetToDefaults" alt="" coords="511,36,709,63"/>
+<area shape="rect" id="node8" href="$d5/d42/classRTLSDRGui.html#a7d199880da718915387264f0ed83af1c" title="RTLSDRGui::setCenterFrequency" alt="" coords="499,188,721,215"/>
+<area shape="rect" id="node5" href="$d5/d42/classRTLSDRGui.html#a359248b1e7149d05da1c72cf963db631" title="RTLSDRGui::handleInputMessages" alt="" coords="769,87,1000,113"/>
+</map>

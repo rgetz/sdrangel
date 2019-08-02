@@ -1,0 +1,7 @@
+<map id="DATVDemodGUI::resetToDefaults" name="DATVDemodGUI::resetToDefaults">
+<area shape="rect" id="node2" href="$d7/d6a/classDATVDemodGUI.html#ae0002d4befcd7cf619607352168acbd6" title="DATVDemodGUI::DATVDemodGUI" alt="" coords="279,13,513,39"/>
+<area shape="rect" id="node5" href="$d7/d6a/classDATVDemodGUI.html#aa39ee32a979168d59cd22b7b9ac0112d" title="DATVDemodGUI::deserialize" alt="" coords="299,63,493,90"/>
+<area shape="rect" id="node6" href="$d7/d6a/classDATVDemodGUI.html#ae2d20df78383769d210ff3ac9f02ea9c" title="DATVDemodGUI::on_resetDefaults\l_clicked" alt="" coords="281,115,511,156"/>
+<area shape="rect" id="node3" href="$d7/d6a/classDATVDemodGUI.html#a845ff206f4c1d8020db0c3c57cb2ebb6" title="DATVDemodGUI::create" alt="" coords="561,13,729,39"/>
+<area shape="rect" id="node4" href="$d0/d37/classDATVDemodPlugin.html#ab917121134f3fe91c7d3f492d1fda98e" title="DATVDemodPlugin::createRx\lChannelGUI" alt="" coords="777,5,975,47"/>
+</map>

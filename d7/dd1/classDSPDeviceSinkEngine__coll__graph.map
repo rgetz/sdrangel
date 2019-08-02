@@ -1,0 +1,8 @@
+<map id="DSPDeviceSinkEngine" name="DSPDeviceSinkEngine">
+<area shape="rect" id="node2" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="164,5,277,32"/>
+<area shape="rect" id="node5" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="386,109,519,136"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="5,109,156,136"/>
+<area shape="rect" id="node3" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="548,109,664,136"/>
+<area shape="rect" id="node4" href="$d6/d28/classMessage.html" title="Message" alt="" coords="571,5,646,32"/>
+<area shape="rect" id="node6" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="385,5,515,32"/>
+</map>

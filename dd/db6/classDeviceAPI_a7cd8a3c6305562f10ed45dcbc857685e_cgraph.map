@@ -1,0 +1,6 @@
+<map id="DeviceAPI::removeAncillarySink" name="DeviceAPI::removeAncillarySink">
+<area shape="rect" id="node2" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="268,5,435,47"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="265,71,437,112"/>
+<area shape="rect" id="node5" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="273,136,430,177"/>
+<area shape="rect" id="node3" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="485,78,664,105"/>
+</map>

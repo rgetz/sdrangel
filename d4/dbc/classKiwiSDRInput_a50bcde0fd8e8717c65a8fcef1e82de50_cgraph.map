@@ -1,0 +1,27 @@
+<map id="KiwiSDRInput::webapiSettingsPutPatch" name="KiwiSDRInput::webapiSettingsPutPatch">
+<area shape="rect" id="node2" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a0116cb8a67b150dd3d83c9e05a894d7d" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::create" alt="" coords="287,5,481,47"/>
+<area shape="rect" id="node4" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a6a91d23eca64e26168ebab6ece95daf9" title="SWGSDRangel::SWGKiwiSDRSettings\l::getCenterFrequency" alt="" coords="256,71,512,112"/>
+<area shape="rect" id="node5" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#ab03a31560346930e3d39b00059690f0a" title="SWGSDRangel::SWGKiwiSDRSettings\l::getDcBlock" alt="" coords="256,136,512,177"/>
+<area shape="rect" id="node6" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#ad639a3c16275ead280eca3fde8c59d8a" title="SWGSDRangel::SWGKiwiSDRSettings\l::getFileRecordName" alt="" coords="560,112,816,153"/>
+<area shape="rect" id="node7" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a112d9f9a34111992b2ec181aa2126f37" title="SWGSDRangel::SWGKiwiSDRSettings\l::getGain" alt="" coords="256,471,512,512"/>
+<area shape="rect" id="node8" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#abf5064b533e34e78f5cd5adebce3974c" title="SWGSDRangel::SWGDeviceSettings\l::getKiwiSdrSettings" alt="" coords="567,177,809,219"/>
+<area shape="rect" id="node9" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#afe2f8e53444dffe7d7e643463bf35a5a" title="SWGSDRangel::SWGKiwiSDRSettings\l::getReverseApiAddress" alt="" coords="560,243,816,284"/>
+<area shape="rect" id="node10" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#aa4fa298cfaec12786f4b5a2feea62868" title="SWGSDRangel::SWGKiwiSDRSettings\l::getReverseApiDeviceIndex" alt="" coords="256,536,512,577"/>
+<area shape="rect" id="node11" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a17e991e0a3646776b717afff378626fa" title="SWGSDRangel::SWGKiwiSDRSettings\l::getReverseApiPort" alt="" coords="256,601,512,643"/>
+<area shape="rect" id="node12" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a07658a1969917358efb31a928450a3e0" title="SWGSDRangel::SWGKiwiSDRSettings\l::getServerAddress" alt="" coords="560,308,816,349"/>
+<area shape="rect" id="node13" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#abc7ab22ba02d927683ff384c194d3874" title="SWGSDRangel::SWGKiwiSDRSettings\l::getUseAgc" alt="" coords="256,667,512,708"/>
+<area shape="rect" id="node14" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a616ecefdf9412cde5b17f67e98a76e13" title="SWGSDRangel::SWGKiwiSDRSettings\l::getUseReverseApi" alt="" coords="256,732,512,773"/>
+<area shape="rect" id="node15" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="309,798,459,825"/>
+<area shape="rect" id="node16" href="$d4/dbc/classKiwiSDRInput.html#adf4da3328b997247af0b78f664f0ffa0" title="KiwiSDRInput::webapiFormat\lDeviceSettings" alt="" coords="287,405,481,447"/>
+<area shape="rect" id="node3" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a4d171ddf76d4d8f516bd90d0d13cab07" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::MsgConfigureKiwiSDR" alt="" coords="579,5,797,47"/>
+<area shape="rect" id="node17" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#af8f67f5d0dd489a8654d46afaf486c87" title="SWGSDRangel::SWGKiwiSDRSettings\l::setCenterFrequency" alt="" coords="560,700,816,741"/>
+<area shape="rect" id="node18" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a023918478d5a711b8720cd000dc2dfbe" title="SWGSDRangel::SWGKiwiSDRSettings\l::setDcBlock" alt="" coords="560,765,816,807"/>
+<area shape="rect" id="node19" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a50ea40784f3eedd12e4852157192566e" title="SWGSDRangel::SWGKiwiSDRSettings\l::setFileRecordName" alt="" coords="560,831,816,872"/>
+<area shape="rect" id="node20" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a1b2a9f175d5c92040a53260c94566746" title="SWGSDRangel::SWGKiwiSDRSettings\l::setGain" alt="" coords="560,896,816,937"/>
+<area shape="rect" id="node21" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a9a63514fbcab646b94e726d60b3c18eb" title="SWGSDRangel::SWGKiwiSDRSettings\l::setReverseApiAddress" alt="" coords="560,961,816,1003"/>
+<area shape="rect" id="node22" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#aa701d91b66fa06582b640745175e5970" title="SWGSDRangel::SWGKiwiSDRSettings\l::setReverseApiDeviceIndex" alt="" coords="560,373,816,415"/>
+<area shape="rect" id="node23" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#ad1ee756bba228c5debc75f32fa2787d5" title="SWGSDRangel::SWGKiwiSDRSettings\l::setReverseApiPort" alt="" coords="560,439,816,480"/>
+<area shape="rect" id="node24" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a14f8438d3dc21f0a558407d6e54592a5" title="SWGSDRangel::SWGKiwiSDRSettings\l::setServerAddress" alt="" coords="560,504,816,545"/>
+<area shape="rect" id="node25" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#ae76e1178a00593ec640373e17b68a318" title="SWGSDRangel::SWGKiwiSDRSettings\l::setUseAgc" alt="" coords="560,569,816,611"/>
+<area shape="rect" id="node26" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#afca53cacb35767184a2ddb18727a3744" title="SWGSDRangel::SWGKiwiSDRSettings\l::setUseReverseApi" alt="" coords="560,635,816,676"/>
+</map>

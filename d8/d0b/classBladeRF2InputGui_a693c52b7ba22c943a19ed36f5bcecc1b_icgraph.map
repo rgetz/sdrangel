@@ -1,0 +1,12 @@
+<map id="BladeRF2InputGui::displaySampleRate" name="BladeRF2InputGui::displaySampleRate">
+<area shape="rect" id="node2" href="$d8/d0b/classBladeRF2InputGui.html#aa6cc872d93f868f7031ef7be020a5bdb" title="BladeRF2InputGui::display\lSettings" alt="" coords="240,96,419,137"/>
+<area shape="rect" id="node9" href="$d8/d0b/classBladeRF2InputGui.html#aa0f53875183784b54aee773eb30e2fdd" title="BladeRF2InputGui::on\l_decim_currentIndexChanged" alt="" coords="232,161,427,202"/>
+<area shape="rect" id="node10" href="$d8/d0b/classBladeRF2InputGui.html#a525afc7af513c9635d881151780f3d4e" title="BladeRF2InputGui::on\l_sampleRateMode_toggled" alt="" coords="239,226,419,268"/>
+<area shape="rect" id="node11" href="$d8/d0b/classBladeRF2InputGui.html#a1ca420f3210dd2ce7c63c364b339713e" title="BladeRF2InputGui::update\lSampleRateAndFrequency" alt="" coords="483,285,661,326"/>
+<area shape="rect" id="node3" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="964,100,1159,141"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#a15fe9b38fc89e2ae80fc5df21914afed" title="BladeRF2InputGui::resetTo\lDefaults" alt="" coords="481,37,663,78"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#a4be74208f2c685776fa42aa4e27a8252" title="BladeRF2InputGui::deserialize" alt="" coords="717,74,916,100"/>
+<area shape="rect" id="node6" href="$d8/d0b/classBladeRF2InputGui.html#af772ef58d2f84c609dec7e28482d5790" title="BladeRF2InputGui::setCenter\lFrequency" alt="" coords="475,154,669,196"/>
+<area shape="rect" id="node7" href="$d8/d0b/classBladeRF2InputGui.html#a68143d0f2c26c5b993f2243ec0696dab" title="BladeRF2InputGui::handle\lMessage" alt="" coords="485,220,659,261"/>
+<area shape="rect" id="node8" href="$d8/d0b/classBladeRF2InputGui.html#aace8bf212761eb1c3e8dbe3a78194de6" title="BladeRF2InputGui::handle\lInputMessages" alt="" coords="729,220,904,261"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="qrtplib::RTCPSchedulerParams::GetRequestImmediateBYE" name="qrtplib::RTCPSchedulerParams::GetRequestImmediateBYE">
+<area shape="rect" id="node2" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a666c864e5741b0a3ff2edb3763342993" title="qrtplib::RTCPScheduler\l::ScheduleBYEPacket" alt="" coords="259,39,419,80"/>
+<area shape="rect" id="node3" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="469,5,607,47"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="467,71,609,112"/>
+<area shape="rect" id="node4" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="657,13,801,39"/>
+</map>

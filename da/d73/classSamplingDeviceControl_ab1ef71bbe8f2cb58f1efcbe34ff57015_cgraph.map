@@ -1,0 +1,11 @@
+<map id="SamplingDeviceControl::on_deviceChange_clicked" name="SamplingDeviceControl::on_deviceChange_clicked">
+<area shape="rect" id="node2" href="$da/d92/classSamplingDeviceDialog.html#a414a380c5ce6f9df6fb3dff4661ee54f" title="SamplingDeviceDialog\l::getSelectedDeviceIndex" alt="" coords="236,122,408,163"/>
+<area shape="rect" id="node3" href="$da/d73/classSamplingDeviceControl.html#a85859e56f475275dadbfb0a531a0b51d" title="SamplingDeviceControl\l::setSelectedDeviceIndex" alt="" coords="236,187,408,229"/>
+<area shape="rect" id="node4" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="486,5,673,32"/>
+<area shape="rect" id="node5" href="$d1/d17/classDeviceEnumerator.html#a69738920785313cd056966494370a92d" title="DeviceEnumerator::getRxSampling\lDevice" alt="" coords="466,57,693,98"/>
+<area shape="rect" id="node6" href="$d1/d17/classDeviceEnumerator.html#aeca5a0eb287d545d9341357d5685112c" title="DeviceEnumerator::change\lRxSelection" alt="" coords="489,122,669,163"/>
+<area shape="rect" id="node7" href="$d1/d17/classDeviceEnumerator.html#a71fc78eea78c91cfe076a432e50592b9" title="DeviceEnumerator::getTxSampling\lDevice" alt="" coords="467,187,692,229"/>
+<area shape="rect" id="node8" href="$d1/d17/classDeviceEnumerator.html#a75626a06a57e255bfc325b217c54d78a" title="DeviceEnumerator::change\lTxSelection" alt="" coords="489,253,669,294"/>
+<area shape="rect" id="node9" href="$d1/d17/classDeviceEnumerator.html#ab10dbd711d9ef48a761138178073e991" title="DeviceEnumerator::getMIMOSampling\lDevice" alt="" coords="456,318,703,359"/>
+<area shape="rect" id="node10" href="$d1/d17/classDeviceEnumerator.html#ade2aa3d117f5cb38263d4d27f2247fd7" title="DeviceEnumerator::change\lMIMOSelection" alt="" coords="489,383,669,425"/>
+</map>

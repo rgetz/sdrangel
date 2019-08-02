@@ -1,0 +1,5 @@
+<map id="SDRPlayInput::MsgStartStop::create" name="SDRPlayInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d9/d15/classSDRPlayGui.html#ab3e2664be7a5afda60d91da0b7639c06" title="SDRPlayGui::on_startStop\l_toggled" alt="" coords="248,5,427,47"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a211e0fe7e1423afeb0f6c45fd4a0dfcf" title="SDRPlayInput::webapiRun" alt="" coords="248,71,427,98"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="475,71,679,98"/>
+</map>

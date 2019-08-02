@@ -1,0 +1,10 @@
+<map id="FreeDVMod::MsgConfigureFreeDVMod::getSettings" name="FreeDVMod::MsgConfigureFreeDVMod::getSettings">
+<area shape="rect" id="node2" href="$de/d8e/classFreeDVModGUI.html#a4a4d9e1ec717cf638cebdc0848e8e3dd" title="FreeDVModGUI::handleMessage" alt="" coords="260,15,475,42"/>
+<area shape="rect" id="node8" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="272,67,463,94"/>
+<area shape="rect" id="node3" href="$de/d8e/classFreeDVModGUI.html#a964fe32d85af54f0673c066c0436dcf3" title="FreeDVModGUI::handleSource\lMessages" alt="" coords="543,5,746,47"/>
+<area shape="rect" id="node4" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="815,42,1033,69"/>
+<area shape="rect" id="node5" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1081,42,1241,69"/>
+<area shape="rect" id="node6" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1289,35,1476,76"/>
+<area shape="rect" id="node7" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="1524,42,1713,69"/>
+<area shape="rect" id="node9" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="523,71,767,98"/>
+</map>

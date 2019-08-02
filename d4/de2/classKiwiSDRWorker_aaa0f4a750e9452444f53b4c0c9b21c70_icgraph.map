@@ -1,0 +1,10 @@
+<map id="KiwiSDRWorker::updateStatus" name="KiwiSDRWorker::updateStatus">
+<area shape="rect" id="node2" href="$d4/de2/classKiwiSDRWorker.html#aa8f07a3801f14cb404629efe4d2a0cdc" title="KiwiSDRWorker::onBinaryMessage\lReceived" alt="" coords="256,5,487,47"/>
+<area shape="rect" id="node4" href="$d4/de2/classKiwiSDRWorker.html#a01156b3a130347cee7289500f7a78c2c" title="KiwiSDRWorker::onDisconnected" alt="" coords="261,71,481,98"/>
+<area shape="rect" id="node5" href="$d4/de2/classKiwiSDRWorker.html#a5a329c968b901d3bb9703d2a59df4881" title="KiwiSDRWorker::onServerAddress\lChanged" alt="" coords="258,173,485,215"/>
+<area shape="rect" id="node6" href="$d4/dbc/classKiwiSDRInput.html#ad8eac7e9247ca39ef86fb9a22b032c58" title="KiwiSDRInput::start" alt="" coords="577,210,715,237"/>
+<area shape="rect" id="node9" href="$d4/de2/classKiwiSDRWorker.html#aff8708c9b84fb81a18f79b7030209987" title="KiwiSDRWorker::onSocketError" alt="" coords="267,122,476,149"/>
+<area shape="rect" id="node3" href="$d4/de2/classKiwiSDRWorker.html#ad5d3d3392b99824ca4c8015afdc7b210" title="KiwiSDRWorker::KiwiSDRWorker" alt="" coords="535,71,757,98"/>
+<area shape="rect" id="node7" href="$d4/dbc/classKiwiSDRInput.html#a82985e560c9e21de05c9a39135bf1afb" title="KiwiSDRInput::KiwiSDRInput" alt="" coords="805,185,1001,211"/>
+<area shape="rect" id="node8" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="1049,203,1245,244"/>
+</map>

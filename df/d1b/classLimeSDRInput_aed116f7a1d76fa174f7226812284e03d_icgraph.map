@@ -1,0 +1,14 @@
+<map id="LimeSDRInput::getSRRange" name="LimeSDRInput::getSRRange">
+<area shape="rect" id="node2" href="$d4/d53/classLimeSDRInputGUI.html#a20614e960e74deb2e58b32cedd7ffb9f" title="LimeSDRInputGUI::display\lSampleRate" alt="" coords="257,205,438,247"/>
+<area shape="rect" id="node5" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="1295,238,1545,265"/>
+<area shape="rect" id="node13" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="244,457,451,483"/>
+<area shape="rect" id="node3" href="$d4/d53/classLimeSDRInputGUI.html#aa172abf4771763c582a3d94f4540be5b" title="LimeSDRInputGUI::updateSample\lRateAndFrequency" alt="" coords="765,5,988,47"/>
+<area shape="rect" id="node6" href="$d4/d53/classLimeSDRInputGUI.html#a5ed1f0d4a0b6d3cd99c68748e85d5d89" title="LimeSDRInputGUI::display\lSettings" alt="" coords="515,205,697,247"/>
+<area shape="rect" id="node11" href="$d4/d53/classLimeSDRInputGUI.html#a9b6f871b566b359411b6e71cc5ab95ee" title="LimeSDRInputGUI::on\l_swDecim_currentIndexChanged" alt="" coords="499,271,713,312"/>
+<area shape="rect" id="node12" href="$d4/d53/classLimeSDRInputGUI.html#a1ade5a1a7e4c28de81ee36b37aac4d65" title="LimeSDRInputGUI::on\l_sampleRateMode_toggled" alt="" coords="516,88,696,129"/>
+<area shape="rect" id="node4" href="$d4/d53/classLimeSDRInputGUI.html#ac80027ee9587ad6fde5cbe739e217ef3" title="LimeSDRInputGUI::handleInput\lMessages" alt="" coords="1040,151,1247,192"/>
+<area shape="rect" id="node7" href="$d4/d53/classLimeSDRInputGUI.html#af71934eefe861b91fe23b2781a4f5d58" title="LimeSDRInputGUI::resetTo\lDefaults" alt="" coords="785,289,969,331"/>
+<area shape="rect" id="node8" href="$d4/d53/classLimeSDRInputGUI.html#a6ebbe3102bd706fb1b6874f5da5e1a76" title="LimeSDRInputGUI::deserialize" alt="" coords="1042,326,1245,353"/>
+<area shape="rect" id="node9" href="$d4/d53/classLimeSDRInputGUI.html#ac7c10150e2e93ca11a687f87ebe602d7" title="LimeSDRInputGUI::setCenter\lFrequency" alt="" coords="778,71,975,112"/>
+<area shape="rect" id="node10" href="$d4/d53/classLimeSDRInputGUI.html#a8f6b05357f9f3d98309cbfe22f195b2f" title="LimeSDRInputGUI::handleMessage" alt="" coords="761,137,992,163"/>
+</map>

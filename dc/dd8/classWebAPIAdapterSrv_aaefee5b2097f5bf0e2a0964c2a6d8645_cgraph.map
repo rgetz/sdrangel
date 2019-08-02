@@ -1,0 +1,7 @@
+<map id="WebAPIAdapterSrv::instanceAMBEDevicesGet" name="WebAPIAdapterSrv::instanceAMBEDevicesGet">
+<area shape="rect" id="node2" href="$d5/de9/classSWGSDRangel_1_1SWGAMBEDevices.html#a6a312518a62e62a8b0ba0adde9b6e8fc" title="SWGSDRangel::SWGAMBEDevices\l::getAmbeDevices" alt="" coords="247,5,487,47"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#ac3c61f0e0e16257e2228d10b319d1dcc" title="DSPEngine::getDVSerialNames" alt="" coords="261,71,472,98"/>
+<area shape="rect" id="node5" href="$d5/de9/classSWGSDRangel_1_1SWGAMBEDevices.html#aaf28f8535bef1b36cad71ee3a1b75152" title="SWGSDRangel::SWGAMBEDevices\l::init" alt="" coords="247,123,487,164"/>
+<area shape="rect" id="node6" href="$d5/de9/classSWGSDRangel_1_1SWGAMBEDevices.html#add1b7a0a3bfb3a3c441337f1237f6d8d" title="SWGSDRangel::SWGAMBEDevices\l::setNbDevices" alt="" coords="247,188,487,229"/>
+<area shape="rect" id="node4" href="$d3/d84/classAMBEEngine.html#ab2a653844025de4e7f7fdc628fa9c1ad" title="reference of the devices used (device path or url) " alt="" coords="535,71,729,98"/>
+</map>

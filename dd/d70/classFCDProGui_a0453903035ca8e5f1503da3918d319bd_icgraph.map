@@ -1,0 +1,10 @@
+<map id="FCDProGui::displaySettings" name="FCDProGui::displaySettings">
+<area shape="rect" id="node2" href="$dd/d70/classFCDProGui.html#a25afceaa6c93207f799981c5d354023d" title="FCDProGui::deserialize" alt="" coords="555,197,715,224"/>
+<area shape="rect" id="node3" href="$dd/d70/classFCDProGui.html#a848d134e81612fca4d595ed3bec34eb1" title="FCDProGui::FCDProGui" alt="" coords="796,37,963,64"/>
+<area shape="rect" id="node4" href="$dd/d70/classFCDProGui.html#af0323a65cfc406ac6da72da2582d0fca" title="FCDProGui::handleMessage" alt="" coords="263,63,452,89"/>
+<area shape="rect" id="node6" href="$dd/d70/classFCDProGui.html#a2a1745e79b312976bf1db5a36c23b44f" title="FCDProGui::on_ppm_valueChanged" alt="" coords="240,164,475,191"/>
+<area shape="rect" id="node7" href="$dd/d70/classFCDProGui.html#a0e3bf04aa8b661a4551f0409e95eacf1" title="FCDProGui::on_setDefaults\l_clicked" alt="" coords="264,215,451,257"/>
+<area shape="rect" id="node8" href="$dd/d70/classFCDProGui.html#a4a6b83c97e39d4501ff4ab3b989cfc78" title="FCDProGui::resetToDefaults" alt="" coords="262,281,453,308"/>
+<area shape="rect" id="node9" href="$dd/d70/classFCDProGui.html#a61fd10c3f331cadaeecf4dfa19ea8b1b" title="FCDProGui::setCenterFrequency" alt="" coords="249,332,465,359"/>
+<area shape="rect" id="node5" href="$dd/d70/classFCDProGui.html#ae747f37cc91fe669819fc9179c582b17" title="FCDProGui::handleInputMessages" alt="" coords="523,63,748,89"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ThreadedBasebandSampleSource" name="ThreadedBasebandSampleSource">
+<area shape="rect" id="node2" href="$d9/dfb/classBasebandSampleSource.html" title="BasebandSampleSource" alt="" coords="63,109,229,136"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node4" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="165,5,295,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="AirspyHFInput::MsgConfigureAirspyHF::create" name="AirspyHFInput::MsgConfigureAirspyHF::create">
+<area shape="rect" id="node2" href="$d2/d00/classAirspyHFInput.html#a59a8e0394630dbe52365a8690f0e2c78" title="AirspyHFInput::deserialize" alt="" coords="261,13,437,39"/>
+<area shape="rect" id="node4" href="$d2/d00/classAirspyHFInput.html#a048a948065c8baf8b475235bdf6b9396" title="AirspyHFInput::setCenter\lFrequency" alt="" coords="264,64,435,105"/>
+<area shape="rect" id="node6" href="$d6/d2f/classAirspyHFGui.html#a06659080b9299d4321de7983b862abc5" title="AirspyHFGui::updateHardware" alt="" coords="249,130,449,157"/>
+<area shape="rect" id="node8" href="$d2/d00/classAirspyHFInput.html#ae07633d045bd0ccb2086abe36c1ce418" title="AirspyHFInput::webapiSettings\lPutPatch" alt="" coords="248,181,451,223"/>
+<area shape="rect" id="node3" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#a35999d6c1ec18257ae6f1998efe21ea8" title="AirspyHFInput::MsgStartStop\l::MsgStartStop" alt="" coords="503,5,698,47"/>
+<area shape="rect" id="node5" href="$d2/d00/classAirspyHFInput.html#af18f93dd2ad0af4400648487cd9ca6c6" title="For when the source sample rate is set externally. " alt="" coords="499,71,703,98"/>
+<area shape="rect" id="node7" href="$d6/d2f/classAirspyHFGui.html#aea13be5541f92d02861ea15d55940ca9" title="AirspyHFGui::AirspyHFGui" alt="" coords="511,130,691,157"/>
+<area shape="rect" id="node9" href="$d2/d00/classAirspyHFInput.html#a5dc37f4555107ec0badd0749bb37894e" title="AirspyHFInput::getSample\lRates" alt="" coords="513,181,689,223"/>
+<area shape="rect" id="node10" href="$d2/d00/classAirspyHFInput.html#a1d9e33f17961c59899bb2bb9e556a7c0" title="AirspyHFInput::webapiFormat\lDeviceReport" alt="" coords="751,152,947,193"/>
+<area shape="rect" id="node11" href="$d2/d00/classAirspyHFInput.html#adb85453a3249fc95d59eaea43a759338" title="AirspyHFInput::webapiReportGet" alt="" coords="995,189,1209,215"/>
+</map>

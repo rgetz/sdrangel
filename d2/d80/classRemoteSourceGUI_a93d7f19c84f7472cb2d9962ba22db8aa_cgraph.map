@@ -1,0 +1,86 @@
+<map id="RemoteSourceGUI::RemoteSourceGUI" name="RemoteSourceGUI::RemoteSourceGUI">
+<area shape="rect" id="node2" href="$d3/d37/classDeviceUISet.html#a9883664a0a9633bca0c66f9a757714ae" title="Add channel marker to spectrum. " alt="" coords="308,113,523,139"/>
+<area shape="rect" id="node8" href="$d3/d37/classDeviceUISet.html#a1160290a5c290edeaca5748e2b60fce7" title="Add rollup widget to channel window. " alt="" coords="313,185,517,211"/>
+<area shape="rect" id="node10" href="$d2/d80/classRemoteSourceGUI.html#ac7f9534581edccf008ba3517db0010eb" title="RemoteSourceGUI::applySettings" alt="" coords="855,2438,1075,2465"/>
+<area shape="rect" id="node17" href="$d2/d80/classRemoteSourceGUI.html#aa44bfe52c9e76f554effdff5b078adc4" title="RemoteSourceGUI::channel\lMarkerChangedByCursor" alt="" coords="322,1127,509,1168"/>
+<area shape="rect" id="node18" href="$d2/d80/classRemoteSourceGUI.html#ac8993c92c71b0323ff160fb1fcedc655" title="RemoteSourceGUI::display\lSettings" alt="" coords="873,1360,1056,1401"/>
+<area shape="rect" id="node19" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="1146,684,1321,725"/>
+<area shape="rect" id="node20" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="1153,1354,1314,1381"/>
+<area shape="rect" id="node22" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="1150,1415,1317,1442"/>
+<area shape="rect" id="node30" href="$d2/d80/classRemoteSourceGUI.html#a9f18a4b7333450284fa9084545ff311d" title="RemoteSourceGUI::getInput\lMessageQueue" alt="" coords="595,1217,783,1259"/>
+<area shape="rect" id="node31" href="$dd/db6/classDeviceAPI.html#a8672ead65c34d0ce9d069b5485cc4a8e" title="This is the DSPEngine master timer. " alt="" coords="323,1477,507,1503"/>
+<area shape="rect" id="node32" href="$d2/d80/classRemoteSourceGUI.html#abe838dd666f78a0ee1b3d73e46cfc001" title="RemoteSourceGUI::handleSource\lMessages" alt="" coords="305,1192,525,1233"/>
+<area shape="rect" id="node50" href="$d2/d80/classRemoteSourceGUI.html#af10ee3ddcf9c96246892351c283ae73b" title="RemoteSourceGUI::onMenuDialog\lCalled" alt="" coords="577,1884,801,1925"/>
+<area shape="rect" id="node62" href="$d2/d80/classRemoteSourceGUI.html#a390e05f2a495fc42a821bf4333fe6943" title="RemoteSourceGUI::onWidget\lRolled" alt="" coords="317,1645,513,1687"/>
+<area shape="rect" id="node63" href="$d3/d37/classDeviceUISet.html#a1ed1a9d2732757c7eb76e393ebb9db8c" title="DeviceUISet::registerTxChannel\lInstance" alt="" coords="310,1528,521,1569"/>
+<area shape="rect" id="node65" href="$d5/d20/structRemoteSourceSettings.html#ab0bce55b30eb1725d83bb915ca7378c7" title="RemoteSourceSettings\l::setChannelMarker" alt="" coords="337,2672,494,2713"/>
+<area shape="rect" id="node80" href="$d9/dfb/classBasebandSampleSource.html#a62cb3cdc0a11282a20649d53b93b1a9a" title="BasebandSampleSource\l::setMessageQueueToGUI" alt="" coords="326,2052,505,2093"/>
+<area shape="rect" id="node81" href="$de/d03/classChannelMarker.html#adf40543cf00760553518f18b39ac068a" title="ChannelMarker::setSource\lOrSinkStream" alt="" coords="327,2117,504,2159"/>
+<area shape="rect" id="node82" href="$de/d03/classChannelMarker.html#a40014b565a891a3173a40fe5ecfded25" title="ChannelMarker::setVisible" alt="" coords="328,2183,503,2210"/>
+<area shape="rect" id="node83" href="$d2/d80/classRemoteSourceGUI.html#a1ac9f6623bd75c000ed77a7904988cb4" title="RemoteSourceGUI::tick" alt="" coords="883,2497,1046,2523"/>
+<area shape="rect" id="node3" href="$d6/dab/classGLSpectrum.html#af8a508110b742c425a4017b9b9734d0e" title="GLSpectrum::addChannelMarker" alt="" coords="583,97,795,123"/>
+<area shape="rect" id="node4" href="$d6/dab/classGLSpectrum.html#af02cfc0961d9d886a63abf86c900509a" title="GLSpectrum::channelMarker\lChanged" alt="" coords="871,123,1059,164"/>
+<area shape="rect" id="node5" href="$d6/dab/classGLSpectrum.html#afbe6fd537a7189b7e709fccdb80ffd75" title="GLSpectrum::channelMarker\lDestroyed" alt="" coords="871,5,1059,47"/>
+<area shape="rect" id="node7" href="$d6/dab/classGLSpectrum.html#aa45083c2872588d11f49d8ba0a2db758" title="GLSpectrum::stopDrag" alt="" coords="1435,42,1591,69"/>
+<area shape="rect" id="node6" href="$d6/dab/classGLSpectrum.html#ab37ec786fce1974167e951a7ec32d39d" title="GLSpectrum::removeChannel\lMarker" alt="" coords="1136,5,1331,47"/>
+<area shape="rect" id="node9" href="$db/d40/classChannelWindow.html#a624eeeff9a7f3da86d934cb4094c6248" title="ChannelWindow::addRollup\lWidget" alt="" coords="598,173,781,215"/>
+<area shape="rect" id="node11" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="1142,2205,1325,2231"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="1150,2314,1317,2341"/>
+<area shape="rect" id="node13" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#afffe926056e4fe7c5d6cb1163a8014a5" title="RemoteSource::MsgConfigure\lRemoteSource::create" alt="" coords="1134,2365,1333,2407"/>
+<area shape="rect" id="node15" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="1149,2431,1317,2472"/>
+<area shape="rect" id="node16" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1159,2497,1308,2523"/>
+<area shape="rect" id="node14" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#ad4fce54859e816d5e17cc4b29bcc07ea" title="RemoteSource::MsgConfigure\lRemoteSource::MsgConfigureRemote\lSource" alt="" coords="1391,2358,1635,2414"/>
+<area shape="rect" id="node21" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="1135,1195,1332,1222"/>
+<area shape="rect" id="node23" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="1153,1517,1314,1543"/>
+<area shape="rect" id="node24" href="$d2/d80/classRemoteSourceGUI.html#a94203ae49f51e4a2089e779e1c1e1082" title="RemoteSourceGUI::blockApply\lSettings" alt="" coords="1131,1273,1336,1315"/>
+<area shape="rect" id="node25" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1213,1607,1253,1634"/>
+<area shape="rect" id="node26" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1459,1607,1567,1634"/>
+<area shape="rect" id="node27" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1683,1629,1831,1671"/>
+<area shape="rect" id="node28" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1887,1578,2005,1605"/>
+<area shape="rect" id="node29" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1879,1629,2013,1671"/>
+<area shape="rect" id="node33" href="$d2/d80/classRemoteSourceGUI.html#aa4eb7894ff4248fec22f5a04a47f55b1" title="RemoteSourceGUI::handleMessage" alt="" coords="573,854,805,881"/>
+<area shape="rect" id="node34" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="905,189,1024,215"/>
+<area shape="rect" id="node36" href="$dd/d9a/classRemoteSource_1_1MsgSampleRateNotification.html#ada86b25af2666150fc2ec796e77b1d56" title="RemoteSource::MsgSampleRate\lNotification::getSampleRate" alt="" coords="857,1009,1072,1051"/>
+<area shape="rect" id="node37" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#aad111feeaabdc0d13dfb0c27b9a9dff9" title="RemoteSource::MsgConfigure\lRemoteSource::getSettings" alt="" coords="865,1075,1064,1116"/>
+<area shape="rect" id="node38" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a9f4288e12c4eba58cc156ce820ec009e" title="RemoteSource::MsgReportStream\lData::get_sampleRate" alt="" coords="853,1243,1076,1284"/>
+<area shape="rect" id="node39" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a4d8d5430162ddf6cb14ef4d786b8cb93" title="RemoteSource::MsgReportStream\lData::get_nbOriginalBlocks" alt="" coords="853,291,1076,332"/>
+<area shape="rect" id="node40" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a1f4de454a93ec44ac8477f085bfa335c" title="RemoteSource::MsgReportStream\lData::get_nbFECBlocks" alt="" coords="853,356,1076,397"/>
+<area shape="rect" id="node41" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#af0dc696af5f21644de5bacf6d966368c" title="RemoteSource::MsgReportStream\lData::get_queueLength" alt="" coords="853,421,1076,463"/>
+<area shape="rect" id="node42" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a2dd3d41266912f18a6eded69091d7596" title="RemoteSource::MsgReportStream\lData::get_queueSize" alt="" coords="853,487,1076,528"/>
+<area shape="rect" id="node43" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a98dfa633abe72b70081049a9e88bcdf2" title="RemoteSource::MsgReportStream\lData::get_nbUncorrectableErrors" alt="" coords="853,552,1076,593"/>
+<area shape="rect" id="node44" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#acaf522d3cf1551e95ecd709beb9dc18e" title="RemoteSource::MsgReportStream\lData::get_nbCorrectableErrors" alt="" coords="853,617,1076,659"/>
+<area shape="rect" id="node45" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a9535d4ab5ee9b51f2502ef80382b86d2" title="RemoteSource::MsgReportStream\lData::get_tv_sec" alt="" coords="853,683,1076,724"/>
+<area shape="rect" id="node46" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#ab7b355d6d5624e3521a1e21620ed644e" title="RemoteSource::MsgReportStream\lData::get_tv_usec" alt="" coords="853,748,1076,789"/>
+<area shape="rect" id="node47" href="$d2/d80/classRemoteSourceGUI.html#a41897c48376a743d8f7554142c2d8428" title="RemoteSourceGUI::display\lEventStatus" alt="" coords="873,813,1056,855"/>
+<area shape="rect" id="node48" href="$d2/d80/classRemoteSourceGUI.html#a0f4693660228e173fd07be26df75f4c4" title="RemoteSourceGUI::display\lEventCounts" alt="" coords="873,879,1056,920"/>
+<area shape="rect" id="node49" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#a20ec363d5992f237357e274da880fc01" title="RemoteSource::MsgReportStream\lData::get_readSamplesCount" alt="" coords="853,944,1076,985"/>
+<area shape="rect" id="node35" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1149,189,1318,215"/>
+<area shape="rect" id="node51" href="$d8/d5c/classBasicChannelSettingsDialog.html#ac40fa99557614b612a6623325c9cfd10" title="BasicChannelSettingsDialog\l::setUseReverseAPI" alt="" coords="871,2139,1059,2180"/>
+<area shape="rect" id="node52" href="$d8/d5c/classBasicChannelSettingsDialog.html#ab4692ca6fdc598354ef2c43bbdeed3d2" title="BasicChannelSettingsDialog\l::useReverseAPI" alt="" coords="1139,2011,1327,2052"/>
+<area shape="rect" id="node53" href="$d8/d5c/classBasicChannelSettingsDialog.html#af0437441a4bdc75e44dbc59b9f561b93" title="BasicChannelSettingsDialog\l::setReverseAPIAddress" alt="" coords="871,2321,1059,2363"/>
+<area shape="rect" id="node54" href="$d8/d5c/classBasicChannelSettingsDialog.html#ad71b6740355f1ca6a2e875635c96f066" title="BasicChannelSettingsDialog\l::setReverseAPIPort" alt="" coords="871,1825,1059,1867"/>
+<area shape="rect" id="node55" href="$d8/d5c/classBasicChannelSettingsDialog.html#a40fceeded31c60f5bd2a79678793ada5" title="BasicChannelSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="869,1629,1061,1671"/>
+<area shape="rect" id="node56" href="$d8/d5c/classBasicChannelSettingsDialog.html#adc870e7cf86d9e0b0ff56d26b5171819" title="BasicChannelSettingsDialog\l::setReverseAPIChannelIndex" alt="" coords="865,1695,1064,1736"/>
+<area shape="rect" id="node57" href="$d8/d5c/classBasicChannelSettingsDialog.html#ac7e5274c681c33af74a20be7dddc2ebe" title="BasicChannelSettingsDialog\l::getReverseAPIAddress" alt="" coords="871,1760,1059,1801"/>
+<area shape="rect" id="node58" href="$d8/d5c/classBasicChannelSettingsDialog.html#a07a1f7a257f3ca5a89ef8492a3891b56" title="BasicChannelSettingsDialog\l::getReverseAPIPort" alt="" coords="871,1943,1059,1984"/>
+<area shape="rect" id="node59" href="$d8/d5c/classBasicChannelSettingsDialog.html#aefc5abea80889fa04859f56d35d72b0b" title="BasicChannelSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="869,2008,1061,2049"/>
+<area shape="rect" id="node60" href="$d8/d5c/classBasicChannelSettingsDialog.html#a1d783ecf4d126d40dbdca460dd9e300c" title="BasicChannelSettingsDialog\l::getReverseAPIChannelIndex" alt="" coords="865,2073,1064,2115"/>
+<area shape="rect" id="node61" href="$d3/d20/classRollupWidget.html#a739d3161ef464f94bc3019b82a6a143e" title="RollupWidget::resetContext\lMenuType" alt="" coords="873,2256,1056,2297"/>
+<area shape="rect" id="node64" href="$d3/d37/classDeviceUISet.html#a95e73b1a2c58a8fb4c0a33e3172d9ef2" title="DeviceUISet::renameTxChannel\lInstances" alt="" coords="584,1524,795,1565"/>
+<area shape="rect" id="node66" href="$d5/d20/structRemoteSourceSettings.html#a9813741cd75f525399dffbee5afe88fa" title="RemoteSourceSettings\l::serialize" alt="" coords="611,2672,768,2713"/>
+<area shape="rect" id="node72" href="$d5/d20/structRemoteSourceSettings.html#a0aaa1c6ac853740ae41f2ac5f60a189e" title="RemoteSourceSettings\l::deserialize" alt="" coords="611,2937,768,2979"/>
+<area shape="rect" id="node67" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="871,2654,1058,2681"/>
+<area shape="rect" id="node69" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="877,2705,1053,2731"/>
+<area shape="rect" id="node70" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="875,2603,1054,2630"/>
+<area shape="rect" id="node71" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="891,2755,1039,2782"/>
+<area shape="rect" id="node68" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1146,2679,1321,2706"/>
+<area shape="rect" id="node73" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="899,2872,1030,2913"/>
+<area shape="rect" id="node74" href="$d5/d20/structRemoteSourceSettings.html#a99d572822bdc0502be35d44f3e8b2897" title="RemoteSourceSettings\l::resetToDefaults" alt="" coords="886,2937,1043,2979"/>
+<area shape="rect" id="node75" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="899,3068,1030,3109"/>
+<area shape="rect" id="node76" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="899,3133,1030,3175"/>
+<area shape="rect" id="node77" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="899,3003,1030,3044"/>
+<area shape="rect" id="node79" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="899,2807,1030,2848"/>
+<area shape="rect" id="node78" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1168,2904,1299,2945"/>
+<area shape="rect" id="node84" href="$db/ddf/classRemoteSource_1_1MsgQueryStreamData.html#a09ceed72226642a9e6e5703754c5c985" title="RemoteSource::MsgQueryStream\lData::create" alt="" coords="1124,2548,1343,2589"/>
+<area shape="rect" id="node85" href="$d2/d80/classRemoteSourceGUI.html#a49827fdc512aa74e0ac6b92163918696" title="RemoteSourceGUI::display\lEventTimer" alt="" coords="1142,2613,1325,2655"/>
+</map>

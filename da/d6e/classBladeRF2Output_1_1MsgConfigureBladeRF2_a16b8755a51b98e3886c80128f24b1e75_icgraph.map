@@ -1,0 +1,7 @@
+<map id="BladeRF2Output::MsgConfigureBladeRF2::getSettings" name="BladeRF2Output::MsgConfigureBladeRF2::getSettings">
+<area shape="rect" id="node2" href="$dc/d19/classBladeRF2OutputGui.html#a889ab6ee5cd258c543671576fab6b16c" title="BladeRF2OutputGui::\lhandleMessage" alt="" coords="297,5,444,47"/>
+<area shape="rect" id="node5" href="$d7/d79/classBladeRF2Output.html#a8324b4feb400afdde8c6dad1073fba23" title="BladeRF2Output::handleMessage" alt="" coords="261,71,480,98"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#a3c36cd6dfa4afb28b0fe32f56700f573" title="BladeRF2OutputGui::\lhandleInputMessages" alt="" coords="562,5,711,47"/>
+<area shape="rect" id="node4" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="793,5,940,47"/>
+<area shape="rect" id="node6" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="528,71,745,98"/>
+</map>

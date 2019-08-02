@@ -1,0 +1,5 @@
+<map id="LoRaDemodGUI::onWidgetRolled" name="LoRaDemodGUI::onWidgetRolled">
+<area shape="rect" id="node2" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="272,5,496,32"/>
+<area shape="rect" id="node3" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="544,5,707,32"/>
+<area shape="rect" id="node4" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="755,5,977,32"/>
+</map>

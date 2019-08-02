@@ -1,0 +1,12 @@
+<map id="ScopeVis::updateGLScopeDisplay" name="ScopeVis::updateGLScopeDisplay">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#ab534b2229bafa150a9df6ef84706a1ea" title="ScopeVis::processMemoryTrace" alt="" coords="276,78,488,105"/>
+<area shape="rect" id="node10" href="$d2/d02/classGLScope.html#a3e2573081f793edc6089c7ac25af7597" title="GLScope::setConfigChanged" alt="" coords="286,129,478,155"/>
+<area shape="rect" id="node11" href="$d2/d02/classGLScope.html#acc673e99181bdf65268eadca2a7f2c18" title="GLScope::updateDisplay" alt="" coords="299,179,465,206"/>
+<area shape="rect" id="node3" href="$d8/d80/structScopeVis_1_1TraceBackDiscreteMemory.html#a2ef3cce82648e8f1b423c77353e4c530" title="ScopeVis::TraceBackDiscrete\lMemory::at" alt="" coords="536,5,735,47"/>
+<area shape="rect" id="node4" href="$d8/d80/structScopeVis_1_1TraceBackDiscreteMemory.html#a822602ba424eb0e93981278e0d462d38" title="ScopeVis::TraceBackDiscrete\lMemory::currentIndex" alt="" coords="536,71,735,112"/>
+<area shape="rect" id="node5" href="$d7/dcf/classScopeVis.html#a6b9036a8c785557d964ee535d106ca0a" title="ScopeVis::processTraces" alt="" coords="549,137,721,163"/>
+<area shape="rect" id="node6" href="$d5/d39/structScopeVis_1_1Traces.html#a94a8e0f3264cef9b613cce10795e8d1a" title="ScopeVis::Traces::current\lBufferIndex" alt="" coords="795,35,970,76"/>
+<area shape="rect" id="node7" href="$d2/d02/classGLScope.html#af15b0b69a7b3be8c2fdc373f1ebba1fb" title="GLScope::getProcessingTrace\lIndex" alt="" coords="783,100,983,141"/>
+<area shape="rect" id="node8" href="$d2/d02/classGLScope.html#ac9d3f9dcec19676cab3f51cc7f8dbf5f" title="GLScope::newTraces" alt="" coords="809,166,957,193"/>
+<area shape="rect" id="node9" href="$d5/d39/structScopeVis_1_1Traces.html#a4561255466d96573c5da1adace6bb8e3" title="ScopeVis::Traces::switch\lBuffer" alt="" coords="797,217,969,259"/>
+</map>

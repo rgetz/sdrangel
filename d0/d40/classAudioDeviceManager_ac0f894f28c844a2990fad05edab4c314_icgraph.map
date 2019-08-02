@@ -1,0 +1,5 @@
+<map id="AudioDeviceManager::inputInfosCleanup" name="AudioDeviceManager::inputInfosCleanup">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a15812faba8655b973b30411c41f9cdec" title="WebAPIAdapterGUI::instance\lAudioInputCleanupPatch" alt="" coords="205,5,402,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#a9725ec25878420347491bb92cd56bec5" title="WebAPIAdapterSrv::instance\lAudioInputCleanupPatch" alt="" coords="207,71,400,112"/>
+<area shape="rect" id="node4" href="$de/d74/classAudioDialogX.html#a0f3e23b5bd94a8857a108be4505af313" title="AudioDialogX::on_inputCleanup\l_clicked" alt="" coords="200,136,407,177"/>
+</map>

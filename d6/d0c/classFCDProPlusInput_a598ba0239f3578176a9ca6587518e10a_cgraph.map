@@ -1,0 +1,21 @@
+<map id="FCDProPlusInput::openDevice" name="FCDProPlusInput::openDevice">
+<area shape="rect" id="node2" href="$d6/d0c/classFCDProPlusInput.html#ab7a49a0cb5ac4044218158abc2d3ceb1" title="FCDProPlusInput::closeDevice" alt="" coords="265,107,470,133"/>
+<area shape="rect" id="node8" href="$d7/d3c/fcdhid_8c.html#a20deab2ea1baeeb387123d897e7918e2" title="Open FCD device. " alt="" coords="332,208,403,235"/>
+<area shape="rect" id="node12" href="$dd/db6/classDeviceAPI.html#a1098e97dc30ca876846d5970d9b27750" title="DeviceAPI::getSamplingDevice\lSequence" alt="" coords="264,259,471,301"/>
+<area shape="rect" id="node13" href="$d6/d0c/classFCDProPlusInput.html#aacedaf752c106c4c242f4e9869b5b898" title="FCDProPlusInput::openFCDAudio" alt="" coords="256,465,479,492"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#a05163639d2b644699e7a0b2abcb7bff5" title="FCDProPlusInput::closeFCDAudio" alt="" coords="527,56,752,83"/>
+<area shape="rect" id="node6" href="$d7/d3c/fcdhid_8c.html#a3b4c2f947c94c3794c9112c424ce321f" title="Close FCD HID device. " alt="" coords="602,107,677,133"/>
+<area shape="rect" id="node4" href="$d6/d91/classAudioInput.html#aae5dcc22d9ff9807bc6f3c337a738106" title="AudioInput::removeFifo" alt="" coords="800,5,957,32"/>
+<area shape="rect" id="node5" href="$d6/d91/classAudioInput.html#a254e2345054b391f20bb883140a732d0" title="AudioInput::stop" alt="" coords="820,56,937,83"/>
+<area shape="rect" id="node7" href="$dc/d19/group__API.html#ga9b64828273b8dd052731e79ba9e1a516" title="Close a HID device. " alt="" coords="840,107,917,133"/>
+<area shape="rect" id="node9" href="$dc/d19/group__API.html#ga135931e04d48078a9fb7aebf663676f9" title="Enumerate the HID Devices. " alt="" coords="586,157,693,184"/>
+<area shape="rect" id="node10" href="$dc/d19/group__API.html#gafc2d2adf71db3784b783b9a554527aa4" title="Free an enumeration Linked List. " alt="" coords="566,208,713,235"/>
+<area shape="rect" id="node11" href="$dc/d19/group__API.html#ga1e87518670f88540c920dc451df608ee" title="Open a HID device by its path name. " alt="" coords="586,259,693,285"/>
+<area shape="rect" id="node14" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="566,309,713,336"/>
+<area shape="rect" id="node15" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="544,361,735,402"/>
+<area shape="rect" id="node16" href="$d0/d40/classAudioDeviceManager.html#aa5f338660246f47f64e8aad6b21a1ed6" title="AudioDeviceManager\l::getInputDevices" alt="" coords="566,426,713,467"/>
+<area shape="rect" id="node17" href="$d0/d40/classAudioDeviceManager.html#aa63eeb6bff560e90c338a82fd8b5fd2b" title="AudioDeviceManager\l::getInputDeviceIndex" alt="" coords="564,491,715,533"/>
+<area shape="rect" id="node18" href="$d6/d91/classAudioInput.html#ac5acc44c9e2823a97f707f92e576716d" title="AudioInput::start" alt="" coords="580,557,699,584"/>
+<area shape="rect" id="node19" href="$d6/d91/classAudioInput.html#acafba14665fd34aa3b1975693f368780" title="AudioInput::getRate" alt="" coords="570,608,709,635"/>
+<area shape="rect" id="node20" href="$d6/d91/classAudioInput.html#a2ca13efb34cf9a8581e7bbad8815c3ea" title="AudioInput::addFifo" alt="" coords="572,659,707,685"/>
+</map>

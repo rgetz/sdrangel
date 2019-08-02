@@ -1,0 +1,12 @@
+<map id="PluginManager::getFileSinkDeviceId" name="PluginManager::getFileSinkDeviceId">
+<area shape="rect" id="node2" href="$d1/d17/classDeviceEnumerator.html#aa792fc4efa673ac589b0c4e98a168232" title="Get Tx default device. " alt="" coords="235,23,412,65"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#a012e6364a5331d3edbbde13815b877b4" title="MainCore::addSinkDevice" alt="" coords="469,5,644,32"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="460,56,653,83"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="711,5,888,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="955,5,1139,32"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1215,5,1357,32"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="701,56,897,83"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="712,107,887,149"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="945,56,1148,83"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1196,56,1376,83"/>
+</map>

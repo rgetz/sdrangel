@@ -1,0 +1,190 @@
+<map id="MainWindow::on_action_addSinkDevice_triggered" name="MainWindow::on_action_addSinkDevice_triggered">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="228,598,421,625"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#ac8deae025dd61e79aa9e36215dca896a" title="DSPEngine::addDeviceSink\lEngine" alt="" coords="489,143,675,184"/>
+<area shape="rect" id="node4" href="$d1/d90/classDSPDeviceSinkEngine.html#acfed8e09a20655be97998ec4425462ea" title="Add a spectrum vis baseband sample sink. " alt="" coords="1291,5560,1449,5601"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a58d2be4f97774a9c7413727037209fbb" title="MainWindow::channelAddClicked" alt="" coords="473,209,691,235"/>
+<area shape="rect" id="node16" href="$d9/d18/structDeviceUserArgs.html#a6a6507af6c2395e82d02338f3277d430" title="DeviceUserArgs::findUserArgs" alt="" coords="754,398,957,425"/>
+<area shape="rect" id="node17" href="$d5/df4/classMainSettings.html#a61f1a36c7794ef8ffa74714b7c08ccb2" title="MainSettings::getDeviceUserArgs" alt="" coords="745,449,965,475"/>
+<area shape="rect" id="node18" href="$d1/d17/classDeviceEnumerator.html#aa792fc4efa673ac589b0c4e98a168232" title="Get Tx default device. " alt="" coords="493,333,671,375"/>
+<area shape="rect" id="node20" href="$d6/d80/classPluginInstanceGUI.html#a82c7053884a5d2b68acc0c690aa71d18" title="PluginInstanceGUI::\lgetInputMessageQueue" alt="" coords="775,500,935,541"/>
+<area shape="rect" id="node21" href="$d1/d17/classDeviceEnumerator.html#a71fc78eea78c91cfe076a432e50592b9" title="DeviceEnumerator::getTxSampling\lDevice" alt="" coords="743,565,968,607"/>
+<area shape="rect" id="node22" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="503,675,661,716"/>
+<area shape="rect" id="node23" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="762,631,949,658"/>
+<area shape="rect" id="node24" href="$de/d59/classPluginManager.html#a6280193da71f17eb74112e08ee7021b7" title="PluginManager::listTxChannels" alt="" coords="481,1455,683,1482"/>
+<area shape="rect" id="node25" href="$d6/d1a/classMainWindow.html#a81db62bb44853c8cbcb1c5cb457c95fc" title="MainWindow::sampleSinkChanged" alt="" coords="469,1405,695,1431"/>
+<area shape="rect" id="node175" href="$d6/d1a/classMainWindow.html#ad985cca6abce062103f2a48215e34d16" title="MainWindow::setDeviceGUI" alt="" coords="761,2558,949,2585"/>
+<area shape="rect" id="node189" href="$d1/d90/classDSPDeviceSinkEngine.html#a2527fda74292dfe36c8b319a56b78de0" title="This thread start. " alt="" coords="503,4511,661,4552"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="2367,5375,2545,5402"/>
+<area shape="rect" id="node7" href="$de/d59/classPluginManager.html#a1c7d5134c7ff97d5445e5836012b00a9" title="PluginManager::createRxChannel\lInstance" alt="" coords="747,201,964,243"/>
+<area shape="rect" id="node10" href="$de/d59/classPluginManager.html#a413b36dc4f919ef042cc6a264d17ac68" title="PluginManager::createTxChannel\lInstance" alt="" coords="748,267,963,308"/>
+<area shape="rect" id="node13" href="$da/d73/classSamplingDeviceControl.html#ab6cf2484018d97b94bf800895e993eee" title="SamplingDeviceControl\l::getChannelSelector" alt="" coords="776,5,935,47"/>
+<area shape="rect" id="node14" href="$d3/d37/classDeviceUISet.html#a65f99d011c0037ba3c219e2e639544fd" title="DeviceUISet::getNumberOf\lAvailableRxChannels" alt="" coords="764,71,947,112"/>
+<area shape="rect" id="node15" href="$d3/d37/classDeviceUISet.html#a5158155f55b7d914610ae85d892eb1fb" title="DeviceUISet::getNumberOf\lAvailableTxChannels" alt="" coords="764,136,947,177"/>
+<area shape="rect" id="node8" href="$dc/dd6/classPluginInterface.html#ace899eb29181f4bbaef7754a8800db47" title="PluginInterface::createRx\lChannelBS" alt="" coords="1032,136,1203,177"/>
+<area shape="rect" id="node9" href="$dc/dd6/classPluginInterface.html#aac67deb4308e7703bed003418a1e85ad" title="PluginInterface::createRx\lChannelGUI" alt="" coords="1032,201,1203,243"/>
+<area shape="rect" id="node11" href="$dc/dd6/classPluginInterface.html#a77d6f94f9459341a53ca3826448c1e89" title="PluginInterface::createTx\lChannelBS" alt="" coords="1033,267,1201,308"/>
+<area shape="rect" id="node12" href="$dc/dd6/classPluginInterface.html#af43fbba2b0ea26100312afe35cbd1670" title="PluginInterface::createTx\lChannelGUI" alt="" coords="1033,332,1201,373"/>
+<area shape="rect" id="node19" href="$de/d59/classPluginManager.html#a2e0a7b42f936620ef1cd431fa98656b1" title="PluginManager::getFileSink\lDeviceId" alt="" coords="765,332,946,373"/>
+<area shape="rect" id="node26" href="$dd/db6/classDeviceAPI.html#ab8fcfb36f754d27700ae078908618998" title="DeviceAPI::saveSamplingDevice\lSettings" alt="" coords="747,2259,963,2300"/>
+<area shape="rect" id="node38" href="$d5/df4/classMainSettings.html#a777ab52b30949aea4c5a80dbf152ed75" title="MainSettings::getWorking\lPreset" alt="" coords="769,2324,941,2365"/>
+<area shape="rect" id="node39" href="$dd/db6/classDeviceAPI.html#a6937b1184b2839da73aa284d3c24ef02" title="Stop the device engine corresponding to the stream type. " alt="" coords="756,2390,955,2417"/>
+<area shape="rect" id="node145" href="$dd/db6/classDeviceAPI.html#a5524e327d9818a37611bf0e7f2b2b965" title="Return pointer to the device sample sink (single Tx) or nullptr. " alt="" coords="765,1529,946,1555"/>
+<area shape="rect" id="node146" href="$d9/d18/classDeviceSampleSink.html#a0ab0dc212cb3f02a6b2a23ab5a43dab5" title="DeviceSampleSink::setMessage\lQueueToGUI" alt="" coords="749,2441,961,2483"/>
+<area shape="rect" id="node147" href="$dd/db6/classDeviceAPI.html#a01defba1eab5c21f59aa93e8b6167136" title="DeviceAPI::getPluginInterface" alt="" coords="756,682,955,709"/>
+<area shape="rect" id="node148" href="$dc/dd6/classPluginInterface.html#a02c269dbf1dd7b574588a31ee015775c" title="PluginInterface::deleteSample\lSourcePluginInstanceGUI" alt="" coords="757,733,953,775"/>
+<area shape="rect" id="node150" href="$dd/db6/classDeviceAPI.html#aeea74fa6c9fbdb7619092c5f5050890e" title="DeviceAPI::getSamplingDevice\lPluginInstanceGUI" alt="" coords="752,799,959,840"/>
+<area shape="rect" id="node151" href="$dd/db6/classDeviceAPI.html#a02e1525664b5fae257e9e5974592a367" title="DeviceAPI::resetSampling\lDeviceId" alt="" coords="767,864,943,905"/>
+<area shape="rect" id="node152" href="$dc/dd6/classPluginInterface.html#a0ca2bbe1948f3e8c538af3c8f5fb93ec" title="PluginInterface::deleteSample\lSinkPluginInstanceOutput" alt="" coords="757,929,953,971"/>
+<area shape="rect" id="node154" href="$dd/db6/classDeviceAPI.html#aa6ecafbd10ad92ad26211102bd0c1f8c" title="DeviceAPI::clearBuddiesLists" alt="" coords="757,995,953,1022"/>
+<area shape="rect" id="node156" href="$da/d73/classSamplingDeviceControl.html#a6bf286850275ad6a8ff3cf8b7746c266" title="SamplingDeviceControl\l::getSelectedDeviceIndex" alt="" coords="769,1047,941,1088"/>
+<area shape="rect" id="node157" href="$dd/db6/classDeviceAPI.html#af540924dea9cb0cb82630f7ce181fe38" title="DeviceAPI::setSamplingDevice\lSequence" alt="" coords="752,1112,959,1153"/>
+<area shape="rect" id="node158" href="$dd/db6/classDeviceAPI.html#aced7ef1e57dcffca785d94861561226f" title="DeviceAPI::setDeviceNbItems" alt="" coords="754,1178,957,1205"/>
+<area shape="rect" id="node159" href="$dd/db6/classDeviceAPI.html#afaa30dd2b59266dc7f902162be5d0778" title="DeviceAPI::setDeviceItem\lIndex" alt="" coords="766,1229,945,1271"/>
+<area shape="rect" id="node160" href="$dd/db6/classDeviceAPI.html#a61ef8aaa4815757bdacd16c956f6edbd" title="DeviceAPI::setHardwareId" alt="" coords="766,1295,945,1322"/>
+<area shape="rect" id="node161" href="$dd/db6/classDeviceAPI.html#a3fbfca7760ae66f9d29b5dd41b6520dd" title="DeviceAPI::setSamplingDeviceId" alt="" coords="747,1346,964,1373"/>
+<area shape="rect" id="node162" href="$dd/db6/classDeviceAPI.html#a340d7795e5bfb5ab3dae19d310d10ed0" title="DeviceAPI::setSamplingDevice\lSerial" alt="" coords="752,1397,959,1439"/>
+<area shape="rect" id="node163" href="$dd/db6/classDeviceAPI.html#a6c94e22d15a617878eb995d8a4dc0b33" title="DeviceAPI::setSamplingDevice\lDisplayName" alt="" coords="752,1580,959,1621"/>
+<area shape="rect" id="node164" href="$dd/db6/classDeviceAPI.html#a9d88062105092971d9112b0559b14480" title="DeviceAPI::setSamplingDevice\lPluginInterface" alt="" coords="752,1645,959,1687"/>
+<area shape="rect" id="node165" href="$dd/db6/classDeviceAPI.html#aa9bda888dc4e4710fbb6abf5199f547b" title="DeviceAPI::setHardwareUser\lArguments" alt="" coords="758,1711,953,1752"/>
+<area shape="rect" id="node166" href="$dd/db6/classDeviceAPI.html#abd9ac5831821e17546c8110a30b937be" title="DeviceAPI::getHardwareId" alt="" coords="766,1777,945,1803"/>
+<area shape="rect" id="node167" href="$dd/db6/classDeviceAPI.html#a067d3393f92545000623e007a166dd87" title="DeviceAPI::getSamplingDevice\lSerial" alt="" coords="752,1828,959,1869"/>
+<area shape="rect" id="node168" href="$dd/db6/classDeviceAPI.html#a5bada262af0561bde2b35239e5338bc0" title="DeviceAPI::setBuddyLeader" alt="" coords="762,1894,949,1921"/>
+<area shape="rect" id="node169" href="$dc/dd6/classPluginInterface.html#a0296c2e68396121fbb82a22c3d0bd3fe" title="PluginInterface::createSample\lSinkPluginInstance" alt="" coords="757,1945,954,1987"/>
+<area shape="rect" id="node170" href="$dd/db6/classDeviceAPI.html#a41645be1bdbb66c1afd69aca4e9dbb3a" title="DeviceAPI::getSamplingDeviceId" alt="" coords="747,2011,964,2038"/>
+<area shape="rect" id="node171" href="$dd/db6/classDeviceAPI.html#a7ce19677bb5a8904b5243c1c8aedd421" title="Set the device sample sink (single Tx) " alt="" coords="765,2507,946,2534"/>
+<area shape="rect" id="node173" href="$dc/dd6/classPluginInterface.html#a982ca9cb53ecf97981ed6f61f12a5cbe" title="PluginInterface::createSample\lSinkPluginInstanceGUI" alt="" coords="757,2063,954,2104"/>
+<area shape="rect" id="node174" href="$dd/db6/classDeviceAPI.html#ad2a966671dbd07baf54ac82327cfd682" title="DeviceAPI::setSamplingDevice\lPluginInstanceGUI" alt="" coords="752,2128,959,2169"/>
+<area shape="rect" id="node176" href="$dd/db6/classDeviceAPI.html#a3363611dfe4c57ac60cee06721bd8fde" title="DeviceAPI::getSamplingDevice\lDisplayName" alt="" coords="752,2193,959,2235"/>
+<area shape="rect" id="node177" href="$dd/db6/classDeviceAPI.html#ac0b7ff868210f9e1e836da6d720a5c53" title="DeviceAPI::loadSamplingDevice\lSettings" alt="" coords="749,1463,961,1504"/>
+<area shape="rect" id="node27" href="$d1/dc7/classPreset.html#a979814066f53acca36764004836fae78" title="Preset::addOrUpdateDevice\lConfig" alt="" coords="1024,1952,1211,1993"/>
+<area shape="rect" id="node28" href="$d6/d80/classPluginInstanceGUI.html#aa661aee0e3d63c184ac18427d392ae83" title="PluginInstanceGUI::\lgetCenterFrequency" alt="" coords="1047,2017,1187,2059"/>
+<area shape="rect" id="node29" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="1820,3167,2019,3208"/>
+<area shape="rect" id="node30" href="$db/d0c/classDeviceSampleSource.html#a2e8d4bdd0a614b9dda08f432c36539d3" title="Center frequency exposed by the source. " alt="" coords="1845,2701,1993,2743"/>
+<area shape="rect" id="node31" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="1039,1769,1196,1811"/>
+<area shape="rect" id="node32" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="1031,1835,1203,1876"/>
+<area shape="rect" id="node33" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="1039,1718,1196,1745"/>
+<area shape="rect" id="node34" href="$d6/d80/classPluginInstanceGUI.html#a9550fc0924780973ad5521e75137432b" title="PluginInstanceGUI::\lserialize" alt="" coords="1047,2083,1187,2124"/>
+<area shape="rect" id="node35" href="$d9/d18/classDeviceSampleSink.html#a3708c7ca205ef1d220cbc5f591bed1b9" title="DeviceSampleSink::serialize" alt="" coords="1023,2149,1212,2175"/>
+<area shape="rect" id="node36" href="$db/d0c/classDeviceSampleSource.html#a8c75c771a62d98d3c08acdb9b8347386" title="DeviceSampleSource\l::serialize" alt="" coords="1043,2200,1191,2241"/>
+<area shape="rect" id="node37" href="$d1/dc7/classPreset.html#aee9ce3e851f9c8ebb5a750efda892d36" title="Preset::setCenterFrequency" alt="" coords="1024,1901,1211,1927"/>
+<area shape="rect" id="node40" href="$d2/d3b/classDSPDeviceSourceEngine.html#a737b5d3b935a3e8767169ab14c3b8f12" title="Stop acquisition sequence. " alt="" coords="1031,4277,1203,4319"/>
+<area shape="rect" id="node79" href="$d1/d90/classDSPDeviceSinkEngine.html#a97b18602f454dd11de679f0a5edfd947" title="Stop generation sequence. " alt="" coords="1039,4343,1196,4384"/>
+<area shape="rect" id="node107" href="$df/d80/classDSPDeviceMIMOEngine.html#ab8ecad9d93142e03f01c943859531f85" title="Stop process sequence. " alt="" coords="1034,3428,1201,3469"/>
+<area shape="rect" id="node41" href="$d2/d3b/classDSPDeviceSourceEngine.html#aeeed84297dcbd233cb9988cb8844559c" title="Handle synchronous messages with the thread. " alt="" coords="1268,4284,1472,4325"/>
+<area shape="rect" id="node78" href="$d8/d92/classSyncMessenger.html#a21e94c776036348e91eef2d2018821ea" title="SyncMessenger::storeMessage" alt="" coords="1267,4350,1473,4377"/>
+<area shape="rect" id="node42" href="$d8/d92/classSyncMessenger.html#ae1d684dcbaa4317333b8151bc67b2a23" title="Processing of the message is complete. " alt="" coords="1563,4241,1715,4267"/>
+<area shape="rect" id="node43" href="$d6/d28/classMessage.html#a607a4adf44d727623cc9eaf8bdadd91a" title="Message::getIdentifier" alt="" coords="1563,4494,1714,4521"/>
+<area shape="rect" id="node44" href="$d8/d92/classSyncMessenger.html#a9012f582cd14f4e5ee5bcb4fbb8be262" title="SyncMessenger::getMessage" alt="" coords="1541,4342,1736,4369"/>
+<area shape="rect" id="node45" href="$d2/d3b/classDSPDeviceSourceEngine.html#a207f0a2634180733be8bd3f706ccf7fb" title="Go to the idle state. " alt="" coords="1833,4412,2005,4453"/>
+<area shape="rect" id="node47" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7ba8affb3855c406d58e9530032a98f6" title="Go to the acquisition init state from idle. " alt="" coords="1553,4777,1725,4819"/>
+<area shape="rect" id="node55" href="$d2/d3b/classDSPDeviceSourceEngine.html#adc8c3c04af6066c7a52e4a532e9f1f87" title="Go to the running state from ready state. " alt="" coords="1553,4712,1725,4753"/>
+<area shape="rect" id="node58" href="$d8/df9/classBasebandSampleSink.html#a853e6d818c16dd2ff7cacb804985a3f5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1844,4128,1995,4169"/>
+<area shape="rect" id="node59" href="$d2/d3b/classDSPDeviceSourceEngine.html#a5079230a9a049ef88c0f2ff71cfe23d2" title="Manage source setting. " alt="" coords="1553,4647,1725,4688"/>
+<area shape="rect" id="node71" href="$d4/dc7/classThreadedBasebandSampleSink.html#a7303c5d71d53121b74f855d54565bbd9" title="Send message to sink synchronously. " alt="" coords="1537,4175,1741,4216"/>
+<area shape="rect" id="node72" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="1579,4443,1698,4470"/>
+<area shape="rect" id="node74" href="$d8/df9/classBasebandSampleSink.html#a1af3f8da8e09403597162eb8d6a6b507" title="BasebandSampleSink\l::start" alt="" coords="1844,4035,1995,4076"/>
+<area shape="rect" id="node75" href="$d4/dc7/classThreadedBasebandSampleSink.html#ad4ede4f7cefe69d3833ed73be8d1485a" title="this thread start() " alt="" coords="1537,4007,1741,4048"/>
+<area shape="rect" id="node76" href="$d8/df9/classBasebandSampleSink.html#a665f67a1de7bc13b747c2378c2a61aa2" title="BasebandSampleSink\l::stop" alt="" coords="2113,4292,2264,4333"/>
+<area shape="rect" id="node77" href="$d4/dc7/classThreadedBasebandSampleSink.html#af2e87513e2bca2058af886840e0fe897" title="this thread exit() and wait() " alt="" coords="1537,3941,1741,3983"/>
+<area shape="rect" id="node46" href="$db/d0c/classDeviceSampleSource.html#a8517c32bb7ed3f6a2152ca1bfda600d0" title="DeviceSampleSource\l::stop" alt="" coords="2115,4361,2263,4403"/>
+<area shape="rect" id="node48" href="$db/d0c/classDeviceSampleSource.html#aaf223a94f1217ba743218b80497d0887" title="DeviceSampleSource\l::getDeviceDescription" alt="" coords="1842,4529,1997,4571"/>
+<area shape="rect" id="node49" href="$db/d0c/classDeviceSampleSource.html#a4cd7f5373d858fc4c2e4031a6efe437b" title="DeviceSampleSource\l::getMessageQueueToGUI" alt="" coords="1830,4843,2009,4884"/>
+<area shape="rect" id="node50" href="$db/d0c/classDeviceSampleSource.html#a0b8a46a1b16b9bbd71664e920469a2c2" title="Sample rate exposed by the source. " alt="" coords="1845,4777,1993,4819"/>
+<area shape="rect" id="node51" href="$d2/d3b/classDSPDeviceSourceEngine.html#a6a5c8f6c12d51fe06747f002b20fe7f0" title="Go to an error state. " alt="" coords="1833,4712,2005,4753"/>
+<area shape="rect" id="node54" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1845,4974,1994,5001"/>
+<area shape="rect" id="node52" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="2103,5244,2275,5285"/>
+<area shape="rect" id="node53" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="2380,5244,2532,5285"/>
+<area shape="rect" id="node56" href="$d3/df0/classMessageQueue.html#a5e33dfed57d8ee0e73a2bab5faecec36" title="Returns queue size. " alt="" coords="2383,2519,2529,2546"/>
+<area shape="rect" id="node57" href="$db/d0c/classDeviceSampleSource.html#a9e288ea7007be5b62482e6b275209cd2" title="DeviceSampleSource\l::start" alt="" coords="1845,4647,1993,4688"/>
+<area shape="rect" id="node60" href="$db/d0c/classDeviceSampleSource.html#a00ee13de803e88ab350d1af5bcfa86ff" title="DeviceSampleSource\l::getSampleFifo" alt="" coords="2382,4385,2530,4427"/>
+<area shape="rect" id="node61" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae99c5b32d4830da379ea68caf838d3b0" title="Handle data when samples from source FIFO are ready to be processed. " alt="" coords="1833,4347,2005,4388"/>
+<area shape="rect" id="node62" href="$d2/d3b/classDSPDeviceSourceEngine.html#a855abe95933f8e5de1fd38de0bfafbf0" title="transfer samples from source to sinks if in running state " alt="" coords="2103,2387,2275,2428"/>
+<area shape="rect" id="node63" href="$d0/d92/classSampleSinkFifo.html#aa737d60305d788b236e71544aba09903" title="SampleSinkFifo::fill" alt="" coords="2389,2169,2523,2195"/>
+<area shape="rect" id="node64" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7d03cc92dd6ad2a506b9bd75147a4559" title="DSPDeviceSourceEngine\l::iqCorrections" alt="" coords="2370,2453,2542,2495"/>
+<area shape="rect" id="node69" href="$d0/d92/classSampleSinkFifo.html#a463a72cc744df8d8a706b82f6101fac9" title="SampleSinkFifo::readBegin" alt="" coords="2366,2219,2546,2246"/>
+<area shape="rect" id="node70" href="$d0/d92/classSampleSinkFifo.html#a754930ac8ee8be021182e0ba0319e909" title="SampleSinkFifo::readCommit" alt="" coords="2359,2337,2553,2363"/>
+<area shape="rect" id="node65" href="$dd/d7b/classFixed.html#af24e1f2ac3b1eb7b90215562a10fd015" title="Fixed::as_internal" alt="" coords="2625,2237,2750,2263"/>
+<area shape="rect" id="node66" href="$d2/d81/classMovingAverageUtil.html#a387f7f6ee4d247551f44f59cb432d87a" title="MovingAverageUtil::\lasDouble" alt="" coords="2617,2453,2757,2495"/>
+<area shape="rect" id="node67" href="$dd/d58/fixed_8h.html#a112464e01c9263c3bbffc0856583e1bc" title="sqrt" alt="" coords="2665,2103,2709,2130"/>
+<area shape="rect" id="node68" href="$dd/d7b/classFixed.html#aafa1d6d4ce5959ddedcf20ec16a2fa3d" title="Fixed::sqrt" alt="" coords="2805,2103,2889,2130"/>
+<area shape="rect" id="node73" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1835,4245,2004,4271"/>
+<area shape="rect" id="node80" href="$d1/d90/classDSPDeviceSinkEngine.html#a0a53ef12c4e8837950ba95525cdbb969" title="Handle synchronous messages with the thread. " alt="" coords="1268,4960,1472,5001"/>
+<area shape="rect" id="node81" href="$d1/d90/classDSPDeviceSinkEngine.html#aba0750f4027cdd15e492bb337dc47e5f" title="DSPDeviceSinkEngine\l::checkNumberOfBasebandSources" alt="" coords="1523,5776,1754,5817"/>
+<area shape="rect" id="node87" href="$d1/d90/classDSPDeviceSinkEngine.html#a81947b9a592cdce1296cf78b3a9bf651" title="Go to the idle state. " alt="" coords="1841,5456,1998,5497"/>
+<area shape="rect" id="node92" href="$d1/d90/classDSPDeviceSinkEngine.html#a1d085216946cf7c38384320da06ad910" title="Go to the acquisition init state from idle. " alt="" coords="1560,5193,1717,5235"/>
+<area shape="rect" id="node98" href="$d1/d90/classDSPDeviceSinkEngine.html#a15e6406d7c4f8c0dc3e4c7e890c86929" title="Go to the running state from ready state. " alt="" coords="1560,5397,1717,5439"/>
+<area shape="rect" id="node100" href="$d9/dfb/classBasebandSampleSource.html#a7f21a56c91437fe1ccaf401db23d80c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1837,5025,2002,5067"/>
+<area shape="rect" id="node101" href="$d1/d90/classDSPDeviceSinkEngine.html#a73fbadf7ab84903ce57370dab442efaa" title="Manage sink setting. " alt="" coords="1560,5273,1717,5315"/>
+<area shape="rect" id="node102" href="$da/df6/classThreadedBasebandSampleSource.html#ab2a2d6175bf679a9b7434949deb17071" title="Send message to source synchronously. " alt="" coords="1529,4960,1748,5001"/>
+<area shape="rect" id="node103" href="$d9/dfb/classBasebandSampleSource.html#a12b9274e3ae28a0b95f06d16127cf8c0" title="BasebandSampleSource\l::start" alt="" coords="1837,4908,2002,4949"/>
+<area shape="rect" id="node104" href="$da/df6/classThreadedBasebandSampleSource.html#a82a59b29d80a89368ad1da2a8abfede1" title="this thread start() " alt="" coords="1529,4843,1748,4884"/>
+<area shape="rect" id="node105" href="$d9/dfb/classBasebandSampleSource.html#a0d3a8ca00bd8b27eea222d0aedd579f4" title="BasebandSampleSource\l::stop" alt="" coords="1837,5091,2002,5132"/>
+<area shape="rect" id="node106" href="$da/df6/classThreadedBasebandSampleSource.html#a70f38f8f8410e3bec72c5cbd4145051c" title="this thread exit() and wait() " alt="" coords="1529,5025,1748,5067"/>
+<area shape="rect" id="node82" href="$d9/d18/classDeviceSampleSink.html#a97947483187a6743c8f9d886dcbaf924" title="DeviceSampleSink::getSampleFifo" alt="" coords="2343,5729,2569,5755"/>
+<area shape="rect" id="node83" href="$d1/d90/classDSPDeviceSinkEngine.html#a4828e516d752e0e01625b42d89be1508" title="Handle data when samples have to be written to the sample FIFO. " alt="" coords="1841,5831,1998,5872"/>
+<area shape="rect" id="node84" href="$d1/d90/classDSPDeviceSinkEngine.html#a517808fdc4111c29d63268886e3fee97" title="transfer samples from beseband sources to sink if in running state " alt="" coords="2110,5831,2267,5872"/>
+<area shape="rect" id="node85" href="$d6/d8d/classSampleSourceFifo.html#a5f1030edeaeaaedd9d45b951b0fe00ec" title="copy current item to second buffer and bump write index &#45; write phase 2 " alt="" coords="2355,5809,2557,5835"/>
+<area shape="rect" id="node86" href="$d6/d8d/classSampleSourceFifo.html#abe5871195f1440373a2ddd0093d93ec4" title="get iterator to current item for update &#45; write phase 1 " alt="" coords="2363,5860,2549,5901"/>
+<area shape="rect" id="node88" href="$d1/d90/classDSPDeviceSinkEngine.html#ac331a6101aa883c3be25f55504643994" title="DSPDeviceSinkEngine\l::handleForwardToSpectrumSink" alt="" coords="2083,5483,2295,5524"/>
+<area shape="rect" id="node91" href="$d9/d18/classDeviceSampleSink.html#a017deed5527f75e0f237b77c0fda7e7f" title="DeviceSampleSink::stop" alt="" coords="2105,5431,2272,5458"/>
+<area shape="rect" id="node89" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="2381,2388,2531,2429"/>
+<area shape="rect" id="node90" href="$d6/d8d/classSampleSourceFifo.html#aeadaa048b08fa955503905bfc46eed30" title="get iterator past the last sample of a read advance operation (i.e. current read iterator) ..." alt="" coords="2363,5309,2549,5351"/>
+<area shape="rect" id="node93" href="$d9/d18/classDeviceSampleSink.html#a1cf38a6b7a124b5b94a81476e74ab2ef" title="DeviceSampleSink::getDevice\lDescription" alt="" coords="1819,5273,2019,5315"/>
+<area shape="rect" id="node94" href="$d9/d18/classDeviceSampleSink.html#a9bd7672503185b740d3dc30259c5351a" title="DeviceSampleSink::getMessage\lQueueToGUI" alt="" coords="1813,5156,2025,5197"/>
+<area shape="rect" id="node95" href="$d9/d18/classDeviceSampleSink.html#a3c05e9d4359234b3999a5eda0919bbb7" title="Sample rate exposed by the sink. " alt="" coords="1804,5222,2035,5249"/>
+<area shape="rect" id="node96" href="$d1/d90/classDSPDeviceSinkEngine.html#a585cc77e70580b924032bab69b2e8902" title="Go to an error state. " alt="" coords="1841,5339,1998,5380"/>
+<area shape="rect" id="node97" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="2110,5339,2267,5380"/>
+<area shape="rect" id="node99" href="$d9/d18/classDeviceSampleSink.html#a7cef7ec01a28d64ebef503e40d36d721" title="DeviceSampleSink::start" alt="" coords="1836,5573,2003,5599"/>
+<area shape="rect" id="node108" href="$df/d80/classDSPDeviceMIMOEngine.html#a1816415b91330dc34628328fef89aa0b" title="Handle synchronous messages with the thread. " alt="" coords="1268,3428,1472,3469"/>
+<area shape="rect" id="node109" href="$d3/dae/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSource.html#aa954d0c26ec851d9ebc55fce98108f65" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSource::getIndex" alt="" coords="1534,2827,1743,2883"/>
+<area shape="rect" id="node110" href="$de/da6/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSource.html#a792b615ad025e49fa19546bf2e7af12a" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSource::getIndex" alt="" coords="1521,2907,1756,2963"/>
+<area shape="rect" id="node111" href="$d7/d66/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSink.html#aa4039fbaded1c14b8fdcaa902d84d4ca" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSink::getIndex" alt="" coords="1534,2987,1743,3043"/>
+<area shape="rect" id="node112" href="$da/d43/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSink.html#a6e64092bc8b754a55c7a5af5b05220a1" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSink::getIndex" alt="" coords="1521,3067,1756,3123"/>
+<area shape="rect" id="node113" href="$df/d0b/classDSPDeviceMIMOEngine_1_1AddBasebandSampleSink.html#a6bd83f0f29b97b01c75c9db52bc60f92" title="DSPDeviceMIMOEngine\l::AddBasebandSampleSink\l::getIndex" alt="" coords="1548,3147,1729,3203"/>
+<area shape="rect" id="node114" href="$db/d22/classDSPDeviceMIMOEngine_1_1RemoveBasebandSampleSink.html#a70482559e3e65adc12964942c81a2050" title="DSPDeviceMIMOEngine\l::RemoveBasebandSampleSink\l::getIndex" alt="" coords="1535,3227,1742,3283"/>
+<area shape="rect" id="node115" href="$d2/d3e/classDSPDeviceMIMOEngine_1_1SetSpectrumSinkInput.html#ab6dbd8641151380bc0e5ef3da9f56bfe" title="DSPDeviceMIMOEngine\l::SetSpectrumSinkInput\l::getIndex" alt="" coords="1555,3307,1722,3363"/>
+<area shape="rect" id="node116" href="$df/d0b/classDSPDeviceMIMOEngine_1_1AddBasebandSampleSink.html#a61fa85d7477f099f2a4942b0d68ef90c" title="DSPDeviceMIMOEngine\l::AddBasebandSampleSink\l::getSampleSink" alt="" coords="1548,3387,1729,3443"/>
+<area shape="rect" id="node117" href="$d1/d50/classDeviceSampleMIMO.html#a69f185ba95d41abac2e9ade32fdfb124" title="Get Tx FIFO at index. " alt="" coords="1813,2204,2026,2245"/>
+<area shape="rect" id="node118" href="$d1/d50/classDeviceSampleMIMO.html#ad332bbdc0f42ef7d21cbd95c61b049ec" title="Center frequency exposed by the sink at index. " alt="" coords="1541,3519,1736,3560"/>
+<area shape="rect" id="node119" href="$d1/d50/classDeviceSampleMIMO.html#a3b9f68cf872fe59059b7808cd5038478" title="Sample rate exposed by the sink at index. " alt="" coords="1541,3584,1736,3625"/>
+<area shape="rect" id="node120" href="$d1/d50/classDeviceSampleMIMO.html#aaa6e2ee052e2eb68e1689cc7eb95b4e3" title="Center frequency exposed by the source at index. " alt="" coords="1814,2767,2025,2808"/>
+<area shape="rect" id="node121" href="$d2/d3e/classDSPDeviceMIMOEngine_1_1SetSpectrumSinkInput.html#aaf6f9f748976cd77e09fd9123545e70c" title="DSPDeviceMIMOEngine\l::SetSpectrumSinkInput\l::getSourceElseSink" alt="" coords="1555,3650,1722,3706"/>
+<area shape="rect" id="node122" href="$d1/d50/classDeviceSampleMIMO.html#a50d01f4ba75f1fb16e8b7b3b5a60e152" title="Sample rate exposed by the source at index. " alt="" coords="1814,2832,2025,2873"/>
+<area shape="rect" id="node123" href="$d7/d66/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSink.html#a8d274676e89565dbc2785761dd72171d" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSink::getThreadedSampleSink" alt="" coords="1534,3730,1743,3786"/>
+<area shape="rect" id="node124" href="$da/d43/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSink.html#a2892634b341082927c003623ccac13e5" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSink::getThreadedSampleSink" alt="" coords="1521,3810,1756,3866"/>
+<area shape="rect" id="node125" href="$d3/dae/classDSPDeviceMIMOEngine_1_1AddThreadedBasebandSampleSource.html#a3df12e5cd761f1d947557b7bbb558115" title="DSPDeviceMIMOEngine\l::AddThreadedBasebandSample\lSource::getThreadedSampleSource" alt="" coords="1525,2367,1753,2423"/>
+<area shape="rect" id="node126" href="$de/da6/classDSPDeviceMIMOEngine_1_1RemoveThreadedBasebandSampleSource.html#a4c180ccaa902582302ae0db7a3294c1d" title="DSPDeviceMIMOEngine\l::RemoveThreadedBasebandSample\lSource::getThreadedSampleSource" alt="" coords="1521,2447,1756,2503"/>
+<area shape="rect" id="node127" href="$df/d80/classDSPDeviceMIMOEngine.html#a0945eafc0107e65d5747865838d96bf1" title="Go to the idle state. " alt="" coords="1555,2761,1722,2803"/>
+<area shape="rect" id="node129" href="$df/d80/classDSPDeviceMIMOEngine.html#a2b51d4730c8e8b9e9a9c70e4bc2f7628" title="Go to the acquisition init state from idle. " alt="" coords="1555,2593,1722,2635"/>
+<area shape="rect" id="node135" href="$df/d80/classDSPDeviceMIMOEngine.html#ab12610ac3b827bd22164419302b14d60" title="Go to the running state from ready state. " alt="" coords="1555,2528,1722,2569"/>
+<area shape="rect" id="node137" href="$df/d80/classDSPDeviceMIMOEngine.html#a9164e53a0d00d6c4422def418789e04f" title="DSPDeviceMIMOEngine\l::handleForwardToSpectrumSink" alt="" coords="1533,2200,1745,2241"/>
+<area shape="rect" id="node138" href="$df/d80/classDSPDeviceMIMOEngine.html#a6068d4791c207ce0d56f6208e9134631" title="Manage MIMO device setting. " alt="" coords="1555,2083,1722,2124"/>
+<area shape="rect" id="node128" href="$d1/d50/classDeviceSampleMIMO.html#af7071616332891eb3db1926809f81d81" title="DeviceSampleMIMO::stop" alt="" coords="1831,2898,2007,2925"/>
+<area shape="rect" id="node130" href="$d1/d50/classDeviceSampleMIMO.html#a44ae1d0b7b05d7afadf47a0783ac212d" title="DeviceSampleMIMO::getDevice\lDescription" alt="" coords="1814,2269,2025,2311"/>
+<area shape="rect" id="node131" href="$d1/d50/classDeviceSampleMIMO.html#a8ac85a2a7e85ecdd1f3437b49c45cc2b" title="Get the number of Rx FIFOs. " alt="" coords="1813,2636,2025,2677"/>
+<area shape="rect" id="node132" href="$df/d80/classDSPDeviceMIMOEngine.html#ac25396548a69672a0c46bf6491baa549" title="Go to an error state. " alt="" coords="1836,2571,2003,2612"/>
+<area shape="rect" id="node133" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="2105,4227,2272,4268"/>
+<area shape="rect" id="node134" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="2363,4219,2549,4275"/>
+<area shape="rect" id="node136" href="$d1/d50/classDeviceSampleMIMO.html#a1c8db2b5e7709dc9ca4013924e11cde3" title="DeviceSampleMIMO::start" alt="" coords="1831,2469,2008,2495"/>
+<area shape="rect" id="node139" href="$d1/d50/classDeviceSampleMIMO.html#a74b20a7a13cc826ed7003ce1f382c2de" title="Get Rx FIFO at index. " alt="" coords="2349,2079,2563,2120"/>
+<area shape="rect" id="node140" href="$df/d80/classDSPDeviceMIMOEngine.html#ad5a75f84c8307ce88c1a8b4e07879252" title="Handle data when samples have to be processed. " alt="" coords="1836,2139,2003,2180"/>
+<area shape="rect" id="node143" href="$df/d80/classDSPDeviceMIMOEngine.html#a36e9845b3694285072df1fcaedf633fc" title="DSPDeviceMIMOEngine\l::workSampleSink" alt="" coords="2105,2183,2272,2224"/>
+<area shape="rect" id="node141" href="$df/d80/classDSPDeviceMIMOEngine.html#a031186dacf3efd282e1d929a10d49d73" title="transfer samples if in running state " alt="" coords="2105,2255,2272,2296"/>
+<area shape="rect" id="node142" href="$d1/d50/classDeviceSampleMIMO.html#a92100ce4f8d788f468618c13a65d922d" title="Commodity function same as getNbSinkFifos (Rx or source streams) " alt="" coords="2343,2271,2569,2312"/>
+<area shape="rect" id="node144" href="$df/d80/classDSPDeviceMIMOEngine.html#a7239d657e66761edbf38f962a65b9f3d" title="DSPDeviceMIMOEngine\l::iqCorrections" alt="" coords="2373,2013,2539,2055"/>
+<area shape="rect" id="node149" href="$d6/d80/classPluginInstanceGUI.html#a0e4cb3866edebe3db7429a56bb000f48" title="PluginInstanceGUI::\ldestroy" alt="" coords="1047,733,1187,775"/>
+<area shape="rect" id="node153" href="$d9/d18/classDeviceSampleSink.html#af7cfefc3b4abdee5934860c83a4c1136" title="DeviceSampleSink::destroy" alt="" coords="1025,937,1209,963"/>
+<area shape="rect" id="node155" href="$dd/db6/classDeviceAPI.html#a4fecbce8675ad605005bf95e1392572e" title="DeviceAPI::isBuddyLeader" alt="" coords="1028,995,1207,1022"/>
+<area shape="rect" id="node172" href="$d1/d90/classDSPDeviceSinkEngine.html#a0d34354811ddf41e69231ae749306fa4" title="Set the sample sink type. " alt="" coords="1291,5181,1449,5223"/>
+<area shape="rect" id="node178" href="$d6/d80/classPluginInstanceGUI.html#a6e7fb964337ce921a014ce415d918ed9" title="PluginInstanceGUI::\ldeserialize" alt="" coords="1047,1332,1187,1373"/>
+<area shape="rect" id="node179" href="$d9/d18/classDeviceSampleSink.html#a03114d85996d75684888bbd1c8d0978e" title="DeviceSampleSink::deserialize" alt="" coords="1016,1398,1219,1425"/>
+<area shape="rect" id="node180" href="$db/d0c/classDeviceSampleSource.html#a7e46af2006e0e565e5241febd5db5099" title="DeviceSampleSource\l::deserialize" alt="" coords="1043,1449,1191,1491"/>
+<area shape="rect" id="node181" href="$d1/dc7/classPreset.html#ae810b4eb6a1c17a85cbc98ffba48e927" title="Preset::findBestDeviceConfig" alt="" coords="1020,1515,1215,1542"/>
+<area shape="rect" id="node183" href="$d1/dc7/classPreset.html#a7f773cda853130f7ad8c607482b80b88" title="Preset::getCenterFrequency" alt="" coords="1024,1566,1211,1593"/>
+<area shape="rect" id="node184" href="$d1/dc7/classPreset.html#ace77a1ecc6327d81220351250a18f7dc" title="Preset::getDescription" alt="" coords="1041,1617,1193,1643"/>
+<area shape="rect" id="node185" href="$d1/dc7/classPreset.html#a140b24e7a19e18a5bb143baa2e4d7e7c" title="Preset::getGroup" alt="" coords="1057,1667,1178,1694"/>
+<area shape="rect" id="node186" href="$d6/d80/classPluginInstanceGUI.html#a1bdc89d3229eb06e8c4e29ec3cf84a67" title="PluginInstanceGUI::\lsetCenterFrequency" alt="" coords="1047,1136,1187,1177"/>
+<area shape="rect" id="node187" href="$d9/d18/classDeviceSampleSink.html#ac1768018534e8e4334cba2f4cb7e48fb" title="DeviceSampleSink::setCenter\lFrequency" alt="" coords="1018,1201,1217,1243"/>
+<area shape="rect" id="node188" href="$db/d0c/classDeviceSampleSource.html#ab5e3e693e9acfaa70cf12d45dcc22393" title="DeviceSampleSource\l::setCenterFrequency" alt="" coords="1043,1267,1191,1308"/>
+<area shape="rect" id="node182" href="$d1/dc7/classPreset.html#abda13dfa8a14b74dfd9df2360b2b4f3c" title="Preset::findBestDeviceConfig\lSoapy" alt="" coords="1273,1508,1467,1549"/>
+</map>

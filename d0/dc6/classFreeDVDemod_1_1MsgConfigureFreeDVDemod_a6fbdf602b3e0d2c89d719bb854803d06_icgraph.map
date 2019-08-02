@@ -1,0 +1,27 @@
+<map id="FreeDVDemod::MsgConfigureFreeDVDemod::create" name="FreeDVDemod::MsgConfigureFreeDVDemod::create">
+<area shape="rect" id="node2" href="$da/d3d/classFreeDVDemodGUI.html#a1ae40ea505f107d92540149010685773" title="FreeDVDemodGUI::applySettings" alt="" coords="252,359,472,386"/>
+<area shape="rect" id="node22" href="$de/de0/classFreeDVDemod.html#a69eb16ef7c0a354aaaf90df45e470819" title="FreeDVDemod::deserialize" alt="" coords="273,802,451,829"/>
+<area shape="rect" id="node24" href="$de/de0/classFreeDVDemod.html#af1a9424a1fd13776ea01df2b28afcbbe" title="FreeDVDemod::webapiSettings\lPutPatch" alt="" coords="259,853,465,895"/>
+<area shape="rect" id="node3" href="$da/d3d/classFreeDVDemodGUI.html#a452f952469ffeb46bb6f9d52457c65ee" title="FreeDVDemodGUI::setCenter\lFrequency" alt="" coords="541,5,739,47"/>
+<area shape="rect" id="node4" href="$da/d3d/classFreeDVDemodGUI.html#a33251e848c6ce39977936d11bb9a6e6d" title="FreeDVDemodGUI::channelMarker\lChangedByCursor" alt="" coords="1088,249,1315,291"/>
+<area shape="rect" id="node9" href="$da/d3d/classFreeDVDemodGUI.html#aeba767f63104012ed59844b867aae2e3" title="FreeDVDemodGUI::on\l_deltaFrequency_changed" alt="" coords="553,123,727,164"/>
+<area shape="rect" id="node10" href="$da/d3d/classFreeDVDemodGUI.html#af3aa8fbea2d411e27d113e1fdc8f31b0" title="FreeDVDemodGUI::on\l_freeDVMode_currentIndexChanged" alt="" coords="523,188,757,229"/>
+<area shape="rect" id="node11" href="$da/d3d/classFreeDVDemodGUI.html#ac0555ab9dcfdedf242bbb06a56c0f271" title="FreeDVDemodGUI::on\l_volume_valueChanged" alt="" coords="559,253,721,295"/>
+<area shape="rect" id="node12" href="$da/d3d/classFreeDVDemodGUI.html#a70ba033b0bbce0f5f110946579ff61de" title="FreeDVDemodGUI::on\l_volumeIn_valueChanged" alt="" coords="554,319,726,360"/>
+<area shape="rect" id="node13" href="$da/d3d/classFreeDVDemodGUI.html#a5e3f9a708617ac54f457116c7205affa" title="FreeDVDemodGUI::on\l_agc_toggled" alt="" coords="563,384,717,425"/>
+<area shape="rect" id="node14" href="$da/d3d/classFreeDVDemodGUI.html#a995810b09f58c008049d8a898d43bb72" title="FreeDVDemodGUI::on\l_audioMute_toggled" alt="" coords="563,449,717,491"/>
+<area shape="rect" id="node15" href="$da/d3d/classFreeDVDemodGUI.html#a9a16327ac29d61e6d29f2d7b65143f11" title="FreeDVDemodGUI::onMenuDialog\lCalled" alt="" coords="1089,475,1313,516"/>
+<area shape="rect" id="node16" href="$da/d3d/classFreeDVDemodGUI.html#aaf6c636cfed4e92d509322070d665a61" title="FreeDVDemodGUI::applyBandwidths" alt="" coords="520,591,760,618"/>
+<area shape="rect" id="node21" href="$da/d3d/classFreeDVDemodGUI.html#a3264f6e1a8a0b5c294f3898c4e2866d8" title="FreeDVDemodGUI::audioSelect" alt="" coords="1097,694,1306,721"/>
+<area shape="rect" id="node5" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="1363,570,1615,597"/>
+<area shape="rect" id="node6" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1663,570,1840,597"/>
+<area shape="rect" id="node7" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1888,570,2124,597"/>
+<area shape="rect" id="node8" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="2172,570,2336,597"/>
+<area shape="rect" id="node17" href="$da/d3d/classFreeDVDemodGUI.html#a906d9c3a01204acbcfa8003b51bbe605" title="FreeDVDemodGUI::deserialize" alt="" coords="823,591,1025,618"/>
+<area shape="rect" id="node18" href="$da/d3d/classFreeDVDemodGUI.html#a0d25af0979f4c5abf5f3ed3799cfbb73" title="FreeDVDemodGUI::handleMessage" alt="" coords="808,642,1040,669"/>
+<area shape="rect" id="node20" href="$da/d3d/classFreeDVDemodGUI.html#a35ab88192bc3dba5dd2d07a82a0387f5" title="FreeDVDemodGUI::on\l_spanLog2_valueChanged" alt="" coords="837,693,1011,735"/>
+<area shape="rect" id="node19" href="$da/d3d/classFreeDVDemodGUI.html#a68c8abe61364392df718b2f59cda69d9" title="FreeDVDemodGUI::handleInput\lMessages" alt="" coords="1097,613,1305,655"/>
+<area shape="rect" id="node23" href="$de/de0/classFreeDVDemod.html#a8979ebfb845fefe52d1cd40a5bfbf2e2" title="Applies to a default stream. " alt="" coords="523,810,757,837"/>
+<area shape="rect" id="node25" href="$de/de0/classFreeDVDemod.html#af47e9e95c71ec1881974b508da07520b" title="FreeDVDemod::isSync" alt="" coords="561,861,719,887"/>
+<area shape="rect" id="node26" href="$da/d3d/classFreeDVDemodGUI.html#a8fecb1d13482226c1406b8e0ca19571f" title="FreeDVDemodGUI::tick" alt="" coords="843,835,1005,862"/>
+</map>

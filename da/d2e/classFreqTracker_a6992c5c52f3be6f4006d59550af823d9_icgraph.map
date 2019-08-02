@@ -1,0 +1,10 @@
+<map id="FreqTracker::getMagSqLevels" name="FreqTracker::getMagSqLevels">
+<area shape="rect" id="node2" href="$d1/d46/classFreqTrackerGUI.html#a5b779eb11f13c2039858f3c6867ea365" title="FreqTrackerGUI::tick" alt="" coords="269,13,415,39"/>
+<area shape="rect" id="node7" href="$da/d2e/classFreqTracker.html#a346011a9c5653dc1cf1648d0eb46d0b0" title="FreqTracker::webapiFormat\lChannelReport" alt="" coords="251,64,433,105"/>
+<area shape="rect" id="node3" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="481,13,700,39"/>
+<area shape="rect" id="node4" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="767,13,927,39"/>
+<area shape="rect" id="node5" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="995,5,1141,47"/>
+<area shape="rect" id="node6" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1189,5,1325,47"/>
+<area shape="rect" id="node8" href="$da/d2e/classFreqTracker.html#a5cc8c6131be3f386200fdf1e185d0bc6" title="FreqTracker::webapiReportGet" alt="" coords="490,71,691,98"/>
+<area shape="rect" id="node9" href="$da/d2e/classFreqTracker.html#a8782e976ecfcbf1913e2f4c5704c846a" title="FreqTracker::getStreamCenter\lFrequency" alt="" coords="748,64,947,105"/>
+</map>

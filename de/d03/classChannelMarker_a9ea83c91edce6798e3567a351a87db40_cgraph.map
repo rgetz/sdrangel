@@ -1,0 +1,13 @@
+<map id="ChannelMarker::deserialize" name="ChannelMarker::deserialize">
+<area shape="rect" id="node2" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="273,5,404,47"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="273,71,404,112"/>
+<area shape="rect" id="node4" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="273,136,404,177"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="273,267,404,308"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="273,201,404,243"/>
+<area shape="rect" id="node8" href="$de/d03/classChannelMarker.html#aea46f024436e188e562acd265d17ccd8" title="ChannelMarker::resetToDefaults" alt="" coords="233,434,444,461"/>
+<area shape="rect" id="node9" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="510,346,671,373"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="503,399,678,440"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="507,467,674,494"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#a4acdc53b14b1713bb9a6523f5c0a2ab6" title="ChannelMarker::setFrequency\lScaleDisplayType" alt="" coords="492,525,689,567"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="525,169,656,211"/>
+</map>

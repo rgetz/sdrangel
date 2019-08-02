@@ -1,0 +1,35 @@
+<map id="ScopeVis::setSampleRate" name="ScopeVis::setSampleRate">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#a7b5784281ac1b006283a046e98562c55" title="ScopeVis::setLiveRate" alt="" coords="229,582,385,609"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#ae7c35af8b6c0489893987161dfc5c42c" title="ATVDemodGUI::handleMessage" alt="" coords="433,451,647,478"/>
+<area shape="rect" id="node8" href="$d7/dcf/classScopeVis.html#a4851b721b427be87db7eecb17895f8e3" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="451,523,629,550"/>
+<area shape="rect" id="node10" href="$d7/dcf/classScopeVis.html#aba0f7f5d0aedb8bdca31af88ed976fdf" title="ScopeVis::setLiveRateLog2\lDecim" alt="" coords="448,604,632,645"/>
+<area shape="rect" id="node31" href="$da/d16/classChannelAnalyzerGUI.html#a5266db1ad8ef190c73a2bd0af78033f8" title="set sample rate after final in&#45;channel decimation " alt="" coords="467,1067,613,1108"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#a768c72bf3838c170119f95f0bb2e8331" title="ATVDemodGUI::handleSource\lMessages" alt="" coords="695,221,896,263"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="948,13,1163,39"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1215,13,1373,39"/>
+<area shape="rect" id="node7" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1421,5,1608,47"/>
+<area shape="rect" id="node9" href="$d2/df7/classSpectrumScopeComboVis.html#a26a00afdc6c2f2c5e59015734cbcc251" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="707,501,883,543"/>
+<area shape="rect" id="node11" href="$da/d16/classChannelAnalyzerGUI.html#a4ee8f1c81629516ece17b8d6171d5913" title="ChannelAnalyzerGUI\l::applySettings" alt="" coords="723,619,868,660"/>
+<area shape="rect" id="node12" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="1217,896,1371,937"/>
+<area shape="rect" id="node15" href="$da/d16/classChannelAnalyzerGUI.html#a01401cd16319c7b30bb9536a8b189d87" title="ChannelAnalyzerGUI\l::channelMarkerChangedByCursor" alt="" coords="944,195,1167,236"/>
+<area shape="rect" id="node16" href="$da/d16/classChannelAnalyzerGUI.html#af3b84f19e08e6d5e3ad07bfb84fe15f1" title="ChannelAnalyzerGUI\l::deserialize" alt="" coords="983,1188,1128,1229"/>
+<area shape="rect" id="node17" href="$da/d16/classChannelAnalyzerGUI.html#a317330e74d308fc288ab79269ef74cff" title="ChannelAnalyzerGUI\l::on_BW_valueChanged" alt="" coords="974,260,1137,301"/>
+<area shape="rect" id="node18" href="$da/d16/classChannelAnalyzerGUI.html#a2dd7d8eefe4f5b3389f61bc4967e2cf0" title="ChannelAnalyzerGUI\l::on_channelSampleRate\l_changed" alt="" coords="971,63,1139,119"/>
+<area shape="rect" id="node19" href="$da/d16/classChannelAnalyzerGUI.html#aa15db686e7331e56ca4d4df55c43f6b9" title="ChannelAnalyzerGUI\l::on_deltaFrequency\l_changed" alt="" coords="983,326,1128,382"/>
+<area shape="rect" id="node20" href="$da/d16/classChannelAnalyzerGUI.html#a3906d78ec3e3ede266c26326b1ea0aaf" title="ChannelAnalyzerGUI\l::on_lowCut_valueChanged" alt="" coords="964,407,1147,448"/>
+<area shape="rect" id="node21" href="$da/d16/classChannelAnalyzerGUI.html#a224e5d557a40d045a2a744de8206d94c" title="ChannelAnalyzerGUI\l::on_pll_toggled" alt="" coords="983,472,1128,513"/>
+<area shape="rect" id="node22" href="$da/d16/classChannelAnalyzerGUI.html#a0f5592f252496ce2796f6093f91461b5" title="ChannelAnalyzerGUI\l::on_pllPskOrder_currentIndex\lChanged" alt="" coords="956,538,1155,594"/>
+<area shape="rect" id="node23" href="$da/d16/classChannelAnalyzerGUI.html#a2ba8b35f728d14dad085d11381251a17" title="ChannelAnalyzerGUI\l::on_rrcFilter_toggled" alt="" coords="983,619,1128,660"/>
+<area shape="rect" id="node24" href="$da/d16/classChannelAnalyzerGUI.html#ac266ddb9cb564d6fef7b3d324d50ea6c" title="ChannelAnalyzerGUI\l::on_rrcRolloff_valueChanged" alt="" coords="958,684,1153,725"/>
+<area shape="rect" id="node25" href="$da/d16/classChannelAnalyzerGUI.html#ad38e796ab249e622bd74ebeaf3c7989d" title="ChannelAnalyzerGUI\l::on_signalSelect_currentIndex\lChanged" alt="" coords="955,750,1156,806"/>
+<area shape="rect" id="node26" href="$da/d16/classChannelAnalyzerGUI.html#a51c5cc58ee9271976884441944c44bbc" title="ChannelAnalyzerGUI\l::on_spanLog2_currentIndex\lChanged" alt="" coords="962,1027,1149,1083"/>
+<area shape="rect" id="node27" href="$da/d16/classChannelAnalyzerGUI.html#acf36d05ac1489e0098b2dc7f6564f11b" title="ChannelAnalyzerGUI\l::on_ssb_toggled" alt="" coords="983,831,1128,872"/>
+<area shape="rect" id="node28" href="$da/d16/classChannelAnalyzerGUI.html#ad8267b91a994f0feca9471ffc20108b8" title="ChannelAnalyzerGUI\l::on_useRationalDownsampler\l_toggled" alt="" coords="955,1107,1155,1163"/>
+<area shape="rect" id="node29" href="$da/d16/classChannelAnalyzerGUI.html#a34720ce43bf95b2605115b4318ddda11" title="ChannelAnalyzerGUI\l::onMenuDialogCalled" alt="" coords="980,896,1131,937"/>
+<area shape="rect" id="node30" href="$da/d16/classChannelAnalyzerGUI.html#a590cbebf5a1abc983557f9389b836757" title="ChannelAnalyzerGUI\l::setCenterFrequency" alt="" coords="981,961,1129,1003"/>
+<area shape="rect" id="node13" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="1442,896,1587,937"/>
+<area shape="rect" id="node14" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1656,896,1813,937"/>
+<area shape="rect" id="node32" href="$da/d16/classChannelAnalyzerGUI.html#a982b69e4c5149e38275a0e21a1f0939f" title="ChannelAnalyzerGUI\l::displaySettings" alt="" coords="723,1188,868,1229"/>
+<area shape="rect" id="node33" href="$da/d16/classChannelAnalyzerGUI.html#ad809598e8cebf3e1d7922ae0be2c0a91" title="ChannelAnalyzerGUI\l::handleMessage" alt="" coords="723,1279,868,1320"/>
+<area shape="rect" id="node34" href="$da/d16/classChannelAnalyzerGUI.html#a2072c0e62719b86addc5c4f3ca176142" title="ChannelAnalyzerGUI\l::handleInputMessages" alt="" coords="977,1305,1134,1347"/>
+</map>

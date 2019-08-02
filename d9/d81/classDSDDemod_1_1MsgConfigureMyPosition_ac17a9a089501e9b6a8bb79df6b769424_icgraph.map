@@ -1,0 +1,9 @@
+<map id="DSDDemod::MsgConfigureMyPosition::create" name="DSDDemod::MsgConfigureMyPosition::create">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a10137dad1e387d5048f2a1f2a3e15870" title="DSDDemod::configureMyPosition" alt="" coords="253,31,472,57"/>
+<area shape="rect" id="node3" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="535,5,735,32"/>
+<area shape="rect" id="node8" href="$d8/d46/classDSDDemodGUI.html#a29febb70352053d3758b4f6d15342283" title="DSDDemodGUI::updateMyPosition" alt="" coords="520,56,749,83"/>
+<area shape="rect" id="node4" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="797,31,1017,57"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1065,31,1227,57"/>
+<area shape="rect" id="node6" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1275,23,1465,65"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1513,31,1704,57"/>
+</map>

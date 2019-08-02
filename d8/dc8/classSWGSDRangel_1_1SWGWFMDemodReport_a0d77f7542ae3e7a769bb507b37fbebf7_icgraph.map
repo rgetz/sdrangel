@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGWFMDemodReport::isSet" name="SWGSDRangel::SWGWFMDemodReport::isSet">
+<area shape="rect" id="node2" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a7f5c8cd9ccbd81da9a8c32a21c592bf9" title="SWGSDRangel::SWGChannelReport\l::asJsonObject" alt="" coords="281,5,523,47"/>
+<area shape="rect" id="node6" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#ac4030d04264d292e6832814931e4b954" title="SWGSDRangel::SWGChannelReport\l::isSet" alt="" coords="281,71,523,112"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a6e4a0ad3d555520e15c4b35b8da0d02c" title="SWGSDRangel::SWGChannelReport\l::asJson" alt="" coords="571,5,812,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="860,5,1077,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="1125,5,1288,47"/>
+<area shape="rect" id="node7" href="$d1/d3d/classSWGSDRangel_1_1SWGChannel.html#ada26409ea84fa78562dd147063449c7e" title="SWGSDRangel::SWGChannel\l::asJsonObject" alt="" coords="590,71,793,112"/>
+<area shape="rect" id="node9" href="$d1/d3d/classSWGSDRangel_1_1SWGChannel.html#a5bcd806c767ffe3589503d114554c118" title="SWGSDRangel::SWGChannel\l::isSet" alt="" coords="590,136,793,177"/>
+<area shape="rect" id="node8" href="$d1/d3d/classSWGSDRangel_1_1SWGChannel.html#a4c9883b0b4b87de06ff92574af5bbb90" title="SWGSDRangel::SWGChannel\l::asJson" alt="" coords="867,71,1070,112"/>
+</map>

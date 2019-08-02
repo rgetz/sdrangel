@@ -1,0 +1,10 @@
+<map id="UDPSource::MsgResetReadIndex::create" name="UDPSource::MsgResetReadIndex::create">
+<area shape="rect" id="node2" href="$de/da4/classUDPSource.html#aaa54d6e419bf85c7ff2dc2c107846af7" title="UDPSource::resetReadIndex" alt="" coords="276,42,468,69"/>
+<area shape="rect" id="node3" href="$de/da4/classUDPSource.html#a294be202ae366cc549b694b8cf92453e" title="UDPSource::getSquelchOpen" alt="" coords="535,13,731,39"/>
+<area shape="rect" id="node9" href="$d5/d9e/classUDPSourceGUI.html#ae94629fd627d90d3f693651c51192446" title="UDPSourceGUI::on_resetUDPRead\lIndex_clicked" alt="" coords="516,64,751,105"/>
+<area shape="rect" id="node4" href="$d5/d9e/classUDPSourceGUI.html#a377e511d8a210f1404d0c5a306992ac5" title="UDPSourceGUI::tick" alt="" coords="799,13,944,39"/>
+<area shape="rect" id="node5" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="992,13,1211,39"/>
+<area shape="rect" id="node6" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1259,13,1419,39"/>
+<area shape="rect" id="node7" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1467,5,1653,47"/>
+<area shape="rect" id="node8" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1701,13,1891,39"/>
+</map>

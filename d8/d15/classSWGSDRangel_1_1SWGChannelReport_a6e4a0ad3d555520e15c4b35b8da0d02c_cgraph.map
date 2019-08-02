@@ -1,0 +1,24 @@
+<map id="SWGSDRangel::SWGChannelReport::asJson" name="SWGSDRangel::SWGChannelReport::asJson">
+<area shape="rect" id="node2" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a7f5c8cd9ccbd81da9a8c32a21c592bf9" title="SWGSDRangel::SWGChannelReport\l::asJsonObject" alt="" coords="295,587,536,628"/>
+<area shape="rect" id="node3" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="614,13,809,39"/>
+<area shape="rect" id="node5" href="$d9/d6f/classSWGSDRangel_1_1SWGAMDemodReport.html#abbe89b823880a9b4c7dec3adf4a2131f" title="SWGSDRangel::SWGAMDemodReport\l::isSet" alt="" coords="584,64,839,105"/>
+<area shape="rect" id="node6" href="$de/d03/classSWGSDRangel_1_1SWGAMModReport.html#a6d42e790ef7fb3810d3ffe841c2dfa36" title="SWGSDRangel::SWGAMModReport\l::isSet" alt="" coords="592,129,831,171"/>
+<area shape="rect" id="node7" href="$da/d43/classSWGSDRangel_1_1SWGATVModReport.html#a8b2c726dd71fb6db31756adfd5ef73c3" title="SWGSDRangel::SWGATVModReport\l::isSet" alt="" coords="589,195,833,236"/>
+<area shape="rect" id="node8" href="$dc/da8/classSWGSDRangel_1_1SWGBFMDemodReport.html#a47e391bb89c852d5e2e0c87a233cb313" title="SWGSDRangel::SWGBFMDemod\lReport::isSet" alt="" coords="599,260,823,301"/>
+<area shape="rect" id="node10" href="$dd/d82/classSWGSDRangel_1_1SWGDSDDemodReport.html#aeaa9a8bca353b74da8f9021bf38aaa00" title="SWGSDRangel::SWGDSDDemod\lReport::isSet" alt="" coords="599,325,824,367"/>
+<area shape="rect" id="node11" href="$dc/d3c/classSWGSDRangel_1_1SWGFileSourceReport.html#a5f047f4e8458c0a8902dea3bfddd449b" title="SWGSDRangel::SWGFileSource\lReport::isSet" alt="" coords="603,391,819,432"/>
+<area shape="rect" id="node12" href="$d3/da6/classSWGSDRangel_1_1SWGFreeDVDemodReport.html#a19130799c1ce580018906d4070a1d3cb" title="SWGSDRangel::SWGFreeDVDemod\lReport::isSet" alt="" coords="591,456,832,497"/>
+<area shape="rect" id="node13" href="$da/da5/classSWGSDRangel_1_1SWGFreeDVModReport.html#a53ca6c3ca20f9533e3f31c127a788f24" title="SWGSDRangel::SWGFreeDVMod\lReport::isSet" alt="" coords="599,521,823,563"/>
+<area shape="rect" id="node14" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a3524595adc7e71290f35a12ef2c42b4e" title="SWGSDRangel::SWGFreqTracker\lReport::isSet" alt="" coords="599,587,823,628"/>
+<area shape="rect" id="node15" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a643f7a6993936b25d92a51708c5c7fc9" title="SWGSDRangel::SWGNFMDemod\lReport::isSet" alt="" coords="599,652,824,693"/>
+<area shape="rect" id="node16" href="$d5/da9/classSWGSDRangel_1_1SWGNFMModReport.html#a93773bc122852581b88d51927b1ee738" title="SWGSDRangel::SWGNFMModReport\l::isSet" alt="" coords="588,717,835,759"/>
+<area shape="rect" id="node17" href="$d5/db1/classSWGSDRangel_1_1SWGSSBDemodReport.html#a1a7355dbda8d11ea187745288bd7fcbb" title="SWGSDRangel::SWGSSBDemod\lReport::isSet" alt="" coords="600,783,823,824"/>
+<area shape="rect" id="node18" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a1c41f1c91ebc00e553441247f85b255a" title="SWGSDRangel::SWGRemoteSource\lReport::isSet" alt="" coords="591,848,832,889"/>
+<area shape="rect" id="node19" href="$dc/d35/classSWGSDRangel_1_1SWGSSBModReport.html#a7c9d7bd4842015c95dff98f48e8416c2" title="SWGSDRangel::SWGSSBModReport\l::isSet" alt="" coords="589,913,834,955"/>
+<area shape="rect" id="node20" href="$de/d78/classSWGSDRangel_1_1SWGUDPSourceReport.html#ae9ff31659ee3050c2c4e02d0dff2f4c6" title="SWGSDRangel::SWGUDPSource\lReport::isSet" alt="" coords="599,979,823,1020"/>
+<area shape="rect" id="node21" href="$d4/de7/classSWGSDRangel_1_1SWGUDPSinkReport.html#a1cd6b80c356a5eec15614a30e80417e2" title="SWGSDRangel::SWGUDPSinkReport\l::isSet" alt="" coords="587,1044,835,1085"/>
+<area shape="rect" id="node22" href="$d8/dc8/classSWGSDRangel_1_1SWGWFMDemodReport.html#a0d77f7542ae3e7a769bb507b37fbebf7" title="SWGSDRangel::SWGWFMDemod\lReport::isSet" alt="" coords="597,1109,825,1151"/>
+<area shape="rect" id="node23" href="$d4/de8/classSWGSDRangel_1_1SWGWFMModReport.html#a96a0cfa805fbe8f63751fd2b853b8c62" title="SWGSDRangel::SWGWFMModReport\l::isSet" alt="" coords="586,1175,837,1216"/>
+<area shape="rect" id="node4" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="902,5,1094,47"/>
+<area shape="rect" id="node9" href="$d8/d2d/classSWGSDRangel_1_1SWGRDSReport.html#abe89ab7ccecfa5d454b1d524a863e49b" title="SWGSDRangel::SWGRDSReport\l::isSet" alt="" coords="887,260,1109,301"/>
+</map>

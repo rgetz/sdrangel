@@ -1,0 +1,5 @@
+<map id="XTRXOutput::MsgStartStop::create" name="XTRXOutput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#ad9469c3cd953553b8f4ba3ef47df0368" title="XTRXOutputGUI::on_startStop\l_toggled" alt="" coords="239,5,441,47"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a1fa28baf7035633ab4056a967f2a6b34" title="XTRXOutput::webapiRun" alt="" coords="255,71,425,98"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="489,71,684,98"/>
+</map>

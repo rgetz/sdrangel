@@ -1,0 +1,8 @@
+<map id="XTRXInputThread::getLog2Decimation" name="XTRXInputThread::getLog2Decimation">
+<area shape="rect" id="node2" href="$d1/d73/classXTRXInputThread.html#ad3df87336fc143ab664a54a442f40a11" title="XTRXInputThread::getNbChannels" alt="" coords="235,56,460,83"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#ac5d109f6b6f25ff065a8f0063f2154ab" title="XTRXInput::start" alt="" coords="508,5,629,32"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a5dd45130f13693615df8dd02147ad8c3" title="XTRXInput::stop" alt="" coords="509,68,629,95"/>
+<area shape="rect" id="node4" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1108,35,1291,77"/>
+<area shape="rect" id="node6" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="677,93,844,120"/>
+<area shape="rect" id="node7" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="892,93,1060,120"/>
+</map>

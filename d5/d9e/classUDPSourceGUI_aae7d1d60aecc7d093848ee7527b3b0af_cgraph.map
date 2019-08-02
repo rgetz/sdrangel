@@ -1,0 +1,9 @@
+<map id="UDPSourceGUI::on_deltaFrequency_changed" name="UDPSourceGUI::on_deltaFrequency_changed">
+<area shape="rect" id="node2" href="$d5/d9e/classUDPSourceGUI.html#a91d26b13a2a62e7016753a6143c02925" title="UDPSourceGUI::applySettings" alt="" coords="288,111,491,138"/>
+<area shape="rect" id="node8" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="302,163,477,204"/>
+<area shape="rect" id="node3" href="$d7/dc2/classUDPSource_1_1MsgConfigureUDPSource.html#ad9b3a5b0c545662e549c13285f748a4a" title="UDPSource::MsgConfigureUDPSource\l::create" alt="" coords="539,5,789,47"/>
+<area shape="rect" id="node5" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a8be7ddecd9f101a955d292cfa65ef19d" title="UDPSource::MsgConfigureChannelizer\l::create" alt="" coords="539,71,789,112"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="580,136,748,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="589,202,739,229"/>
+<area shape="rect" id="node4" href="$d7/dc2/classUDPSource_1_1MsgConfigureUDPSource.html#a596efe3c578d2d84cd3a2ff4a29ffcb0" title="UDPSource::MsgConfigureUDPSource\l::MsgConfigureUDPSource" alt="" coords="837,5,1088,47"/>
+</map>

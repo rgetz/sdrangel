@@ -1,0 +1,7 @@
+<map id="RemoteOutput::webapiReverseSendSettings" name="RemoteOutput::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$d8/daf/classRemoteOutput.html#a80d6409d58d06eb64b754f15c1c89467" title="RemoteOutput::applySettings" alt="" coords="259,39,453,65"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#aaeebf504cf095eb1456c63f58bee06e3" title="RemoteOutput::handleMessage" alt="" coords="501,9,708,36"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#aae7a474b9f713d55e9185b43be00b8b7" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="539,64,671,91"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="787,5,1020,32"/>
+<area shape="rect" id="node6" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="756,56,1051,112"/>
+</map>

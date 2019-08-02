@@ -1,0 +1,7 @@
+<map id="SoapySDRInput::MsgConfigureSoapySDRInput::create" name="SoapySDRInput::MsgConfigureSoapySDRInput::create">
+<area shape="rect" id="node2" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="260,5,476,32"/>
+<area shape="rect" id="node3" href="$da/d65/classSoapySDRInput.html#a2f523b8ff3a8a2d1d7e39a9ee73ab1fc" title="SoapySDRInput::setCenter\lFrequency" alt="" coords="277,57,459,98"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#a8c8b5c3daff434af12d99ca7eafe768b" title="SoapySDRInputGui::update\lHardware" alt="" coords="276,122,460,163"/>
+<area shape="rect" id="node6" href="$da/d65/classSoapySDRInput.html#ac4d83a90102e391f6e43e873ace1c16a" title="SoapySDRInput::webapiSettings\lPutPatch" alt="" coords="261,187,475,229"/>
+<area shape="rect" id="node5" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="524,129,784,156"/>
+</map>

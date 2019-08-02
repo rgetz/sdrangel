@@ -1,0 +1,16 @@
+<map id="CWKeyerGUI::applySettings" name="CWKeyerGUI::applySettings">
+<area shape="rect" id="node2" href="$d2/de1/classCWKeyerGUI.html#a5cd7deee7039fc214d8df3cef6867fae" title="CWKeyerGUI::commandKeyPressed" alt="" coords="244,45,483,71"/>
+<area shape="rect" id="node5" href="$d2/de1/classCWKeyerGUI.html#aa7f73ed8c18e59dd6c15e06ef42ac655" title="CWKeyerGUI::deserialize" alt="" coords="559,419,733,446"/>
+<area shape="rect" id="node6" href="$d2/de1/classCWKeyerGUI.html#acc3b4b35e038418bdd95bbfb0f4cc2cb" title="CWKeyerGUI::on_cwSpeed\l_valueChanged" alt="" coords="270,147,457,188"/>
+<area shape="rect" id="node7" href="$d2/de1/classCWKeyerGUI.html#a311c3640cd2c937c6b167e991f85f08a" title="CWKeyerGUI::on_cwTextClear\l_clicked" alt="" coords="260,212,467,253"/>
+<area shape="rect" id="node8" href="$d2/de1/classCWKeyerGUI.html#ad5d8ac17b09733d38e143ea6ddcfe230" title="CWKeyerGUI::on_cwTextEdit\l_editingFinished" alt="" coords="264,277,463,319"/>
+<area shape="rect" id="node9" href="$d2/de1/classCWKeyerGUI.html#a6d6b602eb324fd354240e38ee1ca30d7" title="CWKeyerGUI::on_keyboardKeyer\l_toggled" alt="" coords="254,343,473,384"/>
+<area shape="rect" id="node10" href="$d2/de1/classCWKeyerGUI.html#adf4ab6e73562b8f7bf40d4ead5a8fdd4" title="CWKeyerGUI::on_keyingStyle\l_toggled" alt="" coords="263,408,463,449"/>
+<area shape="rect" id="node11" href="$d2/de1/classCWKeyerGUI.html#a8ad6618182044748d479a04d7ed22d50" title="CWKeyerGUI::on_playDashes\l_toggled" alt="" coords="263,473,464,515"/>
+<area shape="rect" id="node12" href="$d2/de1/classCWKeyerGUI.html#a7e4cf88892ae25c9bc591fac09ad3aae" title="CWKeyerGUI::on_playDots\l_toggled" alt="" coords="271,539,455,580"/>
+<area shape="rect" id="node13" href="$d2/de1/classCWKeyerGUI.html#a08fd97e21ea71918a3db3d4178fa65e0" title="CWKeyerGUI::on_playLoopCW\l_toggled" alt="" coords="260,604,467,645"/>
+<area shape="rect" id="node14" href="$d2/de1/classCWKeyerGUI.html#a81fdb98a7248dbeb0d531411481c9092" title="CWKeyerGUI::on_playText\l_toggled" alt="" coords="272,669,455,711"/>
+<area shape="rect" id="node15" href="$d2/de1/classCWKeyerGUI.html#a70bb394001b8425881bc4f0bb9cdf4a1" title="CWKeyerGUI::resetToDefaults" alt="" coords="261,735,465,762"/>
+<area shape="rect" id="node3" href="$d2/de1/classCWKeyerGUI.html#ad5e705b77d56bdb463573c812c251eab" title="CWKeyerGUI::on_keyDotCapture\l_toggled" alt="" coords="536,5,756,47"/>
+<area shape="rect" id="node4" href="$d2/de1/classCWKeyerGUI.html#a0a3f9036edc5d86c179b682220edaea8" title="CWKeyerGUI::on_keyDashCapture\l_toggled" alt="" coords="531,71,761,112"/>
+</map>

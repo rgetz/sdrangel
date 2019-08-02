@@ -1,0 +1,7 @@
+<map id="SoapySDRInput::updateGains" name="SoapySDRInput::updateGains">
+<area shape="rect" id="node2" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="259,56,463,83"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#ac050edefb016815133e4dda2de878b49" title="SoapySDRInput::initGainSettings" alt="" coords="252,107,469,133"/>
+<area shape="rect" id="node3" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="539,5,755,32"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="576,56,719,83"/>
+<area shape="rect" id="node6" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="517,107,777,133"/>
+</map>

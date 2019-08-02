@@ -1,0 +1,8 @@
+<map id="FileSinkOutput::MsgConfigureFileSink::create" name="FileSinkOutput::MsgConfigureFileSink::create">
+<area shape="rect" id="node2" href="$d6/dc4/classFileSinkOutput.html#a1ffd6a7b77cb39bdce8d8ef5ac7854a4" title="FileSinkOutput::deserialize" alt="" coords="257,21,436,48"/>
+<area shape="rect" id="node4" href="$d6/dc4/classFileSinkOutput.html#a79ad0788299f43edfb238c4d9fe3bc8a" title="FileSinkOutput::setCenter\lFrequency" alt="" coords="260,75,433,117"/>
+<area shape="rect" id="node6" href="$de/de4/classFileSinkGui.html#af38eb1a28ed2dc0fc6b49c1e7c318b48" title="FileSinkGui::updateHardware" alt="" coords="251,141,443,168"/>
+<area shape="rect" id="node3" href="$d6/d22/classFileSinkOutput_1_1MsgReportFileSinkStreamTiming.html#aeb9f2a8da8a97780bf7e12e813aaae82" title="FileSinkOutput::MsgReport\lFileSinkStreamTiming::MsgReport\lFileSinkStreamTiming" alt="" coords="491,5,713,61"/>
+<area shape="rect" id="node5" href="$d6/dc4/classFileSinkOutput.html#a24cd6a438e859027e39f5b509329a997" title="For when the sink sample rate is set externally. " alt="" coords="499,85,705,112"/>
+<area shape="rect" id="node7" href="$de/de4/classFileSinkGui.html#a481bd10e5211ae82a06d7bbef7caa104" title="FileSinkGui::FileSinkGui" alt="" coords="520,141,684,168"/>
+</map>

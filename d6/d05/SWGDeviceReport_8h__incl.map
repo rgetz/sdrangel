@@ -1,0 +1,36 @@
+<map id="swagger/sdrangel/code/qt5/client/SWGDeviceReport.h" name="swagger/sdrangel/code/qt5/client/SWGDeviceReport.h">
+<area shape="rect" id="node3" href="$d4/d25/SWGAirspyHFReport_8h.html" title="SWGAirspyHFReport.h" alt="" coords="2733,169,2892,196"/>
+<area shape="rect" id="node5" href="$dc/d4d/SWGObject_8h.html" title="SWGObject.h" alt="" coords="2601,319,2704,345"/>
+<area shape="rect" id="node7" href="$db/db5/export_8h.html" title="export.h" alt="" coords="3899,319,3969,345"/>
+<area shape="rect" id="node9" href="$d9/d8d/SWGAirspyReport_8h.html" title="SWGAirspyReport.h" alt="" coords="2218,169,2359,196"/>
+<area shape="rect" id="node10" href="$db/dc9/SWGBladeRF2InputReport_8h.html" title="SWGBladeRF2InputReport.h" alt="" coords="2003,169,2193,196"/>
+<area shape="rect" id="node15" href="$da/da8/SWGBladeRF2OutputReport_8h.html" title="SWGBladeRF2OutputReport.h" alt="" coords="1749,169,1951,196"/>
+<area shape="rect" id="node16" href="$d8/db5/SWGFileInputReport_8h.html" title="SWGFileInputReport.h" alt="" coords="4717,244,4871,271"/>
+<area shape="rect" id="node17" href="$d3/d45/SWGKiwiSDRReport_8h.html" title="SWGKiwiSDRReport.h" alt="" coords="3064,244,3223,271"/>
+<area shape="rect" id="node18" href="$de/d63/SWGLimeSdrInputReport_8h.html" title="SWGLimeSdrInputReport.h" alt="" coords="3607,244,3789,271"/>
+<area shape="rect" id="node19" href="$d9/dc8/SWGLimeSdrOutputReport_8h.html" title="SWGLimeSdrOutputReport.h" alt="" coords="495,244,685,271"/>
+<area shape="rect" id="node20" href="$d3/d3d/SWGLocalInputReport_8h.html" title="SWGLocalInputReport.h" alt="" coords="709,244,873,271"/>
+<area shape="rect" id="node21" href="$dc/d1c/SWGLocalOutputReport_8h.html" title="SWGLocalOutputReport.h" alt="" coords="897,244,1072,271"/>
+<area shape="rect" id="node22" href="$d6/d04/SWGPerseusReport_8h.html" title="SWGPerseusReport.h" alt="" coords="2917,169,3069,196"/>
+<area shape="rect" id="node23" href="$d5/d82/SWGPlutoSdrInputReport_8h.html" title="SWGPlutoSdrInputReport.h" alt="" coords="4896,244,5079,271"/>
+<area shape="rect" id="node24" href="$db/dc5/SWGPlutoSdrOutputReport_8h.html" title="SWGPlutoSdrOutputReport.h" alt="" coords="5103,244,5296,271"/>
+<area shape="rect" id="node25" href="$d1/de6/SWGRemoteInputReport_8h.html" title="SWGRemoteInputReport.h" alt="" coords="4514,244,4693,271"/>
+<area shape="rect" id="node26" href="$de/da3/SWGRemoteOutputReport_8h.html" title="SWGRemoteOutputReport.h" alt="" coords="1470,244,1659,271"/>
+<area shape="rect" id="node27" href="$da/d3d/SWGRtlSdrReport_8h.html" title="SWGRtlSdrReport.h" alt="" coords="2567,169,2709,196"/>
+<area shape="rect" id="node29" href="$df/da5/SWGSDRPlayReport_8h.html" title="SWGSDRPlayReport.h" alt="" coords="2384,169,2543,196"/>
+<area shape="rect" id="node33" href="$df/d75/SWGSoapySDRReport_8h.html" title="SWGSoapySDRReport.h" alt="" coords="3374,95,3545,121"/>
+<area shape="rect" id="node38" href="$da/d97/SWGXtrxInputReport_8h.html" title="SWGXtrxInputReport.h" alt="" coords="1097,244,1254,271"/>
+<area shape="rect" id="node39" href="$d9/d7d/SWGXtrxOutputReport_8h.html" title="SWGXtrxOutputReport.h" alt="" coords="1279,244,1445,271"/>
+<area shape="rect" id="node4" href="$d8/da5/SWGSampleRate_8h.html" title="SWGSampleRate.h" alt="" coords="2723,244,2860,271"/>
+<area shape="rect" id="node11" href="$d1/d7a/SWGFrequencyRange_8h.html" title="SWGFrequencyRange.h" alt="" coords="1912,244,2076,271"/>
+<area shape="rect" id="node12" href="$d0/d05/SWGNamedEnum_8h.html" title="SWGNamedEnum.h" alt="" coords="3863,244,4005,271"/>
+<area shape="rect" id="node14" href="$d0/def/SWGRange_8h.html" title="SWGRange.h" alt="" coords="1785,244,1888,271"/>
+<area shape="rect" id="node28" href="$d4/d37/SWGGain_8h.html" title="SWGGain.h" alt="" coords="2607,244,2699,271"/>
+<area shape="rect" id="node30" href="$d5/d82/SWGBandwidth_8h.html" title="SWGBandwidth.h" alt="" coords="2353,244,2480,271"/>
+<area shape="rect" id="node31" href="$d8/ddd/SWGFrequency_8h.html" title="SWGFrequency.h" alt="" coords="2203,244,2329,271"/>
+<area shape="rect" id="node32" href="$d5/d56/SWGFrequencyBand_8h.html" title="SWGFrequencyBand.h" alt="" coords="4131,244,4287,271"/>
+<area shape="rect" id="node34" href="$dc/d2c/SWGArgInfo_8h.html" title="SWGArgInfo.h" alt="" coords="3503,169,3610,196"/>
+<area shape="rect" id="node35" href="$db/d81/SWGRangeFloat_8h.html" title="SWGRangeFloat.h" alt="" coords="3400,244,3532,271"/>
+<area shape="rect" id="node36" href="$d9/d3e/SWGSoapySDRFrequencySetting_8h.html" title="SWGSoapySDRFrequencySetting.h" alt="" coords="3245,169,3479,196"/>
+<area shape="rect" id="node37" href="$df/df9/SWGSoapySDRGainSetting_8h.html" title="SWGSoapySDRGainSetting.h" alt="" coords="3684,169,3883,196"/>
+</map>

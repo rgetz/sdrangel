@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGKiwiSDRSettings::setUseAgc" name="SWGSDRangel::SWGKiwiSDRSettings::setUseAgc">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#adf4da3328b997247af0b78f664f0ffa0" title="KiwiSDRInput::webapiFormat\lDeviceSettings" alt="" coords="560,57,755,98"/>
+<area shape="rect" id="node6" href="$d4/dbc/classKiwiSDRInput.html#aa3caeed28e3c0acb14c049676cf31bf0" title="KiwiSDRInput::webapiReverse\lSendSettings" alt="" coords="309,141,512,182"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#ae379920a7add1b6b9b114d7b03b6e40e" title="KiwiSDRInput::webapiSettingsGet" alt="" coords="803,5,1025,32"/>
+<area shape="rect" id="node5" href="$d4/dbc/classKiwiSDRInput.html#a50bcde0fd8e8717c65a8fcef1e82de50" title="KiwiSDRInput::webapiSettings\lPutPatch" alt="" coords="813,57,1015,98"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="1073,64,1276,91"/>
+<area shape="rect" id="node7" href="$d4/dbc/classKiwiSDRInput.html#a29e737cd6de8d5f348129f09b0d7a362" title="KiwiSDRInput::applySettings" alt="" coords="561,148,753,175"/>
+<area shape="rect" id="node8" href="$d4/dbc/classKiwiSDRInput.html#a405b361e1193c892149c8cd4ac89f534" title="KiwiSDRInput::handleMessage" alt="" coords="812,123,1016,149"/>
+<area shape="rect" id="node9" href="$d4/dbc/classKiwiSDRInput.html#a74556d41d14597af9db0d374469636b3" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1109,173,1240,200"/>
+<area shape="rect" id="node11" href="$d4/dbc/classKiwiSDRInput.html#ad8eac7e9247ca39ef86fb9a22b032c58" title="KiwiSDRInput::start" alt="" coords="845,224,983,251"/>
+<area shape="rect" id="node10" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a45b514dee7bcfa498e0351f9480f164c" title="KiwiSDRInput::MsgSetStatus\l::MsgSetStatus" alt="" coords="1324,217,1520,258"/>
+<area shape="rect" id="node12" href="$d4/dbc/classKiwiSDRInput.html#a82985e560c9e21de05c9a39135bf1afb" title="KiwiSDRInput::KiwiSDRInput" alt="" coords="1077,275,1273,301"/>
+</map>

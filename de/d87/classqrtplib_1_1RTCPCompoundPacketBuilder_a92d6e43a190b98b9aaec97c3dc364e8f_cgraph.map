@@ -1,0 +1,5 @@
+<map id="qrtplib::RTCPCompoundPacketBuilder::AddSDESSource" name="qrtplib::RTCPCompoundPacketBuilder::AddSDESSource">
+<area shape="rect" id="node2" href="$d9/dd7/classqrtplib_1_1RTCPCompoundPacketBuilder_1_1SDES.html#a12700cd5130a5e53442cbcf09e9a2cf3" title="qrtplib::RTCPCompoundPacket\lBuilder::SDES::AddSSRC" alt="" coords="283,5,489,47"/>
+<area shape="rect" id="node3" href="$d0/d51/classqrtplib_1_1RTCPCompoundPacketBuilder_1_1Report.html#abbb6361cc606ee889ac3f87460ca0343" title="qrtplib::RTCPCompoundPacket\lBuilder::Report::NeededBytes" alt="" coords="283,71,489,112"/>
+<area shape="rect" id="node4" href="$d9/dd7/classqrtplib_1_1RTCPCompoundPacketBuilder_1_1SDES.html#a03fff141e7dbb9627f9efc118b2344e0" title="qrtplib::RTCPCompoundPacket\lBuilder::SDES::NeededBytesWithExtra\lSource" alt="" coords="260,137,512,193"/>
+</map>

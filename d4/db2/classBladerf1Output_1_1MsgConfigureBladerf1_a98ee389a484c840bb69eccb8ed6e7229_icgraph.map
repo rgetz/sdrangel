@@ -1,0 +1,10 @@
+<map id="Bladerf1Output::MsgConfigureBladerf1::MsgConfigureBladerf1" name="Bladerf1Output::MsgConfigureBladerf1::MsgConfigureBladerf1">
+<area shape="rect" id="node2" href="$d4/db2/classBladerf1Output_1_1MsgConfigureBladerf1.html#a943f03b3549f6f66c15a22d6f1907993" title="Bladerf1Output::MsgConfigure\lBladerf1::create" alt="" coords="260,97,459,139"/>
+<area shape="rect" id="node3" href="$dc/d98/classBladerf1Output.html#abb4640c2cf46ac33227dd85322cb809e" title="Bladerf1Output::deserialize" alt="" coords="521,13,699,39"/>
+<area shape="rect" id="node5" href="$dc/d98/classBladerf1Output.html#afc40c075b5bb8d76d9ee11ac6141af1a" title="Bladerf1Output::setCenter\lFrequency" alt="" coords="523,64,697,105"/>
+<area shape="rect" id="node7" href="$dc/d98/classBladerf1Output.html#a9d82754c84fe479ebcda971a14acce6e" title="Bladerf1Output::webapiSettings\lPutPatch" alt="" coords="507,129,713,171"/>
+<area shape="rect" id="node8" href="$da/de4/classBladerf1OutputGui.html#abe9e24ab0daec9b509514982910b772a" title="Bladerf1OutputGui::\lupdateHardware" alt="" coords="541,195,679,236"/>
+<area shape="rect" id="node4" href="$df/d80/classBladerf1Output_1_1MsgReportBladerf1.html#af191b9a4b61ba74486cfdffae81c355b" title="Bladerf1Output::MsgReport\lBladerf1::MsgReportBladerf1" alt="" coords="769,5,960,47"/>
+<area shape="rect" id="node6" href="$dc/d98/classBladerf1Output.html#afcf915bff7fdd761b45084c079586d4d" title="For when the sink sample rate is set externally. " alt="" coords="761,105,968,131"/>
+<area shape="rect" id="node9" href="$da/de4/classBladerf1OutputGui.html#a43ce52609f0e47e73417f5cb057413c4" title="Bladerf1OutputGui::\lBladerf1OutputGui" alt="" coords="796,195,933,236"/>
+</map>

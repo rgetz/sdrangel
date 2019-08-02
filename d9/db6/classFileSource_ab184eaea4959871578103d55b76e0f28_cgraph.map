@@ -1,0 +1,15 @@
+<map id="FileSource::webapiFormatChannelSettings" name="FileSource::webapiFormatChannelSettings">
+<area shape="rect" id="node2" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aec2cb449d60878fcf5ce3303426bc459" title="SWGSDRangel::SWGChannelSettings\l::getFileSourceSettings" alt="" coords="228,5,479,47"/>
+<area shape="rect" id="node3" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#aa5ea28945050c63b9b286034edc4dd0b" title="SWGSDRangel::SWGFileSource\lSettings::getReverseApiAddress" alt="" coords="245,71,461,112"/>
+<area shape="rect" id="node4" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#aac133d1336bcd4b4e8d2cd88964cb4db" title="SWGSDRangel::SWGFileSource\lSettings::getTitle" alt="" coords="245,136,461,177"/>
+<area shape="rect" id="node5" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a53b5c9af38a62552ed75f21598d656b7" title="SWGSDRangel::SWGFileSource\lSettings::setFilterChainHash" alt="" coords="245,201,461,243"/>
+<area shape="rect" id="node6" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#addbb8fafffa8d0d99dc9cd9a681db9c4" title="SWGSDRangel::SWGFileSource\lSettings::setGainDb" alt="" coords="245,267,461,308"/>
+<area shape="rect" id="node7" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a51ef5344e543cd03181f95ba26bc6e78" title="SWGSDRangel::SWGFileSource\lSettings::setLog2Interp" alt="" coords="245,332,461,373"/>
+<area shape="rect" id="node8" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a1497f4cc7e657dc8de998e2f7edea653" title="SWGSDRangel::SWGFileSource\lSettings::setReverseApiAddress" alt="" coords="245,397,461,439"/>
+<area shape="rect" id="node9" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#afca56da60775c34549e5907ad6a68d6f" title="SWGSDRangel::SWGFileSource\lSettings::setReverseApiChannelIndex" alt="" coords="231,463,475,504"/>
+<area shape="rect" id="node10" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#ac3ceb34666e1ad21ad65b061ec057eb1" title="SWGSDRangel::SWGFileSource\lSettings::setReverseApiDeviceIndex" alt="" coords="235,528,472,569"/>
+<area shape="rect" id="node11" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#af1ade69a5ca14b3d2995b1fa6338292f" title="SWGSDRangel::SWGFileSource\lSettings::setReverseApiPort" alt="" coords="245,593,461,635"/>
+<area shape="rect" id="node12" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a43d40135b92242f8aa25c6950fd53003" title="SWGSDRangel::SWGFileSource\lSettings::setRgbColor" alt="" coords="245,659,461,700"/>
+<area shape="rect" id="node13" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#ad1a1f64e6bd5b318a7a3503995e16c65" title="SWGSDRangel::SWGFileSource\lSettings::setTitle" alt="" coords="245,724,461,765"/>
+<area shape="rect" id="node14" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a267acd0892814288542fda1965611fe0" title="SWGSDRangel::SWGFileSource\lSettings::setUseReverseApi" alt="" coords="245,789,461,831"/>
+</map>

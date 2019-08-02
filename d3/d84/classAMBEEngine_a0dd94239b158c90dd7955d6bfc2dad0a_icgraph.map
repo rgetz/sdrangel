@@ -1,0 +1,11 @@
+<map id="AMBEEngine::register_comport" name="AMBEEngine::register_comport">
+<area shape="rect" id="node2" href="$d3/d84/classAMBEEngine.html#a24876f3c438c10eef5bea41e740b812a" title="AMBEEngine::getComList" alt="" coords="204,60,379,87"/>
+<area shape="rect" id="node3" href="$d3/d84/classAMBEEngine.html#ac8d5267bee5234d48191909976c40247" title="AMBEEngine::scan" alt="" coords="427,85,563,112"/>
+<area shape="rect" id="node4" href="$d3/d84/classAMBEEngine.html#a6d4d3773ea74956c396a19d2df52e1fb" title="AMBEEngine::~AMBEEngine" alt="" coords="612,5,807,32"/>
+<area shape="rect" id="node5" href="$d4/da8/classMainBench.html#a640acb9dc182eca6ad567f3cb4196e97" title="MainBench::testAMBE" alt="" coords="632,56,787,83"/>
+<area shape="rect" id="node7" href="$d7/d3b/classAMBEDevicesDialog.html#aed722908a0c65679d7f86d18af00dee2" title="AMBEDevicesDialog::\lpopulateSerialList" alt="" coords="633,107,786,149"/>
+<area shape="rect" id="node9" href="$d7/de5/classWebAPIAdapterGUI.html#a24a29ee4790341740b8979f885433db2" title="WebAPIAdapterGUI::instance\lAMBESerialGet" alt="" coords="611,173,808,214"/>
+<area shape="rect" id="node10" href="$dc/dd8/classWebAPIAdapterSrv.html#add5467eff9b9984e180241226e234798" title="WebAPIAdapterSrv::instance\lAMBESerialGet" alt="" coords="613,238,806,279"/>
+<area shape="rect" id="node6" href="$d4/da8/classMainBench.html#accf785f51b468c5649008a47241c479b" title="MainBench::run" alt="" coords="876,56,989,83"/>
+<area shape="rect" id="node8" href="$d7/d3b/classAMBEDevicesDialog.html#a79fb9c5b46622b58ebccf08302e356fd" title="AMBEDevicesDialog::\lAMBEDevicesDialog" alt="" coords="856,107,1009,149"/>
+</map>

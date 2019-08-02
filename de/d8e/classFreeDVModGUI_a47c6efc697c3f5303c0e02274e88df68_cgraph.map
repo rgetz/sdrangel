@@ -1,0 +1,12 @@
+<map id="FreeDVModGUI::on_freeDVMode_currentIndexChanged" name="FreeDVModGUI::on_freeDVMode_currentIndexChanged">
+<area shape="rect" id="node2" href="$de/d8e/classFreeDVModGUI.html#a66bfa2b8af0de9876322376ec5a6c52b" title="FreeDVModGUI::applySettings" alt="" coords="272,110,475,137"/>
+<area shape="rect" id="node8" href="$dc/d1f/structFreeDVModSettings.html#a25b5f88a9c519b10701afe28559fa715" title="FreeDVModSettings::\lgetHiCutoff" alt="" coords="299,161,447,203"/>
+<area shape="rect" id="node9" href="$dc/d1f/structFreeDVModSettings.html#adaf875abd8ae5de9551628b65a36045c" title="FreeDVModSettings::\lgetLowCutoff" alt="" coords="299,227,447,268"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="275,293,472,319"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a21a6a6cf3155c2e5bc1d181bb553225b" title="ChannelMarker::setLowCutoff" alt="" coords="275,343,471,370"/>
+<area shape="rect" id="node3" href="$d2/df3/classFreeDVMod_1_1MsgConfigureFreeDVMod.html#a29f69fd084d682e461c328fbe62780fa" title="FreeDVMod::MsgConfigureFree\lDVMod::create" alt="" coords="545,5,751,47"/>
+<area shape="rect" id="node5" href="$d7/d35/classFreeDVMod_1_1MsgConfigureChannelizer.html#a3db2cd537d32b6eeac5b470c3327511c" title="FreeDVMod::MsgConfigureChannelizer\l::create" alt="" coords="523,71,773,112"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="564,136,732,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="573,202,723,229"/>
+<area shape="rect" id="node4" href="$d2/df3/classFreeDVMod_1_1MsgConfigureFreeDVMod.html#a085c8b7d61ac06a264e469b52b76e433" title="FreeDVMod::MsgConfigureFree\lDVMod::MsgConfigureFreeDVMod" alt="" coords="821,5,1047,47"/>
+</map>

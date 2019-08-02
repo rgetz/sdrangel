@@ -1,0 +1,13 @@
+<map id="WebAPIAdapterGUI::instanceAudioInputDelete" name="WebAPIAdapterGUI::instanceAudioInputDelete">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="276,5,467,47"/>
+<area shape="rect" id="node3" href="$da/d89/classSWGSDRangel_1_1SWGAudioInputDevice.html#a1e0644c9d314ff2db6ea17be892a06ec" title="SWGSDRangel::SWGAudioInput\lDevice::getIndex" alt="" coords="263,71,479,112"/>
+<area shape="rect" id="node4" href="$d0/d40/classAudioDeviceManager.html#a5ad1cde15fc95bb5a18bc0457343449a" title="AudioDeviceManager\l::getInputDeviceInfo" alt="" coords="540,264,687,305"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#a86bfb958e29fc4d4b08a82df12a64718" title="AudioDeviceManager\l::getInputDeviceName" alt="" coords="735,405,888,447"/>
+<area shape="rect" id="node6" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="251,239,492,280"/>
+<area shape="rect" id="node7" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="251,304,492,345"/>
+<area shape="rect" id="node8" href="$da/d89/classSWGSDRangel_1_1SWGAudioInputDevice.html#aedb82128170225fb41cda0fd1b613ff1" title="SWGSDRangel::SWGAudioInput\lDevice::setSampleRate" alt="" coords="263,369,479,411"/>
+<area shape="rect" id="node9" href="$da/d89/classSWGSDRangel_1_1SWGAudioInputDevice.html#abf3c4d2febac1cc1cf3ec5895a0ac346" title="SWGSDRangel::SWGAudioInput\lDevice::setVolume" alt="" coords="263,435,479,476"/>
+<area shape="rect" id="node10" href="$d0/d40/classAudioDeviceManager.html#a903f3876493a84e760cdb402ceaeaeaf" title="AudioDeviceManager\l::unsetInputDeviceInfo" alt="" coords="294,500,449,541"/>
+<area shape="rect" id="node11" href="$d0/d40/classAudioDeviceManager.html#aad9ead645499f7b9c47d234e55f224d7" title="AudioDeviceManager\l::startAudioInput" alt="" coords="540,405,687,447"/>
+<area shape="rect" id="node12" href="$d0/d40/classAudioDeviceManager.html#a223c1d01a24c5dd701c903bc7b638e65" title="AudioDeviceManager\l::stopAudioInput" alt="" coords="540,471,687,512"/>
+</map>

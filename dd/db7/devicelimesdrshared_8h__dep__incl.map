@@ -1,0 +1,17 @@
+<map id="devices/limesdr/devicelimesdrshared.h" name="devices/limesdr/devicelimesdrshared.h">
+<area shape="rect" id="node2" href="$d2/dda/devicelimesdrshared_8cpp.html" title="devices/limesdr/devicelimesdrshared.cpp" alt="" coords="5,87,267,114"/>
+<area shape="rect" id="node3" href="$d2/d71/limesdroutputthread_8h.html" title="plugins/samplesink\l/limesdroutput/limesdroutputthread.h" alt="" coords="291,80,525,121"/>
+<area shape="rect" id="node6" href="$db/df6/limesdroutput_8h.html" title="plugins/samplesink\l/limesdroutput/limesdroutput.h" alt="" coords="549,80,747,121"/>
+<area shape="rect" id="node10" href="$db/dcb/limesdrinput_8h.html" title="plugins/samplesource\l/limesdrinput/limesdrinput.h" alt="" coords="777,80,959,121"/>
+<area shape="rect" id="node11" href="$d3/df5/limesdrinput_8cpp.html" title="plugins/samplesource\l/limesdrinput/limesdrinput.cpp" alt="" coords="1000,169,1195,211"/>
+<area shape="rect" id="node15" href="$d3/dc2/limesdrinputthread_8h.html" title="plugins/samplesource\l/limesdrinput/limesdrinputthread.h" alt="" coords="1034,80,1251,121"/>
+<area shape="rect" id="node4" href="$db/d2f/limesdroutput_8cpp.html" title="plugins/samplesink\l/limesdroutput/limesdroutput.cpp" alt="" coords="303,169,513,211"/>
+<area shape="rect" id="node5" href="$de/db7/limesdroutputthread_8cpp.html" title="plugins/samplesink\l/limesdroutput/limesdroutputthread.cpp" alt="" coords="33,169,279,211"/>
+<area shape="rect" id="node7" href="$df/d2e/limesdroutputgui_8h.html" title="plugins/samplesink\l/limesdroutput/limesdroutputgui.h" alt="" coords="538,169,753,211"/>
+<area shape="rect" id="node8" href="$d7/d31/limesdroutputgui_8cpp.html" title="plugins/samplesink\l/limesdroutput/limesdroutputgui.cpp" alt="" coords="258,259,486,300"/>
+<area shape="rect" id="node9" href="$de/d90/limesdroutputplugin_8cpp.html" title="plugins/samplesink\l/limesdroutput/limesdroutputplugin.cpp" alt="" coords="511,259,756,300"/>
+<area shape="rect" id="node12" href="$dd/dde/limesdrinputgui_8h.html" title="plugins/samplesource\l/limesdrinput/limesdrinputgui.h" alt="" coords="777,169,975,211"/>
+<area shape="rect" id="node13" href="$de/db0/limesdrinputgui_8cpp.html" title="plugins/samplesource\l/limesdrinput/limesdrinputgui.cpp" alt="" coords="781,259,993,300"/>
+<area shape="rect" id="node14" href="$d4/d6e/limesdrinputplugin_8cpp.html" title="plugins/samplesource\l/limesdrinput/limesdrinputplugin.cpp" alt="" coords="1017,259,1247,300"/>
+<area shape="rect" id="node16" href="$d9/d08/limesdrinputthread_8cpp.html" title="plugins/samplesource\l/limesdrinput/limesdrinputthread.cpp" alt="" coords="1219,169,1450,211"/>
+</map>

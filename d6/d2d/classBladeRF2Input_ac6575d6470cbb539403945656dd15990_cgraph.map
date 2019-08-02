@@ -1,0 +1,47 @@
+<map id="BladeRF2Input::closeDevice" name="BladeRF2Input::closeDevice">
+<area shape="rect" id="node2" href="$dd/d3f/classDeviceBladeRF2.html#a4cfca56573a3b7025186c0f9005e6a9f" title="DeviceBladeRF2::close" alt="" coords="257,555,417,581"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="245,605,429,632"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="707,748,905,775"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#ac8fe532c1445e4004631e440e66767ab" title="BladeRF2Input::moveThread\lToBuddy" alt="" coords="243,657,432,698"/>
+<area shape="rect" id="node30" href="$d6/d2d/classBladeRF2Input.html#ac037be4ebcc14b625a596b0352946fc5" title="BladeRF2Input::stop" alt="" coords="266,1093,409,1120"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#a0b21f97f9ba087f940dcbd8edd0ab5be" title="BladeRF2Input::setThread" alt="" coords="482,621,657,648"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#a384110860be6facc631ac7a274fa4b38" title="BladeRF2Input::serialize" alt="" coords="723,383,889,409"/>
+<area shape="rect" id="node16" href="$d6/d2d/classBladeRF2Input.html#a10d699a4b3a24e277647dac4461a8ae5" title="BladeRF2Input::deserialize" alt="" coords="717,660,895,687"/>
+<area shape="rect" id="node8" href="$dc/d76/structBladeRF2InputSettings.html#a5656201802e1541b63cf626409e5b01b" title="BladeRF2InputSettings\l::serialize" alt="" coords="974,150,1131,191"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="1226,157,1401,184"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="1224,208,1403,235"/>
+<area shape="rect" id="node12" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="1225,259,1401,285"/>
+<area shape="rect" id="node13" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="1226,5,1401,32"/>
+<area shape="rect" id="node14" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="1220,56,1407,83"/>
+<area shape="rect" id="node15" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="1239,107,1387,133"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1475,157,1649,184"/>
+<area shape="rect" id="node17" href="$dc/d76/structBladeRF2InputSettings.html#a73db227efd6e31efb17aada8fed02315" title="BladeRF2InputSettings\l::deserialize" alt="" coords="974,571,1131,613"/>
+<area shape="rect" id="node19" href="$dc/d76/structBladeRF2InputSettings.html#a9a061cd4e81b922ce053530f4d3db45e" title="BladeRF2InputSettings\l::resetToDefaults" alt="" coords="1235,767,1392,809"/>
+<area shape="rect" id="node27" href="$d2/d9f/classBladeRF2Input_1_1MsgConfigureBladeRF2.html#aa7ea9f9928ae278110b62dfad2ca84d4" title="BladeRF2Input::MsgConfigure\lBladeRF2::create" alt="" coords="953,809,1152,850"/>
+<area shape="rect" id="node29" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="978,711,1127,737"/>
+<area shape="rect" id="node18" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="1248,441,1379,482"/>
+<area shape="rect" id="node20" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="1248,506,1379,547"/>
+<area shape="rect" id="node21" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="1248,637,1379,678"/>
+<area shape="rect" id="node23" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="1248,702,1379,743"/>
+<area shape="rect" id="node24" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="1248,310,1379,351"/>
+<area shape="rect" id="node25" href="$d2/d0e/classSimpleDeserializer.html#a63b7ff37bc8ed9f4f9f9562d1d7e4e73" title="SimpleDeserializer\l::readS64" alt="" coords="1248,571,1379,613"/>
+<area shape="rect" id="node26" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="1248,375,1379,417"/>
+<area shape="rect" id="node22" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1497,603,1627,645"/>
+<area shape="rect" id="node28" href="$d2/d9f/classBladeRF2Input_1_1MsgConfigureBladeRF2.html#ad82866c3b0172014b7caa02899178be5" title="BladeRF2Input::MsgConfigure\lBladeRF2::MsgConfigureBladeRF2" alt="" coords="1200,833,1427,874"/>
+<area shape="rect" id="node31" href="$dd/db6/classDeviceAPI.html#a6a132cbd77d935d2ffc96bc5b2be58de" title="DeviceAPI::getDeviceItem\lIndex" alt="" coords="480,1378,659,1419"/>
+<area shape="rect" id="node32" href="$d6/d2d/classBladeRF2Input.html#a3a161004aa41c54c0548f5d5e0cc8df7" title="BladeRF2Input::findThread" alt="" coords="480,824,659,851"/>
+<area shape="rect" id="node34" href="$df/d11/classBladeRF2InputThread.html#a6e32aa0a24c3d387f518ac0fcb0e53b5" title="BladeRF2InputThread\l::getNbChannels" alt="" coords="495,1195,644,1237"/>
+<area shape="rect" id="node35" href="$df/d11/classBladeRF2InputThread.html#aa09c4bef4c667f8c7b42968f6f135022" title="BladeRF2InputThread\l::setLog2Decimation" alt="" coords="731,1443,881,1485"/>
+<area shape="rect" id="node36" href="$df/d11/classBladeRF2InputThread.html#a040cca86f3ae6be24c0f90a45a8d5ebb" title="BladeRF2InputThread\l::getLog2Decimation" alt="" coords="731,998,881,1039"/>
+<area shape="rect" id="node37" href="$df/d11/classBladeRF2InputThread.html#a42e76d210da50f3c9dca1c906d439be0" title="BladeRF2InputThread\l::setFcPos" alt="" coords="731,1107,881,1149"/>
+<area shape="rect" id="node38" href="$df/d11/classBladeRF2InputThread.html#a0f464779636f126e794431ad309ba68d" title="BladeRF2InputThread\l::getFcPos" alt="" coords="731,1185,881,1226"/>
+<area shape="rect" id="node39" href="$df/d11/classBladeRF2InputThread.html#a58af02f2060993dc57581e6cdbf3cd57" title="BladeRF2InputThread\l::setFifo" alt="" coords="731,1285,881,1326"/>
+<area shape="rect" id="node40" href="$df/d11/classBladeRF2InputThread.html#a151e5cec0b5396581e2c58d9fee4c4e3" title="BladeRF2InputThread\l::getFifo" alt="" coords="731,1359,881,1401"/>
+<area shape="rect" id="node41" href="$df/d11/classBladeRF2InputThread.html#a14567434588924779f0bec1534ce198b" title="BladeRF2InputThread\l::stopWork" alt="" coords="495,1027,644,1069"/>
+<area shape="rect" id="node42" href="$dd/d3f/classDeviceBladeRF2.html#aad651ecb19cb7d1cc5441a2f37e47ad3" title="DeviceBladeRF2::closeRx" alt="" coords="481,1144,658,1171"/>
+<area shape="rect" id="node43" href="$dd/d3f/classDeviceBladeRF2.html#a00017d2f4215aeba35b2d4e9b68c885b" title="DeviceBladeRF2::getDev" alt="" coords="484,875,655,901"/>
+<area shape="rect" id="node46" href="$df/d11/classBladeRF2InputThread.html#a61dae11bf7e1696dd035035d9040d48e" title="BladeRF2InputThread\l::startWork" alt="" coords="495,1261,644,1302"/>
+<area shape="rect" id="node33" href="$d6/d2d/classBladeRF2Input.html#a8407c0cb91fb1dd723875156890afd36" title="BladeRF2Input::getThread" alt="" coords="719,824,893,851"/>
+<area shape="rect" id="node44" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="759,875,853,901"/>
+<area shape="rect" id="node45" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="757,925,855,952"/>
+</map>

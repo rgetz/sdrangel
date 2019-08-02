@@ -1,0 +1,23 @@
+<map id="WebAPIRequestMapper::resetDeviceSettings" name="WebAPIRequestMapper::resetDeviceSettings">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aaa54e58172fda9f26e32fe0954600fe7" title="SWGSDRangel::SWGDeviceSettings\l::cleanup" alt="" coords="216,5,459,47"/>
+<area shape="rect" id="node3" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a81ecbace7383711d6b59df157219163f" title="SWGSDRangel::SWGDeviceSettings\l::setAirspyHfSettings" alt="" coords="216,71,459,112"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a4713755e53e2ece6921595fca52ad268" title="SWGSDRangel::SWGDeviceSettings\l::setAirspySettings" alt="" coords="216,136,459,177"/>
+<area shape="rect" id="node5" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a59d0d1e1f3d824bd90b97e72b90296dd" title="SWGSDRangel::SWGDeviceSettings\l::setBladeRf1InputSettings" alt="" coords="216,201,459,243"/>
+<area shape="rect" id="node6" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae4d4fac3fc2265e6b5cdffd935b8a2de" title="SWGSDRangel::SWGDeviceSettings\l::setBladeRf1OutputSettings" alt="" coords="216,267,459,308"/>
+<area shape="rect" id="node7" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a3458b2e0f0383ec80ba3bcf51aff66f1" title="SWGSDRangel::SWGDeviceSettings\l::setDeviceHwType" alt="" coords="216,332,459,373"/>
+<area shape="rect" id="node8" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aae05a66b51f9598ec5c408879dd74d51" title="SWGSDRangel::SWGDeviceSettings\l::setFcdProPlusSettings" alt="" coords="216,397,459,439"/>
+<area shape="rect" id="node9" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a0e9245cbec50c0ba79c26e1704b7081c" title="SWGSDRangel::SWGDeviceSettings\l::setFcdProSettings" alt="" coords="216,463,459,504"/>
+<area shape="rect" id="node10" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a2849b8c626e0014122898973423e6515" title="SWGSDRangel::SWGDeviceSettings\l::setFileInputSettings" alt="" coords="216,528,459,569"/>
+<area shape="rect" id="node11" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa73f26678ea7b04c373151d3a04f1d0f" title="SWGSDRangel::SWGDeviceSettings\l::setHackRfInputSettings" alt="" coords="216,593,459,635"/>
+<area shape="rect" id="node12" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a1c521655c4d565d01c1142c82cc95a3b" title="SWGSDRangel::SWGDeviceSettings\l::setHackRfOutputSettings" alt="" coords="216,659,459,700"/>
+<area shape="rect" id="node13" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab6ef9bfd378b9991bb62ae52925d9d8f" title="SWGSDRangel::SWGDeviceSettings\l::setLimeSdrInputSettings" alt="" coords="216,724,459,765"/>
+<area shape="rect" id="node14" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa2baf1881730bd196225e9637f064c63" title="SWGSDRangel::SWGDeviceSettings\l::setLimeSdrOutputSettings" alt="" coords="216,789,459,831"/>
+<area shape="rect" id="node15" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a62ad9f4e938979d34ce1ae45944db6d1" title="SWGSDRangel::SWGDeviceSettings\l::setPerseusSettings" alt="" coords="216,855,459,896"/>
+<area shape="rect" id="node16" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a959af96aa9ed5b1a0bed1d0e47c10582" title="SWGSDRangel::SWGDeviceSettings\l::setPlutoSdrInputSettings" alt="" coords="216,920,459,961"/>
+<area shape="rect" id="node17" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab7cbb4d84f2c1417e92a342ee943c8d6" title="SWGSDRangel::SWGDeviceSettings\l::setPlutoSdrOutputSettings" alt="" coords="216,985,459,1027"/>
+<area shape="rect" id="node18" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a0b4b54b907c446788998d96c49a98151" title="SWGSDRangel::SWGDeviceSettings\l::setRemoteInputSettings" alt="" coords="216,1051,459,1092"/>
+<area shape="rect" id="node19" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae177e70a670c2c1adba7fee1aa0ea671" title="SWGSDRangel::SWGDeviceSettings\l::setRemoteOutputSettings" alt="" coords="216,1116,459,1157"/>
+<area shape="rect" id="node20" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a36c1476999e535ef1740fec58a6246d3" title="SWGSDRangel::SWGDeviceSettings\l::setRtlSdrSettings" alt="" coords="216,1181,459,1223"/>
+<area shape="rect" id="node21" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab91a587e90fb46362d7070e0d791a7f3" title="SWGSDRangel::SWGDeviceSettings\l::setSdrPlaySettings" alt="" coords="216,1247,459,1288"/>
+<area shape="rect" id="node22" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a94715f2d8fe482b4365c2a6ad7d6e734" title="SWGSDRangel::SWGDeviceSettings\l::setTestSourceSettings" alt="" coords="216,1312,459,1353"/>
+</map>

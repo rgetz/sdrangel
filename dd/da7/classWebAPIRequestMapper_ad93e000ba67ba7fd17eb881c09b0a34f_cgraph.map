@@ -1,0 +1,7 @@
+<map id="WebAPIRequestMapper::validatePresetTransfer" name="WebAPIRequestMapper::validatePresetTransfer">
+<area shape="rect" id="node2" href="$d8/d3d/classSWGSDRangel_1_1SWGPresetTransfer.html#a50b9f11b84a8e5520e66117e2feb7f39" title="SWGSDRangel::SWGPresetTransfer\l::getPreset" alt="" coords="216,5,456,47"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a16683a0cb75a9a81cd64cb4c8fe57b6d" title="WebAPIRequestMapper\l::validatePresetIdentifer" alt="" coords="255,71,417,112"/>
+<area shape="rect" id="node4" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a795a210cf201aad4bbe512bb974ec19b" title="SWGSDRangel::SWGPresetIdentifier\l::getGroupName" alt="" coords="504,5,747,47"/>
+<area shape="rect" id="node5" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a423213e5086dfdb959910ca6ac6b50ab" title="SWGSDRangel::SWGPresetIdentifier\l::getName" alt="" coords="504,71,747,112"/>
+<area shape="rect" id="node6" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a24e6595601f2ab77a995bc51c43c094a" title="SWGSDRangel::SWGPresetIdentifier\l::getType" alt="" coords="504,136,747,177"/>
+</map>

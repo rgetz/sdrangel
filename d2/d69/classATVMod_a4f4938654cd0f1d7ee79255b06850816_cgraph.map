@@ -1,0 +1,9 @@
+<map id="ATVMod::getMagSq" name="ATVMod::getMagSq">
+<area shape="rect" id="node2" href="$d2/d81/classMovingAverageUtil.html#a387f7f6ee4d247551f44f59cb432d87a" title="MovingAverageUtil::\lasDouble" alt="" coords="233,5,373,47"/>
+<area shape="rect" id="node3" href="$d2/d69/classATVMod.html#a1ef2797fbe244371b71e9a177bdaff94" title="ATVMod::getBaseValues" alt="" coords="218,71,387,98"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a56ef398a00b7a699b9375fbb45942062" title="ATVMod::getCameraNumbers" alt="" coords="203,122,402,149"/>
+<area shape="rect" id="node8" href="$d2/d69/classATVMod.html#afbbe04f5470528de82f7324dc648efb0" title="ATVMod::getRFBandwidthDivisor" alt="" coords="193,173,412,199"/>
+<area shape="rect" id="node5" href="$d7/d58/classATVMod_1_1MsgReportCameraData.html#a8e092f93554cd9af4a0808410ba2b827" title="ATVMod::MsgReportCameraData\l::create" alt="" coords="460,49,679,91"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a55487ed2dcc7e1da118dcd8d32c76e7f" title="BasebandSampleSource\l::getMessageQueueToGUI" alt="" coords="480,115,659,156"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="495,181,644,207"/>
+</map>

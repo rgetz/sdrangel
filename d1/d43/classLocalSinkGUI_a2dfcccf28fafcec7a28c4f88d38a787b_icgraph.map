@@ -1,0 +1,10 @@
+<map id="LocalSinkGUI::applySettings" name="LocalSinkGUI::applySettings">
+<area shape="rect" id="node2" href="$d1/d43/classLocalSinkGUI.html#a6792b081af5df7acfa27cfea056081b7" title="LocalSinkGUI::deserialize" alt="" coords="505,31,679,57"/>
+<area shape="rect" id="node3" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="496,203,688,229"/>
+<area shape="rect" id="node7" href="$d1/d43/classLocalSinkGUI.html#a71c3b4b30c22f4f005bcfdbc3e8e6bc0" title="LocalSinkGUI::on_localDevice\l_currentIndexChanged" alt="" coords="246,107,446,149"/>
+<area shape="rect" id="node8" href="$d1/d43/classLocalSinkGUI.html#a045cc9abd105062c72314ddcea00a7f9" title="LocalSinkGUI::onMenuDialog\lCalled" alt="" coords="249,225,443,266"/>
+<area shape="rect" id="node9" href="$d1/d43/classLocalSinkGUI.html#a5b0e4344863113d0c2c0212975b620c5" title="LocalSinkGUI::resetToDefaults" alt="" coords="244,5,448,32"/>
+<area shape="rect" id="node4" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="736,203,883,229"/>
+<area shape="rect" id="node5" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="931,195,1107,237"/>
+<area shape="rect" id="node6" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="1155,203,1331,229"/>
+</map>

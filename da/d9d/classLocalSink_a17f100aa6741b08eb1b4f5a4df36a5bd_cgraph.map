@@ -1,0 +1,9 @@
+<map id="LocalSink::LocalSink" name="LocalSink::LocalSink">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a39a612869ee44449bd80a146184ad721" title="Add a channel sink (Rx) " alt="" coords="209,78,397,105"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#a1c01820624b40694bd7cb20c2605e04e" title="DeviceAPI::addChannelSinkAPI" alt="" coords="197,133,408,159"/>
+<area shape="rect" id="node8" href="$da/d9d/classLocalSink.html#a44d083ec5198d5e8f0219686fb1205c7" title="LocalSink::networkManager\lFinished" alt="" coords="211,184,394,225"/>
+<area shape="rect" id="node3" href="$df/d80/classDSPDeviceMIMOEngine.html#a26be0a9b84c19cc4ad6891104af2a316" title="Add a channel sink that will run on its own thread. " alt="" coords="479,5,646,47"/>
+<area shape="rect" id="node5" href="$d2/d3b/classDSPDeviceSourceEngine.html#a74159be7b1305ac70ceb988349c1d799" title="Add a sample sink that will run on its own thread. " alt="" coords="477,71,649,112"/>
+<area shape="rect" id="node4" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="717,46,896,73"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="456,137,669,163"/>
+</map>

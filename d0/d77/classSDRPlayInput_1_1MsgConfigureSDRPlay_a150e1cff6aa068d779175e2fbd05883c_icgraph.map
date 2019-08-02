@@ -1,0 +1,10 @@
+<map id="SDRPlayInput::MsgConfigureSDRPlay::MsgConfigureSDRPlay" name="SDRPlayInput::MsgConfigureSDRPlay::MsgConfigureSDRPlay">
+<area shape="rect" id="node2" href="$d0/d77/classSDRPlayInput_1_1MsgConfigureSDRPlay.html#a4f5a8cf66216b5abfb288cdfe9212a32" title="SDRPlayInput::MsgConfigure\lSDRPlay::create" alt="" coords="275,79,469,121"/>
+<area shape="rect" id="node3" href="$d9/d15/classSDRPlayGui.html#a62393503822f995e36dfe91a00797e21" title="SDRPlayGui::updateHardware" alt="" coords="533,7,733,33"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a10334228b342da4f2ec09e1390675de1" title="SDRPlayInput::deserialize" alt="" coords="545,61,721,88"/>
+<area shape="rect" id="node7" href="$dc/d8c/classSDRPlayInput.html#aa3ec5c696a6750a5f58d4c273e5be5ba" title="SDRPlayInput::setCenterFrequency" alt="" coords="517,112,749,139"/>
+<area shape="rect" id="node9" href="$dc/d8c/classSDRPlayInput.html#a053171f3d0d513b6d1d69b99aba6c4e1" title="SDRPlayInput::webapiSettings\lPutPatch" alt="" coords="532,163,735,205"/>
+<area shape="rect" id="node4" href="$d9/d15/classSDRPlayGui.html#ace1afe52225f8a09356d5f34d8f30337" title="SDRPlayGui::SDRPlayGui" alt="" coords="809,5,989,32"/>
+<area shape="rect" id="node6" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="802,57,997,98"/>
+<area shape="rect" id="node8" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="797,145,1001,172"/>
+</map>

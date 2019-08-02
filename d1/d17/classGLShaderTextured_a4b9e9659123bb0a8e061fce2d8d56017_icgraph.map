@@ -1,0 +1,11 @@
+<map id="GLShaderTextured::initTexture" name="GLShaderTextured::initTexture">
+<area shape="rect" id="node2" href="$d6/dab/classGLSpectrum.html#a6f4bacf0e1756d0afc804c9b09dd391e" title="GLSpectrum::applyChanges" alt="" coords="266,5,453,32"/>
+<area shape="rect" id="node4" href="$d2/d02/classGLScope.html#ab9ffb77d9cde75ff33f4037f0aada709" title="GLScope::drawChannelOverlay" alt="" coords="513,81,719,108"/>
+<area shape="rect" id="node6" href="$d2/d02/classGLScope.html#a9be8d26f58d8d61f2e58423479ea0110" title="Arrange displays when X and Y are stacked horizontally. " alt="" coords="253,107,465,133"/>
+<area shape="rect" id="node8" href="$d2/d02/classGLScope.html#ae1f081c2a3ac33af5b9f51659a0435b7" title="Arrange displays when X and Y are stacked over on the left and polar display is on the right..." alt="" coords="268,157,451,184"/>
+<area shape="rect" id="node9" href="$d2/d02/classGLScope.html#aaef52bb1ef8deda508d295897ed6366e" title="Arrange displays when X and Y are unique on screen. " alt="" coords="262,208,457,235"/>
+<area shape="rect" id="node10" href="$d2/d02/classGLScope.html#a810f6974001d560c5119fe99afcfc869" title="Arrange displays when X and Y are stacked vertically. " alt="" coords="261,259,458,285"/>
+<area shape="rect" id="node3" href="$d6/dab/classGLSpectrum.html#a5f9a30e564c715a23c17138b3376f37e" title="GLSpectrum::paintGL" alt="" coords="542,5,690,32"/>
+<area shape="rect" id="node5" href="$d2/d02/classGLScope.html#a79e24062fde56bc4ae1b2cd79e5aedda" title="GLScope::paintGL" alt="" coords="767,107,896,133"/>
+<area shape="rect" id="node7" href="$d2/d02/classGLScope.html#a366e112820a69abe443077941b7fcc86" title="GLScope::applyConfig" alt="" coords="539,157,693,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RemoteOutput::MsgStartStop::getStartStop" name="RemoteOutput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$d8/d08/classRemoteOutputSinkGui.html#a9343fa9884882f6e54d37d454c3fd0cd" title="RemoteOutputSinkGui\l::handleMessage" alt="" coords="275,5,428,47"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#aaeebf504cf095eb1456c63f58bee06e3" title="RemoteOutput::handleMessage" alt="" coords="248,71,455,98"/>
+<area shape="rect" id="node3" href="$d8/d08/classRemoteOutputSinkGui.html#a32242618aa8a253f6020e388064a05c6" title="RemoteOutputSinkGui\l::handleInputMessages" alt="" coords="541,5,698,47"/>
+<area shape="rect" id="node4" href="$d8/d08/classRemoteOutputSinkGui.html#a817ea2a5b7330ea2cd4ae0610a190b1b" title="RemoteOutputSinkGui\l::RemoteOutputSinkGui" alt="" coords="784,5,945,47"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="503,71,736,98"/>
+</map>

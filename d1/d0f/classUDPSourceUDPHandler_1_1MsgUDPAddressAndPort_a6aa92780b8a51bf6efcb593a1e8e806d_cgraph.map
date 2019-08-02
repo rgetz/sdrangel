@@ -1,0 +1,19 @@
+<map id="UDPSourceUDPHandler::MsgUDPAddressAndPort::create" name="UDPSourceUDPHandler::MsgUDPAddressAndPort::create">
+<area shape="rect" id="node2" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#af7eaac41d327dea871e2e425c466ce70" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::MsgUDPAddressAndPort" alt="" coords="232,217,411,273"/>
+<area shape="rect" id="node3" href="$d3/d40/classUDPSourceUDPHandler.html#abbd5548339768595db44523f8441d6ad" title="UDPSourceUDPHandler\l::advanceReadPointer" alt="" coords="459,141,625,182"/>
+<area shape="rect" id="node8" href="$d3/d40/classUDPSourceUDPHandler.html#adb778a479e5ee8890c5f0c5be416c86d" title="UDPSourceUDPHandler\l::applyUDPLink" alt="" coords="679,225,846,266"/>
+<area shape="rect" id="node11" href="$d3/d40/classUDPSourceUDPHandler.html#aff397d623a2b158779265a972d0a7ee9" title="UDPSourceUDPHandler\l::moveData" alt="" coords="1349,95,1516,137"/>
+<area shape="rect" id="node13" href="$d3/d40/classUDPSourceUDPHandler.html#ab92ee7d193ca1770ed933f583090e1ed" title="UDPSourceUDPHandler\l::char" alt="" coords="459,349,625,390"/>
+<area shape="rect" id="node14" href="$d3/d40/classUDPSourceUDPHandler.html#a9ea9fc8ea80aede2dea43736a1440787" title="UDPSourceUDPHandler\l::handleMessage" alt="" coords="459,283,625,325"/>
+<area shape="rect" id="node4" href="$df/d64/classUDPSourceMessages_1_1MsgSampleRateCorrection.html#a42612e6e93ac197b9d141a826a7ca29c" title="UDPSourceMessages::\lMsgSampleRateCorrection\l::create" alt="" coords="673,43,852,99"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="688,123,837,149"/>
+<area shape="rect" id="node7" href="$d3/d40/classUDPSourceUDPHandler.html#a109d2cb7491ca92b085cb69fd04958b4" title="UDPSourceUDPHandler\l::resetReadIndex" alt="" coords="910,141,1077,182"/>
+<area shape="rect" id="node5" href="$df/d64/classUDPSourceMessages_1_1MsgSampleRateCorrection.html#af5f37438dd7b30a258d9c496a8d836cf" title="UDPSourceMessages::\lMsgSampleRateCorrection\l::MsgSampleRateCorrection" alt="" coords="900,43,1087,99"/>
+<area shape="rect" id="node9" href="$d3/d40/classUDPSourceUDPHandler.html#a98f0ab347b43701289f55eff4c0b86eb" title="UDPSourceUDPHandler\l::start" alt="" coords="910,206,1077,247"/>
+<area shape="rect" id="node12" href="$d3/d40/classUDPSourceUDPHandler.html#ab89d5b4a3873737405b1de8a10ebcf3a" title="UDPSourceUDPHandler\l::stop" alt="" coords="910,271,1077,313"/>
+<area shape="rect" id="node10" href="$d3/d40/classUDPSourceUDPHandler.html#ab3c061b80bb1c9b6839fbca7a41e9727" title="UDPSourceUDPHandler\l::dataReadyRead" alt="" coords="1135,206,1301,247"/>
+<area shape="rect" id="node15" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#ab4cc99aedeb3b572faa7127988837327" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::getAddress" alt="" coords="673,341,852,397"/>
+<area shape="rect" id="node16" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#a161642b14f0b2e3da20e56bed034dd4a" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::getPort" alt="" coords="673,421,852,477"/>
+<area shape="rect" id="node17" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="703,291,822,317"/>
+<area shape="rect" id="node18" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="909,337,1078,364"/>
+</map>

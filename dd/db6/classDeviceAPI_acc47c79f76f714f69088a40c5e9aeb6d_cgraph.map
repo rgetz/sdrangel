@@ -1,0 +1,6 @@
+<map id="DeviceAPI::startDeviceEngine" name="DeviceAPI::startDeviceEngine">
+<area shape="rect" id="node2" href="$d2/d3b/classDSPDeviceSourceEngine.html#abdd7cdf5dd0c8f72d9df8cf297f81daf" title="Start acquisition sequence. " alt="" coords="253,5,425,47"/>
+<area shape="rect" id="node4" href="$d1/d90/classDSPDeviceSinkEngine.html#aa21be935df8b33556394cc04689e28fa" title="Start generation sequence. " alt="" coords="261,71,418,112"/>
+<area shape="rect" id="node5" href="$df/d80/classDSPDeviceMIMOEngine.html#a0b1e01d56713a2ad4c43e42fe8dd288a" title="Start process sequence. " alt="" coords="256,136,423,177"/>
+<area shape="rect" id="node3" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="473,78,652,105"/>
+</map>

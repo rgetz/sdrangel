@@ -1,0 +1,21 @@
+<map id="LocalSink::getCenterFrequency" name="LocalSink::getCenterFrequency">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#a3506bb42a4936928936956a74fccd1f6" title="LocalSink::deserialize" alt="" coords="259,209,408,235"/>
+<area shape="rect" id="node14" href="$da/d9d/classLocalSink.html#a80e4669816d8baedd26dad9016b05d49" title="LocalSink::serialize" alt="" coords="266,386,401,413"/>
+<area shape="rect" id="node3" href="$d4/d4c/classLocalSink_1_1MsgConfigureLocalSink.html#aa6964ce16b27513c2f66581ac6e55556" title="LocalSink::MsgConfigureLocal\lSink::create" alt="" coords="456,27,655,68"/>
+<area shape="rect" id="node5" href="$d1/d44/structLocalSinkSettings.html#ac34c0ec08b4e38c60ad89ad04ceaedab" title="LocalSinkSettings::\ldeserialize" alt="" coords="488,201,623,243"/>
+<area shape="rect" id="node7" href="$d1/d44/structLocalSinkSettings.html#af31195f8c66e03d2c87dc6d892f1fff0" title="LocalSinkSettings::\lresetToDefaults" alt="" coords="735,71,869,112"/>
+<area shape="rect" id="node13" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="481,267,630,294"/>
+<area shape="rect" id="node4" href="$d4/d4c/classLocalSink_1_1MsgConfigureLocalSink.html#a121098c813bcad8c63d7fd33e6b8a289" title="LocalSink::MsgConfigureLocal\lSink::MsgConfigureLocalSink" alt="" coords="703,5,901,47"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="737,136,867,177"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="737,201,867,243"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="737,267,867,308"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="737,332,867,373"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="737,397,867,439"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="971,332,1102,373"/>
+<area shape="rect" id="node15" href="$d1/d44/structLocalSinkSettings.html#a3522ae4c281979750e007643eb4caf4c" title="LocalSinkSettings::\lserialize" alt="" coords="488,507,623,548"/>
+<area shape="rect" id="node16" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="714,463,890,490"/>
+<area shape="rect" id="node18" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="709,514,895,541"/>
+<area shape="rect" id="node19" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="713,565,891,591"/>
+<area shape="rect" id="node20" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="728,615,876,642"/>
+<area shape="rect" id="node17" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="949,514,1124,541"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="NFMMod::MsgConfigureNFMMod::getSettings" name="NFMMod::MsgConfigureNFMMod::getSettings">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a6a260e58e7672d1a7c2f80524e73b7fd" title="NFMModGUI::handleMessage" alt="" coords="272,5,471,32"/>
+<area shape="rect" id="node8" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="284,56,459,83"/>
+<area shape="rect" id="node3" href="$df/d1f/classNFMModGUI.html#a93bf5d9829676923af7ea22ea3484ef0" title="NFMModGUI::handleSourceMessages" alt="" coords="519,5,765,32"/>
+<area shape="rect" id="node4" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="813,5,1000,32"/>
+<area shape="rect" id="node5" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="1048,5,1192,32"/>
+<area shape="rect" id="node6" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1240,5,1483,32"/>
+<area shape="rect" id="node7" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1531,5,1704,32"/>
+<area shape="rect" id="node9" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="579,56,705,83"/>
+</map>

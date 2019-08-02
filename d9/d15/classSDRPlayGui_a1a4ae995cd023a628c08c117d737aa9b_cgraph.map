@@ -1,0 +1,5 @@
+<map id="SDRPlayGui::on_fBand_currentIndexChanged" name="SDRPlayGui::on_fBand_currentIndexChanged">
+<area shape="rect" id="node2" href="$d8/d77/classSDRPlayBands.html#a7e2b29326b88ba8498b822604d7ad9f7" title="SDRPlayBands::getBandHigh" alt="" coords="213,5,411,32"/>
+<area shape="rect" id="node3" href="$d8/d77/classSDRPlayBands.html#a75ab90ff5e5954793439ceb1c7c2ca0c" title="SDRPlayBands::getBandLow" alt="" coords="215,56,409,83"/>
+<area shape="rect" id="node4" href="$d9/d15/classSDRPlayGui.html#ad84140419c6920b813ffd7e408cc1066" title="SDRPlayGui::sendSettings" alt="" coords="221,107,403,133"/>
+</map>

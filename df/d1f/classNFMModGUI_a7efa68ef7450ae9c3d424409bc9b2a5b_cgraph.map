@@ -1,0 +1,5 @@
+<map id="NFMModGUI::on_navTimeSlider_valueChanged" name="NFMModGUI::on_navTimeSlider_valueChanged">
+<area shape="rect" id="node2" href="$d2/d4c/classNFMMod_1_1MsgConfigureFileSourceSeek.html#a41a050088c6b88590205f0f0421a84f8" title="NFMMod::MsgConfigureFile\lSourceSeek::create" alt="" coords="265,5,452,47"/>
+<area shape="rect" id="node3" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="275,71,443,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="284,137,433,163"/>
+</map>

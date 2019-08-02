@@ -1,0 +1,14 @@
+<map id="FreeDVMod::getModemSampleRate" name="FreeDVMod::getModemSampleRate">
+<area shape="rect" id="node2" href="$de/d8e/classFreeDVModGUI.html#ab4167b2d3937496da33d4292bbd964c2" title="FreeDVModGUI::displayBandwidths" alt="" coords="287,180,520,206"/>
+<area shape="rect" id="node5" href="$de/d8e/classFreeDVModGUI.html#a4a4d9e1ec717cf638cebdc0848e8e3dd" title="FreeDVModGUI::handleMessage" alt="" coords="839,268,1053,294"/>
+<area shape="rect" id="node3" href="$de/d8e/classFreeDVModGUI.html#ae88c5af9faeaef404744f9f49586a5be" title="FreeDVModGUI::applyBandwidths" alt="" coords="568,180,791,206"/>
+<area shape="rect" id="node12" href="$de/d8e/classFreeDVModGUI.html#ae2ea217b40c05472aba1c025395ea249" title="FreeDVModGUI::displaySettings" alt="" coords="573,100,786,126"/>
+<area shape="rect" id="node4" href="$de/d8e/classFreeDVModGUI.html#aacf7f370018111059be584c2b13bb2d5" title="FreeDVModGUI::deserialize" alt="" coords="853,100,1039,126"/>
+<area shape="rect" id="node7" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1352,150,1571,177"/>
+<area shape="rect" id="node11" href="$de/d8e/classFreeDVModGUI.html#acf07e0149459b9380345d171701c98dc" title="FreeDVModGUI::on_spanLog2\l_valueChanged" alt="" coords="845,202,1047,243"/>
+<area shape="rect" id="node6" href="$de/d8e/classFreeDVModGUI.html#a964fe32d85af54f0673c066c0436dcf3" title="FreeDVModGUI::handleSource\lMessages" alt="" coords="1101,231,1304,272"/>
+<area shape="rect" id="node8" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1619,150,1779,177"/>
+<area shape="rect" id="node9" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1827,143,2013,184"/>
+<area shape="rect" id="node10" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2061,150,2251,177"/>
+<area shape="rect" id="node13" href="$de/d8e/classFreeDVModGUI.html#af93dc48cad740e684670bdee6e9df85b" title="FreeDVModGUI::channelMarker\lUpdate" alt="" coords="841,34,1051,75"/>
+</map>

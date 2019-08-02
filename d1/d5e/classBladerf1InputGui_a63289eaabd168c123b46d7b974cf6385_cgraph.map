@@ -1,0 +1,5 @@
+<map id="Bladerf1InputGui::on_record_toggled" name="Bladerf1InputGui::on_record_toggled">
+<area shape="rect" id="node2" href="$d7/d81/classBladerf1Input_1_1MsgFileRecord.html#af85cf885fed8110685d4b5316c896e06" title="Bladerf1Input::MsgFileRecord\l::create" alt="" coords="195,5,389,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="208,71,376,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="217,137,367,163"/>
+</map>

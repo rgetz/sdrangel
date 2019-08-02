@@ -1,0 +1,8 @@
+<map id="AudioCompressor::fillALaw" name="AudioCompressor::fillALaw">
+<area shape="rect" id="node2" href="$d1/d16/classAudioNetSink.html#a8c04dad8232d8216ad2e3834abd30b6d" title="AudioNetSink::setParameters" alt="" coords="233,64,428,91"/>
+<area shape="rect" id="node3" href="$d8/ddc/classAudioOutput.html#a4dd9e7cb70bc633a33a97e400dec7497" title="AudioOutput::setUdpChannel\lFormat" alt="" coords="476,57,668,98"/>
+<area shape="rect" id="node4" href="$d0/d40/classAudioDeviceManager.html#a626cbd4efa0db2508888c36a535aa842" title="AudioDeviceManager\l::setOutputDeviceInfo" alt="" coords="716,57,867,98"/>
+<area shape="rect" id="node5" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="939,5,1087,32"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#a2e3aca4d4c3df256a6ab7b28f2629739" title="WebAPIAdapterGUI::instance\lAudioOutputPatch" alt="" coords="915,57,1112,98"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a7e0868764ceab0c25cc1c8d051920b15" title="WebAPIAdapterSrv::instance\lAudioOutputPatch" alt="" coords="917,122,1110,163"/>
+</map>

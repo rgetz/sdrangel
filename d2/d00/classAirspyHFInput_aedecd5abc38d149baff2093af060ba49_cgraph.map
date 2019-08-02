@@ -1,0 +1,11 @@
+<map id="AirspyHFInput::~AirspyHFInput" name="AirspyHFInput::~AirspyHFInput">
+<area shape="rect" id="node2" href="$d2/d00/classAirspyHFInput.html#abcb18dfaee3361c58b413c0845f2bca1" title="AirspyHFInput::closeDevice" alt="" coords="273,5,459,32"/>
+<area shape="rect" id="node3" href="$d2/d00/classAirspyHFInput.html#a209512bf2df40cca3e3c941e9898fea7" title="AirspyHFInput::networkManager\lFinished" alt="" coords="261,57,471,98"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="260,123,472,149"/>
+<area shape="rect" id="node9" href="$d2/d00/classAirspyHFInput.html#a58a8dd3f0ab3dca83d9dc5f6a0272b60" title="AirspyHFInput::stop" alt="" coords="297,177,435,204"/>
+<area shape="rect" id="node5" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="525,17,697,58"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="532,82,689,123"/>
+<area shape="rect" id="node8" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="527,147,694,189"/>
+<area shape="rect" id="node6" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="749,89,928,116"/>
+<area shape="rect" id="node10" href="$d5/d73/classAirspyHFThread.html#acc87e0534a09f1271c3b089af897be5c" title="AirspyHFThread::stopWork" alt="" coords="520,213,701,240"/>
+</map>

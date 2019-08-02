@@ -1,0 +1,8 @@
+<map id="GLScopeGUI::changeCurrentTrace" name="GLScopeGUI::changeCurrentTrace">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#a631c04320a943e30a2784630333bc728" title="ScopeVis::changeTrace" alt="" coords="257,107,419,134"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a0f15228ae7fb3a6c496436aaa44d509b" title="GLScopeGUI::fillTraceData" alt="" coords="247,162,429,189"/>
+<area shape="rect" id="node3" href="$dc/db9/classScopeVis_1_1MsgScopeVisNGChangeTrace.html#af1599a7d1434f12bbe96198062bc70b3" title="ScopeVis::MsgScopeVisNGChange\lTrace::create" alt="" coords="477,5,709,47"/>
+<area shape="rect" id="node4" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="509,71,677,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="519,137,668,163"/>
+<area shape="rect" id="node7" href="$df/dbc/structScopeVis_1_1TraceData.html#abf33b26a525333356eba9196114c3338" title="ScopeVis::TraceData\l::setColor" alt="" coords="520,188,667,229"/>
+</map>

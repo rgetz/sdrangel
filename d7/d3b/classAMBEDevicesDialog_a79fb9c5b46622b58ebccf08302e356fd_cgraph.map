@@ -1,0 +1,12 @@
+<map id="AMBEDevicesDialog::AMBEDevicesDialog" name="AMBEDevicesDialog::AMBEDevicesDialog">
+<area shape="rect" id="node2" href="$d7/d3b/classAMBEDevicesDialog.html#aed722908a0c65679d7f86d18af00dee2" title="AMBEDevicesDialog::\lpopulateSerialList" alt="" coords="207,88,360,129"/>
+<area shape="rect" id="node10" href="$d7/d3b/classAMBEDevicesDialog.html#ad4efdcefe506e3aae087d3bbc75c1dfc" title="AMBEDevicesDialog::\lrefreshInUseList" alt="" coords="207,153,360,195"/>
+<area shape="rect" id="node3" href="$d3/d84/classAMBEEngine.html#ac8d5267bee5234d48191909976c40247" title="AMBEEngine::scan" alt="" coords="437,95,573,122"/>
+<area shape="rect" id="node4" href="$d3/d84/classAMBEEngine.html#a24876f3c438c10eef5bea41e740b812a" title="AMBEEngine::getComList" alt="" coords="651,45,825,71"/>
+<area shape="rect" id="node8" href="$d0/d9e/classAMBEWorker.html#aab393e37af61bfd0a3e5ea8fe6647c0b" title="Either serial device or ip:port. " alt="" coords="669,95,807,122"/>
+<area shape="rect" id="node9" href="$d0/d9e/classAMBEWorker.html#a08fd1800f29a3c1ca8bb06152f072b5e" title="AMBEWorker::close" alt="" coords="667,146,809,173"/>
+<area shape="rect" id="node5" href="$d3/d84/classAMBEEngine.html#a0dd94239b158c90dd7955d6bfc2dad0a" title="AMBEEngine::register\l_comport" alt="" coords="901,5,1052,47"/>
+<area shape="rect" id="node7" href="$d3/d84/classAMBEEngine.html#a7f9fdd61c72eba9ddbac693673396906" title="AMBEEngine::probe_serial8250\l_comports" alt="" coords="873,71,1080,112"/>
+<area shape="rect" id="node6" href="$d3/d84/classAMBEEngine.html#a493accef97eac04df24ac085b882db36" title="AMBEEngine::get_driver" alt="" coords="1128,13,1293,39"/>
+<area shape="rect" id="node11" href="$d3/d84/classAMBEEngine.html#ab2a653844025de4e7f7fdc628fa9c1ad" title="reference of the devices used (device path or url) " alt="" coords="408,161,603,187"/>
+</map>

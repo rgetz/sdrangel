@@ -1,0 +1,5 @@
+<map id="RemoteDataReadQueue::convertDataToSample" name="RemoteDataReadQueue::convertDataToSample">
+<area shape="rect" id="node2" href="$d3/d1f/classRemoteDataReadQueue.html#ae3485c1b83f86001e5bf7ef980119458" title="Read sample from queue possibly scaling to Tx size. " alt="" coords="219,5,384,47"/>
+<area shape="rect" id="node3" href="$de/dd9/classRemoteSource.html#af266ba166e53a63cdc4b7f49ca8c3061" title="RemoteSource::pull" alt="" coords="432,13,569,39"/>
+<area shape="rect" id="node4" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="617,13,777,39"/>
+</map>

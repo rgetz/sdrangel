@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGLimeSdrInputSettings::setExtClockFreq" name="SWGSDRangel::SWGLimeSdrInputSettings::setExtClockFreq">
+<area shape="rect" id="node2" href="$df/d1b/classLimeSDRInput.html#ab2f7641c3c5eceb66c59c6f55319d2ab" title="LimeSDRInput::webapiFormat\lDeviceSettings" alt="" coords="539,57,737,98"/>
+<area shape="rect" id="node6" href="$df/d1b/classLimeSDRInput.html#a748b8cbd612f4fdc5ee9c2d60d3510f3" title="LimeSDRInput::webapiReverse\lSendSettings" alt="" coords="284,141,491,182"/>
+<area shape="rect" id="node3" href="$df/d1b/classLimeSDRInput.html#ad2a5c8603b901344836045746f93492a" title="LimeSDRInput::webapiSettingsGet" alt="" coords="785,5,1012,32"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#a144e0e831e693ee66455817c8c590c20" title="LimeSDRInput::webapiSettings\lPutPatch" alt="" coords="796,57,1001,98"/>
+<area shape="rect" id="node4" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="1060,64,1267,91"/>
+<area shape="rect" id="node7" href="$df/d1b/classLimeSDRInput.html#aa7ed54a39044881adbfdc15391b12754" title="LimeSDRInput::applySettings" alt="" coords="541,148,735,175"/>
+<area shape="rect" id="node8" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="795,123,1002,149"/>
+<area shape="rect" id="node9" href="$df/d1b/classLimeSDRInput.html#a8b151e62b476bc7af1c1b821ab41b3be" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="832,173,965,200"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html#a40c84d8ccb4a4de2b3e6c38025a32871" title="LimeSDRInput::start" alt="" coords="827,224,970,251"/>
+<area shape="rect" id="node10" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="1065,191,1261,233"/>
+</map>

@@ -1,0 +1,160 @@
+<map id="Serializable::serialize" name="Serializable::serialize">
+<area shape="rect" id="node2" href="$de/d03/classChannelMarker.html#a7fe0fab4acb5d29dc8732a66c1398e13" title="ChannelMarker::getStream\lIndex" alt="" coords="209,49,388,90"/>
+<area shape="rect" id="node5" href="$d7/d91/structLoRaDemodSettings.html#a880ddbdb0077b08b08749db707bf65f8" title="LoRaDemodSettings::\lserialize" alt="" coords="223,179,374,221"/>
+<area shape="rect" id="node13" href="$df/d8b/structWFMDemodSettings.html#ad4142065d99933daa7c601637f34d427" title="WFMDemodSettings::serialize" alt="" coords="199,355,399,381"/>
+<area shape="rect" id="node22" href="$d3/d71/structBFMDemodSettings.html#a46ea2d18088d84cd3cc8cf9074d13077" title="BFMDemodSettings::serialize" alt="" coords="201,519,397,545"/>
+<area shape="rect" id="node30" href="$d3/df7/structAMDemodSettings.html#a55a1373e8cb0c5545b9ebe86e3a1a43d" title="AMDemodSettings::serialize" alt="" coords="205,675,393,701"/>
+<area shape="rect" id="node39" href="$d7/d3b/structNFMDemodSettings.html#a2c3b31321981d3a4d1b36802b187b449" title="NFMDemodSettings::serialize" alt="" coords="200,843,397,869"/>
+<area shape="rect" id="node48" href="$d5/d5c/structSSBDemodSettings.html#a70ac2cbd0a35501af6043c8d2e641464" title="SSBDemodSettings::serialize" alt="" coords="201,1007,396,1033"/>
+<area shape="rect" id="node57" href="$da/dcd/structChannelAnalyzerSettings.html#aef92e73545425fd7cccca0402c433c4e" title="ChannelAnalyzerSettings\l::serialize" alt="" coords="214,1149,383,1190"/>
+<area shape="rect" id="node63" href="$d5/d56/structFreqTrackerSettings.html#a7e62a3c14dc833123c19b5307e492f10" title="FreqTrackerSettings\l::serialize" alt="" coords="229,1287,369,1329"/>
+<area shape="rect" id="node72" href="$df/d89/structFreeDVDemodSettings.html#a11e1ca05ca75987880c5d20d22b1dda2" title="FreeDVDemodSettings\l::serialize" alt="" coords="220,1455,377,1497"/>
+<area shape="rect" id="node81" href="$d7/d57/structDSDDemodSettings.html#ae802ba4b0635122fe0ec001d18c8ca4e" title="DSDDemodSettings::serialize" alt="" coords="200,1627,397,1653"/>
+<area shape="rect" id="node86" href="$df/db9/structAMModSettings.html#a7d5b6864455a36679f1ea89f591b89cd" title="AMModSettings::serialize" alt="" coords="213,1728,384,1755"/>
+<area shape="rect" id="node95" href="$df/dcc/structWFMModSettings.html#aef06a021b92ce9e6cb822c22ff438961" title="WFMModSettings::serialize" alt="" coords="207,1880,390,1907"/>
+<area shape="rect" id="node104" href="$db/dc4/structNFMModSettings.html#a5f762d1bc529dcfaf19bd42fca9ca853" title="NFMModSettings::serialize" alt="" coords="209,2032,389,2059"/>
+<area shape="rect" id="node113" href="$da/daa/structUDPSourceSettings.html#a6ea8ddc21b66a868367e9073b456bade" title="UDPSourceSettings::\lserialize" alt="" coords="225,2177,373,2218"/>
+<area shape="rect" id="node118" href="$dc/d1f/structFreeDVModSettings.html#aa45c15d9a0c48733d8bc7379c2a377b4" title="FreeDVModSettings::\lserialize" alt="" coords="225,2345,373,2386"/>
+<area shape="rect" id="node127" href="$d4/d8d/structSSBModSettings.html#aefe2db9a8a88504b0b64a6d185de9837" title="SSBModSettings::serialize" alt="" coords="209,2520,388,2547"/>
+<area shape="rect" id="node136" href="$db/d3d/structUDPSinkSettings.html#a3ba11d0b43c323b571725b7bdf661f9f" title="UDPSinkSettings::serialize" alt="" coords="208,2672,389,2699"/>
+<area shape="rect" id="node145" href="$d9/d3b/structATVModSettings.html#a3faaa7d5eebd792ef71505a6d270c9e0" title="ATVModSettings::serialize" alt="" coords="210,2815,387,2841"/>
+<area shape="rect" id="node154" href="$d1/dce/structATVDemodSettings.html#a016ae59f18178f28f00ce5885becbea0" title="ATVDemodSettings::serialize" alt="" coords="201,2896,396,2923"/>
+<area shape="rect" id="node156" href="$d1/d4d/structDATVDemodSettings.html#a53f8f089418bb86fbc6a979bc0714bbd" title="DATVDemodSettings::\lserialize" alt="" coords="221,3009,377,3050"/>
+<area shape="rect" id="node159" href="$d6/dcb/classSerializable.html#ad52cc2c51dcd678990321ff70993c4eb" title="Serializable::~Serializable" alt="" coords="213,3075,385,3101"/>
+<area shape="rect" id="node3" href="$d6/dab/classGLSpectrum.html#a6f4bacf0e1756d0afc804c9b09dd391e" title="GLSpectrum::applyChanges" alt="" coords="477,5,663,32"/>
+<area shape="rect" id="node4" href="$d6/dab/classGLSpectrum.html#a5f9a30e564c715a23c17138b3376f37e" title="GLSpectrum::paintGL" alt="" coords="793,31,941,57"/>
+<area shape="rect" id="node6" href="$d6/d57/classLoRaDemodGUI.html#acfac5527e56073e9f8bfe6e332a44fb9" title="LoRaDemodGUI::serialize" alt="" coords="483,107,657,133"/>
+<area shape="rect" id="node7" href="$d7/d10/classLoRaDemod.html#a3b37a642266a8c22751d3ae8b362772d" title="LoRaDemod::serialize" alt="" coords="495,157,645,184"/>
+<area shape="rect" id="node9" href="$d7/d91/structLoRaDemodSettings.html#a834a0b38fff9a9951d8462474dd6410f" title="LoRaDemodSettings::\lsetSpectrumGUI" alt="" coords="495,209,645,250"/>
+<area shape="rect" id="node8" href="$d7/d10/classLoRaDemod.html#a772b3732455809f1ac569e0f50b0dc9a" title="Applies to a default stream. " alt="" coords="757,157,978,184"/>
+<area shape="rect" id="node10" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="755,216,979,243"/>
+<area shape="rect" id="node11" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="1049,216,1211,243"/>
+<area shape="rect" id="node12" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1282,216,1505,243"/>
+<area shape="rect" id="node14" href="$d3/dbd/classWFMDemod.html#aa1e7eca874fea96d22bf9e2b329385b4" title="WFMDemod::serialize" alt="" coords="494,275,646,301"/>
+<area shape="rect" id="node16" href="$dd/d7d/classWFMDemodGUI.html#a261de17dfa0c310bfc02f5e62bf9bc45" title="WFMDemodGUI::serialize" alt="" coords="482,325,658,352"/>
+<area shape="rect" id="node17" href="$df/d8b/structWFMDemodSettings.html#a9f1c4262f82378c63a3f59d8094f5952" title="WFMDemodSettings::setChannel\lMarker" alt="" coords="461,377,679,418"/>
+<area shape="rect" id="node15" href="$d3/dbd/classWFMDemod.html#abfe9e10a709dee8cb0c4b5ef315e708f" title="Applies to a default stream. " alt="" coords="756,275,979,301"/>
+<area shape="rect" id="node18" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="754,384,981,411"/>
+<area shape="rect" id="node19" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1048,384,1212,411"/>
+<area shape="rect" id="node20" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1282,384,1505,411"/>
+<area shape="rect" id="node21" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="1587,384,1738,411"/>
+<area shape="rect" id="node23" href="$d3/df8/classBFMDemodGUI.html#ab2c3792db204c33d0f9868d5feec4b34" title="BFMDemodGUI::serialize" alt="" coords="484,443,656,469"/>
+<area shape="rect" id="node24" href="$d4/dd5/classBFMDemod.html#a4670bcb1f0ce1e7be273ceba1628d4d8" title="BFMDemod::serialize" alt="" coords="496,493,644,520"/>
+<area shape="rect" id="node25" href="$d3/d71/structBFMDemodSettings.html#a3696b3c625c8ca863f3bfc0039d4e56c" title="BFMDemodSettings::setSpectrumGUI" alt="" coords="447,544,693,571"/>
+<area shape="rect" id="node26" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="758,544,977,571"/>
+<area shape="rect" id="node27" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1050,544,1210,571"/>
+<area shape="rect" id="node28" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1284,544,1503,571"/>
+<area shape="rect" id="node29" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1589,544,1736,571"/>
+<area shape="rect" id="node31" href="$dd/d2d/classAMDemodGUI.html#a152e9d1f48c129c7312aa481237cb3bb" title="AMDemodGUI::serialize" alt="" coords="488,595,652,621"/>
+<area shape="rect" id="node32" href="$d9/df0/classAMDemod.html#a6dc4e15908dd4157c63c41e2415a39e7" title="AMDemod::serialize" alt="" coords="500,645,640,672"/>
+<area shape="rect" id="node34" href="$d3/df7/structAMDemodSettings.html#a84768dc60fefd97664e60bc3dcfe69b3" title="AMDemodSettings::setChannel\lMarker" alt="" coords="467,697,673,738"/>
+<area shape="rect" id="node33" href="$d9/df0/classAMDemod.html#a38a7415744526568148e3e63da466d31" title="Applies to a default stream. " alt="" coords="762,645,973,672"/>
+<area shape="rect" id="node35" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="766,704,969,731"/>
+<area shape="rect" id="node36" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="1054,704,1206,731"/>
+<area shape="rect" id="node37" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1267,704,1520,731"/>
+<area shape="rect" id="node38" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1572,704,1753,731"/>
+<area shape="rect" id="node40" href="$d3/d95/classNFMDemodGUI.html#a6970c3124a857a4b463c6048744d85ac" title="NFMDemodGUI::serialize" alt="" coords="483,763,657,789"/>
+<area shape="rect" id="node41" href="$df/ddf/classNFMDemod.html#a7e0286ada470db5ba9555db8a76b8375" title="NFMDemod::serialize" alt="" coords="495,813,645,840"/>
+<area shape="rect" id="node43" href="$d7/d3b/structNFMDemodSettings.html#ae22f072cefbada27c14306d6fcfb925f" title="NFMDemodSettings::setChannel\lMarker" alt="" coords="463,865,677,906"/>
+<area shape="rect" id="node42" href="$df/ddf/classNFMDemod.html#ac4b72c123efd689a0e24f9880a4fae32" title="Applies to a default stream. " alt="" coords="758,813,977,840"/>
+<area shape="rect" id="node44" href="$d3/d95/classNFMDemodGUI.html#a6c3832ae9989675c2343a580bd3bdf7e" title="NFMDemodGUI::NFMDemodGUI" alt="" coords="757,872,977,899"/>
+<area shape="rect" id="node45" href="$d3/d95/classNFMDemodGUI.html#af49e6c079fb7a1e49ebb6662c6a6ef95" title="NFMDemodGUI::create" alt="" coords="1049,872,1211,899"/>
+<area shape="rect" id="node46" href="$d8/d38/classNFMPlugin.html#a1c5b954f9a47c0bce00a111ac9300b32" title="NFMPlugin::createRxChannelGUI" alt="" coords="1283,872,1503,899"/>
+<area shape="rect" id="node47" href="$d8/d38/classNFMPlugin.html#a536ce48243ba9169a2ed880db0d341ad" title="NFMPlugin::initPlugin" alt="" coords="1589,872,1737,899"/>
+<area shape="rect" id="node49" href="$d6/d4d/classSSBDemod.html#a7e06531c705c9ebc8d27719af3ac8e99" title="SSBDemod::serialize" alt="" coords="497,931,643,957"/>
+<area shape="rect" id="node51" href="$d4/d5b/classSSBDemodGUI.html#a924cf6ed88aecf1cf9e88220c03ebfbd" title="SSBDemodGUI::serialize" alt="" coords="485,981,655,1008"/>
+<area shape="rect" id="node52" href="$d5/d5c/structSSBDemodSettings.html#aff33eee566aaa42b3b5317f04fe0337a" title="SSBDemodSettings::setSpectrumGUI" alt="" coords="447,1032,693,1059"/>
+<area shape="rect" id="node50" href="$d6/d4d/classSSBDemod.html#abd95122ab2c3906468d9428ea8a95d71" title="Applies to a default stream. " alt="" coords="759,931,976,957"/>
+<area shape="rect" id="node53" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="759,1032,975,1059"/>
+<area shape="rect" id="node54" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1051,1032,1209,1059"/>
+<area shape="rect" id="node55" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1284,1032,1503,1059"/>
+<area shape="rect" id="node56" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1589,1032,1736,1059"/>
+<area shape="rect" id="node58" href="$da/d16/classChannelAnalyzerGUI.html#a8d26b2f6aeb2db56e39e8592133b7119" title="ChannelAnalyzerGUI\l::serialize" alt="" coords="497,1083,643,1125"/>
+<area shape="rect" id="node59" href="$da/dcd/structChannelAnalyzerSettings.html#a7245d2528a94b2d98371285e29f25912" title="ChannelAnalyzerSettings\l::setScopeGUI" alt="" coords="485,1149,655,1190"/>
+<area shape="rect" id="node60" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="791,1149,944,1190"/>
+<area shape="rect" id="node61" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="1057,1149,1203,1190"/>
+<area shape="rect" id="node62" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1315,1149,1472,1190"/>
+<area shape="rect" id="node64" href="$d1/d46/classFreqTrackerGUI.html#a5a5f3529bfa04b3449fd3ad8c1d270ac" title="FreqTrackerGUI::serialize" alt="" coords="484,1215,656,1241"/>
+<area shape="rect" id="node65" href="$da/d2e/classFreqTracker.html#a13342666a4e1170da279aa722415e574" title="FreqTracker::serialize" alt="" coords="496,1265,644,1292"/>
+<area shape="rect" id="node67" href="$d5/d56/structFreqTrackerSettings.html#ad41a6b0faa850e57311e07caaf38a4cd" title="FreqTrackerSettings\l::setChannelMarker" alt="" coords="500,1317,640,1358"/>
+<area shape="rect" id="node66" href="$da/d2e/classFreqTracker.html#ae25fa137b11b09022b5738e637c6168a" title="Applies to a default stream. " alt="" coords="758,1265,977,1292"/>
+<area shape="rect" id="node68" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="758,1324,977,1351"/>
+<area shape="rect" id="node69" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1050,1324,1210,1351"/>
+<area shape="rect" id="node70" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1320,1317,1467,1358"/>
+<area shape="rect" id="node71" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1595,1317,1731,1358"/>
+<area shape="rect" id="node73" href="$da/d3d/classFreeDVDemodGUI.html#a3d54a62334f0ff70e170ce12694575df" title="FreeDVDemodGUI::serialize" alt="" coords="475,1383,665,1409"/>
+<area shape="rect" id="node74" href="$de/de0/classFreeDVDemod.html#a7f97a0c9f49b91cf5ecd3774b750c103" title="FreeDVDemod::serialize" alt="" coords="487,1433,653,1460"/>
+<area shape="rect" id="node76" href="$df/d89/structFreeDVDemodSettings.html#a1abb0172ead2b8ca4ecfdacc6cfd3fa3" title="FreeDVDemodSettings\l::setSpectrumGUI" alt="" coords="491,1485,649,1526"/>
+<area shape="rect" id="node75" href="$de/de0/classFreeDVDemod.html#a8979ebfb845fefe52d1cd40a5bfbf2e2" title="Applies to a default stream. " alt="" coords="750,1433,985,1460"/>
+<area shape="rect" id="node77" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="741,1492,993,1519"/>
+<area shape="rect" id="node78" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1041,1492,1219,1519"/>
+<area shape="rect" id="node79" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1275,1492,1511,1519"/>
+<area shape="rect" id="node80" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1581,1492,1745,1519"/>
+<area shape="rect" id="node82" href="$d8/d46/classDSDDemodGUI.html#aacc4852ca06bd7ce11c093678d0ca4cb" title="DSDDemodGUI::serialize" alt="" coords="483,1551,657,1577"/>
+<area shape="rect" id="node83" href="$d6/d40/classDSDDemod.html#a7a634c7a4812e55e50d42721e3d403ec" title="DSDDemod::serialize" alt="" coords="495,1601,645,1628"/>
+<area shape="rect" id="node85" href="$d7/d57/structDSDDemodSettings.html#a5d93719e4b1a495296d2a2f02d9f83f4" title="DSDDemodSettings::setScopeGUI" alt="" coords="456,1652,684,1679"/>
+<area shape="rect" id="node84" href="$d6/d40/classDSDDemod.html#ab87b670eb73199a2cff085ee59927828" title="Applies to a default stream. " alt="" coords="758,1601,977,1628"/>
+<area shape="rect" id="node87" href="$d8/d1b/classAMModGUI.html#ab0747f508dbe111887e868543a852ea6" title="AMModGUI::serialize" alt="" coords="497,1703,643,1729"/>
+<area shape="rect" id="node88" href="$db/d93/classAMMod.html#ad5d90f07d5ce1ef1315bfe32a3fca0f5" title="AMMod::serialize" alt="" coords="509,1753,631,1780"/>
+<area shape="rect" id="node90" href="$df/db9/structAMModSettings.html#a000e9ae91285a9f0b92dc4d77fab8883" title="AMModSettings::setCWKeyerGUI" alt="" coords="459,1804,681,1831"/>
+<area shape="rect" id="node89" href="$db/d93/classAMMod.html#a573d7af1d5f467ac6f97f96eda2b6260" title="Applies to a default stream. " alt="" coords="771,1753,964,1780"/>
+<area shape="rect" id="node91" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="783,1804,951,1831"/>
+<area shape="rect" id="node92" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="1063,1804,1197,1831"/>
+<area shape="rect" id="node93" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="1276,1804,1511,1831"/>
+<area shape="rect" id="node94" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1581,1804,1745,1831"/>
+<area shape="rect" id="node96" href="$d6/de3/classWFMMod.html#ab72a1e8cf526a2ce7affb799b404b5f6" title="WFMMod::serialize" alt="" coords="503,1855,637,1881"/>
+<area shape="rect" id="node98" href="$d0/d42/classWFMModGUI.html#abcfd5af41cd8769dbcf1395890b543a8" title="WFMModGUI::serialize" alt="" coords="491,1905,649,1932"/>
+<area shape="rect" id="node99" href="$df/dcc/structWFMModSettings.html#a83601f26dfa21b296379807539bfc706" title="WFMModSettings::setCWKeyerGUI" alt="" coords="453,1956,687,1983"/>
+<area shape="rect" id="node97" href="$d6/de3/classWFMMod.html#ab34b298c08dee2ed10fa5bf9e77ae6d7" title="Applies to a default stream. " alt="" coords="765,1855,970,1881"/>
+<area shape="rect" id="node100" href="$d0/d42/classWFMModGUI.html#abc1276ad7c1c5241dd16fe53d452c6e0" title="WFMModGUI::WFMModGUI" alt="" coords="771,1956,963,1983"/>
+<area shape="rect" id="node101" href="$d0/d42/classWFMModGUI.html#afc9733df91425eb841e54136adc68076" title="WFMModGUI::create" alt="" coords="1057,1956,1203,1983"/>
+<area shape="rect" id="node102" href="$d2/d9a/classWFMModPlugin.html#af952471df9facda2c9d5b0f79888cdc6" title="WFMModPlugin::createTxChannelGUI" alt="" coords="1270,1956,1517,1983"/>
+<area shape="rect" id="node103" href="$d2/d9a/classWFMModPlugin.html#ac39779f1604a7e1ccd4ca2a960ca48b6" title="WFMModPlugin::initPlugin" alt="" coords="1575,1956,1751,1983"/>
+<area shape="rect" id="node105" href="$df/d1f/classNFMModGUI.html#a8c19a7425dd26176e991a1e45e6b0c8a" title="NFMModGUI::serialize" alt="" coords="492,2007,648,2033"/>
+<area shape="rect" id="node106" href="$de/df8/classNFMMod.html#aad182a1657ade659df41feacf9b0b882" title="NFMMod::serialize" alt="" coords="504,2057,636,2084"/>
+<area shape="rect" id="node108" href="$db/dc4/structNFMModSettings.html#aef07f4edc48ad79d861a2285d5731536" title="NFMModSettings::setCWKeyerGUI" alt="" coords="455,2108,685,2135"/>
+<area shape="rect" id="node107" href="$de/df8/classNFMMod.html#a22e9b7134f03368fa407b022b6c3845c" title="Applies to a default stream. " alt="" coords="766,2057,969,2084"/>
+<area shape="rect" id="node109" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="774,2108,961,2135"/>
+<area shape="rect" id="node110" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="1058,2108,1202,2135"/>
+<area shape="rect" id="node111" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1272,2108,1515,2135"/>
+<area shape="rect" id="node112" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1576,2108,1749,2135"/>
+<area shape="rect" id="node114" href="$de/da4/classUDPSource.html#a7666aaaa514d608f256d5b85cc2f5b36" title="UDPSource::serialize" alt="" coords="496,2159,644,2185"/>
+<area shape="rect" id="node116" href="$d5/d9e/classUDPSourceGUI.html#a480c1a591d27f046fa5d636dc76ad21a" title="UDPSourceGUI::serialize" alt="" coords="484,2209,656,2236"/>
+<area shape="rect" id="node117" href="$da/daa/structUDPSourceSettings.html#aeedebeac647e208d66c86a610a131691" title="UDPSourceSettings::\lsetSpectrumGUI" alt="" coords="496,2261,644,2302"/>
+<area shape="rect" id="node115" href="$de/da4/classUDPSource.html#aab6aba50980ca82a0fabfca62327fd0c" title="Applies to a default stream. " alt="" coords="758,2159,977,2185"/>
+<area shape="rect" id="node119" href="$de/d8e/classFreeDVModGUI.html#adcfefc39ebc6d510afb946a9610c75f0" title="FreeDVModGUI::serialize" alt="" coords="484,2327,656,2353"/>
+<area shape="rect" id="node120" href="$d6/da5/classFreeDVMod.html#aeab1282a06a6560d9be2e19468f80652" title="FreeDVMod::serialize" alt="" coords="496,2377,644,2404"/>
+<area shape="rect" id="node122" href="$dc/d1f/structFreeDVModSettings.html#a0d5b538cd40eb38a11b323cbc582b159" title="FreeDVModSettings::\lsetCWKeyerGUI" alt="" coords="496,2429,644,2470"/>
+<area shape="rect" id="node121" href="$d6/da5/classFreeDVMod.html#a69bdbab2a59c98c382b38140ab3f87ef" title="Applies to a default stream. " alt="" coords="758,2377,977,2404"/>
+<area shape="rect" id="node123" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="758,2436,977,2463"/>
+<area shape="rect" id="node124" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1050,2436,1210,2463"/>
+<area shape="rect" id="node125" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1300,2429,1487,2470"/>
+<area shape="rect" id="node126" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="1568,2436,1757,2463"/>
+<area shape="rect" id="node128" href="$dc/d8d/classSSBMod.html#abbd8d4219a600ab44abdcf5ca408ea43" title="SSBMod::serialize" alt="" coords="505,2495,635,2521"/>
+<area shape="rect" id="node130" href="$db/d2a/classSSBModGUI.html#a9ca86bcec74e3fd2c2888f3fb784fac4" title="SSBModGUI::serialize" alt="" coords="493,2545,647,2572"/>
+<area shape="rect" id="node131" href="$d4/d8d/structSSBModSettings.html#a8d1d65b966e555ae8e9ddcbf5a69392c" title="SSBModSettings::setCWKeyerGUI" alt="" coords="455,2596,685,2623"/>
+<area shape="rect" id="node129" href="$dc/d8d/classSSBMod.html#a03352f590a124f1f6df9e1009edaad0e" title="Applies to a default stream. " alt="" coords="767,2495,967,2521"/>
+<area shape="rect" id="node132" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="776,2596,959,2623"/>
+<area shape="rect" id="node133" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1059,2596,1201,2623"/>
+<area shape="rect" id="node134" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1273,2596,1514,2623"/>
+<area shape="rect" id="node135" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1577,2596,1748,2623"/>
+<area shape="rect" id="node137" href="$d2/d3d/classUDPSink.html#aeacda018506b9f9f16368f8701b5045d" title="UDPSink::serialize" alt="" coords="503,2647,637,2673"/>
+<area shape="rect" id="node139" href="$d2/d38/classUDPSinkGUI.html#a82fcf550f9cb6b94702b6934af39a8f9" title="UDPSinkGUI::serialize" alt="" coords="491,2697,649,2724"/>
+<area shape="rect" id="node140" href="$db/d3d/structUDPSinkSettings.html#a573923442819aeabc06bfa144b8a349e" title="UDPSinkSettings::setSpectrumGUI" alt="" coords="455,2748,685,2775"/>
+<area shape="rect" id="node138" href="$d2/d3d/classUDPSink.html#ac98db0e4796b0010aa2d724c86119d1e" title="Applies to a default stream. " alt="" coords="766,2647,969,2673"/>
+<area shape="rect" id="node141" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="773,2748,961,2775"/>
+<area shape="rect" id="node142" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1057,2748,1203,2775"/>
+<area shape="rect" id="node143" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1270,2748,1517,2775"/>
+<area shape="rect" id="node144" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1575,2748,1750,2775"/>
+<area shape="rect" id="node146" href="$da/d7c/classATVModGUI.html#ae21f1fb0bcd217bde50e5b93ebb398e0" title="ATVModGUI::serialize" alt="" coords="493,2799,647,2825"/>
+<area shape="rect" id="node147" href="$d2/d69/classATVMod.html#a85b2b97e420ffa23750193beac77c2da" title="ATVMod::serialize" alt="" coords="505,2849,635,2876"/>
+<area shape="rect" id="node149" href="$d9/d3b/structATVModSettings.html#a829ee7130d4786d0668e09069acecb54" title="ATVModSettings::setChannel\lMarker" alt="" coords="473,2901,667,2942"/>
+<area shape="rect" id="node148" href="$d2/d69/classATVMod.html#af13ab6ef501946b37f41e9579c6e9491" title="Applies to a default stream. " alt="" coords="768,2849,967,2876"/>
+<area shape="rect" id="node150" href="$da/d7c/classATVModGUI.html#aa80ea452eceea2be8fbf7c053bc379d2" title="ATVModGUI::ATVModGUI" alt="" coords="777,2908,957,2935"/>
+<area shape="rect" id="node151" href="$da/d7c/classATVModGUI.html#acc137c14b5c145becb2951788aa55fdb" title="ATVModGUI::create" alt="" coords="1059,2908,1201,2935"/>
+<area shape="rect" id="node152" href="$d8/d6e/classATVModPlugin.html#a7357a4f5cfb9fd5dea8ee9cd8119ec1d" title="ATVModPlugin::createTxChannelGUI" alt="" coords="1273,2908,1513,2935"/>
+<area shape="rect" id="node153" href="$d8/d6e/classATVModPlugin.html#af24b49c750459e0b504133cea6910b93" title="ATVModPlugin::initPlugin" alt="" coords="1577,2908,1748,2935"/>
+<area shape="rect" id="node155" href="$d1/dce/structATVDemodSettings.html#a90bd352299eec20c23fb1285ecaf2016" title="ATVDemodSettings::setChannel\lMarker" alt="" coords="464,2966,676,3007"/>
+<area shape="rect" id="node157" href="$d7/d6a/classDATVDemodGUI.html#acb47b2ac6d29f8582619d82a7f84506f" title="DATVDemodGUI::serialize" alt="" coords="480,3032,660,3059"/>
+<area shape="rect" id="node158" href="$d1/d4d/structDATVDemodSettings.html#add7dd56e6464ef83352cf88b90448612" title="DATVDemodSettings::\lsetChannelMarker" alt="" coords="492,3083,648,3125"/>
+</map>

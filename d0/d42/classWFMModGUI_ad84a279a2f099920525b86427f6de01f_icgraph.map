@@ -1,0 +1,10 @@
+<map id="WFMModGUI::displaySettings" name="WFMModGUI::displaySettings">
+<area shape="rect" id="node2" href="$d0/d42/classWFMModGUI.html#a3fe09dae83547e6c6f5a0d718702015a" title="WFMModGUI::deserialize" alt="" coords="544,5,717,32"/>
+<area shape="rect" id="node3" href="$d0/d42/classWFMModGUI.html#a5b87cedc6caa9a1caf50822df15f9560" title="WFMModGUI::handleMessage" alt="" coords="254,81,457,108"/>
+<area shape="rect" id="node5" href="$d0/d42/classWFMModGUI.html#abc1276ad7c1c5241dd16fe53d452c6e0" title="WFMModGUI::WFMModGUI" alt="" coords="804,107,996,133"/>
+<area shape="rect" id="node9" href="$d0/d42/classWFMModGUI.html#aa0c4955eb3ad60a6ccbcaf84f5cdb8d6" title="WFMModGUI::resetToDefaults" alt="" coords="253,31,457,57"/>
+<area shape="rect" id="node4" href="$d0/d42/classWFMModGUI.html#af56ff65dd0596544f5c981453afcb960" title="WFMModGUI::handleSourceMessages" alt="" coords="505,81,756,108"/>
+<area shape="rect" id="node6" href="$d0/d42/classWFMModGUI.html#afc9733df91425eb841e54136adc68076" title="WFMModGUI::create" alt="" coords="1044,107,1191,133"/>
+<area shape="rect" id="node7" href="$d2/d9a/classWFMModPlugin.html#af952471df9facda2c9d5b0f79888cdc6" title="WFMModPlugin::createTxChannelGUI" alt="" coords="1239,107,1485,133"/>
+<area shape="rect" id="node8" href="$d2/d9a/classWFMModPlugin.html#ac39779f1604a7e1ccd4ca2a960ca48b6" title="WFMModPlugin::initPlugin" alt="" coords="1533,107,1709,133"/>
+</map>

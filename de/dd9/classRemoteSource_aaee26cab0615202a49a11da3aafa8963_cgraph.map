@@ -1,0 +1,9 @@
+<map id="RemoteSource::start" name="RemoteSource::start">
+<area shape="rect" id="node2" href="$df/d64/classRemoteSourceThread.html#af43dd49b16b9c45d3ebc0f03ab0287a0" title="RemoteSourceThread\l::dataBind" alt="" coords="196,39,345,80"/>
+<area shape="rect" id="node5" href="$df/d64/classRemoteSourceThread.html#a93bc465fd52ac88e0009a8092b6f4e75" title="RemoteSourceThread\l::startStop" alt="" coords="395,123,545,164"/>
+<area shape="rect" id="node8" href="$de/dd9/classRemoteSource.html#a55dcbd04877ab8b69454a58385b25ac2" title="RemoteSource::stop" alt="" coords="199,155,342,182"/>
+<area shape="rect" id="node3" href="$d4/d4f/classRemoteSourceThread_1_1MsgDataBind.html#a5de4d0a5f2fcb704c34bb6d86bc4dce0" title="RemoteSourceThread\l::MsgDataBind::create" alt="" coords="393,5,547,47"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="597,71,747,98"/>
+<area shape="rect" id="node6" href="$d7/d77/classRemoteSourceThread_1_1MsgStartStop.html#a120529493154c95b33a5c32d8d2e92a7" title="RemoteSourceThread\l::MsgStartStop::create" alt="" coords="595,123,749,164"/>
+<area shape="rect" id="node7" href="$d7/d77/classRemoteSourceThread_1_1MsgStartStop.html#a1677b38ff8844a379a69336d1822c8a2" title="RemoteSourceThread\l::MsgStartStop::MsgStartStop" alt="" coords="797,123,996,164"/>
+</map>

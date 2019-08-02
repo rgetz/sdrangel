@@ -1,0 +1,8 @@
+<map id="XTRXOutputThread::getLog2Interpolation" name="XTRXOutputThread::getLog2Interpolation">
+<area shape="rect" id="node2" href="$dd/df0/classXTRXOutputThread.html#a123d2ae5ca377e0e24bb1ee25e1a5ca7" title="XTRXOutputThread::getNbChannels" alt="" coords="244,56,479,83"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a3f644b7abb2c8ec5ee8f5ee86e853899" title="XTRXOutput::start" alt="" coords="527,5,657,32"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#aa4b594bd46809603a5a89824488f940f" title="XTRXOutput::stop" alt="" coords="527,68,657,95"/>
+<area shape="rect" id="node4" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1167,35,1352,77"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="705,93,883,120"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="931,93,1119,120"/>
+</map>

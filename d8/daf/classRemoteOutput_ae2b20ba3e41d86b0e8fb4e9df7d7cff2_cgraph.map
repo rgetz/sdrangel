@@ -1,0 +1,21 @@
+<map id="RemoteOutput::webapiSettingsGet" name="RemoteOutput::webapiSettingsGet">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a3e2cf7fc758c10fc507ce239e51c5466" title="SWGSDRangel::SWGDeviceSettings\l::getRemoteOutputSettings" alt="" coords="569,5,812,47"/>
+<area shape="rect" id="node3" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#ac20cd8a3b172bad24ec74edcb75259d2" title="SWGSDRangel::SWGRemoteOutput\lSettings::init" alt="" coords="281,199,519,240"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae177e70a670c2c1adba7fee1aa0ea671" title="SWGSDRangel::SWGDeviceSettings\l::setRemoteOutputSettings" alt="" coords="279,264,521,305"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a162899b2a3df08efad4522cd064f1bf0" title="RemoteOutput::webapiFormat\lDeviceSettings" alt="" coords="301,463,499,504"/>
+<area shape="rect" id="node6" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a0a2fc74874b85adb4a91269cdf96c685" title="SWGSDRangel::SWGRemoteOutput\lSettings::getReverseApiAddress" alt="" coords="571,71,810,112"/>
+<area shape="rect" id="node7" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a2f233ebeb81003ec5a32cec2ee1ee70b" title="SWGSDRangel::SWGRemoteOutput\lSettings::setApiAddress" alt="" coords="571,136,810,177"/>
+<area shape="rect" id="node8" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#acbd0b42d19c5410da752682efa6bd135" title="SWGSDRangel::SWGRemoteOutput\lSettings::setApiPort" alt="" coords="571,201,810,243"/>
+<area shape="rect" id="node9" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a565e9b13ae861b3e22a5a154c8ebc993" title="SWGSDRangel::SWGRemoteOutput\lSettings::setCenterFrequency" alt="" coords="571,267,810,308"/>
+<area shape="rect" id="node10" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a21482bcc3fc015c002d3291470958aee" title="SWGSDRangel::SWGRemoteOutput\lSettings::setChannelIndex" alt="" coords="571,332,810,373"/>
+<area shape="rect" id="node11" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a59bfa202f2a9767ba172841510510889" title="SWGSDRangel::SWGRemoteOutput\lSettings::setDataAddress" alt="" coords="571,397,810,439"/>
+<area shape="rect" id="node12" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#af365c9a91ecca791ab7a4d94b6493d02" title="SWGSDRangel::SWGRemoteOutput\lSettings::setDataPort" alt="" coords="571,463,810,504"/>
+<area shape="rect" id="node13" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a4b4a20a45f88b98ab7ebbd665b4e6f67" title="SWGSDRangel::SWGRemoteOutput\lSettings::setDeviceIndex" alt="" coords="571,528,810,569"/>
+<area shape="rect" id="node14" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a0c92981654472d48a5ee4d228bdc0684" title="SWGSDRangel::SWGRemoteOutput\lSettings::setNbFecBlocks" alt="" coords="571,593,810,635"/>
+<area shape="rect" id="node15" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a2fe6c48a95a1321519673fe58de28db8" title="SWGSDRangel::SWGRemoteOutput\lSettings::setReverseApiAddress" alt="" coords="571,659,810,700"/>
+<area shape="rect" id="node16" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a6858d24ecc13969132b26d754d2f2dc9" title="SWGSDRangel::SWGRemoteOutput\lSettings::setReverseApiDeviceIndex" alt="" coords="571,724,810,765"/>
+<area shape="rect" id="node17" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a50af721924c1084a1a33421da86c9e2c" title="SWGSDRangel::SWGRemoteOutput\lSettings::setReverseApiPort" alt="" coords="571,789,810,831"/>
+<area shape="rect" id="node18" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a10ae681e4df327f80d56fb80e9dfa780" title="SWGSDRangel::SWGRemoteOutput\lSettings::setSampleRate" alt="" coords="571,855,810,896"/>
+<area shape="rect" id="node19" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#ac1baacd25113c8100cf958a6cd59d7d1" title="SWGSDRangel::SWGRemoteOutput\lSettings::setTxDelay" alt="" coords="571,920,810,961"/>
+<area shape="rect" id="node20" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#aabea81e4df63d0a1fb70db4c4e3c12dd" title="SWGSDRangel::SWGRemoteOutput\lSettings::setUseReverseApi" alt="" coords="571,985,810,1027"/>
+</map>

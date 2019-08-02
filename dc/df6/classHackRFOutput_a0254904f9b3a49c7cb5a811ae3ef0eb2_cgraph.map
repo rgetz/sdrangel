@@ -1,0 +1,8 @@
+<map id="HackRFOutput::~HackRFOutput" name="HackRFOutput::~HackRFOutput">
+<area shape="rect" id="node2" href="$dc/df6/classHackRFOutput.html#a9bb602b83826c5a2884c592fa0264d2e" title="HackRFOutput::closeDevice" alt="" coords="280,5,471,32"/>
+<area shape="rect" id="node4" href="$dc/df6/classHackRFOutput.html#a5ea219044372039d3a085995b69692cc" title="HackRFOutput::networkManager\lFinished" alt="" coords="268,57,483,98"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#a3aedc22d25fe2047b30ce24bfc394703" title="DeviceAPI::setBuddySharedPtr" alt="" coords="272,123,479,149"/>
+<area shape="rect" id="node6" href="$dc/df6/classHackRFOutput.html#af6de357ec47da81bb1a1ee09e20bf39c" title="HackRFOutput::stop" alt="" coords="304,173,447,200"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="531,5,729,32"/>
+<area shape="rect" id="node7" href="$df/d75/classHackRFOutputThread.html#ae81cd3afce9b59c12fdca89bad366c16" title="HackRFOutputThread\l::stopWork" alt="" coords="555,166,705,207"/>
+</map>

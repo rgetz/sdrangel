@@ -1,0 +1,10 @@
+<map id="WFMDemod::MsgConfigureWFMDemod::getSettings" name="WFMDemod::MsgConfigureWFMDemod::getSettings">
+<area shape="rect" id="node2" href="$dd/d7d/classWFMDemodGUI.html#a0feead05701a15b62c609d36922e184c" title="WFMDemodGUI::handleMessage" alt="" coords="312,15,531,42"/>
+<area shape="rect" id="node8" href="$d3/dbd/classWFMDemod.html#a30f6c3ca378cefc32893420aeb055bfa" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="324,67,519,94"/>
+<area shape="rect" id="node3" href="$dd/d7d/classWFMDemodGUI.html#a3009361bf5acca458a12256e0a6503ea" title="WFMDemodGUI::handleInput\lMessages" alt="" coords="579,5,773,47"/>
+<area shape="rect" id="node4" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="821,13,1048,39"/>
+<area shape="rect" id="node5" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1096,13,1260,39"/>
+<area shape="rect" id="node6" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1308,13,1531,39"/>
+<area shape="rect" id="node7" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="1579,13,1729,39"/>
+<area shape="rect" id="node9" href="$d3/dbd/classWFMDemod.html#a9b33a25f6872c716e49e50b36db3d071" title="WFMDemod::destroy" alt="" coords="603,71,749,98"/>
+</map>

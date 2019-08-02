@@ -1,0 +1,23 @@
+<map id="SDRPlayGui::sendSettings" name="SDRPlayGui::sendSettings">
+<area shape="rect" id="node2" href="$d9/d15/classSDRPlayGui.html#ab466e6103734f8e9068e510ca5349a16" title="SDRPlayGui::deserialize" alt="" coords="512,562,679,588"/>
+<area shape="rect" id="node3" href="$d9/d15/classSDRPlayGui.html#a465ae72bb2e5effbcd8ac7a76fdddf9e" title="SDRPlayGui::on_bandwidth\l_currentIndexChanged" alt="" coords="253,64,439,105"/>
+<area shape="rect" id="node4" href="$d9/d15/classSDRPlayGui.html#a55cf03616913f4ed846cb660f3624757" title="SDRPlayGui::on_centerFrequency\l_changed" alt="" coords="235,129,457,170"/>
+<area shape="rect" id="node5" href="$d9/d15/classSDRPlayGui.html#a425ea3a1adb30120c04ad9bc2fa550af" title="SDRPlayGui::on_dcOffset\l_toggled" alt="" coords="258,194,434,236"/>
+<area shape="rect" id="node6" href="$d9/d15/classSDRPlayGui.html#a369ebacc80b329a1afd515d1ea64766a" title="SDRPlayGui::on_decim\l_currentIndexChanged" alt="" coords="265,260,427,301"/>
+<area shape="rect" id="node7" href="$d9/d15/classSDRPlayGui.html#a1a4ae995cd023a628c08c117d737aa9b" title="SDRPlayGui::on_fBand\l_currentIndexChanged" alt="" coords="266,325,426,366"/>
+<area shape="rect" id="node8" href="$d9/d15/classSDRPlayGui.html#addea13f7007266c76882cfeba21740d0" title="SDRPlayGui::on_fcPos\l_currentIndexChanged" alt="" coords="266,390,426,432"/>
+<area shape="rect" id="node9" href="$d9/d15/classSDRPlayGui.html#adab610a930f9c72abfc6bdaaf5ec5519" title="SDRPlayGui::on_gainBaseband\l_valueChanged" alt="" coords="242,456,450,497"/>
+<area shape="rect" id="node10" href="$d9/d15/classSDRPlayGui.html#a7c716107429b23dbc1c7dfcf9b5fd394" title="SDRPlayGui::on_gainLNA\l_toggled" alt="" coords="258,521,434,562"/>
+<area shape="rect" id="node11" href="$d9/d15/classSDRPlayGui.html#a8f682b24e206092fdff41243cad6697a" title="SDRPlayGui::on_gainManual\lOn_toggled" alt="" coords="250,586,442,628"/>
+<area shape="rect" id="node12" href="$d9/d15/classSDRPlayGui.html#a6dc70bee07211aabc38d7b50840b79a9" title="SDRPlayGui::on_gainMixer\l_toggled" alt="" coords="255,652,437,693"/>
+<area shape="rect" id="node13" href="$d9/d15/classSDRPlayGui.html#a5fb1c566c29c4c5d4f28594c6b47fb68" title="SDRPlayGui::on_gainTuner\l_valueChanged" alt="" coords="255,717,437,758"/>
+<area shape="rect" id="node14" href="$d9/d15/classSDRPlayGui.html#a0edc93fc66e142bc733cbb99245d6b83" title="SDRPlayGui::on_gainTuner\lOn_toggled" alt="" coords="255,782,437,824"/>
+<area shape="rect" id="node15" href="$d9/d15/classSDRPlayGui.html#a5d0522673e9d891732e282a50f423f4a" title="SDRPlayGui::on_ifFrequency\l_currentIndexChanged" alt="" coords="249,848,443,889"/>
+<area shape="rect" id="node16" href="$d9/d15/classSDRPlayGui.html#a8bbf42e36fe31431dd290467a6f1d6de" title="SDRPlayGui::on_iqImbalance\l_toggled" alt="" coords="248,913,444,954"/>
+<area shape="rect" id="node17" href="$d9/d15/classSDRPlayGui.html#a8cc45793404bab5dfd811d5b8042a86a" title="SDRPlayGui::on_ppm\l_valueChanged" alt="" coords="271,978,421,1020"/>
+<area shape="rect" id="node18" href="$d9/d15/classSDRPlayGui.html#aa803c354dbe34d8c5b5bc1db0c6e1055" title="SDRPlayGui::on_samplerate\l_currentIndexChanged" alt="" coords="251,1044,441,1085"/>
+<area shape="rect" id="node19" href="$d9/d15/classSDRPlayGui.html#a4c125ee2533ce2e83ea891a90846f26e" title="SDRPlayGui::openDeviceSettings\lDialog" alt="" coords="235,1161,457,1202"/>
+<area shape="rect" id="node21" href="$d9/d15/classSDRPlayGui.html#a269cc5e9b00bbbf1a6121ea4a024aca3" title="SDRPlayGui::resetToDefaults" alt="" coords="247,1110,445,1136"/>
+<area shape="rect" id="node22" href="$d9/d15/classSDRPlayGui.html#af84a14c12b5511fedf87f3fba35e70ec" title="SDRPlayGui::setCenterFrequency" alt="" coords="235,1227,457,1254"/>
+<area shape="rect" id="node20" href="$d9/d15/classSDRPlayGui.html#ace1afe52225f8a09356d5f34d8f30337" title="SDRPlayGui::SDRPlayGui" alt="" coords="505,1168,685,1195"/>
+</map>

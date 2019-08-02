@@ -1,0 +1,9 @@
+<map id="leansdr::s2_deframer::run" name="leansdr::s2_deframer::run">
+<area shape="rect" id="node2" href="$d7/d1e/namespaceleansdr.html#ac95af16d02125f5afb66f18cb52ea375" title="leansdr::opt_writable" alt="" coords="228,5,371,32"/>
+<area shape="rect" id="node3" href="$de/d0e/structleansdr_1_1pipewriter.html#a1e9b3b0c11b8ff961b662b93039d7c8e" title="leansdr::pipewriter\l::writable" alt="" coords="423,17,551,58"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespaceleansdr.html#ab26a491d085f5c8a0e8765ca922e8385" title="leansdr::opt_write" alt="" coords="237,107,362,133"/>
+<area shape="rect" id="node6" href="$d0/d5e/structleansdr_1_1pipereader.html#a43a7fbc4a52408c19e7a7e4989d2fa20" title="leansdr::pipereader::rd" alt="" coords="224,157,375,184"/>
+<area shape="rect" id="node7" href="$d0/d5e/structleansdr_1_1pipereader.html#a4c0c7a1148b2e107ca3559aa548303db" title="leansdr::pipereader\l::read" alt="" coords="233,209,365,250"/>
+<area shape="rect" id="node8" href="$d0/d5e/structleansdr_1_1pipereader.html#abf0adc51ae6329757925f4c73040016f" title="leansdr::pipereader\l::readable" alt="" coords="233,274,365,315"/>
+<area shape="rect" id="node5" href="$de/d0e/structleansdr_1_1pipewriter.html#ad4fbacd588494cd5993e20e54cc735a6" title="leansdr::pipewriter\l::write" alt="" coords="423,99,551,141"/>
+</map>

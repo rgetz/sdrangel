@@ -1,0 +1,17 @@
+<map id="RemoteOutputSinkGui::sendSettings" name="RemoteOutputSinkGui::sendSettings">
+<area shape="rect" id="node2" href="$d8/d08/classRemoteOutputSinkGui.html#a2c7297c03ee5b84b35c954fbcfa0576d" title="RemoteOutputSinkGui\l::deserialize" alt="" coords="241,5,395,47"/>
+<area shape="rect" id="node3" href="$d8/d08/classRemoteOutputSinkGui.html#a9e83c802e310eef561c74cef5c23a7bf" title="RemoteOutputSinkGui\l::on_apiAddress_returnPressed" alt="" coords="216,71,420,112"/>
+<area shape="rect" id="node4" href="$d8/d08/classRemoteOutputSinkGui.html#abe0f7b5694d5af13a740e0f242bb87fd" title="RemoteOutputSinkGui\l::on_apiApplyButton\l_clicked" alt="" coords="241,137,395,193"/>
+<area shape="rect" id="node5" href="$d8/d08/classRemoteOutputSinkGui.html#a6334d34da566b4dfb53a5de450890907" title="RemoteOutputSinkGui\l::on_apiPort_returnPressed" alt="" coords="228,217,408,259"/>
+<area shape="rect" id="node6" href="$d8/d08/classRemoteOutputSinkGui.html#a9a2762eb2bc3f1190d3d51c5dd028107" title="RemoteOutputSinkGui\l::on_channelIndex_returnPressed" alt="" coords="210,283,426,324"/>
+<area shape="rect" id="node7" href="$d8/d08/classRemoteOutputSinkGui.html#a6ac27673b1a31cfec627c9159f814242" title="RemoteOutputSinkGui\l::on_dataAddress_returnPressed" alt="" coords="212,348,424,389"/>
+<area shape="rect" id="node8" href="$d8/d08/classRemoteOutputSinkGui.html#ab7ae2c1c8fb0ea23c64b6714ed6cece8" title="RemoteOutputSinkGui\l::on_dataApplyButton\l_clicked" alt="" coords="241,414,395,470"/>
+<area shape="rect" id="node9" href="$d8/d08/classRemoteOutputSinkGui.html#a0bafee11f07d80de65f3c1bc71871cce" title="RemoteOutputSinkGui\l::on_dataPort_returnPressed" alt="" coords="224,495,412,536"/>
+<area shape="rect" id="node10" href="$d8/d08/classRemoteOutputSinkGui.html#a3f60a19bf7dfda7618cece6efea93043" title="RemoteOutputSinkGui\l::on_deviceIndex_returnPressed" alt="" coords="213,560,423,601"/>
+<area shape="rect" id="node11" href="$d8/d08/classRemoteOutputSinkGui.html#a5811271e3796cf5aa22b7dc6a844907d" title="RemoteOutputSinkGui\l::on_nbFECBlocks_valueChanged" alt="" coords="207,625,429,667"/>
+<area shape="rect" id="node12" href="$d8/d08/classRemoteOutputSinkGui.html#a93555673cb00e0b3e20e04e307d774a0" title="RemoteOutputSinkGui\l::on_sampleRate_changed" alt="" coords="229,691,407,732"/>
+<area shape="rect" id="node13" href="$d8/d08/classRemoteOutputSinkGui.html#abe6f171fe2f7614d9d1691c8daaae935" title="RemoteOutputSinkGui\l::on_txDelay_valueChanged" alt="" coords="225,756,411,797"/>
+<area shape="rect" id="node14" href="$d8/d08/classRemoteOutputSinkGui.html#aa1608a8d6b68faa69adc5eceedeb5f7b" title="RemoteOutputSinkGui\l::openDeviceSettingsDialog" alt="" coords="226,821,410,863"/>
+<area shape="rect" id="node15" href="$d8/d08/classRemoteOutputSinkGui.html#a817ea2a5b7330ea2cd4ae0610a190b1b" title="RemoteOutputSinkGui\l::RemoteOutputSinkGui" alt="" coords="477,851,639,892"/>
+<area shape="rect" id="node16" href="$d8/d08/classRemoteOutputSinkGui.html#a99b3d962149f858565740ca8093bce04" title="RemoteOutputSinkGui\l::resetToDefaults" alt="" coords="241,939,395,980"/>
+</map>

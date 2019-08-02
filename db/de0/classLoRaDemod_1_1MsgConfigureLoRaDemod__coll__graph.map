@@ -1,0 +1,5 @@
+<map id="LoRaDemod::MsgConfigureLoRaDemod" name="LoRaDemod::MsgConfigureLoRaDemod">
+<area shape="rect" id="node2" href="$d6/d28/classMessage.html" title="Message" alt="" coords="46,109,121,136"/>
+<area shape="rect" id="node3" href="$d7/d91/structLoRaDemodSettings.html" title="LoRaDemodSettings" alt="" coords="145,109,288,136"/>
+<area shape="rect" id="node4" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="172,5,261,32"/>
+</map>

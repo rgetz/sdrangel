@@ -1,0 +1,8 @@
+<map id="BFMDemod::MsgReportChannelSampleRateChanged::getSampleRate" name="BFMDemod::MsgReportChannelSampleRateChanged::getSampleRate">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a2bcd560217bd279f3b47d62399828d6a" title="BFMDemodGUI::handleMessage" alt="" coords="297,13,512,39"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#ad31c0208223eb1cb89b88e1af9d3d221" title="BFMDemodGUI::handleInput\lMessages" alt="" coords="560,5,751,47"/>
+<area shape="rect" id="node4" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="799,13,1017,39"/>
+<area shape="rect" id="node5" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1065,13,1225,39"/>
+<area shape="rect" id="node6" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1273,13,1492,39"/>
+<area shape="rect" id="node7" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1540,13,1687,39"/>
+</map>

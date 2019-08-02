@@ -1,0 +1,8 @@
+<map id="SoapySDRInputGui::createAntennasControl" name="SoapySDRInputGui::createAntennasControl">
+<area shape="rect" id="node2" href="$d9/d7a/classStringRangeGUI.html#aff6abe1233432734227537328d1d2a52" title="StringRangeGUI::addItem" alt="" coords="247,5,421,32"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#a482882446580527d8e957aae9a73a4ac" title="SoapySDRInputGui::antennas\lChanged" alt="" coords="235,57,433,98"/>
+<area shape="rect" id="node6" href="$d9/d7a/classStringRangeGUI.html#a2ab56f3c01396555e5ecd0720b84971e" title="StringRangeGUI::setLabel" alt="" coords="247,123,421,149"/>
+<area shape="rect" id="node7" href="$d9/d7a/classStringRangeGUI.html#a7d01c5ff0473dbffa155cb733b5f0d63" title="StringRangeGUI::setUnits" alt="" coords="247,173,421,200"/>
+<area shape="rect" id="node4" href="$d9/d7a/classStringRangeGUI.html#ab73718bf5598093be1532f5e49d303ec" title="StringRangeGUI::getCurrent\lValue" alt="" coords="499,27,685,69"/>
+<area shape="rect" id="node5" href="$d8/d96/classSoapySDRInputGui.html#a868ab9f107250956a99c440943eb7b0a" title="SoapySDRInputGui::sendSettings" alt="" coords="481,93,703,120"/>
+</map>

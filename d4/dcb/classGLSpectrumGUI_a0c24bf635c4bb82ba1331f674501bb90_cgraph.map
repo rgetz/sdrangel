@@ -1,0 +1,25 @@
+<map id="GLSpectrumGUI::on_stroke_valueChanged" name="GLSpectrumGUI::on_stroke_valueChanged">
+<area shape="rect" id="node2" href="$d4/dcb/classGLSpectrumGUI.html#ae1219b592a8b083f159c894d1e4a7771" title="GLSpectrumGUI::applySettings" alt="" coords="237,355,444,381"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="849,60,889,87"/>
+<area shape="rect" id="node8" href="$d1/dfc/classSpectrumVis.html#a1c9532ddd3ba2d4293ed8194ccdd9464" title="SpectrumVis::configure" alt="" coords="525,5,684,32"/>
+<area shape="rect" id="node10" href="$d4/dcb/classGLSpectrumGUI.html#af2bce5f0bbdc90a2da79dae867651fcd" title="GLSpectrumGUI::setAveraging\lToolitp" alt="" coords="503,107,706,149"/>
+<area shape="rect" id="node13" href="$d6/dab/classGLSpectrum.html#a563aa5eee1c3a586673f9d11c7515db5" title="GLSpectrum::setDecay" alt="" coords="525,173,684,200"/>
+<area shape="rect" id="node14" href="$d6/dab/classGLSpectrum.html#a0c28460279fd2a83a20b4b4ead972353" title="GLSpectrum::setDecayDivisor" alt="" coords="505,224,705,251"/>
+<area shape="rect" id="node15" href="$d6/dab/classGLSpectrum.html#af53bd49c41f1003bf32bbb1b3366bda7" title="GLSpectrum::setDisplayCurrent" alt="" coords="501,275,709,301"/>
+<area shape="rect" id="node17" href="$d6/dab/classGLSpectrum.html#ab6f43ef93f577a4ca6f0906f85f815e0" title="GLSpectrum::setDisplayGrid" alt="" coords="510,325,699,352"/>
+<area shape="rect" id="node18" href="$d6/dab/classGLSpectrum.html#ab9b355df223dc0f990f6b751ff50b99e" title="GLSpectrum::setDisplayGrid\lIntensity" alt="" coords="510,377,699,418"/>
+<area shape="rect" id="node19" href="$d6/dab/classGLSpectrum.html#a1be0200014a6be93da14f9a48d97cb5f" title="GLSpectrum::setDisplayHistogram" alt="" coords="492,443,717,469"/>
+<area shape="rect" id="node20" href="$d6/dab/classGLSpectrum.html#a4ae4f0f14b68ec5da89cf1347cf54bd0" title="GLSpectrum::setDisplayMaxHold" alt="" coords="496,493,713,520"/>
+<area shape="rect" id="node21" href="$d6/dab/classGLSpectrum.html#a47f7d5d028041eb2cc25fda6dcbcfc33" title="GLSpectrum::setDisplayWaterfall" alt="" coords="496,544,713,571"/>
+<area shape="rect" id="node22" href="$d6/dab/classGLSpectrum.html#ad3fc2a7f7eb5761045dbceeb92ecc284" title="GLSpectrum::setHistoStroke" alt="" coords="509,595,700,621"/>
+<area shape="rect" id="node23" href="$d6/dab/classGLSpectrum.html#a784b21f0495652d3c6d6e1b15f96b494" title="GLSpectrum::setInvertedWaterfall" alt="" coords="495,645,715,672"/>
+<area shape="rect" id="node24" href="$d6/dab/classGLSpectrum.html#aae9118c5f6882894021b62d2807628d4" title="GLSpectrum::setLinear" alt="" coords="527,696,683,723"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1021,60,1129,87"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1177,82,1325,123"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1381,31,1500,57"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1373,82,1508,123"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="795,5,944,32"/>
+<area shape="rect" id="node11" href="$d6/dab/classGLSpectrum.html#a913430d8d305205b38fe575db8e6bfa2" title="GLSpectrum::getSampleRate" alt="" coords="773,164,966,191"/>
+<area shape="rect" id="node12" href="$d4/dcb/classGLSpectrumGUI.html#ae91e24b8659e31c7f3f0f09ba79cea28" title="GLSpectrumGUI::setNumberStr" alt="" coords="765,113,973,140"/>
+<area shape="rect" id="node16" href="$d6/dab/classGLSpectrum.html#aa45083c2872588d11f49d8ba0a2db758" title="GLSpectrum::stopDrag" alt="" coords="791,493,947,520"/>
+</map>

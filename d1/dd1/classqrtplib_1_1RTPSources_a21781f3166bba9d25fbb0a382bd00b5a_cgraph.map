@@ -1,0 +1,6 @@
+<map id="qrtplib::RTPSources::DeleteOwnSSRC" name="qrtplib::RTPSources::DeleteOwnSSRC">
+<area shape="rect" id="node2" href="$da/d75/classqrtplib_1_1RTPSourceData.html#acb6ececc4682131697a987f2f18a2fba" title="qrtplib::RTPSourceData\l::GetSSRC" alt="" coords="193,5,355,47"/>
+<area shape="rect" id="node3" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a99db0b33429e923c772af539f449861a" title="qrtplib::RTPSourceData\l::IsActive" alt="" coords="193,71,355,112"/>
+<area shape="rect" id="node4" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af28c94111789b1239bc81d1d0b1c4769" title="qrtplib::RTPSourceData\l::IsSender" alt="" coords="193,136,355,177"/>
+<area shape="rect" id="node5" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad6e3d6997a2695efdcc2e21070c93235" title="qrtplib::RTPSources\l::OnRemoveSource" alt="" coords="204,201,344,243"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="UDPSource::MsgUDPSourceSpectrum::create" name="UDPSource::MsgUDPSourceSpectrum::create">
+<area shape="rect" id="node2" href="$de/da4/classUDPSource.html#a1247576d3a2fa7074724580eb54abac1" title="UDPSource::setSpectrum" alt="" coords="304,31,479,57"/>
+<area shape="rect" id="node3" href="$de/da4/classUDPSource.html#a294be202ae366cc549b694b8cf92453e" title="UDPSource::getSquelchOpen" alt="" coords="527,5,723,32"/>
+<area shape="rect" id="node9" href="$d5/d9e/classUDPSourceGUI.html#a8f1d1badcd8a516f74fd3dae43ec10a7" title="UDPSourceGUI::onWidgetRolled" alt="" coords="771,56,987,83"/>
+<area shape="rect" id="node4" href="$d5/d9e/classUDPSourceGUI.html#a377e511d8a210f1404d0c5a306992ac5" title="UDPSourceGUI::tick" alt="" coords="806,5,951,32"/>
+<area shape="rect" id="node5" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="1035,31,1253,57"/>
+<area shape="rect" id="node6" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1301,31,1461,57"/>
+<area shape="rect" id="node7" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1509,23,1696,65"/>
+<area shape="rect" id="node8" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1744,31,1933,57"/>
+</map>

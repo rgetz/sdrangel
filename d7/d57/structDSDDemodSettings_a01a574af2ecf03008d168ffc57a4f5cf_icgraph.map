@@ -1,0 +1,9 @@
+<map id="DSDDemodSettings::resetToDefaults" name="DSDDemodSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$d7/d57/structDSDDemodSettings.html#a8ae0bcdfbe2c2c658b3d94e2484f245f" title="DSDDemodSettings::deserialize" alt="" coords="251,56,462,83"/>
+<area shape="rect" id="node4" href="$d6/d40/classDSDDemod.html#aadfeff54c6d7db4711d0ca22dc1f1327" title="DSDDemod::deserialize" alt="" coords="547,5,710,32"/>
+<area shape="rect" id="node7" href="$d7/d57/structDSDDemodSettings.html#ae5f927563e6122fdda739d8297a20ac2" title="DSDDemodSettings::DSDDemod\lSettings" alt="" coords="247,107,467,149"/>
+<area shape="rect" id="node8" href="$d8/d46/classDSDDemodGUI.html#ab77c39be54cc051e9910214214e31462" title="DSDDemodGUI::resetToDefaults" alt="" coords="247,173,466,200"/>
+<area shape="rect" id="node3" href="$d8/d46/classDSDDemodGUI.html#aceadf364e017121912f740d064d99717" title="DSDDemodGUI::deserialize" alt="" coords="535,140,722,167"/>
+<area shape="rect" id="node6" href="$d7/d57/structDSDDemodSettings.html#a5d93719e4b1a495296d2a2f02d9f83f4" title="DSDDemodSettings::setScopeGUI" alt="" coords="515,56,743,83"/>
+<area shape="rect" id="node5" href="$d6/d40/classDSDDemod.html#ab87b670eb73199a2cff085ee59927828" title="Applies to a default stream. " alt="" coords="791,5,1009,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AudioDialogX::on_outputReset_clicked" name="AudioDialogX::on_outputReset_clicked">
+<area shape="rect" id="node2" href="$d2/dbc/classAudioDeviceManager_1_1OutputDeviceInfo.html#ac4df89c82694f929883ddb5ae034e2fc" title="AudioDeviceManager\l::OutputDeviceInfo::\lresetToDefaults" alt="" coords="275,5,421,61"/>
+<area shape="rect" id="node3" href="$de/d74/classAudioDialogX.html#a27c89ddd5aaf528e5881cacfec525582" title="AudioDialogX::updateOutput\lDisplay" alt="" coords="255,86,441,127"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="724,93,764,120"/>
+<area shape="rect" id="node9" href="$de/d74/classAudioDialogX.html#a0e554381879c6f16bb2ff183a9238c75" title="AudioDialogX::updateOutput\lSDPString" alt="" coords="489,115,676,157"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="812,93,920,120"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1172,64,1291,91"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="968,115,1116,157"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1164,115,1299,157"/>
+</map>

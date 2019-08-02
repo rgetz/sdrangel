@@ -1,0 +1,6 @@
+<map id="PlutoSDROutput::fetchTemperature" name="PlutoSDROutput::fetchTemperature">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#ac6f70233befaa4bed6e019c8110d270e" title="PlutoSDROutput::getFIRSampleRate" alt="" coords="284,5,524,32"/>
+<area shape="rect" id="node3" href="$da/dff/classPlutoSDROutput.html#ad7e94b43fb3c79a2e558328e05611bbd" title="PlutoSDROutput::webapiFormat\lDeviceReport" alt="" coords="299,57,509,98"/>
+<area shape="rect" id="node4" href="$da/dff/classPlutoSDROutput.html#aad7abfa70c2b75289ad54a3a3abaac46" title="PlutoSDROutput::webapiReportGet" alt="" coords="572,64,801,91"/>
+<area shape="rect" id="node5" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="849,64,1068,91"/>
+</map>

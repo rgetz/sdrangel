@@ -1,0 +1,11 @@
+<map id="FreqTrackerGUI::blockApplySettings" name="FreqTrackerGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$d1/d46/classFreqTrackerGUI.html#a0e09617aac79d6586507596f4b10ae14" title="FreqTrackerGUI::displaySettings" alt="" coords="241,95,455,121"/>
+<area shape="rect" id="node5" href="$d1/d46/classFreqTrackerGUI.html#a2314f37c393e2e14ec7eb652e48174f2" title="FreqTrackerGUI::handleMessage" alt="" coords="504,145,719,172"/>
+<area shape="rect" id="node3" href="$d1/d46/classFreqTrackerGUI.html#ab46e19f1db4d6b59ad41fd38d0b68f46" title="FreqTrackerGUI::resetToDefaults" alt="" coords="503,44,720,71"/>
+<area shape="rect" id="node4" href="$d1/d46/classFreqTrackerGUI.html#ad8a296fc60757f5c12a027130e83a2a9" title="FreqTrackerGUI::deserialize" alt="" coords="770,55,957,81"/>
+<area shape="rect" id="node7" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="1007,80,1225,107"/>
+<area shape="rect" id="node6" href="$d1/d46/classFreqTrackerGUI.html#a7d1287629f7131202e1a45190da90193" title="FreqTrackerGUI::handleInput\lMessages" alt="" coords="768,127,959,169"/>
+<area shape="rect" id="node8" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1273,80,1433,107"/>
+<area shape="rect" id="node9" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1481,73,1628,114"/>
+<area shape="rect" id="node10" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1676,73,1812,114"/>
+</map>

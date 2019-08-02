@@ -1,0 +1,9 @@
+<map id="NFMModGUI::updateWithStreamTime" name="NFMModGUI::updateWithStreamTime">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a6a260e58e7672d1a7c2f80524e73b7fd" title="NFMModGUI::handleMessage" alt="" coords="591,5,789,32"/>
+<area shape="rect" id="node8" href="$df/d1f/classNFMModGUI.html#a28ca6024b93fdedcf01d030fd21d74b9" title="NFMModGUI::updateWithStreamData" alt="" coords="299,31,543,57"/>
+<area shape="rect" id="node3" href="$df/d1f/classNFMModGUI.html#a93bf5d9829676923af7ea22ea3484ef0" title="NFMModGUI::handleSourceMessages" alt="" coords="837,5,1084,32"/>
+<area shape="rect" id="node4" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="1132,5,1319,32"/>
+<area shape="rect" id="node5" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="1367,5,1511,32"/>
+<area shape="rect" id="node6" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1559,5,1801,32"/>
+<area shape="rect" id="node7" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1849,5,2023,32"/>
+</map>

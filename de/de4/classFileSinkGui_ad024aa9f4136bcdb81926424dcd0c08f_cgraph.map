@@ -1,0 +1,5 @@
+<map id="FileSinkGui::tick" name="FileSinkGui::tick">
+<area shape="rect" id="node2" href="$d2/d31/classFileSinkOutput_1_1MsgConfigureFileSinkStreamTiming.html#aed05ea3cbdfbf595847eabb1d1ab3421" title="FileSinkOutput::MsgConfigure\lFileSinkStreamTiming::create" alt="" coords="172,5,369,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="177,71,365,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="196,137,345,163"/>
+</map>

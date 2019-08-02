@@ -1,0 +1,10 @@
+<map id="AirspyGui::updateFrequencyLimits" name="AirspyGui::updateFrequencyLimits">
+<area shape="rect" id="node2" href="$d3/d89/classAirspyGui.html#a81f9216c9f453b887278c16248cc81b0" title="AirspyGui::AirspyGui" alt="" coords="980,5,1124,32"/>
+<area shape="rect" id="node3" href="$d3/d89/classAirspyGui.html#a00656edc5f53854839d614e5d608d5ca" title="AirspyGui::displaySettings" alt="" coords="240,81,416,108"/>
+<area shape="rect" id="node9" href="$d3/d89/classAirspyGui.html#af0e83f27610df8174294f7abf6b7bd55" title="AirspyGui::on_transverter\l_clicked" alt="" coords="243,133,413,174"/>
+<area shape="rect" id="node4" href="$d3/d89/classAirspyGui.html#a793b7c0a49d0c4d7c4175da6d32cefa2" title="AirspyGui::deserialize" alt="" coords="750,81,899,108"/>
+<area shape="rect" id="node5" href="$d3/d89/classAirspyGui.html#a8f78032e682fbc44a437e8aa88570b88" title="AirspyGui::handleMessage" alt="" coords="477,157,656,184"/>
+<area shape="rect" id="node7" href="$d3/d89/classAirspyGui.html#a0fa4d8e79c9249bdb4d5bcad5787c84f" title="AirspyGui::resetToDefaults" alt="" coords="477,107,657,133"/>
+<area shape="rect" id="node8" href="$d3/d89/classAirspyGui.html#a626103b17455ddba59ac59c9e72b88cd" title="AirspyGui::setCenterFrequency" alt="" coords="464,208,669,235"/>
+<area shape="rect" id="node6" href="$d3/d89/classAirspyGui.html#aad2d9beff85ec01ab16a4ab4c56e28f1" title="AirspyGui::handleInputMessages" alt="" coords="717,144,932,171"/>
+</map>

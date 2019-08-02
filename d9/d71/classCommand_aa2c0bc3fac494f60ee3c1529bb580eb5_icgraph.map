@@ -1,0 +1,7 @@
+<map id="Command::getKeyModifiers" name="Command::getKeyModifiers">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a7fccf9808d6defab7478853ed207bc3c" title="MainWindow::commandKeyPressed" alt="" coords="237,17,471,43"/>
+<area shape="rect" id="node4" href="$dd/d5a/classEditCommandDialog.html#aed31095e11a07e9f9e0661f86cdee048" title="EditCommandDialog::\lfromCommand" alt="" coords="279,71,429,112"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#aa4745b470f0aa428bbecc3b571ebe72c" title="MainWindow::on_commandKeyboard\lConnect_toggled" alt="" coords="519,5,757,47"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a12c99c649d0abfb4eb46dc7c1f4a4790" title="MainWindow::on_commandNew\l_clicked" alt="" coords="533,71,743,112"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#ac3fd97421ad00ad6bce008f0af3d76b8" title="MainWindow::on_commandEdit\l_clicked" alt="" coords="535,136,741,177"/>
+</map>

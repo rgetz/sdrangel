@@ -1,0 +1,6 @@
+<map id="GLScopeGUI::setTriggerUI" name="GLScopeGUI::setTriggerUI">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab19be8ad036558656dea0debc93968e1" title="GLScopeGUI::on_trig\l_valueChanged" alt="" coords="251,5,397,47"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a2e0a854eb802c14c874500575b155e27" title="GLScopeGUI::on_trigDown\l_clicked" alt="" coords="233,71,415,112"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a0e784745942e60e637bc9dce25c6c9d1" title="GLScopeGUI::on_trigUp\l_clicked" alt="" coords="242,136,406,177"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#a37e7446c5c3c52ea5f13241d22ba431f" title="GLScopeGUI::focusOnTrigger" alt="" coords="463,13,660,39"/>
+</map>

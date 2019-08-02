@@ -1,0 +1,12 @@
+<map id="PluginInterface::createSampleSourcePluginInstance" name="PluginInterface::createSampleSourcePluginInstance">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#a295477ac8c2315ef7e81e47aaf94559c" title="MainCore::changeSampleSource" alt="" coords="251,5,464,32"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a786daf72b8ebc17434ef6510d0d023d1" title="MainWindow::sampleSource\lChanged" alt="" coords="263,57,451,98"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="527,5,705,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="774,5,958,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1042,5,1185,32"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#adac6baaae818c8a27f1fe65a48322f04" title="MainWindow::addSourceDevice" alt="" coords="512,111,720,137"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="768,60,964,87"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1263,85,1443,112"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#ab1ed28392dc263c837d85fe5d8e15b0a" title="MainWindow::on_action\l_addSourceDevice_triggered" alt="" coords="771,162,961,203"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1012,60,1215,87"/>
+</map>

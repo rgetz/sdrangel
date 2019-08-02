@@ -1,0 +1,17 @@
+<map id="BladeRF2Input::setSampleRate" name="BladeRF2Input::setSampleRate">
+<area shape="rect" id="node2" href="$d6/d2d/classBladeRF2Input.html#ada729444a8887244ad9813bd8e77be91" title="BladeRF2Input::getBandwidth\lRange" alt="" coords="260,5,456,47"/>
+<area shape="rect" id="node4" href="$d6/d2d/classBladeRF2Input.html#a0c9443cb9c5ad1a5eeee752ba77ff62b" title="Center frequency exposed by the source. " alt="" coords="271,71,445,112"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#ae42137c3ea484d40d8f1078d0bffbb3d" title="BladeRF2Input::getFrequency\lRange" alt="" coords="260,136,456,177"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#ad2d7b77b4b254e4500146881642846cc" title="BladeRF2Input::getGlobal\lGainRange" alt="" coords="272,201,444,243"/>
+<area shape="rect" id="node9" href="$d6/d2d/classBladeRF2Input.html#a9c0651de90cd5644c2357c6faba45b0c" title="BladeRF2Input::getSample\lRateRange" alt="" coords="269,267,447,308"/>
+<area shape="rect" id="node11" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="309,333,407,359"/>
+<area shape="rect" id="node12" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="311,383,405,410"/>
+<area shape="rect" id="node13" href="$d6/d2d/classBladeRF2Input.html#a51e629eadd0200e0c2b398e3506e40f8" title="BladeRF2Input::setCenter\lFrequency" alt="" coords="271,435,445,476"/>
+<area shape="rect" id="node3" href="$dd/d3f/classDeviceBladeRF2.html#aa4e4d4a1b9c7459cf16f8ee0f4c20935" title="DeviceBladeRF2::getBandwidth\lRangeRx" alt="" coords="504,5,712,47"/>
+<area shape="rect" id="node6" href="$dd/d3f/classDeviceBladeRF2.html#a878a29c583ed8559adaaf95e05dd4f82" title="DeviceBladeRF2::getFrequency\lRangeRx" alt="" coords="504,136,712,177"/>
+<area shape="rect" id="node8" href="$dd/d3f/classDeviceBladeRF2.html#a6c5438a0ea52d082b56a4854b413878a" title="DeviceBladeRF2::getGlobal\lGainRangeRx" alt="" coords="516,201,700,243"/>
+<area shape="rect" id="node10" href="$dd/d3f/classDeviceBladeRF2.html#ac797a775203b4dd5cf067fc1d889c097" title="DeviceBladeRF2::getSample\lRateRangeRx" alt="" coords="513,267,703,308"/>
+<area shape="rect" id="node14" href="$d2/d9f/classBladeRF2Input_1_1MsgConfigureBladeRF2.html#aa7ea9f9928ae278110b62dfad2ca84d4" title="BladeRF2Input::MsgConfigure\lBladeRF2::create" alt="" coords="509,405,707,447"/>
+<area shape="rect" id="node16" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="533,471,683,498"/>
+<area shape="rect" id="node15" href="$d2/d9f/classBladeRF2Input_1_1MsgConfigureBladeRF2.html#ad82866c3b0172014b7caa02899178be5" title="BladeRF2Input::MsgConfigure\lBladeRF2::MsgConfigureBladeRF2" alt="" coords="760,405,987,447"/>
+</map>

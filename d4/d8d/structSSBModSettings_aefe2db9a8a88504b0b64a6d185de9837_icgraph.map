@@ -1,0 +1,10 @@
+<map id="SSBModSettings::serialize" name="SSBModSettings::serialize">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a9ca86bcec74e3fd2c2888f3fb784fac4" title="SSBModGUI::serialize" alt="" coords="269,5,424,32"/>
+<area shape="rect" id="node3" href="$dc/d8d/classSSBMod.html#abbd8d4219a600ab44abdcf5ca408ea43" title="SSBMod::serialize" alt="" coords="281,56,412,83"/>
+<area shape="rect" id="node5" href="$d4/d8d/structSSBModSettings.html#a8d1d65b966e555ae8e9ddcbf5a69392c" title="SSBModSettings::setCWKeyerGUI" alt="" coords="232,107,461,133"/>
+<area shape="rect" id="node4" href="$dc/d8d/classSSBMod.html#a03352f590a124f1f6df9e1009edaad0e" title="Applies to a default stream. " alt="" coords="509,56,709,83"/>
+<area shape="rect" id="node6" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="518,107,701,133"/>
+<area shape="rect" id="node7" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="757,107,900,133"/>
+<area shape="rect" id="node8" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="948,107,1189,133"/>
+<area shape="rect" id="node9" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1237,107,1408,133"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="leansdr::filtergen::root_raised_cosine" name="leansdr::filtergen::root_raised_cosine">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#ad198a68ce3c4a9f529af53f662f45e36" title="cos" alt="" coords="236,5,279,32"/>
+<area shape="rect" id="node8" href="$d5/dc1/namespaceleansdr_1_1filtergen.html#a9e57e27876be7ee2e6297cc30ced3408" title="leansdr::filtergen\l::dump_filter" alt="" coords="198,57,317,98"/>
+<area shape="rect" id="node9" href="$d5/dc1/namespaceleansdr_1_1filtergen.html#a480e3e48fd65dd33a10a611abe0b6941" title="leansdr::filtergen\l::normalize_dcgain" alt="" coords="192,122,323,163"/>
+<area shape="rect" id="node10" href="$dd/d58/fixed_8h.html#a6fe9633e9b49ad637871e9ffa468bdc5" title="sin" alt="" coords="238,188,277,215"/>
+<area shape="rect" id="node12" href="$dd/d58/fixed_8h.html#a112464e01c9263c3bbffc0856583e1bc" title="sqrt" alt="" coords="235,239,279,265"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#aee3b063e4154e3244766db7d43e46902" title="Fixed::cos" alt="" coords="371,39,454,65"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a86dcc54b1001f704bcf1c67481782b6e" title="Fixed::sin_cos" alt="" coords="503,81,609,108"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a31f005fda0e3b89b530e756087c3aa25" title="Fixed::perform_cordic\l_rotation" alt="" coords="657,74,805,115"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="861,52,980,79"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="853,103,988,145"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#a341f37b4ca17d3ffa330a82a0ae61d1a" title="Fixed::sin" alt="" coords="373,123,452,149"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#aafa1d6d4ce5959ddedcf20ec16a2fa3d" title="Fixed::sqrt" alt="" coords="371,239,455,265"/>
+</map>

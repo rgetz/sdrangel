@@ -1,0 +1,9 @@
+<map id="Command::processStateChanged" name="Command::processStateChanged">
+<area shape="rect" id="node2" href="$d9/d71/classCommand.html#a7ea4f6b5e4dc6960d8777109ba2ad2a4" title="Command::processError" alt="" coords="272,93,436,119"/>
+<area shape="rect" id="node3" href="$d9/d71/classCommand.html#aca394af8a83e03f5cd0adb5bae5ef469" title="Command::processFinished" alt="" coords="484,42,669,69"/>
+<area shape="rect" id="node4" href="$d9/d71/classCommand.html#a4979924f2b9606988b1dbf340f8c0fa7" title="Command::run" alt="" coords="743,42,851,69"/>
+<area shape="rect" id="node8" href="$d9/d71/classCommand.html#ab552bb3a07fdd1acbfd8ea76e69b2278" title="Command::~Command" alt="" coords="717,143,876,170"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a79c800ecae23fe68f0c4877577732b6b" title="MainWindow::on_commandRun\l_clicked" alt="" coords="937,5,1144,47"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7fccf9808d6defab7478853ed207bc3c" title="MainWindow::commandKeyPressed" alt="" coords="924,71,1157,98"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#aa4745b470f0aa428bbecc3b571ebe72c" title="MainWindow::on_commandKeyboard\lConnect_toggled" alt="" coords="1205,64,1444,105"/>
+</map>

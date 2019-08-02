@@ -1,0 +1,17 @@
+<map id="qrtplib::RTCPScheduler::GetTransmissionDelay" name="qrtplib::RTCPScheduler::GetTransmissionDelay">
+<area shape="rect" id="node2" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a58bc521d794d5fa05895db118b4da84d" title="qrtplib::RTCPScheduler\l::CalculateNextRTCPTime" alt="" coords="216,113,395,155"/>
+<area shape="rect" id="node5" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a442c04ebcaac884a081a7c4a7a8f7999" title="qrtplib::RTPSources\l::GetActiveMemberCount" alt="" coords="978,384,1149,425"/>
+<area shape="rect" id="node13" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a7a839e67da04ff032db37f2c1b143d44" title="qrtplib::RTPTime::CurrentTime" alt="" coords="445,13,647,39"/>
+<area shape="rect" id="node3" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a6a4121365a81eecae6b1ed626502768c" title="qrtplib::RTCPScheduler\l::CalculateTransmissionInterval" alt="" coords="443,129,649,171"/>
+<area shape="rect" id="node15" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a93d9dc1ff66700d12647374d1ef86449" title="qrtplib::RTPSources\l::GetOwnSourceInfo" alt="" coords="475,64,617,105"/>
+<area shape="rect" id="node16" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af28c94111789b1239bc81d1d0b1c4769" title="qrtplib::RTPSourceData\l::IsSender" alt="" coords="465,195,627,236"/>
+<area shape="rect" id="node4" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a30e142acbdac5bf5c52a0524a8bbe2fe" title="qrtplib::RTCPScheduler\l::CalculateDeterministicInterval" alt="" coords="697,188,903,229"/>
+<area shape="rect" id="node6" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a006a1a9d16c89f9198f325a473c89c43" title="qrtplib::RTPTime::GetDouble" alt="" coords="968,6,1159,33"/>
+<area shape="rect" id="node12" href="$db/d27/classqrtplib_1_1RTPRandom.html#a027bdc15997c421613cd852f5bb340de" title="qrtplib::RTPRandom\l::GetRandomDouble" alt="" coords="729,71,871,112"/>
+<area shape="rect" id="node7" href="$d4/db4/classqrtplib_1_1RTCPSchedulerParams.html#a180de667986d8c4867cf25c498dc63d3" title="qrtplib::RTCPSchedulerParams\l::GetMinimumTransmissionInterval" alt="" coords="951,188,1176,229"/>
+<area shape="rect" id="node8" href="$d4/db4/classqrtplib_1_1RTCPSchedulerParams.html#aa3e80952591dc0868ba3792f69d82725" title="qrtplib::RTCPSchedulerParams\l::GetRTCPBandwidth" alt="" coords="961,253,1166,295"/>
+<area shape="rect" id="node9" href="$d4/db4/classqrtplib_1_1RTCPSchedulerParams.html#a68037d212a9e413e56925945fc3d89d2" title="qrtplib::RTCPSchedulerParams\l::GetSenderBandwidthFraction" alt="" coords="961,319,1166,360"/>
+<area shape="rect" id="node10" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad575e8cc6085a8ab7876f0b512137f9e" title="qrtplib::RTPSources\l::GetSenderCount" alt="" coords="993,57,1133,99"/>
+<area shape="rect" id="node11" href="$d4/db4/classqrtplib_1_1RTCPSchedulerParams.html#aba9f8b8a31566aff75d99c15f712043a" title="qrtplib::RTCPSchedulerParams\l::GetUseHalfAtStartup" alt="" coords="961,123,1166,164"/>
+<area shape="rect" id="node14" href="$d9/d28/namespaceqrtplib.html#a2e15b3b3a7eb0ec7566301dbc91baa62" title="qrtplib::RTPTime_timespec\lToDouble" alt="" coords="709,5,891,47"/>
+</map>

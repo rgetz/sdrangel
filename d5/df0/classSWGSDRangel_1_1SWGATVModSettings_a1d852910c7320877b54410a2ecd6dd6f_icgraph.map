@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGATVModSettings::setAtvModulation" name="SWGSDRangel::SWGATVModSettings::setAtvModulation">
+<area shape="rect" id="node2" href="$d2/d69/classATVMod.html#a7135e5f5ab81d3ad00ae030d07b1b65a" title="ATVMod::webapiFormatChannel\lSettings" alt="" coords="307,53,517,94"/>
+<area shape="rect" id="node6" href="$d2/d69/classATVMod.html#adf247f5a70026cdddbbf198a45a40e23" title="ATVMod::webapiReverseSend\lSettings" alt="" coords="311,118,513,159"/>
+<area shape="rect" id="node3" href="$d2/d69/classATVMod.html#a7d5ba0a8a6a8ca116aeca7fe0b710ef4" title="ATVMod::webapiSettingsGet" alt="" coords="565,5,756,32"/>
+<area shape="rect" id="node5" href="$d2/d69/classATVMod.html#a9ce76a23e7d309f470ef3ce9c78c6719" title="ATVMod::webapiSettingsPut\lPatch" alt="" coords="565,57,756,98"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a2b0fbe9337e046718fa3ec3a96436ced" title="ATVMod::getStreamCenterFrequency" alt="" coords="804,24,1045,51"/>
+<area shape="rect" id="node7" href="$d2/d69/classATVMod.html#a72a48b1e22aab5b059ef40fa93a3a1a0" title="ATVMod::applySettings" alt="" coords="581,125,741,152"/>
+<area shape="rect" id="node8" href="$d2/d69/classATVMod.html#a301c20c1f192bd8c9d23e19a4360ecfa" title="ATVMod::ATVMod" alt="" coords="859,92,991,119"/>
+<area shape="rect" id="node10" href="$d2/d69/classATVMod.html#a252e7a58cb70ea3edc1165f7c266fa99" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="839,147,1011,173"/>
+<area shape="rect" id="node9" href="$de/df4/classATVMod_1_1MsgReportEffectiveSampleRate.html#a2bcebe99221cf92b4e42d9780a33e450" title="ATVMod::MsgReportEffective\lSampleRate::MsgReportEffective\lSampleRate" alt="" coords="1093,73,1312,129"/>
+<area shape="rect" id="node11" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="1141,153,1265,180"/>
+</map>

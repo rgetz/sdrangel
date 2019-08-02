@@ -1,0 +1,18 @@
+<map id="FCDProConstants" name="FCDProConstants">
+<area shape="rect" id="node2" href="$d3/dd6/structfcdpro__if__gain1.html" title="fcdpro_if_gain1" alt="" coords="21,11,132,37"/>
+<area shape="rect" id="node3" href="$d3/da0/structfcdpro__if__gain2.html" title="fcdpro_if_gain2" alt="" coords="21,61,132,88"/>
+<area shape="rect" id="node4" href="$d5/d9d/structfcdpro__if__filter.html" title="fcdpro_if_filter" alt="" coords="25,112,129,139"/>
+<area shape="rect" id="node5" href="$d5/d49/structfcdpro__rf__filter.html" title="fcdpro_rf_filter" alt="" coords="24,163,129,189"/>
+<area shape="rect" id="node6" href="$d7/dba/structfcdpro__lna__gain.html" title="fcdpro_lna_gain" alt="" coords="20,213,133,240"/>
+<area shape="rect" id="node7" href="$dd/d9c/structfcdpro__if__gain3.html" title="fcdpro_if_gain3" alt="" coords="21,264,132,291"/>
+<area shape="rect" id="node8" href="$dc/d23/structfcdpro__if__gain4.html" title="fcdpro_if_gain4" alt="" coords="21,315,132,341"/>
+<area shape="rect" id="node9" href="$d9/df9/structfcdpro__if__gain5.html" title="fcdpro_if_gain5" alt="" coords="21,365,132,392"/>
+<area shape="rect" id="node10" href="$df/d35/structfcdpro__if__gain6.html" title="fcdpro_if_gain6" alt="" coords="21,416,132,443"/>
+<area shape="rect" id="node11" href="$d5/d0f/structfcdpro__bias__current.html" title="fcdpro_bias_current" alt="" coords="9,467,145,493"/>
+<area shape="rect" id="node12" href="$db/d61/structfcdpro__if__rc__filter.html" title="fcdpro_if_rc_filter" alt="" coords="15,517,138,544"/>
+<area shape="rect" id="node13" href="$de/de3/structfcdpro__mixer__filter.html" title="fcdpro_mixer_filter" alt="" coords="12,568,141,595"/>
+<area shape="rect" id="node14" href="$de/d48/structfcdpro__band.html" title="fcdpro_band" alt="" coords="30,619,123,645"/>
+<area shape="rect" id="node15" href="$da/d32/structfcdpro__lna__enhance.html" title="fcdpro_lna_enhance" alt="" coords="7,669,146,696"/>
+<area shape="rect" id="node16" href="$d8/d7a/structfcdpro__mixer__gain.html" title="fcdpro_mixer_gain" alt="" coords="13,720,141,747"/>
+<area shape="rect" id="node17" href="$d0/d37/structfcdpro__if__gain__mode.html" title="fcdpro_if_gain_mode" alt="" coords="5,771,148,797"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LocalSinkThread::MsgStartStop::create" name="LocalSinkThread::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d6/d11/classLocalSinkThread_1_1MsgStartStop.html#a4e3a9b4c0db2f8a94c9a686ebd82b2cc" title="LocalSinkThread::MsgStart\lStop::MsgStartStop" alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node3" href="$d9/ddf/classLocalSinkThread.html#a49bf7234601f89c2e89fef62c6529044" title="LocalSinkThread::LocalSink\lThread" alt="" coords="465,5,649,47"/>
+<area shape="rect" id="node4" href="$d9/ddf/classLocalSinkThread.html#abf066be996922af26a09964f96d5a9bd" title="LocalSinkThread::startStop" alt="" coords="467,137,647,163"/>
+<area shape="rect" id="node6" href="$d9/ddf/classLocalSinkThread.html#a7233df0f56db0b39a5d1e42c83113dc2" title="LocalSinkThread::~LocalSink\lThread" alt="" coords="461,71,653,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="701,137,851,163"/>
+</map>

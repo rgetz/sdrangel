@@ -1,0 +1,12 @@
+<map id="WebAPIAdapterGUI::instanceAMBEDevicesPut" name="WebAPIAdapterGUI::instanceAMBEDevicesPut">
+<area shape="rect" id="node2" href="$d5/de9/classSWGSDRangel_1_1SWGAMBEDevices.html#a6a312518a62e62a8b0ba0adde9b6e8fc" title="SWGSDRangel::SWGAMBEDevices\l::getAmbeDevices" alt="" coords="505,5,745,47"/>
+<area shape="rect" id="node3" href="$d7/d8a/classDSPEngine.html#a6b5ffe664952b5b0ad5ba1e8a0fba9ea" title="DSPEngine::getAMBEEngine" alt="" coords="257,70,451,97"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a4a39fd62a2697733581045b9414907e4" title="WebAPIAdapterGUI::instance\lAMBEDevicesGet" alt="" coords="255,121,453,163"/>
+<area shape="rect" id="node9" href="$d3/d84/classAMBEEngine.html#a4863b9f98ff27149ceef1c032466e4fe" title="create a new controller for the device in reference " alt="" coords="251,187,457,214"/>
+<area shape="rect" id="node11" href="$d3/d84/classAMBEEngine.html#afafce8a3aecb8badbbaff3312982830f" title="AMBEEngine::releaseAll" alt="" coords="271,238,437,265"/>
+<area shape="rect" id="node5" href="$d7/d8a/classDSPEngine.html#ac3c61f0e0e16257e2228d10b319d1dcc" title="DSPEngine::getDVSerialNames" alt="" coords="520,71,731,98"/>
+<area shape="rect" id="node7" href="$d5/de9/classSWGSDRangel_1_1SWGAMBEDevices.html#aaf28f8535bef1b36cad71ee3a1b75152" title="SWGSDRangel::SWGAMBEDevices\l::init" alt="" coords="505,123,745,164"/>
+<area shape="rect" id="node8" href="$d5/de9/classSWGSDRangel_1_1SWGAMBEDevices.html#add1b7a0a3bfb3a3c441337f1237f6d8d" title="SWGSDRangel::SWGAMBEDevices\l::setNbDevices" alt="" coords="505,188,745,229"/>
+<area shape="rect" id="node6" href="$d3/d84/classAMBEEngine.html#ab2a653844025de4e7f7fdc628fa9c1ad" title="reference of the devices used (device path or url) " alt="" coords="793,71,988,98"/>
+<area shape="rect" id="node10" href="$d0/d9e/classAMBEWorker.html#aab393e37af61bfd0a3e5ea8fe6647c0b" title="Either serial device or ip:port. " alt="" coords="556,254,695,281"/>
+</map>

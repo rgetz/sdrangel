@@ -1,0 +1,12 @@
+<map id="DevicePlutoSDRShared::MsgCrossReportToBuddy::getLoPPMTenths" name="DevicePlutoSDRShared::MsgCrossReportToBuddy::getLoPPMTenths">
+<area shape="rect" id="node2" href="$d2/d66/classPlutoSDROutputGUI.html#af3f2e2282b81049df089b0733f18bf42" title="PlutoSDROutputGUI::\lhandleMessage" alt="" coords="268,5,420,47"/>
+<area shape="rect" id="node5" href="$d7/df0/classPlutoSDRInputGui.html#a35a6b4f46507e3b281818382207b828e" title="PlutoSDRInputGui::handle\lMessage" alt="" coords="256,71,432,112"/>
+<area shape="rect" id="node8" href="$da/dff/classPlutoSDROutput.html#ad132fd5cef658cfceffc18fe8cc34967" title="PlutoSDROutput::handleMessage" alt="" coords="235,137,453,163"/>
+<area shape="rect" id="node10" href="$d2/d3a/classPlutoSDRInput.html#a9afd466714904b65e49763015e29e79b" title="PlutoSDRInput::handleMessage" alt="" coords="239,187,449,214"/>
+<area shape="rect" id="node3" href="$d2/d66/classPlutoSDROutputGUI.html#a1a9019c8d9d45eda1b322f25cfee7b85" title="PlutoSDROutputGUI::\lhandleInputMessages" alt="" coords="535,5,687,47"/>
+<area shape="rect" id="node4" href="$d2/d66/classPlutoSDROutputGUI.html#afd8e2abb149639500049e4897eb5d4df" title="PlutoSDROutputGUI::\lPlutoSDROutputGUI" alt="" coords="815,5,967,47"/>
+<area shape="rect" id="node6" href="$d7/df0/classPlutoSDRInputGui.html#a4d13aa1a27b1f4ce2b4fd8cc613ea458" title="PlutoSDRInputGui::handle\lInputMessages" alt="" coords="523,71,699,112"/>
+<area shape="rect" id="node7" href="$d7/df0/classPlutoSDRInputGui.html#adcbceda8bc14341852c3a7e5c0059dae" title="PlutoSDRInputGui::PlutoSDRInputGui" alt="" coords="768,78,1015,105"/>
+<area shape="rect" id="node9" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="501,137,720,163"/>
+<area shape="rect" id="node11" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="507,187,715,214"/>
+</map>

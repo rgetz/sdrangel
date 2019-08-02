@@ -1,0 +1,14 @@
+<map id="DeviceSet::ChannelInstanceRegistration::ChannelInstanceRegistration" name="DeviceSet::ChannelInstanceRegistration::ChannelInstanceRegistration">
+<area shape="rect" id="node2" href="$d5/d32/classDeviceSet.html#a58e4d50f423117dbd5f84eda51716622" title="DeviceSet::addRxChannel" alt="" coords="332,267,509,294"/>
+<area shape="rect" id="node8" href="$d5/d32/classDeviceSet.html#a6fd623b77485b3bfb03ac9681eb2005e" title="DeviceSet::addTxChannel" alt="" coords="333,318,508,345"/>
+<area shape="rect" id="node9" href="$d5/d32/classDeviceSet.html#a46a1bf76a5e125d5e2cc6666270ed734" title="DeviceSet::loadRxChannel\lSettings" alt="" coords="331,5,511,47"/>
+<area shape="rect" id="node11" href="$d5/d32/classDeviceSet.html#a09ebd77730b4cbd366e302d059358065" title="DeviceSet::loadTxChannel\lSettings" alt="" coords="331,71,510,112"/>
+<area shape="rect" id="node12" href="$d5/d32/classDeviceSet.html#a6c59413f783e2e6927ae77bc04179406" title="DeviceSet::registerRxChannel\lInstance" alt="" coords="321,136,520,177"/>
+<area shape="rect" id="node13" href="$d5/d32/classDeviceSet.html#a64f4adb9c01eb8c771b62bf334fd3b47" title="DeviceSet::registerTxChannel\lInstance" alt="" coords="322,201,519,243"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#a020876e02b21305a5084d49788714a00" title="MainCore::addChannel" alt="" coords="589,267,743,294"/>
+<area shape="rect" id="node7" href="$d5/d32/classDeviceSet.html#a804724a8f32050e8f1582511fb330cdc" title="DeviceSet::getNumberOfTx\lChannels" alt="" coords="574,169,758,211"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="812,173,989,199"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="1037,173,1221,199"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1269,173,1412,199"/>
+<area shape="rect" id="node10" href="$db/d47/classMainCore.html#a224dee060d431a15b347fd691c775e23" title="MainCore::loadPresetSettings" alt="" coords="568,78,764,105"/>
+</map>

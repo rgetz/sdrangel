@@ -1,0 +1,6 @@
+<map id="SSBModGUI::resetToDefaults" name="SSBModGUI::resetToDefaults">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="252,5,435,32"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="483,5,625,32"/>
+<area shape="rect" id="node4" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="673,5,915,32"/>
+<area shape="rect" id="node5" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="963,5,1133,32"/>
+</map>

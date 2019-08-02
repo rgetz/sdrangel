@@ -1,0 +1,27 @@
+<map id="qrtplib::RTPSourceData::IsSender" name="qrtplib::RTPSourceData::IsSender">
+<area shape="rect" id="node2" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a9a0d6aa533accbfeb2ad1901a1db3290" title="qrtplib::RTCPPacketBuilder\l::BuildBYEPacket" alt="" coords="441,5,624,47"/>
+<area shape="rect" id="node6" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a78bf3048ae31cad82020d4ebd96a2b2a" title="qrtplib::RTCPPacketBuilder\l::BuildNextPacket" alt="" coords="441,201,624,243"/>
+<area shape="rect" id="node7" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a52120eeae4e949eef1c588f4445d8db2" title="qrtplib::RTPSources\l::BYETimeout" alt="" coords="234,372,374,413"/>
+<area shape="rect" id="node8" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a58bc521d794d5fa05895db118b4da84d" title="qrtplib::RTCPScheduler\l::CalculateNextRTCPTime" alt="" coords="215,136,393,177"/>
+<area shape="rect" id="node11" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a975e84397322d651c0c96ae9bcd7330d" title="qrtplib::RTCPScheduler\l::IsTime" alt="" coords="453,71,613,112"/>
+<area shape="rect" id="node12" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a21781f3166bba9d25fbb0a382bd00b5a" title="qrtplib::RTPSources\l::DeleteOwnSSRC" alt="" coords="463,267,603,308"/>
+<area shape="rect" id="node13" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a6d4ee7cbe2bc7eb92b2e78db276c34a2" title="qrtplib::RTPSources\l::MultipleTimeouts" alt="" coords="234,307,374,348"/>
+<area shape="rect" id="node14" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad6b9ef0660612537f4763b0f14d37f3d" title="qrtplib::RTPSources\l::NoteTimeout" alt="" coords="234,437,374,479"/>
+<area shape="rect" id="node15" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a6600fd1c2b6b0a49651766f30ccdde2b" title="qrtplib::RTPSources\l::ProcessRTPPacket" alt="" coords="231,503,377,544"/>
+<area shape="rect" id="node17" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a8b058309fa908344e1fddec80ac9692d" title="qrtplib::RTPSources\l::SenderTimeout" alt="" coords="234,568,374,609"/>
+<area shape="rect" id="node18" href="$d1/dd1/classqrtplib_1_1RTPSources.html#af259a1a173028502eddb40b67517091e" title="qrtplib::RTPSources\l::SentRTPPacket" alt="" coords="234,633,374,675"/>
+<area shape="rect" id="node26" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a49078fb83903f377b68e70162712fee4" title="qrtplib::RTPSources\l::Timeout" alt="" coords="234,699,374,740"/>
+<area shape="rect" id="node3" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="674,39,813,80"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="672,201,815,243"/>
+<area shape="rect" id="node4" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="863,46,1007,73"/>
+<area shape="rect" id="node9" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#acd75d0c599713320949aef1df24a3d2c" title="qrtplib::RTCPScheduler\l::GetTransmissionDelay" alt="" coords="451,136,614,177"/>
+<area shape="rect" id="node10" href="$db/d64/classqrtplib_1_1RTPSession.html#a5b17194b1cd994e626116604890d31b5" title="qrtplib::RTPSession\l::GetRTCPDelay" alt="" coords="674,136,813,177"/>
+<area shape="rect" id="node16" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a61e3ca0645a30fadd38ab89dd4c26622" title="qrtplib::RTPSources\l::ProcessRawPacket" alt="" coords="459,503,606,544"/>
+<area shape="rect" id="node19" href="$db/d64/classqrtplib_1_1RTPSession.html#adf01320b942ca9497d79db4244284cca" title="qrtplib::RTPSession\l::SendPacket" alt="" coords="463,665,602,707"/>
+<area shape="rect" id="node25" href="$db/d64/classqrtplib_1_1RTPSession.html#a83ebeb0418784a66ac173978f85fbea0" title="qrtplib::RTPSession\l::SendPacketEx" alt="" coords="463,600,602,641"/>
+<area shape="rect" id="node20" href="$de/df9/classRTPSink.html#a8c1bbb56f227cedea0645ae88438d6c8" title="RTPSink::write" alt="" coords="688,673,799,699"/>
+<area shape="rect" id="node21" href="$de/df9/classRTPSink.html#a88b4dfb8e061301adf56b6b6b7122fd2" title="RTPSink::isValid" alt="" coords="873,698,996,725"/>
+<area shape="rect" id="node23" href="$d1/d16/classAudioNetSink.html#a738e861df7b5bf32bf6450d7373e8315" title="AudioNetSink::write" alt="" coords="865,647,1004,674"/>
+<area shape="rect" id="node22" href="$d1/d16/classAudioNetSink.html#ab70fd5025f848d8a3b533ec80cc87d7f" title="AudioNetSink::isRTPCapable" alt="" coords="1055,698,1249,725"/>
+<area shape="rect" id="node24" href="$d8/ddc/classAudioOutput.html#ab2826a13419875d9d7c7ab33e5ea934b" title="AudioOutput::readData" alt="" coords="1075,647,1229,674"/>
+</map>

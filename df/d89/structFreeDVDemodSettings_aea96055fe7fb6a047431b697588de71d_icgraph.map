@@ -1,0 +1,17 @@
+<map id="FreeDVDemodSettings::getLowCutoff" name="FreeDVDemodSettings::getLowCutoff">
+<area shape="rect" id="node2" href="$de/de0/classFreeDVDemod.html#aa2ca69115374e2873b5808f2d357097c" title="FreeDVDemod::applyFreeDVMode" alt="" coords="215,78,440,105"/>
+<area shape="rect" id="node12" href="$da/d3d/classFreeDVDemodGUI.html#af522ab147fe8cb4ce277cc83b1e13440" title="FreeDVDemodGUI::displaySettings" alt="" coords="492,147,723,174"/>
+<area shape="rect" id="node16" href="$da/d3d/classFreeDVDemodGUI.html#af3aa8fbea2d411e27d113e1fdc8f31b0" title="FreeDVDemodGUI::on\l_freeDVMode_currentIndexChanged" alt="" coords="211,192,444,233"/>
+<area shape="rect" id="node3" href="$de/de0/classFreeDVDemod.html#a98e6dc490d1ea76cf7aad0a49a2ec332" title="FreeDVDemod::applySettings" alt="" coords="509,71,705,98"/>
+<area shape="rect" id="node4" href="$de/de0/classFreeDVDemod.html#a3cbf4c7469341cf5db6f73e6a204b882" title="FreeDVDemod::FreeDVDemod" alt="" coords="785,17,989,43"/>
+<area shape="rect" id="node6" href="$de/de0/classFreeDVDemod.html#af7a77e592fb9250da8620b00881147ae" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="783,71,991,98"/>
+<area shape="rect" id="node5" href="$d2/de4/classFreeDVDemod_1_1MsgConfigureChannelizer.html#ae517a606941d0a0786f6902f96883d3d" title="FreeDVDemod::MsgConfigure\lChannelizer::MsgConfigureChannelizer" alt="" coords="1051,5,1300,47"/>
+<area shape="rect" id="node7" href="$de/de0/classFreeDVDemod.html#ad960e3d5b9e76abdb096930ccb2e2ead" title="FreeDVDemod::setSampleSink" alt="" coords="1073,71,1278,98"/>
+<area shape="rect" id="node8" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="1348,122,1600,149"/>
+<area shape="rect" id="node9" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1648,122,1825,149"/>
+<area shape="rect" id="node10" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1873,122,2109,149"/>
+<area shape="rect" id="node11" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="2157,122,2321,149"/>
+<area shape="rect" id="node13" href="$da/d3d/classFreeDVDemodGUI.html#a906d9c3a01204acbcfa8003b51bbe605" title="FreeDVDemodGUI::deserialize" alt="" coords="785,173,988,199"/>
+<area shape="rect" id="node14" href="$da/d3d/classFreeDVDemodGUI.html#a0d25af0979f4c5abf5f3ed3799cfbb73" title="FreeDVDemodGUI::handleMessage" alt="" coords="771,223,1003,250"/>
+<area shape="rect" id="node15" href="$da/d3d/classFreeDVDemodGUI.html#a68c8abe61364392df718b2f59cda69d9" title="FreeDVDemodGUI::handleInput\lMessages" alt="" coords="1071,195,1279,236"/>
+</map>

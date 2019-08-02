@@ -1,0 +1,23 @@
+<map id="UDPSource::MsgConfigureChannelizer::create" name="UDPSource::MsgConfigureChannelizer::create">
+<area shape="rect" id="node2" href="$d5/d9e/classUDPSourceGUI.html#a91d26b13a2a62e7016753a6143c02925" title="UDPSourceGUI::applySettings" alt="" coords="304,445,507,472"/>
+<area shape="rect" id="node21" href="$de/da4/classUDPSource.html#a4fdca4d41d0a6cdeba125c524b8440ab" title="UDPSource::webapiSettings\lPutPatch" alt="" coords="311,695,500,737"/>
+<area shape="rect" id="node3" href="$d5/d9e/classUDPSourceGUI.html#aec756dfa29eefef73f4ad59937407402" title="UDPSourceGUI::setCenterFrequency" alt="" coords="555,5,797,32"/>
+<area shape="rect" id="node4" href="$d5/d9e/classUDPSourceGUI.html#a326b20fd667702056b8f8104fa98513e" title="UDPSourceGUI::resetToDefaults" alt="" coords="567,56,785,83"/>
+<area shape="rect" id="node5" href="$d5/d9e/classUDPSourceGUI.html#a5a2b8de52133e6a15fb46020adece247" title="UDPSourceGUI::deserialize" alt="" coords="861,81,1048,108"/>
+<area shape="rect" id="node6" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="845,216,1064,243"/>
+<area shape="rect" id="node10" href="$d5/d9e/classUDPSourceGUI.html#a19bbee5d1c4287c5693cba167ebe55ad" title="UDPSourceGUI::channelMarker\lChangedByCursor" alt="" coords="571,209,781,250"/>
+<area shape="rect" id="node11" href="$d5/d9e/classUDPSourceGUI.html#aae7d1d60aecc7d093848ee7527b3b0af" title="UDPSourceGUI::on_deltaFrequency\l_changed" alt="" coords="559,274,793,315"/>
+<area shape="rect" id="node12" href="$d5/d9e/classUDPSourceGUI.html#a7532cbb2c11d379dc6af248121cc3766" title="UDPSourceGUI::on_gainIn\l_valueChanged" alt="" coords="586,339,766,381"/>
+<area shape="rect" id="node13" href="$d5/d9e/classUDPSourceGUI.html#a9335414a53fe506703312b6cc78f62c9" title="UDPSourceGUI::on_gainOut\l_valueChanged" alt="" coords="581,405,771,446"/>
+<area shape="rect" id="node14" href="$d5/d9e/classUDPSourceGUI.html#aaa22a5e606e4c67eb3bc3dce1b94eb5d" title="UDPSourceGUI::on_squelch\l_valueChanged" alt="" coords="581,470,771,511"/>
+<area shape="rect" id="node15" href="$d5/d9e/classUDPSourceGUI.html#ad4b55c59b17f10960b7a3336e2b9a8ea" title="UDPSourceGUI::on_squelch\lGate_valueChanged" alt="" coords="581,535,771,577"/>
+<area shape="rect" id="node16" href="$d5/d9e/classUDPSourceGUI.html#a62064ea988fb699ea53f5b3d651debc1" title="UDPSourceGUI::on_channel\lMute_toggled" alt="" coords="581,601,771,642"/>
+<area shape="rect" id="node17" href="$d5/d9e/classUDPSourceGUI.html#a393834b451eb030bdec8e66082feb1c4" title="UDPSourceGUI::on_applyBtn\l_clicked" alt="" coords="578,666,774,707"/>
+<area shape="rect" id="node18" href="$d5/d9e/classUDPSourceGUI.html#a96ca8a003d3db09751d7e61c50f5ec99" title="UDPSourceGUI::on_autoRWBalance\l_toggled" alt="" coords="556,731,796,773"/>
+<area shape="rect" id="node19" href="$d5/d9e/classUDPSourceGUI.html#a05ff5331a7f0412c25a2612779496b6e" title="UDPSourceGUI::on_stereoInput\l_toggled" alt="" coords="571,797,781,838"/>
+<area shape="rect" id="node20" href="$d5/d9e/classUDPSourceGUI.html#a9fcbbd6d5ff2029cb987d9a1a53b4e49" title="UDPSourceGUI::onMenuDialog\lCalled" alt="" coords="573,862,779,903"/>
+<area shape="rect" id="node7" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1112,216,1272,243"/>
+<area shape="rect" id="node8" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1320,209,1507,250"/>
+<area shape="rect" id="node9" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1555,216,1744,243"/>
+<area shape="rect" id="node22" href="$de/da4/classUDPSource.html#a50fa07dafcd0c0e49d7d4808adf3cdf6" title="UDPSource::getStreamCenter\lFrequency" alt="" coords="577,927,775,969"/>
+</map>

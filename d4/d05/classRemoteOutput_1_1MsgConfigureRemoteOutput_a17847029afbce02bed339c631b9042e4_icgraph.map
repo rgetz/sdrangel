@@ -1,0 +1,9 @@
+<map id="RemoteOutput::MsgConfigureRemoteOutput::MsgConfigureRemoteOutput" name="RemoteOutput::MsgConfigureRemoteOutput::MsgConfigureRemoteOutput">
+<area shape="rect" id="node2" href="$d4/d05/classRemoteOutput_1_1MsgConfigureRemoteOutput.html#a1f82991d75fb5575ec93c2076ac356bb" title="RemoteOutput::MsgConfigure\lRemoteOutput::create" alt="" coords="296,74,492,115"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#aa445b61c80f04687d19441ff9764c629" title="RemoteOutput::deserialize" alt="" coords="553,23,731,49"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#a09c23db456c81edb373d113f10dcfba0" title="RemoteOutput::webapiSettings\lPutPatch" alt="" coords="540,74,744,115"/>
+<area shape="rect" id="node7" href="$d8/d08/classRemoteOutputSinkGui.html#aa7b2f6f5c3b401cb730815f870c32b20" title="RemoteOutputSinkGui\l::updateHardware" alt="" coords="565,139,719,181"/>
+<area shape="rect" id="node4" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="792,5,1087,61"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="823,85,1056,112"/>
+<area shape="rect" id="node8" href="$d8/d08/classRemoteOutputSinkGui.html#a817ea2a5b7330ea2cd4ae0610a190b1b" title="RemoteOutputSinkGui\l::RemoteOutputSinkGui" alt="" coords="859,139,1020,181"/>
+</map>

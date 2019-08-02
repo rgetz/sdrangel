@@ -1,0 +1,42 @@
+<map id="AudioDeviceManager::startAudioInput" name="AudioDeviceManager::startAudioInput">
+<area shape="rect" id="node2" href="$d0/d40/classAudioDeviceManager.html#a7d68a4ec1329edae2465f72ada7a656e" title="Add an audio source. " alt="" coords="204,322,351,363"/>
+<area shape="rect" id="node36" href="$d0/d40/classAudioDeviceManager.html#a903f3876493a84e760cdb402ceaeaeaf" title="AudioDeviceManager\l::unsetInputDeviceInfo" alt="" coords="200,666,355,707"/>
+<area shape="rect" id="node3" href="$db/d93/classAMMod.html#a806a46e308f33be1053e3dca65c20d6b" title="AMMod::AMMod" alt="" coords="683,52,803,79"/>
+<area shape="rect" id="node5" href="$d6/de3/classWFMMod.html#aea7a42df0087b2917115e037df66b58a" title="WFMMod::applySettings" alt="" coords="418,221,585,248"/>
+<area shape="rect" id="node6" href="$d6/de3/classWFMMod.html#a3ec9a5e2e2e9b52cf401f9898c93c346" title="WFMMod::WFMMod" alt="" coords="671,171,815,197"/>
+<area shape="rect" id="node10" href="$db/d93/classAMMod.html#ad4d537f484214412a687bc794cb7e0fd" title="AMMod::applySettings" alt="" coords="424,103,579,129"/>
+<area shape="rect" id="node13" href="$de/df8/classNFMMod.html#a5df57ef110295347dabb14a81e2df9d6" title="NFMMod::applySettings" alt="" coords="420,329,583,356"/>
+<area shape="rect" id="node14" href="$de/df8/classNFMMod.html#a6a5f4ec527cfb7e59b5e6abbb13942b2" title="NFMMod::NFMMod" alt="" coords="674,281,813,308"/>
+<area shape="rect" id="node18" href="$d6/da5/classFreeDVMod.html#a6131e286149905c42097a601ecbab55e" title="FreeDVMod::applySettings" alt="" coords="412,431,591,457"/>
+<area shape="rect" id="node19" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="658,412,829,439"/>
+<area shape="rect" id="node27" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="421,532,582,559"/>
+<area shape="rect" id="node28" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="676,532,811,559"/>
+<area shape="rect" id="node4" href="$d8/d80/classAMMod_1_1MsgReportFileSourceStreamData.html#ab75850db9c17363b847106b45eb14e93" title="AMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="895,5,1122,61"/>
+<area shape="rect" id="node8" href="$d6/de3/classWFMMod.html#a17f8e8203448d5f97fc8850ffd705b90" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="654,221,833,248"/>
+<area shape="rect" id="node7" href="$db/daf/classWFMMod_1_1MsgReportFileSourceStreamData.html#aeff81f569c77de84e535283bda05d14a" title="WFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="895,136,1122,192"/>
+<area shape="rect" id="node9" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="943,216,1074,243"/>
+<area shape="rect" id="node11" href="$db/d93/classAMMod.html#acd6c9fea90cb3a88360247196a94fe63" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="660,103,827,129"/>
+<area shape="rect" id="node12" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="949,85,1068,112"/>
+<area shape="rect" id="node16" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="656,340,831,367"/>
+<area shape="rect" id="node15" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="895,267,1122,323"/>
+<area shape="rect" id="node17" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="945,347,1072,373"/>
+<area shape="rect" id="node21" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="648,471,839,497"/>
+<area shape="rect" id="node20" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="895,397,1122,453"/>
+<area shape="rect" id="node22" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="887,477,1131,504"/>
+<area shape="rect" id="node23" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1179,477,1397,504"/>
+<area shape="rect" id="node24" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1445,477,1605,504"/>
+<area shape="rect" id="node25" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1681,470,1867,511"/>
+<area shape="rect" id="node26" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="1943,477,2132,504"/>
+<area shape="rect" id="node30" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="657,595,830,621"/>
+<area shape="rect" id="node29" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="895,528,1122,584"/>
+<area shape="rect" id="node31" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="895,608,1122,635"/>
+<area shape="rect" id="node32" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1197,608,1379,635"/>
+<area shape="rect" id="node33" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1454,608,1597,635"/>
+<area shape="rect" id="node34" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1653,608,1895,635"/>
+<area shape="rect" id="node35" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1952,608,2123,635"/>
+<area shape="rect" id="node37" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="427,583,575,609"/>
+<area shape="rect" id="node38" href="$d7/de5/classWebAPIAdapterGUI.html#a1f004e240d68fd4dd3fa11971e0a7567" title="WebAPIAdapterGUI::instance\lAudioInputDelete" alt="" coords="403,634,600,675"/>
+<area shape="rect" id="node39" href="$d7/de5/classWebAPIAdapterGUI.html#a6d7f3ad7c4fde5ae863c502a70685367" title="WebAPIAdapterGUI::instance\lAudioOutputDelete" alt="" coords="403,699,600,741"/>
+<area shape="rect" id="node40" href="$dc/dd8/classWebAPIAdapterSrv.html#aaa8ba2887ec328415ceffbfbccd99fcb" title="WebAPIAdapterSrv::instance\lAudioInputDelete" alt="" coords="405,765,598,806"/>
+<area shape="rect" id="node41" href="$dc/dd8/classWebAPIAdapterSrv.html#abf6215b07a7da57663ffa21737a6b877" title="WebAPIAdapterSrv::instance\lAudioOutputDelete" alt="" coords="405,830,598,871"/>
+</map>

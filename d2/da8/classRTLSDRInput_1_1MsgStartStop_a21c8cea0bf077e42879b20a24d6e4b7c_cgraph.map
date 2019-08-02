@@ -1,0 +1,134 @@
+<map id="RTLSDRInput::MsgStartStop::MsgStartStop" name="RTLSDRInput::MsgStartStop::MsgStartStop">
+<area shape="rect" id="node2" href="$d0/d36/classRTLSDRInput.html#a23d6b8a033f9c9bc1aadf232432ef275" title="RTLSDRInput::deserialize" alt="" coords="261,301,436,327"/>
+<area shape="rect" id="node16" href="$d0/d36/classRTLSDRInput.html#a5a204673c27787103b5fe6db5ecbea05" title="RTLSDRInput::destroy" alt="" coords="271,2586,427,2613"/>
+<area shape="rect" id="node17" href="$d0/d36/classRTLSDRInput.html#a31cdff111113ccd193efed1948b0c83b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="283,1982,414,2009"/>
+<area shape="rect" id="node94" href="$d0/d36/classRTLSDRInput.html#a02ae4ac768e914322eef1bb7317dad89" title="RTLSDRInput::RTLSDRInput" alt="" coords="251,2535,447,2562"/>
+<area shape="rect" id="node115" href="$d0/d36/classRTLSDRInput.html#a9be128bd7bcf12bd7e3b7a22231539b6" title="RTLSDRInput::stop" alt="" coords="814,2229,953,2255"/>
+<area shape="rect" id="node118" href="$d0/d36/classRTLSDRInput.html#a660dffcd12ae46614e70ad6e1c4a3816" title="RTLSDRInput::serialize" alt="" coords="268,2931,429,2958"/>
+<area shape="rect" id="node127" href="$d0/d36/classRTLSDRInput.html#a243ae9fc605cd9f09e8c618149137adf" title="RTLSDRInput::start" alt="" coords="279,2089,418,2115"/>
+<area shape="rect" id="node129" href="$d0/d36/classRTLSDRInput.html#a56e5ff07ef975cc10db1e05cc358ba02" title="RTLSDRInput::~RTLSDRInput" alt="" coords="247,2342,451,2369"/>
+<area shape="rect" id="node3" href="$d3/d83/classRTLSDRInput_1_1MsgConfigureRTLSDR.html#a0a4f8d45568a63bc4fe9a69d2bfcf37d" title="RTLSDRInput::MsgConfigure\lRTLSDR::create" alt="" coords="511,32,705,73"/>
+<area shape="rect" id="node5" href="$d1/da1/structRTLSDRSettings.html#ac096badf3321deccb0f4fea8c6ee4220" title="RTLSDRSettings::deserialize" alt="" coords="511,301,705,327"/>
+<area shape="rect" id="node7" href="$d1/da1/structRTLSDRSettings.html#ad8084321907f880fae2a325101ce667f" title="RTLSDRSettings::resetToDefaults" alt="" coords="771,71,996,98"/>
+<area shape="rect" id="node15" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1387,661,1536,687"/>
+<area shape="rect" id="node4" href="$d3/d83/classRTLSDRInput_1_1MsgConfigureRTLSDR.html#a501da44cf12d9394f75e31066d9c886a" title="RTLSDRInput::MsgConfigure\lRTLSDR::MsgConfigureRTLSDR" alt="" coords="774,5,993,47"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="818,188,949,229"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="818,253,949,295"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="818,515,949,556"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="818,319,949,360"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="818,384,949,425"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#a63b7ff37bc8ed9f4f9f9562d1d7e4e73" title="SimpleDeserializer\l::readS64" alt="" coords="818,449,949,491"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="818,123,949,164"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1105,416,1236,457"/>
+<area shape="rect" id="node18" href="$d0/d36/classRTLSDRInput.html#aefb8491a39b2c5efeae1af6a3686d046" title="RTLSDRInput::applySettings" alt="" coords="512,1895,704,1922"/>
+<area shape="rect" id="node19" href="$db/d0c/classDeviceSampleSource.html#a1f77fa12f7d8afe13ea3fbe538d29b15" title="DeviceSampleSource\l::calculateDeviceCenterFrequency" alt="" coords="772,1921,995,1963"/>
+<area shape="rect" id="node21" href="$dd/db6/classDeviceAPI.html#ae4ba357aa335e8111fb187b96309cba4" title="Configure current device engine DSP corrections (Rx) " alt="" coords="777,755,990,782"/>
+<area shape="rect" id="node24" href="$dd/db6/classDeviceAPI.html#ac83b6abaec341f91e8652ca70882e5bb" title="Device engine message queue. " alt="" coords="787,1095,979,1136"/>
+<area shape="rect" id="node28" href="$da/d2c/classFileRecord.html#a25a033993e153abc716521e5f6655cad" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="791,915,975,942"/>
+<area shape="rect" id="node33" href="$d0/d36/classRTLSDRInput.html#aa82747283990214d14e6876ca79747a7" title="RTLSDRInput::set_ds_mode" alt="" coords="788,1805,979,1831"/>
+<area shape="rect" id="node34" href="$da/d60/classRTLSDRThread.html#a36b9495859d15c1d601e783d0df06425" title="RTLSDRThread::setFcPos" alt="" coords="793,1987,973,2014"/>
+<area shape="rect" id="node35" href="$da/d60/classRTLSDRThread.html#addb0ea6f3ea86121070f64a48e3f9216" title="RTLSDRThread::setLog2Decimation" alt="" coords="765,2038,1001,2065"/>
+<area shape="rect" id="node36" href="$da/d60/classRTLSDRThread.html#ab356d4167a0c38d249572b7f3e984966" title="RTLSDRThread::setSamplerate" alt="" coords="779,2089,987,2115"/>
+<area shape="rect" id="node37" href="$d0/d36/classRTLSDRInput.html#a2dc5836882b50c2aed93b8f28f80970b" title="RTLSDRInput::webapiReverse\lSendSettings" alt="" coords="782,1856,985,1897"/>
+<area shape="rect" id="node20" href="$db/d0c/classDeviceSampleSource.html#a8d7e8bf06f70b43e5e52e73d89de852f" title="DeviceSampleSource\l::calculateFrequencyShift" alt="" coords="1085,2681,1256,2723"/>
+<area shape="rect" id="node22" href="$d2/d3b/classDSPDeviceSourceEngine.html#a65c2430d7ac74a2c112b3aa50b8d2c10" title="Configure DSP corrections. " alt="" coords="1085,683,1257,724"/>
+<area shape="rect" id="node23" href="$df/d80/classDSPDeviceMIMOEngine.html#acee0fcafe1b7eb91dd7ff9a11bb5359a" title="Configure source DSP corrections. " alt="" coords="1087,748,1254,789"/>
+<area shape="rect" id="node25" href="$d2/d3b/classDSPDeviceSourceEngine.html#a5c45cdb279f4bf1a37bdeabd96ca7460" title="DSPDeviceSourceEngine\l::getInputMessageQueue" alt="" coords="1085,1127,1257,1168"/>
+<area shape="rect" id="node26" href="$d1/d90/classDSPDeviceSinkEngine.html#af3d2710cedb3a89aeea6fb52ee3c6adc" title="DSPDeviceSinkEngine\l::getInputMessageQueue" alt="" coords="1087,996,1255,1037"/>
+<area shape="rect" id="node27" href="$df/d80/classDSPDeviceMIMOEngine.html#a7281426ef3076f28470783682717d759" title="DSPDeviceMIMOEngine\l::getInputMessageQueue" alt="" coords="1087,1061,1255,1103"/>
+<area shape="rect" id="node29" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="1095,813,1247,855"/>
+<area shape="rect" id="node30" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="1095,879,1247,920"/>
+<area shape="rect" id="node31" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="1111,945,1230,971"/>
+<area shape="rect" id="node32" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1377,945,1546,971"/>
+<area shape="rect" id="node38" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae5eac5b8987ae23686f31a6fd502bb67" title="SWGSDRangel::SWGDeviceSettings\l::asJson" alt="" coords="1049,2616,1292,2657"/>
+<area shape="rect" id="node72" href="$dd/db6/classDeviceAPI.html#a5d645b04a7e857affab1cef8fd54ac77" title="DeviceAPI::getDeviceSetIndex" alt="" coords="1069,2173,1273,2199"/>
+<area shape="rect" id="node73" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ab7e5a98897e1899cfe3b49dca84e1260" title="SWGSDRangel::SWGDeviceSettings\l::getRtlSdrSettings" alt="" coords="1049,2224,1292,2265"/>
+<area shape="rect" id="node74" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a48318886e3a0139833026ffa2a9ed630" title="SWGSDRangel::SWGRtlSdrSettings\l::setAgc" alt="" coords="1051,2289,1290,2331"/>
+<area shape="rect" id="node75" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#afdf951bdfe6811465333d70f46c383e9" title="SWGSDRangel::SWGRtlSdrSettings\l::setCenterFrequency" alt="" coords="1051,2355,1290,2396"/>
+<area shape="rect" id="node76" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#aff9bea3c2855aade184b67320a8d44f9" title="SWGSDRangel::SWGRtlSdrSettings\l::setDcBlock" alt="" coords="1051,2420,1290,2461"/>
+<area shape="rect" id="node77" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a3458b2e0f0383ec80ba3bcf51aff66f1" title="SWGSDRangel::SWGDeviceSettings\l::setDeviceHwType" alt="" coords="1049,2485,1292,2527"/>
+<area shape="rect" id="node78" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ae6a7fcfed7f96a51fbc05d5d67a04e8f" title="SWGSDRangel::SWGRtlSdrSettings\l::setDevSampleRate" alt="" coords="1051,2551,1290,2592"/>
+<area shape="rect" id="node79" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa9e8c4f37cc72d44aa9976e4986c4561" title="SWGSDRangel::SWGDeviceSettings\l::setDirection" alt="" coords="1049,1192,1292,1233"/>
+<area shape="rect" id="node80" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#af299c6a4ec520e8bc43f3fdec1b82699" title="SWGSDRangel::SWGRtlSdrSettings\l::setFcPos" alt="" coords="1051,1257,1290,1299"/>
+<area shape="rect" id="node81" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a6340196341539c32c80223f2fc024b48" title="SWGSDRangel::SWGRtlSdrSettings\l::setFileRecordName" alt="" coords="1051,1323,1290,1364"/>
+<area shape="rect" id="node82" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a8e0c63164f8650afc5c3d61caefc5cd3" title="SWGSDRangel::SWGRtlSdrSettings\l::setGain" alt="" coords="1051,1388,1290,1429"/>
+<area shape="rect" id="node83" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ad33f3e600c50cc594dc382cf003913cf" title="SWGSDRangel::SWGRtlSdrSettings\l::setIqImbalance" alt="" coords="1051,1453,1290,1495"/>
+<area shape="rect" id="node84" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a10862cfa2839528da0edbc4c844d830b" title="SWGSDRangel::SWGRtlSdrSettings\l::setLog2Decim" alt="" coords="1051,1519,1290,1560"/>
+<area shape="rect" id="node85" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a6fcca4293b17d3a43089fe18d683b67d" title="SWGSDRangel::SWGRtlSdrSettings\l::setLoPpmCorrection" alt="" coords="1051,1584,1290,1625"/>
+<area shape="rect" id="node86" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a972740581543e93b0798462b95265443" title="SWGSDRangel::SWGRtlSdrSettings\l::setLowSampleRate" alt="" coords="1051,1649,1290,1691"/>
+<area shape="rect" id="node87" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ad147b067a64e1bf87a60256de8a681cd" title="SWGSDRangel::SWGRtlSdrSettings\l::setNoModMode" alt="" coords="1051,1715,1290,1756"/>
+<area shape="rect" id="node88" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#ab907b1a7a3a4313acb5e94144a92619c" title="SWGSDRangel::SWGRtlSdrSettings\l::setOffsetTuning" alt="" coords="1051,1780,1290,1821"/>
+<area shape="rect" id="node89" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a13bb17c9c39e7e53427daed4b3a55c93" title="SWGSDRangel::SWGDeviceSettings\l::setOriginatorIndex" alt="" coords="1049,1845,1292,1887"/>
+<area shape="rect" id="node90" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a7e088ab92281492118b2c580cbd03fd7" title="SWGSDRangel::SWGRtlSdrSettings\l::setRfBandwidth" alt="" coords="1051,1911,1290,1952"/>
+<area shape="rect" id="node91" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a36c1476999e535ef1740fec58a6246d3" title="SWGSDRangel::SWGDeviceSettings\l::setRtlSdrSettings" alt="" coords="1049,1976,1292,2017"/>
+<area shape="rect" id="node92" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a2dec77fdaa62aef145c900220f08c155" title="SWGSDRangel::SWGRtlSdrSettings\l::setTransverterDeltaFrequency" alt="" coords="1051,2041,1290,2083"/>
+<area shape="rect" id="node93" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#a1622404e47ceba83e25598d639d3da58" title="SWGSDRangel::SWGRtlSdrSettings\l::setTransverterMode" alt="" coords="1051,2107,1290,2148"/>
+<area shape="rect" id="node39" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae8aa4ed584a5c98577e006d35931ff05" title="SWGSDRangel::SWGDeviceSettings\l::asJsonObject" alt="" coords="1340,2616,1583,2657"/>
+<area shape="rect" id="node40" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1663,1682,1857,1709"/>
+<area shape="rect" id="node42" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a9d505d4ab2013b25f935ca1a056c7be1" title="SWGSDRangel::SWGAirspySettings\l::isSet" alt="" coords="1641,1733,1879,1775"/>
+<area shape="rect" id="node43" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#aa635ca9386dbc89d79f95de831e8116d" title="SWGSDRangel::SWGAirspyHFSettings\l::isSet" alt="" coords="1631,1799,1889,1840"/>
+<area shape="rect" id="node44" href="$d3/d73/classSWGSDRangel_1_1SWGBladeRF1InputSettings.html#aa977046b9d162de88fe2448e622d1259" title="SWGSDRangel::SWGBladeRF1\lInputSettings::isSet" alt="" coords="1654,1864,1866,1905"/>
+<area shape="rect" id="node45" href="$d5/da3/classSWGSDRangel_1_1SWGBladeRF2InputSettings.html#a159871a0ee376d9c264a748cc259ba32" title="SWGSDRangel::SWGBladeRF2\lInputSettings::isSet" alt="" coords="1654,1929,1866,1971"/>
+<area shape="rect" id="node46" href="$dc/d98/classSWGSDRangel_1_1SWGBladeRF1OutputSettings.html#ab1f50f493d2f82fc1c4e6aab6115863e" title="SWGSDRangel::SWGBladeRF1\lOutputSettings::isSet" alt="" coords="1654,1995,1866,2036"/>
+<area shape="rect" id="node47" href="$d7/d6b/classSWGSDRangel_1_1SWGBladeRF2OutputSettings.html#a32af5ca989fac2fb096a74579dc32ce0" title="SWGSDRangel::SWGBladeRF2\lOutputSettings::isSet" alt="" coords="1654,2060,1866,2101"/>
+<area shape="rect" id="node48" href="$d2/dfa/classSWGSDRangel_1_1SWGFCDProSettings.html#ad21cf14eaf600906811fd85e3d6d3b82" title="SWGSDRangel::SWGFCDProSettings\l::isSet" alt="" coords="1635,2125,1885,2167"/>
+<area shape="rect" id="node49" href="$d9/dae/classSWGSDRangel_1_1SWGFCDProPlusSettings.html#a91a1d480ba60b5d6d134a81bf6d4bba2" title="SWGSDRangel::SWGFCDProPlus\lSettings::isSet" alt="" coords="1646,2191,1874,2232"/>
+<area shape="rect" id="node50" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#aa7cb2defaa87a8c7cd2da5b38ac91e74" title="SWGSDRangel::SWGFileInput\lSettings::isSet" alt="" coords="1658,2256,1862,2297"/>
+<area shape="rect" id="node51" href="$d1/d60/classSWGSDRangel_1_1SWGHackRFInputSettings.html#ad501da19e95542a9997e129d5d014455" title="SWGSDRangel::SWGHackRFInput\lSettings::isSet" alt="" coords="1644,2321,1876,2363"/>
+<area shape="rect" id="node52" href="$d6/dda/classSWGSDRangel_1_1SWGHackRFOutputSettings.html#a51654583cb988aa53db012e08c83b6f4" title="SWGSDRangel::SWGHackRFOutput\lSettings::isSet" alt="" coords="1639,2387,1881,2428"/>
+<area shape="rect" id="node53" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a0b86462661842e88d3fc21902d56106a" title="SWGSDRangel::SWGKiwiSDRSettings\l::isSet" alt="" coords="1632,2452,1888,2493"/>
+<area shape="rect" id="node54" href="$de/d36/classSWGSDRangel_1_1SWGLimeSdrInputSettings.html#aa9622ba290ccdb668705c27ff8d55848" title="SWGSDRangel::SWGLimeSdrInput\lSettings::isSet" alt="" coords="1645,2517,1875,2559"/>
+<area shape="rect" id="node55" href="$d2/d86/classSWGSDRangel_1_1SWGLimeSdrOutputSettings.html#a6c144b066083eb1ec26c1a44bcb9e323" title="SWGSDRangel::SWGLimeSdrOutput\lSettings::isSet" alt="" coords="1639,2583,1881,2624"/>
+<area shape="rect" id="node56" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a55fef4e04eea9285289ea6fd48a6f88f" title="SWGSDRangel::SWGLocalInput\lSettings::isSet" alt="" coords="1653,2648,1867,2689"/>
+<area shape="rect" id="node57" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a048d2276ce03a3ac738b09ed85137d00" title="SWGSDRangel::SWGLocalOutput\lSettings::isSet" alt="" coords="1648,2713,1872,2755"/>
+<area shape="rect" id="node58" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#acc93235430ceb94df8c994cfdf60a47b" title="SWGSDRangel::SWGPerseusSettings\l::isSet" alt="" coords="1635,2779,1885,2820"/>
+<area shape="rect" id="node59" href="$db/d8c/classSWGSDRangel_1_1SWGPlutoSdrInputSettings.html#a645471b6f8e5ae4418a57a57696aba91" title="SWGSDRangel::SWGPlutoSdr\lInputSettings::isSet" alt="" coords="1658,2844,1862,2885"/>
+<area shape="rect" id="node60" href="$d3/dba/classSWGSDRangel_1_1SWGPlutoSdrOutputSettings.html#a1d89876428c80f5d2751cf07096af0eb" title="SWGSDRangel::SWGPlutoSdr\lOutputSettings::isSet" alt="" coords="1658,2909,1862,2951"/>
+<area shape="rect" id="node61" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#abc6ce7d3c763cab292fead83709080a7" title="SWGSDRangel::SWGRtlSdrSettings\l::isSet" alt="" coords="1641,2975,1879,3016"/>
+<area shape="rect" id="node62" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a3fde55e8e7fccbbe1ca88ee670c4fb2a" title="SWGSDRangel::SWGRemoteOutput\lSettings::isSet" alt="" coords="1641,3040,1879,3081"/>
+<area shape="rect" id="node63" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a1d072fc83117abf36dd449846641568b" title="SWGSDRangel::SWGRemoteInput\lSettings::isSet" alt="" coords="1645,3105,1875,3147"/>
+<area shape="rect" id="node64" href="$db/dd9/classSWGSDRangel_1_1SWGSDRPlaySettings.html#a1b2530d906528145fb70bedb1abe1d4a" title="SWGSDRangel::SWGSDRPlaySettings\l::isSet" alt="" coords="1631,3171,1889,3212"/>
+<area shape="rect" id="node65" href="$de/d42/classSWGSDRangel_1_1SWGSoapySDRInputSettings.html#aaa174a13c5d1ff7ade8a8f936b300a95" title="SWGSDRangel::SWGSoapySDRInput\lSettings::isSet" alt="" coords="1635,3236,1885,3277"/>
+<area shape="rect" id="node67" href="$d3/dbd/classSWGSDRangel_1_1SWGSoapySDROutputSettings.html#a4d1deab15b156d4f8c390a23b7fe798f" title="SWGSDRangel::SWGSoapySDROutput\lSettings::isSet" alt="" coords="1631,3301,1889,3343"/>
+<area shape="rect" id="node68" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a09fc1706d0e44a3948b4432af22a417c" title="SWGSDRangel::SWGTestSource\lSettings::isSet" alt="" coords="1649,3367,1871,3408"/>
+<area shape="rect" id="node69" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a4db3b2c4b1cc773ae1814db0d54713c6" title="SWGSDRangel::SWGTestMISettings\l::isSet" alt="" coords="1639,3432,1881,3473"/>
+<area shape="rect" id="node70" href="$d3/d55/classSWGSDRangel_1_1SWGXtrxInputSettings.html#a9082fc187cb345df0e848c5abe93e3df" title="SWGSDRangel::SWGXtrxInput\lSettings::isSet" alt="" coords="1657,3497,1863,3539"/>
+<area shape="rect" id="node71" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#ae15bdef1370707afbd11d2aed5fe94d1" title="SWGSDRangel::SWGXtrxOutput\lSettings::isSet" alt="" coords="1651,3563,1869,3604"/>
+<area shape="rect" id="node41" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1945,1675,2137,1716"/>
+<area shape="rect" id="node66" href="$d9/d74/classSWGSDRangel_1_1SWGComplex.html#a7b7595061a18780b40e7a0d90e747879" title="SWGSDRangel::SWGComplex\l::isSet" alt="" coords="1937,3268,2144,3309"/>
+<area shape="rect" id="node95" href="$dd/db6/classDeviceAPI.html#a3d47110bca4236792fc7b4b9eac10a12" title="Adds a sink to receive full baseband and that is not a channel (e.g. spectrum) " alt="" coords="513,2882,703,2909"/>
+<area shape="rect" id="node100" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="588,2969,628,2995"/>
+<area shape="rect" id="node105" href="$dd/db6/classDeviceAPI.html#ae33fa207df2abdfb340ca4f46bfec1f1" title="Return the current device engine unique ID. " alt="" coords="520,2685,696,2711"/>
+<area shape="rect" id="node109" href="$d0/d36/classRTLSDRInput.html#ae0d6680bcf6b8ea39e98bcce3493efb2" title="RTLSDRInput::networkManager\lFinished" alt="" coords="503,2444,713,2485"/>
+<area shape="rect" id="node110" href="$d0/d36/classRTLSDRInput.html#ab0b21a70b28dce332d3936c49304395b" title="RTLSDRInput::openDevice" alt="" coords="517,2561,699,2587"/>
+<area shape="rect" id="node117" href="$dd/db6/classDeviceAPI.html#a184b8b0647891eaef91d01f0012ed2ab" title="DeviceAPI::setNbSourceStreams" alt="" coords="499,2510,717,2537"/>
+<area shape="rect" id="node96" href="$df/d80/classDSPDeviceMIMOEngine.html#ab21b3ebdbdbb9cc629ada14e2828e2e9" title="Add an ancillary sink like a I/Q recorder. " alt="" coords="800,2972,967,3013"/>
+<area shape="rect" id="node98" href="$d2/d3b/classDSPDeviceSourceEngine.html#a34ea36e3a469a3d6b4e64f74448f041b" title="Add a sample sink. " alt="" coords="797,2841,969,2883"/>
+<area shape="rect" id="node99" href="$d1/d90/classDSPDeviceSinkEngine.html#acfed8e09a20655be97998ec4425462ea" title="Add a spectrum vis baseband sample sink. " alt="" coords="805,2907,962,2948"/>
+<area shape="rect" id="node97" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1081,2849,1260,2875"/>
+<area shape="rect" id="node101" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="829,3038,937,3065"/>
+<area shape="rect" id="node102" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1097,3060,1245,3101"/>
+<area shape="rect" id="node103" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1402,3009,1521,3035"/>
+<area shape="rect" id="node104" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1394,3060,1529,3101"/>
+<area shape="rect" id="node106" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae2f0ad2bba3f345cbea514bf3987692f" title="DSPDeviceSourceEngine\l::getUID" alt="" coords="797,2776,969,2817"/>
+<area shape="rect" id="node107" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="805,2645,962,2687"/>
+<area shape="rect" id="node108" href="$df/d80/classDSPDeviceMIMOEngine.html#a1318397d3a332701b65af3a78e883eb1" title="DSPDeviceMIMOEngine\l::getUID" alt="" coords="800,2711,967,2752"/>
+<area shape="rect" id="node111" href="$d0/d36/classRTLSDRInput.html#a3c17700897faf94f4547bbfca2bc8395" title="RTLSDRInput::closeDevice" alt="" coords="791,2477,976,2503"/>
+<area shape="rect" id="node112" href="$dd/db6/classDeviceAPI.html#a067d3393f92545000623e007a166dd87" title="DeviceAPI::getSamplingDevice\lSerial" alt="" coords="780,2528,987,2569"/>
+<area shape="rect" id="node113" href="$d0/d92/classSampleSinkFifo.html#ad8704b13953f2e4719f331be04b777de" title="SampleSinkFifo::setSize" alt="" coords="800,2594,967,2621"/>
+<area shape="rect" id="node114" href="$d0/d92/classSampleSinkFifo.html#a319ce144cb26ae5ac488085b04478cf9" title="SampleSinkFifo::create" alt="" coords="1091,2798,1250,2825"/>
+<area shape="rect" id="node116" href="$da/d60/classRTLSDRThread.html#a60ce3fda3044fd48e71fa3a1d62b832b" title="RTLSDRThread::stopWork" alt="" coords="1081,2747,1261,2774"/>
+<area shape="rect" id="node119" href="$d1/da1/structRTLSDRSettings.html#a052a98298a91a042534d213c31af9d94" title="RTLSDRSettings::serialize" alt="" coords="518,3190,698,3217"/>
+<area shape="rect" id="node120" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="796,3190,971,3217"/>
+<area shape="rect" id="node122" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="795,3241,971,3267"/>
+<area shape="rect" id="node123" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="794,3291,973,3318"/>
+<area shape="rect" id="node124" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="796,3342,971,3369"/>
+<area shape="rect" id="node125" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="790,3089,977,3115"/>
+<area shape="rect" id="node126" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="809,3139,957,3166"/>
+<area shape="rect" id="node121" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1083,3241,1258,3267"/>
+<area shape="rect" id="node128" href="$da/d60/classRTLSDRThread.html#ab3a73211b4792f5119af32bd01fc298b" title="RTLSDRThread::startWork" alt="" coords="517,2190,699,2217"/>
+<area shape="rect" id="node130" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="502,2342,714,2369"/>
+<area shape="rect" id="node131" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="800,2345,967,2387"/>
+<area shape="rect" id="node132" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="797,2411,969,2452"/>
+<area shape="rect" id="node133" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="805,2280,962,2321"/>
+</map>

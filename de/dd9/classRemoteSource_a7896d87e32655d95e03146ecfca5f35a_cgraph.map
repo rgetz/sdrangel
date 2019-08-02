@@ -1,0 +1,23 @@
+<map id="RemoteSource::webapiFormatChannelReport" name="RemoteSource::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="273,5,472,47"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a23048a845e2a569625661a6215098e1e" title="SWGSDRangel::SWGChannelReport\l::getRemoteSourceReport" alt="" coords="252,71,493,112"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#a3c05e9d4359234b3999a5eda0919bbb7" title="Sample rate exposed by the sink. " alt="" coords="257,137,488,163"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#a5524e327d9818a37611bf0e7f2b2b965" title="Return pointer to the device sample sink (single Tx) or nullptr. " alt="" coords="282,187,463,214"/>
+<area shape="rect" id="node7" href="$d3/d1f/classRemoteDataReadQueue.html#aa78abddd56e93343d8b632e7b05b8a55" title="Returns queue length. " alt="" coords="290,239,455,280"/>
+<area shape="rect" id="node8" href="$d3/d1f/classRemoteDataReadQueue.html#a8e0b003b1428a767e6fb6ee1e681e006" title="Returns the absolute number of samples read. " alt="" coords="290,304,455,345"/>
+<area shape="rect" id="node9" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#acc4b46ad5af8dc39fb6bf8e441d5819d" title="SWGSDRangel::SWGRemoteSource\lReport::setCenterFreq" alt="" coords="252,369,493,411"/>
+<area shape="rect" id="node10" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a9bdc2918252646622c517607fea6671b" title="SWGSDRangel::SWGRemoteSource\lReport::setCorrectableErrorsCount" alt="" coords="252,435,493,476"/>
+<area shape="rect" id="node11" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#ac976aff67ea68958a23e7593c2ba0fde" title="SWGSDRangel::SWGRemoteSource\lReport::setDeviceCenterFreq" alt="" coords="252,500,493,541"/>
+<area shape="rect" id="node12" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#abaf26143d6700daf11be700a5821ff52" title="SWGSDRangel::SWGRemoteSource\lReport::setDeviceSampleRate" alt="" coords="252,565,493,607"/>
+<area shape="rect" id="node13" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a10d93204d2195a05442c8b0a3e9ecb97" title="SWGSDRangel::SWGRemoteSource\lReport::setNbFecBlocks" alt="" coords="252,631,493,672"/>
+<area shape="rect" id="node14" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a5e1770e6b1d89691d2f279df76cb31c4" title="SWGSDRangel::SWGRemoteSource\lReport::setNbOriginalBlocks" alt="" coords="252,696,493,737"/>
+<area shape="rect" id="node15" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#ae3275a1cc80e745d22a225c291918702" title="SWGSDRangel::SWGRemoteSource\lReport::setQueueLength" alt="" coords="252,761,493,803"/>
+<area shape="rect" id="node16" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#afd62ed5c4ed7b28454b56db63b4da327" title="SWGSDRangel::SWGRemoteSource\lReport::setQueueSize" alt="" coords="252,827,493,868"/>
+<area shape="rect" id="node17" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#ad27cfacd4a4d00ca0f3ccda94b7f4721" title="SWGSDRangel::SWGRemoteSource\lReport::setSampleRate" alt="" coords="252,892,493,933"/>
+<area shape="rect" id="node18" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#aa9fd781cfe5b66ac1b26e6415a6920cd" title="SWGSDRangel::SWGRemoteSource\lReport::setSamplesCount" alt="" coords="252,957,493,999"/>
+<area shape="rect" id="node19" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a11efe12f51b5803ee73210f725c3ca9c" title="SWGSDRangel::SWGRemoteSource\lReport::setTvSec" alt="" coords="252,1023,493,1064"/>
+<area shape="rect" id="node20" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a83deb38528c979c6b2fcfc9e162a9b29" title="SWGSDRangel::SWGRemoteSource\lReport::setTvUSec" alt="" coords="252,1088,493,1129"/>
+<area shape="rect" id="node21" href="$d2/de6/classSWGSDRangel_1_1SWGRemoteSourceReport.html#a755c19b3d9a8b28c7b77dbac7fdc2304" title="SWGSDRangel::SWGRemoteSource\lReport::setUncorrectableErrorsCount" alt="" coords="252,1153,493,1195"/>
+<area shape="rect" id="node22" href="$d3/d1f/classRemoteDataReadQueue.html#a94fe5f05fca041ff7cba2f236cd2782c" title="Returns queue size (max length) " alt="" coords="290,1219,455,1260"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="541,180,699,221"/>
+</map>

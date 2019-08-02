@@ -1,0 +1,5 @@
+<map id="LimeSDROutputGUI::on_startStop_toggled" name="LimeSDROutputGUI::on_startStop_toggled">
+<area shape="rect" id="node2" href="$de/d01/classLimeSDROutput_1_1MsgStartStop.html#ace96cc18c938520837bb15fac5705d75" title="LimeSDROutput::MsgStartStop\l::create" alt="" coords="217,5,424,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="227,71,415,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="246,137,395,163"/>
+</map>

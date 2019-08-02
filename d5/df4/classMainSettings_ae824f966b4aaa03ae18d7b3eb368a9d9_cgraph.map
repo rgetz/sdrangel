@@ -1,0 +1,28 @@
+<map id="MainSettings::load" name="MainSettings::load">
+<area shape="rect" id="node2" href="$d2/d60/classPreferences.html#a25b1c84e64baf2d997d6861688285760" title="Preferences::deserialize" alt="" coords="197,228,359,255"/>
+<area shape="rect" id="node11" href="$d9/d71/classCommand.html#afa4e532294216c52ffa57aac27a120cd" title="Command::deserialize" alt="" coords="202,319,354,345"/>
+<area shape="rect" id="node13" href="$d9/d18/structDeviceUserArgs.html#a17dadf2390bbcdef5763ed52a4930dad" title="DeviceUserArgs::deserialize" alt="" coords="184,443,372,469"/>
+<area shape="rect" id="node15" href="$d3/d84/classAMBEEngine.html#a23baceae498b2bf1b94c4de6404cf105" title="AMBEEngine::deserialize" alt="" coords="193,1011,363,1037"/>
+<area shape="rect" id="node19" href="$d1/dc7/classPreset.html#a6234f00b24f130c28318063d185e0ba1" title="Preset::deserialize" alt="" coords="213,392,343,419"/>
+<area shape="rect" id="node22" href="$d0/d40/classAudioDeviceManager.html#afca7fa560813a1404fa5c4ac0136398a" title="AudioDeviceManager\l::deserialize" alt="" coords="205,683,351,725"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="458,370,589,411"/>
+<area shape="rect" id="node4" href="$d2/d60/classPreferences.html#a63f1a59405d55e26e2c32ee1870795ee" title="Preferences::resetToDefaults" alt="" coords="427,5,620,32"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="458,435,589,477"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="458,122,589,163"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="458,253,589,294"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a8fd742bd11d35703a58df7c15af1014a" title="SimpleDeserializer\l::readFloat" alt="" coords="458,57,589,98"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="458,187,589,229"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="679,221,809,262"/>
+<area shape="rect" id="node12" href="$d9/d71/classCommand.html#a82ae901e95044f61546d0c080cb24cfe" title="Command::resetToDefaults" alt="" coords="432,319,615,345"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="458,618,589,659"/>
+<area shape="rect" id="node16" href="$d3/d84/classAMBEEngine.html#a4863b9f98ff27149ceef1c032466e4fe" title="create a new controller for the device in reference " alt="" coords="420,1011,627,1037"/>
+<area shape="rect" id="node18" href="$d3/d84/classAMBEEngine.html#afafce8a3aecb8badbbaff3312982830f" title="AMBEEngine::releaseAll" alt="" coords="441,1061,606,1088"/>
+<area shape="rect" id="node17" href="$d0/d9e/classAMBEWorker.html#aab393e37af61bfd0a3e5ea8fe6647c0b" title="Either serial device or ip:port. " alt="" coords="675,1011,813,1037"/>
+<area shape="rect" id="node20" href="$d1/dc7/classPreset.html#a3f0b72e2a82a164099a5489613294cfc" title="Preset::resetToDefaults" alt="" coords="443,567,604,593"/>
+<area shape="rect" id="node21" href="$d2/d0e/classSimpleDeserializer.html#a90c7dffb2b72a1b12358f680e9dfa469" title="SimpleDeserializer\l::readU64" alt="" coords="458,501,589,542"/>
+<area shape="rect" id="node23" href="$d0/d40/classAudioDeviceManager.html#ad2dcf9b41914117fee80967b34658a7f" title="AudioDeviceManager\l::debugAudioInputInfos" alt="" coords="445,945,601,986"/>
+<area shape="rect" id="node24" href="$d0/d40/classAudioDeviceManager.html#ac9e8355f3924c5ae049b8f94285f0d82" title="AudioDeviceManager\l::debugAudioOutputInfos" alt="" coords="440,683,607,725"/>
+<area shape="rect" id="node25" href="$d0/d40/classAudioDeviceManager.html#a02f6cc9a2c23ee34bb1f65dc8dcb8612" title="AudioDeviceManager\l::deserializeInputMap" alt="" coords="450,749,597,790"/>
+<area shape="rect" id="node26" href="$d0/d40/classAudioDeviceManager.html#ae2f4ee6208283c6491b88189b0fb071d" title="AudioDeviceManager\l::deserializeOutputMap" alt="" coords="445,814,601,855"/>
+<area shape="rect" id="node27" href="$d0/d40/classAudioDeviceManager.html#a1cea0a40508c93d86ca8b626462788f5" title="AudioDeviceManager\l::resetToDefaults" alt="" coords="450,879,597,921"/>
+</map>

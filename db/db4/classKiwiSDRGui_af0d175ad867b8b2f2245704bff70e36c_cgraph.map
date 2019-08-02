@@ -1,0 +1,9 @@
+<map id="KiwiSDRGui::handleMessage" name="KiwiSDRGui::handleMessage">
+<area shape="rect" id="node2" href="$db/db4/classKiwiSDRGui.html#a6475602d4e1fcd64680d869b193f6a9a" title="KiwiSDRGui::blockApplySettings" alt="" coords="492,16,708,42"/>
+<area shape="rect" id="node3" href="$db/db4/classKiwiSDRGui.html#a3c4c12f465d70e1b3a7400697041c603" title="KiwiSDRGui::displaySettings" alt="" coords="249,41,443,68"/>
+<area shape="rect" id="node4" href="$de/dc3/classKiwiSDRInput_1_1MsgConfigureKiwiSDR.html#a7ba8c50c137c067007f4e60dd1068361" title="KiwiSDRInput::MsgConfigure\lKiwiSDR::getSettings" alt="" coords="249,92,443,134"/>
+<area shape="rect" id="node5" href="$d7/d70/classKiwiSDRInput_1_1MsgStartStop.html#ac97ff3639e5a1e16aef36a3f3ceafeac" title="KiwiSDRInput::MsgStartStop\l::getStartStop" alt="" coords="249,158,443,199"/>
+<area shape="rect" id="node6" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a419c9f64e2b9d413be18850a1ba44626" title="KiwiSDRInput::MsgSetStatus\l::getStatus" alt="" coords="248,223,444,264"/>
+<area shape="rect" id="node7" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="287,289,405,316"/>
+<area shape="rect" id="node8" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="515,289,685,316"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="AirspyInput::MsgConfigureAirspy::getSettings" name="AirspyInput::MsgConfigureAirspy::getSettings">
+<area shape="rect" id="node2" href="$d3/d89/classAirspyGui.html#a8f78032e682fbc44a437e8aa88570b88" title="AirspyGui::handleMessage" alt="" coords="235,8,413,35"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#afd55ebeeda530defd16a540d9e45db03" title="AirspyInput::handleMessage" alt="" coords="231,60,417,87"/>
+<area shape="rect" id="node3" href="$d3/d89/classAirspyGui.html#aad2d9beff85ec01ab16a4ab4c56e28f1" title="AirspyGui::handleInputMessages" alt="" coords="465,7,680,33"/>
+<area shape="rect" id="node4" href="$d3/d89/classAirspyGui.html#a81f9216c9f453b887278c16248cc81b0" title="AirspyGui::AirspyGui" alt="" coords="745,5,889,32"/>
+<area shape="rect" id="node6" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="476,64,669,91"/>
+<area shape="rect" id="node7" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="728,57,907,98"/>
+<area shape="rect" id="node8" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="955,93,1152,120"/>
+</map>

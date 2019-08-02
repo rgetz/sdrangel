@@ -1,0 +1,11 @@
+<map id="NFMModGUI::blockApplySettings" name="NFMModGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$df/d1f/classNFMModGUI.html#a123db5bbab826aec238081cdd0d9fbf2" title="NFMModGUI::displaySettings" alt="" coords="273,86,471,112"/>
+<area shape="rect" id="node5" href="$df/d1f/classNFMModGUI.html#a6a260e58e7672d1a7c2f80524e73b7fd" title="NFMModGUI::handleMessage" alt="" coords="520,136,719,163"/>
+<area shape="rect" id="node7" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="1063,136,1249,163"/>
+<area shape="rect" id="node3" href="$df/d1f/classNFMModGUI.html#a7e81979f3ab4d7c8cd07c3cde1978619" title="NFMModGUI::resetToDefaults" alt="" coords="519,35,720,62"/>
+<area shape="rect" id="node4" href="$df/d1f/classNFMModGUI.html#a1847e10d18704800d6d798ddb0f6e370" title="NFMModGUI::deserialize" alt="" coords="806,10,977,36"/>
+<area shape="rect" id="node6" href="$df/d1f/classNFMModGUI.html#a93bf5d9829676923af7ea22ea3484ef0" title="NFMModGUI::handleSourceMessages" alt="" coords="768,136,1015,163"/>
+<area shape="rect" id="node8" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="1297,136,1441,163"/>
+<area shape="rect" id="node9" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1489,136,1732,163"/>
+<area shape="rect" id="node10" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1780,136,1953,163"/>
+</map>

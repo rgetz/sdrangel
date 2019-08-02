@@ -1,0 +1,6 @@
+<map id="PlutoSDROutputPlugin::initPlugin" name="PlutoSDROutputPlugin::initPlugin">
+<area shape="rect" id="node2" href="$d8/d94/classDevicePlutoSDR.html#a091587f1fed44d377afdfd7a2cccf5f2" title="DevicePlutoSDR::instance" alt="" coords="221,5,399,32"/>
+<area shape="rect" id="node3" href="$d6/d95/classPluginAPI.html#ae48621c7133474433ff16b4114b775ea" title="PluginAPI::registerSampleSink" alt="" coords="209,56,411,83"/>
+<area shape="rect" id="node4" href="$de/d59/classPluginManager.html#a5a7b50e1678c6d826e306afd358f095d" title="PluginManager::registerSampleSink" alt="" coords="459,56,688,83"/>
+<area shape="rect" id="node5" href="$dc/dd6/classPluginInterface.html#aaee18ff0dc1d0d35bcd7a5b2d0ea5737" title="PluginInterface::getPlugin\lDescriptor" alt="" coords="736,49,907,90"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGLimeSdrOutputSettings::setTransverterDeltaFrequency" name="SWGSDRangel::SWGLimeSdrOutputSettings::setTransverterDeltaFrequency">
+<area shape="rect" id="node2" href="$d5/d8d/classLimeSDROutput.html#af32fba136312e5261303b5ae4998fd34" title="LimeSDROutput::webapiFormat\lDeviceSettings" alt="" coords="572,57,780,98"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html#ab34fb8b2301c5342faffc7676484d3b1" title="LimeSDROutput::webapiReverse\lSendSettings" alt="" coords="308,141,524,182"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#a6d5ff31bc71333f538fb94c3448a86c6" title="LimeSDROutput::webapiSettingsGet" alt="" coords="828,5,1064,32"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#ad1ac69a1f28157d7dfeeb5d3c7f126fe" title="LimeSDROutput::webapiSettings\lPutPatch" alt="" coords="839,57,1053,98"/>
+<area shape="rect" id="node4" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="1115,64,1331,91"/>
+<area shape="rect" id="node7" href="$d5/d8d/classLimeSDROutput.html#a5816077a66159b6a47c7a34d2266dbc1" title="LimeSDROutput::applySettings" alt="" coords="573,148,779,175"/>
+<area shape="rect" id="node8" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="837,123,1055,149"/>
+<area shape="rect" id="node9" href="$d5/d8d/classLimeSDROutput.html#a76ef259647397f322323ef8462de170e" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="875,173,1017,200"/>
+<area shape="rect" id="node11" href="$d5/d8d/classLimeSDROutput.html#a4a8697a5c6dba54158991d86bbdd6bf1" title="LimeSDROutput::start" alt="" coords="870,224,1022,251"/>
+<area shape="rect" id="node10" href="$d3/de5/classLimeSDROutput_1_1MsgReportStreamInfo.html#ae00eecd9dcdfd51d15998bc465368dd2" title="LimeSDROutput::MsgReport\lStreamInfo::MsgReportStreamInfo" alt="" coords="1112,191,1335,233"/>
+</map>

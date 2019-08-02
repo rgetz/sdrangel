@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGRemoteInputSettings::setUseReverseApi" name="SWGSDRangel::SWGRemoteInputSettings::setUseReverseApi">
+<area shape="rect" id="node2" href="$d3/d67/classRemoteInput.html#aad19073b787d94ca80cf51283f4b914f" title="RemoteInput::webapiFormat\lDeviceSettings" alt="" coords="283,27,469,69"/>
+<area shape="rect" id="node3" href="$d3/d67/classRemoteInput.html#a25455fbec09664f6f65b4c9f3d7b4d0a" title="RemoteInput::webapiSettingsGet" alt="" coords="517,5,732,32"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#a51646085f4bf1e37885042ee741b578b" title="RemoteInput::webapiSettings\lPutPatch" alt="" coords="527,57,722,98"/>
+<area shape="rect" id="node4" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="780,35,975,61"/>
+</map>

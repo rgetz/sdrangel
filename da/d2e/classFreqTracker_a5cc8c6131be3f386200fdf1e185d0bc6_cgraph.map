@@ -1,0 +1,12 @@
+<map id="FreqTracker::webapiReportGet" name="FreqTracker::webapiReportGet">
+<area shape="rect" id="node2" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a266db1f13f765bdf51d533c003b06325" title="SWGSDRangel::SWGChannelReport\l::getFreqTrackerReport" alt="" coords="544,5,785,47"/>
+<area shape="rect" id="node3" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a8f72f6fa8a9421bf0ce4b862506d73ba" title="SWGSDRangel::SWGFreqTracker\lReport::init" alt="" coords="263,59,487,100"/>
+<area shape="rect" id="node4" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a846cb5ca22de5a4e682d2468ee87e6f1" title="SWGSDRangel::SWGChannelReport\l::setFreqTrackerReport" alt="" coords="255,124,496,165"/>
+<area shape="rect" id="node5" href="$da/d2e/classFreqTracker.html#a346011a9c5653dc1cf1648d0eb46d0b0" title="FreqTracker::webapiFormat\lChannelReport" alt="" coords="284,189,467,231"/>
+<area shape="rect" id="node6" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="602,82,727,109"/>
+<area shape="rect" id="node7" href="$da/d2e/classFreqTracker.html#a6992c5c52f3be6f4006d59550af823d9" title="FreqTracker::getMagSqLevels" alt="" coords="566,133,763,159"/>
+<area shape="rect" id="node8" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a411ff0ba8d03bc6c73c0b7f052605a28" title="SWGSDRangel::SWGFreqTracker\lReport::setChannelPowerDb" alt="" coords="553,184,777,225"/>
+<area shape="rect" id="node9" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a8c6baf83e1dbc68ca6a91f750fbf3de9" title="SWGSDRangel::SWGFreqTracker\lReport::setChannelSampleRate" alt="" coords="553,249,777,291"/>
+<area shape="rect" id="node10" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a1bdc98b75b71315f457ec68758d969f3" title="SWGSDRangel::SWGFreqTracker\lReport::setSampleRate" alt="" coords="553,315,777,356"/>
+<area shape="rect" id="node11" href="$d6/da3/classSWGSDRangel_1_1SWGFreqTrackerReport.html#a94e012ea72c56d4ccf95d3c7360217cd" title="SWGSDRangel::SWGFreqTracker\lReport::setSquelch" alt="" coords="553,380,777,421"/>
+</map>

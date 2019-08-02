@@ -1,0 +1,8 @@
+<map id="ChannelAPI::webapiReportGet" name="ChannelAPI::webapiReportGet">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a2d237ce340ceb7e832ca4a47c9f1f07e" title="WebAPIAdapterGUI::deviceset\lChannelReportGet" alt="" coords="263,5,467,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ae0207e747e826b0e77bd82bf751eb5b2" title="WebAPIAdapterSrv::deviceset\lChannelReportGet" alt="" coords="265,71,465,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#acb4d0cde800ba39326c2a6f576a596b6" title="WebAPIAdapterGUI::getChannels\lDetail" alt="" coords="255,136,476,177"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#ad5ef8eb3681cd995157c7700e55c1365" title="WebAPIAdapterSrv::getChannels\lDetail" alt="" coords="257,201,474,243"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#af0589b71df18ec63cf440bf577cb4747" title="WebAPIAdapterGUI::deviceset\lChannelsReportGet" alt="" coords="524,136,728,177"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#a86c8f18208dfa61f6841c08bb6317c7b" title="WebAPIAdapterSrv::deviceset\lChannelsReportGet" alt="" coords="526,201,726,243"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="FileSinkOutput::deserialize" name="FileSinkOutput::deserialize">
+<area shape="rect" id="node2" href="$d8/ded/classFileSinkOutput_1_1MsgConfigureFileSink.html#a76b033b22b77e5a50361a5e33317b986" title="FileSinkOutput::MsgConfigure\lFileSink::create" alt="" coords="232,13,429,55"/>
+<area shape="rect" id="node4" href="$d5/dc0/structFileSinkSettings.html#a33e8403fac1f1e3af3f2eed476044129" title="FileSinkSettings::deserialize" alt="" coords="237,143,424,170"/>
+<area shape="rect" id="node6" href="$d5/dc0/structFileSinkSettings.html#ad8d7438d0cf7e114f7423d97fa495a2b" title="FileSinkSettings::resetTo\lDefaults" alt="" coords="495,71,665,112"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="256,194,405,221"/>
+<area shape="rect" id="node3" href="$d8/ded/classFileSinkOutput_1_1MsgConfigureFileSink.html#af3dc2b93b673c0e091e945ddb9b5a96b" title="FileSinkOutput::MsgConfigure\lFileSink::MsgConfigureFileSink" alt="" coords="477,5,683,47"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="515,136,645,177"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="515,201,645,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a90c7dffb2b72a1b12358f680e9dfa469" title="SimpleDeserializer\l::readU64" alt="" coords="515,267,645,308"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="515,332,645,373"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="731,300,861,341"/>
+</map>

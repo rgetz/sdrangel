@@ -1,0 +1,9 @@
+<map id="ChannelAnalyzer::setFilters" name="ChannelAnalyzer::setFilters">
+<area shape="rect" id="node2" href="$dc/d0c/classChannelAnalyzer.html#a25e568903b6b40d6994fe7ffacd80d16" title="ChannelAnalyzer::applyChannel\lSettings" alt="" coords="236,71,444,113"/>
+<area shape="rect" id="node8" href="$dc/d0c/classChannelAnalyzer.html#a535b9927e11ca7845fca2d7fd5e51e3d" title="ChannelAnalyzer::applySettings" alt="" coords="236,20,444,47"/>
+<area shape="rect" id="node3" href="$dc/d0c/classChannelAnalyzer.html#aa5722c96c8e5559f05af3dec9d27c71a" title="ChannelAnalyzer::Channel\lAnalyzer" alt="" coords="513,13,691,54"/>
+<area shape="rect" id="node5" href="$dc/d0c/classChannelAnalyzer.html#a54ee1a4ddfe2ffe909bbe7d855e5e6bb" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="492,79,712,105"/>
+<area shape="rect" id="node7" href="$dc/d0c/classChannelAnalyzer.html#a1f6308efe0b73d28a7d2f4d1036eb993" title="ChannelAnalyzer::start" alt="" coords="525,129,679,156"/>
+<area shape="rect" id="node4" href="$df/db9/classChannelAnalyzer_1_1MsgReportChannelSampleRateChanged.html#a640c1444f019873ba7e53844b70a104b" title="ChannelAnalyzer::MsgReport\lChannelSampleRateChanged\l::MsgReportChannelSampleRateChanged" alt="" coords="760,5,1027,61"/>
+<area shape="rect" id="node6" href="$dc/d0c/classChannelAnalyzer.html#aad97ad5db6b44a48a41cf69aa022a0eb" title="ChannelAnalyzer::getPllPhase" alt="" coords="794,107,993,133"/>
+</map>

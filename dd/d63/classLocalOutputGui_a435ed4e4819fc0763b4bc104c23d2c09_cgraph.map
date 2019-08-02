@@ -1,0 +1,5 @@
+<map id="LocalOutputGui::on_startStop_toggled" name="LocalOutputGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d1/df7/classLocalOutput_1_1MsgStartStop.html#a5a4e646338038847bfee6d708ebe82b9" title="LocalOutput::MsgStartStop\l::create" alt="" coords="192,5,372,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="188,71,376,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="207,137,357,163"/>
+</map>

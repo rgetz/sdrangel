@@ -1,0 +1,7 @@
+<map id="GLScopeGUI::on_mem_valueChanged" name="GLScopeGUI::on_mem_valueChanged">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#a8de05ba61613c53400e09e7fae1545d5" title="GLScopeGUI::disableLiveMode" alt="" coords="212,27,417,54"/>
+<area shape="rect" id="node3" href="$d7/dcf/classScopeVis.html#a11ed518c91f79edea8b8a1b731c5601b" title="ScopeVis::setMemoryIndex" alt="" coords="223,78,406,105"/>
+<area shape="rect" id="node4" href="$d1/d85/classScopeVis_1_1MsgScopeVisNGMemoryTrace.html#a59a20f7e0a89b38c589af8c63b3d9816" title="ScopeVis::MsgScopeVisNGMemory\lTrace::create" alt="" coords="465,5,700,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="499,71,667,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="508,137,657,163"/>
+</map>

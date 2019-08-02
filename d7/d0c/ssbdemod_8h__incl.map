@@ -1,0 +1,18 @@
+<map id="plugins/channelrx/demodssb/ssbdemod.h" name="plugins/channelrx/demodssb/ssbdemod.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="393,95,573,121"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="30,169,137,196"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="750,95,894,121"/>
+<area shape="rect" id="node19" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="571,169,654,196"/>
+<area shape="rect" id="node20" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="870,169,993,196"/>
+<area shape="rect" id="node22" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="1545,169,1629,196"/>
+<area shape="rect" id="node24" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="1156,95,1235,121"/>
+<area shape="rect" id="node28" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="379,169,497,196"/>
+<area shape="rect" id="node30" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="1259,95,1401,121"/>
+<area shape="rect" id="node31" href="$d2/db2/ssbdemodsettings_8h.html" title="ssbdemodsettings.h" alt="" coords="981,95,1119,121"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="719,244,829,271"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="578,244,647,271"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="161,169,304,196"/>
+<area shape="rect" id="node23" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="1561,244,1613,271"/>
+<area shape="rect" id="node25" href="$d1/d85/dsp_2movingaverage_8h.html" title="movingaverage.h" alt="" coords="1233,169,1355,196"/>
+<area shape="rect" id="node27" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="1379,169,1521,196"/>
+</map>

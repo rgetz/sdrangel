@@ -1,0 +1,16 @@
+<map id="NFMDemodSettings::getRFBWIndex" name="NFMDemodSettings::getRFBWIndex">
+<area shape="rect" id="node2" href="$d3/d95/classNFMDemodGUI.html#abdc374cb68c544195d9d152da49109cd" title="NFMDemodGUI::displaySettings" alt="" coords="292,89,507,116"/>
+<area shape="rect" id="node11" href="$d7/d3b/structNFMDemodSettings.html#a2c3b31321981d3a4d1b36802b187b449" title="NFMDemodSettings::serialize" alt="" coords="301,241,498,268"/>
+<area shape="rect" id="node15" href="$d7/d3b/structNFMDemodSettings.html#ae22f072cefbada27c14306d6fcfb925f" title="NFMDemodSettings::setChannel\lMarker" alt="" coords="557,293,771,334"/>
+<area shape="rect" id="node3" href="$d3/d95/classNFMDemodGUI.html#afe86e9be33b09b3aad5d1a93d186f831" title="NFMDemodGUI::deserialize" alt="" coords="837,5,1024,32"/>
+<area shape="rect" id="node4" href="$d3/d95/classNFMDemodGUI.html#ae1131512cf5d5c70f7f9e1313a670df9" title="NFMDemodGUI::handleMessage" alt="" coords="556,89,772,116"/>
+<area shape="rect" id="node6" href="$d3/d95/classNFMDemodGUI.html#a6c3832ae9989675c2343a580bd3bdf7e" title="NFMDemodGUI::NFMDemodGUI" alt="" coords="1088,140,1308,167"/>
+<area shape="rect" id="node10" href="$d3/d95/classNFMDemodGUI.html#a806b972aa7b461091e19d30625becc2a" title="NFMDemodGUI::resetToDefaults" alt="" coords="555,39,773,65"/>
+<area shape="rect" id="node5" href="$d3/d95/classNFMDemodGUI.html#a91591b7ae3722a49bce187fcc9488057" title="NFMDemodGUI::handleInput\lMessages" alt="" coords="835,74,1027,115"/>
+<area shape="rect" id="node7" href="$d3/d95/classNFMDemodGUI.html#af49e6c079fb7a1e49ebb6662c6a6ef95" title="NFMDemodGUI::create" alt="" coords="1356,140,1517,167"/>
+<area shape="rect" id="node8" href="$d8/d38/classNFMPlugin.html#a1c5b954f9a47c0bce00a111ac9300b32" title="NFMPlugin::createRxChannelGUI" alt="" coords="1565,140,1785,167"/>
+<area shape="rect" id="node9" href="$d8/d38/classNFMPlugin.html#a536ce48243ba9169a2ed880db0d341ad" title="NFMPlugin::initPlugin" alt="" coords="1833,140,1981,167"/>
+<area shape="rect" id="node12" href="$df/ddf/classNFMDemod.html#a7e0286ada470db5ba9555db8a76b8375" title="NFMDemod::serialize" alt="" coords="589,191,739,217"/>
+<area shape="rect" id="node14" href="$d3/d95/classNFMDemodGUI.html#a6970c3124a857a4b463c6048744d85ac" title="NFMDemodGUI::serialize" alt="" coords="577,241,751,268"/>
+<area shape="rect" id="node13" href="$df/ddf/classNFMDemod.html#ac4b72c123efd689a0e24f9880a4fae32" title="Applies to a default stream. " alt="" coords="821,191,1040,217"/>
+</map>

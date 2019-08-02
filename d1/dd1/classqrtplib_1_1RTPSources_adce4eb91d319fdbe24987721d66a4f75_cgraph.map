@@ -1,0 +1,10 @@
+<map id="qrtplib::RTPSources::CreateOwnSSRC" name="qrtplib::RTPSources::CreateOwnSSRC">
+<area shape="rect" id="node2" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a7fa9138ffc06094c506427b11280c2aa" title="qrtplib::RTPSources\l::GotEntry" alt="" coords="219,5,359,47"/>
+<area shape="rect" id="node3" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad065614cbc7cbffae087f8cc6225b8b0" title="qrtplib::RTPSources\l::ObtainSourceDataInstance" alt="" coords="195,71,382,112"/>
+<area shape="rect" id="node4" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a585dfca437bbb9c5d040ea070ee97f40" title="qrtplib::RTPSources\l::OnNewSource" alt="" coords="219,136,359,177"/>
+<area shape="rect" id="node5" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a4cb5f96376a508bd0251faae9b0427f4" title="qrtplib::RTPInternalSource\lData::SetOwnSSRC" alt="" coords="201,201,377,243"/>
+<area shape="rect" id="node6" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a6dc66da4aba28325f94e96694cb68949" title="qrtplib::RTPInternalSource\lData::SetRTCPDataAddress" alt="" coords="193,267,384,308"/>
+<area shape="rect" id="node9" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a1340754c0e0f6bdfd215c52683e007e8" title="qrtplib::RTPInternalSource\lData::SetRTPDataAddress" alt="" coords="198,332,379,373"/>
+<area shape="rect" id="node7" href="$db/dc5/classqrtplib_1_1RTPAddress.html#a27f5cac943a822eaee6813d6c11db4bf" title="qrtplib::RTPAddress\l::CreateCopy" alt="" coords="432,300,572,341"/>
+<area shape="rect" id="node8" href="$db/dc5/classqrtplib_1_1RTPAddress.html#ad61fff9a90ac1cdbad9e534d74564d47" title="qrtplib::RTPAddress\l::RTPAddress" alt="" coords="620,300,760,341"/>
+</map>

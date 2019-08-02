@@ -1,0 +1,7 @@
+<map id="DeviceSet::addTxChannel" name="DeviceSet::addTxChannel">
+<area shape="rect" id="node2" href="$db/d47/classMainCore.html#a020876e02b21305a5084d49788714a00" title="MainCore::addChannel" alt="" coords="243,5,397,32"/>
+<area shape="rect" id="node6" href="$d5/d32/classDeviceSet.html#a804724a8f32050e8f1582511fb330cdc" title="DeviceSet::getNumberOfTx\lChannels" alt="" coords="228,57,412,98"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="460,5,637,32"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="685,5,869,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="917,5,1060,32"/>
+</map>

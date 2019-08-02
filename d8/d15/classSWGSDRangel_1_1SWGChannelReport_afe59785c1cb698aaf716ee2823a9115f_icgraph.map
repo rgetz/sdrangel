@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGChannelReport::setSsbModReport" name="SWGSDRangel::SWGChannelReport::setSsbModReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a60ddbb1101a6f53e60c8797618ec1e26" title="WebAPIRequestMapper\l::resetChannelReport" alt="" coords="305,5,467,47"/>
+<area shape="rect" id="node5" href="$dc/d8d/classSSBMod.html#abadedd189657df4a260628bd6930da40" title="SSBMod::webapiReportGet" alt="" coords="295,71,477,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="538,5,755,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="816,5,979,47"/>
+<area shape="rect" id="node6" href="$dc/d8d/classSSBMod.html#a52109fe5c575d8901546f3fec5aa50e1" title="SSBMod::getStreamCenterFrequency" alt="" coords="525,71,768,98"/>
+</map>

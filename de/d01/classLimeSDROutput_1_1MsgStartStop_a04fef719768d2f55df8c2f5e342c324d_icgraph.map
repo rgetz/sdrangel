@@ -1,0 +1,6 @@
+<map id="LimeSDROutput::MsgStartStop::getStartStop" name="LimeSDROutput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$d7/dab/classLimeSDROutputGUI.html#aef7c105432e2bb13eb89f534357385d9" title="LimeSDROutputGUI::handle\lInputMessages" alt="" coords="275,5,463,47"/>
+<area shape="rect" id="node4" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="260,71,477,98"/>
+<area shape="rect" id="node3" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="525,13,796,39"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="553,71,769,98"/>
+</map>

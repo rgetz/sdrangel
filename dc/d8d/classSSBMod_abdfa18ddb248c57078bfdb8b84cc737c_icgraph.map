@@ -1,0 +1,9 @@
+<map id="SSBMod::calculateLevel" name="SSBMod::calculateLevel">
+<area shape="rect" id="node2" href="$dc/d8d/classSSBMod.html#a114256426423a3c81eea9cf23ddb79f0" title="SSBMod::modulateSample" alt="" coords="219,5,397,32"/>
+<area shape="rect" id="node3" href="$dc/d8d/classSSBMod.html#aa187a000dd6711ecd0122769016da6ae" title="SSBMod::pull" alt="" coords="445,5,548,32"/>
+<area shape="rect" id="node4" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="596,5,823,32"/>
+<area shape="rect" id="node5" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="871,5,1053,32"/>
+<area shape="rect" id="node6" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1101,5,1244,32"/>
+<area shape="rect" id="node7" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1292,5,1533,32"/>
+<area shape="rect" id="node8" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1581,5,1752,32"/>
+</map>

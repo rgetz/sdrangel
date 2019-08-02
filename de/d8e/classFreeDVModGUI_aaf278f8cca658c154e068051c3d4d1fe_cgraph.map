@@ -1,0 +1,9 @@
+<map id="FreeDVModGUI::audioSelect" name="FreeDVModGUI::audioSelect">
+<area shape="rect" id="node2" href="$de/d8e/classFreeDVModGUI.html#a66bfa2b8af0de9876322376ec5a6c52b" title="FreeDVModGUI::applySettings" alt="" coords="245,111,448,138"/>
+<area shape="rect" id="node8" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="273,162,420,189"/>
+<area shape="rect" id="node3" href="$d2/df3/classFreeDVMod_1_1MsgConfigureFreeDVMod.html#a29f69fd084d682e461c328fbe62780fa" title="FreeDVMod::MsgConfigureFree\lDVMod::create" alt="" coords="518,5,725,47"/>
+<area shape="rect" id="node5" href="$d7/d35/classFreeDVMod_1_1MsgConfigureChannelizer.html#a3db2cd537d32b6eeac5b470c3327511c" title="FreeDVMod::MsgConfigureChannelizer\l::create" alt="" coords="496,71,747,112"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="537,136,705,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="547,202,696,229"/>
+<area shape="rect" id="node4" href="$d2/df3/classFreeDVMod_1_1MsgConfigureFreeDVMod.html#a085c8b7d61ac06a264e469b52b76e433" title="FreeDVMod::MsgConfigureFree\lDVMod::MsgConfigureFreeDVMod" alt="" coords="795,5,1020,47"/>
+</map>

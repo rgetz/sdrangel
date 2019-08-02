@@ -1,0 +1,28 @@
+<map id="MainBench::testDecimateII" name="MainBench::testDecimateII">
+<area shape="rect" id="node2" href="$d4/da8/classMainBench.html#a013a999fcb50207b84bd5f831b139b65" title="MainBench::decimateII" alt="" coords="246,791,402,817"/>
+<area shape="rect" id="node10" href="$d5/d67/classParserBench.html#ad8ce88b4abb598d4db12930c914148dc" title="ParserBench::getLog2Factor" alt="" coords="463,309,651,336"/>
+<area shape="rect" id="node11" href="$d4/da8/classMainBench.html#a145d8713455883e6ba5b9e782bc10120" title="MainBench::decimateInfII" alt="" coords="239,512,409,539"/>
+<area shape="rect" id="node18" href="$d4/da8/classMainBench.html#a9a5ab826132bf68f840217c74eb08417" title="MainBench::decimateSupII" alt="" coords="235,208,413,235"/>
+<area shape="rect" id="node25" href="$d5/d67/classParserBench.html#a969c6c601c953d235540793e2537d114" title="ParserBench::getNbSamples" alt="" coords="462,1019,653,1045"/>
+<area shape="rect" id="node26" href="$d5/d67/classParserBench.html#ab4a6a1ccae4f1f7360b4375ff7f699ca" title="ParserBench::getRepetition" alt="" coords="466,1069,649,1096"/>
+<area shape="rect" id="node27" href="$d4/da8/classMainBench.html#aa3dacc3283ae4246bcf1877a2f54384a" title="MainBench::printResults" alt="" coords="241,1019,407,1045"/>
+<area shape="rect" id="node3" href="$d0/d5b/classDecimators.html#a4a681d6358fe20fa5fd71ce6d297f7b9" title="Decimators::decimate1" alt="" coords="479,461,636,488"/>
+<area shape="rect" id="node4" href="$d0/d5b/classDecimators.html#af58d39de0b3542fe943c3cdceff02ca4" title="Decimators::decimate16_cen" alt="" coords="461,715,653,741"/>
+<area shape="rect" id="node5" href="$d0/d5b/classDecimators.html#a51a097e1ee37dfafeda3eea4aa951601" title="Decimators::decimate2_cen" alt="" coords="465,765,650,792"/>
+<area shape="rect" id="node6" href="$d0/d5b/classDecimators.html#a10c44077d203507141e3270334236527" title="Decimators::decimate32_cen" alt="" coords="461,816,653,843"/>
+<area shape="rect" id="node7" href="$d0/d5b/classDecimators.html#a40c186ec6ae26fe6a9b3ee39cc6c8f30" title="Decimators::decimate4_cen" alt="" coords="465,867,650,893"/>
+<area shape="rect" id="node8" href="$d0/d5b/classDecimators.html#a415493a063a94837f3db45d10699a992" title="Decimators::decimate64_cen" alt="" coords="461,917,653,944"/>
+<area shape="rect" id="node9" href="$d0/d5b/classDecimators.html#a4b74172990d1d33a8118a98b6d03a098" title="Decimators::decimate8_cen" alt="" coords="465,968,650,995"/>
+<area shape="rect" id="node12" href="$d0/d5b/classDecimators.html#a3b6290d4f93cf1393e18bc1fcd6650f0" title="Decimators::decimate16_inf" alt="" coords="465,512,650,539"/>
+<area shape="rect" id="node13" href="$d0/d5b/classDecimators.html#aaba28886a1520791119986ba86c8e43e" title="Decimators::decimate2_inf" alt="" coords="468,563,647,589"/>
+<area shape="rect" id="node14" href="$d0/d5b/classDecimators.html#a2559e1d691ecfde681282fe351b743a8" title="Decimators::decimate32_inf" alt="" coords="465,613,650,640"/>
+<area shape="rect" id="node15" href="$d0/d5b/classDecimators.html#a73c17f5fb1d1882ab7d1c247a833a9ee" title="Decimators::decimate4_inf" alt="" coords="468,664,647,691"/>
+<area shape="rect" id="node16" href="$d0/d5b/classDecimators.html#ae57fa69be7e8876cc57230314fb2ef10" title="Decimators::decimate64_inf" alt="" coords="465,360,650,387"/>
+<area shape="rect" id="node17" href="$d0/d5b/classDecimators.html#a4fae636b4526a954d423862b1953d625" title="Decimators::decimate8_inf" alt="" coords="468,411,647,437"/>
+<area shape="rect" id="node19" href="$d0/d5b/classDecimators.html#a6d9541cc0d2046bdc5759b9a9d3614f2" title="Decimators::decimate16_sup" alt="" coords="461,5,653,32"/>
+<area shape="rect" id="node20" href="$d0/d5b/classDecimators.html#a6189b256c2f6bdcfcc3e413326dac6e4" title="Decimators::decimate2_sup" alt="" coords="465,56,650,83"/>
+<area shape="rect" id="node21" href="$d0/d5b/classDecimators.html#a9ec02351b1765b526092af76622936ca" title="Decimators::decimate32_sup" alt="" coords="461,107,653,133"/>
+<area shape="rect" id="node22" href="$d0/d5b/classDecimators.html#af1bd2ccc56eedbc4c5b907a310471175" title="Decimators::decimate4_sup" alt="" coords="465,157,650,184"/>
+<area shape="rect" id="node23" href="$d0/d5b/classDecimators.html#aac7d7f29b6ca71436b5fb2e81d53c540" title="Decimators::decimate64_sup" alt="" coords="461,208,653,235"/>
+<area shape="rect" id="node24" href="$d0/d5b/classDecimators.html#a87a13104bf8415c34148548629229177" title="Decimators::decimate8_sup" alt="" coords="465,259,650,285"/>
+</map>

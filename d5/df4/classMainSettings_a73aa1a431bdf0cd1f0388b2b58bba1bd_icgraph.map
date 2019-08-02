@@ -1,0 +1,12 @@
+<map id="MainSettings::getLatitude" name="MainSettings::getLatitude">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ae553508eb0f975d5ccc98bfae1976b6b" title="WebAPIAdapterGUI::instance\lLocationGet" alt="" coords="240,5,437,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#a56a96173847aa7a2a36de8410511e495" title="WebAPIAdapterSrv::instance\lLocationGet" alt="" coords="242,71,435,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a6fbee7d161cf219015698ec25c630948" title="WebAPIAdapterGUI::instance\lLocationPut" alt="" coords="240,136,437,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#aec7a35da786f69acdfe32fff06f55a19" title="WebAPIAdapterSrv::instance\lLocationPut" alt="" coords="242,201,435,243"/>
+<area shape="rect" id="node6" href="$d3/db5/classMyPositionDialog.html#a4192194562ebf68686aa033e31cec72f" title="MyPositionDialog::MyPosition\lDialog" alt="" coords="240,267,437,308"/>
+<area shape="rect" id="node7" href="$d8/d46/classDSDDemodGUI.html#a29febb70352053d3758b4f6d15342283" title="DSDDemodGUI::updateMyPosition" alt="" coords="224,333,453,359"/>
+<area shape="rect" id="node8" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="501,333,721,359"/>
+<area shape="rect" id="node9" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="769,333,931,359"/>
+<area shape="rect" id="node10" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="979,325,1169,367"/>
+<area shape="rect" id="node11" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1217,333,1408,359"/>
+</map>

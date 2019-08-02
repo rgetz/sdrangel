@@ -1,0 +1,9 @@
+<map id="PerseusGui::blockApplySettings" name="PerseusGui::blockApplySettings">
+<area shape="rect" id="node2" href="$d5/d50/classPerseusGui.html#aca46a81d116bc9ef8490df822dcb93e7" title="PerseusGui::displaySettings" alt="" coords="264,110,451,137"/>
+<area shape="rect" id="node7" href="$d5/d50/classPerseusGui.html#a668a516067653f91e4c6fef158041165" title="PerseusGui::handleMessage" alt="" coords="512,198,701,225"/>
+<area shape="rect" id="node3" href="$d5/d50/classPerseusGui.html#acbc64a3b99beafef07f1ec2a6190b255" title="PerseusGui::PerseusGui" alt="" coords="1036,46,1203,73"/>
+<area shape="rect" id="node4" href="$d5/d50/classPerseusGui.html#a6c8b11a83638659cb4a31992f4d062a2" title="PerseusGui::resetToDefaults" alt="" coords="511,46,702,73"/>
+<area shape="rect" id="node5" href="$d5/d50/classPerseusGui.html#adce8dc8c1316fab5e67995f6b48e473d" title="PerseusGui::deserialize" alt="" coords="795,71,955,98"/>
+<area shape="rect" id="node6" href="$d5/d50/classPerseusGui.html#adf6049ca69b577d1ea54d74a4ce27eec" title="PerseusGui::setCenterFrequency" alt="" coords="499,147,715,174"/>
+<area shape="rect" id="node8" href="$d5/d50/classPerseusGui.html#ae8770a3882e3b944ee7296a9bb8b6421" title="PerseusGui::handleInputMessages" alt="" coords="763,147,988,174"/>
+</map>

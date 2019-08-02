@@ -1,0 +1,9 @@
+<map id="Command::getKeyLabel" name="Command::getKeyLabel">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#accd2db014f2921318abba5b6b6eb0544" title="MainWindow::addCommandToTree" alt="" coords="216,129,443,156"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="521,5,699,32"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a12c99c649d0abfb4eb46dc7c1f4a4790" title="MainWindow::on_commandNew\l_clicked" alt="" coords="505,57,715,98"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a0cb4c95840e6f4c5178ab2e9dbb4b6d9" title="MainWindow::on_commandDuplicate\l_clicked" alt="" coords="491,122,729,163"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ac3fd97421ad00ad6bce008f0af3d76b8" title="MainWindow::on_commandEdit\l_clicked" alt="" coords="507,187,713,229"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#ae3353f98497720b6bab9309ac9857a0f" title="MainWindow::on_commandDelete\l_clicked" alt="" coords="499,253,721,294"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="777,5,957,32"/>
+</map>

@@ -1,0 +1,138 @@
+<map id="TestSourceInput::MsgStartStop::MsgStartStop" name="TestSourceInput::MsgStartStop::MsgStartStop">
+<area shape="rect" id="node2" href="$d9/d2b/classTestSourceInput.html#a5e5042ee13a8a78677e46f27ede79c0b" title="TestSourceInput::deserialize" alt="" coords="239,122,427,149"/>
+<area shape="rect" id="node16" href="$d9/d2b/classTestSourceInput.html#aedc8a133e1b0a46d7799cc79f6cdc929" title="TestSourceInput::destroy" alt="" coords="248,1960,417,1986"/>
+<area shape="rect" id="node17" href="$d9/d2b/classTestSourceInput.html#ac33252a3f42099343a427efb1149072d" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="261,2010,404,2037"/>
+<area shape="rect" id="node109" href="$d9/d2b/classTestSourceInput.html#ac5bf69058ac5c2baa228c9d73796d2d5" title="TestSourceInput::serialize" alt="" coords="245,2061,420,2088"/>
+<area shape="rect" id="node118" href="$d9/d2b/classTestSourceInput.html#ad9576782a0c0081f8c4e106279a66a08" title="TestSourceInput::start" alt="" coords="257,2112,409,2138"/>
+<area shape="rect" id="node124" href="$d9/d2b/classTestSourceInput.html#aa8e05ad7d6244932154681732e057e6d" title="TestSourceInput::stop" alt="" coords="512,2205,663,2232"/>
+<area shape="rect" id="node125" href="$d9/d2b/classTestSourceInput.html#a345e4016b9560c823631675491d6ef70" title="TestSourceInput::TestSource\lInput" alt="" coords="236,2219,429,2260"/>
+<area shape="rect" id="node131" href="$d9/d2b/classTestSourceInput.html#a3a5e9602e9c06657434b72a7c1a1d473" title="TestSourceInput::~TestSource\lInput" alt="" coords="232,2287,433,2328"/>
+<area shape="rect" id="node3" href="$dd/d71/classTestSourceInput_1_1MsgConfigureTestSource.html#a54fb444a1075943b89ca2313d1bed0a5" title="TestSourceInput::MsgConfigure\lTestSource::create" alt="" coords="484,52,691,94"/>
+<area shape="rect" id="node5" href="$dd/df2/structTestSourceSettings.html#a5faf2a592e354ca61198585f8d6f659c" title="TestSourceSettings\l::deserialize" alt="" coords="519,311,656,352"/>
+<area shape="rect" id="node7" href="$dd/df2/structTestSourceSettings.html#ac18ce99236426ce0c626b70783ba4156" title="TestSourceSettings\l::resetToDefaults" alt="" coords="795,115,933,156"/>
+<area shape="rect" id="node15" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="2151,173,2300,200"/>
+<area shape="rect" id="node4" href="$dd/d71/classTestSourceInput_1_1MsgConfigureTestSource.html#a90090967bd1c1a05fceaf0922a67f8e2" title="TestSourceInput::MsgConfigure\lTestSource::MsgConfigureTestSource" alt="" coords="741,50,987,91"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="799,311,929,352"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="799,376,929,418"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="799,442,929,483"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="799,507,929,548"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a8fd742bd11d35703a58df7c15af1014a" title="SimpleDeserializer\l::readFloat" alt="" coords="799,572,929,614"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="799,180,929,222"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="799,246,929,287"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1065,475,1195,516"/>
+<area shape="rect" id="node18" href="$d9/d2b/classTestSourceInput.html#a62072416ddd710a01feae029571840ff" title="TestSourceInput::applySettings" alt="" coords="1273,1616,1479,1642"/>
+<area shape="rect" id="node19" href="$db/d0c/classDeviceSampleSource.html#a1f77fa12f7d8afe13ea3fbe538d29b15" title="DeviceSampleSource\l::calculateDeviceCenterFrequency" alt="" coords="1535,106,1757,147"/>
+<area shape="rect" id="node20" href="$db/d0c/classDeviceSampleSource.html#a8d7e8bf06f70b43e5e52e73d89de852f" title="DeviceSampleSource\l::calculateFrequencyShift" alt="" coords="1849,100,2020,142"/>
+<area shape="rect" id="node21" href="$dd/db6/classDeviceAPI.html#ae4ba357aa335e8111fb187b96309cba4" title="Configure current device engine DSP corrections (Rx) " alt="" coords="1539,238,1753,265"/>
+<area shape="rect" id="node24" href="$dd/db6/classDeviceAPI.html#ac83b6abaec341f91e8652ca70882e5bb" title="Device engine message queue. " alt="" coords="1550,395,1742,436"/>
+<area shape="rect" id="node28" href="$da/d2c/classFileRecord.html#a25a033993e153abc716521e5f6655cad" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1554,584,1738,610"/>
+<area shape="rect" id="node33" href="$d5/d94/classTestSourceThread.html#a40cb534864b31d8cedbe64c2ebca6f73" title="TestSourceThread::setAMModulation" alt="" coords="1527,1950,1765,1977"/>
+<area shape="rect" id="node34" href="$d5/d94/classTestSourceThread.html#a702b64ba0bcd763a840d0567e8ebaa7e" title="TestSourceThread::setAmplitudeBits" alt="" coords="1528,2001,1764,2028"/>
+<area shape="rect" id="node35" href="$d5/d94/classTestSourceThread.html#a7f079a1090e16f18d0e5574a4f1ca9b6" title="TestSourceThread::setBitSize" alt="" coords="1547,2052,1745,2078"/>
+<area shape="rect" id="node36" href="$d5/d94/classTestSourceThread.html#a045fa31efc2c583ad42385850a1807a7" title="TestSourceThread::setDCFactor" alt="" coords="1540,2102,1752,2129"/>
+<area shape="rect" id="node37" href="$d5/d94/classTestSourceThread.html#adf623e95b9eefd8a07e1706e1a36887b" title="TestSourceThread::setFcPos" alt="" coords="1549,2153,1743,2180"/>
+<area shape="rect" id="node38" href="$d5/d94/classTestSourceThread.html#a148b19b7d81bb9c8ad0a01a821ad9152" title="TestSourceThread::setFMDeviation" alt="" coords="1531,1329,1761,1356"/>
+<area shape="rect" id="node39" href="$d5/d94/classTestSourceThread.html#a3c29e7d307203a1a489927b0a3289407" title="TestSourceThread::setFrequency\lShift" alt="" coords="1538,1380,1754,1422"/>
+<area shape="rect" id="node41" href="$d5/d94/classTestSourceThread.html#a894e4e2d836ac426979993365160b740" title="TestSourceThread::setIFactor" alt="" coords="1548,1446,1744,1473"/>
+<area shape="rect" id="node42" href="$d5/d94/classTestSourceThread.html#a41218d1a8fac01136962d27ac67168ca" title="TestSourceThread::setLog2\lDecimation" alt="" coords="1555,1498,1737,1539"/>
+<area shape="rect" id="node43" href="$d5/d94/classTestSourceThread.html#ab66ae644964b3c1b725141df344821f1" title="TestSourceThread::setModulation" alt="" coords="1537,1564,1755,1590"/>
+<area shape="rect" id="node44" href="$d5/d94/classTestSourceThread.html#a1c664ea8c50c9bdff814801dbfb0b3b1" title="TestSourceThread::setPattern0" alt="" coords="1544,1614,1748,1641"/>
+<area shape="rect" id="node45" href="$d5/d94/classTestSourceThread.html#a8ad7e0039d8506ec105adb81ee5d8cb1" title="TestSourceThread::setPattern1" alt="" coords="1544,1665,1748,1692"/>
+<area shape="rect" id="node46" href="$d5/d94/classTestSourceThread.html#a3beaa5ac70eb5520b83bded627f7af9b" title="TestSourceThread::setPattern2" alt="" coords="1544,1716,1748,1742"/>
+<area shape="rect" id="node47" href="$d5/d94/classTestSourceThread.html#a27f7f30714e0bc12ddd4e8ad52991c1e" title="TestSourceThread::setPhase\lImbalance" alt="" coords="1550,1767,1742,1808"/>
+<area shape="rect" id="node48" href="$d5/d94/classTestSourceThread.html#aa8f3e531ec4e73d3da1164e3cbe3c45e" title="TestSourceThread::setQFactor" alt="" coords="1545,1833,1747,1860"/>
+<area shape="rect" id="node49" href="$d5/d94/classTestSourceThread.html#ab9aa32561e042f4962b39ad69d29d961" title="TestSourceThread::setSamplerate" alt="" coords="1535,2204,1757,2230"/>
+<area shape="rect" id="node50" href="$d5/d94/classTestSourceThread.html#a41ef9d74fa6b69dc41bcf4406a24591e" title="TestSourceThread::setTone\lFrequency" alt="" coords="1554,1884,1738,1926"/>
+<area shape="rect" id="node51" href="$d9/d2b/classTestSourceInput.html#a36ea14e55c2539240b38aa3737b91e27" title="TestSourceInput::webapiReverse\lSendSettings" alt="" coords="1538,1263,1754,1304"/>
+<area shape="rect" id="node22" href="$d2/d3b/classDSPDeviceSourceEngine.html#a65c2430d7ac74a2c112b3aa50b8d2c10" title="Configure DSP corrections. " alt="" coords="1849,231,2021,272"/>
+<area shape="rect" id="node23" href="$df/d80/classDSPDeviceMIMOEngine.html#acee0fcafe1b7eb91dd7ff9a11bb5359a" title="Configure source DSP corrections. " alt="" coords="1851,166,2018,207"/>
+<area shape="rect" id="node25" href="$d2/d3b/classDSPDeviceSourceEngine.html#a5c45cdb279f4bf1a37bdeabd96ca7460" title="DSPDeviceSourceEngine\l::getInputMessageQueue" alt="" coords="1849,362,2021,403"/>
+<area shape="rect" id="node26" href="$d1/d90/classDSPDeviceSinkEngine.html#af3d2710cedb3a89aeea6fb52ee3c6adc" title="DSPDeviceSinkEngine\l::getInputMessageQueue" alt="" coords="1851,427,2019,468"/>
+<area shape="rect" id="node27" href="$df/d80/classDSPDeviceMIMOEngine.html#a7281426ef3076f28470783682717d759" title="DSPDeviceMIMOEngine\l::getInputMessageQueue" alt="" coords="1851,296,2019,338"/>
+<area shape="rect" id="node29" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="1859,544,2011,586"/>
+<area shape="rect" id="node30" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="1859,610,2011,651"/>
+<area shape="rect" id="node31" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="1875,493,1994,520"/>
+<area shape="rect" id="node32" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="2141,493,2310,520"/>
+<area shape="rect" id="node40" href="$d0/d17/classNCOF.html#abe6b2ef5fff0bb0187711d3eee84c48d" title="NCOF::setFreq" alt="" coords="1879,2230,1991,2257"/>
+<area shape="rect" id="node52" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae5eac5b8987ae23686f31a6fd502bb67" title="SWGSDRangel::SWGDeviceSettings\l::asJson" alt="" coords="1813,1524,2056,1566"/>
+<area shape="rect" id="node86" href="$dd/db6/classDeviceAPI.html#a5d645b04a7e857affab1cef8fd54ac77" title="DeviceAPI::getDeviceSetIndex" alt="" coords="1833,1590,2037,1617"/>
+<area shape="rect" id="node87" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a079edf35262f14f2c33eed62e6aa4ea2" title="SWGSDRangel::SWGDeviceSettings\l::getTestSourceSettings" alt="" coords="1813,1642,2056,1683"/>
+<area shape="rect" id="node88" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a648a66a142c98325954db6642e3d2c2f" title="SWGSDRangel::SWGTestSource\lSettings::setAmModulation" alt="" coords="1824,1707,2045,1748"/>
+<area shape="rect" id="node89" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#afa7c4357732113c7ddb573cc3a72a754" title="SWGSDRangel::SWGTestSource\lSettings::setAmplitudeBits" alt="" coords="1824,1772,2045,1814"/>
+<area shape="rect" id="node90" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#ad6c6f51fc4f89781078838f2e2dcc747" title="SWGSDRangel::SWGTestSource\lSettings::setAutoCorrOptions" alt="" coords="1824,1838,2045,1879"/>
+<area shape="rect" id="node91" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a166ce0408ce215fcf0d354b47c30da3a" title="SWGSDRangel::SWGTestSource\lSettings::setCenterFrequency" alt="" coords="1824,1903,2045,1944"/>
+<area shape="rect" id="node92" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#af53227983cad4b58b0ed54037294d576" title="SWGSDRangel::SWGTestSource\lSettings::setDcFactor" alt="" coords="1824,1968,2045,2010"/>
+<area shape="rect" id="node93" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a3458b2e0f0383ec80ba3bcf51aff66f1" title="SWGSDRangel::SWGDeviceSettings\l::setDeviceHwType" alt="" coords="1813,2034,2056,2075"/>
+<area shape="rect" id="node94" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa9e8c4f37cc72d44aa9976e4986c4561" title="SWGSDRangel::SWGDeviceSettings\l::setDirection" alt="" coords="1813,2099,2056,2140"/>
+<area shape="rect" id="node95" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a5b657d634457147c734c738c51e76232" title="SWGSDRangel::SWGTestSource\lSettings::setFcPos" alt="" coords="1824,2164,2045,2206"/>
+<area shape="rect" id="node96" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#ab035f6e3143010da94ac145ae7a1e3c8" title="SWGSDRangel::SWGTestSource\lSettings::setFileRecordName" alt="" coords="1824,675,2045,716"/>
+<area shape="rect" id="node97" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a9b9af3ed66a201044283327f3456e68c" title="SWGSDRangel::SWGTestSource\lSettings::setFmDeviation" alt="" coords="1824,740,2045,782"/>
+<area shape="rect" id="node98" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a5c66c6c2d51de92eca055751a89e02aa" title="SWGSDRangel::SWGTestSource\lSettings::setFrequencyShift" alt="" coords="1824,806,2045,847"/>
+<area shape="rect" id="node99" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#acdf174532c41470960eb12ccb18cffa2" title="SWGSDRangel::SWGTestSource\lSettings::setIFactor" alt="" coords="1824,871,2045,912"/>
+<area shape="rect" id="node100" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a5e2a6db1f42b79af0c1caf4c07999b0a" title="SWGSDRangel::SWGTestSource\lSettings::setLog2Decim" alt="" coords="1824,936,2045,978"/>
+<area shape="rect" id="node101" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a8d1dd4d18e02cdd4fba22d7b2fd6564b" title="SWGSDRangel::SWGTestSource\lSettings::setModulation" alt="" coords="1824,1002,2045,1043"/>
+<area shape="rect" id="node102" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a4a2bd4f146fdae03a464f097994ee702" title="SWGSDRangel::SWGTestSource\lSettings::setModulationTone" alt="" coords="1824,1067,2045,1108"/>
+<area shape="rect" id="node103" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a13bb17c9c39e7e53427daed4b3a55c93" title="SWGSDRangel::SWGDeviceSettings\l::setOriginatorIndex" alt="" coords="1813,1132,2056,1174"/>
+<area shape="rect" id="node104" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#ab416656ffb70867b2205712322b68a87" title="SWGSDRangel::SWGTestSource\lSettings::setPhaseImbalance" alt="" coords="1824,1198,2045,1239"/>
+<area shape="rect" id="node105" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a51a0611ab10d023aa31222405f65457f" title="SWGSDRangel::SWGTestSource\lSettings::setQFactor" alt="" coords="1824,1263,2045,1304"/>
+<area shape="rect" id="node106" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a7b33a49602d68540b65fde994558d58d" title="SWGSDRangel::SWGTestSource\lSettings::setSampleRate" alt="" coords="1824,1328,2045,1370"/>
+<area shape="rect" id="node107" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a52ca1d1e0b7b084b11583e91962e3cef" title="SWGSDRangel::SWGTestSource\lSettings::setSampleSizeIndex" alt="" coords="1824,1394,2045,1435"/>
+<area shape="rect" id="node108" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a94715f2d8fe482b4365c2a6ad7d6e734" title="SWGSDRangel::SWGDeviceSettings\l::setTestSourceSettings" alt="" coords="1813,1459,2056,1500"/>
+<area shape="rect" id="node53" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae8aa4ed584a5c98577e006d35931ff05" title="SWGSDRangel::SWGDeviceSettings\l::asJsonObject" alt="" coords="2104,1524,2347,1566"/>
+<area shape="rect" id="node54" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="2427,590,2621,617"/>
+<area shape="rect" id="node56" href="$d8/d92/classSWGSDRangel_1_1SWGAirspySettings.html#a9d505d4ab2013b25f935ca1a056c7be1" title="SWGSDRangel::SWGAirspySettings\l::isSet" alt="" coords="2405,642,2643,683"/>
+<area shape="rect" id="node57" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#aa635ca9386dbc89d79f95de831e8116d" title="SWGSDRangel::SWGAirspyHFSettings\l::isSet" alt="" coords="2395,707,2653,748"/>
+<area shape="rect" id="node58" href="$d3/d73/classSWGSDRangel_1_1SWGBladeRF1InputSettings.html#aa977046b9d162de88fe2448e622d1259" title="SWGSDRangel::SWGBladeRF1\lInputSettings::isSet" alt="" coords="2418,772,2630,814"/>
+<area shape="rect" id="node59" href="$d5/da3/classSWGSDRangel_1_1SWGBladeRF2InputSettings.html#a159871a0ee376d9c264a748cc259ba32" title="SWGSDRangel::SWGBladeRF2\lInputSettings::isSet" alt="" coords="2418,838,2630,879"/>
+<area shape="rect" id="node60" href="$dc/d98/classSWGSDRangel_1_1SWGBladeRF1OutputSettings.html#ab1f50f493d2f82fc1c4e6aab6115863e" title="SWGSDRangel::SWGBladeRF1\lOutputSettings::isSet" alt="" coords="2418,903,2630,944"/>
+<area shape="rect" id="node61" href="$d7/d6b/classSWGSDRangel_1_1SWGBladeRF2OutputSettings.html#a32af5ca989fac2fb096a74579dc32ce0" title="SWGSDRangel::SWGBladeRF2\lOutputSettings::isSet" alt="" coords="2418,968,2630,1010"/>
+<area shape="rect" id="node62" href="$d2/dfa/classSWGSDRangel_1_1SWGFCDProSettings.html#ad21cf14eaf600906811fd85e3d6d3b82" title="SWGSDRangel::SWGFCDProSettings\l::isSet" alt="" coords="2399,1034,2649,1075"/>
+<area shape="rect" id="node63" href="$d9/dae/classSWGSDRangel_1_1SWGFCDProPlusSettings.html#a91a1d480ba60b5d6d134a81bf6d4bba2" title="SWGSDRangel::SWGFCDProPlus\lSettings::isSet" alt="" coords="2410,1099,2638,1140"/>
+<area shape="rect" id="node64" href="$df/d78/classSWGSDRangel_1_1SWGFileInputSettings.html#aa7cb2defaa87a8c7cd2da5b38ac91e74" title="SWGSDRangel::SWGFileInput\lSettings::isSet" alt="" coords="2422,1164,2626,1206"/>
+<area shape="rect" id="node65" href="$d1/d60/classSWGSDRangel_1_1SWGHackRFInputSettings.html#ad501da19e95542a9997e129d5d014455" title="SWGSDRangel::SWGHackRFInput\lSettings::isSet" alt="" coords="2408,1230,2640,1271"/>
+<area shape="rect" id="node66" href="$d6/dda/classSWGSDRangel_1_1SWGHackRFOutputSettings.html#a51654583cb988aa53db012e08c83b6f4" title="SWGSDRangel::SWGHackRFOutput\lSettings::isSet" alt="" coords="2403,1295,2645,1336"/>
+<area shape="rect" id="node67" href="$d8/d3d/classSWGSDRangel_1_1SWGKiwiSDRSettings.html#a0b86462661842e88d3fc21902d56106a" title="SWGSDRangel::SWGKiwiSDRSettings\l::isSet" alt="" coords="2396,1360,2652,1402"/>
+<area shape="rect" id="node68" href="$de/d36/classSWGSDRangel_1_1SWGLimeSdrInputSettings.html#aa9622ba290ccdb668705c27ff8d55848" title="SWGSDRangel::SWGLimeSdrInput\lSettings::isSet" alt="" coords="2409,1426,2639,1467"/>
+<area shape="rect" id="node69" href="$d2/d86/classSWGSDRangel_1_1SWGLimeSdrOutputSettings.html#a6c144b066083eb1ec26c1a44bcb9e323" title="SWGSDRangel::SWGLimeSdrOutput\lSettings::isSet" alt="" coords="2403,1491,2645,1532"/>
+<area shape="rect" id="node70" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a55fef4e04eea9285289ea6fd48a6f88f" title="SWGSDRangel::SWGLocalInput\lSettings::isSet" alt="" coords="2417,1556,2631,1598"/>
+<area shape="rect" id="node71" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a048d2276ce03a3ac738b09ed85137d00" title="SWGSDRangel::SWGLocalOutput\lSettings::isSet" alt="" coords="2412,1622,2636,1663"/>
+<area shape="rect" id="node72" href="$d7/deb/classSWGSDRangel_1_1SWGPerseusSettings.html#acc93235430ceb94df8c994cfdf60a47b" title="SWGSDRangel::SWGPerseusSettings\l::isSet" alt="" coords="2399,1687,2649,1728"/>
+<area shape="rect" id="node73" href="$db/d8c/classSWGSDRangel_1_1SWGPlutoSdrInputSettings.html#a645471b6f8e5ae4418a57a57696aba91" title="SWGSDRangel::SWGPlutoSdr\lInputSettings::isSet" alt="" coords="2422,1752,2626,1794"/>
+<area shape="rect" id="node74" href="$d3/dba/classSWGSDRangel_1_1SWGPlutoSdrOutputSettings.html#a1d89876428c80f5d2751cf07096af0eb" title="SWGSDRangel::SWGPlutoSdr\lOutputSettings::isSet" alt="" coords="2422,1818,2626,1859"/>
+<area shape="rect" id="node75" href="$db/da7/classSWGSDRangel_1_1SWGRtlSdrSettings.html#abc6ce7d3c763cab292fead83709080a7" title="SWGSDRangel::SWGRtlSdrSettings\l::isSet" alt="" coords="2405,1883,2643,1924"/>
+<area shape="rect" id="node76" href="$dd/df1/classSWGSDRangel_1_1SWGRemoteOutputSettings.html#a3fde55e8e7fccbbe1ca88ee670c4fb2a" title="SWGSDRangel::SWGRemoteOutput\lSettings::isSet" alt="" coords="2405,1948,2643,1990"/>
+<area shape="rect" id="node77" href="$d1/d9c/classSWGSDRangel_1_1SWGRemoteInputSettings.html#a1d072fc83117abf36dd449846641568b" title="SWGSDRangel::SWGRemoteInput\lSettings::isSet" alt="" coords="2409,2014,2639,2055"/>
+<area shape="rect" id="node78" href="$db/dd9/classSWGSDRangel_1_1SWGSDRPlaySettings.html#a1b2530d906528145fb70bedb1abe1d4a" title="SWGSDRangel::SWGSDRPlaySettings\l::isSet" alt="" coords="2395,2079,2653,2120"/>
+<area shape="rect" id="node79" href="$de/d42/classSWGSDRangel_1_1SWGSoapySDRInputSettings.html#aaa174a13c5d1ff7ade8a8f936b300a95" title="SWGSDRangel::SWGSoapySDRInput\lSettings::isSet" alt="" coords="2399,2144,2649,2186"/>
+<area shape="rect" id="node81" href="$d3/dbd/classSWGSDRangel_1_1SWGSoapySDROutputSettings.html#a4d1deab15b156d4f8c390a23b7fe798f" title="SWGSDRangel::SWGSoapySDROutput\lSettings::isSet" alt="" coords="2395,2210,2653,2251"/>
+<area shape="rect" id="node82" href="$d5/d81/classSWGSDRangel_1_1SWGTestSourceSettings.html#a09fc1706d0e44a3948b4432af22a417c" title="SWGSDRangel::SWGTestSource\lSettings::isSet" alt="" coords="2413,2275,2635,2316"/>
+<area shape="rect" id="node83" href="$df/de8/classSWGSDRangel_1_1SWGTestMISettings.html#a4db3b2c4b1cc773ae1814db0d54713c6" title="SWGSDRangel::SWGTestMISettings\l::isSet" alt="" coords="2403,2340,2645,2382"/>
+<area shape="rect" id="node84" href="$d3/d55/classSWGSDRangel_1_1SWGXtrxInputSettings.html#a9082fc187cb345df0e848c5abe93e3df" title="SWGSDRangel::SWGXtrxInput\lSettings::isSet" alt="" coords="2421,2406,2627,2447"/>
+<area shape="rect" id="node85" href="$da/de2/classSWGSDRangel_1_1SWGXtrxOutputSettings.html#ae15bdef1370707afbd11d2aed5fe94d1" title="SWGSDRangel::SWGXtrxOutput\lSettings::isSet" alt="" coords="2415,2471,2633,2512"/>
+<area shape="rect" id="node55" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="2709,583,2901,624"/>
+<area shape="rect" id="node80" href="$d9/d74/classSWGSDRangel_1_1SWGComplex.html#a7b7595061a18780b40e7a0d90e747879" title="SWGSDRangel::SWGComplex\l::isSet" alt="" coords="2701,2176,2908,2218"/>
+<area shape="rect" id="node110" href="$dd/df2/structTestSourceSettings.html#ad2f223cb92a7b210c11778de21793040" title="TestSourceSettings\l::serialize" alt="" coords="519,1823,656,1864"/>
+<area shape="rect" id="node111" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="777,1678,951,1705"/>
+<area shape="rect" id="node113" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="776,1729,952,1756"/>
+<area shape="rect" id="node114" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="773,1780,955,1806"/>
+<area shape="rect" id="node115" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="775,1830,953,1857"/>
+<area shape="rect" id="node116" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="771,1881,957,1908"/>
+<area shape="rect" id="node117" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="790,1932,938,1958"/>
+<area shape="rect" id="node112" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1043,1780,1217,1806"/>
+<area shape="rect" id="node119" href="$d5/d94/classTestSourceThread.html#a5bfc7cef93f21bc973b62b6bcb1c3b6d" title="TestSourceThread::startStop" alt="" coords="769,2104,959,2130"/>
+<area shape="rect" id="node120" href="$de/da8/classTestSourceThread_1_1MsgStartStop.html#a4b02d7bc326e788bcea21ab056095eca" title="TestSourceThread::MsgStart\lStop::create" alt="" coords="1035,2034,1225,2075"/>
+<area shape="rect" id="node121" href="$de/da8/classTestSourceThread_1_1MsgStartStop.html#a496a1af2ba00d6ef32386044912c0a20" title="TestSourceThread::MsgStart\lStop::MsgStartStop" alt="" coords="1281,1884,1471,1926"/>
+<area shape="rect" id="node122" href="$d5/d94/classTestSourceThread.html#ad3f0670b38fd05818c6dc62880d03f52" title="TestSourceThread::TestSource\lThread" alt="" coords="1544,2320,1748,2362"/>
+<area shape="rect" id="node123" href="$d5/d94/classTestSourceThread.html#ab48c5b17264fdfdffe46d1ab27f7d447" title="TestSourceThread::\l~TestSourceThread" alt="" coords="1577,2255,1715,2296"/>
+<area shape="rect" id="node126" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="567,2256,607,2282"/>
+<area shape="rect" id="node127" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="810,2252,918,2278"/>
+<area shape="rect" id="node128" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1056,2303,1204,2344"/>
+<area shape="rect" id="node129" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1317,2252,1435,2278"/>
+<area shape="rect" id="node130" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1309,2303,1443,2344"/>
+<area shape="rect" id="node132" href="$d9/d2b/classTestSourceInput.html#a447ac2710f7d0b23d17e80baa995e8c5" title="TestSourceInput::network\lManagerFinished" alt="" coords="501,2362,673,2403"/>
+<area shape="rect" id="node133" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="481,2310,693,2337"/>
+<area shape="rect" id="node134" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="781,2303,947,2344"/>
+<area shape="rect" id="node136" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="778,2368,950,2410"/>
+<area shape="rect" id="node137" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="785,2434,943,2475"/>
+<area shape="rect" id="node135" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1041,2376,1219,2402"/>
+</map>

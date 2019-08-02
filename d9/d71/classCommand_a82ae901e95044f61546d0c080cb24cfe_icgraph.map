@@ -1,0 +1,9 @@
+<map id="Command::resetToDefaults" name="Command::resetToDefaults">
+<area shape="rect" id="node2" href="$d9/d71/classCommand.html#a18df2d81039392daeb0b78c346a70537" title="Command::Command" alt="" coords="237,5,387,32"/>
+<area shape="rect" id="node3" href="$d9/d71/classCommand.html#afa4e532294216c52ffa57aac27a120cd" title="Command::deserialize" alt="" coords="236,56,388,83"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="436,56,567,83"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="615,31,792,57"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="624,81,783,108"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="840,31,1020,57"/>
+<area shape="rect" id="node8" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="859,81,1001,108"/>
+</map>

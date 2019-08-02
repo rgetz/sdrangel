@@ -1,0 +1,5 @@
+<map id="DeviceAPI::getDeviceUID" name="DeviceAPI::getDeviceUID">
+<area shape="rect" id="node2" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae2f0ad2bba3f345cbea514bf3987692f" title="DSPDeviceSourceEngine\l::getUID" alt="" coords="229,5,401,47"/>
+<area shape="rect" id="node3" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="237,71,394,112"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#a1318397d3a332701b65af3a78e883eb1" title="DSPDeviceMIMOEngine\l::getUID" alt="" coords="232,136,399,177"/>
+</map>

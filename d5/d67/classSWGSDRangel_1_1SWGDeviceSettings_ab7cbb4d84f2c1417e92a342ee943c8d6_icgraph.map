@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setPlutoSdrOutputSettings" name="SWGSDRangel::SWGDeviceSettings::setPlutoSdrOutputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="324,5,487,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="323,71,487,112"/>
+<area shape="rect" id="node6" href="$da/dff/classPlutoSDROutput.html#aac3b1eda1bab72009347293155fa7a12" title="PlutoSDROutput::webapiReverse\lSendSettings" alt="" coords="296,136,515,177"/>
+<area shape="rect" id="node13" href="$da/dff/classPlutoSDROutput.html#aef86a03eb9d80d9cfc8361a51859c80c" title="PlutoSDROutput::webapiSettingsGet" alt="" coords="563,223,801,250"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="573,8,791,49"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="877,8,1040,49"/>
+<area shape="rect" id="node7" href="$da/dff/classPlutoSDROutput.html#a4a7d956731df0e59855999390a468698" title="PlutoSDROutput::applySettings" alt="" coords="579,141,785,167"/>
+<area shape="rect" id="node8" href="$da/dff/classPlutoSDROutput.html#ad132fd5cef658cfceffc18fe8cc34967" title="PlutoSDROutput::handleMessage" alt="" coords="849,181,1068,207"/>
+<area shape="rect" id="node10" href="$da/dff/classPlutoSDROutput.html#a66507a2a3ab336dcb05000ddf5cf7f4b" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="886,79,1031,106"/>
+<area shape="rect" id="node12" href="$da/dff/classPlutoSDROutput.html#a758177843de5ed2ee7853997d9ab95c9" title="PlutoSDROutput::start" alt="" coords="881,130,1036,157"/>
+<area shape="rect" id="node9" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="1116,195,1335,222"/>
+<area shape="rect" id="node11" href="$da/d5d/classPlutoSDROutput_1_1MsgStartStop.html#a5f1f592f6e818d950c7c1e031495c4df" title="PlutoSDROutput::MsgStart\lStop::MsgStartStop" alt="" coords="1135,108,1316,149"/>
+</map>

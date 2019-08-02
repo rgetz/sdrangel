@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGPresetTransfer::getPreset" name="SWGSDRangel::SWGPresetTransfer::getPreset">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#af87ab32e0f66cc31cbb573c3b04e2994" title="WebAPIAdapterGUI::instance\lPresetPatch" alt="" coords="293,5,491,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ad99f1878d0f5db15b3f3ba1e4bba6a7f" title="WebAPIAdapterSrv::instance\lPresetPatch" alt="" coords="295,71,489,112"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a9f8854be57d97474e4edc17ac4166455" title="WebAPIAdapterGUI::instance\lPresetPost" alt="" coords="293,136,491,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a357870b6c38d50f7d3287678f764f1a0" title="WebAPIAdapterSrv::instance\lPresetPost" alt="" coords="295,201,489,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#a337947339febd24bf0f86b7d8dc16542" title="WebAPIAdapterGUI::instance\lPresetPut" alt="" coords="293,267,491,308"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#adc5f145eccc9297926ca74ac0f9c618f" title="WebAPIAdapterSrv::instance\lPresetPut" alt="" coords="295,332,489,373"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#ad93e000ba67ba7fd17eb881c09b0a34f" title="WebAPIRequestMapper\l::validatePresetTransfer" alt="" coords="311,397,473,439"/>
+<area shape="rect" id="node9" href="$dd/da7/classWebAPIRequestMapper.html#a079db7301cd9e57bd26d5fa563007fec" title="WebAPIRequestMapper\l::instancePresetService" alt="" coords="539,397,701,439"/>
+<area shape="rect" id="node10" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="749,397,912,439"/>
+</map>

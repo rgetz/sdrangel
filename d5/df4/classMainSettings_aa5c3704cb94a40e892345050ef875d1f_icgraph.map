@@ -1,0 +1,5 @@
+<map id="MainSettings::setLongitude" name="MainSettings::setLongitude">
+<area shape="rect" id="node2" href="$d3/db5/classMyPositionDialog.html#af51813b19ad2207d23dc860b8c1463d9" title="MyPositionDialog::accept" alt="" coords="247,5,417,32"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#aec7a35da786f69acdfe32fff06f55a19" title="WebAPIAdapterSrv::instance\lLocationPut" alt="" coords="235,57,429,98"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a6fbee7d161cf219015698ec25c630948" title="WebAPIAdapterGUI::instance\lLocationPut" alt="" coords="233,122,431,163"/>
+</map>

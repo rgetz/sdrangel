@@ -1,0 +1,6 @@
+<map id="PerseusGui::updateHardware" name="PerseusGui::updateHardware">
+<area shape="rect" id="node2" href="$d8/de4/classPerseusInput_1_1MsgConfigurePerseus.html#aaa3dc652d6074fbf7a85bca41abc9469" title="PerseusInput::MsgConfigure\lPerseus::create" alt="" coords="247,5,435,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="257,71,425,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="266,137,415,163"/>
+<area shape="rect" id="node3" href="$d8/de4/classPerseusInput_1_1MsgConfigurePerseus.html#a3e74890e2e86183c4f0e314ac7ba8441" title="PerseusInput::MsgConfigure\lPerseus::MsgConfigurePerseus" alt="" coords="483,5,689,47"/>
+</map>

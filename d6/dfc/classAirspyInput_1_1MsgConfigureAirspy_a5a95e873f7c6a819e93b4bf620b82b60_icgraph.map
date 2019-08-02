@@ -1,0 +1,13 @@
+<map id="AirspyInput::MsgConfigureAirspy::MsgConfigureAirspy" name="AirspyInput::MsgConfigureAirspy::MsgConfigureAirspy">
+<area shape="rect" id="node2" href="$d6/dfc/classAirspyInput_1_1MsgConfigureAirspy.html#a64d748dd77ad6e449c2933ad333a2175" title="AirspyInput::MsgConfigure\lAirspy::create" alt="" coords="239,82,416,123"/>
+<area shape="rect" id="node3" href="$d3/d89/classAirspyGui.html#ac547884dcae3c786362e6e64ae9c7bd6" title="AirspyGui::updateHardware" alt="" coords="480,9,663,36"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#a3a68e68e23abfef2424d4a0c115d858c" title="AirspyInput::deserialize" alt="" coords="492,64,651,91"/>
+<area shape="rect" id="node7" href="$d9/d02/classAirspyInput.html#a803478e912bd94c6b608e97dac842b98" title="AirspyInput::setCenterFrequency" alt="" coords="464,115,679,141"/>
+<area shape="rect" id="node9" href="$d9/d02/classAirspyInput.html#a18d90446e8a2742100e64603c113a030" title="AirspyInput::webapiSettings\lPutPatch" alt="" coords="479,166,664,207"/>
+<area shape="rect" id="node4" href="$d3/d89/classAirspyGui.html#a81f9216c9f453b887278c16248cc81b0" title="AirspyGui::AirspyGui" alt="" coords="751,5,895,32"/>
+<area shape="rect" id="node6" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#aeca295550ded5e555c36b08e2b2764f4" title="AirspyInput::MsgStartStop\l::MsgStartStop" alt="" coords="735,57,911,98"/>
+<area shape="rect" id="node8" href="$d9/d02/classAirspyInput.html#ab072de6663b912d511a8a186449159ff" title="For when the source sample rate is set externally. " alt="" coords="730,123,917,149"/>
+<area shape="rect" id="node10" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="727,173,920,200"/>
+<area shape="rect" id="node11" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="968,137,1147,178"/>
+<area shape="rect" id="node12" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="1195,173,1392,200"/>
+</map>

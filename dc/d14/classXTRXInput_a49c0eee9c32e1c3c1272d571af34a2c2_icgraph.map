@@ -1,0 +1,12 @@
+<map id="XTRXInput::getThread" name="XTRXInput::getThread">
+<area shape="rect" id="node2" href="$dc/d14/classXTRXInput.html#adcc2ffc32c425531127e5617add78c9c" title="XTRXInput::findThread" alt="" coords="207,107,363,133"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#a9689478882906279e1d4da7039ee9e99" title="XTRXInput::applySettings" alt="" coords="411,56,585,83"/>
+<area shape="rect" id="node8" href="$dc/d14/classXTRXInput.html#ac5d109f6b6f25ff065a8f0063f2154ab" title="XTRXInput::start" alt="" coords="666,107,787,133"/>
+<area shape="rect" id="node9" href="$dc/d14/classXTRXInput.html#a5dd45130f13693615df8dd02147ad8c3" title="XTRXInput::stop" alt="" coords="667,157,787,184"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="633,5,820,32"/>
+<area shape="rect" id="node6" href="$dc/d14/classXTRXInput.html#a48e88dd0f71731de9460dfe3ba0952c2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1129,56,1241,83"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="868,5,1053,32"/>
+<area shape="rect" id="node7" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1317,125,1500,166"/>
+<area shape="rect" id="node10" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="1101,208,1269,235"/>
+<area shape="rect" id="node11" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="877,259,1044,285"/>
+</map>

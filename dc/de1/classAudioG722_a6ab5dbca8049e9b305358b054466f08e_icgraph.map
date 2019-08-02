@@ -1,0 +1,5 @@
+<map id="AudioG722::block4" name="AudioG722::block4">
+<area shape="rect" id="node2" href="$dc/de1/classAudioG722.html#a3e5a213ce1e75286c241cb14435978e8" title="AudioG722::encode" alt="" coords="185,5,321,32"/>
+<area shape="rect" id="node3" href="$d1/d16/classAudioNetSink.html#a738e861df7b5bf32bf6450d7373e8315" title="AudioNetSink::write" alt="" coords="369,5,508,32"/>
+<area shape="rect" id="node4" href="$d8/ddc/classAudioOutput.html#ab2826a13419875d9d7c7ab33e5ea934b" title="AudioOutput::readData" alt="" coords="556,5,711,32"/>
+</map>

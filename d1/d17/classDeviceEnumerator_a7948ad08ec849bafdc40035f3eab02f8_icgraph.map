@@ -1,0 +1,7 @@
+<map id="DeviceEnumerator::getNbTxSamplingDevices" name="DeviceEnumerator::getNbTxSamplingDevices">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a15f501434bcacfde796d991bd167dc69" title="WebAPIAdapterGUI::deviceset\lDevicePut" alt="" coords="241,5,445,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#aa69f61bd113948407636cf844ffbfd34" title="WebAPIAdapterSrv::deviceset\lDevicePut" alt="" coords="243,71,443,112"/>
+<area shape="rect" id="node4" href="$da/d45/classDeviceUserArgsDialog.html#a74180ff085266d89ad52fe5c9e843aca" title="DeviceUserArgsDialog\l::DeviceUserArgsDialog" alt="" coords="262,136,425,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a49530a62e7a6ed6c9852d71639ffccfc" title="WebAPIAdapterSrv::instance\lDevices" alt="" coords="247,201,440,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#afcacae575f77a471e5dcf476315000fc" title="WebAPIAdapterGUI::instance\lDevices" alt="" coords="245,267,442,308"/>
+</map>

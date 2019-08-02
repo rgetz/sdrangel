@@ -1,0 +1,5 @@
+<map id="BFMDemodGUI::changeFrequency" name="BFMDemodGUI::changeFrequency">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a06aed26bdeb29d79ebec00d8a34ae5da" title="BFMDemodGUI::on_g00AltFrequencies\lBox_activated" alt="" coords="280,5,533,47"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a68c9976fddb5420ff408c6fd91271689" title="BFMDemodGUI::on_g14AltFrequencies\l_activated" alt="" coords="280,71,533,112"/>
+<area shape="rect" id="node4" href="$d3/df8/classBFMDemodGUI.html#a07af214d438501b9bb296d8eda582293" title="BFMDemodGUI::on_g14Mapped\lFrequencies_activated" alt="" coords="301,136,513,177"/>
+</map>

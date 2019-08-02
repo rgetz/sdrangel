@@ -1,0 +1,7 @@
+<map id="LimeSDROutput::releaseChannel" name="LimeSDROutput::releaseChannel">
+<area shape="rect" id="node2" href="$d5/d8d/classLimeSDROutput.html#ad830d187626796149effc81482df506f" title="LimeSDROutput::stop" alt="" coords="269,53,420,79"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#a3dd611d770aaed09a0e6168f7f11c4a6" title="LimeSDROutput::~LimeSDROutput" alt="" coords="715,27,945,54"/>
+<area shape="rect" id="node4" href="$d3/de5/classLimeSDROutput_1_1MsgReportStreamInfo.html#ae00eecd9dcdfd51d15998bc465368dd2" title="LimeSDROutput::MsgReport\lStreamInfo::MsgReportStreamInfo" alt="" coords="993,71,1216,112"/>
+<area shape="rect" id="node5" href="$d5/d8d/classLimeSDROutput.html#a3c5221cbe840bb16c8797162497910a4" title="LimeSDROutput::closeDevice" alt="" coords="468,27,667,54"/>
+<area shape="rect" id="node6" href="$d5/d8d/classLimeSDROutput.html#a4a8697a5c6dba54158991d86bbdd6bf1" title="LimeSDROutput::start" alt="" coords="754,129,906,155"/>
+</map>

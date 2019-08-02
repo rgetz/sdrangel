@@ -1,0 +1,7 @@
+<map id="ATVDemodGUI::setChannelMarkerBandwidth" name="ATVDemodGUI::setChannelMarkerBandwidth">
+<area shape="rect" id="node2" href="$df/dd3/classATVDemodGUI.html#ab4aa3271f7cd61a56f58138acc067f30" title="ATVDemodGUI::on_decimator\lEnable_toggled" alt="" coords="285,5,485,47"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#a74d7ab4a1a244a465122b996dbbe28a8" title="ATVDemodGUI::on_modulation\l_currentIndexChanged" alt="" coords="281,71,488,112"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#addb7864211516c137890aabdae7e58aa" title="ATVDemodGUI::on_rfBW\l_valueChanged" alt="" coords="298,136,471,177"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#a5fef8164c96669a395c7b9461c692928" title="ATVDemodGUI::on_rfFiltering\l_toggled" alt="" coords="286,201,483,243"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#a8a86adccd9312fff2f1fa80af5d43ef4" title="ATVDemodGUI::on_rfOppBW\l_valueChanged" alt="" coords="286,267,483,308"/>
+</map>

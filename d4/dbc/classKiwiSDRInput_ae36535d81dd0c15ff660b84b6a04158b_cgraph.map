@@ -1,0 +1,5 @@
+<map id="KiwiSDRInput::stop" name="KiwiSDRInput::stop">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#a31e477ee7fad6acc1e528786e8979deb" title="KiwiSDRInput::setWorkerStatus" alt="" coords="192,42,403,69"/>
+<area shape="rect" id="node3" href="$d5/d07/classKiwiSDRInput_1_1MsgSetStatus.html#a8d1889d0521ce89f83874113e2cd93ee" title="KiwiSDRInput::MsgSetStatus\l::create" alt="" coords="451,5,647,47"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="474,71,623,98"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="RTLSDRGui::displaySampleRate" name="RTLSDRGui::displaySampleRate">
+<area shape="rect" id="node2" href="$d5/d42/classRTLSDRGui.html#a7e15bc5044e265b2f05f5165c13ac2ce" title="RTLSDRGui::displaySettings" alt="" coords="283,64,476,90"/>
+<area shape="rect" id="node9" href="$d5/d42/classRTLSDRGui.html#a7b33f1a19cebb82572cae8ed09ef9b23" title="RTLSDRGui::on_decim\l_currentIndexChanged" alt="" coords="299,115,459,156"/>
+<area shape="rect" id="node10" href="$d5/d42/classRTLSDRGui.html#ad1e14e53feacdfb71d7f3999ab759c72" title="RTLSDRGui::on_lowSampleRate\l_toggled" alt="" coords="271,180,488,222"/>
+<area shape="rect" id="node11" href="$d5/d42/classRTLSDRGui.html#a20c18488c470ed626c61d384deb6cde1" title="RTLSDRGui::on_sampleRate\lMode_toggled" alt="" coords="282,246,477,287"/>
+<area shape="rect" id="node12" href="$d5/d42/classRTLSDRGui.html#a55a0cbd637424baa7ba3b931ed9f3956" title="RTLSDRGui::updateSampleRate\lAndFrequency" alt="" coords="540,260,755,302"/>
+<area shape="rect" id="node3" href="$d5/d42/classRTLSDRGui.html#a9597363c005b0bb0bc4446abb6a0da70" title="RTLSDRGui::RTLSDRGui" alt="" coords="1085,89,1264,116"/>
+<area shape="rect" id="node4" href="$d5/d42/classRTLSDRGui.html#a73412c6e829aa08977553b4e28e78741" title="RTLSDRGui::resetToDefaults" alt="" coords="549,38,746,65"/>
+<area shape="rect" id="node5" href="$d5/d42/classRTLSDRGui.html#adb3bf9070adbe8001529789adbe096ad" title="RTLSDRGui::deserialize" alt="" coords="839,64,1005,90"/>
+<area shape="rect" id="node6" href="$d5/d42/classRTLSDRGui.html#a7d199880da718915387264f0ed83af1c" title="RTLSDRGui::setCenterFrequency" alt="" coords="536,140,759,166"/>
+<area shape="rect" id="node7" href="$d5/d42/classRTLSDRGui.html#a76f0ae6403ce58f5c27ab1f6e8088b1e" title="RTLSDRGui::handleMessage" alt="" coords="550,190,745,217"/>
+<area shape="rect" id="node8" href="$d5/d42/classRTLSDRGui.html#a359248b1e7149d05da1c72cf963db631" title="RTLSDRGui::handleInputMessages" alt="" coords="807,190,1037,217"/>
+</map>

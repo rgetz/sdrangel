@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGChannelSettings::setRemoteSinkSettings" name="SWGSDRangel::SWGChannelSettings::setRemoteSinkSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a906e2386603e46ccbbd6be27d987789f" title="WebAPIRequestMapper\l::resetChannelSettings" alt="" coords="329,13,491,55"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="325,79,495,120"/>
+<area shape="rect" id="node7" href="$df/d8c/classRemoteSink.html#a65dd305f69ddcfcc6c58c7994ef0e386" title="RemoteSink::webapiReverse\lSendSettings" alt="" coords="314,144,506,185"/>
+<area shape="rect" id="node11" href="$df/d8c/classRemoteSink.html#a65c3a5a5e2c6a2b2d7f62e648d55c466" title="RemoteSink::webapiSettingsGet" alt="" coords="304,210,516,237"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="575,5,754,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="573,71,756,127"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="829,43,991,84"/>
+<area shape="rect" id="node8" href="$df/d8c/classRemoteSink.html#a53a43a221314777f2ef4300e9be4f1ba" title="RemoteSink::applySettings" alt="" coords="574,151,755,178"/>
+<area shape="rect" id="node9" href="$df/d8c/classRemoteSink.html#ac4969813754d792e53bf9b90f9689a91" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="813,151,1007,178"/>
+<area shape="rect" id="node10" href="$df/d8c/classRemoteSink.html#ad7201ac561a0c0cf4f229677a71c36ae" title="RemoteSink::destroy" alt="" coords="1055,151,1200,178"/>
+<area shape="rect" id="node12" href="$df/d8c/classRemoteSink.html#a5d2e3e558fcf14e8dd5b220726e0f37d" title="RemoteSink::getStreamCenter\lFrequency" alt="" coords="564,203,765,244"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AudioInput::removeFifo" name="AudioInput::removeFifo">
+<area shape="rect" id="node2" href="$d6/d0c/classFCDProPlusInput.html#a05163639d2b644699e7a0b2abcb7bff5" title="FCDProPlusInput::closeFCDAudio" alt="" coords="211,71,436,98"/>
+<area shape="rect" id="node6" href="$db/d44/classFCDProInput.html#ab626a17611a3f979e24824ad87f2a834" title="FCDProInput::closeFCDAudio" alt="" coords="224,122,423,149"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#ab7a49a0cb5ac4044218158abc2d3ceb1" title="FCDProPlusInput::closeDevice" alt="" coords="484,71,689,98"/>
+<area shape="rect" id="node4" href="$d6/d0c/classFCDProPlusInput.html#ab0a0c9c0b74863d55892c95ba8cb4f57" title="FCDProPlusInput::~FCDPro\lPlusInput" alt="" coords="744,5,933,47"/>
+<area shape="rect" id="node5" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="737,71,940,98"/>
+<area shape="rect" id="node7" href="$db/d44/classFCDProInput.html#ad3e75fda4dc128397a524f2f2db1fb27" title="FCDProInput::closeDevice" alt="" coords="497,122,676,149"/>
+<area shape="rect" id="node8" href="$db/d44/classFCDProInput.html#a2f482211e39c38ec027679d9c7e4f2ae" title="FCDProInput::~FCDProInput" alt="" coords="743,122,935,149"/>
+<area shape="rect" id="node9" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="751,173,927,199"/>
+</map>

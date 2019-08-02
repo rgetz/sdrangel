@@ -1,0 +1,22 @@
+<map id="UDPSourceUDPHandler::moveData" name="UDPSourceUDPHandler::moveData">
+<area shape="rect" id="node2" href="$d3/d40/classUDPSourceUDPHandler.html#ab3c061b80bb1c9b6839fbca7a41e9727" title="UDPSourceUDPHandler\l::dataReadyRead" alt="" coords="220,107,387,149"/>
+<area shape="rect" id="node13" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#af7eaac41d327dea871e2e425c466ce70" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::MsgUDPAddressAndPort" alt="" coords="1079,173,1257,229"/>
+<area shape="rect" id="node3" href="$d3/d40/classUDPSourceUDPHandler.html#a98f0ab347b43701289f55eff4c0b86eb" title="UDPSourceUDPHandler\l::start" alt="" coords="435,42,601,83"/>
+<area shape="rect" id="node20" href="$d3/d40/classUDPSourceUDPHandler.html#ab89d5b4a3873737405b1de8a10ebcf3a" title="UDPSourceUDPHandler\l::stop" alt="" coords="435,107,601,149"/>
+<area shape="rect" id="node4" href="$de/da4/classUDPSource.html#a541415b2c22299f433cccbdc15863afe" title="UDPSource::start" alt="" coords="884,5,1011,32"/>
+<area shape="rect" id="node10" href="$d3/d40/classUDPSourceUDPHandler.html#adb778a479e5ee8890c5f0c5be416c86d" title="UDPSourceUDPHandler\l::applyUDPLink" alt="" coords="649,107,816,149"/>
+<area shape="rect" id="node5" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="2237,56,2437,83"/>
+<area shape="rect" id="node6" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="2511,56,2729,83"/>
+<area shape="rect" id="node7" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="2777,56,2937,83"/>
+<area shape="rect" id="node8" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="2985,49,3172,90"/>
+<area shape="rect" id="node9" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="3220,56,3409,83"/>
+<area shape="rect" id="node11" href="$d3/d40/classUDPSourceUDPHandler.html#a9ea9fc8ea80aede2dea43736a1440787" title="UDPSourceUDPHandler\l::handleMessage" alt="" coords="864,107,1031,149"/>
+<area shape="rect" id="node12" href="$d3/d40/classUDPSourceUDPHandler.html#aa171abb918ebb9794c9efb4ca2697c82" title="UDPSourceUDPHandler\l::handleMessages" alt="" coords="1085,107,1251,149"/>
+<area shape="rect" id="node14" href="$d1/d0f/classUDPSourceUDPHandler_1_1MsgUDPAddressAndPort.html#a6aa92780b8a51bf6efcb593a1e8e806d" title="UDPSourceUDPHandler\l::MsgUDPAddressAndPort\l::create" alt="" coords="1305,171,1484,227"/>
+<area shape="rect" id="node15" href="$d3/d40/classUDPSourceUDPHandler.html#a28f1ab1466dbbcfd4aad1e5426a16ac3" title="UDPSourceUDPHandler\l::configureUDPLink" alt="" coords="1532,163,1699,205"/>
+<area shape="rect" id="node16" href="$de/da4/classUDPSource.html#a71aea5ea4104e814fc05efa55b05724e" title="UDPSource::applySettings" alt="" coords="1747,163,1925,189"/>
+<area shape="rect" id="node17" href="$de/da4/classUDPSource.html#a82bb428067797487c24e51149955b6af" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1973,108,2164,135"/>
+<area shape="rect" id="node18" href="$de/da4/classUDPSource.html#a9d42eb6165ff02cafc2035ca219366ca" title="UDPSource::UDPSource" alt="" coords="1983,163,2154,189"/>
+<area shape="rect" id="node19" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a307eb736cd6c12733d05076ce5841205" title="UDPSource::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="2212,155,2463,197"/>
+<area shape="rect" id="node21" href="$de/da4/classUDPSource.html#ab947025707c675671c52fde484c80fe2" title="UDPSource::stop" alt="" coords="1332,56,1457,83"/>
+</map>

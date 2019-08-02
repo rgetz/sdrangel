@@ -1,0 +1,11 @@
+<map id="WebAPIRequestMapper::validateAudioOutputDevice" name="WebAPIRequestMapper::validateAudioOutputDevice">
+<area shape="rect" id="node2" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ad12ee948bb65fba2bda2ab5b3d9e4c55" title="SWGSDRangel::SWGAudioOutput\lDevice::setCopyToUdp" alt="" coords="241,5,468,47"/>
+<area shape="rect" id="node3" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a00a5edca1b7fbe2c116843c421345ebd" title="SWGSDRangel::SWGAudioOutput\lDevice::setIndex" alt="" coords="241,71,468,112"/>
+<area shape="rect" id="node4" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aa0b09daa827a1ca7d8c2463afa334109" title="SWGSDRangel::SWGAudioOutput\lDevice::setSampleRate" alt="" coords="241,136,468,177"/>
+<area shape="rect" id="node5" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aabd7b6d90a6be6db7d3c1060c51a55df" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpAddress" alt="" coords="241,201,468,243"/>
+<area shape="rect" id="node6" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a721b7bca375a2458d23a910dca153090" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpChannelCodec" alt="" coords="241,267,468,308"/>
+<area shape="rect" id="node7" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#af68f7c52ba78b72d8cdbd2ee9e8873a5" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpChannelMode" alt="" coords="241,332,468,373"/>
+<area shape="rect" id="node8" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#abc4ee6e22b085511762336dc5a697fc5" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpDecimationFactor" alt="" coords="241,397,468,439"/>
+<area shape="rect" id="node9" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ac3892c91115e2c7b3291e86fef40977c" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpPort" alt="" coords="241,463,468,504"/>
+<area shape="rect" id="node10" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a315f81eec5f7b52e71762aad77a1fe01" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpUsesRtp" alt="" coords="241,528,468,569"/>
+</map>

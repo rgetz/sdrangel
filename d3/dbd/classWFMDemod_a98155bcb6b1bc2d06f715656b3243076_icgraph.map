@@ -1,0 +1,7 @@
+<map id="WFMDemod::webapiReverseSendSettings" name="WFMDemod::webapiReverseSendSettings">
+<area shape="rect" id="node2" href="$d3/dbd/classWFMDemod.html#a4cece179a3599879d1fa2c033b7594ce" title="WFMDemod::applySettings" alt="" coords="277,35,460,61"/>
+<area shape="rect" id="node3" href="$d3/dbd/classWFMDemod.html#a30f6c3ca378cefc32893420aeb055bfa" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="508,8,703,35"/>
+<area shape="rect" id="node5" href="$d3/dbd/classWFMDemod.html#ad1246235d96cc5ec95b1c9737a52432c" title="WFMDemod::WFMDemod" alt="" coords="516,60,695,87"/>
+<area shape="rect" id="node4" href="$d3/dbd/classWFMDemod.html#a9b33a25f6872c716e49e50b36db3d071" title="WFMDemod::destroy" alt="" coords="805,5,951,32"/>
+<area shape="rect" id="node6" href="$db/d08/classWFMDemod_1_1MsgConfigureChannelizer.html#a53a299a353bc18d4f8ad9377d83f5c46" title="WFMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="751,57,1005,98"/>
+</map>

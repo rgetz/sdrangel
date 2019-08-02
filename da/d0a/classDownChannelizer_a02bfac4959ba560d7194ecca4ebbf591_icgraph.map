@@ -1,0 +1,6 @@
+<map id="DownChannelizer::set" name="DownChannelizer::set">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#ab1f0a9122fd3a86d7f792b77e9e0fa55" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="211,5,390,32"/>
+<area shape="rect" id="node4" href="$df/d8c/classRemoteSink.html#ac4969813754d792e53bf9b90f9689a91" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="204,56,397,83"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#a4d62e619cbbd3616bfcb3d362f050565" title="LocalSink::destroy" alt="" coords="453,5,583,32"/>
+<area shape="rect" id="node5" href="$df/d8c/classRemoteSink.html#ad7201ac561a0c0cf4f229677a71c36ae" title="RemoteSink::destroy" alt="" coords="445,56,591,83"/>
+</map>

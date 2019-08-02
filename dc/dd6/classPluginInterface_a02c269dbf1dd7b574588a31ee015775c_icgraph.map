@@ -1,0 +1,11 @@
+<map id="PluginInterface::deleteSampleSourcePluginInstanceGUI" name="PluginInterface::deleteSampleSourcePluginInstanceGUI">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a81db62bb44853c8cbcb1c5cb457c95fc" title="MainWindow::sampleSinkChanged" alt="" coords="249,59,475,86"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a786daf72b8ebc17434ef6510d0d023d1" title="MainWindow::sampleSource\lChanged" alt="" coords="268,111,456,152"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="530,13,723,39"/>
+<area shape="rect" id="node4" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="779,93,975,119"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="789,5,964,47"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1023,93,1225,119"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1273,118,1453,145"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#adac6baaae818c8a27f1fe65a48322f04" title="MainWindow::addSourceDevice" alt="" coords="523,165,731,191"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#ab1ed28392dc263c837d85fe5d8e15b0a" title="MainWindow::on_action\l_addSourceDevice_triggered" alt="" coords="782,195,971,236"/>
+</map>

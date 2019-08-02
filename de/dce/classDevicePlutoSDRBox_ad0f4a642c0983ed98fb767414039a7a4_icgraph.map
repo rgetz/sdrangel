@@ -1,0 +1,4 @@
+<map id="DevicePlutoSDRBox::getTxLORange" name="DevicePlutoSDRBox::getTxLORange">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#a58de2b7129f200de7b499965d1277064" title="PlutoSDROutput::getLORange" alt="" coords="207,13,408,39"/>
+<area shape="rect" id="node3" href="$da/dff/classPlutoSDROutput.html#ac6f70233befaa4bed6e019c8110d270e" title="PlutoSDROutput::getFIRSampleRate" alt="" coords="456,13,696,39"/>
+</map>

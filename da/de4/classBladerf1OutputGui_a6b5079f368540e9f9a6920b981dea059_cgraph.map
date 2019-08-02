@@ -1,0 +1,5 @@
+<map id="Bladerf1OutputGui::on_startStop_toggled" name="Bladerf1OutputGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d0/ddc/classBladerf1Output_1_1MsgStartStop.html#a99b5e5ea31af3d4bc94bf44f5c4cdc16" title="Bladerf1Output::MsgStart\lStop::create" alt="" coords="207,5,378,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="199,71,387,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="218,137,367,163"/>
+</map>

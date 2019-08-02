@@ -1,0 +1,6 @@
+<map id="UDPSourceGUI::on_resetUDPReadIndex_clicked" name="UDPSourceGUI::on_resetUDPReadIndex_clicked">
+<area shape="rect" id="node2" href="$de/da4/classUDPSource.html#aaa54d6e419bf85c7ff2dc2c107846af7" title="UDPSource::resetReadIndex" alt="" coords="288,78,480,105"/>
+<area shape="rect" id="node3" href="$d5/def/classUDPSource_1_1MsgResetReadIndex.html#ae199d9c937974a6fb3c2fa98f02cf85a" title="UDPSource::MsgResetReadIndex\l::create" alt="" coords="528,5,751,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="555,71,723,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="565,137,714,163"/>
+</map>

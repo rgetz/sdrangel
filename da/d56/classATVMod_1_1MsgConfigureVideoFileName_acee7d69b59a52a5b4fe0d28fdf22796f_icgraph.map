@@ -1,0 +1,10 @@
+<map id="ATVMod::MsgConfigureVideoFileName::getFileName" name="ATVMod::MsgConfigureVideoFileName::getFileName">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#a41090d7ca4c0286b5e09c829bd23d51d" title="ATVModGUI::handleMessage" alt="" coords="248,5,444,32"/>
+<area shape="rect" id="node8" href="$d2/d69/classATVMod.html#a252e7a58cb70ea3edc1165f7c266fa99" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="260,56,432,83"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#ad73566723d42328d8153ac598ea6cff5" title="ATVModGUI::handleSourceMessages" alt="" coords="492,5,736,32"/>
+<area shape="rect" id="node4" href="$da/d7c/classATVModGUI.html#aa80ea452eceea2be8fbf7c053bc379d2" title="ATVModGUI::ATVModGUI" alt="" coords="784,5,964,32"/>
+<area shape="rect" id="node5" href="$da/d7c/classATVModGUI.html#acc137c14b5c145becb2951788aa55fdb" title="ATVModGUI::create" alt="" coords="1012,5,1153,32"/>
+<area shape="rect" id="node6" href="$d8/d6e/classATVModPlugin.html#a7357a4f5cfb9fd5dea8ee9cd8119ec1d" title="ATVModPlugin::createTxChannelGUI" alt="" coords="1201,5,1441,32"/>
+<area shape="rect" id="node7" href="$d8/d6e/classATVModPlugin.html#af24b49c750459e0b504133cea6910b93" title="ATVModPlugin::initPlugin" alt="" coords="1489,5,1660,32"/>
+<area shape="rect" id="node9" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="552,56,676,83"/>
+</map>

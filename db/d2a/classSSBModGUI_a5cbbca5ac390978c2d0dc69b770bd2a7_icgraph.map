@@ -1,0 +1,7 @@
+<map id="SSBModGUI::audioSelect" name="SSBModGUI::audioSelect">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a568abd0add18094ea116f2b9e109d9de" title="SSBModGUI::audioFeedback\lSelect" alt="" coords="228,5,423,47"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="471,42,653,69"/>
+<area shape="rect" id="node4" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="701,42,844,69"/>
+<area shape="rect" id="node5" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="892,42,1133,69"/>
+<area shape="rect" id="node6" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1181,42,1352,69"/>
+</map>

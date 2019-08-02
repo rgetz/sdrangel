@@ -1,0 +1,5 @@
+<map id="DeviceSet::saveRxChannelSettings" name="DeviceSet::saveRxChannelSettings">
+<area shape="rect" id="node2" href="$d1/dc7/classPreset.html#a6594c9556a0451bf463a77ce89efe0cf" title="Preset::addChannel" alt="" coords="247,5,385,32"/>
+<area shape="rect" id="node3" href="$d1/dc7/classPreset.html#a88910909fcfa388dd4b814e5218e6b49" title="Preset::isSourcePreset" alt="" coords="237,56,395,83"/>
+<area shape="rect" id="node4" href="$d7/d02/classChannelAPI.html#af2291513aa3fb63754e70624fb09ca6e" title="ChannelAPI::serialize" alt="" coords="242,107,390,133"/>
+</map>

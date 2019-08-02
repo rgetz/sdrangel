@@ -1,0 +1,10 @@
+<map id="qrtplib::RTCPScheduler::Reset" name="qrtplib::RTCPScheduler::Reset">
+<area shape="rect" id="node2" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="224,5,363,47"/>
+<area shape="rect" id="node4" href="$db/d64/classqrtplib_1_1RTPSession.html#a81b83c2968b56e3acc870095c984c026" title="qrtplib::RTPSession\l::Destroy" alt="" coords="224,71,363,112"/>
+<area shape="rect" id="node6" href="$db/d64/classqrtplib_1_1RTPSession.html#a1a500524e11972feb88b4a3aa528f43d" title="qrtplib::RTPSession\l::InternalCreate" alt="" coords="224,136,363,177"/>
+<area shape="rect" id="node9" href="$d7/d7c/classqrtplib_1_1RTCPScheduler.html#a7069abf6aa4a872cfc6fbf329b8883fa" title="qrtplib::RTCPScheduler\l::RTCPScheduler" alt="" coords="213,201,373,243"/>
+<area shape="rect" id="node3" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="421,13,565,39"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#ad97dd717619337b52963e6698b77739d" title="qrtplib::RTPSession\l::~RTPSession" alt="" coords="424,71,563,112"/>
+<area shape="rect" id="node7" href="$db/d64/classqrtplib_1_1RTPSession.html#af395df007a4f3422d56bc8e4fc0af973" title="qrtplib::RTPSession\l::Create" alt="" coords="424,136,563,177"/>
+<area shape="rect" id="node8" href="$de/df9/classRTPSink.html#a0f8293af155857b9347f5fb15095f23b" title="RTPSink::RTPSink" alt="" coords="613,143,749,170"/>
+</map>

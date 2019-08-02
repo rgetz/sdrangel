@@ -1,0 +1,9 @@
+<map id="SoapySDROutputGui::displayIndividualGainsControlSettings" name="SoapySDROutputGui::displayIndividualGainsControlSettings">
+<area shape="rect" id="node2" href="$d6/de2/classSoapySDROutputGui.html#a8769c4379dcc883454dd05c17ff21729" title="SoapySDROutputGui::\ldisplaySettings" alt="" coords="248,96,403,137"/>
+<area shape="rect" id="node3" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="856,71,1011,112"/>
+<area shape="rect" id="node4" href="$d6/de2/classSoapySDROutputGui.html#a1610262fe586b79b1e677d5b845fa760" title="SoapySDROutputGui::\lresetToDefaults" alt="" coords="451,37,605,79"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#aadd380be5a63bd40f793f67d0c2b63a9" title="SoapySDROutputGui::\ldeserialize" alt="" coords="653,67,808,108"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#aa202b82e4c2ba9eecb245ee17066c9b6" title="SoapySDROutputGui::\lsetCenterFrequency" alt="" coords="451,155,605,196"/>
+<area shape="rect" id="node7" href="$d6/de2/classSoapySDROutputGui.html#acad814f77379200a4a5e8ab2b5f74124" title="SoapySDROutputGui::\lhandleMessage" alt="" coords="451,220,605,261"/>
+<area shape="rect" id="node8" href="$d6/de2/classSoapySDROutputGui.html#aa4fca618c56951f57c757e4021cfc17b" title="SoapySDROutputGui::\lhandleInputMessages" alt="" coords="653,161,808,203"/>
+</map>

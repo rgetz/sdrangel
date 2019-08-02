@@ -1,0 +1,12 @@
+<map id="PluginManager::getFileInputDeviceId" name="PluginManager::getFileInputDeviceId">
+<area shape="rect" id="node2" href="$d1/d17/classDeviceEnumerator.html#a5d807440af53a38af8f748bd98094964" title="Get Rx default device. " alt="" coords="237,49,415,90"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#ac2ac4a990eb820b6f0a0016b00a29cdf" title="MainCore::addSourceDevice" alt="" coords="472,19,661,45"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#adac6baaae818c8a27f1fe65a48322f04" title="MainWindow::addSourceDevice" alt="" coords="463,81,671,108"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#acd123520cdd12e04fbf0a0529983bd00" title="MainCore::handleMessage" alt="" coords="728,5,905,32"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#ad2633e28c7ca357e245914f63c140900" title="MainCore::handleMessages" alt="" coords="972,5,1156,32"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1232,5,1375,32"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="719,56,915,83"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1213,81,1393,108"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#ab1ed28392dc263c837d85fe5d8e15b0a" title="MainWindow::on_action\l_addSourceDevice_triggered" alt="" coords="722,158,911,199"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="963,56,1165,83"/>
+</map>

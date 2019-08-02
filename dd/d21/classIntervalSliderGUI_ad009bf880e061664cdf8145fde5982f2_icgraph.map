@@ -1,0 +1,8 @@
+<map id="IntervalSliderGUI::setInterval" name="IntervalSliderGUI::setInterval">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#a2fccb3784041f80468da9be403c8e96d" title="SoapySDRInputGui::create\lGlobalGainControl" alt="" coords="188,5,369,47"/>
+<area shape="rect" id="node4" href="$d6/de2/classSoapySDROutputGui.html#ac16d1cc67bc7d8bb8b06ddd23ddc8e9e" title="SoapySDROutputGui::\lcreateGlobalGainControl" alt="" coords="197,136,361,177"/>
+<area shape="rect" id="node6" href="$d8/d96/classSoapySDRInputGui.html#a192c6d509f82f229621f5eff6d3e79db" title="SoapySDRInputGui::create\lIndividualGainsControl" alt="" coords="188,71,369,112"/>
+<area shape="rect" id="node7" href="$d6/de2/classSoapySDROutputGui.html#a3d72644bf7e22a7c305aa08e75dc18ed" title="SoapySDROutputGui::\lcreateIndividualGainsControl" alt="" coords="184,201,373,243"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="421,46,681,73"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="474,168,629,209"/>
+</map>

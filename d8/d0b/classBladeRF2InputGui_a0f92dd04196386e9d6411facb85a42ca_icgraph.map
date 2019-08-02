@@ -1,0 +1,9 @@
+<map id="BladeRF2InputGui::blockApplySettings" name="BladeRF2InputGui::blockApplySettings">
+<area shape="rect" id="node2" href="$d8/d0b/classBladeRF2InputGui.html#aa6cc872d93f868f7031ef7be020a5bdb" title="BladeRF2InputGui::display\lSettings" alt="" coords="255,136,433,177"/>
+<area shape="rect" id="node7" href="$d8/d0b/classBladeRF2InputGui.html#a68143d0f2c26c5b993f2243ec0696dab" title="BladeRF2InputGui::handle\lMessage" alt="" coords="491,230,666,272"/>
+<area shape="rect" id="node3" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="971,80,1165,121"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#a15fe9b38fc89e2ae80fc5df21914afed" title="BladeRF2InputGui::resetTo\lDefaults" alt="" coords="488,48,669,89"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#a4be74208f2c685776fa42aa4e27a8252" title="BladeRF2InputGui::deserialize" alt="" coords="724,84,923,111"/>
+<area shape="rect" id="node6" href="$d8/d0b/classBladeRF2InputGui.html#af772ef58d2f84c609dec7e28482d5790" title="BladeRF2InputGui::setCenter\lFrequency" alt="" coords="481,165,676,206"/>
+<area shape="rect" id="node8" href="$d8/d0b/classBladeRF2InputGui.html#aace8bf212761eb1c3e8dbe3a78194de6" title="BladeRF2InputGui::handle\lInputMessages" alt="" coords="736,168,911,209"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="MainWindow::getMainSettings" name="MainWindow::getMainSettings">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ae991ce332c112a7394c4ca3c6151765a" title="WebAPIAdapterGUI::instance\lConfigGet" alt="" coords="268,5,465,47"/>
+<area shape="rect" id="node3" href="$d8/d46/classDSDDemodGUI.html#a29febb70352053d3758b4f6d15342283" title="DSDDemodGUI::updateMyPosition" alt="" coords="252,71,481,98"/>
+<area shape="rect" id="node4" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="529,71,749,98"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="797,71,959,98"/>
+<area shape="rect" id="node6" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1007,64,1197,105"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1245,71,1436,98"/>
+</map>

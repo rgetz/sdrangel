@@ -1,0 +1,40 @@
+<map id="NFMMod::MsgConfigureChannelizer::create" name="NFMMod::MsgConfigureChannelizer::create">
+<area shape="rect" id="node2" href="$de/df8/classNFMMod.html#a15aeec0a9dcf473026683d4848b86a06" title="NFMMod::applyAudioSampleRate" alt="" coords="288,60,508,87"/>
+<area shape="rect" id="node8" href="$df/d1f/classNFMModGUI.html#a6bfc3413631db7ba5b07e02185a31d42" title="NFMModGUI::applySettings" alt="" coords="305,829,491,856"/>
+<area shape="rect" id="node36" href="$de/df8/classNFMMod.html#ad65ec666f462869c6ee1a80b39f118d6" title="NFMMod::deserialize" alt="" coords="325,1045,471,1072"/>
+<area shape="rect" id="node38" href="$de/df8/classNFMMod.html#a03bb86d163c92ce35eff191ab7c958a3" title="NFMMod::webapiSettingsPut\lPatch" alt="" coords="301,1427,495,1469"/>
+<area shape="rect" id="node3" href="$de/df8/classNFMMod.html#a5df57ef110295347dabb14a81e2df9d6" title="NFMMod::applySettings" alt="" coords="597,60,759,87"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="875,9,1049,36"/>
+<area shape="rect" id="node6" href="$de/df8/classNFMMod.html#a6a5f4ec527cfb7e59b5e6abbb13942b2" title="NFMMod::NFMMod" alt="" coords="893,67,1031,93"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="1174,5,1301,32"/>
+<area shape="rect" id="node7" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1124,56,1351,112"/>
+<area shape="rect" id="node9" href="$df/d1f/classNFMModGUI.html#afbbe49f57e7f4658bb3eb24efa2a3e9b" title="NFMModGUI::setCenterFrequency" alt="" coords="565,111,791,137"/>
+<area shape="rect" id="node10" href="$df/d1f/classNFMModGUI.html#a7e81979f3ab4d7c8cd07c3cde1978619" title="NFMModGUI::resetToDefaults" alt="" coords="577,161,779,188"/>
+<area shape="rect" id="node11" href="$df/d1f/classNFMModGUI.html#a1847e10d18704800d6d798ddb0f6e370" title="NFMModGUI::deserialize" alt="" coords="877,179,1047,205"/>
+<area shape="rect" id="node12" href="$df/d1f/classNFMModGUI.html#a98959d3d13465bb20c00ce9310c5c37f" title="NFMModGUI::channelMarker\lChangedByCursor" alt="" coords="865,247,1059,289"/>
+<area shape="rect" id="node13" href="$df/d1f/classNFMModGUI.html#a88426e2676a1a275d339670153315458" title="NFMModGUI::NFMModGUI" alt="" coords="1144,1364,1331,1391"/>
+<area shape="rect" id="node17" href="$df/d1f/classNFMModGUI.html#ad93660b5e38109c84ea9359c8cbb3d33" title="NFMModGUI::on_deltaFrequency\l_changed" alt="" coords="569,365,787,406"/>
+<area shape="rect" id="node18" href="$df/d1f/classNFMModGUI.html#a0d29f1bb48f08a8b19f7561a1139b2a3" title="NFMModGUI::on_rfBW\l_currentIndexChanged" alt="" coords="599,430,757,471"/>
+<area shape="rect" id="node19" href="$df/d1f/classNFMModGUI.html#a2e42f7c2ad072d57a16b0a342fcce887" title="NFMModGUI::on_afBW\l_valueChanged" alt="" coords="597,495,759,537"/>
+<area shape="rect" id="node20" href="$df/d1f/classNFMModGUI.html#a7176cced6dca555eb00b2b2fd9555b84" title="NFMModGUI::on_fmDev\l_valueChanged" alt="" coords="594,561,762,602"/>
+<area shape="rect" id="node21" href="$df/d1f/classNFMModGUI.html#a7f148e2affc9b01312900e447c52542e" title="NFMModGUI::on_volume\l_valueChanged" alt="" coords="593,626,763,667"/>
+<area shape="rect" id="node22" href="$df/d1f/classNFMModGUI.html#a3608d3e95ec50ea6f2cfc4fcbf8da009" title="NFMModGUI::on_toneFrequency\l_valueChanged" alt="" coords="571,691,785,733"/>
+<area shape="rect" id="node23" href="$df/d1f/classNFMModGUI.html#aa34e2aa4b32c860f2c53090bf5b1d9d2" title="NFMModGUI::on_channelMute\l_toggled" alt="" coords="577,757,779,798"/>
+<area shape="rect" id="node24" href="$df/d1f/classNFMModGUI.html#a68e658f58a807e606cca0ee284dfcb58" title="NFMModGUI::on_playLoop\l_toggled" alt="" coords="587,822,769,863"/>
+<area shape="rect" id="node25" href="$df/d1f/classNFMModGUI.html#aa33b0cf1a3f93586452d0cf207f334e6" title="NFMModGUI::on_play\l_toggled" alt="" coords="601,887,755,929"/>
+<area shape="rect" id="node26" href="$df/d1f/classNFMModGUI.html#ad37f92d30d1094c2b1fe883d378253e3" title="NFMModGUI::on_tone\l_toggled" alt="" coords="601,953,755,994"/>
+<area shape="rect" id="node27" href="$df/d1f/classNFMModGUI.html#ac6b27198fa4758ea3d0da96221a9b0ea" title="NFMModGUI::on_morseKeyer\l_toggled" alt="" coords="579,1018,777,1059"/>
+<area shape="rect" id="node28" href="$df/d1f/classNFMModGUI.html#a580247933f22b59b971a13b4fb6318d5" title="NFMModGUI::on_mic_toggled" alt="" coords="579,1084,777,1111"/>
+<area shape="rect" id="node29" href="$df/d1f/classNFMModGUI.html#a92a49d3bf9e0f154c445e896bd88d720" title="NFMModGUI::on_feedbackEnable\l_toggled" alt="" coords="567,1135,789,1177"/>
+<area shape="rect" id="node30" href="$df/d1f/classNFMModGUI.html#adc62958750ae6815995cc249b3d991f9" title="NFMModGUI::on_feedbackVolume\l_valueChanged" alt="" coords="565,1201,791,1242"/>
+<area shape="rect" id="node31" href="$df/d1f/classNFMModGUI.html#a9c95e6909bd4c2a35986f1f776aa0991" title="NFMModGUI::on_ctcss\l_currentIndexChanged" alt="" coords="597,1266,759,1307"/>
+<area shape="rect" id="node32" href="$df/d1f/classNFMModGUI.html#aeecc4e8e297a2d940ec0a922b208aa4e" title="NFMModGUI::on_ctcssOn\l_toggled" alt="" coords="589,1331,767,1373"/>
+<area shape="rect" id="node33" href="$df/d1f/classNFMModGUI.html#aa19659e5e5b3f44d37593799642f3381" title="NFMModGUI::onMenuDialogCalled" alt="" coords="848,1364,1076,1391"/>
+<area shape="rect" id="node34" href="$df/d1f/classNFMModGUI.html#a40780db2306c2e8c6ab454aa495fc443" title="NFMModGUI::audioSelect" alt="" coords="590,1448,766,1475"/>
+<area shape="rect" id="node35" href="$df/d1f/classNFMModGUI.html#ac5f4853064fdaee0eaa0fad6ff995b58" title="NFMModGUI::audioFeedback\lSelect" alt="" coords="864,1466,1060,1507"/>
+<area shape="rect" id="node14" href="$df/d1f/classNFMModGUI.html#a510d4917974501cd204734a90916bfb9" title="NFMModGUI::create" alt="" coords="1399,1364,1543,1391"/>
+<area shape="rect" id="node15" href="$d6/dad/classNFMModPlugin.html#a13e8a6c14ba9ae0748df007f06ca720f" title="NFMModPlugin::createTxChannelGUI" alt="" coords="1591,1364,1833,1391"/>
+<area shape="rect" id="node16" href="$d6/dad/classNFMModPlugin.html#a0891de0eda2fcde2fa24e2f3b99c47a4" title="NFMModPlugin::initPlugin" alt="" coords="1881,1364,2055,1391"/>
+<area shape="rect" id="node37" href="$de/df8/classNFMMod.html#a22e9b7134f03368fa407b022b6c3845c" title="Applies to a default stream. " alt="" coords="577,1549,779,1576"/>
+<area shape="rect" id="node39" href="$de/df8/classNFMMod.html#ae32768518d5b2dc6f2bb314dd8fb8853" title="NFMMod::getStreamCenterFrequency" alt="" coords="556,1600,800,1627"/>
+</map>

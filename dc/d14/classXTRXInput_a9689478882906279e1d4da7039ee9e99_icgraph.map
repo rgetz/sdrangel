@@ -1,0 +1,10 @@
+<map id="XTRXInput::applySettings" name="XTRXInput::applySettings">
+<area shape="rect" id="node2" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="228,5,415,32"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a48e88dd0f71731de9460dfe3ba0952c2" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="724,56,836,83"/>
+<area shape="rect" id="node6" href="$dc/d14/classXTRXInput.html#ac5d109f6b6f25ff065a8f0063f2154ab" title="XTRXInput::start" alt="" coords="495,107,616,133"/>
+<area shape="rect" id="node7" href="$dc/d14/classXTRXInput.html#a5dd45130f13693615df8dd02147ad8c3" title="XTRXInput::stop" alt="" coords="261,183,381,209"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="463,5,648,32"/>
+<area shape="rect" id="node5" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="912,125,1095,166"/>
+<area shape="rect" id="node8" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="696,208,864,235"/>
+<area shape="rect" id="node9" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="472,259,639,285"/>
+</map>

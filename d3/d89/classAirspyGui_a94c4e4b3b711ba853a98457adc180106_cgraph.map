@@ -1,0 +1,5 @@
+<map id="AirspyGui::on_record_toggled" name="AirspyGui::on_record_toggled">
+<area shape="rect" id="node2" href="$d1/d96/classAirspyInput_1_1MsgFileRecord.html#a96d80892c5ef17f43c34d02c18448e7f" title="AirspyInput::MsgFileRecord\l::create" alt="" coords="197,5,381,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="205,71,373,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="215,137,364,163"/>
+</map>

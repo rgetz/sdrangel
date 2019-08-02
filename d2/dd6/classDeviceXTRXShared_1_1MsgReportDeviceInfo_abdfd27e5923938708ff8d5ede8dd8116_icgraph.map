@@ -1,0 +1,6 @@
+<map id="DeviceXTRXShared::MsgReportDeviceInfo::create" name="DeviceXTRXShared::MsgReportDeviceInfo::create">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="265,5,461,32"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a927be5ffd669ae9df2af827abc5fc89d" title="XTRXInput::handleMessage" alt="" coords="270,56,457,83"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="509,5,704,32"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="514,56,699,83"/>
+</map>

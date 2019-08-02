@@ -1,0 +1,10 @@
+<map id="AMModGUI::displaySettings" name="AMModGUI::displaySettings">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="768,58,936,85"/>
+<area shape="rect" id="node6" href="$d8/d1b/classAMModGUI.html#a6041467f761ee4df05669fbe4c08f8fb" title="AMModGUI::deserialize" alt="" coords="520,33,681,60"/>
+<area shape="rect" id="node7" href="$d8/d1b/classAMModGUI.html#a9e43f589732cab771f389ca671c8f3cb" title="AMModGUI::handleMessage" alt="" coords="242,122,433,149"/>
+<area shape="rect" id="node9" href="$d8/d1b/classAMModGUI.html#a9a1d1c0e185d2f3eba334267fc11e448" title="AMModGUI::resetToDefaults" alt="" coords="241,72,433,98"/>
+<area shape="rect" id="node3" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="984,58,1119,85"/>
+<area shape="rect" id="node4" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="1167,58,1401,85"/>
+<area shape="rect" id="node5" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1449,58,1613,85"/>
+<area shape="rect" id="node8" href="$d8/d1b/classAMModGUI.html#a3bcbdbc4ab8a47abbff37ad1d72266e1" title="AMModGUI::handleSourceMessages" alt="" coords="481,109,720,136"/>
+</map>

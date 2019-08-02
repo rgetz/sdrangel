@@ -1,0 +1,10 @@
+<map id="sdrbase/dsp/upchannelizer.h" name="sdrbase/dsp/upchannelizer.h">
+<area shape="rect" id="node2" href="$d8/dfa/basebandsamplesource_8h.html" title="dsp/basebandsamplesource.h" alt="" coords="294,80,489,107"/>
+<area shape="rect" id="node12" href="$db/db5/export_8h.html" title="export.h" alt="" coords="553,229,622,256"/>
+<area shape="rect" id="node15" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="534,80,641,107"/>
+<area shape="rect" id="node17" href="$d3/dd9/inthalfbandfilterdb_8h.html" title="dsp/inthalfbandfilterdb.h" alt="" coords="814,80,974,107"/>
+<area shape="rect" id="node4" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="418,229,528,256"/>
+<area shape="rect" id="node8" href="$df/d84/samplesourcefifo_8h.html" title="dsp/samplesourcefifo.h" alt="" coords="292,155,449,181"/>
+<area shape="rect" id="node13" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="74,155,216,181"/>
+<area shape="rect" id="node18" href="$d3/dfa/hbfiltertraits_8h.html" title="dsp/hbfiltertraits.h" alt="" coords="815,155,942,181"/>
+</map>

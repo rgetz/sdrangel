@@ -1,0 +1,18 @@
+<map id="SWGSDRangel::SWGPresetIdentifier::getName" name="SWGSDRangel::SWGPresetIdentifier::getName">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ac089ae60bf124eda1ea9c2cfd91d8260" title="WebAPIAdapterGUI::instance\lPresetDelete" alt="" coords="296,5,493,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#a859ec24ff34babb4def5c6fcb9c90cd0" title="WebAPIAdapterSrv::instance\lPresetDelete" alt="" coords="298,71,491,112"/>
+<area shape="rect" id="node4" href="$dc/dd8/classWebAPIAdapterSrv.html#a027a3ecc1995fe6b4704ef59b567ca31" title="WebAPIAdapterSrv::instance\lPresetFilePost" alt="" coords="298,136,491,177"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#aec7753004075357373512f4d077f8fb2" title="WebAPIAdapterSrv::instance\lPresetFilePut" alt="" coords="298,201,491,243"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#af87ab32e0f66cc31cbb573c3b04e2994" title="WebAPIAdapterGUI::instance\lPresetPatch" alt="" coords="296,267,493,308"/>
+<area shape="rect" id="node7" href="$dc/dd8/classWebAPIAdapterSrv.html#ad99f1878d0f5db15b3f3ba1e4bba6a7f" title="WebAPIAdapterSrv::instance\lPresetPatch" alt="" coords="298,332,491,373"/>
+<area shape="rect" id="node8" href="$d7/de5/classWebAPIAdapterGUI.html#a9f8854be57d97474e4edc17ac4166455" title="WebAPIAdapterGUI::instance\lPresetPost" alt="" coords="296,397,493,439"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#a357870b6c38d50f7d3287678f764f1a0" title="WebAPIAdapterSrv::instance\lPresetPost" alt="" coords="298,463,491,504"/>
+<area shape="rect" id="node10" href="$d7/de5/classWebAPIAdapterGUI.html#a337947339febd24bf0f86b7d8dc16542" title="WebAPIAdapterGUI::instance\lPresetPut" alt="" coords="296,528,493,569"/>
+<area shape="rect" id="node11" href="$dc/dd8/classWebAPIAdapterSrv.html#adc5f145eccc9297926ca74ac0f9c618f" title="WebAPIAdapterSrv::instance\lPresetPut" alt="" coords="298,593,491,635"/>
+<area shape="rect" id="node12" href="$dd/da7/classWebAPIRequestMapper.html#a16683a0cb75a9a81cd64cb4c8fe57b6d" title="WebAPIRequestMapper\l::validatePresetIdentifer" alt="" coords="313,659,476,700"/>
+<area shape="rect" id="node13" href="$dd/da7/classWebAPIRequestMapper.html#a079db7301cd9e57bd26d5fa563007fec" title="WebAPIRequestMapper\l::instancePresetService" alt="" coords="762,659,925,700"/>
+<area shape="rect" id="node15" href="$dd/da7/classWebAPIRequestMapper.html#a1b965978b0c70942bbdfe0741304b8c0" title="WebAPIRequestMapper\l::validatePresetExport" alt="" coords="541,724,704,765"/>
+<area shape="rect" id="node17" href="$dd/da7/classWebAPIRequestMapper.html#ad93e000ba67ba7fd17eb881c09b0a34f" title="WebAPIRequestMapper\l::validatePresetTransfer" alt="" coords="541,659,704,700"/>
+<area shape="rect" id="node14" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="983,692,1145,733"/>
+<area shape="rect" id="node16" href="$dd/da7/classWebAPIRequestMapper.html#a40eee286a8bfccaeab2bf6fab0011e7e" title="WebAPIRequestMapper\l::instancePresetFileService" alt="" coords="752,724,935,765"/>
+</map>

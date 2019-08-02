@@ -1,0 +1,19 @@
+<map id="SSBDemodGUI::displaySettings" name="SSBDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="385,35,425,61"/>
+<area shape="rect" id="node7" href="$d4/d5b/classSSBDemodGUI.html#a95bfcbb7a654bf3d5a368845bd29920d" title="SSBDemodGUI::blockApplySettings" alt="" coords="287,85,522,112"/>
+<area shape="rect" id="node8" href="$d4/d5b/classSSBDemodGUI.html#a74b606bba6e11aa56ff98aee47a6f8ae" title="SSBDemodGUI::displayAGCPower\lThreshold" alt="" coords="289,137,520,178"/>
+<area shape="rect" id="node9" href="$d4/d5b/classSSBDemodGUI.html#aec9941192e6c362995fde80c9a5818d8" title="SSBDemodGUI::displayAGCThresholdGate" alt="" coords="265,203,544,229"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="317,254,492,295"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="324,320,485,347"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="306,371,503,397"/>
+<area shape="rect" id="node13" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="317,422,492,463"/>
+<area shape="rect" id="node14" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="321,488,488,515"/>
+<area shape="rect" id="node15" href="$de/d03/classChannelMarker.html#a21a6a6cf3155c2e5bc1d181bb553225b" title="ChannelMarker::setLowCutoff" alt="" coords="307,539,503,565"/>
+<area shape="rect" id="node16" href="$de/d03/classChannelMarker.html#a07ca4f100dd0da5f1ef8ad40f66dbca6" title="ChannelMarker::setSidebands" alt="" coords="306,589,503,616"/>
+<area shape="rect" id="node17" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="324,640,485,667"/>
+<area shape="rect" id="node18" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="313,691,496,717"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="592,35,700,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="748,57,896,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="952,5,1071,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="944,57,1079,98"/>
+</map>

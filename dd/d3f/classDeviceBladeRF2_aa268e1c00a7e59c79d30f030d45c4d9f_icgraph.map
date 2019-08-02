@@ -1,0 +1,5 @@
+<map id="DeviceBladeRF2::open_bladerf_from_serial" name="DeviceBladeRF2::open_bladerf_from_serial">
+<area shape="rect" id="node2" href="$dd/d3f/classDeviceBladeRF2.html#a4b67c22ed6ec31c9e9070fa5a9782ac1" title="DeviceBladeRF2::open" alt="" coords="211,31,368,57"/>
+<area shape="rect" id="node3" href="$d7/d79/classBladeRF2Output.html#a8926cc034e95fc21e540fe034b8a59c7" title="BladeRF2Output::openDevice" alt="" coords="416,5,612,32"/>
+<area shape="rect" id="node4" href="$d6/d2d/classBladeRF2Input.html#a47e7e735497780c32c438797b2f55d1f" title="BladeRF2Input::openDevice" alt="" coords="421,56,607,83"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="LimeSDROutputGUI::updateStatus" name="LimeSDROutputGUI::updateStatus">
+<area shape="rect" id="node2" href="$d8/d83/classLimeSDROutput_1_1MsgGetStreamInfo.html#a90ff291d16225820d7615cc63d195feb" title="LimeSDROutput::MsgGetStream\lInfo::create" alt="" coords="243,5,457,47"/>
+<area shape="rect" id="node3" href="$dd/d35/classLimeSDROutput_1_1MsgGetDeviceInfo.html#a16f9048a2575c9e56a11c1fc87046c3a" title="LimeSDROutput::MsgGetDevice\lInfo::create" alt="" coords="243,71,457,112"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="264,137,436,163"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="256,188,444,229"/>
+<area shape="rect" id="node12" href="$dd/db6/classDeviceAPI.html#a4fecbce8675ad605005bf95e1392572e" title="DeviceAPI::isBuddyLeader" alt="" coords="261,254,439,281"/>
+<area shape="rect" id="node13" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="275,305,425,331"/>
+<area shape="rect" id="node14" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="289,355,411,382"/>
+<area shape="rect" id="node5" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="505,64,677,105"/>
+<area shape="rect" id="node8" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="513,129,670,171"/>
+<area shape="rect" id="node9" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="508,195,675,236"/>
+<area shape="rect" id="node6" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="743,68,895,109"/>
+<area shape="rect" id="node7" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="729,137,908,163"/>
+<area shape="rect" id="node10" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="725,187,912,243"/>
+<area shape="rect" id="node15" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="505,283,677,324"/>
+<area shape="rect" id="node16" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="513,348,670,389"/>
+<area shape="rect" id="node17" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="508,413,675,455"/>
+</map>

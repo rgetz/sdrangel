@@ -1,0 +1,6 @@
+<map id="TVScreen::resetImage" name="TVScreen::resetImage">
+<area shape="rect" id="node2" href="$dd/d4a/classScopeVisXY.html#a2de94f1c4c19dd35e74d5633d8ee8813" title="ScopeVisXY::feed" alt="" coords="250,5,379,32"/>
+<area shape="rect" id="node3" href="$d3/d2d/classDATVideoRender.html#a0c41a52d381c99530c6ed0644bdef811" title="DATVideoRender::RenderStream" alt="" coords="207,56,423,83"/>
+<area shape="rect" id="node4" href="$d6/df6/structleansdr_1_1datvconstellation.html#a8cd3b004b44b27df19867d7e7c2dab4f" title="leansdr::datvconstellation\l\&lt; leansdr::f32 \&gt;::run" alt="" coords="229,107,400,149"/>
+<area shape="rect" id="node5" href="$d2/d24/structleansdr_1_1datvdvbs2constellation.html#aac93b7740d07cce48f4ce24e0ab2de98" title="leansdr::datvdvbs2constellation\l\&lt; leansdr::f32 \&gt;::run" alt="" coords="212,173,417,214"/>
+</map>

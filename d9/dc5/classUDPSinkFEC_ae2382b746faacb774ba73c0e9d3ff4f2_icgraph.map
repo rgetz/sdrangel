@@ -1,0 +1,10 @@
+<map id="UDPSinkFEC::setRemoteAddress" name="UDPSinkFEC::setRemoteAddress">
+<area shape="rect" id="node2" href="$d9/dc5/classUDPSinkFEC.html#ac4494b03166361229ce76cedf81c0dda" title="UDPSinkFEC::error" alt="" coords="281,23,420,49"/>
+<area shape="rect" id="node3" href="$dc/db6/classRemoteOutputThread.html#a6ac78d8872738bd58aa3eda6638cf990" title="RemoteOutputThread\l::setDataAddress" alt="" coords="277,74,424,115"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#a80d6409d58d06eb64b754f15c1c89467" title="RemoteOutput::applySettings" alt="" coords="472,56,667,83"/>
+<area shape="rect" id="node9" href="$d8/daf/classRemoteOutput.html#a2304a8ff828317365cb1c0e461a5606f" title="RemoteOutput::start" alt="" coords="499,107,640,133"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#aaeebf504cf095eb1456c63f58bee06e3" title="RemoteOutput::handleMessage" alt="" coords="715,5,921,32"/>
+<area shape="rect" id="node7" href="$d8/daf/classRemoteOutput.html#aae7a474b9f713d55e9185b43be00b8b7" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="752,56,884,83"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="1000,5,1233,32"/>
+<area shape="rect" id="node8" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="969,73,1264,129"/>
+</map>

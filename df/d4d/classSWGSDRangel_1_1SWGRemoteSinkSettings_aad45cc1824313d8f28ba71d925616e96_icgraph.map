@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGRemoteSinkSettings::setRgbColor" name="SWGSDRangel::SWGRemoteSinkSettings::setRgbColor">
+<area shape="rect" id="node2" href="$df/d8c/classRemoteSink.html#a414ff2e77270a74d2e166c3b2e8624fd" title="RemoteSink::webapiFormat\lChannelSettings" alt="" coords="284,50,468,91"/>
+<area shape="rect" id="node6" href="$df/d8c/classRemoteSink.html#a65dd305f69ddcfcc6c58c7994ef0e386" title="RemoteSink::webapiReverse\lSendSettings" alt="" coords="280,115,472,157"/>
+<area shape="rect" id="node3" href="$df/d8c/classRemoteSink.html#a65c3a5a5e2c6a2b2d7f62e648d55c466" title="RemoteSink::webapiSettingsGet" alt="" coords="520,5,732,32"/>
+<area shape="rect" id="node5" href="$df/d8c/classRemoteSink.html#af499a31a9fb52c7d70d6516b409ce926" title="RemoteSink::webapiSettings\lPutPatch" alt="" coords="531,57,721,98"/>
+<area shape="rect" id="node4" href="$df/d8c/classRemoteSink.html#a5d2e3e558fcf14e8dd5b220726e0f37d" title="RemoteSink::getStreamCenter\lFrequency" alt="" coords="780,27,981,69"/>
+<area shape="rect" id="node7" href="$df/d8c/classRemoteSink.html#a53a43a221314777f2ef4300e9be4f1ba" title="RemoteSink::applySettings" alt="" coords="535,123,717,149"/>
+<area shape="rect" id="node8" href="$df/d8c/classRemoteSink.html#ac4969813754d792e53bf9b90f9689a91" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="784,123,977,149"/>
+<area shape="rect" id="node9" href="$df/d8c/classRemoteSink.html#ad7201ac561a0c0cf4f229677a71c36ae" title="RemoteSink::destroy" alt="" coords="1029,123,1175,149"/>
+</map>

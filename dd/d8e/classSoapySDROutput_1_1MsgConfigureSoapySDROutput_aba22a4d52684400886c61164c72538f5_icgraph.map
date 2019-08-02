@@ -1,0 +1,8 @@
+<map id="SoapySDROutput::MsgConfigureSoapySDROutput::create" name="SoapySDROutput::MsgConfigureSoapySDROutput::create">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#ad4761396f372a8669b2c809e2a161968" title="SoapySDROutput::deserialize" alt="" coords="284,5,481,32"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#a499eb128e98c2f4ddd17a09edc94bb02" title="SoapySDROutput::handleMessage" alt="" coords="269,56,496,83"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#a9269ec038d9799ae31f446d404d5cd4c" title="SoapySDROutput::setCenter\lFrequency" alt="" coords="287,107,479,149"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#a618b9117fb7c44c427628d63ad751a4e" title="SoapySDROutputGui::\lupdateHardware" alt="" coords="305,173,460,214"/>
+<area shape="rect" id="node7" href="$d8/df3/classSoapySDROutput.html#a9ba73bb82c6f6160df5eb29ac5bb52a0" title="SoapySDROutput::webapiSettings\lPutPatch" alt="" coords="271,238,495,279"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="544,173,699,214"/>
+</map>

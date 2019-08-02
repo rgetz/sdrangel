@@ -1,0 +1,16 @@
+<map id="DSPDeviceSinkEngine::addSpectrumSink" name="DSPDeviceSinkEngine::addSpectrumSink">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#a3d47110bca4236792fc7b4b9eac10a12" title="Adds a sink to receive full baseband and that is not a channel (e.g. spectrum) " alt="" coords="212,143,403,170"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#ae070e856d56340d6429e59ff7124ed16" title="MainWindow::addSinkDevice" alt="" coords="211,261,404,287"/>
+<area shape="rect" id="node3" href="$d2/d00/classAirspyHFInput.html#a715dd76429788308fb4d02fe44fbc5a9" title="AirspyHFInput::AirspyHFInput" alt="" coords="452,19,651,46"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#a58e6bfdb6cb4fef654b35e7b31524130" title="AirspyInput::AirspyInput" alt="" coords="470,85,633,111"/>
+<area shape="rect" id="node7" href="$d7/da7/classTestMI.html#a23fb9b2a305aeed16d81bc6e33a60c97" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="507,143,595,170"/>
+<area shape="rect" id="node9" href="$d0/d36/classRTLSDRInput.html#a02ae4ac768e914322eef1bb7317dad89" title="RTLSDRInput::RTLSDRInput" alt="" coords="453,199,649,226"/>
+<area shape="rect" id="node4" href="$de/d8f/classAirspyHFInput_1_1MsgStartStop.html#a35999d6c1ec18257ae6f1998efe21ea8" title="AirspyHFInput::MsgStartStop\l::MsgStartStop" alt="" coords="703,5,897,47"/>
+<area shape="rect" id="node6" href="$d6/d85/classAirspyInput_1_1MsgStartStop.html#aeca295550ded5e555c36b08e2b2764f4" title="AirspyInput::MsgStartStop\l::MsgStartStop" alt="" coords="712,71,888,112"/>
+<area shape="rect" id="node8" href="$d8/de7/classTestMI_1_1MsgStartStop.html#ab4b223ac6abdfbde115f22b4e81da814" title="TestMI::MsgStartStop\l::MsgStartStop" alt="" coords="725,136,875,177"/>
+<area shape="rect" id="node10" href="$d2/da8/classRTLSDRInput_1_1MsgStartStop.html#a21c8cea0bf077e42879b20a24d6e4b7c" title="RTLSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="703,201,897,243"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="453,261,649,287"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#ac212d9cde19275d0640b60399f64733f" title="MainWindow::on_action\l_addSinkDevice_triggered" alt="" coords="464,312,639,353"/>
+<area shape="rect" id="node13" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="699,267,901,294"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="949,267,1129,294"/>
+</map>

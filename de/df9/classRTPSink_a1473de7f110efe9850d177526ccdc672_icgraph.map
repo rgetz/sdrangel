@@ -1,0 +1,11 @@
+<map id="RTPSink::setPayloadInformation" name="RTPSink::setPayloadInformation">
+<area shape="rect" id="node2" href="$de/df9/classRTPSink.html#a88b4dfb8e061301adf56b6b6b7122fd2" title="RTPSink::isValid" alt="" coords="303,5,425,32"/>
+<area shape="rect" id="node4" href="$de/df9/classRTPSink.html#a0f8293af155857b9347f5fb15095f23b" title="RTPSink::RTPSink" alt="" coords="296,56,432,83"/>
+<area shape="rect" id="node5" href="$d1/d16/classAudioNetSink.html#a8c04dad8232d8216ad2e3834abd30b6d" title="AudioNetSink::setParameters" alt="" coords="267,107,461,133"/>
+<area shape="rect" id="node3" href="$d1/d16/classAudioNetSink.html#ab70fd5025f848d8a3b533ec80cc87d7f" title="AudioNetSink::isRTPCapable" alt="" coords="509,5,704,32"/>
+<area shape="rect" id="node6" href="$d8/ddc/classAudioOutput.html#a4dd9e7cb70bc633a33a97e400dec7497" title="AudioOutput::setUdpChannel\lFormat" alt="" coords="511,99,703,141"/>
+<area shape="rect" id="node7" href="$d0/d40/classAudioDeviceManager.html#a626cbd4efa0db2508888c36a535aa842" title="AudioDeviceManager\l::setOutputDeviceInfo" alt="" coords="752,99,903,141"/>
+<area shape="rect" id="node8" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="975,48,1123,75"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#a7e0868764ceab0c25cc1c8d051920b15" title="WebAPIAdapterSrv::instance\lAudioOutputPatch" alt="" coords="953,99,1146,141"/>
+<area shape="rect" id="node10" href="$d7/de5/classWebAPIAdapterGUI.html#a2e3aca4d4c3df256a6ab7b28f2629739" title="WebAPIAdapterGUI::instance\lAudioOutputPatch" alt="" coords="951,165,1148,206"/>
+</map>

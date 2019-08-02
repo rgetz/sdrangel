@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGChannelSettings::getRemoteSourceSettings" name="SWGSDRangel::SWGChannelSettings::getRemoteSourceSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="322,13,493,54"/>
+<area shape="rect" id="node5" href="$de/dd9/classRemoteSource.html#ab1080b7d1e65ec2dc9714ad357ee73d0" title="RemoteSource::webapiFormat\lChannelSettings" alt="" coords="308,130,507,171"/>
+<area shape="rect" id="node6" href="$de/dd9/classRemoteSource.html#a1169912813389f85ab96982edf74a9a0" title="RemoteSource::webapiSettingsGet" alt="" coords="559,85,785,112"/>
+<area shape="rect" id="node8" href="$de/dd9/classRemoteSource.html#a554ac9226344e69f0810cb2fa08ef4a3" title="RemoteSource::webapiSettings\lPutPatch" alt="" coords="569,137,775,178"/>
+<area shape="rect" id="node9" href="$de/dd9/classRemoteSource.html#a689bb839f77544b65e5c169c940d91e2" title="RemoteSource::webapiReverse\lSendSettings" alt="" coords="304,247,511,289"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="581,5,763,61"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="860,13,1023,54"/>
+<area shape="rect" id="node7" href="$de/dd9/classRemoteSource.html#a023f9330a89a0fc29905fbd72f678d4b" title="RemoteSource::getStreamCenter\lFrequency" alt="" coords="833,107,1049,149"/>
+<area shape="rect" id="node10" href="$de/dd9/classRemoteSource.html#a4356b348b550cbcf601a8ac011fc7eb6" title="RemoteSource::applySettings" alt="" coords="574,255,770,281"/>
+<area shape="rect" id="node11" href="$de/dd9/classRemoteSource.html#ac8d02bab284739e3e3e33162b0b5e1e5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="837,255,1045,281"/>
+<area shape="rect" id="node12" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="1097,255,1257,281"/>
+</map>

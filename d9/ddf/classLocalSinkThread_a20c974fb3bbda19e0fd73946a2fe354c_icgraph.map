@@ -1,0 +1,6 @@
+<map id="LocalSinkThread::setSampleFifo" name="LocalSinkThread::setSampleFifo">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#addfeb93f67689b5f92e26351d7267873" title="LocalSink::applySettings" alt="" coords="264,5,431,32"/>
+<area shape="rect" id="node5" href="$da/d9d/classLocalSink.html#abfb1eee023c54b64f0c7c89608682f0c" title="LocalSink::start" alt="" coords="511,56,625,83"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#ab1f0a9122fd3a86d7f792b77e9e0fa55" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="479,5,657,32"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#a4d62e619cbbd3616bfcb3d362f050565" title="LocalSink::destroy" alt="" coords="705,31,836,57"/>
+</map>

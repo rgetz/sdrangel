@@ -1,0 +1,18 @@
+<map id="plugins/channelrx/demodwfm/wfmdemod.h" name="plugins/channelrx/demodwfm/wfmdemod.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="379,95,559,121"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="183,169,290,196"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1463,169,1607,196"/>
+<area shape="rect" id="node19" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="923,95,1001,121"/>
+<area shape="rect" id="node20" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="775,95,898,121"/>
+<area shape="rect" id="node22" href="$d0/d58/lowpass_8h.html" title="dsp/lowpass.h" alt="" coords="1341,95,1447,121"/>
+<area shape="rect" id="node24" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node26" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="1588,95,1672,121"/>
+<area shape="rect" id="node28" href="$d5/ded/phasediscri_8h.html" title="dsp/phasediscri.h" alt="" coords="1025,95,1149,121"/>
+<area shape="rect" id="node29" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="634,95,751,121"/>
+<area shape="rect" id="node31" href="$d9/d5f/wfmdemodsettings_8h.html" title="wfmdemodsettings.h" alt="" coords="1173,95,1316,121"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1112,169,1223,196"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="809,244,878,271"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="416,169,559,196"/>
+<area shape="rect" id="node23" href="$df/db1/math_8h.html" title="math.h" alt="" coords="1352,169,1415,196"/>
+<area shape="rect" id="node27" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="1683,169,1735,196"/>
+</map>

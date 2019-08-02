@@ -1,0 +1,12 @@
+<map id="Bladerf1OutputGui::setCenterFrequency" name="Bladerf1OutputGui::setCenterFrequency">
+<area shape="rect" id="node2" href="$da/de4/classBladerf1OutputGui.html#af569d9d69e8780e1ff2e59a70e40bdcd" title="Bladerf1OutputGui::\ldisplaySettings" alt="" coords="193,90,331,131"/>
+<area shape="rect" id="node11" href="$da/de4/classBladerf1OutputGui.html#a4d2eb73bc65700f487cc85eae9171ce8" title="Bladerf1OutputGui::\lsendSettings" alt="" coords="193,155,331,197"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="565,35,605,61"/>
+<area shape="rect" id="node8" href="$da/de4/classBladerf1OutputGui.html#a29c65bb25638e7b8a69ca17c7ebf5678" title="Bladerf1OutputGui::\ldisplaySampleRate" alt="" coords="379,57,517,98"/>
+<area shape="rect" id="node9" href="$d8/d96/classBladerfBandwidths.html#ad4b5c047a69339f9e16aad57713c8818" title="BladerfBandwidths::\lgetBandwidthIndex" alt="" coords="379,122,517,163"/>
+<area shape="rect" id="node10" href="$da/de4/classBladerf1OutputGui.html#ae15e68810a946ede1176fa8c66e3db0e" title="Bladerf1OutputGui::\lgetXb200Index" alt="" coords="379,187,517,229"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="653,35,761,61"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1013,5,1132,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="809,57,957,98"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1005,57,1140,98"/>
+</map>

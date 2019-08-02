@@ -1,0 +1,11 @@
+<map id="Preferences::resetToDefaults" name="Preferences::resetToDefaults">
+<area shape="rect" id="node2" href="$d2/d60/classPreferences.html#a25b1c84e64baf2d997d6861688285760" title="Preferences::deserialize" alt="" coords="265,31,427,57"/>
+<area shape="rect" id="node8" href="$d2/d60/classPreferences.html#a9ca3b7029509bc36da1a57ed296c2fa8" title="Preferences::Preferences" alt="" coords="261,81,431,108"/>
+<area shape="rect" id="node9" href="$d5/df4/classMainSettings.html#a150638f89e88fd4af0516cb760eef58b" title="MainSettings::resetToDefaults" alt="" coords="247,132,445,159"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="519,31,650,57"/>
+<area shape="rect" id="node4" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="733,5,892,32"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="724,56,901,83"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="968,5,1111,32"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="949,56,1129,83"/>
+<area shape="rect" id="node10" href="$d5/df4/classMainSettings.html#a0323fe490b6cf390957eed234fdb4b60" title="MainSettings::MainSettings" alt="" coords="493,132,676,159"/>
+</map>

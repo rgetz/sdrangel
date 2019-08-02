@@ -1,0 +1,18 @@
+<map id="MainWindow::on_commandKeyboardConnect_toggled" name="MainWindow::on_commandKeyboardConnect_toggled">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#a7fccf9808d6defab7478853ed207bc3c" title="MainWindow::commandKeyPressed" alt="" coords="305,224,538,251"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#a0cc548b3c532b889eaad7536d77943fe" title="MainWindow::commandKeysConnect" alt="" coords="301,275,542,301"/>
+<area shape="rect" id="node17" href="$d6/d1a/classMainWindow.html#a132500746da24864e7357f7266f688fa" title="MainWindow::commandKeysDisconnect" alt="" coords="292,325,551,352"/>
+<area shape="rect" id="node3" href="$d9/d71/classCommand.html#a9444fba99352ab4d4876bbaa8decf011" title="Command::getAssociateKey" alt="" coords="599,5,788,32"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#a53e2b68f91c07d819df8e2c32644b85c" title="MainSettings::getCommand" alt="" coords="601,56,785,83"/>
+<area shape="rect" id="node5" href="$d5/df4/classMainSettings.html#aec7c2e3964e53242d0cce189e18bb751" title="MainSettings::getCommand\lCount" alt="" coords="601,107,785,149"/>
+<area shape="rect" id="node6" href="$dc/dce/classWebAPIServer.html#a9d2fd9e78eafee26895360fe0e26c7cb" title="WebAPIServer::getHost" alt="" coords="612,173,775,200"/>
+<area shape="rect" id="node7" href="$d9/d71/classCommand.html#a429453a56a81564bd18fb1aea63b1c67" title="Command::getKey" alt="" coords="628,224,759,251"/>
+<area shape="rect" id="node8" href="$d9/d71/classCommand.html#aa2c0bc3fac494f60ee3c1529bb580eb5" title="Command::getKeyModifiers" alt="" coords="601,275,785,301"/>
+<area shape="rect" id="node9" href="$dc/dce/classWebAPIServer.html#affa7dcd7e341543434562ca5d5694400" title="WebAPIServer::getPort" alt="" coords="614,325,773,352"/>
+<area shape="rect" id="node10" href="$d9/d71/classCommand.html#aed1bda95f805372b5ad583ffe3f1ad72" title="Command::getRelease" alt="" coords="615,376,771,403"/>
+<area shape="rect" id="node11" href="$d9/d71/classCommand.html#a4979924f2b9606988b1dbf340f8c0fa7" title="Command::run" alt="" coords="639,427,747,453"/>
+<area shape="rect" id="node12" href="$d6/dbf/classTimeUtil.html#ae1b5ca96180e52209e6a2add322b5698" title="returns the current epoch in milliseconds " alt="" coords="1330,401,1451,428"/>
+<area shape="rect" id="node13" href="$d9/d71/classCommand.html#a7ea4f6b5e4dc6960d8777109ba2ad2a4" title="Command::processError" alt="" coords="836,452,1000,479"/>
+<area shape="rect" id="node14" href="$d9/d71/classCommand.html#aca394af8a83e03f5cd0adb5bae5ef469" title="Command::processFinished" alt="" coords="1048,401,1233,428"/>
+<area shape="rect" id="node15" href="$d9/d71/classCommand.html#a0338260e24efb98fda5b02eb0b177aae" title="Command::processStateChanged" alt="" coords="1281,503,1500,529"/>
+</map>

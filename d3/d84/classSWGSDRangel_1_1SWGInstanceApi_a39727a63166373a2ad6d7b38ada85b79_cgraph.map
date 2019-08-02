@@ -1,0 +1,16 @@
+<map id="SWGSDRangel::SWGInstanceApi::instancePresetPost" name="SWGSDRangel::SWGInstanceApi::instancePresetPost">
+<area shape="rect" id="node2" href="$d8/d3d/classSWGSDRangel_1_1SWGPresetTransfer.html#a4b0ee1e107096f7d198ce1781684f13d" title="SWGSDRangel::SWGPresetTransfer\l::asJson" alt="" coords="257,71,497,112"/>
+<area shape="rect" id="node7" href="$d5/d44/classSWGSDRangel_1_1SWGHttpRequestWorker.html#a86454609e1adabcd871be8a4fac92057" title="SWGSDRangel::SWGHttpRequest\lWorker::execute" alt="" coords="263,141,491,183"/>
+<area shape="rect" id="node14" href="$d3/d84/classSWGSDRangel_1_1SWGInstanceApi.html#a19006e22ad0bba5a83092d8e7e547fe5" title="SWGSDRangel::SWGInstance\lApi::instancePresetPostCallback" alt="" coords="270,217,485,259"/>
+<area shape="rect" id="node3" href="$d8/d3d/classSWGSDRangel_1_1SWGPresetTransfer.html#ad2c07b0d2bd0f3693fba3e1b6885a917" title="SWGSDRangel::SWGPresetTransfer\l::asJsonObject" alt="" coords="545,64,785,105"/>
+<area shape="rect" id="node4" href="$d4/d03/classSWGSDRangel_1_1SWGPresetIdentifier.html#a11ce758ff459e8d837eb0d16fbe3a7de" title="SWGSDRangel::SWGPresetIdentifier\l::isSet" alt="" coords="833,5,1076,47"/>
+<area shape="rect" id="node5" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="857,71,1052,98"/>
+<area shape="rect" id="node6" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1124,64,1316,105"/>
+<area shape="rect" id="node8" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="645,130,685,157"/>
+<area shape="rect" id="node13" href="$d5/d44/classSWGSDRangel_1_1SWGHttpRequestWorker.html#a1981f2a7d89965ba381ae09115147bfc" title="SWGSDRangel::SWGHttpRequest\lWorker::http_attribute_encode" alt="" coords="551,181,779,223"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="901,130,1009,157"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1146,181,1294,223"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1372,130,1491,157"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1364,181,1499,223"/>
+<area shape="rect" id="node15" href="$d8/d0f/namespaceSWGSDRangel.html#a5a0b12d2ac8c22f68e628645d7d03a53" title="SWGSDRangel::create" alt="" coords="586,247,745,274"/>
+</map>

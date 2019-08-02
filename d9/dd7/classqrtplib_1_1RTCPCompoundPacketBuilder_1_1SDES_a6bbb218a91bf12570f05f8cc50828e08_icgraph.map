@@ -1,0 +1,11 @@
+<map id="qrtplib::RTCPCompoundPacketBuilder::SDES::NeededBytesWithExtraItem" name="qrtplib::RTCPCompoundPacketBuilder::SDES::NeededBytesWithExtraItem">
+<area shape="rect" id="node2" href="$de/d87/classqrtplib_1_1RTCPCompoundPacketBuilder.html#a24c3bb3c8d66e0a378cf6da4d403f7c5" title="qrtplib::RTCPCompoundPacket\lBuilder::AddSDESNormalItem" alt="" coords="332,123,539,164"/>
+<area shape="rect" id="node10" href="$de/d87/classqrtplib_1_1RTCPCompoundPacketBuilder.html#ae82a22f5b8266b46ad2743f8612116f0" title="qrtplib::RTCPCompoundPacket\lBuilder::AddSDESPrivateItem" alt="" coords="332,188,539,229"/>
+<area shape="rect" id="node3" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a9a0d6aa533accbfeb2ad1901a1db3290" title="qrtplib::RTCPPacketBuilder\l::BuildBYEPacket" alt="" coords="587,35,769,76"/>
+<area shape="rect" id="node7" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a78bf3048ae31cad82020d4ebd96a2b2a" title="qrtplib::RTCPPacketBuilder\l::BuildNextPacket" alt="" coords="817,123,1000,164"/>
+<area shape="rect" id="node8" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#aa3dadad626913b0ce6484f599ef7fceb" title="qrtplib::RTCPPacketBuilder\l::FillInSDES" alt="" coords="587,152,769,193"/>
+<area shape="rect" id="node9" href="$db/d64/classqrtplib_1_1RTPSession.html#a1c99b8e202d5127c36a0375ba1dc20b5" title="qrtplib::RTPSession\l::SendRTCPAPPPacket" alt="" coords="595,217,761,259"/>
+<area shape="rect" id="node4" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="839,5,978,47"/>
+<area shape="rect" id="node6" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="1049,93,1191,135"/>
+<area shape="rect" id="node5" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="1048,13,1192,39"/>
+</map>

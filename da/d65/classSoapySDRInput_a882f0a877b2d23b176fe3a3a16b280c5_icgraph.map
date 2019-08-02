@@ -1,0 +1,5 @@
+<map id="SoapySDRInput::getFrequencyRange" name="SoapySDRInput::getFrequencyRange">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="257,5,517,32"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#aca62d72b4ae9396d2b662eee4cb1b282" title="SoapySDRInputGui::update\lFrequencyLimits" alt="" coords="295,57,479,98"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#a68d2200c160aac5b3b6478a469752a93" title="SoapySDRInputGui::on\l_transverter_clicked" alt="" coords="565,57,724,98"/>
+</map>

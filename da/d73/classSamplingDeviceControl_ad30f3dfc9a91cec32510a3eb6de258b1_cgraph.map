@@ -1,0 +1,5 @@
+<map id="SamplingDeviceControl::removeSelectedDeviceIndex" name="SamplingDeviceControl::removeSelectedDeviceIndex">
+<area shape="rect" id="node2" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="251,5,437,32"/>
+<area shape="rect" id="node3" href="$d1/d17/classDeviceEnumerator.html#a9fd87ee1890de01346b265716d8351d1" title="DeviceEnumerator::remove\lRxSelection" alt="" coords="253,57,435,98"/>
+<area shape="rect" id="node4" href="$d1/d17/classDeviceEnumerator.html#a29103d27a5cb88444429619781498631" title="DeviceEnumerator::remove\lTxSelection" alt="" coords="253,122,435,163"/>
+</map>

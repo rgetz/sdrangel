@@ -1,0 +1,33 @@
+<map id="WebAPIAdapterGUI::instanceConfigGet" name="WebAPIAdapterGUI::instanceConfigGet">
+<area shape="rect" id="node2" href="$d6/d1a/classMainWindow.html#af3d459f57154effbac815d109cc1a42f" title="MainWindow::getMainSettings" alt="" coords="267,5,465,32"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#afbd906a1ec31a544ee5cde3e5034b663" title="MainSettings::getPreferences" alt="" coords="269,56,463,83"/>
+<area shape="rect" id="node4" href="$d4/d44/classSWGSDRangel_1_1SWGInstanceConfigResponse.html#a6946bcec00317e92325bcf9730e01fe8" title="SWGSDRangel::SWGInstance\lConfigResponse::getPreferences" alt="" coords="259,107,473,149"/>
+<area shape="rect" id="node5" href="$d5/df4/classMainSettings.html#acc57bd4efde738aa2720bc469e1d4436" title="MainSettings::getPreset" alt="" coords="285,173,447,200"/>
+<area shape="rect" id="node6" href="$d5/df4/classMainSettings.html#aa613a5791c8a57a6b0e53304f846cedc" title="MainSettings::getPresetCount" alt="" coords="267,224,465,251"/>
+<area shape="rect" id="node7" href="$d4/d44/classSWGSDRangel_1_1SWGInstanceConfigResponse.html#ab4e212dab82bac6b4ec1e16ac3e1ddc5" title="SWGSDRangel::SWGInstance\lConfigResponse::getPresets" alt="" coords="264,275,468,317"/>
+<area shape="rect" id="node8" href="$d4/d44/classSWGSDRangel_1_1SWGInstanceConfigResponse.html#ac000c53c4e90400fdfb989cb50403ff0" title="SWGSDRangel::SWGInstance\lConfigResponse::getWorkingPreset" alt="" coords="251,341,481,382"/>
+<area shape="rect" id="node9" href="$d5/df4/classMainSettings.html#a8731bb780ae09aa31ece691404d569f7" title="MainSettings::getWorking\lPresetConst" alt="" coords="280,406,452,447"/>
+<area shape="rect" id="node10" href="$d4/d44/classSWGSDRangel_1_1SWGInstanceConfigResponse.html#a6638f0d277391e0a56ddf188993f984a" title="SWGSDRangel::SWGInstance\lConfigResponse::init" alt="" coords="264,471,468,513"/>
+<area shape="rect" id="node11" href="$d2/d96/classWebAPIAdapterBase.html#a9e67ec77a1a0d1bc1b0b3c721df4867d" title="WebAPIAdapterBase::\lwebapiFormatPreferences" alt="" coords="279,537,453,578"/>
+<area shape="rect" id="node23" href="$d2/d96/classWebAPIAdapterBase.html#ae7e9c6e0f0d05678fcbc60c693b07f38" title="WebAPIAdapterBase::\lwebapiFormatPreset" alt="" coords="289,1123,443,1165"/>
+<area shape="rect" id="node12" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#aeaffb49f61b60e905f134a9766954718" title="SWGSDRangel::SWGPreferences\l::init" alt="" coords="531,177,755,218"/>
+<area shape="rect" id="node13" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a2a0a940912b9a08f31d7fbe71eff3d90" title="SWGSDRangel::SWGPreferences\l::setAudioDevice" alt="" coords="531,242,755,283"/>
+<area shape="rect" id="node14" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#ae61c5973e1f18d0bd8126e2dac2afb97" title="SWGSDRangel::SWGPreferences\l::setAudioType" alt="" coords="531,307,755,349"/>
+<area shape="rect" id="node15" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a384be9f2cc4e8826dfb38084e1c367d0" title="SWGSDRangel::SWGPreferences\l::setConsoleMinLogLevel" alt="" coords="531,373,755,414"/>
+<area shape="rect" id="node16" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a60c53deece97aae083e4da26e5fb757e" title="SWGSDRangel::SWGPreferences\l::setFileMinLogLevel" alt="" coords="531,438,755,479"/>
+<area shape="rect" id="node17" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a06aa0771f82e16028c3756dc5601e057" title="SWGSDRangel::SWGPreferences\l::setLatitude" alt="" coords="531,503,755,545"/>
+<area shape="rect" id="node18" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#aa58aaa71b69bfad0a9f2d62b95c6f2b7" title="SWGSDRangel::SWGPreferences\l::setLogFileName" alt="" coords="531,569,755,610"/>
+<area shape="rect" id="node19" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a41998c66d552c5f3e78b2d285f980820" title="SWGSDRangel::SWGPreferences\l::setLongitude" alt="" coords="531,634,755,675"/>
+<area shape="rect" id="node20" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#af93047a7472aec03a45e5e953d1d480e" title="SWGSDRangel::SWGPreferences\l::setSourceDevice" alt="" coords="531,699,755,741"/>
+<area shape="rect" id="node21" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a28b6d13169c4bb224d03e6aa570d83fd" title="SWGSDRangel::SWGPreferences\l::setSourceIndex" alt="" coords="531,765,755,806"/>
+<area shape="rect" id="node22" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a86ca6f399ff3ac88678b4bce38dcd59d" title="SWGSDRangel::SWGPreferences\l::setUseLogFile" alt="" coords="531,830,755,871"/>
+<area shape="rect" id="node24" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aa1f66371d9e4bec3017023a2e62fd4a6" title="SWGSDRangel::SWGPreset\l::getMSpectrumConfig" alt="" coords="547,895,739,937"/>
+<area shape="rect" id="node25" href="$d4/d17/classSWGSDRangel_1_1SWGGLSpectrum.html#a76c91f03ec0b8fb15bbfabeb23aca987" title="SWGSDRangel::SWGGLSpectrum\l::init" alt="" coords="529,961,756,1002"/>
+<area shape="rect" id="node26" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#ad8bd550eda3010509ce6edc3802ee234" title="SWGSDRangel::SWGPreset\l::init" alt="" coords="547,1026,739,1067"/>
+<area shape="rect" id="node27" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#abd1c97baa74fda5138ec1f8e622cad65" title="SWGSDRangel::SWGPreset\l::setCenterFrequency" alt="" coords="547,1091,739,1133"/>
+<area shape="rect" id="node28" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aedd594fd8989315792b411de3df51401" title="SWGSDRangel::SWGPreset\l::setDcOffsetCorrection" alt="" coords="547,1157,739,1198"/>
+<area shape="rect" id="node29" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#a1ef01a9128bb0cc026ab61aeb2b0da48" title="SWGSDRangel::SWGPreset\l::setDescription" alt="" coords="547,1222,739,1263"/>
+<area shape="rect" id="node30" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aab052b97818524cd6f41ad0b4b4a1617" title="SWGSDRangel::SWGPreset\l::setGroup" alt="" coords="547,1287,739,1329"/>
+<area shape="rect" id="node31" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#a10ea2902bbc56b6ef15e6654719ac51b" title="SWGSDRangel::SWGPreset\l::setIqImbalanceCorrection" alt="" coords="547,1353,739,1394"/>
+<area shape="rect" id="node32" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#a2e1237cb8811436053d2dc27041230da" title="SWGSDRangel::SWGPreset\l::setSourcePreset" alt="" coords="547,1418,739,1459"/>
+</map>

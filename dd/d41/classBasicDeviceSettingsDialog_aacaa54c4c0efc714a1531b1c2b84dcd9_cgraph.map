@@ -1,0 +1,12 @@
+<map id="BasicDeviceSettingsDialog::BasicDeviceSettingsDialog" name="BasicDeviceSettingsDialog::BasicDeviceSettingsDialog">
+<area shape="rect" id="node2" href="$dd/d41/classBasicDeviceSettingsDialog.html#a2336847621183281351768eb2b807bd5" title="BasicDeviceSettingsDialog\l::setReverseAPIAddress" alt="" coords="248,5,429,47"/>
+<area shape="rect" id="node3" href="$dd/d41/classBasicDeviceSettingsDialog.html#a868a115f83061f3f1f97125c52f5caf2" title="BasicDeviceSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="243,71,435,112"/>
+<area shape="rect" id="node9" href="$dd/d41/classBasicDeviceSettingsDialog.html#a354a53bfe121fccc20ef67ca2d460402" title="BasicDeviceSettingsDialog\l::setReverseAPIPort" alt="" coords="248,136,429,177"/>
+<area shape="rect" id="node10" href="$dd/d41/classBasicDeviceSettingsDialog.html#a620777e513db5769113671f437eb92df" title="BasicDeviceSettingsDialog\l::setUseReverseAPI" alt="" coords="248,201,429,243"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="553,111,593,138"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="712,111,820,138"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1072,82,1191,109"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="868,133,1016,175"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1064,133,1199,175"/>
+<area shape="rect" id="node11" href="$dd/d41/classBasicDeviceSettingsDialog.html#a515540601bb272d9a04b9f048f912ad6" title="BasicDeviceSettingsDialog\l::useReverseAPI" alt="" coords="483,201,664,243"/>
+</map>

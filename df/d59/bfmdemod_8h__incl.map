@@ -1,0 +1,23 @@
+<map id="plugins/channelrx/demodbfm/bfmdemod.h" name="plugins/channelrx/demodbfm/bfmdemod.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="272,95,452,121"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="27,169,134,196"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1056,169,1200,196"/>
+<area shape="rect" id="node19" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="880,95,958,121"/>
+<area shape="rect" id="node20" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="732,95,855,121"/>
+<area shape="rect" id="node22" href="$d0/d58/lowpass_8h.html" title="dsp/lowpass.h" alt="" coords="1607,95,1714,121"/>
+<area shape="rect" id="node24" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="1738,95,1884,121"/>
+<area shape="rect" id="node26" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="2081,95,2165,121"/>
+<area shape="rect" id="node28" href="$db/daa/phaselock_8h.html" title="dsp/phaselock.h" alt="" coords="1466,95,1583,121"/>
+<area shape="rect" id="node29" href="$d7/d0e/filterrc_8h.html" title="dsp/filterrc.h" alt="" coords="1034,95,1129,121"/>
+<area shape="rect" id="node30" href="$d5/ded/phasediscri_8h.html" title="dsp/phasediscri.h" alt="" coords="1317,95,1441,121"/>
+<area shape="rect" id="node31" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="476,95,594,121"/>
+<area shape="rect" id="node33" href="$d9/d31/rdsparser_8h.html" title="rdsparser.h" alt="" coords="2204,95,2290,121"/>
+<area shape="rect" id="node37" href="$d8/ddf/rdsdecoder_8h.html" title="rdsdecoder.h" alt="" coords="1960,95,2057,121"/>
+<area shape="rect" id="node38" href="$d1/d91/rdsdemod_8h.html" title="rdsdemod.h" alt="" coords="618,95,708,121"/>
+<area shape="rect" id="node39" href="$da/dcb/bfmdemodsettings_8h.html" title="bfmdemodsettings.h" alt="" coords="1153,95,1293,121"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1225,169,1336,196"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="858,244,927,271"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="209,169,352,196"/>
+<area shape="rect" id="node23" href="$df/db1/math_8h.html" title="math.h" alt="" coords="1517,169,1580,196"/>
+<area shape="rect" id="node27" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="2089,169,2141,196"/>
+</map>

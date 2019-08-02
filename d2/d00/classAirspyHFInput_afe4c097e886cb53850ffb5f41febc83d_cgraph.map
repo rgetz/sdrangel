@@ -1,0 +1,24 @@
+<map id="AirspyHFInput::webapiFormatDeviceSettings" name="AirspyHFInput::webapiFormatDeviceSettings">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aa9899f1b0cd9e9f5878110880093d500" title="SWGSDRangel::SWGDeviceSettings\l::getAirspyHfSettings" alt="" coords="257,5,499,47"/>
+<area shape="rect" id="node3" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a6f651e0a846cc0ecc7dcfb9d4e004b37" title="SWGSDRangel::SWGAirspyHFSettings\l::getFileRecordName" alt="" coords="249,71,507,112"/>
+<area shape="rect" id="node4" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a2ad190c82060b87575098dedc7131da1" title="SWGSDRangel::SWGAirspyHFSettings\l::getReverseApiAddress" alt="" coords="249,136,507,177"/>
+<area shape="rect" id="node5" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#afe4f64778aa04699257b227c5b5225a0" title="SWGSDRangel::SWGAirspyHFSettings\l::setAgcHigh" alt="" coords="249,201,507,243"/>
+<area shape="rect" id="node6" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a99f6bae76493d4d1564766afca615593" title="SWGSDRangel::SWGAirspyHFSettings\l::setAttenuatorSteps" alt="" coords="249,267,507,308"/>
+<area shape="rect" id="node7" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a4933d78b565d5f19a70bb96c5279e735" title="SWGSDRangel::SWGAirspyHFSettings\l::setBandIndex" alt="" coords="249,332,507,373"/>
+<area shape="rect" id="node8" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a617b3cd8bc88b701650896890cab95b7" title="SWGSDRangel::SWGAirspyHFSettings\l::setCenterFrequency" alt="" coords="249,397,507,439"/>
+<area shape="rect" id="node9" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#adbdabe61613d78ae31a1d1188faec0cf" title="SWGSDRangel::SWGAirspyHFSettings\l::setDcBlock" alt="" coords="249,463,507,504"/>
+<area shape="rect" id="node10" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a85adb2ab6b3deb3409c1daf6564f3ac4" title="SWGSDRangel::SWGAirspyHFSettings\l::setDevSampleRateIndex" alt="" coords="249,528,507,569"/>
+<area shape="rect" id="node11" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a535cbcc1998b791dbb40038f15c1e03c" title="SWGSDRangel::SWGAirspyHFSettings\l::setFileRecordName" alt="" coords="249,593,507,635"/>
+<area shape="rect" id="node12" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a41176dbfd43b5834c3df4e452f0a1cc5" title="SWGSDRangel::SWGAirspyHFSettings\l::setIqCorrection" alt="" coords="249,659,507,700"/>
+<area shape="rect" id="node13" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a0498a840eb7478bcad847256582f2251" title="SWGSDRangel::SWGAirspyHFSettings\l::setLog2Decim" alt="" coords="249,724,507,765"/>
+<area shape="rect" id="node14" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a616f419b6fd2a3d50f0d32520ee2fde5" title="SWGSDRangel::SWGAirspyHFSettings\l::setLOppmTenths" alt="" coords="249,789,507,831"/>
+<area shape="rect" id="node15" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a12a72b564335039128f184374c6b8a50" title="SWGSDRangel::SWGAirspyHFSettings\l::setReverseApiAddress" alt="" coords="249,855,507,896"/>
+<area shape="rect" id="node16" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a7a8e6c0bc1e6fbffecea0014286336ac" title="SWGSDRangel::SWGAirspyHFSettings\l::setReverseApiDeviceIndex" alt="" coords="249,920,507,961"/>
+<area shape="rect" id="node17" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a0d26f6cb2853460adbd62ab82fd221d7" title="SWGSDRangel::SWGAirspyHFSettings\l::setReverseApiPort" alt="" coords="249,985,507,1027"/>
+<area shape="rect" id="node18" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a4885d7e6180ff0d9d17fff9b9977b713" title="SWGSDRangel::SWGAirspyHFSettings\l::setTransverterDeltaFrequency" alt="" coords="249,1051,507,1092"/>
+<area shape="rect" id="node19" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#adbcd90f1499bcddaeb68283635afe365" title="SWGSDRangel::SWGAirspyHFSettings\l::setTransverterMode" alt="" coords="249,1116,507,1157"/>
+<area shape="rect" id="node20" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#ac42a30161f24c39286492ac4be3a9fe7" title="SWGSDRangel::SWGAirspyHFSettings\l::setUseAgc" alt="" coords="249,1181,507,1223"/>
+<area shape="rect" id="node21" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#af6479f18d5ed3fef77c066a45fe657a0" title="SWGSDRangel::SWGAirspyHFSettings\l::setUseDsp" alt="" coords="249,1247,507,1288"/>
+<area shape="rect" id="node22" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a8fa9f02687c6b25e17392381b32931ae" title="SWGSDRangel::SWGAirspyHFSettings\l::setUseLna" alt="" coords="249,1312,507,1353"/>
+<area shape="rect" id="node23" href="$df/dbd/classSWGSDRangel_1_1SWGAirspyHFSettings.html#a264975cc2da34c588b04dcdca7edd7d5" title="SWGSDRangel::SWGAirspyHFSettings\l::setUseReverseApi" alt="" coords="249,1377,507,1419"/>
+</map>

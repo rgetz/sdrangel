@@ -1,0 +1,6 @@
+<map id="GLScopeGUI::setTimeScaleDisplay" name="GLScopeGUI::setTimeScaleDisplay">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ad4affb46a75b8aa873d46402a215907f" title="GLScopeGUI::on_scope\l_sampleRateChanged" alt="" coords="249,5,413,47"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="468,42,641,69"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a4b3fc50d2d0846e28e2629545565bef9" title="GLScopeGUI::on_time\l_valueChanged" alt="" coords="253,123,408,164"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a2d72722756c536c6c7e698d4f884a34a" title="GLScopeGUI::on_traceLen\l_valueChanged" alt="" coords="241,188,420,229"/>
+</map>

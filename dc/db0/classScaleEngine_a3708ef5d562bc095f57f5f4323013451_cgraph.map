@@ -1,0 +1,14 @@
+<map id="ScaleEngine::getScaleWidth" name="ScaleEngine::getScaleWidth">
+<area shape="rect" id="node2" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="263,157,361,184"/>
+<area shape="rect" id="node3" href="$dc/db0/classScaleEngine.html#ad529319759b895b785eed93f7de9e874" title="ScaleEngine::reCalc" alt="" coords="241,208,383,235"/>
+<area shape="rect" id="node4" href="$dc/db0/classScaleEngine.html#a29b4048b3ec5189ffd73a7342c686e94" title="ScaleEngine::calcScaleFactor" alt="" coords="434,5,631,32"/>
+<area shape="rect" id="node5" href="$dc/db0/classScaleEngine.html#a579a9b6552d8445259dd2d08deec330f" title="ScaleEngine::calcMajorTick\lUnits" alt="" coords="694,117,878,158"/>
+<area shape="rect" id="node6" href="$dd/d58/fixed_8h.html#a05e80256399b9904a0a4c1bf63ce0155" title="floor" alt="" coords="937,124,984,151"/>
+<area shape="rect" id="node8" href="$dc/db0/classScaleEngine.html#a9f5581fa2a8be59cbee65f0a53b817f3" title="ScaleEngine::calcTickTextSize" alt="" coords="431,157,635,184"/>
+<area shape="rect" id="node9" href="$dc/db0/classScaleEngine.html#a4616be66c163e3ceb9de10fb1b488794" title="ScaleEngine::formatTick" alt="" coords="703,200,869,227"/>
+<area shape="rect" id="node10" href="$dc/db0/classScaleEngine.html#ac5a8051f0d3363d37c1c9e74d23bb229" title="ScaleEngine::forceTwoTicks" alt="" coords="438,259,627,285"/>
+<area shape="rect" id="node11" href="$dc/db0/classScaleEngine.html#ae6e8e41cc75c630ce9d67046dbe13b2f" title="ScaleEngine::getPosFromValue" alt="" coords="683,284,889,311"/>
+<area shape="rect" id="node12" href="$dc/db0/classScaleEngine.html#a14c91b98bcb295161e79d0a35e7373d5" title="ScaleEngine::majorTickValue" alt="" coords="436,360,629,387"/>
+<area shape="rect" id="node13" href="$dc/db0/classScaleEngine.html#a35303eba2ebe473fed0f5bedaa6253c6" title="ScaleEngine::minorTickValue" alt="" coords="436,411,629,437"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#a0b4002c0f3f7ae2655c40b9415f99a99" title="Fixed::floor" alt="" coords="1032,124,1119,151"/>
+</map>

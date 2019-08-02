@@ -1,0 +1,8 @@
+<map id="XTRXOutputGUI::displaySettings" name="XTRXOutputGUI::displaySettings">
+<area shape="rect" id="node2" href="$d8/d63/classXTRXOutputGUI.html#a330967a482b101f56156aa223e18e15f" title="XTRXOutputGUI::deserialize" alt="" coords="545,13,736,40"/>
+<area shape="rect" id="node3" href="$d8/d63/classXTRXOutputGUI.html#a65c356ea0a031215b0addc1177cf962f" title="XTRXOutputGUI::handleInput\lMessages" alt="" coords="543,124,739,166"/>
+<area shape="rect" id="node4" href="$d8/d63/classXTRXOutputGUI.html#a61bd3cea031e4194ad879c4e23f20347" title="XTRXOutputGUI::XTRXOutputGUI" alt="" coords="787,161,1015,188"/>
+<area shape="rect" id="node5" href="$d8/d63/classXTRXOutputGUI.html#a6bef06277cb9dbaa85094634eb78d151" title="XTRXOutputGUI::handleMessage" alt="" coords="273,140,493,166"/>
+<area shape="rect" id="node6" href="$d8/d63/classXTRXOutputGUI.html#aacb8def48e1fe5c647a03b41d687b90a" title="XTRXOutputGUI::resetToDefaults" alt="" coords="272,38,495,65"/>
+<area shape="rect" id="node7" href="$d8/d63/classXTRXOutputGUI.html#aa463559f8433534688e3a278f2801215" title="XTRXOutputGUI::setCenter\lFrequency" alt="" coords="290,242,477,283"/>
+</map>

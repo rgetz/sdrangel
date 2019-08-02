@@ -1,0 +1,45 @@
+<map id="LoRaDemod::setSpectrumSink" name="LoRaDemod::setSpectrumSink">
+<area shape="rect" id="node2" href="$d7/d10/classLoRaDemod.html#a4fbc1b2729aa081bbf1b9aa7e41454ff" title="LoRaDemod::feed" alt="" coords="289,212,417,239"/>
+<area shape="rect" id="node27" href="$d7/d10/classLoRaDemod.html#ab757e84dd9e36d27e90ff08b9d7ac3b5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="256,652,451,679"/>
+<area shape="rect" id="node43" href="$d7/d10/classLoRaDemod.html#a0f023871c315720f973125af883d3c7e" title="LoRaDemod::start" alt="" coords="289,703,418,729"/>
+<area shape="rect" id="node44" href="$d7/d10/classLoRaDemod.html#a3d42004ad6dc3b908cbc30e7793e1490" title="LoRaDemod::stop" alt="" coords="289,753,417,780"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#ad198a68ce3c4a9f529af53f662f45e36" title="cos" alt="" coords="604,313,647,340"/>
+<area shape="rect" id="node9" href="$d3/df3/classInterpolator.html#a2b6a9455606974de92e6bfe5f5eb1faf" title="Interpolator::decimate" alt="" coords="551,24,699,51"/>
+<area shape="rect" id="node12" href="$d7/d10/classLoRaDemod.html#a746d1f36f45b50df9e0b9cf928f8ac6f" title="LoRaDemod::detect" alt="" coords="556,95,695,121"/>
+<area shape="rect" id="node22" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="550,146,701,187"/>
+<area shape="rect" id="node23" href="$d9/d04/classNCO.html#a52e7dbb77514b7c86eca277af2781c0c" title="Return next complex sample. " alt="" coords="576,212,675,239"/>
+<area shape="rect" id="node25" href="$dd/d58/fixed_8h.html#a6fe9633e9b49ad637871e9ffa468bdc5" title="sin" alt="" coords="606,263,645,289"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#aee3b063e4154e3244766db7d43e46902" title="Fixed::cos" alt="" coords="855,313,937,340"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a86dcc54b1001f704bcf1c67481782b6e" title="Fixed::sin_cos" alt="" coords="1068,289,1175,316"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a31f005fda0e3b89b530e756087c3aa25" title="Fixed::perform_cordic\l_rotation" alt="" coords="1260,282,1408,323"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1473,260,1592,287"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1465,311,1600,353"/>
+<area shape="rect" id="node10" href="$dd/d58/fixed_8h.html#a05e80256399b9904a0a4c1bf63ce0155" title="floor" alt="" coords="873,5,919,32"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#a0b4002c0f3f7ae2655c40b9415f99a99" title="Fixed::floor" alt="" coords="1078,5,1165,32"/>
+<area shape="rect" id="node13" href="$dd/d0e/classsfft.html#aad56c6a14f911adeb965453f3a9c1f03" title="sfft::fetch" alt="" coords="857,157,935,184"/>
+<area shape="rect" id="node14" href="$dd/d0e/classsfft.html#a2b4ce8ff709e63e18117b86d4b0d494f" title="sfft::run" alt="" coords="863,56,929,83"/>
+<area shape="rect" id="node15" href="$d7/d10/classLoRaDemod.html#a36de56c2013c97d0c92bf809fbfb2f00" title="LoRaDemod::synch" alt="" coords="827,107,965,133"/>
+<area shape="rect" id="node16" href="$d7/d10/classLoRaDemod.html#ab0540c18f14f0cc4c8b691c837cfb252" title="LoRaDemod::dumpRaw" alt="" coords="1040,107,1203,133"/>
+<area shape="rect" id="node17" href="$d7/d10/classLoRaDemod.html#a9495b2c00add0f711d7af99c59954f40" title="LoRaDemod::hamming6" alt="" coords="1253,56,1415,83"/>
+<area shape="rect" id="node18" href="$d7/d10/classLoRaDemod.html#ac0ab0c757e48da317954cfd3b1bd770d" title="LoRaDemod::interleave6" alt="" coords="1251,107,1417,133"/>
+<area shape="rect" id="node19" href="$d7/d1e/namespaceleansdr.html#ae365c868e6ca372859b05b46e241d5f6" title="leansdr::max" alt="" coords="1285,157,1383,184"/>
+<area shape="rect" id="node20" href="$d7/d10/classLoRaDemod.html#a01918e51fd137fd09c4a0db3b5b935f0" title="LoRaDemod::prng6" alt="" coords="1267,208,1401,235"/>
+<area shape="rect" id="node21" href="$d7/d10/classLoRaDemod.html#addeae1bb2a2d6c00227b5788f819c7cf" title="LoRaDemod::toGray" alt="" coords="1263,5,1405,32"/>
+<area shape="rect" id="node24" href="$d9/d04/classNCO.html#ad12007ba0081535047a5966e4e20e49f" title="NCO::nextPhase" alt="" coords="835,212,957,239"/>
+<area shape="rect" id="node26" href="$dd/d7b/classFixed.html#a341f37b4ca17d3ffa330a82a0ae61d1a" title="Fixed::sin" alt="" coords="857,263,935,289"/>
+<area shape="rect" id="node28" href="$da/d0a/classDownChannelizer.html#a85f4fda813aeaa4fa5adbcb9a323d442" title="DownChannelizer::configure" alt="" coords="532,728,719,755"/>
+<area shape="rect" id="node30" href="$d3/df3/classInterpolator.html#a0202c4edcf49fe8b50ebeb20b88ad630" title="Interpolator::create" alt="" coords="560,779,691,805"/>
+<area shape="rect" id="node33" href="$dc/d97/classLoRaDemod_1_1MsgConfigureChannelizer.html#adc3f3a3a9439f84f2f899203b3411de3" title="LoRaDemod::MsgConfigureChannelizer\l::getCenterFrequency" alt="" coords="499,830,752,871"/>
+<area shape="rect" id="node34" href="$db/de0/classDownChannelizer_1_1MsgChannelizerNotification.html#a380f6c753c70c172083df0eca69e7d85" title="DownChannelizer::MsgChannelizer\lNotification::getFrequencyOffset" alt="" coords="512,895,739,937"/>
+<area shape="rect" id="node35" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="541,961,709,1002"/>
+<area shape="rect" id="node36" href="$db/de0/classDownChannelizer_1_1MsgChannelizerNotification.html#a9c133d09a5d6079fe4ebb9f6ee7f74df" title="DownChannelizer::MsgChannelizer\lNotification::getSampleRate" alt="" coords="512,365,739,406"/>
+<area shape="rect" id="node37" href="$dc/d97/classLoRaDemod_1_1MsgConfigureChannelizer.html#a4efe5d422f2affa44d94d28ca6697aa2" title="LoRaDemod::MsgConfigureChannelizer\l::getSampleRate" alt="" coords="499,430,752,471"/>
+<area shape="rect" id="node38" href="$d6/d1e/classLoRaDemod_1_1MsgConfigureLoRaDemod.html#aca29e11266a97fac359a0fa52c67ee2b" title="LoRaDemod::MsgConfigureLo\lRaDemod::getSettings" alt="" coords="526,495,725,537"/>
+<area shape="rect" id="node39" href="$d8/df9/classBasebandSampleSink.html#a853e6d818c16dd2ff7cacb804985a3f5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="550,561,701,602"/>
+<area shape="rect" id="node40" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="566,627,685,653"/>
+<area shape="rect" id="node42" href="$d9/d04/classNCO.html#a148dd2bd02b26128fecbdabdd12ff16f" title="NCO::setFreq" alt="" coords="573,677,677,704"/>
+<area shape="rect" id="node29" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="821,720,971,747"/>
+<area shape="rect" id="node31" href="$d3/df3/classInterpolator.html#a9e863174b768230123fa551a681705ef" title="Interpolator::createPolyphase\lLowPass" alt="" coords="800,771,992,813"/>
+<area shape="rect" id="node32" href="$d3/df3/classInterpolator.html#a4f2a03f6cd2383ba5e8b45a93c2404d3" title="Interpolator::free" alt="" coords="837,837,955,864"/>
+<area shape="rect" id="node41" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="811,627,981,653"/>
+</map>

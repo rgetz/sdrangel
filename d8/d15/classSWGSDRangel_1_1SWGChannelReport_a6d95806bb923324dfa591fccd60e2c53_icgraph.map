@@ -1,0 +1,5 @@
+<map id="SWGSDRangel::SWGChannelReport::getNfmDemodReport" name="SWGSDRangel::SWGChannelReport::getNfmDemodReport">
+<area shape="rect" id="node2" href="$df/ddf/classNFMDemod.html#ade4a1ebcdaa3d2b9451768b84a47a058" title="NFMDemod::webapiFormatChannel\lReport" alt="" coords="295,5,525,47"/>
+<area shape="rect" id="node3" href="$df/ddf/classNFMDemod.html#a1145ab4f0e9c1dfe98d1c55727669522" title="NFMDemod::webapiReportGet" alt="" coords="573,42,776,69"/>
+<area shape="rect" id="node4" href="$df/ddf/classNFMDemod.html#a47128f43314e6dcaa40e0e62abaa02ba" title="NFMDemod::getStreamCenter\lFrequency" alt="" coords="824,35,1024,76"/>
+</map>

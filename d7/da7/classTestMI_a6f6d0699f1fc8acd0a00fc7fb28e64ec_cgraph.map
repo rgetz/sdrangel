@@ -1,0 +1,11 @@
+<map id="TestMI::~TestMI" name="TestMI::~TestMI">
+<area shape="rect" id="node2" href="$d7/da7/classTestMI.html#a08b100f6ebf30c411aa96fb7d7e70e48" title="TestMI::networkManagerFinished" alt="" coords="173,61,389,87"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a7cd8a3c6305562f10ed45dcbc857685e" title="Removes it. " alt="" coords="175,111,387,138"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#afeb85917d0f5fe9cceb954a777149b15" title="DeviceAPI::removeLastSource\lStream" alt="" coords="180,163,383,204"/>
+<area shape="rect" id="node10" href="$d7/da7/classTestMI.html#af2974096778de5a815a3f28c52667371" title="TestMI::stop" alt="" coords="233,229,329,255"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#afd069f3540e2a7271e0964bc1ec59f92" title="Remove an ancillary sample sink. " alt="" coords="445,5,611,47"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a2bdce29c7989416b9dcc22a895121b87" title="Remove a sample sink. " alt="" coords="442,71,614,112"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#a7e3d2c474aac3413e41a5ada8ac73671" title="Add a spectrum vis baseband sample sink. " alt="" coords="449,136,607,177"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="667,111,845,138"/>
+<area shape="rect" id="node9" href="$df/d80/classDSPDeviceMIMOEngine.html#a46af6941039e21b340ce24b1f3f1cfcf" title="DSPDeviceMIMOEngine\l::removeLastSourceStream" alt="" coords="437,201,619,243"/>
+</map>

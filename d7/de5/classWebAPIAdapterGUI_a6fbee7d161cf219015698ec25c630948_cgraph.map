@@ -1,0 +1,10 @@
+<map id="WebAPIAdapterGUI::instanceLocationPut" name="WebAPIAdapterGUI::instanceLocationPut">
+<area shape="rect" id="node2" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#add11f5a49e62bdd83a347a3d9a6d6972" title="SWGSDRangel::SWGLocation\lInformation::getLatitude" alt="" coords="251,5,453,47"/>
+<area shape="rect" id="node3" href="$d5/df4/classMainSettings.html#a73aa1a431bdf0cd1f0388b2b58bba1bd" title="MainSettings::getLatitude" alt="" coords="267,71,437,98"/>
+<area shape="rect" id="node4" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#aae0eb0b9d9b4756d1698e363c621e0a3" title="SWGSDRangel::SWGLocation\lInformation::getLongitude" alt="" coords="251,123,453,164"/>
+<area shape="rect" id="node5" href="$d5/df4/classMainSettings.html#a008e4ce695226d8a9720fd36070b5a2b" title="MainSettings::getLongitude" alt="" coords="262,189,442,215"/>
+<area shape="rect" id="node6" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#aa20c2c5c5910ad9a200ae6fae3c77119" title="SWGSDRangel::SWGLocation\lInformation::setLatitude" alt="" coords="251,240,453,281"/>
+<area shape="rect" id="node7" href="$d5/df4/classMainSettings.html#a9c3862155d4189900490f8aef54f4f55" title="MainSettings::setLatitude" alt="" coords="267,306,437,333"/>
+<area shape="rect" id="node8" href="$df/dd2/classSWGSDRangel_1_1SWGLocationInformation.html#af53d4fcd62ad1d5ef5d412defed82755" title="SWGSDRangel::SWGLocation\lInformation::setLongitude" alt="" coords="251,357,453,399"/>
+<area shape="rect" id="node9" href="$d5/df4/classMainSettings.html#aa5c3704cb94a40e892345050ef875d1f" title="MainSettings::setLongitude" alt="" coords="262,423,442,450"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="LocalInput::webapiSettingsGet" name="LocalInput::webapiSettingsGet">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ade8accdfd026639287b166e788c6f54e" title="SWGSDRangel::SWGDeviceSettings\l::getLocalInputSettings" alt="" coords="544,5,787,47"/>
+<area shape="rect" id="node3" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#acf5c07db51d463e12e1bd29848cff204" title="SWGSDRangel::SWGLocalInput\lSettings::init" alt="" coords="267,100,482,141"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#aade4afbe0528bc78c3586b094771f6dc" title="SWGSDRangel::SWGDeviceSettings\l::setLocalInputSettings" alt="" coords="253,165,496,207"/>
+<area shape="rect" id="node5" href="$d8/d47/classLocalInput.html#a33aeeff4cf1042f8b0dee480f2846788" title="LocalInput::webapiFormat\lDeviceSettings" alt="" coords="289,267,461,308"/>
+<area shape="rect" id="node6" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#ad7d22b1a09ab1a3e528902731ad2bc64" title="SWGSDRangel::SWGLocalInput\lSettings::getFileRecordName" alt="" coords="558,71,773,112"/>
+<area shape="rect" id="node7" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a563fdc01face986bb59c48670ba67be5" title="SWGSDRangel::SWGLocalInput\lSettings::getReverseApiAddress" alt="" coords="558,136,773,177"/>
+<area shape="rect" id="node8" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a85aba3988afe08f26ead59c044cb893e" title="SWGSDRangel::SWGLocalInput\lSettings::setDcBlock" alt="" coords="558,201,773,243"/>
+<area shape="rect" id="node9" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#acb86c588176e054f2d050f4a62b81d65" title="SWGSDRangel::SWGLocalInput\lSettings::setFileRecordName" alt="" coords="558,267,773,308"/>
+<area shape="rect" id="node10" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a19d11ed43f0cd42a4f28938bfeb73d8c" title="SWGSDRangel::SWGLocalInput\lSettings::setIqCorrection" alt="" coords="558,332,773,373"/>
+<area shape="rect" id="node11" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#ab9e0cd7bcb06eaba1c6dff389f4e8d4d" title="SWGSDRangel::SWGLocalInput\lSettings::setReverseApiAddress" alt="" coords="558,397,773,439"/>
+<area shape="rect" id="node12" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a20327c4e9c019303d0e3e6239f57b697" title="SWGSDRangel::SWGLocalInput\lSettings::setReverseApiDeviceIndex" alt="" coords="547,463,784,504"/>
+<area shape="rect" id="node13" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#a9006482643192b49e6bce4206a222640" title="SWGSDRangel::SWGLocalInput\lSettings::setReverseApiPort" alt="" coords="558,528,773,569"/>
+<area shape="rect" id="node14" href="$d0/d6f/classSWGSDRangel_1_1SWGLocalInputSettings.html#ad58abc54269ac1171f1aa0f2c68e204a" title="SWGSDRangel::SWGLocalInput\lSettings::setUseReverseApi" alt="" coords="558,593,773,635"/>
+</map>

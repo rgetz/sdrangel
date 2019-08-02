@@ -1,0 +1,10 @@
+<map id="BladeRF2Input::MsgConfigureBladeRF2::getSettings" name="BladeRF2Input::MsgConfigureBladeRF2::getSettings">
+<area shape="rect" id="node2" href="$d8/d0b/classBladeRF2InputGui.html#a68143d0f2c26c5b993f2243ec0696dab" title="BladeRF2InputGui::handle\lMessage" alt="" coords="269,12,443,53"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#ae10a942a658970e5b49777acdbb83256" title="BladeRF2Input::handleMessage" alt="" coords="252,78,460,105"/>
+<area shape="rect" id="node3" href="$d8/d0b/classBladeRF2InputGui.html#aace8bf212761eb1c3e8dbe3a78194de6" title="BladeRF2InputGui::handle\lInputMessages" alt="" coords="521,9,696,51"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="768,5,963,47"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="508,78,709,105"/>
+<area shape="rect" id="node7" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="757,71,973,112"/>
+<area shape="rect" id="node8" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="766,136,965,177"/>
+<area shape="rect" id="node9" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="1021,173,1240,199"/>
+</map>

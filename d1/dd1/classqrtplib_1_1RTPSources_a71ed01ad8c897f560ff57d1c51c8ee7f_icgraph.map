@@ -1,0 +1,12 @@
+<map id="qrtplib::RTPSources::CheckCollision" name="qrtplib::RTPSources::CheckCollision">
+<area shape="rect" id="node2" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a715c40d1a3b9c9a42bd37c766e3ba5b9" title="qrtplib::RTPSources\l::GetRTCPSourceData" alt="" coords="193,201,351,243"/>
+<area shape="rect" id="node11" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a6600fd1c2b6b0a49651766f30ccdde2b" title="qrtplib::RTPSources\l::ProcessRTPPacket" alt="" coords="669,328,816,369"/>
+<area shape="rect" id="node3" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad9a4e8dc626effd7f296ff2afadb6fd2" title="qrtplib::RTPSources\l::ProcessRTCPSenderInfo" alt="" coords="403,5,581,47"/>
+<area shape="rect" id="node6" href="$d1/dd1/classqrtplib_1_1RTPSources.html#aedfa3d8ce9bb8cbad7cfc603ec3a6ee5" title="qrtplib::RTPSources\l::ProcessRTCPReportBlock" alt="" coords="399,71,585,112"/>
+<area shape="rect" id="node7" href="$d1/dd1/classqrtplib_1_1RTPSources.html#aecf109af349918f75b9adfe87f1fc8ce" title="qrtplib::RTPSources\l::ProcessSDESNormalItem" alt="" coords="401,136,583,177"/>
+<area shape="rect" id="node8" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a31599485e05606531554f10bc767a3de" title="qrtplib::RTPSources\l::ProcessSDESPrivateItem" alt="" coords="401,201,583,243"/>
+<area shape="rect" id="node9" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a1ed0a8b0d299fc30d2e6a196fba98ac0" title="qrtplib::RTPSources\l::ProcessBYE" alt="" coords="422,267,562,308"/>
+<area shape="rect" id="node10" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a743d3455c11c42df2e17da30d9a4cc5d" title="qrtplib::RTPSources\l::UpdateReceiveTime" alt="" coords="417,332,567,373"/>
+<area shape="rect" id="node4" href="$d1/dd1/classqrtplib_1_1RTPSources.html#af20131177c76386528a0f7e90685d376" title="qrtplib::RTPSources\l::ProcessRTCPCompoundPacket" alt="" coords="633,201,852,243"/>
+<area shape="rect" id="node5" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a61e3ca0645a30fadd38ab89dd4c26622" title="qrtplib::RTPSources\l::ProcessRawPacket" alt="" coords="900,296,1047,337"/>
+</map>

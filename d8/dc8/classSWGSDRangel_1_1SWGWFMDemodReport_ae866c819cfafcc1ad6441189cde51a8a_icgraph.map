@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGWFMDemodReport::init" name="SWGSDRangel::SWGWFMDemodReport::init">
+<area shape="rect" id="node2" href="$d8/dc8/classSWGSDRangel_1_1SWGWFMDemodReport.html#a827ea5c0c735c90efa8086679b622ad4" title="SWGSDRangel::SWGWFMDemod\lReport::SWGWFMDemodReport" alt="" coords="281,5,509,47"/>
+<area shape="rect" id="node3" href="$d3/dbd/classWFMDemod.html#a13374848fb89b221b24de39c5c76f892" title="WFMDemod::webapiReportGet" alt="" coords="293,71,498,98"/>
+<area shape="rect" id="node4" href="$d3/dbd/classWFMDemod.html#a1994e1b3ae7d6c59e0495b8b13e838f8" title="WFMDemod::getMagSqLevels" alt="" coords="557,46,759,73"/>
+<area shape="rect" id="node5" href="$dd/d7d/classWFMDemodGUI.html#aff70b43565ccadca53fa06c6693f29f7" title="WFMDemodGUI::tick" alt="" coords="849,38,999,65"/>
+<area shape="rect" id="node10" href="$d3/dbd/classWFMDemod.html#a14a70285749d8cd9d79fca330b0b40ed" title="WFMDemod::webapiFormatChannel\lReport" alt="" coords="807,89,1041,131"/>
+<area shape="rect" id="node6" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="1089,38,1316,65"/>
+<area shape="rect" id="node7" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1364,38,1528,65"/>
+<area shape="rect" id="node8" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1576,38,1799,65"/>
+<area shape="rect" id="node9" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="1847,38,1997,65"/>
+</map>

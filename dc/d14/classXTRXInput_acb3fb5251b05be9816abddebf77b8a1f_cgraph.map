@@ -1,0 +1,5 @@
+<map id="XTRXInput::setMessageQueueToGUI" name="XTRXInput::setMessageQueueToGUI">
+<area shape="rect" id="node2" href="$dc/d14/classXTRXInput.html#afa427c67035e0b4a2029fb86011c1beb" title="XTRXInput::getDeviceDescription" alt="" coords="257,5,477,32"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#a246b76975e1d4750d8838c4b9b24fbc7" title="Sample rate exposed by the source. " alt="" coords="275,56,460,83"/>
+<area shape="rect" id="node4" href="$dd/d06/classDeviceXTRX.html#a70e0e10dbb10bab023b89111aebdf283" title="DeviceXTRX::getActualInputRate" alt="" coords="525,56,744,83"/>
+</map>

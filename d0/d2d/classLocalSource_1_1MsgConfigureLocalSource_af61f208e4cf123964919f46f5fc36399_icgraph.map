@@ -1,0 +1,10 @@
+<map id="LocalSource::MsgConfigureLocalSource::getSettings" name="LocalSource::MsgConfigureLocalSource::getSettings">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a42860abe193784ee791bf826aff77c4a" title="LocalSourceGUI::handleMessage" alt="" coords="236,15,453,42"/>
+<area shape="rect" id="node8" href="$d9/d2e/classLocalSource.html#a1dd06048e447aec5b3a748f1f66186d4" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="248,67,441,94"/>
+<area shape="rect" id="node3" href="$d5/df2/classLocalSourceGUI.html#a85c16136d557f058b5687f1441e8582f" title="LocalSourceGUI::handleSource\lMessages" alt="" coords="501,5,707,47"/>
+<area shape="rect" id="node4" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="755,13,977,39"/>
+<area shape="rect" id="node5" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1025,13,1188,39"/>
+<area shape="rect" id="node6" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1236,5,1381,47"/>
+<area shape="rect" id="node7" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1429,5,1568,47"/>
+<area shape="rect" id="node9" href="$d9/d2e/classLocalSource.html#a7558a5e6f8e594bb21f1b9aa06993534" title="LocalSource::destroy" alt="" coords="531,71,677,98"/>
+</map>

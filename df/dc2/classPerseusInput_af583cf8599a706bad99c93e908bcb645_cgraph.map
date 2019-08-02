@@ -1,0 +1,10 @@
+<map id="PerseusInput::openDevice" name="PerseusInput::openDevice">
+<area shape="rect" id="node2" href="$df/dc2/classPerseusInput.html#ad37c0be0e40b5c7038a67906587a7e12" title="PerseusInput::closeDevice" alt="" coords="243,5,422,32"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#a067d3393f92545000623e007a166dd87" title="DeviceAPI::getSamplingDevice\lSerial" alt="" coords="229,57,436,98"/>
+<area shape="rect" id="node6" href="$d0/dfc/classDevicePerseus.html#a180824d42f690eb14dc242c2ef76e75e" title="DevicePerseus::getSequence\lFromSerial" alt="" coords="235,122,430,163"/>
+<area shape="rect" id="node7" href="$d0/dfc/classDevicePerseus.html#a5a1d4c924cbfb8d96a012d87f8fa45a4" title="DevicePerseus::instance" alt="" coords="249,188,417,215"/>
+<area shape="rect" id="node8" href="$d0/d92/classSampleSinkFifo.html#ad8704b13953f2e4719f331be04b777de" title="SampleSinkFifo::setSize" alt="" coords="249,239,416,265"/>
+<area shape="rect" id="node3" href="$df/dc2/classPerseusInput.html#a0ae87a87a528b31f98ccd15c005ec518" title="PerseusInput::stop" alt="" coords="497,5,629,32"/>
+<area shape="rect" id="node4" href="$d8/d70/classPerseusThread.html#a7835f751d0ed76efb372f35c1420b5f8" title="PerseusThread::stopWork" alt="" coords="691,5,865,32"/>
+<area shape="rect" id="node9" href="$d0/d92/classSampleSinkFifo.html#a319ce144cb26ae5ac488085b04478cf9" title="SampleSinkFifo::create" alt="" coords="484,239,643,265"/>
+</map>

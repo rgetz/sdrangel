@@ -1,0 +1,10 @@
+<map id="RemoteSourceSettings::serialize" name="RemoteSourceSettings::serialize">
+<area shape="rect" id="node2" href="$d2/d80/classRemoteSourceGUI.html#a3c706ee29ee982be0c885a6845398ea0" title="RemoteSourceGUI::serialize" alt="" coords="211,5,400,32"/>
+<area shape="rect" id="node3" href="$de/dd9/classRemoteSource.html#a13e689fae00c3e0a65d4cfb2204dc229" title="RemoteSource::serialize" alt="" coords="223,56,388,83"/>
+<area shape="rect" id="node5" href="$d5/d20/structRemoteSourceSettings.html#ab0bce55b30eb1725d83bb915ca7378c7" title="RemoteSourceSettings\l::setChannelMarker" alt="" coords="227,107,384,149"/>
+<area shape="rect" id="node4" href="$de/dd9/classRemoteSource.html#a023f9330a89a0fc29905fbd72f678d4b" title="RemoteSource::getStreamCenter\lFrequency" alt="" coords="466,49,682,90"/>
+<area shape="rect" id="node6" href="$d2/d80/classRemoteSourceGUI.html#a93d7f19c84f7472cb2d9962ba22db8aa" title="RemoteSourceGUI::RemoteSourceGUI" alt="" coords="448,115,700,141"/>
+<area shape="rect" id="node7" href="$d2/d80/classRemoteSourceGUI.html#a654c4350accb18001e43af22e5872bb6" title="RemoteSourceGUI::create" alt="" coords="748,115,925,141"/>
+<area shape="rect" id="node8" href="$da/d51/classRemoteSourcePlugin.html#a930c94c5b29cb474212c98c631dc196b" title="RemoteSourcePlugin\l::createTxChannelGUI" alt="" coords="973,107,1127,149"/>
+<area shape="rect" id="node9" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="1175,107,1320,149"/>
+</map>

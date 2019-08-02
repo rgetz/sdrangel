@@ -1,0 +1,14 @@
+<map id="XTRXInput::webapiReportGet" name="XTRXInput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a1545d370b1ebf7b20bca224d09f1ee22" title="SWGSDRangel::SWGDeviceReport\l::getXtrxInputReport" alt="" coords="532,5,767,47"/>
+<area shape="rect" id="node3" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#a67db0803af649776eefb98583f3a8f3d" title="SWGSDRangel::SWGXtrxInput\lReport::init" alt="" coords="263,79,470,120"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a55f0a64e3af6cc62bca69f5ee0fccb85" title="SWGSDRangel::SWGDeviceReport\l::setXtrxInputReport" alt="" coords="249,144,484,185"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#a68acd84134a7b063beca1e791a613a0f" title="XTRXInput::webapiFormatDevice\lReport" alt="" coords="257,224,476,265"/>
+<area shape="rect" id="node6" href="$d3/d51/classDeviceXTRXShared.html#a1610885620e3d93a43a33cfd39e64084" title="DeviceXTRXShared::get\l_board_temperature" alt="" coords="566,71,733,112"/>
+<area shape="rect" id="node7" href="$dd/d06/classDeviceXTRX.html#ac3826954dcdcd14386ab26226ae5df8b" title="DeviceXTRX::getDevice" alt="" coords="815,137,981,163"/>
+<area shape="rect" id="node8" href="$d3/d51/classDeviceXTRXShared.html#a959c633a601e6d029e6f1555f4847eff" title="DeviceXTRXShared::get\l_gps_status" alt="" coords="566,188,733,229"/>
+<area shape="rect" id="node9" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#a9e908b88d1d64bc08182fa007ce9810d" title="SWGSDRangel::SWGXtrxInput\lReport::setFifoFill" alt="" coords="546,253,753,295"/>
+<area shape="rect" id="node10" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#ab05809209f41923b87b050fa6ba96318" title="SWGSDRangel::SWGXtrxInput\lReport::setFifoSize" alt="" coords="546,319,753,360"/>
+<area shape="rect" id="node11" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#aed84e786ac82a34caabe6e8233ca1165" title="SWGSDRangel::SWGXtrxInput\lReport::setGpsLock" alt="" coords="546,384,753,425"/>
+<area shape="rect" id="node12" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#a370e0428266bfd73c26d5f6c7bea14db" title="SWGSDRangel::SWGXtrxInput\lReport::setSuccess" alt="" coords="546,449,753,491"/>
+<area shape="rect" id="node13" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#a891477b5803782e70b35c2e27d493895" title="SWGSDRangel::SWGXtrxInput\lReport::setTemperature" alt="" coords="546,515,753,556"/>
+</map>

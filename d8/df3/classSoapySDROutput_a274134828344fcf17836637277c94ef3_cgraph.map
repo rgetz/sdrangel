@@ -1,0 +1,8 @@
+<map id="SoapySDROutput::webapiRun" name="SoapySDROutput::webapiRun">
+<area shape="rect" id="node2" href="$d8/d02/classSoapySDROutput_1_1MsgStartStop.html#abf75d990f93470de165eecba7e258455" title="SoapySDROutput::MsgStart\lStop::create" alt="" coords="273,5,461,47"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#a811af8bc5060090941d30a73c9737888" title="DeviceAPI::getDeviceEngine\lStateStr" alt="" coords="271,71,463,112"/>
+<area shape="rect" id="node6" href="$d5/d21/classSWGSDRangel_1_1SWGDeviceState.html#a4ef298a8b0f695f47c578146f041e10c" title="SWGSDRangel::SWGDeviceState\l::getState" alt="" coords="253,136,480,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="292,202,441,229"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="528,39,700,80"/>
+<area shape="rect" id="node5" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="535,104,693,145"/>
+</map>

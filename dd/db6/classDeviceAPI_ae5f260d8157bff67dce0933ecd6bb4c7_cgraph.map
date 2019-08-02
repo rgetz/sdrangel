@@ -1,0 +1,5 @@
+<map id="DeviceAPI::state" name="DeviceAPI::state">
+<area shape="rect" id="node2" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="176,5,348,47"/>
+<area shape="rect" id="node3" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="183,71,341,112"/>
+<area shape="rect" id="node4" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="179,136,345,177"/>
+</map>

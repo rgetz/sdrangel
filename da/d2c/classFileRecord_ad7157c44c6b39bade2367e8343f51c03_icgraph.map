@@ -1,0 +1,8 @@
+<map id="FileRecord::writeHeader" name="FileRecord::writeHeader">
+<area shape="rect" id="node2" href="$da/d2c/classFileRecord.html#a0e9c2f6d69d816f78e4cde0719bb0844" title="FileRecord::feed" alt="" coords="239,5,358,32"/>
+<area shape="rect" id="node3" href="$d6/dc4/classFileSinkOutput.html#acaa23db7029aa577fe00ac022051b825" title="FileSinkOutput::openFile\lStream" alt="" coords="216,57,381,98"/>
+<area shape="rect" id="node4" href="$d6/dc4/classFileSinkOutput.html#a135b1885b719957aa681307c3e428dda" title="FileSinkOutput::start" alt="" coords="461,35,604,61"/>
+<area shape="rect" id="node6" href="$d6/dc4/classFileSinkOutput.html#aa6320a647e7c520c28da67ae28a17380" title="FileSinkOutput::handleMessage" alt="" coords="429,89,636,116"/>
+<area shape="rect" id="node5" href="$d6/d22/classFileSinkOutput_1_1MsgReportFileSinkStreamTiming.html#aeb9f2a8da8a97780bf7e12e813aaae82" title="FileSinkOutput::MsgReport\lFileSinkStreamTiming::MsgReport\lFileSinkStreamTiming" alt="" coords="684,16,907,72"/>
+<area shape="rect" id="node7" href="$d6/dc4/classFileSinkOutput.html#a24cd6a438e859027e39f5b509329a997" title="For when the sink sample rate is set externally. " alt="" coords="692,96,899,123"/>
+</map>

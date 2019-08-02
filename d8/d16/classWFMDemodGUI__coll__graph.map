@@ -1,0 +1,54 @@
+<map id="WFMDemodGUI" name="WFMDemodGUI">
+<area shape="rect" id="node2" href="$d3/d20/classRollupWidget.html" title="RollupWidget" alt="" coords="2076,193,2176,220"/>
+<area shape="rect" id="node3" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="835,308,967,335"/>
+<area shape="rect" id="node27" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1338,919,1423,945"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="42,773,155,800"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="818,813,985,840"/>
+<area shape="rect" id="node9" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="428,731,571,757"/>
+<area shape="rect" id="node10" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="424,1312,575,1339"/>
+<area shape="rect" id="node11" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="823,691,980,717"/>
+<area shape="rect" id="node12" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="433,605,566,632"/>
+<area shape="rect" id="node14" href="$d4/dcb/classGLSpectrumGUI.html" title="GLSpectrumGUI" alt="" coords="1321,481,1440,508"/>
+<area shape="rect" id="node16" href="$d6/dab/classGLSpectrum.html" title="GLSpectrum" alt="" coords="452,223,547,249"/>
+<area shape="rect" id="node29" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="815,965,987,992"/>
+<area shape="rect" id="node30" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="425,1261,573,1288"/>
+<area shape="rect" id="node5" href="$d3/d37/classDeviceUISet.html" title="DeviceUISet" alt="" coords="1747,693,1844,720"/>
+<area shape="rect" id="node7" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="441,867,557,893"/>
+<area shape="rect" id="node8" href="$d6/d28/classMessage.html" title="Message" alt="" coords="61,1049,136,1076"/>
+<area shape="rect" id="node21" href="$d1/dfc/classSpectrumVis.html" title="SpectrumVis" alt="" coords="853,481,950,508"/>
+<area shape="rect" id="node39" href="$d3/dbd/classWFMDemod.html" title="WFMDemod" alt="" coords="2078,1212,2174,1239"/>
+<area shape="rect" id="node41" href="$da/d0a/classDownChannelizer.html" title="DownChannelizer" alt="" coords="839,1335,964,1361"/>
+<area shape="rect" id="node43" href="$d4/dc7/classThreadedBasebandSampleSink.html" title="ThreadedBasebandSampleSink" alt="" coords="1279,1411,1483,1437"/>
+<area shape="rect" id="node44" href="$d7/d24/classThreadedBasebandSampleSinkFifo.html" title="ThreadedBasebandSampleSinkFifo" alt="" coords="788,1472,1015,1499"/>
+<area shape="rect" id="node13" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="34,317,163,344"/>
+<area shape="rect" id="node15" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="857,1523,946,1549"/>
+<area shape="rect" id="node50" href="$df/d8b/structWFMDemodSettings.html" title="WFMDemodSettings" alt="" coords="1723,1515,1867,1541"/>
+<area shape="rect" id="node53" href="$de/d03/classChannelMarker.html" title="ChannelMarker" alt="" coords="1530,1616,1641,1643"/>
+<area shape="rect" id="node17" href="$de/d86/classGLShaderSimple.html" title="GLShaderSimple" alt="" coords="39,104,159,131"/>
+<area shape="rect" id="node18" href="$dc/db0/classScaleEngine.html" title="ScaleEngine" alt="" coords="51,179,146,205"/>
+<area shape="rect" id="node19" href="$de/dd6/classIncrementalArray.html" title="IncrementalArray\&lt; GLfloat \&gt;" alt="" coords="5,267,192,293"/>
+<area shape="rect" id="node20" href="$d1/d17/classGLShaderTextured.html" title="GLShaderTextured" alt="" coords="33,53,164,80"/>
+<area shape="rect" id="node22" href="$de/d10/classFFTEngine.html" title="FFTEngine" alt="" coords="456,504,543,531"/>
+<area shape="rect" id="node23" href="$d3/d06/classMax2D.html" title="Max2D\&lt; double \&gt;" alt="" coords="436,555,563,581"/>
+<area shape="rect" id="node24" href="$d3/d9f/classFixedAverage2D.html" title="FixedAverage2D\&lt; double \&gt;" alt="" coords="409,352,590,379"/>
+<area shape="rect" id="node25" href="$df/d5a/classFFTWindow.html" title="FFTWindow" alt="" coords="453,403,546,429"/>
+<area shape="rect" id="node26" href="$df/d7f/classMovingAverage2D.html" title="MovingAverage2D\&lt; double \&gt;" alt="" coords="404,453,595,480"/>
+<area shape="rect" id="node40" href="$d7/d02/classChannelAPI.html" title="ChannelAPI" alt="" coords="1749,1183,1841,1209"/>
+<area shape="rect" id="node28" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="847,1016,956,1043"/>
+<area shape="rect" id="node31" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="41,1425,156,1452"/>
+<area shape="rect" id="node32" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="419,1017,579,1058"/>
+<area shape="rect" id="node33" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="429,1097,569,1138"/>
+<area shape="rect" id="node34" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="424,1195,575,1237"/>
+<area shape="rect" id="node35" href="$db/d40/classChannelWindow.html" title="ChannelWindow" alt="" coords="1322,787,1439,813"/>
+<area shape="rect" id="node36" href="$da/d73/classSamplingDeviceControl.html" title="SamplingDeviceControl" alt="" coords="1301,203,1460,229"/>
+<area shape="rect" id="node37" href="$de/d59/classPluginManager.html" title="PluginManager" alt="" coords="847,112,955,139"/>
+<area shape="rect" id="node38" href="$d6/d95/classPluginAPI.html" title="PluginAPI" alt="" coords="1341,112,1421,139"/>
+<area shape="rect" id="node42" href="$df/dc9/structWFMDemod_1_1MagSqLevelsStore.html" title="WFMDemod::MagSqLevelsStore" alt="" coords="1688,1031,1903,1057"/>
+<area shape="rect" id="node45" href="$dc/dd8/classAudioFifo.html" title="AudioFifo" alt="" coords="1757,1132,1834,1159"/>
+<area shape="rect" id="node46" href="$d9/d04/classNCO.html" title="NCO" alt="" coords="1769,1284,1821,1311"/>
+<area shape="rect" id="node47" href="$d0/de5/classfftfilt.html" title="fftfilt" alt="" coords="1771,1565,1819,1592"/>
+<area shape="rect" id="node48" href="$d9/daf/classg__fft.html" title="g_fft\&lt; float \&gt;" alt="" coords="1332,1565,1429,1592"/>
+<area shape="rect" id="node49" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l Real, double, 16 \&gt;" alt="" coords="1725,1449,1865,1490"/>
+<area shape="rect" id="node51" href="$d3/df3/classInterpolator.html" title="Interpolator" alt="" coords="1752,980,1839,1007"/>
+<area shape="rect" id="node52" href="$db/d1b/classPhaseDiscriminators.html" title="PhaseDiscriminators" alt="" coords="1724,1081,1867,1108"/>
+</map>

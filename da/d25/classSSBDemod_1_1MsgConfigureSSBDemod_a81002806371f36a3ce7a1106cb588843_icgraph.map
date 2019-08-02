@@ -1,0 +1,36 @@
+<map id="SSBDemod::MsgConfigureSSBDemod::create" name="SSBDemod::MsgConfigureSSBDemod::create">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a310b39e2d6384f693ab208972fe6e4b5" title="SSBDemodGUI::applySettings" alt="" coords="303,475,505,501"/>
+<area shape="rect" id="node29" href="$d6/d4d/classSSBDemod.html#a0a46178a5bea6e6b4a49d5a4dff307df" title="SSBDemod::deserialize" alt="" coords="323,1227,485,1253"/>
+<area shape="rect" id="node31" href="$d6/d4d/classSSBDemod.html#a07c229184cf468bc84dd7eb42eeaff24" title="SSBDemod::webapiSettings\lPutPatch" alt="" coords="310,1278,498,1319"/>
+<area shape="rect" id="node3" href="$d4/d5b/classSSBDemodGUI.html#af69b1a2e3e5a887777d8c48340d92c93" title="SSBDemodGUI::setCenterFrequency" alt="" coords="553,5,795,32"/>
+<area shape="rect" id="node4" href="$d4/d5b/classSSBDemodGUI.html#afa59db56e2c561cbb443f54003ade8b5" title="SSBDemodGUI::channelMarker\lChangedByCursor" alt="" coords="1120,394,1328,435"/>
+<area shape="rect" id="node9" href="$d4/d5b/classSSBDemodGUI.html#a4d5bdcd0e1f7c6e925f95a4541705753" title="SSBDemodGUI::on_audioBinaural\l_toggled" alt="" coords="563,107,785,149"/>
+<area shape="rect" id="node10" href="$d4/d5b/classSSBDemodGUI.html#a50fcc1b47470c44b0f7b69ac00f484a3" title="SSBDemodGUI::on_audioFlip\lChannels_toggled" alt="" coords="576,173,772,214"/>
+<area shape="rect" id="node11" href="$d4/d5b/classSSBDemodGUI.html#adeed6a7a08b3f321897dd536bd7604e1" title="SSBDemodGUI::on_deltaFrequency\l_changed" alt="" coords="557,238,791,279"/>
+<area shape="rect" id="node12" href="$d4/d5b/classSSBDemodGUI.html#a22c13cb8bff4047f2bef495d5fcfe525" title="SSBDemodGUI::on_volume\l_valueChanged" alt="" coords="581,303,767,345"/>
+<area shape="rect" id="node13" href="$d4/d5b/classSSBDemodGUI.html#a2f86e2b0ad0393fc14a581dcdaae898e" title="SSBDemodGUI::on_agc\l_toggled" alt="" coords="591,369,757,410"/>
+<area shape="rect" id="node14" href="$d4/d5b/classSSBDemodGUI.html#a3369832f8197c51258f319e2e775f017" title="SSBDemodGUI::on_agcClamping\l_toggled" alt="" coords="564,434,784,475"/>
+<area shape="rect" id="node15" href="$d4/d5b/classSSBDemodGUI.html#a6a8994547938d5be1ea2aee3c490a635" title="SSBDemodGUI::on_agcTimeLog2\l_valueChanged" alt="" coords="563,499,785,541"/>
+<area shape="rect" id="node16" href="$d4/d5b/classSSBDemodGUI.html#a89191d430d4cb883604269151c7bc279" title="SSBDemodGUI::on_agcPower\lThreshold_valueChanged" alt="" coords="573,565,775,606"/>
+<area shape="rect" id="node17" href="$d4/d5b/classSSBDemodGUI.html#a8ceb51f98a5cef6f0844f5957afa1ef1" title="SSBDemodGUI::on_agcThreshold\lGate_valueChanged" alt="" coords="563,630,785,671"/>
+<area shape="rect" id="node18" href="$d4/d5b/classSSBDemodGUI.html#a205b908f51e8fde90533127c01ca71d5" title="SSBDemodGUI::on_audioMute\l_toggled" alt="" coords="572,695,776,737"/>
+<area shape="rect" id="node19" href="$d4/d5b/classSSBDemodGUI.html#a4e209e1d3ca53116c4bf7b808cb0be8b" title="SSBDemodGUI::onMenuDialog\lCalled" alt="" coords="1121,695,1327,737"/>
+<area shape="rect" id="node20" href="$d4/d5b/classSSBDemodGUI.html#a5064df3fb941e78adf8f4ce57049e249" title="SSBDemodGUI::applyBandwidths" alt="" coords="563,892,785,919"/>
+<area shape="rect" id="node28" href="$d4/d5b/classSSBDemodGUI.html#a5cec81e3bee62e0a04784f2e0da2a5fa" title="SSBDemodGUI::audioSelect" alt="" coords="1129,964,1319,991"/>
+<area shape="rect" id="node5" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1376,791,1592,817"/>
+<area shape="rect" id="node6" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1640,791,1799,817"/>
+<area shape="rect" id="node7" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1847,791,2065,817"/>
+<area shape="rect" id="node8" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="2113,791,2260,817"/>
+<area shape="rect" id="node21" href="$d4/d5b/classSSBDemodGUI.html#a3541ba1eb532f9302a6e58156ea4f322" title="SSBDemodGUI::deserialize" alt="" coords="865,812,1050,839"/>
+<area shape="rect" id="node22" href="$d4/d5b/classSSBDemodGUI.html#aa23b2a82414ac36f9a48433cf0dd1c57" title="SSBDemodGUI::handleMessage" alt="" coords="850,863,1065,889"/>
+<area shape="rect" id="node24" href="$d4/d5b/classSSBDemodGUI.html#a4751b83df89ff1d4a05129a0a6c52d7c" title="SSBDemodGUI::on_dsb\l_toggled" alt="" coords="875,914,1040,955"/>
+<area shape="rect" id="node25" href="$d4/d5b/classSSBDemodGUI.html#a7fb45a6f7a9ca749b0c8598305d21e30" title="SSBDemodGUI::on_BW\l_valueChanged" alt="" coords="874,979,1041,1021"/>
+<area shape="rect" id="node26" href="$d4/d5b/classSSBDemodGUI.html#a1394dabc863ba66fdf5d7763369c6a29" title="SSBDemodGUI::on_lowCut\l_valueChanged" alt="" coords="865,1045,1050,1086"/>
+<area shape="rect" id="node27" href="$d4/d5b/classSSBDemodGUI.html#a916fd86d7cc406c3b082788b35648c7e" title="SSBDemodGUI::on_spanLog2\l_valueChanged" alt="" coords="857,1110,1057,1151"/>
+<area shape="rect" id="node23" href="$d4/d5b/classSSBDemodGUI.html#a2fd37fa65519ade78b5ee784e667be25" title="SSBDemodGUI::handleInput\lMessages" alt="" coords="1129,834,1319,875"/>
+<area shape="rect" id="node30" href="$d6/d4d/classSSBDemod.html#abd95122ab2c3906468d9428ea8a95d71" title="Applies to a default stream. " alt="" coords="565,1227,783,1253"/>
+<area shape="rect" id="node32" href="$d6/d4d/classSSBDemod.html#a51937c6674c7afaa3b42b2d4c8224db6" title="SSBDemod::getMagSqLevels" alt="" coords="576,1285,772,1312"/>
+<area shape="rect" id="node33" href="$d4/d5b/classSSBDemodGUI.html#af6018e6cec8ee30801efd2e340b21172" title="SSBDemodGUI::tick" alt="" coords="1152,1141,1296,1168"/>
+<area shape="rect" id="node34" href="$d6/d4d/classSSBDemod.html#a78f66bc894cf0d1a70cc940fba092f59" title="SSBDemod::webapiFormatChannel\lReport" alt="" coords="843,1278,1072,1319"/>
+<area shape="rect" id="node35" href="$d6/d4d/classSSBDemod.html#a6429f3f57a8b4cdc9d82bcc065695f25" title="SSBDemod::webapiReportGet" alt="" coords="1124,1315,1324,1341"/>
+</map>

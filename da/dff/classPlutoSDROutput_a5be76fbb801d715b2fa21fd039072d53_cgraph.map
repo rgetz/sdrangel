@@ -1,0 +1,11 @@
+<map id="PlutoSDROutput::serialize" name="PlutoSDROutput::serialize">
+<area shape="rect" id="node2" href="$da/dfe/structPlutoSDROutputSettings.html#a5e5e10e759ae9b5b81a1caf73e2c79b4" title="PlutoSDROutputSettings\l::serialize" alt="" coords="229,150,397,191"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="451,5,626,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="451,56,627,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="449,107,628,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a6d75bb06e77f6fd4e2bfc4df2edf4b4f" title="SimpleSerializer::writeU64" alt="" coords="451,157,627,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="451,208,626,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="445,259,632,285"/>
+<area shape="rect" id="node10" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="465,309,613,336"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="680,132,855,159"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="NFMDemod::webapiFormatChannelReport" name="NFMDemod::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="342,5,467,32"/>
+<area shape="rect" id="node3" href="$df/ddf/classNFMDemod.html#a35464af643fe071eca08fe4d86c6a0e9" title="NFMDemod::getMagSqLevels" alt="" coords="305,56,504,83"/>
+<area shape="rect" id="node4" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a6d95806bb923324dfa591fccd60e2c53" title="SWGSDRangel::SWGChannelReport\l::getNfmDemodReport" alt="" coords="284,107,525,149"/>
+<area shape="rect" id="node5" href="$d3/d97/classCTCSSDetector.html#a6dddbfde275df3b792bfcd48a914c4ee" title="CTCSSDetector::getToneSet" alt="" coords="308,173,501,200"/>
+<area shape="rect" id="node6" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#af7d9698d06ce447928e5916e6de1bcd2" title="SWGSDRangel::SWGNFMDemod\lReport::setAudioSampleRate" alt="" coords="292,225,517,266"/>
+<area shape="rect" id="node7" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#aa8961f8bb7112ca045ad2cbea46d58ed" title="SWGSDRangel::SWGNFMDemod\lReport::setChannelPowerDb" alt="" coords="292,290,517,331"/>
+<area shape="rect" id="node8" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a868d17a16af4c81edb68bfd803674988" title="SWGSDRangel::SWGNFMDemod\lReport::setChannelSampleRate" alt="" coords="292,355,517,397"/>
+<area shape="rect" id="node9" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a66fd5ade10764b79b9d35e2a16603a62" title="SWGSDRangel::SWGNFMDemod\lReport::setCtcssTone" alt="" coords="292,421,517,462"/>
+<area shape="rect" id="node10" href="$d3/d32/classSWGSDRangel_1_1SWGNFMDemodReport.html#a1e0f81eabb57e340c0a38dac5213cd58" title="SWGSDRangel::SWGNFMDemod\lReport::setSquelch" alt="" coords="292,486,517,527"/>
+</map>

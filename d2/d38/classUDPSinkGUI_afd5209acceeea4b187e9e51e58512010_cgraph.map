@@ -1,0 +1,8 @@
+<map id="UDPSinkGUI::channelMarkerChangedByCursor" name="UDPSinkGUI::channelMarkerChangedByCursor">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a6d3cadc63d500cd1c3469f22f3327aff" title="UDPSinkGUI::applySettings\lImmediate" alt="" coords="248,71,436,112"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="255,136,429,177"/>
+<area shape="rect" id="node3" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a5b1883b310e064b49f26e8a602cf8852" title="UDPSink::MsgConfigureUDPSource\l::create" alt="" coords="484,5,720,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="518,71,686,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="527,137,677,163"/>
+<area shape="rect" id="node4" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a4b1c6fb7455d198fe8b59c9fa067e4de" title="UDPSink::MsgConfigureUDPSource\l::MsgConfigureUDPSource" alt="" coords="768,5,1004,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DSPConfigureAudio::getAudioType" name="DSPConfigureAudio::getAudioType">
+<area shape="rect" id="node2" href="$db/d93/classAMMod.html#acd6c9fea90cb3a88360247196a94fe63" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="204,5,371,32"/>
+<area shape="rect" id="node4" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="200,56,375,83"/>
+<area shape="rect" id="node6" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="201,107,374,133"/>
+<area shape="rect" id="node3" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="477,5,595,32"/>
+<area shape="rect" id="node5" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="473,56,599,83"/>
+<area shape="rect" id="node7" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="423,107,649,133"/>
+<area shape="rect" id="node8" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="697,107,880,133"/>
+<area shape="rect" id="node9" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="928,107,1071,133"/>
+<area shape="rect" id="node10" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1119,107,1360,133"/>
+<area shape="rect" id="node11" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1408,107,1579,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AudioDeviceManager::unsetInputDeviceInfo" name="AudioDeviceManager::unsetInputDeviceInfo">
+<area shape="rect" id="node2" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="233,5,381,32"/>
+<area shape="rect" id="node3" href="$d7/de5/classWebAPIAdapterGUI.html#a1f004e240d68fd4dd3fa11971e0a7567" title="WebAPIAdapterGUI::instance\lAudioInputDelete" alt="" coords="208,57,405,98"/>
+<area shape="rect" id="node4" href="$dc/dd8/classWebAPIAdapterSrv.html#aaa8ba2887ec328415ceffbfbccd99fcb" title="WebAPIAdapterSrv::instance\lAudioInputDelete" alt="" coords="210,122,403,163"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#a6d7f3ad7c4fde5ae863c502a70685367" title="WebAPIAdapterGUI::instance\lAudioOutputDelete" alt="" coords="208,187,405,229"/>
+<area shape="rect" id="node6" href="$dc/dd8/classWebAPIAdapterSrv.html#abf6215b07a7da57663ffa21737a6b877" title="WebAPIAdapterSrv::instance\lAudioOutputDelete" alt="" coords="210,253,403,294"/>
+</map>

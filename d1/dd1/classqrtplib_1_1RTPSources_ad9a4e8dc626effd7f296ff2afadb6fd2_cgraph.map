@@ -1,0 +1,19 @@
+<map id="qrtplib::RTPSources::ProcessRTCPSenderInfo" name="qrtplib::RTPSources::ProcessRTCPSenderInfo">
+<area shape="rect" id="node2" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a715c40d1a3b9c9a42bd37c766e3ba5b9" title="qrtplib::RTPSources\l::GetRTCPSourceData" alt="" coords="241,460,399,501"/>
+<area shape="rect" id="node16" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a585dfca437bbb9c5d040ea070ee97f40" title="qrtplib::RTPSources\l::OnNewSource" alt="" coords="250,525,390,567"/>
+<area shape="rect" id="node17" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a1bdfd3f7aabb2b2c017076ffba6a72cc" title="qrtplib::RTPSources\l::OnRTCPSenderReport" alt="" coords="238,591,402,632"/>
+<area shape="rect" id="node18" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a0f946157e797b1a01f6ff744592bacce" title="qrtplib::RTPInternalSource\lData::ProcessSenderInfo" alt="" coords="232,656,408,697"/>
+<area shape="rect" id="node3" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a71ed01ad8c897f560ff57d1c51c8ee7f" title="qrtplib::RTPSources\l::CheckCollision" alt="" coords="479,300,619,341"/>
+<area shape="rect" id="node11" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a6dc66da4aba28325f94e96694cb68949" title="qrtplib::RTPInternalSource\lData::SetRTCPDataAddress" alt="" coords="691,528,881,569"/>
+<area shape="rect" id="node15" href="$d1/dd1/classqrtplib_1_1RTPSources.html#ad065614cbc7cbffae087f8cc6225b8b0" title="qrtplib::RTPSources\l::ObtainSourceDataInstance" alt="" coords="456,519,643,560"/>
+<area shape="rect" id="node4" href="$da/d75/classqrtplib_1_1RTPSourceData.html#aed0ae66170641afdb605f39b6f7a4294" title="qrtplib::RTPSourceData\l::GetRTCPDataAddress" alt="" coords="704,5,868,47"/>
+<area shape="rect" id="node5" href="$da/d75/classqrtplib_1_1RTPSourceData.html#aa17a49977ee7c29397cf8a828610d9f8" title="qrtplib::RTPSourceData\l::GetRTPDataAddress" alt="" coords="705,71,867,112"/>
+<area shape="rect" id="node6" href="$db/dc5/classqrtplib_1_1RTPAddress.html#acd9cbafe930dbd85b278c4695283ff14" title="qrtplib::RTPAddress\l::IsFromSameHost" alt="" coords="716,136,856,177"/>
+<area shape="rect" id="node7" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a85be1a0100704ad88b86807cb28f44d8" title="qrtplib::RTPSourceData\l::IsRTCPAddressSet" alt="" coords="705,201,867,243"/>
+<area shape="rect" id="node8" href="$da/d75/classqrtplib_1_1RTPSourceData.html#a1f2cdd60d50170cec7e02fba4afdc022" title="qrtplib::RTPSourceData\l::IsRTPAddressSet" alt="" coords="705,267,867,308"/>
+<area shape="rect" id="node9" href="$db/dc5/classqrtplib_1_1RTPAddress.html#a502dbb6fbf697937aea7f478fcc73014" title="qrtplib::RTPAddress\l::IsSameAddress" alt="" coords="716,332,856,373"/>
+<area shape="rect" id="node10" href="$d1/dd1/classqrtplib_1_1RTPSources.html#a733fc81989abfc47cfaf75faa9af7a4b" title="qrtplib::RTPSources\l::OnSSRCCollision" alt="" coords="716,397,856,439"/>
+<area shape="rect" id="node14" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a1340754c0e0f6bdfd215c52683e007e8" title="qrtplib::RTPInternalSource\lData::SetRTPDataAddress" alt="" coords="695,463,877,504"/>
+<area shape="rect" id="node12" href="$db/dc5/classqrtplib_1_1RTPAddress.html#a27f5cac943a822eaee6813d6c11db4bf" title="qrtplib::RTPAddress\l::CreateCopy" alt="" coords="929,496,1069,537"/>
+<area shape="rect" id="node13" href="$db/dc5/classqrtplib_1_1RTPAddress.html#ad61fff9a90ac1cdbad9e534d74564d47" title="qrtplib::RTPAddress\l::RTPAddress" alt="" coords="1117,496,1257,537"/>
+</map>

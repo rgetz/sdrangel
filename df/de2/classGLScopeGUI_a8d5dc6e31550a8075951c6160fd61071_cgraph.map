@@ -1,0 +1,9 @@
+<map id="GLScopeGUI::on_trigNeg_toggled" name="GLScopeGUI::on_trigNeg_toggled">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ac670b9af56423d5e184b4d2d037829f3" title="GLScopeGUI::changeCurrent\lTrigger" alt="" coords="224,129,417,171"/>
+<area shape="rect" id="node3" href="$d7/dcf/classScopeVis.html#a6285301ab974c439059f911ef72fd50a" title="ScopeVis::changeTrigger" alt="" coords="476,107,644,134"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#ade0f66bb6ccbd06981677aa8eae3ca3f" title="GLScopeGUI::fillTriggerData" alt="" coords="465,162,655,189"/>
+<area shape="rect" id="node4" href="$d5/d6e/classScopeVis_1_1MsgScopeVisNGChangeTrigger.html#aea1f38fc9621c1758ae7a41c892bb7f8" title="ScopeVis::MsgScopeVisNGChange\lTrigger::create" alt="" coords="703,5,935,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="735,71,903,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="744,137,893,163"/>
+<area shape="rect" id="node8" href="$d8/d4d/structScopeVis_1_1TriggerData.html#ad4c0418b450c7d5e11501f201c6a9e15" title="ScopeVis::TriggerData\l::setColor" alt="" coords="741,188,896,229"/>
+</map>

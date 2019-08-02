@@ -1,0 +1,6 @@
+<map id="SSBModGUI::on_showFileDialog_clicked" name="SSBModGUI::on_showFileDialog_clicked">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a9c8ab9e284e8620a551c133682710b89" title="SSBModGUI::configureFileName" alt="" coords="269,78,484,105"/>
+<area shape="rect" id="node3" href="$dc/d8b/classSSBMod_1_1MsgConfigureFileSourceName.html#a620e83cc6b76b3e9ccbbf9bc18576cd8" title="SSBMod::MsgConfigureFile\lSourceName::create" alt="" coords="532,5,716,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="540,71,708,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="549,137,699,163"/>
+</map>

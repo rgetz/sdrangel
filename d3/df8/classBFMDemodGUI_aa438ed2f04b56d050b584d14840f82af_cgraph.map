@@ -1,0 +1,9 @@
+<map id="BFMDemodGUI::audioSelect" name="BFMDemodGUI::audioSelect">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a7aa16d14aa5691fa74c9e5dd3b01e041" title="BFMDemodGUI::applySettings" alt="" coords="245,143,448,170"/>
+<area shape="rect" id="node8" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="273,194,420,221"/>
+<area shape="rect" id="node3" href="$d4/d90/classBFMDemod_1_1MsgConfigureBFMDemod.html#a924cfd2f7bfab112b736d006027f28b6" title="BFMDemod::MsgConfigureBFMDemod\l::create" alt="" coords="496,5,747,47"/>
+<area shape="rect" id="node4" href="$da/d6f/classBFMDemod_1_1MsgConfigureChannelizer.html#ad8d9748d41e90bdf86942973de409528" title="BFMDemod::MsgConfigureChannelizer\l::create" alt="" coords="496,71,747,112"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="537,136,705,177"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="547,202,696,229"/>
+<area shape="rect" id="node7" href="$d4/dd5/classBFMDemod.html#abe908fd74e2bf1f2d571786dd5edadfa" title="BFMDemod::requiredBW" alt="" coords="537,253,705,279"/>
+</map>

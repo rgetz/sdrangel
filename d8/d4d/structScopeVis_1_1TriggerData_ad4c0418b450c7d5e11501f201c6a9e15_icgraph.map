@@ -1,0 +1,18 @@
+<map id="ScopeVis::TriggerData::setColor" name="ScopeVis::TriggerData::setColor">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ade0f66bb6ccbd06981677aa8eae3ca3f" title="GLScopeGUI::fillTriggerData" alt="" coords="208,427,397,454"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#ac670b9af56423d5e184b4d2d037829f3" title="GLScopeGUI::changeCurrent\lTrigger" alt="" coords="445,332,639,373"/>
+<area shape="rect" id="node15" href="$df/de2/classGLScopeGUI.html#ab9c114e79ee924430c1235ef9d9be216" title="GLScopeGUI::deserialize" alt="" coords="457,398,627,425"/>
+<area shape="rect" id="node16" href="$df/de2/classGLScopeGUI.html#aeff6a714c46eb1190dcc1d19cbc9c2fb" title="GLScopeGUI::on_trigAdd\l_clicked" alt="" coords="457,449,627,491"/>
+<area shape="rect" id="node17" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="455,515,629,542"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#aa3eb24bd3a255a1bff2be9eff410016c" title="GLScopeGUI::on_trigBoth\l_toggled" alt="" coords="694,5,869,47"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a419e8fe34da390f5c7fa9e48b2d831e3" title="GLScopeGUI::on_trigColor\l_clicked" alt="" coords="692,71,871,112"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#a4565cd8643baabaa08902db093cd9bd5" title="GLScopeGUI::on_trigCount\l_valueChanged" alt="" coords="690,136,873,177"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#aff91a493e4c18882824969fe8a6d6736" title="GLScopeGUI::on_trigDelay\lCoarse_valueChanged" alt="" coords="691,201,872,243"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#ae9cf2631f3daa73f9802df0c786e46dd" title="GLScopeGUI::on_trigDelay\lFine_valueChanged" alt="" coords="691,267,872,308"/>
+<area shape="rect" id="node9" href="$df/de2/classGLScopeGUI.html#a8a2b58b3b00a69a192da4a5be8177a58" title="GLScopeGUI::on_trigHoldoff\l_valueChanged" alt="" coords="687,332,876,373"/>
+<area shape="rect" id="node10" href="$df/de2/classGLScopeGUI.html#ab73e767886e52ad64010d6c4c81deba9" title="GLScopeGUI::on_trigLevel\lCoarse_valueChanged" alt="" coords="692,397,871,439"/>
+<area shape="rect" id="node11" href="$df/de2/classGLScopeGUI.html#a13cff871b07679ab1bde63bbf2b88715" title="GLScopeGUI::on_trigLevel\lFine_valueChanged" alt="" coords="692,463,871,504"/>
+<area shape="rect" id="node12" href="$df/de2/classGLScopeGUI.html#a2512c063e625a07afc1e30fd6220ab82" title="GLScopeGUI::on_trigMode\l_currentIndexChanged" alt="" coords="692,528,871,569"/>
+<area shape="rect" id="node13" href="$df/de2/classGLScopeGUI.html#a8d5dc6e31550a8075951c6160fd61071" title="GLScopeGUI::on_trigNeg\l_toggled" alt="" coords="696,593,867,635"/>
+<area shape="rect" id="node14" href="$df/de2/classGLScopeGUI.html#abfb879fa36752e393944a9083e1a13ed" title="GLScopeGUI::on_trigPos\l_toggled" alt="" coords="696,659,867,700"/>
+</map>

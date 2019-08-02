@@ -1,0 +1,12 @@
+<map id="BladeRF2OutputGui::on_transverter_clicked" name="BladeRF2OutputGui::on_transverter_clicked">
+<area shape="rect" id="node2" href="$dc/d19/classBladeRF2OutputGui.html#a928d2e90c662ac317e2eeaaf99a5beff" title="BladeRF2OutputGui::\lsendSettings" alt="" coords="224,5,371,47"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#a2c37d615f34815b79b664ab35bf50707" title="BladeRF2OutputGui::\lsetCenterFrequencySetting" alt="" coords="207,71,388,112"/>
+<area shape="rect" id="node9" href="$dc/d19/classBladeRF2OutputGui.html#a616d074b6c7dc2b05caa0b79f6d27fb3" title="BladeRF2OutputGui::\lupdateFrequencyLimits" alt="" coords="219,136,376,177"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="519,78,559,105"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="741,78,849,105"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1151,49,1269,75"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="947,100,1095,141"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1143,100,1277,141"/>
+<area shape="rect" id="node10" href="$d7/d79/classBladeRF2Output.html#a721de11f1bb147ace1557ec39277e514" title="BladeRF2Output::getFrequency\lRange" alt="" coords="436,136,643,177"/>
+<area shape="rect" id="node11" href="$dd/d3f/classDeviceBladeRF2.html#a427baccb7d9a7e7216a9d2cef4a2cbf2" title="DeviceBladeRF2::getFrequency\lRangeTx" alt="" coords="691,136,899,177"/>
+</map>

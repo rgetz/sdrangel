@@ -1,0 +1,16 @@
+<map id="RTLSDRGui::displayFcTooltip" name="RTLSDRGui::displayFcTooltip">
+<area shape="rect" id="node2" href="$d5/d42/classRTLSDRGui.html#add29c1038f32bf4147dbc808581b8bab" title="RTLSDRGui::displaySampleRate" alt="" coords="252,206,469,233"/>
+<area shape="rect" id="node14" href="$d5/d42/classRTLSDRGui.html#af38bce5f9a575a93aeaf7fd23802529a" title="RTLSDRGui::on_fcPos\l_currentIndexChanged" alt="" coords="281,257,440,299"/>
+<area shape="rect" id="node15" href="$d5/d42/classRTLSDRGui.html#aaaa1d0db08d90b5cd8917913d8e0ed0e" title="RTLSDRGui::on_sampleRate\l_changed" alt="" coords="263,323,458,364"/>
+<area shape="rect" id="node3" href="$d5/d42/classRTLSDRGui.html#a55a0cbd637424baa7ba3b931ed9f3956" title="RTLSDRGui::updateSampleRate\lAndFrequency" alt="" coords="787,5,1001,47"/>
+<area shape="rect" id="node6" href="$d5/d42/classRTLSDRGui.html#a7e15bc5044e265b2f05f5165c13ac2ce" title="RTLSDRGui::displaySettings" alt="" coords="529,147,723,174"/>
+<area shape="rect" id="node11" href="$d5/d42/classRTLSDRGui.html#a7b33f1a19cebb82572cae8ed09ef9b23" title="RTLSDRGui::on_decim\l_currentIndexChanged" alt="" coords="546,199,706,240"/>
+<area shape="rect" id="node12" href="$d5/d42/classRTLSDRGui.html#a20c18488c470ed626c61d384deb6cde1" title="RTLSDRGui::on_sampleRate\lMode_toggled" alt="" coords="529,264,723,305"/>
+<area shape="rect" id="node13" href="$d5/d42/classRTLSDRGui.html#ad1e14e53feacdfb71d7f3999ab759c72" title="RTLSDRGui::on_lowSampleRate\l_toggled" alt="" coords="517,329,735,371"/>
+<area shape="rect" id="node4" href="$d5/d42/classRTLSDRGui.html#a359248b1e7149d05da1c72cf963db631" title="RTLSDRGui::handleInputMessages" alt="" coords="1053,71,1284,98"/>
+<area shape="rect" id="node5" href="$d5/d42/classRTLSDRGui.html#a9597363c005b0bb0bc4446abb6a0da70" title="RTLSDRGui::RTLSDRGui" alt="" coords="1332,97,1511,123"/>
+<area shape="rect" id="node7" href="$d5/d42/classRTLSDRGui.html#a73412c6e829aa08977553b4e28e78741" title="RTLSDRGui::resetToDefaults" alt="" coords="795,173,993,199"/>
+<area shape="rect" id="node8" href="$d5/d42/classRTLSDRGui.html#adb3bf9070adbe8001529789adbe096ad" title="RTLSDRGui::deserialize" alt="" coords="1085,198,1252,225"/>
+<area shape="rect" id="node9" href="$d5/d42/classRTLSDRGui.html#a7d199880da718915387264f0ed83af1c" title="RTLSDRGui::setCenterFrequency" alt="" coords="783,274,1005,301"/>
+<area shape="rect" id="node10" href="$d5/d42/classRTLSDRGui.html#a76f0ae6403ce58f5c27ab1f6e8088b1e" title="RTLSDRGui::handleMessage" alt="" coords="797,71,991,98"/>
+</map>

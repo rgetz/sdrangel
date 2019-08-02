@@ -1,0 +1,9 @@
+<map id="XTRXInputSettings::deserialize" name="XTRXInputSettings::deserialize">
+<area shape="rect" id="node2" href="$d3/df5/classXTRXInputGUI.html#abe927c94932587eda6367a39e2697b80" title="XTRXInputGUI::deserialize" alt="" coords="196,5,377,32"/>
+<area shape="rect" id="node3" href="$dc/d14/classXTRXInput.html#acdc9a0c4202ba1b115bcd5b4845efc30" title="XTRXInput::deserialize" alt="" coords="208,56,365,83"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#aef006f05c1a7754c43b784d9550ae76f" title="XTRXInput::setThread" alt="" coords="425,56,579,83"/>
+<area shape="rect" id="node5" href="$dc/d14/classXTRXInput.html#af98d092f24a58dff141e9a9e31063d63" title="XTRXInput::moveThreadToBuddy" alt="" coords="627,56,845,83"/>
+<area shape="rect" id="node6" href="$dc/d14/classXTRXInput.html#a16e6b3909ed8434e983cf8c6011d6b4b" title="XTRXInput::closeDevice" alt="" coords="893,56,1060,83"/>
+<area shape="rect" id="node7" href="$dc/d14/classXTRXInput.html#a1749155dbfa4143e8297c66bb7895695" title="XTRXInput::~XTRXInput" alt="" coords="1108,56,1276,83"/>
+<area shape="rect" id="node8" href="$dc/d50/classXTRXInput_1_1MsgFileRecord.html#a16b2204d7ebbbda73ae171e02c372b96" title="XTRXInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="1324,49,1507,90"/>
+</map>

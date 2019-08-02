@@ -1,0 +1,14 @@
+<map id="Bladerf1OutputGui::sendSettings" name="Bladerf1OutputGui::sendSettings">
+<area shape="rect" id="node2" href="$da/de4/classBladerf1OutputGui.html#aff0a470f2b19aa72f2a7783cd6034218" title="Bladerf1OutputGui::\ldeserialize" alt="" coords="472,260,609,302"/>
+<area shape="rect" id="node3" href="$da/de4/classBladerf1OutputGui.html#aade9910c83503f220d529508b7299be4" title="Bladerf1OutputGui::\lon_bandwidth_currentIndexChanged" alt="" coords="191,60,424,102"/>
+<area shape="rect" id="node4" href="$da/de4/classBladerf1OutputGui.html#ad0cfb3b3f0bdfd5dd5eed16fb8653f5b" title="Bladerf1OutputGui::\lon_centerFrequency_changed" alt="" coords="209,126,405,167"/>
+<area shape="rect" id="node5" href="$da/de4/classBladerf1OutputGui.html#a4da449eca26bd4fa9608986be835ce38" title="Bladerf1OutputGui::\lon_interp_currentIndexChanged" alt="" coords="204,191,411,232"/>
+<area shape="rect" id="node6" href="$da/de4/classBladerf1OutputGui.html#ae1253060a8512f1ee96b2edff488e722" title="Bladerf1OutputGui::\lon_sampleRate_changed" alt="" coords="223,256,392,298"/>
+<area shape="rect" id="node7" href="$da/de4/classBladerf1OutputGui.html#a90fa07adb2d35bf5ac0054256ca571b8" title="Bladerf1OutputGui::\lon_vga1_valueChanged" alt="" coords="227,322,388,363"/>
+<area shape="rect" id="node8" href="$da/de4/classBladerf1OutputGui.html#aea26fed1df9cddef44f59f36b8348d82" title="Bladerf1OutputGui::\lon_vga2_valueChanged" alt="" coords="227,387,388,428"/>
+<area shape="rect" id="node9" href="$da/de4/classBladerf1OutputGui.html#a4bd2fc70c078b1e9b8cba19f720bbac4" title="Bladerf1OutputGui::\lon_xb200_currentIndexChanged" alt="" coords="203,452,412,494"/>
+<area shape="rect" id="node10" href="$da/de4/classBladerf1OutputGui.html#a427a2e6d2579e067d903956f1b8146b5" title="Bladerf1OutputGui::\lopenDeviceSettingsDialog" alt="" coords="219,583,395,624"/>
+<area shape="rect" id="node12" href="$da/de4/classBladerf1OutputGui.html#add0cce167883ec763c575f7b0777c7cf" title="Bladerf1OutputGui::\lresetToDefaults" alt="" coords="239,518,376,559"/>
+<area shape="rect" id="node13" href="$da/de4/classBladerf1OutputGui.html#a144b563c86975494771f5c757f3a195e" title="Bladerf1OutputGui::\lsetCenterFrequency" alt="" coords="237,648,377,690"/>
+<area shape="rect" id="node11" href="$da/de4/classBladerf1OutputGui.html#a43ce52609f0e47e73417f5cb057413c4" title="Bladerf1OutputGui::\lBladerf1OutputGui" alt="" coords="472,583,609,624"/>
+</map>

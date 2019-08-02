@@ -1,0 +1,15 @@
+<map id="LocalSource::webapiFormatChannelSettings" name="LocalSource::webapiFormatChannelSettings">
+<area shape="rect" id="node2" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a61fbefef738a33a6b203bd1fd40f82fd" title="SWGSDRangel::SWGChannelSettings\l::getLocalSourceSettings" alt="" coords="237,5,488,47"/>
+<area shape="rect" id="node3" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a834f07bf31d31144a50aafb0306ee312" title="SWGSDRangel::SWGLocalSource\lSettings::getReverseApiAddress" alt="" coords="249,71,476,112"/>
+<area shape="rect" id="node4" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#acdc98813a1229a01c35f29a449dbc97d" title="SWGSDRangel::SWGLocalSource\lSettings::getTitle" alt="" coords="249,136,476,177"/>
+<area shape="rect" id="node5" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a89dc1308277248853dff8690b0b76ac1" title="SWGSDRangel::SWGLocalSource\lSettings::setFilterChainHash" alt="" coords="249,201,476,243"/>
+<area shape="rect" id="node6" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a389eb85b8507735096c26335dbdd944b" title="SWGSDRangel::SWGLocalSource\lSettings::setLocalDeviceIndex" alt="" coords="249,267,476,308"/>
+<area shape="rect" id="node7" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a1e07f7c933b644c6f240488422d455e7" title="SWGSDRangel::SWGLocalSource\lSettings::setLog2Interp" alt="" coords="249,332,476,373"/>
+<area shape="rect" id="node8" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a3f3d6b4cd24ad582f214467b08279011" title="SWGSDRangel::SWGLocalSource\lSettings::setReverseApiAddress" alt="" coords="249,397,476,439"/>
+<area shape="rect" id="node9" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#acbdce63573793a8fd0766b4c7825d19a" title="SWGSDRangel::SWGLocalSource\lSettings::setReverseApiChannelIndex" alt="" coords="241,463,485,504"/>
+<area shape="rect" id="node10" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#acfb9e385cc08122c3fdbc28ebef7358b" title="SWGSDRangel::SWGLocalSource\lSettings::setReverseApiDeviceIndex" alt="" coords="244,528,481,569"/>
+<area shape="rect" id="node11" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#aa6b902b5ba013318504f07997dc41fff" title="SWGSDRangel::SWGLocalSource\lSettings::setReverseApiPort" alt="" coords="249,593,476,635"/>
+<area shape="rect" id="node12" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a2e7450314a6bc95a6f23c29a78834f20" title="SWGSDRangel::SWGLocalSource\lSettings::setRgbColor" alt="" coords="249,659,476,700"/>
+<area shape="rect" id="node13" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a43d0ce0d207ad371e66b9937f8f1f009" title="SWGSDRangel::SWGLocalSource\lSettings::setTitle" alt="" coords="249,724,476,765"/>
+<area shape="rect" id="node14" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#ad72605d428613faebd1c3c913b32644b" title="SWGSDRangel::SWGLocalSource\lSettings::setUseReverseApi" alt="" coords="249,789,476,831"/>
+</map>

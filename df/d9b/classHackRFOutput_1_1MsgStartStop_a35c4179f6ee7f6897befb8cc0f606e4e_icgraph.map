@@ -1,0 +1,5 @@
+<map id="HackRFOutput::MsgStartStop::create" name="HackRFOutput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d0/d64/classHackRFOutputGui.html#a42191ed56635b3d0fe2045714aa4aaeb" title="HackRFOutputGui::on\l_startStop_toggled" alt="" coords="267,5,419,47"/>
+<area shape="rect" id="node3" href="$dc/df6/classHackRFOutput.html#a88d744d0952a503e905c773335439f99" title="HackRFOutput::webapiRun" alt="" coords="252,71,435,98"/>
+<area shape="rect" id="node4" href="$dc/df6/classHackRFOutput.html#a216c6ce9858362f5300a11d07347f5eb" title="For when the sink sample rate is set externally. " alt="" coords="483,71,691,98"/>
+</map>

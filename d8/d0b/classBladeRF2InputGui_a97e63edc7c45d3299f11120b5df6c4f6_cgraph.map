@@ -1,0 +1,6 @@
+<map id="BladeRF2InputGui::updateHardware" name="BladeRF2InputGui::updateHardware">
+<area shape="rect" id="node2" href="$d2/d9f/classBladeRF2Input_1_1MsgConfigureBladeRF2.html#aa7ea9f9928ae278110b62dfad2ca84d4" title="BladeRF2Input::MsgConfigure\lBladeRF2::create" alt="" coords="229,5,428,47"/>
+<area shape="rect" id="node4" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="245,71,413,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="254,137,403,163"/>
+<area shape="rect" id="node3" href="$d2/d9f/classBladeRF2Input_1_1MsgConfigureBladeRF2.html#ad82866c3b0172014b7caa02899178be5" title="BladeRF2Input::MsgConfigure\lBladeRF2::MsgConfigureBladeRF2" alt="" coords="476,5,703,47"/>
+</map>

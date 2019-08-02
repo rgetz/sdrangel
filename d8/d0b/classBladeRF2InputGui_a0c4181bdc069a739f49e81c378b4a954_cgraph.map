@@ -1,0 +1,5 @@
+<map id="BladeRF2InputGui::on_startStop_toggled" name="BladeRF2InputGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$da/d16/classBladeRF2Input_1_1MsgStartStop.html#a995d0a945d7b0d5b717b641c41ed66fe" title="BladeRF2Input::MsgStartStop\l::create" alt="" coords="204,5,401,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="219,71,387,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="228,137,377,163"/>
+</map>

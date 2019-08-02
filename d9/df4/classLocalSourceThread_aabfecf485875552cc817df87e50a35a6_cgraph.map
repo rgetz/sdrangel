@@ -1,0 +1,8 @@
+<map id="LocalSourceThread::handleInputMessages" name="LocalSourceThread::handleInputMessages">
+<area shape="rect" id="node2" href="$d2/dbe/classLocalSourceThread_1_1MsgStartStop.html#a9342be2a18d222e2c42dd7e867416ab8" title="LocalSourceThread::\lMsgStartStop::getStartStop" alt="" coords="203,5,385,47"/>
+<area shape="rect" id="node3" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="235,71,353,98"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="223,122,365,149"/>
+<area shape="rect" id="node6" href="$d9/df4/classLocalSourceThread.html#abb8745e6c23a547f117a6b0f3400d6f3" title="LocalSourceThread::\lstartWork" alt="" coords="223,173,365,215"/>
+<area shape="rect" id="node7" href="$d9/df4/classLocalSourceThread.html#a38a96cfc938b92974e1563c08d1b5d46" title="LocalSourceThread::\lstopWork" alt="" coords="223,239,365,280"/>
+<area shape="rect" id="node4" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="433,71,603,98"/>
+</map>

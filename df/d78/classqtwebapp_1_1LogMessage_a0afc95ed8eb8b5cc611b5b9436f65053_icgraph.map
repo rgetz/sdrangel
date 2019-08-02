@@ -1,0 +1,21 @@
+<map id="qtwebapp::LogMessage::toString" name="qtwebapp::LogMessage::toString">
+<area shape="rect" id="node2" href="$df/d52/classqtwebapp_1_1FileLogger.html#a9258a5e72c22a6b14e25af8eae2092c1" title="qtwebapp::FileLogger\l::write" alt="" coords="425,93,571,135"/>
+<area shape="rect" id="node3" href="$dd/dde/classqtwebapp_1_1Logger.html#a69f50fe67efaa254ee219f6de384e9fa" title="qtwebapp::Logger::write" alt="" coords="213,151,375,178"/>
+<area shape="rect" id="node4" href="$dd/dde/classqtwebapp_1_1Logger.html#af731fc45cf731695d5f971472032190d" title="qtwebapp::Logger::log" alt="" coords="423,159,573,186"/>
+<area shape="rect" id="node5" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#ade8ee52fbe5ec9b22bd4d885c3783ad1" title="qtwebapp::LoggerWithFile::log" alt="" coords="623,79,822,106"/>
+<area shape="rect" id="node6" href="$d6/d2e/classqtwebapp_1_1DualFileLogger.html#a6db25d5c835b7221f0a6b7b4a035d4aa" title="qtwebapp::DualFileLogger::log" alt="" coords="623,130,822,157"/>
+<area shape="rect" id="node7" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#abf2f7fc79f61bffe311ec1ee868a12b3" title="qtwebapp::LoggerWithFile\l::logToFile" alt="" coords="636,181,809,223"/>
+<area shape="rect" id="node17" href="$dd/dde/classqtwebapp_1_1Logger.html#a7754c484554c71b89b8262386e9e186d" title="qtwebapp::Logger::msgHandler" alt="" coords="621,263,824,290"/>
+<area shape="rect" id="node8" href="$db/d47/classMainCore.html#adc2dccf373007aa758c31ce89ec6c1be" title="MainCore::setLoggingOptions" alt="" coords="881,71,1076,98"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#adbc8f1fc6871dc34d3eb3c9505ed88f2" title="MainWindow::setLoggingOptions" alt="" coords="872,189,1085,215"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#ac74532b6e04c01331cf393167e7f2ea1" title="WebAPIAdapterSrv::instance\lLoggingPut" alt="" coords="1135,5,1329,47"/>
+<area shape="rect" id="node10" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="1153,71,1311,98"/>
+<area shape="rect" id="node11" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1397,71,1540,98"/>
+<area shape="rect" id="node13" href="$d7/de5/classWebAPIAdapterGUI.html#a07ecf199328eadb36a298edc75dfd16f" title="WebAPIAdapterGUI::instance\lLoggingPut" alt="" coords="1133,123,1331,164"/>
+<area shape="rect" id="node14" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="1143,189,1321,215"/>
+<area shape="rect" id="node16" href="$d6/d1a/classMainWindow.html#a7a10dbf6f80e372e7b2f093132989828" title="MainWindow::on_action\l_Logging_triggered" alt="" coords="1151,240,1313,281"/>
+<area shape="rect" id="node15" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1379,189,1559,215"/>
+<area shape="rect" id="node18" href="$dd/dde/classqtwebapp_1_1Logger.html#afcb3d7e37ada82e585c2ffeb9d5b9479" title="qtwebapp::Logger::msgHandler4" alt="" coords="873,295,1084,322"/>
+<area shape="rect" id="node19" href="$dd/dde/classqtwebapp_1_1Logger.html#a333125f7ac75da148f3345ad4e5c49f3" title="qtwebapp::Logger::install\lMsgHandler" alt="" coords="1149,305,1315,347"/>
+<area shape="rect" id="node20" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1443,313,1494,339"/>
+</map>

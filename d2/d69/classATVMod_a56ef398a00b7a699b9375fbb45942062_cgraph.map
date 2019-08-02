@@ -1,0 +1,5 @@
+<map id="ATVMod::getCameraNumbers" name="ATVMod::getCameraNumbers">
+<area shape="rect" id="node2" href="$d7/d58/classATVMod_1_1MsgReportCameraData.html#a8e092f93554cd9af4a0808410ba2b827" title="ATVMod::MsgReportCameraData\l::create" alt="" coords="252,5,471,47"/>
+<area shape="rect" id="node3" href="$d9/dfb/classBasebandSampleSource.html#a55487ed2dcc7e1da118dcd8d32c76e7f" title="BasebandSampleSource\l::getMessageQueueToGUI" alt="" coords="272,71,451,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="287,137,436,163"/>
+</map>

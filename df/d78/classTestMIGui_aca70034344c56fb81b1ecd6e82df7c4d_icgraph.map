@@ -1,0 +1,24 @@
+<map id="TestMIGui::sendSettings" name="TestMIGui::sendSettings">
+<area shape="rect" id="node2" href="$df/d78/classTestMIGui.html#af7b65965d72d6e061405e6791049821c" title="TestMIGui::deserialize" alt="" coords="479,592,632,619"/>
+<area shape="rect" id="node3" href="$df/d78/classTestMIGui.html#af5479cd5eded3e37665e78183b621725" title="TestMIGui::on_amModulation\l_valueChanged" alt="" coords="229,62,422,103"/>
+<area shape="rect" id="node4" href="$df/d78/classTestMIGui.html#a31de13b513065927589dfc3cc12f8dba" title="TestMIGui::on_amplitudeCoarse\l_valueChanged" alt="" coords="220,127,431,169"/>
+<area shape="rect" id="node5" href="$df/d78/classTestMIGui.html#a3c73a66fe3aebbe9db16b73d4674810c" title="TestMIGui::on_amplitudeFine\l_valueChanged" alt="" coords="229,193,422,234"/>
+<area shape="rect" id="node6" href="$df/d78/classTestMIGui.html#a33196b671bc4ce4a6d57931079fc0440" title="TestMIGui::on_autoCorr\l_currentIndexChanged" alt="" coords="244,258,407,299"/>
+<area shape="rect" id="node7" href="$df/d78/classTestMIGui.html#a4f89cebc650f9cdb7045bffab67079c1" title="TestMIGui::on_centerFrequency\l_changed" alt="" coords="221,323,430,365"/>
+<area shape="rect" id="node8" href="$df/d78/classTestMIGui.html#a27ad6d035cd6c0757cad784396588dae" title="TestMIGui::on_dcBias\l_valueChanged" alt="" coords="249,389,401,430"/>
+<area shape="rect" id="node9" href="$df/d78/classTestMIGui.html#ad6c915feda41189c9e124369c61e0f2c" title="TestMIGui::on_decimation\l_currentIndexChanged" alt="" coords="238,454,413,495"/>
+<area shape="rect" id="node10" href="$df/d78/classTestMIGui.html#ab03ac050cd6d395c18ef22f629befde4" title="TestMIGui::on_fcPos\l_currentIndexChanged" alt="" coords="249,519,402,561"/>
+<area shape="rect" id="node11" href="$df/d78/classTestMIGui.html#aca8a09b789d1226704fb3dc1229eba07" title="TestMIGui::on_fmDeviation\l_valueChanged" alt="" coords="234,585,417,626"/>
+<area shape="rect" id="node12" href="$df/d78/classTestMIGui.html#aa13702be773f6158785bca2f37cde618" title="TestMIGui::on_frequencyShift\l_changed" alt="" coords="227,650,423,691"/>
+<area shape="rect" id="node13" href="$df/d78/classTestMIGui.html#ada6f10f355c15a0049f30e03b2c9347e" title="TestMIGui::on_iBias\l_valueChanged" alt="" coords="255,715,396,757"/>
+<area shape="rect" id="node14" href="$df/d78/classTestMIGui.html#accb622ed2c3126ebce748fa1af5dd77f" title="TestMIGui::on_modulation\l_currentIndexChanged" alt="" coords="238,781,413,822"/>
+<area shape="rect" id="node15" href="$df/d78/classTestMIGui.html#a6b570d1ecb8bfc98447561f6304543ef" title="TestMIGui::on_modulation\lFrequency_valueChanged" alt="" coords="238,846,413,887"/>
+<area shape="rect" id="node16" href="$df/d78/classTestMIGui.html#ab7001c7bdebc13a140cd50725ddd3900" title="TestMIGui::on_phaseImbalance\l_valueChanged" alt="" coords="222,911,429,953"/>
+<area shape="rect" id="node17" href="$df/d78/classTestMIGui.html#a51297c27ebcafa31b319f9b622733a7c" title="TestMIGui::on_qBias\l_valueChanged" alt="" coords="253,977,398,1018"/>
+<area shape="rect" id="node18" href="$df/d78/classTestMIGui.html#a46419e089990b451762dd3948aa41111" title="TestMIGui::on_sampleRate\l_changed" alt="" coords="234,1042,417,1083"/>
+<area shape="rect" id="node19" href="$df/d78/classTestMIGui.html#a48768d9e60f9f731e78abcfcb34cb5e8" title="TestMIGui::on_sampleSize\l_currentIndexChanged" alt="" coords="235,1107,415,1149"/>
+<area shape="rect" id="node20" href="$df/d78/classTestMIGui.html#adbc2285ef9c482d2566a74c8f0b65e0e" title="TestMIGui::openDeviceSettings\lDialog" alt="" coords="221,1225,429,1266"/>
+<area shape="rect" id="node22" href="$df/d78/classTestMIGui.html#a07b55dc7ff5ee0938eb36e47e8cbad2e" title="TestMIGui::resetToDefaults" alt="" coords="233,1173,417,1200"/>
+<area shape="rect" id="node23" href="$df/d78/classTestMIGui.html#a347c6dd646cb6ae3469661acfc81ea1c" title="TestMIGui::setCenterFrequency" alt="" coords="221,1291,430,1317"/>
+<area shape="rect" id="node21" href="$df/d78/classTestMIGui.html#a46d27a080d13bc0e97967b840af36f24" title="TestMIGui::TestMIGui" alt="" coords="479,1232,631,1259"/>
+</map>

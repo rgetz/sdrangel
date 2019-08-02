@@ -1,0 +1,6 @@
+<map id="AudioInput::setVolume" name="AudioInput::setVolume">
+<area shape="rect" id="node2" href="$d0/d40/classAudioDeviceManager.html#aa36127cf49aaea02297321d6f761fdde" title="AudioDeviceManager\l::setInputDeviceInfo" alt="" coords="208,57,355,98"/>
+<area shape="rect" id="node3" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="427,5,575,32"/>
+<area shape="rect" id="node4" href="$dc/dd8/classWebAPIAdapterSrv.html#a623b4d6489fe4c45909c2918e29ff2b2" title="WebAPIAdapterSrv::instance\lAudioInputPatch" alt="" coords="405,57,598,98"/>
+<area shape="rect" id="node5" href="$d7/de5/classWebAPIAdapterGUI.html#a7b2fe2f07d57a7255a36bd6981f34e9c" title="WebAPIAdapterGUI::instance\lAudioInputPatch" alt="" coords="403,122,600,163"/>
+</map>

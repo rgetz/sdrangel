@@ -1,0 +1,11 @@
+<map id="XTRXOutput::MsgReportClockGenChange::create" name="XTRXOutput::MsgReportClockGenChange::create">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#ab799b79f068ae42e8d8f0cd047210e07" title="XTRXOutput::applySettings" alt="" coords="256,81,440,108"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="488,5,684,32"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#a628136a6db38d4b915bdfad7344b2aa8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1007,56,1130,83"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#a3f644b7abb2c8ec5ee8f5ee86e853899" title="XTRXOutput::start" alt="" coords="764,107,895,133"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#aa4b594bd46809603a5a89824488f940f" title="XTRXOutput::stop" alt="" coords="521,183,651,209"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="732,5,927,32"/>
+<area shape="rect" id="node6" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1211,125,1396,166"/>
+<area shape="rect" id="node9" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="741,208,918,235"/>
+<area shape="rect" id="node10" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="975,208,1163,235"/>
+</map>

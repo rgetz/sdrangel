@@ -1,0 +1,7 @@
+<map id="DeviceStreamSelectionDialog::getSelectedStreamIndex" name="DeviceStreamSelectionDialog::getSelectedStreamIndex">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#a0266483ba72a2e2f22926e32a279d3fc" title="AMDemodGUI::onMenuDialog\lCalled" alt="" coords="249,5,448,47"/>
+<area shape="rect" id="node3" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="496,13,699,39"/>
+<area shape="rect" id="node4" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="747,13,899,39"/>
+<area shape="rect" id="node5" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="947,13,1200,39"/>
+<area shape="rect" id="node6" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1248,13,1429,39"/>
+</map>

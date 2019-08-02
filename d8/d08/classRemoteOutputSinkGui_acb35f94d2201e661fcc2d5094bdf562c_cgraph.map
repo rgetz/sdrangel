@@ -1,0 +1,10 @@
+<map id="RemoteOutputSinkGui::serialize" name="RemoteOutputSinkGui::serialize">
+<area shape="rect" id="node2" href="$d7/d57/structRemoteOutputSettings.html#a7edf70040dcae1a1c6864c7b325de869" title="RemoteOutputSettings\l::serialize" alt="" coords="207,125,361,166"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="429,5,577,32"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="413,56,592,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="412,107,593,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="409,157,596,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="415,208,591,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a6d75bb06e77f6fd4e2bfc4df2edf4b4f" title="SimpleSerializer::writeU64" alt="" coords="415,259,591,285"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="644,157,819,184"/>
+</map>

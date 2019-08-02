@@ -1,0 +1,5 @@
+<map id="MainSettings::setFileMinLogLevel" name="MainSettings::setFileMinLogLevel">
+<area shape="rect" id="node2" href="$de/dde/classLoggingDialog.html#a35187772cf14a49f9b8c90e064e4ab73" title="LoggingDialog::accept" alt="" coords="243,5,394,32"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ac74532b6e04c01331cf393167e7f2ea1" title="WebAPIAdapterSrv::instance\lLoggingPut" alt="" coords="222,57,415,98"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a07ecf199328eadb36a298edc75dfd16f" title="WebAPIAdapterGUI::instance\lLoggingPut" alt="" coords="220,122,417,163"/>
+</map>

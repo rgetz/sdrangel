@@ -1,0 +1,7 @@
+<map id="leansdr::s2_frame_receiver::run" name="leansdr::s2_frame_receiver::run">
+<area shape="rect" id="node2" href="$d7/d1e/namespaceleansdr.html#ac95af16d02125f5afb66f18cb52ea375" title="leansdr::opt_writable" alt="" coords="275,17,417,43"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespaceleansdr.html#ab26a491d085f5c8a0e8765ca922e8385" title="leansdr::opt_write" alt="" coords="283,74,409,101"/>
+<area shape="rect" id="node6" href="$d7/da3/structleansdr_1_1sampler__interface.html#a73d59c06e82b07c04803b09c4db32c03" title="leansdr::sampler_interface\l::readahead" alt="" coords="259,125,433,167"/>
+<area shape="rect" id="node3" href="$de/d0e/structleansdr_1_1pipewriter.html#a1e9b3b0c11b8ff961b662b93039d7c8e" title="leansdr::pipewriter\l::writable" alt="" coords="481,5,609,47"/>
+<area shape="rect" id="node5" href="$de/d0e/structleansdr_1_1pipewriter.html#ad4fbacd588494cd5993e20e54cc735a6" title="leansdr::pipewriter\l::write" alt="" coords="481,71,609,112"/>
+</map>

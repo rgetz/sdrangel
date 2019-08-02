@@ -1,0 +1,9 @@
+<map id="BFMDemod::getDecoderSynced" name="BFMDemod::getDecoderSynced">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#ae1ab5122d6913189b1fd5172d1708533" title="BFMDemodGUI::rdsUpdate" alt="" coords="264,71,448,98"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a0b867e6f25620af329e6bcf2c206cbc6" title="BFMDemodGUI::on_clearData\l_clicked" alt="" coords="496,5,697,47"/>
+<area shape="rect" id="node4" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="745,97,964,123"/>
+<area shape="rect" id="node8" href="$d3/df8/classBFMDemodGUI.html#a9f203b8acf3384b6b404050cdae65f55" title="BFMDemodGUI::tick" alt="" coords="524,122,669,149"/>
+<area shape="rect" id="node5" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1012,97,1172,123"/>
+<area shape="rect" id="node6" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1220,97,1439,123"/>
+<area shape="rect" id="node7" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1487,97,1633,123"/>
+</map>

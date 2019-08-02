@@ -1,0 +1,29 @@
+<map id="MovingAverage::average" name="MovingAverage::average">
+<area shape="rect" id="node2" href="$d2/d3d/classUDPSink.html#aa2ba670b7705bceca05e3f4a082f0081" title="UDPSink::feed" alt="" coords="517,56,627,82"/>
+<area shape="rect" id="node4" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="1019,30,1149,57"/>
+<area shape="rect" id="node9" href="$d7/de9/classMagAGC.html#ad98a816816e71938161cbd3e449ee7d1" title="MagAGC::feedAndGetValue" alt="" coords="225,106,412,133"/>
+<area shape="rect" id="node21" href="$d5/d56/classAGC.html#a1b94cf32508b59a60cc77982dc4fb64d" title="AGC::getAverage" alt="" coords="256,157,381,184"/>
+<area shape="rect" id="node22" href="$de/da4/classUDPSource.html#a4ce4959be772a8873dc8e4b32ec1d5c2" title="UDPSource::modulateSample" alt="" coords="220,208,417,234"/>
+<area shape="rect" id="node23" href="$de/da4/classUDPSource.html#a3268bd2b4c9ee5c651d45e3d4a0f887b" title="UDPSource::pull" alt="" coords="512,258,632,285"/>
+<area shape="rect" id="node3" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="736,56,917,82"/>
+<area shape="rect" id="node5" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1255,30,1443,57"/>
+<area shape="rect" id="node6" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1526,30,1671,57"/>
+<area shape="rect" id="node7" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1740,30,1987,57"/>
+<area shape="rect" id="node8" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="2035,30,2209,57"/>
+<area shape="rect" id="node10" href="$d7/de9/classMagAGC.html#a7b95ece390eb112eb65fb5bd08ae2302" title="MagAGC::feed" alt="" coords="517,106,627,133"/>
+<area shape="rect" id="node11" href="$d9/df0/classAMDemod.html#a2d9538112ea4a7db63c577b5ebfcca2f" title="AMDemod::processOneSample" alt="" coords="469,157,675,184"/>
+<area shape="rect" id="node14" href="$d6/d4d/classSSBDemod.html#a9a17d3956911da433ebf0b8036fb1018" title="SSBDemod::processOneSample" alt="" coords="465,208,679,234"/>
+<area shape="rect" id="node12" href="$d9/df0/classAMDemod.html#ae433656cf858f08dfb5e2e6b2f95b9b9" title="AMDemod::feed" alt="" coords="768,157,885,184"/>
+<area shape="rect" id="node13" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="1017,157,1151,184"/>
+<area shape="rect" id="node15" href="$d6/d4d/classSSBDemod.html#afeb3669dac7ed17f83bad753927e99f0" title="SSBDemod::feed" alt="" coords="765,208,889,234"/>
+<area shape="rect" id="node16" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="991,208,1177,234"/>
+<area shape="rect" id="node17" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1241,206,1457,233"/>
+<area shape="rect" id="node18" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1519,205,1678,232"/>
+<area shape="rect" id="node19" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1754,205,1973,232"/>
+<area shape="rect" id="node20" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="2049,205,2195,232"/>
+<area shape="rect" id="node24" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="727,258,927,285"/>
+<area shape="rect" id="node25" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="975,258,1193,285"/>
+<area shape="rect" id="node26" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="1269,262,1429,289"/>
+<area shape="rect" id="node27" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1505,256,1692,298"/>
+<area shape="rect" id="node28" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1769,264,1958,290"/>
+</map>

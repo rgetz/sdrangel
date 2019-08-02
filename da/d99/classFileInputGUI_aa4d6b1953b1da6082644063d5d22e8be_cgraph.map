@@ -1,0 +1,15 @@
+<map id="FileInputGUI::deserialize" name="FileInputGUI::deserialize">
+<area shape="rect" id="node2" href="$d9/d6e/structFileInputSettings.html#afb0314e311ac003ec56d03643bb24aa7" title="FileInputSettings::\ldeserialize" alt="" coords="255,277,383,319"/>
+<area shape="rect" id="node10" href="$da/d99/classFileInputGUI.html#ac53d9ecb57845d9add84bf3dc2393e4e" title="FileInputGUI::displaySettings" alt="" coords="465,45,659,71"/>
+<area shape="rect" id="node13" href="$da/d99/classFileInputGUI.html#a994875750ee3af81f308782e37e81571" title="FileInputGUI::resetToDefaults" alt="" coords="220,95,417,122"/>
+<area shape="rect" id="node14" href="$da/d99/classFileInputGUI.html#a0d1d22a842ee4f499cd48755dd41c7e3" title="FileInputGUI::sendSettings" alt="" coords="472,95,652,122"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="497,473,627,515"/>
+<area shape="rect" id="node4" href="$d9/d6e/structFileInputSettings.html#a11dc7eb9b99339fdfcf6358bd4332b52" title="FileInputSettings::\lresetToDefaults" alt="" coords="498,147,626,188"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="497,212,627,253"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="497,277,627,319"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="497,343,627,384"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="497,408,627,449"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="725,375,856,416"/>
+<area shape="rect" id="node11" href="$da/d99/classFileInputGUI.html#ad9b54e283d256f215c2248c48b30b545" title="FileInputGUI::blockApply\lSettings" alt="" coords="707,71,875,112"/>
+<area shape="rect" id="node12" href="$d9/d6e/structFileInputSettings.html#affadc09418712d5e459bbcd647a405d5" title="FileInputSettings::\lgetAccelerationIndex" alt="" coords="719,5,863,47"/>
+</map>

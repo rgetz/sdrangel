@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setLimeSdrInputReport" name="SWGSDRangel::SWGDeviceReport::setLimeSdrInputReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="315,5,478,47"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#a498afcc7c35d2611f1d751f901612689" title="LimeSDRInput::webapiReportGet" alt="" coords="288,71,505,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="553,5,764,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="812,5,975,47"/>
+<area shape="rect" id="node6" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="555,71,762,98"/>
+</map>

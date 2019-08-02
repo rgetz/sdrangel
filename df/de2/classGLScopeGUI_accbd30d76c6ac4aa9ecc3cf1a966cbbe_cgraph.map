@@ -1,0 +1,7 @@
+<map id="GLScopeGUI::on_freerun_toggled" name="GLScopeGUI::on_freerun_toggled">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#a96c52e04a7dda17729fa1b4c7b0fb3b3" title="ScopeVis::configure" alt="" coords="234,78,373,105"/>
+<area shape="rect" id="node6" href="$d2/d02/classGLScope.html#a69a2326ab273bbe0f6eed2fbd181434e" title="GLScope::getTraceSize" alt="" coords="223,129,384,155"/>
+<area shape="rect" id="node3" href="$d6/dab/classScopeVis_1_1MsgConfigureScopeVisNG.html#a240ffb0f4ef94d4d849678b27bb57d29" title="ScopeVis::MsgConfigureScope\lVisNG::create" alt="" coords="432,5,636,47"/>
+<area shape="rect" id="node4" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="450,71,618,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="459,137,609,163"/>
+</map>

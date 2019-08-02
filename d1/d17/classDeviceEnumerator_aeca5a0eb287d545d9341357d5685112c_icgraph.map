@@ -1,0 +1,8 @@
+<map id="DeviceEnumerator::changeRxSelection" name="DeviceEnumerator::changeRxSelection">
+<area shape="rect" id="node2" href="$da/d92/classSamplingDeviceDialog.html#ab2c76e27421e191cc4a91f54a8068bc5" title="SamplingDeviceDialog\l::accept" alt="" coords="242,5,397,47"/>
+<area shape="rect" id="node3" href="$da/d73/classSamplingDeviceControl.html#a85859e56f475275dadbfb0a531a0b51d" title="SamplingDeviceControl\l::setSelectedDeviceIndex" alt="" coords="233,71,405,112"/>
+<area shape="rect" id="node4" href="$da/d73/classSamplingDeviceControl.html#ab1ef71bbe8f2cb58f1efcbe34ff57015" title="SamplingDeviceControl\l::on_deviceChange_clicked" alt="" coords="460,41,643,83"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="453,107,649,134"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="697,107,900,134"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="948,107,1128,134"/>
+</map>

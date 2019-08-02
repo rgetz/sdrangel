@@ -1,0 +1,6 @@
+<map id="ATVModGUI::on_videoFileDialog_clicked" name="ATVModGUI::on_videoFileDialog_clicked">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#a77e6299a9c825a5bf23897f4c99fb3af" title="ATVModGUI::configureVideo\lFileName" alt="" coords="268,71,459,112"/>
+<area shape="rect" id="node3" href="$da/d56/classATVMod_1_1MsgConfigureVideoFileName.html#a19e2583d386eab1c23eb3fa1ffc49321" title="ATVMod::MsgConfigureVideo\lFileName::create" alt="" coords="507,5,701,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="520,71,688,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="529,137,679,163"/>
+</map>

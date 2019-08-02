@@ -1,0 +1,8 @@
+<map id="FreeDVMod::webapiFormatChannelReport" name="FreeDVMod::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="342,5,467,32"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a4be55c78d9def25b7008a025bbf18ab1" title="SWGSDRangel::SWGChannelReport\l::getFreeDvModReport" alt="" coords="284,57,525,98"/>
+<area shape="rect" id="node4" href="$d6/da5/classFreeDVMod.html#a4e423da70d679b1565359ee03ad67e0d" title="FreeDVMod::getMagSq" alt="" coords="325,123,484,149"/>
+<area shape="rect" id="node5" href="$da/da5/classSWGSDRangel_1_1SWGFreeDVModReport.html#a3d1caea5afd94db72bf57483fa1f7b70" title="SWGSDRangel::SWGFreeDVMod\lReport::setAudioSampleRate" alt="" coords="293,174,517,215"/>
+<area shape="rect" id="node6" href="$da/da5/classSWGSDRangel_1_1SWGFreeDVModReport.html#a5a9719fd970d91fb5529add5d3f2b8e0" title="SWGSDRangel::SWGFreeDVMod\lReport::setChannelPowerDb" alt="" coords="293,239,517,281"/>
+<area shape="rect" id="node7" href="$da/da5/classSWGSDRangel_1_1SWGFreeDVModReport.html#a91d0e33a01f8565bf5b4349ee159a9a6" title="SWGSDRangel::SWGFreeDVMod\lReport::setChannelSampleRate" alt="" coords="293,305,517,346"/>
+</map>

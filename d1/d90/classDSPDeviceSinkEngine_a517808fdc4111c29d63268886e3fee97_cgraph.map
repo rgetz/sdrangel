@@ -1,0 +1,5 @@
+<map id="DSPDeviceSinkEngine::work" name="DSPDeviceSinkEngine::work">
+<area shape="rect" id="node2" href="$d6/d8d/classSampleSourceFifo.html#a5f1030edeaeaaedd9d45b951b0fe00ec" title="copy current item to second buffer and bump write index &#45; write phase 2 " alt="" coords="223,5,424,32"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#a97947483187a6743c8f9d886dcbaf924" title="DeviceSampleSink::getSampleFifo" alt="" coords="211,56,436,83"/>
+<area shape="rect" id="node4" href="$d6/d8d/classSampleSourceFifo.html#abe5871195f1440373a2ddd0093d93ec4" title="get iterator to current item for update &#45; write phase 1 " alt="" coords="230,107,417,149"/>
+</map>

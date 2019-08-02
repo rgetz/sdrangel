@@ -1,0 +1,33 @@
+<map id="SWGSDRangel::SWGErrorResponse::asJson" name="SWGSDRangel::SWGErrorResponse::asJson">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a4df548d4afca54e06cfd397a83736245" title="WebAPIRequestMapper\l::devicesetChannelIndexService" alt="" coords="548,105,759,146"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="813,935,976,977"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="545,170,762,211"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="564,621,743,662"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="562,687,745,743"/>
+<area shape="rect" id="node7" href="$dd/da7/classWebAPIRequestMapper.html#a93505cb6ae3663b0d137de8df4218cba" title="WebAPIRequestMapper\l::devicesetChannelsReportService" alt="" coords="541,235,765,277"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="548,301,759,342"/>
+<area shape="rect" id="node9" href="$dd/da7/classWebAPIRequestMapper.html#a777223b3f9ce1a0b0736eb328174a414" title="WebAPIRequestMapper\l::devicesetDeviceRunService" alt="" coords="297,345,491,386"/>
+<area shape="rect" id="node10" href="$dd/da7/classWebAPIRequestMapper.html#a60aa408cb1ab15269aba2da727e99342" title="WebAPIRequestMapper\l::devicesetDeviceService" alt="" coords="568,767,739,809"/>
+<area shape="rect" id="node11" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="544,833,763,874"/>
+<area shape="rect" id="node12" href="$dd/da7/classWebAPIRequestMapper.html#a8d187527ee4f26f595df35d64e9336fb" title="WebAPIRequestMapper\l::devicesetFocusService" alt="" coords="311,410,477,451"/>
+<area shape="rect" id="node13" href="$dd/da7/classWebAPIRequestMapper.html#a1a7ce0ee2e7428c83f481755d5a164fe" title="WebAPIRequestMapper\l::devicesetService" alt="" coords="313,475,475,517"/>
+<area shape="rect" id="node14" href="$dd/da7/classWebAPIRequestMapper.html#ac8e82f0f283a3e8064d4019df72b8043" title="WebAPIRequestMapper\l::instanceAMBEDevicesService" alt="" coords="549,898,758,939"/>
+<area shape="rect" id="node15" href="$dd/da7/classWebAPIRequestMapper.html#acc0c441aed794349ed963979574e068f" title="WebAPIRequestMapper\l::instanceAMBESerialService" alt="" coords="297,541,491,582"/>
+<area shape="rect" id="node16" href="$dd/da7/classWebAPIRequestMapper.html#ab9d076d71e3fe4366eb84074d82fa72f" title="WebAPIRequestMapper\l::instanceAudioInputCleanup\lService" alt="" coords="299,607,489,663"/>
+<area shape="rect" id="node17" href="$dd/da7/classWebAPIRequestMapper.html#ace57c8f1aaac64e3ae3f7ecefd19c59d" title="WebAPIRequestMapper\l::instanceAudioInputParameters\lService" alt="" coords="549,964,757,1020"/>
+<area shape="rect" id="node18" href="$dd/da7/classWebAPIRequestMapper.html#adcab877385025fd2f6179772521a7e98" title="WebAPIRequestMapper\l::instanceAudioOutputCleanup\lService" alt="" coords="295,1311,493,1367"/>
+<area shape="rect" id="node19" href="$dd/da7/classWebAPIRequestMapper.html#a8027ccc3cf0a6a472e1943f2ffa1f4eb" title="WebAPIRequestMapper\l::instanceAudioOutputParameters\lService" alt="" coords="544,1044,763,1100"/>
+<area shape="rect" id="node20" href="$dd/da7/classWebAPIRequestMapper.html#a041c47791683e22c95eab74eb50f606b" title="WebAPIRequestMapper\l::instanceAudioService" alt="" coords="313,1391,475,1433"/>
+<area shape="rect" id="node21" href="$dd/da7/classWebAPIRequestMapper.html#a4dc1e09385de2a13a060c703ef91a8e7" title="WebAPIRequestMapper\l::instanceChannelsService" alt="" coords="305,1457,483,1498"/>
+<area shape="rect" id="node22" href="$dd/da7/classWebAPIRequestMapper.html#a3dfe67587a9d395c37b31a6561f6a4d0" title="WebAPIRequestMapper\l::instanceConfigService" alt="" coords="313,1522,475,1563"/>
+<area shape="rect" id="node23" href="$dd/da7/classWebAPIRequestMapper.html#a7897499216bf97abb37be5e3af8c5d2e" title="WebAPIRequestMapper\l::instanceDeviceSetService" alt="" coords="302,1587,486,1629"/>
+<area shape="rect" id="node24" href="$dd/da7/classWebAPIRequestMapper.html#afd05170cccdf55c4017e31d824a72037" title="WebAPIRequestMapper\l::instanceDeviceSetsService" alt="" coords="299,1653,489,1694"/>
+<area shape="rect" id="node25" href="$dd/da7/classWebAPIRequestMapper.html#a542b9268681ecad2b62897ec9c1f60d1" title="WebAPIRequestMapper\l::instanceDevicesService" alt="" coords="309,1718,479,1759"/>
+<area shape="rect" id="node26" href="$dd/da7/classWebAPIRequestMapper.html#af29d8b429a0ac06072c3f98fd168d14d" title="WebAPIRequestMapper\l::instanceLocationService" alt="" coords="567,1125,739,1166"/>
+<area shape="rect" id="node27" href="$dd/da7/classWebAPIRequestMapper.html#afbdbf1308c7b550138e0feba201c3ea8" title="WebAPIRequestMapper\l::instanceLoggingService" alt="" coords="569,1190,737,1231"/>
+<area shape="rect" id="node28" href="$dd/da7/classWebAPIRequestMapper.html#a40eee286a8bfccaeab2bf6fab0011e7e" title="WebAPIRequestMapper\l::instancePresetFileService" alt="" coords="562,1255,745,1297"/>
+<area shape="rect" id="node29" href="$dd/da7/classWebAPIRequestMapper.html#a079db7301cd9e57bd26d5fa563007fec" title="WebAPIRequestMapper\l::instancePresetService" alt="" coords="572,1321,735,1362"/>
+<area shape="rect" id="node30" href="$dd/da7/classWebAPIRequestMapper.html#af68a5bd05d53aca4b070b65b1f3b3f00" title="WebAPIRequestMapper\l::instancePresetsService" alt="" coords="310,1783,478,1825"/>
+<area shape="rect" id="node31" href="$dd/da7/classWebAPIRequestMapper.html#a96036493f0ef1bed5cf2a15f46554e7c" title="WebAPIRequestMapper\l::instanceSummaryService" alt="" coords="305,1849,483,1890"/>
+<area shape="rect" id="node32" href="$dd/da7/classWebAPIRequestMapper.html#af1e491e887fb27df676ecfd8719ba3dc" title="WebAPIRequestMapper\l::parseJsonBody" alt="" coords="313,941,475,982"/>
+</map>

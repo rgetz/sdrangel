@@ -1,0 +1,9 @@
+<map id="DeviceBladeRF2::getFrequencyRangeTx" name="DeviceBladeRF2::getFrequencyRangeTx">
+<area shape="rect" id="node2" href="$d7/d79/classBladeRF2Output.html#a721de11f1bb147ace1557ec39277e514" title="BladeRF2Output::getFrequency\lRange" alt="" coords="263,83,469,124"/>
+<area shape="rect" id="node7" href="$d7/d79/classBladeRF2Output.html#a76cd758eaf09eb4333f842bde7a44ec2" title="BladeRF2Output::webapiFormat\lDeviceReport" alt="" coords="261,159,471,200"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="559,71,706,112"/>
+<area shape="rect" id="node4" href="$d7/d79/classBladeRF2Output.html#a5633589db875aaabf12de9ee287a0b82" title="For when the sink sample rate is set externally. " alt="" coords="795,162,1012,189"/>
+<area shape="rect" id="node5" href="$dc/d19/classBladeRF2OutputGui.html#a616d074b6c7dc2b05caa0b79f6d27fb3" title="BladeRF2OutputGui::\lupdateFrequencyLimits" alt="" coords="554,5,711,47"/>
+<area shape="rect" id="node6" href="$dc/d19/classBladeRF2OutputGui.html#affe27c1f8097be2e2c5b8472f1e366d9" title="BladeRF2OutputGui::\lon_transverter_clicked" alt="" coords="827,5,980,47"/>
+<area shape="rect" id="node8" href="$d7/d79/classBladeRF2Output.html#a1b00dae3e3a37aa13c2192ceb3be6e29" title="BladeRF2Output::webapiReportGet" alt="" coords="519,187,747,214"/>
+</map>

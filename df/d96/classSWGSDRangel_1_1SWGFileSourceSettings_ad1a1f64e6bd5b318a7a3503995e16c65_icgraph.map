@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGFileSourceSettings::setTitle" name="SWGSDRangel::SWGFileSourceSettings::setTitle">
+<area shape="rect" id="node2" href="$d9/db6/classFileSource.html#ab184eaea4959871578103d55b76e0f28" title="FileSource::webapiFormat\lChannelSettings" alt="" coords="273,50,448,91"/>
+<area shape="rect" id="node6" href="$d9/db6/classFileSource.html#aa0f8f3b2a788e37087f6c1b6b4e8a5fc" title="FileSource::webapiReverse\lSendSettings" alt="" coords="269,115,452,157"/>
+<area shape="rect" id="node3" href="$d9/db6/classFileSource.html#abe807dabfe69655461e8119174c9ea81" title="FileSource::webapiSettingsGet" alt="" coords="500,5,703,32"/>
+<area shape="rect" id="node5" href="$d9/db6/classFileSource.html#a904ca1d8b535aadb0957e57bbfb6c66b" title="FileSource::webapiSettings\lPutPatch" alt="" coords="511,57,692,98"/>
+<area shape="rect" id="node4" href="$d9/db6/classFileSource.html#aacfaec550417cccc98b1891641297bb2" title="FileSource::getStreamCenter\lFrequency" alt="" coords="751,27,941,69"/>
+<area shape="rect" id="node7" href="$d9/db6/classFileSource.html#a36e2df1e50adc8720d7fe82c917c6331" title="FileSource::applySettings" alt="" coords="516,123,687,149"/>
+<area shape="rect" id="node8" href="$d9/db6/classFileSource.html#abe173f556596f7b341e94a605c390243" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="755,123,937,149"/>
+<area shape="rect" id="node9" href="$d9/db6/classFileSource.html#ac6a5306a4a7b11087d5aab98f7cd1f16" title="FileSource::destroy" alt="" coords="989,123,1124,149"/>
+</map>

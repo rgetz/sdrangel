@@ -1,0 +1,65 @@
+<map id="CWKeyer::webapiFormatChannelSettings" name="CWKeyer::webapiFormatChannelSettings">
+<area shape="rect" id="node2" href="$d6/de3/classWFMMod.html#a208b0a42316e6584e65cd116cd1c7dce" title="WFMMod::webapiFormatChannel\lSettings" alt="" coords="277,57,495,98"/>
+<area shape="rect" id="node6" href="$db/d93/classAMMod.html#a829a9d1a01c48b7266526b6443264257" title="AMMod::webapiFormatChannel\lSettings" alt="" coords="283,174,489,215"/>
+<area shape="rect" id="node10" href="$de/df8/classNFMMod.html#aac99a4c842aa6e142c973867d27fc02b" title="NFMMod::webapiFormatChannel\lSettings" alt="" coords="279,291,493,333"/>
+<area shape="rect" id="node14" href="$d6/da5/classFreeDVMod.html#ad71e811c16b8372b065a18c1d55f7859" title="FreeDVMod::webapiFormatChannel\lSettings" alt="" coords="271,409,501,450"/>
+<area shape="rect" id="node18" href="$dc/d8d/classSSBMod.html#a85ae87954cd4254ab7211635f8d6c40e" title="SSBMod::webapiFormatChannel\lSettings" alt="" coords="280,497,492,538"/>
+<area shape="rect" id="node22" href="$d6/de3/classWFMMod.html#a6d371d80037d69f4f01f97803a1c974b" title="WFMMod::webapiReverseSend\lCWSettings" alt="" coords="283,562,489,603"/>
+<area shape="rect" id="node25" href="$db/d93/classAMMod.html#a7027295d66aefb09a28e4e60d6e8b23e" title="AMMod::webapiReverseSend\lCWSettings" alt="" coords="289,693,483,734"/>
+<area shape="rect" id="node28" href="$de/df8/classNFMMod.html#a5162963cd00aed3b96338b55bed7f93d" title="NFMMod::webapiReverseSend\lCWSettings" alt="" coords="284,823,488,865"/>
+<area shape="rect" id="node31" href="$d6/da5/classFreeDVMod.html#a7911f497602b71db2bf84c89ad779027" title="FreeDVMod::webapiReverse\lSendCWSettings" alt="" coords="291,954,481,995"/>
+<area shape="rect" id="node38" href="$dc/d8d/classSSBMod.html#ac0445cf63a13033bab7a531ed82a8b49" title="SSBMod::webapiReverseSend\lCWSettings" alt="" coords="285,1085,487,1126"/>
+<area shape="rect" id="node45" href="$d6/de3/classWFMMod.html#aea233d97d5c7cf97712706e7ae507b4a" title="WFMMod::webapiReverseSend\lSettings" alt="" coords="283,627,489,669"/>
+<area shape="rect" id="node49" href="$db/d93/classAMMod.html#ac43690d4807d86a32e16947cf4c94489" title="AMMod::webapiReverseSend\lSettings" alt="" coords="289,758,483,799"/>
+<area shape="rect" id="node53" href="$de/df8/classNFMMod.html#ab8a5d4ade97a659598368c5e176c7c3f" title="NFMMod::webapiReverseSend\lSettings" alt="" coords="284,889,488,930"/>
+<area shape="rect" id="node57" href="$d6/da5/classFreeDVMod.html#a2c388ce2fe365e9abb824273d71db09b" title="FreeDVMod::webapiReverse\lSendSettings" alt="" coords="291,1019,481,1061"/>
+<area shape="rect" id="node61" href="$dc/d8d/classSSBMod.html#a003080b5b6495fbfdbee3da314b1a900" title="SSBMod::webapiReverseSend\lSettings" alt="" coords="285,1150,487,1191"/>
+<area shape="rect" id="node3" href="$d6/de3/classWFMMod.html#a367739d0bcde31ebd42a6add0f7a5536" title="WFMMod::webapiSettingsGet" alt="" coords="556,5,753,32"/>
+<area shape="rect" id="node5" href="$d6/de3/classWFMMod.html#ad93aa91dfb30742216813b9536b27327" title="WFMMod::webapiSettingsPut\lPatch" alt="" coords="557,57,753,98"/>
+<area shape="rect" id="node4" href="$d6/de3/classWFMMod.html#a8912fe9004d7b80a686881fa53a7a3ca" title="WFMMod::getStreamCenterFrequency" alt="" coords="808,35,1055,61"/>
+<area shape="rect" id="node7" href="$db/d93/classAMMod.html#a45967259d1dd5b917ae573c4de789e65" title="AMMod::webapiSettingsGet" alt="" coords="562,123,747,149"/>
+<area shape="rect" id="node9" href="$db/d93/classAMMod.html#aeffd64b0b601e7dec142d555d528010d" title="AMMod::webapiSettingsPut\lPatch" alt="" coords="563,174,747,215"/>
+<area shape="rect" id="node8" href="$db/d93/classAMMod.html#af36feee696264b51ebdb673512683295" title="AMMod::getStreamCenterFrequency" alt="" coords="814,152,1049,179"/>
+<area shape="rect" id="node11" href="$de/df8/classNFMMod.html#a772b8a569862c83e17567ec9ea73057f" title="NFMMod::webapiSettingsGet" alt="" coords="557,240,752,267"/>
+<area shape="rect" id="node13" href="$de/df8/classNFMMod.html#a03bb86d163c92ce35eff191ab7c958a3" title="NFMMod::webapiSettingsPut\lPatch" alt="" coords="558,291,751,333"/>
+<area shape="rect" id="node12" href="$de/df8/classNFMMod.html#ae32768518d5b2dc6f2bb314dd8fb8853" title="NFMMod::getStreamCenterFrequency" alt="" coords="809,269,1053,296"/>
+<area shape="rect" id="node15" href="$d6/da5/classFreeDVMod.html#a2aed51c7c4f223633f0ab84a27c68c71" title="FreeDVMod::webapiSettingsGet" alt="" coords="549,357,760,384"/>
+<area shape="rect" id="node17" href="$d6/da5/classFreeDVMod.html#a254760425a841be5ddff94a18b64cc05" title="FreeDVMod::webapiSettings\lPutPatch" alt="" coords="560,409,749,450"/>
+<area shape="rect" id="node16" href="$d6/da5/classFreeDVMod.html#a9d3b818b070a077a5b369f1b1cf2ae2d" title="FreeDVMod::getStreamCenter\lFrequency" alt="" coords="832,379,1031,421"/>
+<area shape="rect" id="node19" href="$dc/d8d/classSSBMod.html#af57fc78df0469e7b4ced93a2bad62b60" title="SSBMod::webapiSettingsGet" alt="" coords="559,475,751,501"/>
+<area shape="rect" id="node21" href="$dc/d8d/classSSBMod.html#a33a10553c8457b3de57ac72029a6bc3e" title="SSBMod::webapiSettingsPut\lPatch" alt="" coords="559,526,750,567"/>
+<area shape="rect" id="node20" href="$dc/d8d/classSSBMod.html#a52109fe5c575d8901546f3fec5aa50e1" title="SSBMod::getStreamCenterFrequency" alt="" coords="810,504,1053,531"/>
+<area shape="rect" id="node23" href="$d6/de3/classWFMMod.html#a17f8e8203448d5f97fc8850ffd705b90" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="842,592,1021,619"/>
+<area shape="rect" id="node24" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="1159,569,1290,596"/>
+<area shape="rect" id="node26" href="$db/d93/classAMMod.html#acd6c9fea90cb3a88360247196a94fe63" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="848,700,1015,727"/>
+<area shape="rect" id="node27" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="1165,700,1284,727"/>
+<area shape="rect" id="node29" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="844,831,1019,857"/>
+<area shape="rect" id="node30" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="1161,831,1288,857"/>
+<area shape="rect" id="node32" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="836,961,1027,988"/>
+<area shape="rect" id="node33" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="1103,961,1347,988"/>
+<area shape="rect" id="node34" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1395,961,1613,988"/>
+<area shape="rect" id="node35" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1661,961,1821,988"/>
+<area shape="rect" id="node36" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1897,954,2083,995"/>
+<area shape="rect" id="node37" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2159,961,2348,988"/>
+<area shape="rect" id="node39" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="845,1092,1018,1119"/>
+<area shape="rect" id="node40" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1111,1092,1338,1119"/>
+<area shape="rect" id="node41" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1413,1092,1595,1119"/>
+<area shape="rect" id="node42" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1670,1092,1813,1119"/>
+<area shape="rect" id="node43" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1869,1092,2111,1119"/>
+<area shape="rect" id="node44" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2168,1092,2339,1119"/>
+<area shape="rect" id="node46" href="$d6/de3/classWFMMod.html#aea7a42df0087b2917115e037df66b58a" title="WFMMod::applySettings" alt="" coords="571,643,738,669"/>
+<area shape="rect" id="node47" href="$d6/de3/classWFMMod.html#a3ec9a5e2e2e9b52cf401f9898c93c346" title="WFMMod::WFMMod" alt="" coords="859,643,1003,669"/>
+<area shape="rect" id="node48" href="$db/daf/classWFMMod_1_1MsgReportFileSourceStreamData.html#aeff81f569c77de84e535283bda05d14a" title="WFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1111,620,1338,676"/>
+<area shape="rect" id="node50" href="$db/d93/classAMMod.html#ad4d537f484214412a687bc794cb7e0fd" title="AMMod::applySettings" alt="" coords="577,765,732,792"/>
+<area shape="rect" id="node51" href="$db/d93/classAMMod.html#a806a46e308f33be1053e3dca65c20d6b" title="AMMod::AMMod" alt="" coords="871,765,991,792"/>
+<area shape="rect" id="node52" href="$d8/d80/classAMMod_1_1MsgReportFileSourceStreamData.html#ab75850db9c17363b847106b45eb14e93" title="AMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1111,751,1338,807"/>
+<area shape="rect" id="node54" href="$de/df8/classNFMMod.html#a5df57ef110295347dabb14a81e2df9d6" title="NFMMod::applySettings" alt="" coords="573,896,736,923"/>
+<area shape="rect" id="node55" href="$de/df8/classNFMMod.html#a6a5f4ec527cfb7e59b5e6abbb13942b2" title="NFMMod::NFMMod" alt="" coords="862,896,1001,923"/>
+<area shape="rect" id="node56" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1111,881,1338,937"/>
+<area shape="rect" id="node58" href="$d6/da5/classFreeDVMod.html#a6131e286149905c42097a601ecbab55e" title="FreeDVMod::applySettings" alt="" coords="565,1027,744,1053"/>
+<area shape="rect" id="node59" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="846,1027,1017,1053"/>
+<area shape="rect" id="node60" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="1111,1012,1338,1068"/>
+<area shape="rect" id="node62" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="574,1157,735,1184"/>
+<area shape="rect" id="node63" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="864,1157,999,1184"/>
+<area shape="rect" id="node64" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1111,1143,1338,1199"/>
+</map>

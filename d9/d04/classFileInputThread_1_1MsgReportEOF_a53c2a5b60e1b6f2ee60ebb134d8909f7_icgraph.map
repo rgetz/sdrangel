@@ -1,0 +1,15 @@
+<map id="FileInputThread::MsgReportEOF::create" name="FileInputThread::MsgReportEOF::create">
+<area shape="rect" id="node2" href="$d6/d3e/classFileInputThread.html#af9f52c883b39484c898383604ee13faf" title="FileInputThread::tick" alt="" coords="237,224,379,251"/>
+<area shape="rect" id="node3" href="$d6/d3e/classFileInputThread.html#a895f8c78dd51c88746e926294d82d4d7" title="FileInputThread::startWork" alt="" coords="653,107,831,133"/>
+<area shape="rect" id="node9" href="$d6/d3e/classFileInputThread.html#ac8338aa304952cd102dfac7d65b2aab2" title="FileInputThread::stopWork" alt="" coords="427,224,603,251"/>
+<area shape="rect" id="node4" href="$d7/deb/classFileInput.html#ac73e8e5d6b15ed693739565663d33fed" title="FileInput::handleMessage" alt="" coords="1126,208,1297,235"/>
+<area shape="rect" id="node6" href="$d9/d04/classFileInputThread_1_1MsgReportEOF.html#a34bc7f9c57fb217e7fabfda018725861" title="FileInputThread::MsgReport\lEOF::MsgReportEOF" alt="" coords="881,259,1065,301"/>
+<area shape="rect" id="node7" href="$d7/deb/classFileInput.html#a41ec80d67fe3515473e7e1130dd4eba0" title="FileInput::start" alt="" coords="920,157,1027,184"/>
+<area shape="rect" id="node5" href="$d7/deb/classFileInput.html#a090e6381223a51d1f5c1d1ab81348e5e" title="For when the source sample rate is set externally. " alt="" coords="1357,208,1528,235"/>
+<area shape="rect" id="node8" href="$dc/df1/classFileInput_1_1MsgReportHeaderCRC.html#a4dd3a0ef50ceeeb351d648068c89e488" title="FileInput::MsgReportHeader\lCRC::MsgReportHeaderCRC" alt="" coords="1113,49,1309,90"/>
+<area shape="rect" id="node10" href="$d6/d3e/classFileInputThread.html#ab8051f2b9b99367b980cb873af8fd0ca" title="FileInputThread::setSample\lRateAndSize" alt="" coords="651,158,833,199"/>
+<area shape="rect" id="node12" href="$d7/deb/classFileInput.html#a16dd4633406a121b088868efdba048db" title="FileInput::stop" alt="" coords="689,56,795,83"/>
+<area shape="rect" id="node14" href="$d6/d3e/classFileInputThread.html#adf3ee21ba48be14be3df7d638210d5c6" title="FileInputThread::~FileInput\lThread" alt="" coords="653,275,831,317"/>
+<area shape="rect" id="node11" href="$d7/deb/classFileInput.html#ad93572dc7d904cae0e4c7ab667cfe4e3" title="FileInput::applySettings" alt="" coords="894,208,1053,235"/>
+<area shape="rect" id="node13" href="$d7/deb/classFileInput.html#aadbae3ea08db485394b8567cb30e18da" title="FileInput::~FileInput" alt="" coords="904,5,1043,32"/>
+</map>

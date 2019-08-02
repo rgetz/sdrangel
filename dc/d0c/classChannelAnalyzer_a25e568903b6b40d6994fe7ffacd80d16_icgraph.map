@@ -1,0 +1,7 @@
+<map id="ChannelAnalyzer::applyChannelSettings" name="ChannelAnalyzer::applyChannelSettings">
+<area shape="rect" id="node2" href="$dc/d0c/classChannelAnalyzer.html#aa5722c96c8e5559f05af3dec9d27c71a" title="ChannelAnalyzer::Channel\lAnalyzer" alt="" coords="283,13,460,54"/>
+<area shape="rect" id="node4" href="$dc/d0c/classChannelAnalyzer.html#a54ee1a4ddfe2ffe909bbe7d855e5e6bb" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="261,79,481,105"/>
+<area shape="rect" id="node6" href="$dc/d0c/classChannelAnalyzer.html#a1f6308efe0b73d28a7d2f4d1036eb993" title="ChannelAnalyzer::start" alt="" coords="294,129,449,156"/>
+<area shape="rect" id="node3" href="$df/db9/classChannelAnalyzer_1_1MsgReportChannelSampleRateChanged.html#a640c1444f019873ba7e53844b70a104b" title="ChannelAnalyzer::MsgReport\lChannelSampleRateChanged\l::MsgReportChannelSampleRateChanged" alt="" coords="529,5,796,61"/>
+<area shape="rect" id="node5" href="$dc/d0c/classChannelAnalyzer.html#aad97ad5db6b44a48a41cf69aa022a0eb" title="ChannelAnalyzer::getPllPhase" alt="" coords="563,107,762,133"/>
+</map>

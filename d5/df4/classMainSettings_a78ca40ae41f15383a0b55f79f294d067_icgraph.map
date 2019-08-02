@@ -1,0 +1,12 @@
+<map id="MainSettings::getFileMinLogLevel" name="MainSettings::getFileMinLogLevel">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#a07ecf199328eadb36a298edc75dfd16f" title="WebAPIAdapterGUI::instance\lLoggingPut" alt="" coords="481,153,679,195"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#ac74532b6e04c01331cf393167e7f2ea1" title="WebAPIAdapterSrv::instance\lLoggingPut" alt="" coords="483,5,677,47"/>
+<area shape="rect" id="node4" href="$de/dde/classLoggingDialog.html#acfd87f5538a389bce666a9c85e4375e0" title="LoggingDialog::LoggingDialog" alt="" coords="229,114,424,141"/>
+<area shape="rect" id="node5" href="$db/d47/classMainCore.html#adc2dccf373007aa758c31ce89ec6c1be" title="MainCore::setLoggingOptions" alt="" coords="229,63,424,90"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#adbc8f1fc6871dc34d3eb3c9505ed88f2" title="MainWindow::setLoggingOptions" alt="" coords="220,219,433,246"/>
+<area shape="rect" id="node6" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="501,71,659,98"/>
+<area shape="rect" id="node7" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="745,71,888,98"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="491,285,669,311"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a7a10dbf6f80e372e7b2f093132989828" title="MainWindow::on_action\l_Logging_triggered" alt="" coords="499,219,661,260"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="727,285,907,311"/>
+</map>

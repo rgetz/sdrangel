@@ -1,0 +1,26 @@
+<map id="WFMDemod::MsgConfigureWFMDemod::create" name="WFMDemod::MsgConfigureWFMDemod::create">
+<area shape="rect" id="node2" href="$dd/d7d/classWFMDemodGUI.html#ab4de70ee082782e52823fb5058d14541" title="WFMDemodGUI::applySettings" alt="" coords="561,381,768,408"/>
+<area shape="rect" id="node19" href="$d3/dbd/classWFMDemod.html#a80c15ae0ccb9d14994bd857410bece40" title="WFMDemod::deserialize" alt="" coords="325,537,492,564"/>
+<area shape="rect" id="node21" href="$d3/dbd/classWFMDemod.html#aaba05810bf84372389023d7af3dd2943" title="WFMDemod::webapiSettings\lPutPatch" alt="" coords="312,749,505,790"/>
+<area shape="rect" id="node3" href="$dd/d7d/classWFMDemodGUI.html#ac6f455de3a0ace906314e65f7375182a" title="WFMDemodGUI::setCenterFrequency" alt="" coords="824,5,1071,32"/>
+<area shape="rect" id="node4" href="$dd/d7d/classWFMDemodGUI.html#afa4186333d090626932c0bd0e62add52" title="WFMDemodGUI::resetToDefaults" alt="" coords="837,56,1058,83"/>
+<area shape="rect" id="node5" href="$dd/d7d/classWFMDemodGUI.html#aa63686a1348119a83fc3bf167aacb208" title="WFMDemodGUI::deserialize" alt="" coords="1137,81,1327,108"/>
+<area shape="rect" id="node6" href="$dd/d7d/classWFMDemodGUI.html#a9252582f0a847febf46918f42951f3b0" title="WFMDemodGUI::channelMarker\lChangedByCursor" alt="" coords="841,158,1054,199"/>
+<area shape="rect" id="node7" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="1119,675,1345,701"/>
+<area shape="rect" id="node11" href="$dd/d7d/classWFMDemodGUI.html#a4468b0e8614c1d564b720b8209502aef" title="WFMDemodGUI::on_deltaFrequency\l_changed" alt="" coords="828,275,1067,317"/>
+<area shape="rect" id="node12" href="$dd/d7d/classWFMDemodGUI.html#a6410cc778cc7ac89a4e89a6da792d726" title="WFMDemodGUI::on_rfBW\l_changed" alt="" coords="858,341,1037,382"/>
+<area shape="rect" id="node13" href="$dd/d7d/classWFMDemodGUI.html#a469be91ba4b023861ce9ed37e7528b85" title="WFMDemodGUI::on_afBW\l_valueChanged" alt="" coords="856,406,1039,447"/>
+<area shape="rect" id="node14" href="$dd/d7d/classWFMDemodGUI.html#a159bbdc2fdfea4d3567c049f49c64f00" title="WFMDemodGUI::on_volume\l_valueChanged" alt="" coords="852,471,1043,513"/>
+<area shape="rect" id="node15" href="$dd/d7d/classWFMDemodGUI.html#ae49334ab7729a2133b49ab10d0be06a2" title="WFMDemodGUI::on_squelch\l_valueChanged" alt="" coords="850,537,1045,578"/>
+<area shape="rect" id="node16" href="$dd/d7d/classWFMDemodGUI.html#a05a9729199ab901ad2106dc9888e943c" title="WFMDemodGUI::on_audioMute\l_toggled" alt="" coords="843,602,1052,643"/>
+<area shape="rect" id="node17" href="$dd/d7d/classWFMDemodGUI.html#a7460551db5d0abeff755ec72fb386055" title="WFMDemodGUI::onMenuDialog\lCalled" alt="" coords="842,667,1053,709"/>
+<area shape="rect" id="node18" href="$dd/d7d/classWFMDemodGUI.html#aeeef5d2da2d64c66d771f7a38252f772" title="WFMDemodGUI::audioSelect" alt="" coords="849,733,1045,760"/>
+<area shape="rect" id="node8" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1393,675,1557,701"/>
+<area shape="rect" id="node9" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1605,675,1828,701"/>
+<area shape="rect" id="node10" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="1876,675,2027,701"/>
+<area shape="rect" id="node20" href="$d3/dbd/classWFMDemod.html#abfe9e10a709dee8cb0c4b5ef315e708f" title="Applies to a default stream. " alt="" coords="553,537,776,564"/>
+<area shape="rect" id="node22" href="$d3/dbd/classWFMDemod.html#a1994e1b3ae7d6c59e0495b8b13e838f8" title="WFMDemod::getMagSqLevels" alt="" coords="564,813,765,840"/>
+<area shape="rect" id="node23" href="$dd/d7d/classWFMDemodGUI.html#aff70b43565ccadca53fa06c6693f29f7" title="WFMDemodGUI::tick" alt="" coords="873,784,1022,811"/>
+<area shape="rect" id="node24" href="$d3/dbd/classWFMDemod.html#a14a70285749d8cd9d79fca330b0b40ed" title="WFMDemod::webapiFormatChannel\lReport" alt="" coords="830,835,1065,877"/>
+<area shape="rect" id="node25" href="$d3/dbd/classWFMDemod.html#a13374848fb89b221b24de39c5c76f892" title="WFMDemod::webapiReportGet" alt="" coords="1129,872,1335,899"/>
+</map>

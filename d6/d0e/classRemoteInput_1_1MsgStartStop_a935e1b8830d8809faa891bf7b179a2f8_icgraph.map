@@ -1,0 +1,7 @@
+<map id="RemoteInput::MsgStartStop::getStartStop" name="RemoteInput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$db/dfb/classRemoteInputGui.html#ac5c489e16678651af3ce6cb880fcbd12" title="RemoteInputGui::handleMessage" alt="" coords="239,15,455,42"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#a4f1ef1abb8edb7ecd68ff0dbd01a4d2f" title="RemoteInput::handleMessage" alt="" coords="249,67,445,94"/>
+<area shape="rect" id="node3" href="$db/dfb/classRemoteInputGui.html#aa40630663fded98b89ce11e24b15a580" title="RemoteInputGui::handleInput\lMessages" alt="" coords="504,5,696,47"/>
+<area shape="rect" id="node4" href="$db/dfb/classRemoteInputGui.html#a78d5a650119812ffc270775a5b070461" title="RemoteInputGui::RemoteInputGui" alt="" coords="745,13,965,39"/>
+<area shape="rect" id="node6" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="503,71,697,98"/>
+</map>

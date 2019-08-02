@@ -1,0 +1,8 @@
+<map id="DevicePlutoSDRParams::close" name="DevicePlutoSDRParams::close">
+<area shape="rect" id="node2" href="$da/dff/classPlutoSDROutput.html#a8588e6225682c553093d72249d6bd508" title="PlutoSDROutput::closeDevice" alt="" coords="220,15,420,42"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#a3b58f4f99d3155549b59d814de608dc8" title="PlutoSDRInput::closeDevice" alt="" coords="225,67,415,94"/>
+<area shape="rect" id="node3" href="$da/dff/classPlutoSDROutput.html#a3a7a54db8bbb986195d53106909b195b" title="PlutoSDROutput::~PlutoSDROutput" alt="" coords="468,14,703,41"/>
+<area shape="rect" id="node4" href="$da/d5d/classPlutoSDROutput_1_1MsgStartStop.html#a5f1f592f6e818d950c7c1e031495c4df" title="PlutoSDROutput::MsgStart\lStop::MsgStartStop" alt="" coords="759,5,941,47"/>
+<area shape="rect" id="node6" href="$d2/d3a/classPlutoSDRInput.html#a71f7f3daf8b715c51223ac33a45fafd2" title="PlutoSDRInput::~PlutoSDRInput" alt="" coords="478,71,693,98"/>
+<area shape="rect" id="node7" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="751,71,949,112"/>
+</map>

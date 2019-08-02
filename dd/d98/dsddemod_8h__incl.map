@@ -1,0 +1,21 @@
+<map id="plugins/channelrx/demoddsd/dsddemod.h" name="plugins/channelrx/demoddsd/dsddemod.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="435,95,615,121"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="48,169,154,196"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="941,95,1085,121"/>
+<area shape="rect" id="node19" href="$d5/ded/phasediscri_8h.html" title="dsp/phasediscri.h" alt="" coords="792,95,916,121"/>
+<area shape="rect" id="node20" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="787,169,866,196"/>
+<area shape="rect" id="node21" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="640,169,762,196"/>
+<area shape="rect" id="node23" href="$d0/d58/lowpass_8h.html" title="dsp/lowpass.h" alt="" coords="1549,95,1656,121"/>
+<area shape="rect" id="node25" href="$db/dba/bandpass_8h.html" title="dsp/bandpass.h" alt="" coords="1410,95,1525,121"/>
+<area shape="rect" id="node26" href="$dd/ddd/afsquelch_8h.html" title="dsp/afsquelch.h" alt="" coords="1272,95,1386,121"/>
+<area shape="rect" id="node29" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="1732,169,1875,196"/>
+<area shape="rect" id="node30" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="397,169,514,196"/>
+<area shape="rect" id="node32" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="1731,95,1874,121"/>
+<area shape="rect" id="node33" href="$dc/d7e/dsddemodsettings_8h.html" title="dsddemodsettings.h" alt="" coords="1109,95,1248,121"/>
+<area shape="rect" id="node34" href="$d1/d25/dsddecoder_8h.html" title="dsddecoder.h" alt="" coords="1962,95,2062,121"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1078,244,1188,271"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="564,244,633,271"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="179,169,322,196"/>
+<area shape="rect" id="node24" href="$df/db1/math_8h.html" title="math.h" alt="" coords="1622,169,1684,196"/>
+<area shape="rect" id="node27" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="1450,169,1597,196"/>
+</map>

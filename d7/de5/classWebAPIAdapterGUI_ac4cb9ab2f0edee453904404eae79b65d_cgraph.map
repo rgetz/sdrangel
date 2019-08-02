@@ -1,0 +1,14 @@
+<map id="WebAPIAdapterGUI::instanceAudioGet" name="WebAPIAdapterGUI::instanceAudioGet">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a5b7db237d55b56a548ad0b574daa967d" title="DSPEngine::getAudioDevice\lManager" alt="" coords="273,5,463,47"/>
+<area shape="rect" id="node3" href="$d0/d40/classAudioDeviceManager.html#a5ad1cde15fc95bb5a18bc0457343449a" title="AudioDeviceManager\l::getInputDeviceInfo" alt="" coords="295,71,441,112"/>
+<area shape="rect" id="node4" href="$dc/d38/classSWGSDRangel_1_1SWGAudioDevices.html#a8c235fffce0e2ae2dd1eb21c8274a3d1" title="SWGSDRangel::SWGAudioDevices\l::getInputDevices" alt="" coords="251,136,485,177"/>
+<area shape="rect" id="node5" href="$d0/d40/classAudioDeviceManager.html#aa5f338660246f47f64e8aad6b21a1ed6" title="AudioDeviceManager\l::getInputDevices" alt="" coords="295,201,441,243"/>
+<area shape="rect" id="node6" href="$d0/d40/classAudioDeviceManager.html#a370c64cf6a1c8a1221934112d2b8b702" title="AudioDeviceManager\l::getOutputDeviceInfo" alt="" coords="293,267,443,308"/>
+<area shape="rect" id="node7" href="$dc/d38/classSWGSDRangel_1_1SWGAudioDevices.html#add99cd3995db3b7addb5eda822335c37" title="SWGSDRangel::SWGAudioDevices\l::getOutputDevices" alt="" coords="251,332,485,373"/>
+<area shape="rect" id="node8" href="$d0/d40/classAudioDeviceManager.html#a5a7d583bd0b79dcbfe79f34da0fb61dc" title="AudioDeviceManager\l::getOutputDevices" alt="" coords="295,397,441,439"/>
+<area shape="rect" id="node9" href="$dc/d38/classSWGSDRangel_1_1SWGAudioDevices.html#a5b1c38e16db74bfed3fd61cb295c7a55" title="SWGSDRangel::SWGAudioDevices\l::init" alt="" coords="251,463,485,504"/>
+<area shape="rect" id="node10" href="$d1/da7/classAudioDeviceManager_1_1InputDeviceInfo.html#a0ff817841d1b9f8041230f5760e26cd7" title="AudioDeviceManager\l::InputDeviceInfo::resetTo\lDefaults" alt="" coords="281,529,455,585"/>
+<area shape="rect" id="node11" href="$d2/dbc/classAudioDeviceManager_1_1OutputDeviceInfo.html#ac4df89c82694f929883ddb5ae034e2fc" title="AudioDeviceManager\l::OutputDeviceInfo::\lresetToDefaults" alt="" coords="295,609,441,665"/>
+<area shape="rect" id="node12" href="$dc/d38/classSWGSDRangel_1_1SWGAudioDevices.html#aff94281de159e046c1f8adc8b72dbe08" title="SWGSDRangel::SWGAudioDevices\l::setNbInputDevices" alt="" coords="251,689,485,731"/>
+<area shape="rect" id="node13" href="$dc/d38/classSWGSDRangel_1_1SWGAudioDevices.html#a29de9b23248f2451c53e21ff4604dc39" title="SWGSDRangel::SWGAudioDevices\l::setNbOutputDevices" alt="" coords="251,755,485,796"/>
+</map>

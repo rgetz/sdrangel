@@ -1,0 +1,6 @@
+<map id="AudioDeviceManager::getOutputDevices" name="AudioDeviceManager::getOutputDevices">
+<area shape="rect" id="node2" href="$de/d74/classAudioDialogX.html#a3b149c4936643413c968d8b2ca5a4d62" title="AudioDialogX::AudioDialogX" alt="" coords="205,5,393,32"/>
+<area shape="rect" id="node3" href="$d3/d04/classAudioSelectDialog.html#a764d6bd665af5bbdc1b1fc89b0d167b7" title="AudioSelectDialog::\lAudioSelectDialog" alt="" coords="230,57,367,98"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#ac4cb9ab2f0edee453904404eae79b65d" title="WebAPIAdapterGUI::instance\lAudioGet" alt="" coords="200,122,397,163"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a9cd6c4dd7c4c0e4a1a2401b988b0de69" title="WebAPIAdapterSrv::instance\lAudioGet" alt="" coords="202,187,395,229"/>
+</map>

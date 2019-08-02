@@ -1,0 +1,11 @@
+<map id="PlutoSDRInputPlugin::enumSampleSources" name="PlutoSDRInputPlugin::enumSampleSources">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="282,35,322,61"/>
+<area shape="rect" id="node7" href="$d2/d01/classPlutoSDRInputPlugin.html#aaf67574b5921eee77d26204a9b977718" title="PlutoSDRInputPlugin\l::createSampleSourcePlugin\lInstanceGUI" alt="" coords="209,85,395,141"/>
+<area shape="rect" id="node8" href="$d8/d94/classDevicePlutoSDR.html#aed378dc1d086e026ed5ceb09c9e391b9" title="DevicePlutoSDR::getSerials" alt="" coords="208,165,396,192"/>
+<area shape="rect" id="node9" href="$d8/d94/classDevicePlutoSDR.html#a091587f1fed44d377afdfd7a2cccf5f2" title="DevicePlutoSDR::instance" alt="" coords="213,216,391,243"/>
+<area shape="rect" id="node10" href="$d8/d94/classDevicePlutoSDR.html#a77b6b790634836ff5d3633ce4854a618" title="DevicePlutoSDR::scan" alt="" coords="223,267,381,293"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="444,35,552,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="600,57,748,98"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="804,5,923,32"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="796,57,931,98"/>
+</map>

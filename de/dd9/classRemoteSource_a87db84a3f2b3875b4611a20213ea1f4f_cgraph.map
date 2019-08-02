@@ -1,0 +1,69 @@
+<map id="RemoteSource::destroy" name="RemoteSource::destroy">
+<area shape="rect" id="node2" href="$de/dd9/classRemoteSource.html#ac8d02bab284739e3e3e33162b0b5e1e5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="213,995,421,1022"/>
+<area shape="rect" id="node58" href="$de/dd9/classRemoteSource.html#af266ba166e53a63cdc4b7f49ca8c3061" title="RemoteSource::pull" alt="" coords="249,1541,386,1567"/>
+<area shape="rect" id="node63" href="$de/dd9/classRemoteSource.html#a390ea4bca2dbcd083c9f1ed277ee6bc2" title="RemoteSource::pullAudio" alt="" coords="232,1591,403,1618"/>
+<area shape="rect" id="node64" href="$de/dd9/classRemoteSource.html#aaee26cab0615202a49a11da3aafa8963" title="RemoteSource::start" alt="" coords="246,1439,389,1466"/>
+<area shape="rect" id="node65" href="$de/dd9/classRemoteSource.html#a55dcbd04877ab8b69454a58385b25ac2" title="RemoteSource::stop" alt="" coords="520,1490,663,1517"/>
+<area shape="rect" id="node3" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="532,907,651,934"/>
+<area shape="rect" id="node5" href="$d4/d09/classUpChannelizer_1_1MsgChannelizerNotification.html#a75066ff91784d146cd0da3af972f882b" title="UpChannelizer::MsgChannelizer\lNotification::getBasebandSampleRate" alt="" coords="469,1076,713,1117"/>
+<area shape="rect" id="node6" href="$d4/d09/classUpChannelizer_1_1MsgChannelizerNotification.html#a0e9c6ee71be8ce52537bf1656c5f9468" title="UpChannelizer::MsgChannelizer\lNotification::getSampleRate" alt="" coords="486,1141,697,1183"/>
+<area shape="rect" id="node7" href="$d4/d09/classUpChannelizer_1_1MsgChannelizerNotification.html#a901c58889f78fa0093527317602356e1" title="UpChannelizer::MsgChannelizer\lNotification::getFrequencyOffset" alt="" coords="486,1207,697,1248"/>
+<area shape="rect" id="node8" href="$dd/d9a/classRemoteSource_1_1MsgSampleRateNotification.html#abd2917a30a58480125a0dd56854bd2fe" title="RemoteSource::MsgSampleRate\lNotification::create" alt="" coords="484,1272,699,1313"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1067,1025,1216,1051"/>
+<area shape="rect" id="node10" href="$de/dd9/classRemoteSource.html#a4356b348b550cbcf601a8ac011fc7eb6" title="RemoteSource::applySettings" alt="" coords="493,594,689,621"/>
+<area shape="rect" id="node52" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#aad111feeaabdc0d13dfb0c27b9a9dff9" title="RemoteSource::MsgConfigure\lRemoteSource::getSettings" alt="" coords="492,645,691,687"/>
+<area shape="rect" id="node53" href="$de/daf/classRemoteSource_1_1MsgConfigureRemoteSource.html#acd890559205e26c511dde5a6af7f8798" title="RemoteSource::MsgConfigure\lRemoteSource::getForce" alt="" coords="492,711,691,752"/>
+<area shape="rect" id="node54" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#aaf9a43def592d03f998c59b3ffb2d655" title="RemoteSource::MsgReportStream\lData::create" alt="" coords="480,776,703,817"/>
+<area shape="rect" id="node55" href="$d3/d1f/classRemoteDataReadQueue.html#a94fe5f05fca041ff7cba2f236cd2782c" title="Returns queue size (max length) " alt="" coords="509,841,674,883"/>
+<area shape="rect" id="node56" href="$d3/d1f/classRemoteDataReadQueue.html#aa78abddd56e93343d8b632e7b05b8a55" title="Returns queue length. " alt="" coords="782,1487,947,1528"/>
+<area shape="rect" id="node57" href="$d3/d1f/classRemoteDataReadQueue.html#a8e0b003b1428a767e6fb6ee1e681e006" title="Returns the absolute number of samples read. " alt="" coords="509,959,674,1000"/>
+<area shape="rect" id="node4" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="780,974,949,1001"/>
+<area shape="rect" id="node11" href="$df/d64/classRemoteSourceThread.html#af43dd49b16b9c45d3ebc0f03ab0287a0" title="RemoteSourceThread\l::dataBind" alt="" coords="790,908,939,949"/>
+<area shape="rect" id="node13" href="$de/dd9/classRemoteSource.html#a689bb839f77544b65e5c169c940d91e2" title="RemoteSource::webapiReverse\lSendSettings" alt="" coords="761,523,968,564"/>
+<area shape="rect" id="node12" href="$d4/d4f/classRemoteSourceThread_1_1MsgDataBind.html#a5de4d0a5f2fcb704c34bb6d86bc4dce0" title="RemoteSourceThread\l::MsgDataBind::create" alt="" coords="1065,933,1218,975"/>
+<area shape="rect" id="node14" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a8cff83dd2529f6ca7b1c0b3663eb197b" title="SWGSDRangel::SWGChannelSettings\l::setDirection" alt="" coords="1016,751,1267,792"/>
+<area shape="rect" id="node15" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#ae499bf28194d5d278e5f93cb1f85740c" title="SWGSDRangel::SWGChannelSettings\l::setOriginatorChannelIndex" alt="" coords="1016,816,1267,857"/>
+<area shape="rect" id="node16" href="$d7/d02/classChannelAPI.html#a9421ed946473753ddec3d68bd634807f" title="ChannelAPI::getIndexInDeviceSet" alt="" coords="1030,882,1253,909"/>
+<area shape="rect" id="node17" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aa61492b5ba6ea4814dec07e859a25b66" title="SWGSDRangel::SWGChannelSettings\l::setOriginatorDeviceSetIndex" alt="" coords="1016,97,1267,139"/>
+<area shape="rect" id="node18" href="$d7/d02/classChannelAPI.html#aeee7a811690467390bc11def4f78b919" title="ChannelAPI::getDeviceSet\lIndex" alt="" coords="1052,163,1231,204"/>
+<area shape="rect" id="node19" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a9adab6da69bbc65c8aa06d5fb8b11d2e" title="SWGSDRangel::SWGChannelSettings\l::setChannelType" alt="" coords="1016,228,1267,269"/>
+<area shape="rect" id="node20" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#af7813a5bbc8f9fcf3315d45dcc54a077" title="SWGSDRangel::SWGChannelSettings\l::setRemoteSourceSettings" alt="" coords="1016,293,1267,335"/>
+<area shape="rect" id="node21" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#a10ddab02e15d463499a579ec6d10116c" title="SWGSDRangel::SWGChannelSettings\l::getRemoteSourceSettings" alt="" coords="1016,359,1267,400"/>
+<area shape="rect" id="node22" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a3db9746b94febde3e478789212d38a9f" title="SWGSDRangel::SWGRemoteSource\lSettings::setDataAddress" alt="" coords="1021,424,1262,465"/>
+<area shape="rect" id="node23" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a41cee782101109dd198bccfb9bcb861d" title="SWGSDRangel::SWGRemoteSource\lSettings::setDataPort" alt="" coords="1021,489,1262,531"/>
+<area shape="rect" id="node24" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a1529b72ff6a77d68d61df5962a125331" title="SWGSDRangel::SWGRemoteSource\lSettings::setRgbColor" alt="" coords="1021,555,1262,596"/>
+<area shape="rect" id="node25" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a64f7a96558b4459dbfb96c24e1c26c89" title="SWGSDRangel::SWGRemoteSource\lSettings::setTitle" alt="" coords="1021,620,1262,661"/>
+<area shape="rect" id="node26" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#af8ec63c744563e8634ddfbb8f02b41c9" title="SWGSDRangel::SWGChannelSettings\l::asJson" alt="" coords="1016,685,1267,727"/>
+<area shape="rect" id="node27" href="$db/daa/classSWGSDRangel_1_1SWGChannelSettings.html#aa64df94d68acbb4b8fc717e48aec6032" title="SWGSDRangel::SWGChannelSettings\l::asJsonObject" alt="" coords="1315,685,1565,727"/>
+<area shape="rect" id="node28" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="1648,13,1843,39"/>
+<area shape="rect" id="node30" href="$dd/d3c/classSWGSDRangel_1_1SWGAMDemodSettings.html#a80342315fc76dfc0360cb3a41fc0a690" title="SWGSDRangel::SWGAMDemodSettings\l::isSet" alt="" coords="1613,64,1877,105"/>
+<area shape="rect" id="node31" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html#a732753b726ea928029f2739534c82b03" title="SWGSDRangel::SWGAMModSettings\l::isSet" alt="" coords="1622,391,1869,432"/>
+<area shape="rect" id="node33" href="$d5/df0/classSWGSDRangel_1_1SWGATVModSettings.html#ab27a78edec8f2b6570761065349b9dfc" title="SWGSDRangel::SWGATVModSettings\l::isSet" alt="" coords="1619,456,1872,497"/>
+<area shape="rect" id="node34" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html#a2192092fffb14a9461ba43d4703f3b78" title="SWGSDRangel::SWGBFMDemod\lSettings::isSet" alt="" coords="1633,521,1857,563"/>
+<area shape="rect" id="node35" href="$d6/d5e/classSWGSDRangel_1_1SWGDSDDemodSettings.html#a6aab825873a7acc8b3b543cf752b3219" title="SWGSDRangel::SWGDSDDemod\lSettings::isSet" alt="" coords="1633,587,1858,628"/>
+<area shape="rect" id="node36" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html#a2a15537f5c4be8ef06cc59b949a3ec4a" title="SWGSDRangel::SWGFileSource\lSettings::isSet" alt="" coords="1637,652,1853,693"/>
+<area shape="rect" id="node37" href="$d5/d77/classSWGSDRangel_1_1SWGFreeDVDemodSettings.html#a3f7b1a502b5f9b21347fd78e2e959cb4" title="SWGSDRangel::SWGFreeDVDemod\lSettings::isSet" alt="" coords="1625,717,1866,759"/>
+<area shape="rect" id="node38" href="$d2/d68/classSWGSDRangel_1_1SWGFreeDVModSettings.html#a02174a93c8ada96b173a2fbb8d468497" title="SWGSDRangel::SWGFreeDVMod\lSettings::isSet" alt="" coords="1633,129,1857,171"/>
+<area shape="rect" id="node39" href="$dc/d82/classSWGSDRangel_1_1SWGFreqTrackerSettings.html#a480ef11d8cf976fccbcc3099044ac34f" title="SWGSDRangel::SWGFreqTracker\lSettings::isSet" alt="" coords="1633,783,1857,824"/>
+<area shape="rect" id="node40" href="$d4/d7a/classSWGSDRangel_1_1SWGNFMDemodSettings.html#a61616939ff79f4e4926c48c521935c71" title="SWGSDRangel::SWGNFMDemod\lSettings::isSet" alt="" coords="1633,848,1858,889"/>
+<area shape="rect" id="node41" href="$d3/d66/classSWGSDRangel_1_1SWGNFMModSettings.html#a37c9133225a4fa44cf60991d3368bfa4" title="SWGSDRangel::SWGNFMModSettings\l::isSet" alt="" coords="1617,195,1873,236"/>
+<area shape="rect" id="node42" href="$d6/d37/classSWGSDRangel_1_1SWGLocalSinkSettings.html#a814123bc839529d4bca8a1fb721cd012" title="SWGSDRangel::SWGLocalSink\lSettings::isSet" alt="" coords="1640,913,1851,955"/>
+<area shape="rect" id="node43" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html#a48f8d0a47fa0a689c1483deacf15d525" title="SWGSDRangel::SWGLocalSource\lSettings::isSet" alt="" coords="1632,979,1859,1020"/>
+<area shape="rect" id="node44" href="$df/d4d/classSWGSDRangel_1_1SWGRemoteSinkSettings.html#a41fe341a0e97a1f9bd4d9619450a5240" title="SWGSDRangel::SWGRemoteSink\lSettings::isSet" alt="" coords="1632,1044,1859,1085"/>
+<area shape="rect" id="node45" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html#a8b116fac38336f074f758ccdd10b37ba" title="SWGSDRangel::SWGRemoteSource\lSettings::isSet" alt="" coords="1625,1109,1866,1151"/>
+<area shape="rect" id="node46" href="$d8/d71/classSWGSDRangel_1_1SWGSSBModSettings.html#aebf8e650fb17d628207d87defbe7bae7" title="SWGSDRangel::SWGSSBModSettings\l::isSet" alt="" coords="1618,260,1873,301"/>
+<area shape="rect" id="node47" href="$d7/d5c/classSWGSDRangel_1_1SWGSSBDemodSettings.html#a57493542edb9900ad547c6268ec21b5a" title="SWGSDRangel::SWGSSBDemod\lSettings::isSet" alt="" coords="1634,1175,1857,1216"/>
+<area shape="rect" id="node48" href="$de/d4f/classSWGSDRangel_1_1SWGUDPSourceSettings.html#a73f91215fa8c4ef2255602fc85e90623" title="SWGSDRangel::SWGUDPSource\lSettings::isSet" alt="" coords="1633,1240,1857,1281"/>
+<area shape="rect" id="node49" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html#ae3d4b88432ac68373fceec6e93b0a1fa" title="SWGSDRangel::SWGUDPSinkSettings\l::isSet" alt="" coords="1617,1305,1874,1347"/>
+<area shape="rect" id="node50" href="$d0/de4/classSWGSDRangel_1_1SWGWFMDemodSettings.html#a3313d482c0c331364842df30dd0abf22" title="SWGSDRangel::SWGWFMDemod\lSettings::isSet" alt="" coords="1631,1371,1859,1412"/>
+<area shape="rect" id="node51" href="$db/d62/classSWGSDRangel_1_1SWGWFMModSettings.html#afc80c7d136c6ff736e9746c774e91187" title="SWGSDRangel::SWGWFMModSettings\l::isSet" alt="" coords="1616,325,1875,367"/>
+<area shape="rect" id="node29" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1959,5,2151,47"/>
+<area shape="rect" id="node32" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html#a64b479e886736ea9e3d26ab93018bcb3" title="SWGSDRangel::SWGCWKeyerSettings\l::isSet" alt="" coords="1925,260,2184,301"/>
+<area shape="rect" id="node59" href="$d3/d1f/classRemoteDataReadQueue.html#ae3485c1b83f86001e5bf7ef980119458" title="Read sample from queue possibly scaling to Tx size. " alt="" coords="509,1541,674,1583"/>
+<area shape="rect" id="node60" href="$d3/d1f/classRemoteDataReadQueue.html#ade0839ca6ee50140ee217dc95986c013" title="RemoteDataReadQueue\l::convertDataToSample" alt="" coords="782,1552,947,1593"/>
+<area shape="rect" id="node61" href="$d0/d9b/structSample.html#aa0fbfa4d4588953f462109abd4f715f0" title="Sample::setImag" alt="" coords="1081,1534,1202,1561"/>
+<area shape="rect" id="node62" href="$d0/d9b/structSample.html#a2fc6a7457940b55080c0ee6460250d81" title="Sample::setReal" alt="" coords="1082,1585,1201,1611"/>
+<area shape="rect" id="node66" href="$df/d64/classRemoteSourceThread.html#a93bc465fd52ac88e0009a8092b6f4e75" title="RemoteSourceThread\l::startStop" alt="" coords="790,1421,939,1463"/>
+<area shape="rect" id="node67" href="$d7/d77/classRemoteSourceThread_1_1MsgStartStop.html#a120529493154c95b33a5c32d8d2e92a7" title="RemoteSourceThread\l::MsgStartStop::create" alt="" coords="1064,1421,1219,1463"/>
+<area shape="rect" id="node68" href="$d7/d77/classRemoteSourceThread_1_1MsgStartStop.html#a1677b38ff8844a379a69336d1822c8a2" title="RemoteSourceThread\l::MsgStartStop::MsgStartStop" alt="" coords="1341,1421,1539,1463"/>
+</map>

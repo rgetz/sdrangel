@@ -1,0 +1,10 @@
+<map id="FreeDVDemod::webapiFormatChannelSettings" name="FreeDVDemod::webapiFormatChannelSettings">
+<area shape="rect" id="node2" href="$de/de0/classFreeDVDemod.html#a70725769bcf7ed1eb056feeec070dc2f" title="FreeDVDemod::webapiSettingsGet" alt="" coords="252,5,479,32"/>
+<area shape="rect" id="node9" href="$de/de0/classFreeDVDemod.html#af1a9424a1fd13776ea01df2b28afcbbe" title="FreeDVDemod::webapiSettings\lPutPatch" alt="" coords="262,57,469,98"/>
+<area shape="rect" id="node3" href="$de/de0/classFreeDVDemod.html#af47e9e95c71ec1881974b508da07520b" title="FreeDVDemod::isSync" alt="" coords="527,35,684,61"/>
+<area shape="rect" id="node4" href="$da/d3d/classFreeDVDemodGUI.html#a8fecb1d13482226c1406b8e0ca19571f" title="FreeDVDemodGUI::tick" alt="" coords="732,35,895,61"/>
+<area shape="rect" id="node5" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="943,35,1195,61"/>
+<area shape="rect" id="node6" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1243,35,1420,61"/>
+<area shape="rect" id="node7" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1468,35,1704,61"/>
+<area shape="rect" id="node8" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1752,35,1916,61"/>
+</map>

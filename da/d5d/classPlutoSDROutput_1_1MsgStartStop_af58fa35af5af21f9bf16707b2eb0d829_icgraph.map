@@ -1,0 +1,7 @@
+<map id="PlutoSDROutput::MsgStartStop::getStartStop" name="PlutoSDROutput::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$d2/d66/classPlutoSDROutputGUI.html#af3f2e2282b81049df089b0733f18bf42" title="PlutoSDROutputGUI::\lhandleMessage" alt="" coords="268,5,420,47"/>
+<area shape="rect" id="node5" href="$da/dff/classPlutoSDROutput.html#ad132fd5cef658cfceffc18fe8cc34967" title="PlutoSDROutput::handleMessage" alt="" coords="235,71,453,98"/>
+<area shape="rect" id="node3" href="$d2/d66/classPlutoSDROutputGUI.html#a1a9019c8d9d45eda1b322f25cfee7b85" title="PlutoSDROutputGUI::\lhandleInputMessages" alt="" coords="535,5,687,47"/>
+<area shape="rect" id="node4" href="$d2/d66/classPlutoSDROutputGUI.html#afd8e2abb149639500049e4897eb5d4df" title="PlutoSDROutputGUI::\lPlutoSDROutputGUI" alt="" coords="768,5,920,47"/>
+<area shape="rect" id="node6" href="$da/dff/classPlutoSDROutput.html#aca239171e0e110b0da85b8f1634e8483" title="For when the sink sample rate is set externally. " alt="" coords="501,71,720,98"/>
+</map>

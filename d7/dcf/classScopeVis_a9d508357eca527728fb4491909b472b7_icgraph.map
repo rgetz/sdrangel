@@ -1,0 +1,6 @@
+<map id="ScopeVis::getTraceData" name="ScopeVis::getTraceData">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ac93a15419883d6cb6cebbd11bae93277" title="GLScopeGUI::on_trace\l_valueChanged" alt="" coords="235,5,394,47"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#a7f264ecdcc8919e332585b350fc6ca70" title="GLScopeGUI::on_traceDown\l_clicked" alt="" coords="219,71,411,112"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#ae344100c153f6e6f3d32ad6506e681df" title="GLScopeGUI::on_traceUp\l_clicked" alt="" coords="227,136,402,177"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#a2153e17c9dce249929ece2cb39296b95" title="GLScopeGUI::focusOnTrace" alt="" coords="459,13,649,39"/>
+</map>

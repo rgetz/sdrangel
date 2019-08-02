@@ -1,0 +1,9 @@
+<map id="LocalOutputGui::blockApplySettings" name="LocalOutputGui::blockApplySettings">
+<area shape="rect" id="node2" href="$dd/d63/classLocalOutputGui.html#a72392f70748f21b18e8ebefe731fe4e0" title="LocalOutputGui::displaySettings" alt="" coords="237,76,447,103"/>
+<area shape="rect" id="node6" href="$dd/d63/classLocalOutputGui.html#ad7584e9c80d7c9c62b37c6d1609196a4" title="LocalOutputGui::handleMessage" alt="" coords="496,135,707,162"/>
+<area shape="rect" id="node8" href="$dd/d63/classLocalOutputGui.html#a2691b464c078cad294e7e04dd83b05db" title="LocalOutputGui::updateSample\lRateAndFrequency" alt="" coords="241,178,443,220"/>
+<area shape="rect" id="node3" href="$dd/d63/classLocalOutputGui.html#ad495a70e32d2c6a0150910cb3b8c03b5" title="LocalOutputGui::LocalOutputGui" alt="" coords="991,59,1201,86"/>
+<area shape="rect" id="node4" href="$dd/d63/classLocalOutputGui.html#ae9340044201e7af92f28d9422a712379" title="LocalOutputGui::resetToDefaults" alt="" coords="495,34,708,60"/>
+<area shape="rect" id="node5" href="$dd/d63/classLocalOutputGui.html#ad65bface8d518185e7bede78082b9577" title="LocalOutputGui::deserialize" alt="" coords="510,84,693,111"/>
+<area shape="rect" id="node7" href="$dd/d63/classLocalOutputGui.html#a7a31e127b487a3035a2146a0b88f85d4" title="LocalOutputGui::handleInput\lMessages" alt="" coords="756,128,943,169"/>
+</map>

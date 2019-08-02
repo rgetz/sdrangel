@@ -1,0 +1,19 @@
+<map id="SWGSDRangel::SWGWFMDemodSettings::setAfBandwidth" name="SWGSDRangel::SWGWFMDemodSettings::setAfBandwidth">
+<area shape="rect" id="node2" href="$d3/dbd/classWFMDemod.html#a504cbbd1998b923b69bfa3a2134c4988" title="WFMDemod::webapiFormatChannel\lSettings" alt="" coords="281,106,516,147"/>
+<area shape="rect" id="node13" href="$d3/dbd/classWFMDemod.html#a98155bcb6b1bc2d06f715656b3243076" title="WFMDemod::webapiReverseSend\lSettings" alt="" coords="287,171,511,213"/>
+<area shape="rect" id="node3" href="$d3/dbd/classWFMDemod.html#a147e73d9291a6fcf818ee54ca5c0fac3" title="WFMDemod::webapiSettingsGet" alt="" coords="564,59,779,85"/>
+<area shape="rect" id="node12" href="$d3/dbd/classWFMDemod.html#aaba05810bf84372389023d7af3dd2943" title="WFMDemod::webapiSettings\lPutPatch" alt="" coords="575,110,768,151"/>
+<area shape="rect" id="node4" href="$d3/dbd/classWFMDemod.html#a1994e1b3ae7d6c59e0495b8b13e838f8" title="WFMDemod::getMagSqLevels" alt="" coords="827,64,1028,91"/>
+<area shape="rect" id="node5" href="$dd/d7d/classWFMDemodGUI.html#aff70b43565ccadca53fa06c6693f29f7" title="WFMDemodGUI::tick" alt="" coords="1129,5,1278,32"/>
+<area shape="rect" id="node10" href="$d3/dbd/classWFMDemod.html#a14a70285749d8cd9d79fca330b0b40ed" title="WFMDemod::webapiFormatChannel\lReport" alt="" coords="1086,57,1321,98"/>
+<area shape="rect" id="node6" href="$dd/d7d/classWFMDemodGUI.html#a77742422e34865f7272bd8b79d53831b" title="WFMDemodGUI::WFMDemodGUI" alt="" coords="1379,5,1605,32"/>
+<area shape="rect" id="node7" href="$dd/d7d/classWFMDemodGUI.html#a10b1c454b79d51ebabf60ca94a44f916" title="WFMDemodGUI::create" alt="" coords="1653,5,1817,32"/>
+<area shape="rect" id="node8" href="$d2/d6f/classWFMPlugin.html#a0bb0f9f403cabfa170e1b2cfc8360f92" title="WFMPlugin::createRxChannelGUI" alt="" coords="1865,5,2088,32"/>
+<area shape="rect" id="node9" href="$d2/d6f/classWFMPlugin.html#a0729d1d4aac7d2a54b1df61e2e9f51ee" title="WFMPlugin::initPlugin" alt="" coords="2136,5,2287,32"/>
+<area shape="rect" id="node11" href="$d3/dbd/classWFMDemod.html#a13374848fb89b221b24de39c5c76f892" title="WFMDemod::webapiReportGet" alt="" coords="1389,93,1595,120"/>
+<area shape="rect" id="node14" href="$d3/dbd/classWFMDemod.html#a4cece179a3599879d1fa2c033b7594ce" title="WFMDemod::applySettings" alt="" coords="580,179,763,205"/>
+<area shape="rect" id="node15" href="$d3/dbd/classWFMDemod.html#a30f6c3ca378cefc32893420aeb055bfa" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="830,177,1025,204"/>
+<area shape="rect" id="node17" href="$d3/dbd/classWFMDemod.html#ad1246235d96cc5ec95b1c9737a52432c" title="WFMDemod::WFMDemod" alt="" coords="838,232,1017,259"/>
+<area shape="rect" id="node16" href="$d3/dbd/classWFMDemod.html#a9b33a25f6872c716e49e50b36db3d071" title="WFMDemod::destroy" alt="" coords="1130,176,1277,203"/>
+<area shape="rect" id="node18" href="$db/d08/classWFMDemod_1_1MsgConfigureChannelizer.html#a53a299a353bc18d4f8ad9377d83f5c46" title="WFMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1076,227,1331,269"/>
+</map>

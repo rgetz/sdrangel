@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGDSDDemodSettings::setReverseApiChannelIndex" name="SWGSDRangel::SWGDSDDemodSettings::setReverseApiChannelIndex">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a6fad6562efe3b8e47b23da8db79aea2f" title="DSDDemod::webapiFormatChannel\lSettings" alt="" coords="297,64,528,105"/>
+<area shape="rect" id="node3" href="$d6/d40/classDSDDemod.html#a51399ab32591ea82cddfa41429b5f1fd" title="DSDDemod::webapiSettingsGet" alt="" coords="576,42,787,69"/>
+<area shape="rect" id="node12" href="$d6/d40/classDSDDemod.html#a4a302f412cfb13a8e810d1944d07fe79" title="DSDDemod::webapiSettings\lPutPatch" alt="" coords="586,93,777,135"/>
+<area shape="rect" id="node4" href="$d6/d40/classDSDDemod.html#abab2f2e503443588368023c56dd0daf5" title="DSDDemod::getMagSqLevels" alt="" coords="835,71,1033,98"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a79fee02ef629c7f1fd556d0237060619" title="DSDDemodGUI::tick" alt="" coords="1123,13,1270,39"/>
+<area shape="rect" id="node10" href="$d6/d40/classDSDDemod.html#a5a54c041f499b9bcc3885b938ec4c234" title="DSDDemod::webapiFormatChannel\lReport" alt="" coords="1081,64,1312,105"/>
+<area shape="rect" id="node6" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="1360,13,1580,39"/>
+<area shape="rect" id="node7" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1628,13,1789,39"/>
+<area shape="rect" id="node8" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1837,5,2028,47"/>
+<area shape="rect" id="node9" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="2076,13,2267,39"/>
+<area shape="rect" id="node11" href="$d6/d40/classDSDDemod.html#a5e75d3255f92671186337e36c45525c0" title="DSDDemod::webapiReportGet" alt="" coords="1369,101,1571,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SWGSDRangel::SWGSDRPlayReport::getBandwidths" name="SWGSDRangel::SWGSDRPlayReport::getBandwidths">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#a09db82c5770a92204fbe621434ce1baf" title="SDRPlayInput::webapiFormat\lDeviceReport" alt="" coords="301,5,497,47"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a71c6a12533ea3e05ee0a63644e1b9fbd" title="SDRPlayInput::webapiReportGet" alt="" coords="545,13,760,39"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="808,13,1012,39"/>
+</map>

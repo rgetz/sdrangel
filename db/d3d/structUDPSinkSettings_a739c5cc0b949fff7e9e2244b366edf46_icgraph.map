@@ -1,0 +1,10 @@
+<map id="UDPSinkSettings::deserialize" name="UDPSinkSettings::deserialize">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a75a5e77479a21892e6768899c662c016" title="UDPSinkGUI::deserialize" alt="" coords="278,5,449,32"/>
+<area shape="rect" id="node3" href="$d2/d3d/classUDPSink.html#a0d8891eaffb332250f2aa78090eada4c" title="UDPSink::deserialize" alt="" coords="290,56,437,83"/>
+<area shape="rect" id="node5" href="$db/d3d/structUDPSinkSettings.html#a573923442819aeabc06bfa144b8a349e" title="UDPSinkSettings::setSpectrumGUI" alt="" coords="248,107,479,133"/>
+<area shape="rect" id="node4" href="$d2/d3d/classUDPSink.html#ac98db0e4796b0010aa2d724c86119d1e" title="Applies to a default stream. " alt="" coords="527,56,729,83"/>
+<area shape="rect" id="node6" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="534,107,722,133"/>
+<area shape="rect" id="node7" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="777,107,923,133"/>
+<area shape="rect" id="node8" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="971,107,1217,133"/>
+<area shape="rect" id="node9" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1265,107,1440,133"/>
+</map>

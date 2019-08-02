@@ -1,0 +1,20 @@
+<map id="SWGSDRangel::SWGChannelSettings::getUdpSinkSettings" name="SWGSDRangel::SWGChannelSettings::getUdpSinkSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="326,13,497,54"/>
+<area shape="rect" id="node5" href="$d2/d3d/classUDPSink.html#aa35c34963e625a1b26f4e22243eafe28" title="UDPSink::webapiFormatChannel\lSettings" alt="" coords="304,130,519,171"/>
+<area shape="rect" id="node6" href="$d2/d3d/classUDPSink.html#a419811d3dc6d9edeacd881dd3c8feed1" title="UDPSink::webapiSettingsGet" alt="" coords="567,85,761,112"/>
+<area shape="rect" id="node8" href="$d2/d3d/classUDPSink.html#a796e77832c044e68d697f7b4cfb526e7" title="UDPSink::webapiSettingsPut\lPatch" alt="" coords="567,137,761,178"/>
+<area shape="rect" id="node9" href="$d2/d3d/classUDPSink.html#a14606eaedad87960e8c27f761104bd09" title="UDPSink::webapiReverseSend\lSettings" alt="" coords="309,247,514,289"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="573,5,755,61"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="820,13,983,54"/>
+<area shape="rect" id="node7" href="$d2/d3d/classUDPSink.html#a5cc20f19910e5d4ab0835c1d91c9a34a" title="UDPSink::getStreamCenter\lFrequency" alt="" coords="809,107,993,149"/>
+<area shape="rect" id="node10" href="$d2/d3d/classUDPSink.html#a90c3091157ab5a24d56942f37359319f" title="UDPSink::applySettings" alt="" coords="582,255,746,281"/>
+<area shape="rect" id="node11" href="$d2/d3d/classUDPSink.html#af42344b7dd6a2086d0b544d6334dcf22" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="813,228,989,255"/>
+<area shape="rect" id="node18" href="$d2/d3d/classUDPSink.html#a6e0a451e78739fa6faa371afdea73aff" title="UDPSink::UDPSink" alt="" coords="831,281,971,308"/>
+<area shape="rect" id="node12" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="1068,227,1249,253"/>
+<area shape="rect" id="node13" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="1324,227,1455,253"/>
+<area shape="rect" id="node14" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1503,227,1691,253"/>
+<area shape="rect" id="node15" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1739,227,1884,253"/>
+<area shape="rect" id="node16" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1932,227,2179,253"/>
+<area shape="rect" id="node17" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="2227,227,2401,253"/>
+<area shape="rect" id="node19" href="$d9/d30/classUDPSink_1_1MsgConfigureChannelizer.html#a686c49baf084992c02c97870a6ee2517" title="UDPSink::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1041,278,1276,319"/>
+</map>

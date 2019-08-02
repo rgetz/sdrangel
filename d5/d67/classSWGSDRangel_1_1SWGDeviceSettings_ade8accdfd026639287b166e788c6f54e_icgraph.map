@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGDeviceSettings::getLocalInputSettings" name="SWGSDRangel::SWGDeviceSettings::getLocalInputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="304,5,468,47"/>
+<area shape="rect" id="node5" href="$d8/d47/classLocalInput.html#a33aeeff4cf1042f8b0dee480f2846788" title="LocalInput::webapiFormat\lDeviceSettings" alt="" coords="300,123,472,164"/>
+<area shape="rect" id="node6" href="$d8/d47/classLocalInput.html#a559aa51c6cf57fd24d60957a82e0c113" title="LocalInput::webapiSettingsGet" alt="" coords="533,113,733,139"/>
+<area shape="rect" id="node8" href="$d8/d47/classLocalInput.html#a4f82e6432d6a6ea95fbbc28a937771ac" title="LocalInput::webapiSettings\lPutPatch" alt="" coords="544,164,723,205"/>
+<area shape="rect" id="node9" href="$d8/d47/classLocalInput.html#a116b686777cbe739c124cea2b0175b35" title="LocalInput::webapiReverse\lSendSettings" alt="" coords="296,240,476,281"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="524,5,743,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="800,5,963,47"/>
+<area shape="rect" id="node7" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a9360120dec540495691a8f0e74e59a59" title="LocalInput::MsgReportSample\lRateAndFrequency::MsgReportSample\lRateAndFrequency" alt="" coords="1020,178,1271,234"/>
+<area shape="rect" id="node10" href="$d8/d47/classLocalInput.html#ad33a3fb9846a5afc48ec1c3526499b9b" title="LocalInput::applySettings" alt="" coords="549,247,718,274"/>
+<area shape="rect" id="node11" href="$d8/d47/classLocalInput.html#a208b495a2352e0312dc1ad04632c22ff" title="LocalInput::handleMessage" alt="" coords="791,218,972,245"/>
+<area shape="rect" id="node12" href="$d8/d47/classLocalInput.html#a0c9c3749856cc77bdffc01ee69758662" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="828,269,935,295"/>
+</map>

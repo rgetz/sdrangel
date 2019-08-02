@@ -1,0 +1,7 @@
+<map id="ATVDemod::demod" name="ATVDemod::demod">
+<area shape="rect" id="node2" href="$de/dce/classATVDemod.html#a92701af346cced40f0891f3250e9b0f4" title="ATVDemod::feed" alt="" coords="191,13,313,39"/>
+<area shape="rect" id="node3" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="361,13,540,39"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="588,13,803,39"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="851,13,1009,39"/>
+<area shape="rect" id="node6" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1057,5,1244,47"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="FCDProPlusGui::updateFrequencyLimits" name="FCDProPlusGui::updateFrequencyLimits">
+<area shape="rect" id="node2" href="$d4/d5d/classFCDProPlusGui.html#a20bf44a327548a57bd43694fa16801da" title="FCDProPlusGui::displaySettings" alt="" coords="277,202,491,229"/>
+<area shape="rect" id="node4" href="$d4/d5d/classFCDProPlusGui.html#a9710adf9b879ce9451942d6b7bd9b974" title="FCDProPlusGui::FCDProPlusGui" alt="" coords="1043,130,1261,157"/>
+<area shape="rect" id="node11" href="$d4/d5d/classFCDProPlusGui.html#ad21c7e13c81bfa76a0e7ed42d138f73d" title="FCDProPlusGui::on_transverter\l_clicked" alt="" coords="281,457,487,499"/>
+<area shape="rect" id="node3" href="$d4/d5d/classFCDProPlusGui.html#a87b2734f6691755758c1c44df30c7da7" title="FCDProPlusGui::deserialize" alt="" coords="806,271,993,298"/>
+<area shape="rect" id="node5" href="$d4/d5d/classFCDProPlusGui.html#a217ee60e61cc381269bcf72129c22a06" title="FCDProPlusGui::handleMessage" alt="" coords="540,122,755,149"/>
+<area shape="rect" id="node7" href="$d4/d5d/classFCDProPlusGui.html#aea9944b9fa6f19af6f59297c3b2ecb97" title="FCDProPlusGui::on_ifGain\l_valueChanged" alt="" coords="558,224,737,265"/>
+<area shape="rect" id="node8" href="$d4/d5d/classFCDProPlusGui.html#a5385a38a6802d51a409dcaf596fb42e7" title="FCDProPlusGui::on_ppm\l_valueChanged" alt="" coords="562,289,733,331"/>
+<area shape="rect" id="node9" href="$d4/d5d/classFCDProPlusGui.html#abd3943ac3bf91fdcfcbd83cec3566e4f" title="FCDProPlusGui::resetToDefaults" alt="" coords="539,355,756,382"/>
+<area shape="rect" id="node10" href="$d4/d5d/classFCDProPlusGui.html#a3c03ddbd59edbcb14f5f084331a922e4" title="FCDProPlusGui::setCenter\lFrequency" alt="" coords="557,5,738,47"/>
+<area shape="rect" id="node6" href="$d4/d5d/classFCDProPlusGui.html#afb9a6db621c09ef5dac81ddcf1858515" title="FCDProPlusGui::handleInput\lMessages" alt="" coords="804,123,995,164"/>
+</map>

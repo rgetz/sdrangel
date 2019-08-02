@@ -1,0 +1,9 @@
+<map id="FileInput::MsgConfigureFileInput::create" name="FileInput::MsgConfigureFileInput::create">
+<area shape="rect" id="node2" href="$d7/deb/classFileInput.html#ad5b10fffe49ce96ac2b41b5010dc9034" title="FileInput::deserialize" alt="" coords="264,13,407,39"/>
+<area shape="rect" id="node4" href="$da/d99/classFileInputGUI.html#a5aa937fc164e937a1b86e3a57430b22a" title="FileInputGUI::on_acceleration\l_currentIndexChanged" alt="" coords="238,64,433,105"/>
+<area shape="rect" id="node5" href="$da/d99/classFileInputGUI.html#a758c04f2500962e96066fd465f1af264" title="FileInputGUI::on_playLoop\l_toggled" alt="" coords="247,129,424,171"/>
+<area shape="rect" id="node6" href="$d7/deb/classFileInput.html#a2a8a8399285c6f48d0c039a4d21b20a5" title="FileInput::setCenterFrequency" alt="" coords="236,195,435,222"/>
+<area shape="rect" id="node8" href="$d7/deb/classFileInput.html#a752463aca1bb090e16b02d5fde7f59ef" title="FileInput::webapiSettings\lPutPatch" alt="" coords="251,247,420,288"/>
+<area shape="rect" id="node3" href="$dc/df1/classFileInput_1_1MsgReportHeaderCRC.html#a4dd3a0ef50ceeeb351d648068c89e488" title="FileInput::MsgReportHeader\lCRC::MsgReportHeaderCRC" alt="" coords="483,5,679,47"/>
+<area shape="rect" id="node7" href="$d7/deb/classFileInput.html#a090e6381223a51d1f5c1d1ab81348e5e" title="For when the source sample rate is set externally. " alt="" coords="495,225,666,251"/>
+</map>

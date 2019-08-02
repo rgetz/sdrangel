@@ -1,0 +1,14 @@
+<map id="ATVMod::webapiFormatChannelReport" name="ATVMod::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="323,5,449,32"/>
+<area shape="rect" id="node3" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a6dfad2d76483d1e36428f95e0babc9e1" title="SWGSDRangel::SWGChannelReport\l::getAtvModReport" alt="" coords="265,57,507,98"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a4f4938654cd0f1d7ee79255b06850816" title="ATVMod::getMagSq" alt="" coords="316,123,456,149"/>
+<area shape="rect" id="node12" href="$da/d43/classSWGSDRangel_1_1SWGATVModReport.html#a517518709ec35e57777a3f9ef2a7e590" title="SWGSDRangel::SWGATVModReport\l::setChannelPowerDb" alt="" coords="264,174,508,215"/>
+<area shape="rect" id="node13" href="$da/d43/classSWGSDRangel_1_1SWGATVModReport.html#acaf266676d7593dcc43b72089d2a734a" title="SWGSDRangel::SWGATVModReport\l::setChannelSampleRate" alt="" coords="264,239,508,281"/>
+<area shape="rect" id="node5" href="$d2/d81/classMovingAverageUtil.html#a387f7f6ee4d247551f44f59cb432d87a" title="MovingAverageUtil::\lasDouble" alt="" coords="595,31,735,73"/>
+<area shape="rect" id="node6" href="$d2/d69/classATVMod.html#a1ef2797fbe244371b71e9a177bdaff94" title="ATVMod::getBaseValues" alt="" coords="581,97,750,124"/>
+<area shape="rect" id="node7" href="$d2/d69/classATVMod.html#a56ef398a00b7a699b9375fbb45942062" title="ATVMod::getCameraNumbers" alt="" coords="566,148,765,175"/>
+<area shape="rect" id="node11" href="$d2/d69/classATVMod.html#afbbe04f5470528de82f7324dc648efb0" title="ATVMod::getRFBandwidthDivisor" alt="" coords="556,199,775,225"/>
+<area shape="rect" id="node8" href="$d7/d58/classATVMod_1_1MsgReportCameraData.html#a8e092f93554cd9af4a0808410ba2b827" title="ATVMod::MsgReportCameraData\l::create" alt="" coords="823,75,1041,117"/>
+<area shape="rect" id="node9" href="$d9/dfb/classBasebandSampleSource.html#a55487ed2dcc7e1da118dcd8d32c76e7f" title="BasebandSampleSource\l::getMessageQueueToGUI" alt="" coords="843,141,1021,182"/>
+<area shape="rect" id="node10" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="857,207,1007,233"/>
+</map>

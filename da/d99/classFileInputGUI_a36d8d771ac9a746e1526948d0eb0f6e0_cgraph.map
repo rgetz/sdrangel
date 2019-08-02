@@ -1,0 +1,5 @@
+<map id="FileInputGUI::on_navTimeSlider_valueChanged" name="FileInputGUI::on_navTimeSlider_valueChanged">
+<area shape="rect" id="node2" href="$de/d80/classFileInput_1_1MsgConfigureFileSourceSeek.html#aa8f1f9cb048a9e3b99bf2623999e869f" title="FileInput::MsgConfigureFile\lSourceSeek::create" alt="" coords="228,5,411,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="235,71,403,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="245,137,394,163"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ATVMod::MsgConfigureImageFileName::create" name="ATVMod::MsgConfigureImageFileName::create">
+<area shape="rect" id="node2" href="$da/d7c/classATVModGUI.html#af913774c44c1531ef21bcd99cd580a9e" title="ATVModGUI::configureImage\lFileName" alt="" coords="252,5,447,47"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a9ce76a23e7d309f470ef3ce9c78c6719" title="ATVMod::webapiSettingsPut\lPatch" alt="" coords="254,71,445,112"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#a70c223b89fbc19421f1d8f0261559ad0" title="ATVModGUI::on_imageFileDialog\l_clicked" alt="" coords="506,5,725,47"/>
+<area shape="rect" id="node5" href="$d2/d69/classATVMod.html#a2b0fbe9337e046718fa3ec3a96436ced" title="ATVMod::getStreamCenterFrequency" alt="" coords="495,78,736,105"/>
+</map>

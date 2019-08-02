@@ -1,0 +1,7 @@
+<map id="FileSinkOutput::MsgConfigureFileSink::getSettings" name="FileSinkOutput::MsgConfigureFileSink::getSettings">
+<area shape="rect" id="node2" href="$de/de4/classFileSinkGui.html#a27467605a301a80ebf5d6df4287d701e" title="FileSinkGui::handleMessage" alt="" coords="260,15,448,42"/>
+<area shape="rect" id="node5" href="$d6/dc4/classFileSinkOutput.html#aa6320a647e7c520c28da67ae28a17380" title="FileSinkOutput::handleMessage" alt="" coords="251,67,457,94"/>
+<area shape="rect" id="node3" href="$de/de4/classFileSinkGui.html#afe5eeb29affbc0aff23b2a0f221ef00f" title="FileSinkGui::handleInput\lMessages" alt="" coords="527,5,691,47"/>
+<area shape="rect" id="node4" href="$de/de4/classFileSinkGui.html#a481bd10e5211ae82a06d7bbef7caa104" title="FileSinkGui::FileSinkGui" alt="" coords="760,13,924,39"/>
+<area shape="rect" id="node6" href="$d6/dc4/classFileSinkOutput.html#a24cd6a438e859027e39f5b509329a997" title="For when the sink sample rate is set externally. " alt="" coords="505,71,712,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AudioDeviceManager::OutputDeviceInfo::resetToDefaults" name="AudioDeviceManager::OutputDeviceInfo::resetToDefaults">
+<area shape="rect" id="node2" href="$d7/de5/classWebAPIAdapterGUI.html#ac4cb9ab2f0edee453904404eae79b65d" title="WebAPIAdapterGUI::instance\lAudioGet" alt="" coords="202,5,399,47"/>
+<area shape="rect" id="node3" href="$dc/dd8/classWebAPIAdapterSrv.html#a9cd6c4dd7c4c0e4a1a2401b988b0de69" title="WebAPIAdapterSrv::instance\lAudioGet" alt="" coords="204,71,397,112"/>
+<area shape="rect" id="node4" href="$de/d74/classAudioDialogX.html#ab4bd2fb0fb1de0a0676a3019259f3f35" title="AudioDialogX::on_outputReset\l_clicked" alt="" coords="200,136,401,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DSPDeviceSinkEngine::handleForwardToSpectrumSink" name="DSPDeviceSinkEngine::handleForwardToSpectrumSink">
+<area shape="rect" id="node2" href="$d8/df9/classBasebandSampleSink.html#a18dd91fbc595dcf034c8cee492bddfea" title="BasebandSampleSink\l::feed" alt="" coords="303,5,453,47"/>
+<area shape="rect" id="node3" href="$d6/d8d/classSampleSourceFifo.html#aeadaa048b08fa955503905bfc46eed30" title="get iterator past the last sample of a read advance operation (i.e. current read iterator) ..." alt="" coords="285,71,471,112"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#a97947483187a6743c8f9d886dcbaf924" title="DeviceSampleSink::getSampleFifo" alt="" coords="265,137,491,163"/>
+</map>

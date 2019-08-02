@@ -1,0 +1,5 @@
+<map id="RemoteOutput::MsgStartStop::create" name="RemoteOutput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d8/d08/classRemoteOutputSinkGui.html#ae71f06df26286abcdf814406ec6057e8" title="RemoteOutputSinkGui\l::on_startStop_toggled" alt="" coords="261,5,415,47"/>
+<area shape="rect" id="node3" href="$d8/daf/classRemoteOutput.html#a14ff43d9be3aea921fc8f5a8920e3b62" title="RemoteOutput::webapiRun" alt="" coords="248,71,428,98"/>
+<area shape="rect" id="node4" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="476,71,709,98"/>
+</map>

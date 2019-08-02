@@ -1,0 +1,8 @@
+<map id="SoapySDRInputGui::displaySettings" name="SoapySDRInputGui::displaySettings">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#aa5f711bea2660dc5249fd518d477f003" title="SoapySDRInputGui::deserialize" alt="" coords="491,16,697,43"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#ac64da51534c567f2e5af1b5f4676cb28" title="SoapySDRInputGui::handle\lMessage" alt="" coords="250,103,433,145"/>
+<area shape="rect" id="node5" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="745,140,1005,167"/>
+<area shape="rect" id="node6" href="$d8/d96/classSoapySDRInputGui.html#a891a9b84b9ee51634dbf859933ca9cba" title="SoapySDRInputGui::resetTo\lDefaults" alt="" coords="247,38,436,79"/>
+<area shape="rect" id="node7" href="$d8/d96/classSoapySDRInputGui.html#a306ffc2cfcaf12c933164c1733203d7e" title="SoapySDRInputGui::setCenter\lFrequency" alt="" coords="240,221,443,262"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#a87af02cdba51b85ff3243d641b406968" title="SoapySDRInputGui::handle\lInputMessages" alt="" coords="503,103,685,145"/>
+</map>

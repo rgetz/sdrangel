@@ -1,0 +1,19 @@
+<map id="ATVDemod::MsgConfigureRFATVDemod::create" name="ATVDemod::MsgConfigureRFATVDemod::create">
+<area shape="rect" id="node2" href="$de/dce/classATVDemod.html#ab322322701a0b8706eb0f3a74dd6fa68" title="ATVDemod::configureRF" alt="" coords="319,478,488,505"/>
+<area shape="rect" id="node3" href="$df/dd3/classATVDemodGUI.html#aaaff81086b2a209ccee5a2e46a5e40e6" title="ATVDemodGUI::applyRFSettings" alt="" coords="536,318,755,345"/>
+<area shape="rect" id="node18" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="556,503,735,530"/>
+<area shape="rect" id="node4" href="$df/dd3/classATVDemodGUI.html#ae7c35af8b6c0489893987161dfc5c42c" title="ATVDemodGUI::handleMessage" alt="" coords="812,13,1025,39"/>
+<area shape="rect" id="node9" href="$df/dd3/classATVDemodGUI.html#ad7bbb23e3ead12f5cc47290b3c2fc516" title="ATVDemodGUI::channelMarker\lChangedByCursor" alt="" coords="1083,71,1289,112"/>
+<area shape="rect" id="node10" href="$df/dd3/classATVDemodGUI.html#a74d7ab4a1a244a465122b996dbbe28a8" title="ATVDemodGUI::on_modulation\l_currentIndexChanged" alt="" coords="815,115,1022,156"/>
+<area shape="rect" id="node11" href="$df/dd3/classATVDemodGUI.html#addb7864211516c137890aabdae7e58aa" title="ATVDemodGUI::on_rfBW\l_valueChanged" alt="" coords="832,180,1005,221"/>
+<area shape="rect" id="node12" href="$df/dd3/classATVDemodGUI.html#a8a86adccd9312fff2f1fa80af5d43ef4" title="ATVDemodGUI::on_rfOppBW\l_valueChanged" alt="" coords="820,245,1017,287"/>
+<area shape="rect" id="node13" href="$df/dd3/classATVDemodGUI.html#a5fef8164c96669a395c7b9461c692928" title="ATVDemodGUI::on_rfFiltering\l_toggled" alt="" coords="820,311,1017,352"/>
+<area shape="rect" id="node14" href="$df/dd3/classATVDemodGUI.html#ab4aa3271f7cd61a56f58138acc067f30" title="ATVDemodGUI::on_decimator\lEnable_toggled" alt="" coords="819,376,1019,417"/>
+<area shape="rect" id="node15" href="$df/dd3/classATVDemodGUI.html#a9471ea658d902ecfa08dfce8485baa58" title="ATVDemodGUI::on_deltaFrequency\l_changed" alt="" coords="803,441,1035,483"/>
+<area shape="rect" id="node16" href="$df/dd3/classATVDemodGUI.html#af48ff80b23e4de32c58aa97619903a28" title="ATVDemodGUI::on_bfo\l_valueChanged" alt="" coords="838,507,999,548"/>
+<area shape="rect" id="node17" href="$df/dd3/classATVDemodGUI.html#ab28abe3064ea2909315e38c816c65975" title="ATVDemodGUI::on_fmDeviation\l_valueChanged" alt="" coords="812,572,1025,613"/>
+<area shape="rect" id="node5" href="$df/dd3/classATVDemodGUI.html#a768c72bf3838c170119f95f0bb2e8331" title="ATVDemodGUI::handleSource\lMessages" alt="" coords="1085,5,1287,47"/>
+<area shape="rect" id="node6" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="1337,78,1552,105"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1600,78,1759,105"/>
+<area shape="rect" id="node8" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1807,71,1993,112"/>
+</map>

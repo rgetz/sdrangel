@@ -1,0 +1,33 @@
+<map id="sdrbase/dsp/downchannelizer.h" name="sdrbase/dsp/downchannelizer.h">
+<area shape="rect" id="node2" href="$db/d3b/chanalyzer_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzer.cpp" alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node3" href="$d3/da2/chanalyzergui_8cpp.html" title="plugins/channelrx/chanalyzer\l/chanalyzergui.cpp" alt="" coords="220,80,411,121"/>
+<area shape="rect" id="node4" href="$d1/d00/amdemod_8cpp.html" title="plugins/channelrx/demodam\l/amdemod.cpp" alt="" coords="435,80,619,121"/>
+<area shape="rect" id="node5" href="$d7/db4/amdemodgui_8cpp.html" title="plugins/channelrx/demodam\l/amdemodgui.cpp" alt="" coords="643,80,827,121"/>
+<area shape="rect" id="node6" href="$df/d75/atvdemod_8cpp.html" title="plugins/channelrx/demodatv\l/atvdemod.cpp" alt="" coords="694,169,878,211"/>
+<area shape="rect" id="node7" href="$d1/d05/atvdemod_8h.html" title="plugins/channelrx/demodatv\l/atvdemod.h" alt="" coords="902,80,1086,121"/>
+<area shape="rect" id="node8" href="$d1/d2f/atvdemodgui_8cpp.html" title="plugins/channelrx/demodatv\l/atvdemodgui.cpp" alt="" coords="1110,169,1294,211"/>
+<area shape="rect" id="node10" href="$d0/d91/bfmdemod_8cpp.html" title="plugins/channelrx/demodbfm\l/bfmdemod.cpp" alt="" coords="1161,80,1349,121"/>
+<area shape="rect" id="node11" href="$dc/d60/bfmdemodgui_8cpp.html" title="plugins/channelrx/demodbfm\l/bfmdemodgui.cpp" alt="" coords="1373,80,1561,121"/>
+<area shape="rect" id="node12" href="$d6/d67/datvdemod_8h.html" title="plugins/channelrx/demoddatv\l/datvdemod.h" alt="" coords="1637,80,1828,121"/>
+<area shape="rect" id="node13" href="$df/dc7/datvdemod_8cpp.html" title="plugins/channelrx/demoddatv\l/datvdemod.cpp" alt="" coords="1423,169,1613,211"/>
+<area shape="rect" id="node15" href="$da/d24/datvdemodgui_8cpp.html" title="plugins/channelrx/demoddatv\l/datvdemodgui.cpp" alt="" coords="1771,259,1961,300"/>
+<area shape="rect" id="node17" href="$dc/ddb/dsddemod_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemod.cpp" alt="" coords="1903,80,2090,121"/>
+<area shape="rect" id="node18" href="$d3/d58/dsddemodgui_8cpp.html" title="plugins/channelrx/demoddsd\l/dsddemodgui.cpp" alt="" coords="2114,80,2301,121"/>
+<area shape="rect" id="node19" href="$d1/dbc/freedvdemod_8cpp.html" title="plugins/channelrx/demodfreedv\l/freedvdemod.cpp" alt="" coords="2325,80,2527,121"/>
+<area shape="rect" id="node20" href="$d9/d81/lorademod_8cpp.html" title="plugins/channelrx/demodlora\l/lorademod.cpp" alt="" coords="2551,80,2738,121"/>
+<area shape="rect" id="node21" href="$d0/d60/lorademodgui_8cpp.html" title="plugins/channelrx/demodlora\l/lorademodgui.cpp" alt="" coords="2762,80,2949,121"/>
+<area shape="rect" id="node22" href="$d0/dc4/nfmdemod_8cpp.html" title="plugins/channelrx/demodnfm\l/nfmdemod.cpp" alt="" coords="2973,80,3161,121"/>
+<area shape="rect" id="node23" href="$dc/da7/ssbdemod_8cpp.html" title="plugins/channelrx/demodssb\l/ssbdemod.cpp" alt="" coords="3186,80,3373,121"/>
+<area shape="rect" id="node24" href="$df/d1d/wfmdemod_8cpp.html" title="plugins/channelrx/demodwfm\l/wfmdemod.cpp" alt="" coords="3397,80,3588,121"/>
+<area shape="rect" id="node25" href="$dc/dee/wfmdemodgui_8cpp.html" title="plugins/channelrx/demodwfm\l/wfmdemodgui.cpp" alt="" coords="3612,80,3803,121"/>
+<area shape="rect" id="node26" href="$d0/d95/freqtracker_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtracker.cpp" alt="" coords="3827,80,4017,121"/>
+<area shape="rect" id="node27" href="$d7/dca/freqtrackergui_8cpp.html" title="plugins/channelrx/freqtracker\l/freqtrackergui.cpp" alt="" coords="4041,80,4230,121"/>
+<area shape="rect" id="node28" href="$d6/d2f/localsink_8cpp.html" title="plugins/channelrx/localsink\l/localsink.cpp" alt="" coords="4254,80,4433,121"/>
+<area shape="rect" id="node29" href="$db/d64/remotesink_8cpp.html" title="plugins/channelrx/remotesink\l/remotesink.cpp" alt="" coords="4457,80,4648,121"/>
+<area shape="rect" id="node30" href="$dc/dea/udpsink_8cpp.html" title="plugins/channelrx/udpsink\l/udpsink.cpp" alt="" coords="4672,80,4844,121"/>
+<area shape="rect" id="node31" href="$d6/d0f/downchannelizer_8cpp.html" title="sdrbase/dsp/downchannelizer.cpp" alt="" coords="4869,87,5087,114"/>
+<area shape="rect" id="node32" href="$dc/d18/dspdevicesourceengine_8cpp.html" title="sdrbase/dsp/dspdevicesourceengine.cpp" alt="" coords="5111,87,5370,114"/>
+<area shape="rect" id="node9" href="$dd/d37/atvdemodplugin_8cpp.html" title="plugins/channelrx/demodatv\l/atvdemodplugin.cpp" alt="" coords="902,169,1086,211"/>
+<area shape="rect" id="node14" href="$d0/ddc/datvdemodgui_8h.html" title="plugins/channelrx/demoddatv\l/datvdemodgui.h" alt="" coords="1637,169,1828,211"/>
+<area shape="rect" id="node16" href="$db/dea/datvdemodplugin_8cpp.html" title="plugins/channelrx/demoddatv\l/datvdemodplugin.cpp" alt="" coords="1556,259,1747,300"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="KiwiSDRInput::MsgStartStop::create" name="KiwiSDRInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$db/db4/classKiwiSDRGui.html#a05a115e9b9cf8fc99afdfaf2d1903234" title="KiwiSDRGui::on_startStop\l_toggled" alt="" coords="247,5,425,47"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#adf6364947666068ef85b13f525a92ba8" title="KiwiSDRInput::webapiRun" alt="" coords="247,71,425,98"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="473,71,676,98"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGDeviceSetApi::devicesetChannelDelete" name="SWGSDRangel::SWGDeviceSetApi::devicesetChannelDelete">
+<area shape="rect" id="node2" href="$d6/de6/classSWGSDRangel_1_1SWGDeviceSetApi.html#afe85922ed6f55d82a369b17ea8240106" title="SWGSDRangel::SWGDeviceSet\lApi::devicesetChannelDeleteCallback" alt="" coords="268,5,511,47"/>
+<area shape="rect" id="node4" href="$d5/d44/classSWGSDRangel_1_1SWGHttpRequestWorker.html#a86454609e1adabcd871be8a4fac92057" title="SWGSDRangel::SWGHttpRequest\lWorker::execute" alt="" coords="275,71,503,112"/>
+<area shape="rect" id="node11" href="$d8/d0f/namespaceSWGSDRangel.html#a2e5c395ca85e274dc729aecdd14cfac8" title="SWGSDRangel::stringValue" alt="" coords="296,137,483,163"/>
+<area shape="rect" id="node3" href="$d8/d0f/namespaceSWGSDRangel.html#a5a0b12d2ac8c22f68e628645d7d03a53" title="SWGSDRangel::create" alt="" coords="593,13,752,39"/>
+<area shape="rect" id="node5" href="$d5/d44/classSWGSDRangel_1_1SWGHttpRequestWorker.html#a1981f2a7d89965ba381ae09115147bfc" title="SWGSDRangel::SWGHttpRequest\lWorker::http_attribute_encode" alt="" coords="559,68,787,109"/>
+<area shape="rect" id="node6" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="653,134,693,161"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="835,134,943,161"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="991,156,1139,197"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1195,105,1313,131"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1187,156,1321,197"/>
+</map>

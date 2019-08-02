@@ -1,0 +1,32 @@
+<map id="CWKeyer::setSampleRate" name="CWKeyer::setSampleRate">
+<area shape="rect" id="node2" href="$db/d93/classAMMod.html#a806a46e308f33be1053e3dca65c20d6b" title="AMMod::AMMod" alt="" coords="827,30,947,57"/>
+<area shape="rect" id="node4" href="$db/d93/classAMMod.html#a98d68a0b113c7c6a8d32537deaae0fc4" title="AMMod::applyAudioSampleRate" alt="" coords="235,113,446,139"/>
+<area shape="rect" id="node8" href="$de/df8/classNFMMod.html#a15aeec0a9dcf473026683d4848b86a06" title="NFMMod::applyAudioSampleRate" alt="" coords="231,214,451,241"/>
+<area shape="rect" id="node12" href="$de/df8/classNFMMod.html#a6a5f4ec527cfb7e59b5e6abbb13942b2" title="NFMMod::NFMMod" alt="" coords="817,253,956,279"/>
+<area shape="rect" id="node14" href="$dc/d8d/classSSBMod.html#abb41840f920195ad053a974fddb4fd51" title="SSBMod::applyAudioSampleRate" alt="" coords="231,341,450,367"/>
+<area shape="rect" id="node22" href="$dc/d8d/classSSBMod.html#ab4e32ef8bccae79e9354e39fbe1268b9" title="SSBMod::SSBMod" alt="" coords="819,397,954,423"/>
+<area shape="rect" id="node24" href="$d6/de3/classWFMMod.html#a15e2f4eb2ab1972e5b01459b19656043" title="WFMMod::applyChannelSettings" alt="" coords="233,518,448,545"/>
+<area shape="rect" id="node25" href="$d6/de3/classWFMMod.html#a3ec9a5e2e2e9b52cf401f9898c93c346" title="WFMMod::WFMMod" alt="" coords="540,467,684,494"/>
+<area shape="rect" id="node30" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="255,601,426,627"/>
+<area shape="rect" id="node3" href="$d8/d80/classAMMod_1_1MsgReportFileSourceStreamData.html#ab75850db9c17363b847106b45eb14e93" title="AMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1048,15,1275,71"/>
+<area shape="rect" id="node5" href="$db/d93/classAMMod.html#ad4d537f484214412a687bc794cb7e0fd" title="AMMod::applySettings" alt="" coords="535,62,689,89"/>
+<area shape="rect" id="node6" href="$db/d93/classAMMod.html#acd6c9fea90cb3a88360247196a94fe63" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="803,113,970,139"/>
+<area shape="rect" id="node7" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="1102,113,1221,139"/>
+<area shape="rect" id="node9" href="$de/df8/classNFMMod.html#a6de284f7a8fd821c1b3dcc3c66c2461a" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="799,179,974,206"/>
+<area shape="rect" id="node11" href="$de/df8/classNFMMod.html#a5df57ef110295347dabb14a81e2df9d6" title="NFMMod::applySettings" alt="" coords="531,214,693,241"/>
+<area shape="rect" id="node10" href="$de/df8/classNFMMod.html#ac76879f24783bbbe7a38d58caf7b73d0" title="NFMMod::destroy" alt="" coords="1098,179,1225,206"/>
+<area shape="rect" id="node13" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1048,238,1275,294"/>
+<area shape="rect" id="node15" href="$dc/d8d/classSSBMod.html#a089b08281e13f4292d1f6a0ad2d9a037" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="800,326,973,353"/>
+<area shape="rect" id="node21" href="$dc/d8d/classSSBMod.html#a897e267d35f93401af2c851e684e89bb" title="SSBMod::applySettings" alt="" coords="531,366,693,393"/>
+<area shape="rect" id="node16" href="$dc/d8d/classSSBMod.html#a0395e6e1084a4fb71adbba8bd7d3273d" title="SSBMod::setSpectrumSampleSink" alt="" coords="1048,326,1275,353"/>
+<area shape="rect" id="node17" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1323,326,1505,353"/>
+<area shape="rect" id="node18" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1553,326,1696,353"/>
+<area shape="rect" id="node19" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1744,326,1985,353"/>
+<area shape="rect" id="node20" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="2033,326,2204,353"/>
+<area shape="rect" id="node23" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="1048,382,1275,438"/>
+<area shape="rect" id="node27" href="$d6/de3/classWFMMod.html#a01bdd2bd42ff3d61cce0842e5893bb2b" title="WFMMod::start" alt="" coords="555,518,669,545"/>
+<area shape="rect" id="node29" href="$d6/de3/classWFMMod.html#a17f8e8203448d5f97fc8850ffd705b90" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="523,569,701,595"/>
+<area shape="rect" id="node26" href="$db/daf/classWFMMod_1_1MsgReportFileSourceStreamData.html#aeff81f569c77de84e535283bda05d14a" title="WFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="773,453,1000,509"/>
+<area shape="rect" id="node28" href="$d6/de3/classWFMMod.html#a06f15dfeb2929fd1c88fcc6872d4c06d" title="WFMMod::destroy" alt="" coords="821,550,952,577"/>
+<area shape="rect" id="node31" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="499,619,725,675"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="MainWindow::on_commandsSave_clicked" name="MainWindow::on_commandsSave_clicked">
+<area shape="rect" id="node2" href="$d5/df4/classMainSettings.html#a6310a41f9e236eaf8c0455a6487b72ac" title="MainSettings::save" alt="" coords="327,284,461,311"/>
+<area shape="rect" id="node20" href="$d6/d1a/classMainWindow.html#af120ff0501e81139ed2e78e9ff4098ff" title="MainWindow::saveCommandSettings" alt="" coords="273,335,515,361"/>
+<area shape="rect" id="node3" href="$d2/d60/classPreferences.html#ac31398180eb03f041c2d548a32c6043c" title="Preferences::serialize" alt="" coords="576,132,724,159"/>
+<area shape="rect" id="node10" href="$d9/d18/structDeviceUserArgs.html#a84d286990cf91719c798923653954c91" title="DeviceUserArgs::serialize" alt="" coords="563,284,737,311"/>
+<area shape="rect" id="node12" href="$d3/d84/classAMBEEngine.html#aa7ea93b864cb3e14486eb502ed76bdbe" title="AMBEEngine::serialize" alt="" coords="572,401,728,428"/>
+<area shape="rect" id="node13" href="$d1/dc7/classPreset.html#a175dd0db5bed77f82924974c8fe6e6ef" title="Preset::serialize" alt="" coords="592,208,708,235"/>
+<area shape="rect" id="node15" href="$d0/d40/classAudioDeviceManager.html#a7029dbd20095ff8edf5165b6b5706d7c" title="AudioDeviceManager\l::serialize" alt="" coords="577,335,723,377"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="785,107,972,133"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="791,157,966,184"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#aa0fcfc01221b07be6c71e86753cc992b" title="SimpleSerializer::writeFloat" alt="" coords="788,5,969,32"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="789,56,968,83"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="805,259,953,285"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1020,132,1195,159"/>
+<area shape="rect" id="node11" href="$d9/d39/classSimpleSerializer.html#a7d7f3534cf1cce4f9bd6baed133e9598" title="SimpleSerializer::writeBlob" alt="" coords="789,309,968,336"/>
+<area shape="rect" id="node14" href="$d9/d39/classSimpleSerializer.html#a6d75bb06e77f6fd4e2bfc4df2edf4b4f" title="SimpleSerializer::writeU64" alt="" coords="791,208,967,235"/>
+<area shape="rect" id="node16" href="$d0/d40/classAudioDeviceManager.html#ad2dcf9b41914117fee80967b34658a7f" title="AudioDeviceManager\l::debugAudioInputInfos" alt="" coords="801,426,957,467"/>
+<area shape="rect" id="node17" href="$d0/d40/classAudioDeviceManager.html#ac9e8355f3924c5ae049b8f94285f0d82" title="AudioDeviceManager\l::debugAudioOutputInfos" alt="" coords="795,491,962,533"/>
+<area shape="rect" id="node18" href="$d0/d40/classAudioDeviceManager.html#a4dd6ac5502005e6b74f4f92bfac092fe" title="AudioDeviceManager\l::serializeInputMap" alt="" coords="805,557,952,598"/>
+<area shape="rect" id="node19" href="$d0/d40/classAudioDeviceManager.html#a0e59b2bde4802a9f760fa122a170c0ba" title="AudioDeviceManager\l::serializeOutputMap" alt="" coords="805,361,952,402"/>
+</map>

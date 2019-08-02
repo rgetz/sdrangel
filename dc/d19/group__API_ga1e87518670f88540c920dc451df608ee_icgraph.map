@@ -1,0 +1,6 @@
+<map id="hid_open_path" name="hid_open_path">
+<area shape="rect" id="node2" href="$d8/d48/fcdhid_8h.html#a20deab2ea1baeeb387123d897e7918e2" title="Open FCD device. " alt="" coords="162,31,233,57"/>
+<area shape="rect" id="node5" href="$dc/d19/group__API.html#gae6910ed9f01c4a99d25539b16800e90c" title="Open a HID device using a Vendor ID (VID), Product ID (PID) and optionally a serial number..." alt="" coords="160,81,235,108"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="283,5,485,32"/>
+<area shape="rect" id="node4" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="296,56,472,83"/>
+</map>

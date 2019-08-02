@@ -1,0 +1,25 @@
+<map id="MainCore" name="MainCore">
+<area shape="rect" id="node14" href="$dc/dd8/classWebAPIAdapterSrv.html" title="WebAPIAdapterSrv" alt="" coords="1689,356,1825,383"/>
+<area shape="rect" id="node2" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="1143,377,1257,404"/>
+<area shape="rect" id="node3" href="$dc/dce/classWebAPIServer.html" title="WebAPIServer" alt="" coords="1145,292,1255,319"/>
+<area shape="rect" id="node4" href="$db/dcd/classqtwebapp_1_1HttpListener.html" title="qtwebapp::HttpListener" alt="" coords="733,267,891,293"/>
+<area shape="rect" id="node5" href="$d8/d77/classqtwebapp_1_1HttpRequestHandler.html" title="qtwebapp::HttpRequestHandler" alt="" coords="5,148,211,175"/>
+<area shape="rect" id="node7" href="$d8/db4/classqtwebapp_1_1HttpConnectionHandlerPool.html" title="qtwebapp::HttpConnection\lHandlerPool" alt="" coords="363,173,541,214"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html" title="WebAPIRequestMapper" alt="" coords="731,121,893,148"/>
+<area shape="rect" id="node9" href="$d6/d24/classqtwebapp_1_1StaticFileController.html" title="qtwebapp::StaticFileController" alt="" coords="353,121,551,148"/>
+<area shape="rect" id="node6" href="$dd/de8/classqtwebapp_1_1HttpListenerSettings.html" title="qtwebapp::HttpListenerSettings" alt="" coords="5,303,211,329"/>
+<area shape="rect" id="node10" href="$d0/da8/classWebAPIAdapterInterface.html" title="WebAPIAdapterInterface" alt="" coords="369,7,535,33"/>
+<area shape="rect" id="node11" href="$d7/d8a/classDSPEngine.html" title="DSPEngine" alt="" coords="1155,428,1245,455"/>
+<area shape="rect" id="node12" href="$d3/d84/classAMBEEngine.html" title="AMBEEngine" alt="" coords="762,388,862,415"/>
+<area shape="rect" id="node15" href="$d5/df4/classMainSettings.html" title="MainSettings" alt="" coords="1151,499,1249,525"/>
+<area shape="rect" id="node13" href="$d0/d40/classAudioDeviceManager.html" title="AudioDeviceManager" alt="" coords="739,457,885,484"/>
+<area shape="rect" id="node16" href="$d2/d60/classPreferences.html" title="Preferences" alt="" coords="766,525,858,552"/>
+<area shape="rect" id="node17" href="$d1/dc7/classPreset.html" title="Preset" alt="" coords="782,576,842,603"/>
+<area shape="rect" id="node18" href="$d9/d18/structDeviceUserArgs.html" title="DeviceUserArgs" alt="" coords="753,627,871,653"/>
+<area shape="rect" id="node19" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html" title="qtwebapp::LoggerWithFile" alt="" coords="1113,677,1287,704"/>
+<area shape="rect" id="node20" href="$dd/dde/classqtwebapp_1_1Logger.html" title="qtwebapp::Logger" alt="" coords="389,729,515,756"/>
+<area shape="rect" id="node21" href="$df/d52/classqtwebapp_1_1FileLogger.html" title="qtwebapp::FileLogger" alt="" coords="739,791,885,817"/>
+<area shape="rect" id="node22" href="$d8/d50/structqtwebapp_1_1FileLoggerSettings.html" title="qtwebapp::FileLoggerSettings" alt="" coords="355,797,549,824"/>
+<area shape="rect" id="node23" href="$de/d59/classPluginManager.html" title="PluginManager" alt="" coords="1146,728,1254,755"/>
+<area shape="rect" id="node24" href="$d6/d95/classPluginAPI.html" title="PluginAPI" alt="" coords="1476,728,1556,755"/>
+</map>

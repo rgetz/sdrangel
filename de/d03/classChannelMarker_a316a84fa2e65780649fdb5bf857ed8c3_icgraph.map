@@ -1,0 +1,36 @@
+<map id="ChannelMarker::setMovable" name="ChannelMarker::setMovable">
+<area shape="rect" id="node2" href="$d1/d43/classLocalSinkGUI.html#a5f53edb50f4915c13a332255f342e48e" title="LocalSinkGUI::displaySettings" alt="" coords="251,107,451,133"/>
+<area shape="rect" id="node11" href="$d5/df2/classLocalSourceGUI.html#a4c41ee4c78fdb3cc6d631e5378011a08" title="LocalSourceGUI::displaySettings" alt="" coords="243,309,458,336"/>
+<area shape="rect" id="node20" href="$d3/d17/classRemoteSinkGUI.html#a6a0896848ccb3c02c70ca2f787d2ee08" title="RemoteSinkGUI::displaySettings" alt="" coords="243,487,458,513"/>
+<area shape="rect" id="node29" href="$d1/d74/classFileSourceGUI.html#ab9a70cccc49111b79d4f637fe8967675" title="FileSourceGUI::FileSourceGUI" alt="" coords="249,552,452,579"/>
+<area shape="rect" id="node33" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="239,632,463,659"/>
+<area shape="rect" id="node3" href="$d1/d43/classLocalSinkGUI.html#a5b0e4344863113d0c2c0212975b620c5" title="LocalSinkGUI::resetToDefaults" alt="" coords="518,5,722,32"/>
+<area shape="rect" id="node4" href="$d1/d43/classLocalSinkGUI.html#a6792b081af5df7acfa27cfea056081b7" title="LocalSinkGUI::deserialize" alt="" coords="802,23,975,49"/>
+<area shape="rect" id="node5" href="$d1/d43/classLocalSinkGUI.html#acbd6311dc7f1ad006a5f5e6a0e68bbc2" title="LocalSinkGUI::handleMessage" alt="" coords="519,107,721,133"/>
+<area shape="rect" id="node7" href="$d1/d43/classLocalSinkGUI.html#a031602fff324136ab64b980cc65397b1" title="LocalSinkGUI::LocalSinkGUI" alt="" coords="1063,128,1255,155"/>
+<area shape="rect" id="node6" href="$d1/d43/classLocalSinkGUI.html#ad381a8ce5b7ebe9338eecc608a0f180a" title="LocalSinkGUI::handleSource\lMessages" alt="" coords="793,91,984,133"/>
+<area shape="rect" id="node8" href="$d1/d43/classLocalSinkGUI.html#a1d0f49cb663be9b73378ce1058b70f2d" title="LocalSinkGUI::create" alt="" coords="1327,128,1473,155"/>
+<area shape="rect" id="node9" href="$d4/d96/classLocalSinkPlugin.html#a39dd95e6e2637849b2d3bbb39003230b" title="LocalSinkPlugin::createRx\lChannelGUI" alt="" coords="1529,121,1705,162"/>
+<area shape="rect" id="node10" href="$d4/d96/classLocalSinkPlugin.html#ad4cc40ea9fcae1a6c181d94513fb0950" title="LocalSinkPlugin::initPlugin" alt="" coords="1761,128,1937,155"/>
+<area shape="rect" id="node12" href="$d5/df2/classLocalSourceGUI.html#ac98d8ce65ffab3dbef5e77b6e3c66259" title="LocalSourceGUI::resetToDefaults" alt="" coords="511,208,729,235"/>
+<area shape="rect" id="node13" href="$d5/df2/classLocalSourceGUI.html#a90334c6bdb5d84f8cadcbb06bc11ca65" title="LocalSourceGUI::deserialize" alt="" coords="795,225,983,252"/>
+<area shape="rect" id="node14" href="$d5/df2/classLocalSourceGUI.html#a42860abe193784ee791bf826aff77c4a" title="LocalSourceGUI::handleMessage" alt="" coords="511,309,729,336"/>
+<area shape="rect" id="node16" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="1048,331,1271,357"/>
+<area shape="rect" id="node15" href="$d5/df2/classLocalSourceGUI.html#a85c16136d557f058b5687f1441e8582f" title="LocalSourceGUI::handleSource\lMessages" alt="" coords="786,294,991,335"/>
+<area shape="rect" id="node17" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1319,331,1481,357"/>
+<area shape="rect" id="node18" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1545,323,1690,365"/>
+<area shape="rect" id="node19" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1779,323,1918,365"/>
+<area shape="rect" id="node21" href="$d3/d17/classRemoteSinkGUI.html#a86f6e588f854e4b6d2dbdfef2c0f8093" title="RemoteSinkGUI::resetToDefaults" alt="" coords="511,411,729,437"/>
+<area shape="rect" id="node22" href="$d3/d17/classRemoteSinkGUI.html#a5cca2069adda1eda95929ae893514e83" title="RemoteSinkGUI::deserialize" alt="" coords="795,428,983,455"/>
+<area shape="rect" id="node23" href="$d3/d17/classRemoteSinkGUI.html#afedc1ccd8be38616e3370733fea54aae" title="RemoteSinkGUI::handleMessage" alt="" coords="511,512,729,539"/>
+<area shape="rect" id="node25" href="$d3/d17/classRemoteSinkGUI.html#acfd93f349fc5d94f299de3b0a0ef7a2a" title="RemoteSinkGUI::RemoteSinkGUI" alt="" coords="1048,533,1271,560"/>
+<area shape="rect" id="node24" href="$d3/d17/classRemoteSinkGUI.html#a8406fd76c79ac980153431b6c8372e79" title="RemoteSinkGUI::handleSource\lMessages" alt="" coords="786,497,991,538"/>
+<area shape="rect" id="node26" href="$d3/d17/classRemoteSinkGUI.html#a114c07838e4de91ab394e0ac7cf6d652" title="RemoteSinkGUI::create" alt="" coords="1319,533,1481,560"/>
+<area shape="rect" id="node27" href="$d1/d30/classRemoteSinkPlugin.html#a62f192849f16112ddd2604213f7d2f91" title="RemoteSinkPlugin::create\lRxChannelGUI" alt="" coords="1530,526,1705,567"/>
+<area shape="rect" id="node28" href="$d1/d30/classRemoteSinkPlugin.html#a7ca61196bd543b53bfd6ad79c403c290" title="RemoteSinkPlugin::initPlugin" alt="" coords="1753,533,1944,560"/>
+<area shape="rect" id="node30" href="$d1/d74/classFileSourceGUI.html#a5c8d062f9589ed6ba7aac0e2756ab9e8" title="FileSourceGUI::create" alt="" coords="544,617,696,644"/>
+<area shape="rect" id="node31" href="$db/d0c/classFileSourcePlugin.html#ad64cc15924b1a2079783ad347a078ba8" title="FileSourcePlugin::create\lTxChannelGUI" alt="" coords="807,614,971,655"/>
+<area shape="rect" id="node32" href="$db/d0c/classFileSourcePlugin.html#aca84425aa7f54a40da9f17b69db7ced3" title="FileSourcePlugin::initPlugin" alt="" coords="1069,621,1250,648"/>
+<area shape="rect" id="node34" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="539,672,701,699"/>
+<area shape="rect" id="node35" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="777,680,1000,707"/>
+</map>

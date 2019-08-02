@@ -1,0 +1,9 @@
+<map id="DSDDemod::webapiFormatChannelReport" name="DSDDemod::webapiFormatChannelReport">
+<area shape="rect" id="node2" href="$d6/d40/classDSDDemod.html#a5e75d3255f92671186337e36c45525c0" title="DSDDemod::webapiReportGet" alt="" coords="284,5,487,32"/>
+<area shape="rect" id="node3" href="$d6/d40/classDSDDemod.html#abab2f2e503443588368023c56dd0daf5" title="DSDDemod::getMagSqLevels" alt="" coords="535,31,733,57"/>
+<area shape="rect" id="node4" href="$d8/d46/classDSDDemodGUI.html#a79fee02ef629c7f1fd556d0237060619" title="DSDDemodGUI::tick" alt="" coords="781,31,928,57"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="976,31,1196,57"/>
+<area shape="rect" id="node6" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1244,31,1405,57"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1453,23,1644,65"/>
+<area shape="rect" id="node8" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1692,31,1883,57"/>
+</map>

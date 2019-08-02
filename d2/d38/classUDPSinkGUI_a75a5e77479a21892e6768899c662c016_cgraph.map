@@ -1,0 +1,37 @@
+<map id="UDPSinkGUI::deserialize" name="UDPSinkGUI::deserialize">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#aaa8b25f5f73441f7e3bde914fd1e9015" title="UDPSinkGUI::applySettings" alt="" coords="480,195,668,222"/>
+<area shape="rect" id="node9" href="$d2/d38/classUDPSinkGUI.html#a6d3cadc63d500cd1c3469f22f3327aff" title="UDPSinkGUI::applySettings\lImmediate" alt="" coords="480,129,668,171"/>
+<area shape="rect" id="node10" href="$db/d3d/structUDPSinkSettings.html#a739c5cc0b949fff7e9e2244b366edf46" title="UDPSinkSettings::deserialize" alt="" coords="228,730,423,757"/>
+<area shape="rect" id="node22" href="$d2/d38/classUDPSinkGUI.html#a448967ba9f7e5eff78cbcfda0d985d6f" title="UDPSinkGUI::displaySettings" alt="" coords="475,410,673,437"/>
+<area shape="rect" id="node36" href="$d2/d38/classUDPSinkGUI.html#a2c5a07580fe9e60650bd090e387a1919" title="UDPSinkGUI::resetToDefaults" alt="" coords="224,307,427,334"/>
+<area shape="rect" id="node3" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a5b1883b310e064b49f26e8a602cf8852" title="UDPSink::MsgConfigureUDPSource\l::create" alt="" coords="721,5,957,47"/>
+<area shape="rect" id="node5" href="$d9/d30/classUDPSink_1_1MsgConfigureChannelizer.html#a4e68c1f8cf8ccb5dc4c4d267b2db07a4" title="UDPSink::MsgConfigureChannelizer\l::create" alt="" coords="722,188,957,229"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="752,253,927,295"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="755,71,923,112"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="765,137,914,163"/>
+<area shape="rect" id="node4" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a4b1c6fb7455d198fe8b59c9fa067e4de" title="UDPSink::MsgConfigureUDPSource\l::MsgConfigureUDPSource" alt="" coords="1005,5,1241,47"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="509,592,639,633"/>
+<area shape="rect" id="node12" href="$db/d3d/structUDPSinkSettings.html#a4da8e6093db04b86665d0ebff5902b9f" title="UDPSinkSettings::resetTo\lDefaults" alt="" coords="485,461,663,503"/>
+<area shape="rect" id="node13" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="509,657,639,699"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="509,723,639,764"/>
+<area shape="rect" id="node15" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="495,789,653,815"/>
+<area shape="rect" id="node16" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="509,1036,639,1077"/>
+<area shape="rect" id="node18" href="$d2/d0e/classSimpleDeserializer.html#a384f1751e99b33e3949207db6edbcb86" title="SimpleDeserializer\l::readReal" alt="" coords="509,840,639,881"/>
+<area shape="rect" id="node19" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="509,905,639,947"/>
+<area shape="rect" id="node20" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="509,971,639,1012"/>
+<area shape="rect" id="node21" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="509,527,639,568"/>
+<area shape="rect" id="node17" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="774,937,905,979"/>
+<area shape="rect" id="node23" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="752,319,927,360"/>
+<area shape="rect" id="node24" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="741,385,938,411"/>
+<area shape="rect" id="node25" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="759,435,920,462"/>
+<area shape="rect" id="node26" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="756,486,923,513"/>
+<area shape="rect" id="node27" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="748,537,931,563"/>
+<area shape="rect" id="node28" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="759,587,920,614"/>
+<area shape="rect" id="node29" href="$d2/d38/classUDPSinkGUI.html#a40f3dfa065d50ca5f53d3a7ee86d0147" title="UDPSinkGUI::blockApplySettings" alt="" coords="729,638,950,665"/>
+<area shape="rect" id="node30" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="819,689,859,715"/>
+<area shape="rect" id="node35" href="$d2/d38/classUDPSinkGUI.html#a13e1c820790d1ad3ac1ecf05d32cdfad" title="UDPSinkGUI::setSampleFormat\lIndex" alt="" coords="733,740,945,781"/>
+<area shape="rect" id="node31" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1069,689,1177,715"/>
+<area shape="rect" id="node32" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1289,711,1437,752"/>
+<area shape="rect" id="node33" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1493,659,1612,686"/>
+<area shape="rect" id="node34" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1485,711,1620,752"/>
+</map>

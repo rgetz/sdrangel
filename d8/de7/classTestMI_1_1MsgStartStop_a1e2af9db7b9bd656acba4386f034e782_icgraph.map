@@ -1,0 +1,7 @@
+<map id="TestMI::MsgStartStop::getStartStop" name="TestMI::MsgStartStop::getStartStop">
+<area shape="rect" id="node2" href="$df/d78/classTestMIGui.html#aba641dc6bcd2bd99dca951d826458bad" title="TestMIGui::handleMessage" alt="" coords="204,5,387,32"/>
+<area shape="rect" id="node5" href="$d7/da7/classTestMI.html#afd09ce663d84b09aca7d2273d7daf6f4" title="TestMI::handleMessage" alt="" coords="214,56,377,83"/>
+<area shape="rect" id="node3" href="$df/d78/classTestMIGui.html#ae270a3d1ab89042d0b99e35232b3d96d" title="TestMIGui::handleInputMessages" alt="" coords="435,5,653,32"/>
+<area shape="rect" id="node4" href="$df/d78/classTestMIGui.html#a46d27a080d13bc0e97967b840af36f24" title="TestMIGui::TestMIGui" alt="" coords="701,5,853,32"/>
+<area shape="rect" id="node6" href="$d7/da7/classTestMI.html#a2e624bc3b137c3750b4474973d3126b0" title="TestMI::setSinkCenterFrequency" alt="" coords="437,56,651,83"/>
+</map>

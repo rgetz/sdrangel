@@ -1,0 +1,12 @@
+<map id="AMModGUI::tick" name="AMModGUI::tick">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="263,35,303,61"/>
+<area shape="rect" id="node7" href="$da/d45/classAMMod_1_1MsgConfigureFileSourceStreamTiming.html#af624fa688f8eebba3928e6b976430188" title="AMMod::MsgConfigureFileSource\lStreamTiming::create" alt="" coords="173,86,392,127"/>
+<area shape="rect" id="node8" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="220,152,345,179"/>
+<area shape="rect" id="node9" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="199,203,367,245"/>
+<area shape="rect" id="node10" href="$db/d93/classAMMod.html#a00c4eeccbabb3c05ffc6ebeb51dd51f6" title="AMMod::getMagSq" alt="" coords="215,269,350,296"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="208,320,357,347"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="440,35,548,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="800,5,919,32"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="596,57,744,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="792,57,927,98"/>
+</map>

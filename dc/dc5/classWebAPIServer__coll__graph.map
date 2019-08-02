@@ -1,0 +1,9 @@
+<map id="WebAPIServer" name="WebAPIServer">
+<area shape="rect" id="node2" href="$db/dcd/classqtwebapp_1_1HttpListener.html" title="qtwebapp::HttpListener" alt="" coords="733,81,891,108"/>
+<area shape="rect" id="node3" href="$d8/d77/classqtwebapp_1_1HttpRequestHandler.html" title="qtwebapp::HttpRequestHandler" alt="" coords="5,172,211,199"/>
+<area shape="rect" id="node5" href="$d8/db4/classqtwebapp_1_1HttpConnectionHandlerPool.html" title="qtwebapp::HttpConnection\lHandlerPool" alt="" coords="363,74,541,115"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html" title="WebAPIRequestMapper" alt="" coords="731,231,893,257"/>
+<area shape="rect" id="node7" href="$d6/d24/classqtwebapp_1_1StaticFileController.html" title="qtwebapp::StaticFileController" alt="" coords="353,203,551,229"/>
+<area shape="rect" id="node4" href="$dd/de8/classqtwebapp_1_1HttpListenerSettings.html" title="qtwebapp::HttpListenerSettings" alt="" coords="5,12,211,39"/>
+<area shape="rect" id="node8" href="$d0/da8/classWebAPIAdapterInterface.html" title="WebAPIAdapterInterface" alt="" coords="369,253,535,280"/>
+</map>

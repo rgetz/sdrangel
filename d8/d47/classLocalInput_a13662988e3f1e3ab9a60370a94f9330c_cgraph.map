@@ -1,0 +1,9 @@
+<map id="LocalInput::setSampleRate" name="LocalInput::setSampleRate">
+<area shape="rect" id="node2" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a398f7ab1ad031636b1d3ad046128f943" title="LocalInput::MsgReportSample\lRateAndFrequency::create" alt="" coords="233,5,432,47"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#ac83b6abaec341f91e8652ca70882e5bb" title="Device engine message queue. " alt="" coords="237,71,429,112"/>
+<area shape="rect" id="node7" href="$db/d0c/classDeviceSampleSource.html#a4cd7f5373d858fc4c2e4031a6efe437b" title="DeviceSampleSource\l::getMessageQueueToGUI" alt="" coords="243,136,422,177"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="258,202,407,229"/>
+<area shape="rect" id="node4" href="$d2/d3b/classDSPDeviceSourceEngine.html#a5c45cdb279f4bf1a37bdeabd96ca7460" title="DSPDeviceSourceEngine\l::getInputMessageQueue" alt="" coords="480,5,652,47"/>
+<area shape="rect" id="node5" href="$d1/d90/classDSPDeviceSinkEngine.html#af3d2710cedb3a89aeea6fb52ee3c6adc" title="DSPDeviceSinkEngine\l::getInputMessageQueue" alt="" coords="482,71,650,112"/>
+<area shape="rect" id="node6" href="$df/d80/classDSPDeviceMIMOEngine.html#a7281426ef3076f28470783682717d759" title="DSPDeviceMIMOEngine\l::getInputMessageQueue" alt="" coords="482,136,650,177"/>
+</map>

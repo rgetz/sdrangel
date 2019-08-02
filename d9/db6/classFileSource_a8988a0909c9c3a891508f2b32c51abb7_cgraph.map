@@ -1,0 +1,11 @@
+<map id="FileSource::handleEOF" name="FileSource::handleEOF">
+<area shape="rect" id="node2" href="$d2/da2/classFileSource_1_1MsgPlayPause.html#a5e231c809c30f12370ff5ba3f08d903e" title="FileSource::MsgPlayPause\l::create" alt="" coords="219,5,399,47"/>
+<area shape="rect" id="node3" href="$d5/da5/classFileSource_1_1MsgReportFileSourceStreamTiming.html#a3642d6a63e7a47e57a03869aa5f7f7c8" title="FileSource::MsgReportFile\lSourceStreamTiming::create" alt="" coords="215,71,403,112"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a55487ed2dcc7e1da118dcd8d32c76e7f" title="BasebandSampleSource\l::getMessageQueueToGUI" alt="" coords="455,144,633,185"/>
+<area shape="rect" id="node5" href="$d9/db6/classFileSource.html#a4f33e8819a2d551b54b5736c11b28999" title="FileSource::getSamplesCount" alt="" coords="211,339,407,366"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="469,275,619,302"/>
+<area shape="rect" id="node7" href="$d9/db6/classFileSource.html#a0d22494786f5a812b988b79fed65e193" title="FileSource::seekFileStream" alt="" coords="217,390,400,417"/>
+<area shape="rect" id="node8" href="$d9/db6/classFileSource.html#a2a85516ff1741b261f370cdd1cd449b8" title="FileSource::start" alt="" coords="249,187,368,214"/>
+<area shape="rect" id="node10" href="$d9/db6/classFileSource.html#a876cfdb6f54dacef797d807692cd4c5e" title="FileSource::stop" alt="" coords="250,238,367,265"/>
+<area shape="rect" id="node9" href="$d6/dee/classFileSource_1_1MsgReportFileSourceAcquisition.html#a2056c6762b77ed1ee67d9394cc851ced" title="FileSource::MsgReportFile\lSourceAcquisition::create" alt="" coords="455,209,633,251"/>
+</map>

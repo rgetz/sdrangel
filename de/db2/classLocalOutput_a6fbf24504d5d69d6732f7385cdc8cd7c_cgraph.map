@@ -1,0 +1,8 @@
+<map id="LocalOutput::webapiReportGet" name="LocalOutput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a4271adedc456cc32fe72733b167778e1" title="SWGSDRangel::SWGDeviceReport\l::getLocalOutputReport" alt="" coords="537,17,772,59"/>
+<area shape="rect" id="node3" href="$d0/d60/classSWGSDRangel_1_1SWGLocalOutputReport.html#ad8cb90446ccfcd1ee5a272905f9d0483" title="SWGSDRangel::SWGLocalOutput\lReport::init" alt="" coords="260,31,484,72"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ad6fe763f8a97b6b514b65c7753ff2820" title="SWGSDRangel::SWGDeviceReport\l::setLocalOutputReport" alt="" coords="255,96,489,137"/>
+<area shape="rect" id="node5" href="$de/db2/classLocalOutput.html#a4f7e629479e741f65c5e174835b954f8" title="LocalOutput::webapiFormat\lDeviceReport" alt="" coords="281,161,463,203"/>
+<area shape="rect" id="node6" href="$d0/d60/classSWGSDRangel_1_1SWGLocalOutputReport.html#a1cc4dff0b5fca0cef8ea3154ab2a0157" title="SWGSDRangel::SWGLocalOutput\lReport::setCenterFrequency" alt="" coords="543,128,767,169"/>
+<area shape="rect" id="node7" href="$d0/d60/classSWGSDRangel_1_1SWGLocalOutputReport.html#acebfce97be57404e3b9d8ad3105b3449" title="SWGSDRangel::SWGLocalOutput\lReport::setSampleRate" alt="" coords="543,193,767,235"/>
+</map>

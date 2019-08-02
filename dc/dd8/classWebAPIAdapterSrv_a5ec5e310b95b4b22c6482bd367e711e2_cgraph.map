@@ -1,0 +1,7 @@
+<map id="WebAPIAdapterSrv::instanceDelete" name="WebAPIAdapterSrv::instanceDelete">
+<area shape="rect" id="node2" href="$d2/d10/classMainCore_1_1MsgDeleteInstance.html#a44d0bcc132ab366c770d8b3558225478" title="MainCore::MsgDeleteInstance\l::create" alt="" coords="279,5,478,47"/>
+<area shape="rect" id="node3" href="$db/d47/classMainCore.html#a94e2f4248d97e527d433cfb09da82618" title="MainCore::getInputMessage\lQueue" alt="" coords="285,71,472,112"/>
+<area shape="rect" id="node4" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#a788632125aeeacf50992383d8fbfa177" title="SWGSDRangel::SWGSuccessResponse\l::getMessage" alt="" coords="247,136,511,177"/>
+<area shape="rect" id="node5" href="$df/d15/classSWGSDRangel_1_1SWGSuccessResponse.html#ad8b01b8f5ec488076a166446c4045229" title="SWGSDRangel::SWGSuccessResponse\l::init" alt="" coords="247,201,511,243"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="304,267,453,294"/>
+</map>

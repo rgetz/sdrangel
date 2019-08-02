@@ -1,0 +1,22 @@
+<map id="WebAPIRequestMapper::instanceConfigService" name="WebAPIRequestMapper::instanceConfigService">
+<area shape="rect" id="node2" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#abf3b790c21ea6edf9eaad2038b4c0470" title="SWGSDRangel::SWGErrorResponse\l::asJson" alt="" coords="216,5,457,47"/>
+<area shape="rect" id="node6" href="$d4/d44/classSWGSDRangel_1_1SWGInstanceConfigResponse.html#a8569ed1f3363d0519e847b79e1006c74" title="SWGSDRangel::SWGInstance\lConfigResponse::asJson" alt="" coords="235,71,439,112"/>
+<area shape="rect" id="node12" href="$dc/d5c/classqtwebapp_1_1HttpRequest.html#ae3c92d9c0f5279c6d5b1bfdb47aaa5e0" title="qtwebapp::HttpRequest\l::getMethod" alt="" coords="257,136,417,177"/>
+<area shape="rect" id="node13" href="$d0/da8/classWebAPIAdapterInterface.html#a848f3608e196ceed43c836ea3c82ba55" title="WebAPIAdapterInterface\l::instanceConfigGet" alt="" coords="253,201,420,243"/>
+<area shape="rect" id="node16" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a41029ee24e05e419e6da7ea970bc3724" title="qtwebapp::HttpResponse\l::setHeader" alt="" coords="251,267,422,308"/>
+<area shape="rect" id="node17" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a07af281f6437c377e6f729051ce4e13c" title="qtwebapp::HttpResponse\l::setStatus" alt="" coords="251,332,422,373"/>
+<area shape="rect" id="node18" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a6e49919cc568835ca6d81fec02533260" title="qtwebapp::HttpResponse\l::write" alt="" coords="251,397,422,439"/>
+<area shape="rect" id="node3" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad779800e6fddc13efb3a3ec7c6bc3ce2" title="SWGSDRangel::SWGErrorResponse\l::asJsonObject" alt="" coords="505,5,747,47"/>
+<area shape="rect" id="node4" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="809,13,1004,39"/>
+<area shape="rect" id="node5" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="1084,61,1276,103"/>
+<area shape="rect" id="node7" href="$d4/d44/classSWGSDRangel_1_1SWGInstanceConfigResponse.html#a8187cea7cb71e0c0704e0c90c9ee18f1" title="SWGSDRangel::SWGInstance\lConfigResponse::asJsonObject" alt="" coords="523,71,729,112"/>
+<area shape="rect" id="node8" href="$db/d45/classSWGSDRangel_1_1SWGPreferences.html#a2d4189b69d5b8c3da88700b4b6e7e90e" title="SWGSDRangel::SWGPreferences\l::isSet" alt="" coords="795,64,1019,105"/>
+<area shape="rect" id="node9" href="$da/de3/classSWGSDRangel_1_1SWGPreset.html#aa9ca6d6f9898c652d71d3a36b31410e0" title="SWGSDRangel::SWGPreset\l::isSet" alt="" coords="811,181,1003,223"/>
+<area shape="rect" id="node11" href="$d8/d0f/namespaceSWGSDRangel.html#a4fcf6d1c10d830edca6b331fe71e8f8d" title="SWGSDRangel::toJsonArray" alt="" coords="811,130,1003,157"/>
+<area shape="rect" id="node10" href="$d4/d17/classSWGSDRangel_1_1SWGGLSpectrum.html#a4f92743145e642a33b4f32342df275c4" title="SWGSDRangel::SWGGLSpectrum\l::isSet" alt="" coords="1067,181,1293,223"/>
+<area shape="rect" id="node14" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="505,169,747,211"/>
+<area shape="rect" id="node15" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="505,235,747,276"/>
+<area shape="rect" id="node19" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#aeeb2ec292db009a2fd8bea9b03f5df69" title="qtwebapp::HttpResponse\l::writeHeaders" alt="" coords="541,368,711,409"/>
+<area shape="rect" id="node21" href="$d1/df6/classqtwebapp_1_1HttpResponse.html#a35de2d1c7f58dba5d40a45692f0df7ff" title="qtwebapp::HttpResponse\l::writeToSocket" alt="" coords="821,427,992,468"/>
+<area shape="rect" id="node20" href="$d1/de3/classqtwebapp_1_1HttpCookie.html#aef937847dbebf7290e94b94afbb8f9a1" title="qtwebapp::HttpCookie\l::toByteArray" alt="" coords="831,361,983,403"/>
+</map>

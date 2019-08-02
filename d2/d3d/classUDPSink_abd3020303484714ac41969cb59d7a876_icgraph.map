@@ -1,0 +1,9 @@
+<map id="UDPSink::udpWriteMono" name="UDPSink::udpWriteMono">
+<area shape="rect" id="node2" href="$d2/d3d/classUDPSink.html#aa2ba670b7705bceca05e3f4a082f0081" title="UDPSink::feed" alt="" coords="223,5,333,32"/>
+<area shape="rect" id="node3" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="381,5,563,32"/>
+<area shape="rect" id="node4" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="611,5,741,32"/>
+<area shape="rect" id="node5" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="789,5,977,32"/>
+<area shape="rect" id="node6" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1025,5,1171,32"/>
+<area shape="rect" id="node7" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1219,5,1465,32"/>
+<area shape="rect" id="node8" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1513,5,1688,32"/>
+</map>

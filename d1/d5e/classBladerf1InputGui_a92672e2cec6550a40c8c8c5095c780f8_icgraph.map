@@ -1,0 +1,18 @@
+<map id="Bladerf1InputGui::sendSettings" name="Bladerf1InputGui::sendSettings">
+<area shape="rect" id="node2" href="$d1/d5e/classBladerf1InputGui.html#a87cec0483291f33a701f410e5055bc25" title="Bladerf1InputGui::Bladerf1\lInputGui" alt="" coords="530,30,705,71"/>
+<area shape="rect" id="node3" href="$d1/d5e/classBladerf1InputGui.html#aeed3402e1342e9c014510fa228c3ac40" title="Bladerf1InputGui::deserialize" alt="" coords="523,880,712,906"/>
+<area shape="rect" id="node4" href="$d1/d5e/classBladerf1InputGui.html#ac251c163e1780ab5607387366ed4dd45" title="Bladerf1InputGui::on\l_bandwidth_currentIndexChanged" alt="" coords="256,124,475,166"/>
+<area shape="rect" id="node5" href="$d1/d5e/classBladerf1InputGui.html#a1830b0d9b5b06cd4a92e852eb904b250" title="Bladerf1InputGui::on\l_centerFrequency_changed" alt="" coords="274,190,457,231"/>
+<area shape="rect" id="node6" href="$d1/d5e/classBladerf1InputGui.html#a6cc2aac7f41de04f44b5d49f5e7ed0c4" title="Bladerf1InputGui::on\l_dcOffset_toggled" alt="" coords="295,255,436,296"/>
+<area shape="rect" id="node7" href="$d1/d5e/classBladerf1InputGui.html#a789f4f9020e2a33b41c7df7e72ddc6e5" title="Bladerf1InputGui::on\l_decim_currentIndexChanged" alt="" coords="268,320,463,362"/>
+<area shape="rect" id="node8" href="$d1/d5e/classBladerf1InputGui.html#a7d59f98c78ed88af1bb63f3565f0b41e" title="Bladerf1InputGui::on\l_fcPos_currentIndexChanged" alt="" coords="268,386,463,427"/>
+<area shape="rect" id="node9" href="$d1/d5e/classBladerf1InputGui.html#a3b0fd0ecf81680b5bf9f7f3d53632130" title="Bladerf1InputGui::on\l_iqImbalance_toggled" alt="" coords="291,451,439,492"/>
+<area shape="rect" id="node10" href="$d1/d5e/classBladerf1InputGui.html#a3a305a4fd93f841b55a210c30947c6ae" title="Bladerf1InputGui::on\l_lna_currentIndexChanged" alt="" coords="277,516,454,558"/>
+<area shape="rect" id="node11" href="$d1/d5e/classBladerf1InputGui.html#a08e7f56651617e5282be68a9110c2779" title="Bladerf1InputGui::on\l_sampleRate_changed" alt="" coords="288,582,443,623"/>
+<area shape="rect" id="node12" href="$d1/d5e/classBladerf1InputGui.html#a9a011c158abdca6ab418ce25471a878e" title="Bladerf1InputGui::on\l_vga1_valueChanged" alt="" coords="292,647,439,688"/>
+<area shape="rect" id="node13" href="$d1/d5e/classBladerf1InputGui.html#af259d0302b8607c813246fed1b00ae1f" title="Bladerf1InputGui::on\l_vga2_valueChanged" alt="" coords="292,712,439,754"/>
+<area shape="rect" id="node14" href="$d1/d5e/classBladerf1InputGui.html#a111d78f7be28df36c7b1e37940711e8c" title="Bladerf1InputGui::on\l_xb200_currentIndexChanged" alt="" coords="268,778,463,819"/>
+<area shape="rect" id="node15" href="$d1/d5e/classBladerf1InputGui.html#a6fc61901652b6a66b518861bf783e3c8" title="Bladerf1InputGui::openDevice\lSettingsDialog" alt="" coords="267,59,463,100"/>
+<area shape="rect" id="node16" href="$d1/d5e/classBladerf1InputGui.html#adbf9e62d764e9d6d4358d9e5ca4077f6" title="Bladerf1InputGui::resetTo\lDefaults" alt="" coords="280,843,451,884"/>
+<area shape="rect" id="node17" href="$d1/d5e/classBladerf1InputGui.html#a8f716108ed6b7275481bc6a905a5a861" title="Bladerf1InputGui::setCenter\lFrequency" alt="" coords="273,960,457,1002"/>
+</map>

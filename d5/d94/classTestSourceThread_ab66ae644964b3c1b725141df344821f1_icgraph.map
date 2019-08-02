@@ -1,0 +1,13 @@
+<map id="TestSourceThread::setModulation" name="TestSourceThread::setModulation">
+<area shape="rect" id="node2" href="$d9/d2b/classTestSourceInput.html#a62072416ddd710a01feae029571840ff" title="TestSourceInput::applySettings" alt="" coords="988,56,1193,83"/>
+<area shape="rect" id="node8" href="$de/da8/classTestSourceThread_1_1MsgStartStop.html#a496a1af2ba00d6ef32386044912c0a20" title="TestSourceThread::MsgStart\lStop::MsgStartStop" alt="" coords="272,107,463,149"/>
+<area shape="rect" id="node3" href="$d9/d2b/classTestSourceInput.html#aff00c043f6fb62fc1c84b40220390c0c" title="TestSourceInput::handleMessage" alt="" coords="1241,5,1459,32"/>
+<area shape="rect" id="node5" href="$d9/d2b/classTestSourceInput.html#ac33252a3f42099343a427efb1149072d" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1279,56,1421,83"/>
+<area shape="rect" id="node7" href="$d9/d2b/classTestSourceInput.html#ad9576782a0c0081f8c4e106279a66a08" title="TestSourceInput::start" alt="" coords="1274,107,1426,133"/>
+<area shape="rect" id="node4" href="$d9/d2b/classTestSourceInput.html#a1e8134add18d5b24f054939ffb07b5c4" title="For when the source sample rate is set externally. " alt="" coords="1507,5,1723,32"/>
+<area shape="rect" id="node6" href="$d6/d4f/classTestSourceInput_1_1MsgStartStop.html#ab5d26e197edbd7b6bafe75bbe72e4a2b" title="TestSourceInput::MsgStart\lStop::MsgStartStop" alt="" coords="1525,125,1704,166"/>
+<area shape="rect" id="node9" href="$de/da8/classTestSourceThread_1_1MsgStartStop.html#a4b02d7bc326e788bcea21ab056095eca" title="TestSourceThread::MsgStart\lStop::create" alt="" coords="511,107,701,149"/>
+<area shape="rect" id="node10" href="$d5/d94/classTestSourceThread.html#a5bfc7cef93f21bc973b62b6bcb1c3b6d" title="TestSourceThread::startStop" alt="" coords="749,136,940,163"/>
+<area shape="rect" id="node11" href="$d9/d2b/classTestSourceInput.html#aa8e05ad7d6244932154681732e057e6d" title="TestSourceInput::stop" alt="" coords="1015,157,1166,184"/>
+<area shape="rect" id="node12" href="$d9/d2b/classTestSourceInput.html#a3a5e9602e9c06657434b72a7c1a1d473" title="TestSourceInput::~TestSource\lInput" alt="" coords="1249,209,1451,250"/>
+</map>

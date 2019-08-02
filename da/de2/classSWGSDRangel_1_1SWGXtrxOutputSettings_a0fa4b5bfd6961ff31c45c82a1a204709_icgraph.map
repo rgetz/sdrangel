@@ -1,0 +1,15 @@
+<map id="SWGSDRangel::SWGXtrxOutputSettings::setGain" name="SWGSDRangel::SWGXtrxOutputSettings::setGain">
+<area shape="rect" id="node2" href="$d1/d5f/classXTRXOutput.html#ac8920f510c148d9dedefe7e2bb20f87e" title="XTRXOutput::webapiFormat\lDeviceSettings" alt="" coords="513,57,700,98"/>
+<area shape="rect" id="node6" href="$d1/d5f/classXTRXOutput.html#a23df5973cd1f6412cef5daa9424a841a" title="XTRXOutput::webapiReverse\lSendSettings" alt="" coords="271,141,465,182"/>
+<area shape="rect" id="node3" href="$d1/d5f/classXTRXOutput.html#a02444a8cb375bbd9e991112e69906061" title="XTRXOutput::webapiSettingsGet" alt="" coords="748,5,963,32"/>
+<area shape="rect" id="node5" href="$d1/d5f/classXTRXOutput.html#a4e3a61ee7b041d8493bec1950b433bb5" title="XTRXOutput::webapiSettings\lPutPatch" alt="" coords="758,57,953,98"/>
+<area shape="rect" id="node4" href="$d1/d5f/classXTRXOutput.html#a9f53ebc1d8e8c390b88049166c1de6ee" title="For when the sink sample rate is set externally. " alt="" coords="1011,64,1205,91"/>
+<area shape="rect" id="node7" href="$d1/d5f/classXTRXOutput.html#ab799b79f068ae42e8d8f0cd047210e07" title="XTRXOutput::applySettings" alt="" coords="515,173,699,200"/>
+<area shape="rect" id="node8" href="$d1/d5f/classXTRXOutput.html#a4cdcfe9abbdabdfc771fb337a64e0ced" title="XTRXOutput::handleMessage" alt="" coords="757,123,953,149"/>
+<area shape="rect" id="node9" href="$d1/d5f/classXTRXOutput.html#a628136a6db38d4b915bdfad7344b2aa8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1286,173,1409,200"/>
+<area shape="rect" id="node11" href="$d1/d5f/classXTRXOutput.html#a3f644b7abb2c8ec5ee8f5ee86e853899" title="XTRXOutput::start" alt="" coords="1043,224,1173,251"/>
+<area shape="rect" id="node12" href="$d1/d5f/classXTRXOutput.html#aa4b594bd46809603a5a89824488f940f" title="XTRXOutput::stop" alt="" coords="790,300,921,327"/>
+<area shape="rect" id="node10" href="$d3/d52/classXTRXOutput_1_1MsgStartStop.html#ab231ef074ef0517c25fd1c542aa0c14a" title="XTRXOutput::MsgStartStop\l::MsgStartStop" alt="" coords="1489,242,1675,283"/>
+<area shape="rect" id="node13" href="$d1/d5f/classXTRXOutput.html#acb2e11c4191f06cffa213f3703374a0e" title="XTRXOutput::closeDevice" alt="" coords="1019,325,1197,352"/>
+<area shape="rect" id="node14" href="$d1/d5f/classXTRXOutput.html#af575a63d0809ce6d40a2c358cca447ed" title="XTRXOutput::~XTRXOutput" alt="" coords="1253,325,1441,352"/>
+</map>

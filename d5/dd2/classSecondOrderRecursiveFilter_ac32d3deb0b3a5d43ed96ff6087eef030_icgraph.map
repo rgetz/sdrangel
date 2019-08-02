@@ -1,0 +1,11 @@
+<map id="SecondOrderRecursiveFilter::init" name="SecondOrderRecursiveFilter::init">
+<area shape="rect" id="node2" href="$d5/dd2/classSecondOrderRecursiveFilter.html#a543243d7fcc4271edca2f008b112d396" title="SecondOrderRecursiveFilter\l::SecondOrderRecursiveFilter" alt="" coords="240,5,435,47"/>
+<area shape="rect" id="node3" href="$d5/dd2/classSecondOrderRecursiveFilter.html#af78101baa5f28a0e6f456336911b22da" title="SecondOrderRecursiveFilter\l::setFrequencies" alt="" coords="244,71,431,112"/>
+<area shape="rect" id="node10" href="$d5/dd2/classSecondOrderRecursiveFilter.html#a5bcd76b2f2bee63e96029274358c5dd5" title="SecondOrderRecursiveFilter\l::setR" alt="" coords="244,136,431,177"/>
+<area shape="rect" id="node4" href="$de/dce/classATVDemod.html#a6bcdbcf92af9b224581ac9f3777b4347" title="ATVDemod::applySettings" alt="" coords="483,78,660,105"/>
+<area shape="rect" id="node5" href="$de/dce/classATVDemod.html#aa2f0eb22c51f28cb7c1bbbe0af96c901" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="708,78,897,105"/>
+<area shape="rect" id="node6" href="$de/dce/classATVDemod.html#aef2d5dcc20c7bbf079fd9e1dd2b7d425" title="ATVDemod::setScopeSink" alt="" coords="945,78,1124,105"/>
+<area shape="rect" id="node7" href="$df/dd3/classATVDemodGUI.html#a810dc3bfb9a68867b80194da605cc2eb" title="ATVDemodGUI::ATVDemodGUI" alt="" coords="1172,78,1387,105"/>
+<area shape="rect" id="node8" href="$df/dd3/classATVDemodGUI.html#abb6365f8ac935aba217364547bd2fc62" title="ATVDemodGUI::create" alt="" coords="1435,78,1593,105"/>
+<area shape="rect" id="node9" href="$d1/d61/classATVDemodPlugin.html#a8c68ba0855319e910fe638dd8274740c" title="ATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1641,71,1828,112"/>
+</map>

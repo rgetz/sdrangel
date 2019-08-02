@@ -1,0 +1,24 @@
+<map id="XTRXInputGUI::sendSettings" name="XTRXInputGUI::sendSettings">
+<area shape="rect" id="node2" href="$d3/df5/classXTRXInputGUI.html#abe927c94932587eda6367a39e2697b80" title="XTRXInputGUI::deserialize" alt="" coords="547,597,728,623"/>
+<area shape="rect" id="node3" href="$d3/df5/classXTRXInputGUI.html#a484d8dbd2afedd2914c2101ddc8c0557" title="XTRXInputGUI::on_antenna\l_currentIndexChanged" alt="" coords="273,67,460,108"/>
+<area shape="rect" id="node4" href="$d3/df5/classXTRXInputGUI.html#a2a4e11418ac749ba4717dcf4bb9049a8" title="XTRXInputGUI::on_centerFrequency\l_changed" alt="" coords="248,132,485,173"/>
+<area shape="rect" id="node5" href="$d3/df5/classXTRXInputGUI.html#a0b416a268aad45a6cb51dacb331e59ef" title="XTRXInputGUI::on_dcOffset\l_toggled" alt="" coords="271,197,462,239"/>
+<area shape="rect" id="node6" href="$d3/df5/classXTRXInputGUI.html#acc34cb7ead7ad17c86d637c03a79df75" title="XTRXInputGUI::on_extClock\l_clicked" alt="" coords="271,263,463,304"/>
+<area shape="rect" id="node7" href="$d3/df5/classXTRXInputGUI.html#a0f3162a0b0d41614180003eb3b1948a7" title="XTRXInputGUI::on_gain\l_valueChanged" alt="" coords="285,328,449,369"/>
+<area shape="rect" id="node8" href="$d3/df5/classXTRXInputGUI.html#afa1f283143efcc2639c4dd357f7663ad" title="XTRXInputGUI::on_gainMode\l_currentIndexChanged" alt="" coords="269,393,465,435"/>
+<area shape="rect" id="node9" href="$d3/df5/classXTRXInputGUI.html#ab80a7cc298f0de29394dd29222238b46" title="XTRXInputGUI::on_hwDecim\l_currentIndexChanged" alt="" coords="269,459,464,500"/>
+<area shape="rect" id="node10" href="$d3/df5/classXTRXInputGUI.html#a9d719ac903532c6397cc1905470ec5d3" title="XTRXInputGUI::on_iqImbalance\l_toggled" alt="" coords="261,524,472,565"/>
+<area shape="rect" id="node11" href="$d3/df5/classXTRXInputGUI.html#a99073bede773fe54ab352b15c5f76d15" title="XTRXInputGUI::on_lnaGain\l_valueChanged" alt="" coords="275,589,459,631"/>
+<area shape="rect" id="node12" href="$d3/df5/classXTRXInputGUI.html#abf83dca3dad67dce6c2810e7adfdd149" title="XTRXInputGUI::on_lpf\l_changed" alt="" coords="289,655,444,696"/>
+<area shape="rect" id="node13" href="$d3/df5/classXTRXInputGUI.html#aa70ab164e62f2aab945ff80d3e9f40ab" title="XTRXInputGUI::on_ncoEnable\l_toggled" alt="" coords="266,720,467,761"/>
+<area shape="rect" id="node14" href="$d3/df5/classXTRXInputGUI.html#adbeed853f95304d0f258c835637626f9" title="XTRXInputGUI::on_ncoFrequency\l_changed" alt="" coords="255,785,478,827"/>
+<area shape="rect" id="node15" href="$d3/df5/classXTRXInputGUI.html#aab510030ab39b88cebc4cdcad9867b1f" title="XTRXInputGUI::on_pgaGain\l_valueChanged" alt="" coords="273,851,461,892"/>
+<area shape="rect" id="node16" href="$d3/df5/classXTRXInputGUI.html#aac66f2421f2de4465cac8016ee2910a3" title="XTRXInputGUI::on_pwrmode\l_currentIndexChanged" alt="" coords="270,916,463,957"/>
+<area shape="rect" id="node17" href="$d3/df5/classXTRXInputGUI.html#ac2be61370f17fe07cafd5adff59dffd4" title="XTRXInputGUI::on_sampleRate\l_changed" alt="" coords="261,981,472,1023"/>
+<area shape="rect" id="node18" href="$d3/df5/classXTRXInputGUI.html#aa48d8c3b438ff0ee4fa4b16d2d93d63c" title="XTRXInputGUI::on_swDecim\l_currentIndexChanged" alt="" coords="269,1047,464,1088"/>
+<area shape="rect" id="node19" href="$d3/df5/classXTRXInputGUI.html#a1220c17ef55829206738dc58d3a659e1" title="XTRXInputGUI::on_tiaGain\l_currentIndexChanged" alt="" coords="276,1112,457,1153"/>
+<area shape="rect" id="node20" href="$d3/df5/classXTRXInputGUI.html#ad86dadb2489065bdefc72332692886eb" title="XTRXInputGUI::openDevice\lSettingsDialog" alt="" coords="273,1229,461,1271"/>
+<area shape="rect" id="node22" href="$d3/df5/classXTRXInputGUI.html#a1a15ac2f0cdc02f3d6c31288a68d39f1" title="XTRXInputGUI::resetToDefaults" alt="" coords="261,1178,473,1205"/>
+<area shape="rect" id="node23" href="$d3/df5/classXTRXInputGUI.html#a148df1617f2ef96be40708a07006e326" title="XTRXInputGUI::setCenterFrequency" alt="" coords="248,1295,485,1322"/>
+<area shape="rect" id="node21" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="533,1237,741,1263"/>
+</map>

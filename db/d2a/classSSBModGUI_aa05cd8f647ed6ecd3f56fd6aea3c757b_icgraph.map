@@ -1,0 +1,34 @@
+<map id="SSBModGUI::applySettings" name="SSBModGUI::applySettings">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a9a6df214a036d35bd7ea2aabf9526ef7" title="SSBModGUI::applyBandwidths" alt="" coords="253,183,459,209"/>
+<area shape="rect" id="node14" href="$db/d2a/classSSBModGUI.html#a568abd0add18094ea116f2b9e109d9de" title="SSBModGUI::audioFeedback\lSelect" alt="" coords="543,390,738,431"/>
+<area shape="rect" id="node15" href="$db/d2a/classSSBModGUI.html#a5cbbca5ac390978c2d0dc69b770bd2a7" title="SSBModGUI::audioSelect" alt="" coords="269,456,443,483"/>
+<area shape="rect" id="node16" href="$db/d2a/classSSBModGUI.html#a3b824bec669cd6ceeff0c8dec7ba5766" title="SSBModGUI::channelMarker\lChangedByCursor" alt="" coords="835,507,1026,549"/>
+<area shape="rect" id="node17" href="$db/d2a/classSSBModGUI.html#a2f505e4870ef504715460cc4ddcbc823" title="SSBModGUI::channelMarker\lUpdate" alt="" coords="261,558,451,599"/>
+<area shape="rect" id="node18" href="$db/d2a/classSSBModGUI.html#a889c461c4f755fe0de9f8ed378221c06" title="SSBModGUI::on_agc_toggled" alt="" coords="257,624,455,651"/>
+<area shape="rect" id="node19" href="$db/d2a/classSSBModGUI.html#a1d36f5582b5886e78b08f9e4fc3516ed" title="SSBModGUI::on_audioBinaural\l_toggled" alt="" coords="253,675,459,717"/>
+<area shape="rect" id="node20" href="$db/d2a/classSSBModGUI.html#af095ef7749e9fd9cb561bc10a1074b95" title="SSBModGUI::on_audioFlipChannels\l_toggled" alt="" coords="239,741,473,782"/>
+<area shape="rect" id="node21" href="$db/d2a/classSSBModGUI.html#a570417ca4cf05230e5d645daf5321923" title="SSBModGUI::on_audioMute\l_toggled" alt="" coords="263,806,449,847"/>
+<area shape="rect" id="node22" href="$db/d2a/classSSBModGUI.html#a9efe7142b4f304eaa9d154d82f13ef53" title="SSBModGUI::on_deltaFrequency\l_changed" alt="" coords="248,871,464,913"/>
+<area shape="rect" id="node23" href="$db/d2a/classSSBModGUI.html#a6dd6d1aca36e5ffaa91792ae8ab02cf5" title="SSBModGUI::on_feedbackEnable\l_toggled" alt="" coords="246,937,466,978"/>
+<area shape="rect" id="node24" href="$db/d2a/classSSBModGUI.html#adee650870c3c71af229898a2345186ae" title="SSBModGUI::on_feedbackVolume\l_valueChanged" alt="" coords="244,1002,468,1043"/>
+<area shape="rect" id="node25" href="$db/d2a/classSSBModGUI.html#a62bc3086ee6767a3c11f52d8a4bf9e72" title="SSBModGUI::on_mic_toggled" alt="" coords="257,1068,455,1095"/>
+<area shape="rect" id="node26" href="$db/d2a/classSSBModGUI.html#a516054c79e420e21991f7c804b2f6672" title="SSBModGUI::on_morseKeyer\l_toggled" alt="" coords="257,1119,455,1161"/>
+<area shape="rect" id="node27" href="$db/d2a/classSSBModGUI.html#aab6985e0d556efeb9518d270f26fecfb" title="SSBModGUI::on_play\l_toggled" alt="" coords="281,1185,431,1226"/>
+<area shape="rect" id="node28" href="$db/d2a/classSSBModGUI.html#a589d4ed6fa3a44751c9ae4434199fc60" title="SSBModGUI::on_playLoop\l_toggled" alt="" coords="267,1250,445,1291"/>
+<area shape="rect" id="node29" href="$db/d2a/classSSBModGUI.html#ac2d6a7e301b691fc09993c7c3e6bd199" title="SSBModGUI::on_tone\l_toggled" alt="" coords="280,1315,432,1357"/>
+<area shape="rect" id="node30" href="$db/d2a/classSSBModGUI.html#a5bb1dfd78e7c2f178b666afe0fa512d8" title="SSBModGUI::on_toneFrequency\l_valueChanged" alt="" coords="249,1381,463,1422"/>
+<area shape="rect" id="node31" href="$db/d2a/classSSBModGUI.html#abc6c8cf38bc230a093cd88ef5c1e1002" title="SSBModGUI::on_volume\l_valueChanged" alt="" coords="271,1446,441,1487"/>
+<area shape="rect" id="node32" href="$db/d2a/classSSBModGUI.html#a3b0aa864ad3ba34412fb270a2a641e8b" title="SSBModGUI::onMenuDialogCalled" alt="" coords="817,1043,1044,1069"/>
+<area shape="rect" id="node33" href="$db/d2a/classSSBModGUI.html#ab553b3544be4189ad0a0ca2b948b7034" title="SSBModGUI::setCenterFrequency" alt="" coords="244,1563,468,1589"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#ad98b85e5431bf42b8083db28d11e7d31" title="SSBModGUI::deserialize" alt="" coords="557,5,725,32"/>
+<area shape="rect" id="node4" href="$db/d2a/classSSBModGUI.html#a855dcb8b682351262b93781388af86a8" title="SSBModGUI::handleMessage" alt="" coords="542,56,739,83"/>
+<area shape="rect" id="node6" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1101,427,1284,453"/>
+<area shape="rect" id="node10" href="$db/d2a/classSSBModGUI.html#a7693c2560d2361ad1c4c68d17a57eedc" title="SSBModGUI::on_BW_valueChanged" alt="" coords="521,157,760,184"/>
+<area shape="rect" id="node11" href="$db/d2a/classSSBModGUI.html#ae8409de1d2814233fdc8a663f1c74bf4" title="SSBModGUI::on_dsb_toggled" alt="" coords="542,208,739,235"/>
+<area shape="rect" id="node12" href="$db/d2a/classSSBModGUI.html#ac03e3051f984a34cb566ee4c6f1c62bf" title="SSBModGUI::on_lowCut\l_valueChanged" alt="" coords="557,259,725,301"/>
+<area shape="rect" id="node13" href="$db/d2a/classSSBModGUI.html#a66896663550959b5cf7b152bb1a9c190" title="SSBModGUI::on_spanLog2\l_valueChanged" alt="" coords="549,325,732,366"/>
+<area shape="rect" id="node5" href="$db/d2a/classSSBModGUI.html#a4511664850ee42cd3e832efbb173c137" title="SSBModGUI::handleSourceMessages" alt="" coords="808,56,1053,83"/>
+<area shape="rect" id="node7" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1332,427,1475,453"/>
+<area shape="rect" id="node8" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1523,427,1764,453"/>
+<area shape="rect" id="node9" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1812,427,1983,453"/>
+</map>

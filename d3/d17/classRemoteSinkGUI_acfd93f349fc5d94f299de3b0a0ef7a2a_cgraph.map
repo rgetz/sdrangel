@@ -1,0 +1,76 @@
+<map id="RemoteSinkGUI::RemoteSinkGUI" name="RemoteSinkGUI::RemoteSinkGUI">
+<area shape="rect" id="node2" href="$d3/d37/classDeviceUISet.html#a9883664a0a9633bca0c66f9a757714ae" title="Add channel marker to spectrum. " alt="" coords="278,611,493,638"/>
+<area shape="rect" id="node8" href="$d3/d37/classDeviceUISet.html#a1160290a5c290edeaca5748e2b60fce7" title="Add rollup widget to channel window. " alt="" coords="283,707,487,734"/>
+<area shape="rect" id="node10" href="$d3/d17/classRemoteSinkGUI.html#a3626eca92af947d52a59cdde2f066ede" title="RemoteSinkGUI::applySettings" alt="" coords="1632,617,1837,643"/>
+<area shape="rect" id="node17" href="$d3/d17/classRemoteSinkGUI.html#a6a0896848ccb3c02c70ca2f787d2ee08" title="RemoteSinkGUI::displaySettings" alt="" coords="817,1209,1032,1235"/>
+<area shape="rect" id="node18" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="1897,1359,2071,1400"/>
+<area shape="rect" id="node19" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="1121,1453,1282,1479"/>
+<area shape="rect" id="node22" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="1118,1503,1285,1530"/>
+<area shape="rect" id="node37" href="$d3/d17/classRemoteSinkGUI.html#af83e6c72687fe0fcab0c29131fd60127" title="RemoteSinkGUI::getInputMessage\lQueue" alt="" coords="543,1501,769,1543"/>
+<area shape="rect" id="node38" href="$d3/d17/classRemoteSinkGUI.html#a8406fd76c79ac980153431b6c8372e79" title="RemoteSinkGUI::handleSource\lMessages" alt="" coords="283,1475,488,1516"/>
+<area shape="rect" id="node44" href="$d3/d17/classRemoteSinkGUI.html#abc93a6eba5bdccf1042209f23d773a72" title="RemoteSinkGUI::onMenuDialog\lCalled" alt="" coords="1373,492,1582,533"/>
+<area shape="rect" id="node56" href="$d3/d17/classRemoteSinkGUI.html#af6cc412f795f964a2346f79494878cb5" title="RemoteSinkGUI::onWidgetRolled" alt="" coords="276,1746,495,1773"/>
+<area shape="rect" id="node57" href="$d3/d37/classDeviceUISet.html#abc6a55e67ac6501cf65327dd037b2556" title="DeviceUISet::registerRxChannel\lInstance" alt="" coords="549,991,763,1032"/>
+<area shape="rect" id="node59" href="$d2/d2e/structRemoteSinkSettings.html#a670b8339f5114cd1fd611f272372cda3" title="RemoteSinkSettings\l::setChannelMarker" alt="" coords="314,1797,457,1839"/>
+<area shape="rect" id="node74" href="$d8/df9/classBasebandSampleSink.html#ac26ecab49780cbdd11c18da29c7a97c7" title="BasebandSampleSink\l::setMessageQueueToGUI" alt="" coords="296,1863,475,1904"/>
+<area shape="rect" id="node75" href="$de/d03/classChannelMarker.html#a40014b565a891a3173a40fe5ecfded25" title="ChannelMarker::setVisible" alt="" coords="298,1929,473,1955"/>
+<area shape="rect" id="node3" href="$d6/dab/classGLSpectrum.html#af8a508110b742c425a4017b9b9734d0e" title="GLSpectrum::addChannelMarker" alt="" coords="550,533,762,559"/>
+<area shape="rect" id="node4" href="$d6/dab/classGLSpectrum.html#af02cfc0961d9d886a63abf86c900509a" title="GLSpectrum::channelMarker\lChanged" alt="" coords="831,492,1019,533"/>
+<area shape="rect" id="node5" href="$d6/dab/classGLSpectrum.html#afbe6fd537a7189b7e709fccdb80ffd75" title="GLSpectrum::channelMarker\lDestroyed" alt="" coords="831,557,1019,599"/>
+<area shape="rect" id="node7" href="$d6/dab/classGLSpectrum.html#aa45083c2872588d11f49d8ba0a2db758" title="GLSpectrum::stopDrag" alt="" coords="1399,441,1555,467"/>
+<area shape="rect" id="node6" href="$d6/dab/classGLSpectrum.html#ab37ec786fce1974167e951a7ec32d39d" title="GLSpectrum::removeChannel\lMarker" alt="" coords="1104,524,1299,565"/>
+<area shape="rect" id="node9" href="$db/d40/classChannelWindow.html#a624eeeff9a7f3da86d934cb4094c6248" title="ChannelWindow::addRollup\lWidget" alt="" coords="565,696,747,737"/>
+<area shape="rect" id="node11" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="1893,550,2075,577"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="1901,463,2067,490"/>
+<area shape="rect" id="node13" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a9c8900fed8b734275981dfeee87eba49" title="RemoteSink::MsgConfigure\lRemoteSink::create" alt="" coords="1893,601,2075,643"/>
+<area shape="rect" id="node15" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="1900,719,2068,760"/>
+<area shape="rect" id="node16" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1909,667,2059,694"/>
+<area shape="rect" id="node14" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a37287d810857bd12966cd64669f73ac0" title="RemoteSink::MsgConfigure\lRemoteSink::MsgConfigureRemoteSink" alt="" coords="2131,601,2385,643"/>
+<area shape="rect" id="node20" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="1885,1282,2083,1309"/>
+<area shape="rect" id="node21" href="$de/d03/classChannelMarker.html#a316a84fa2e65780649fdb5bf857ed8c3" title="ChannelMarker::setMovable" alt="" coords="1109,1183,1294,1210"/>
+<area shape="rect" id="node23" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="1654,981,1815,1007"/>
+<area shape="rect" id="node24" href="$d3/d17/classRemoteSinkGUI.html#a6386053d7218c817e5101e70faad8360" title="RemoteSinkGUI::blockApply\lSettings" alt="" coords="1106,1336,1297,1377"/>
+<area shape="rect" id="node25" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1964,1031,2004,1058"/>
+<area shape="rect" id="node30" href="$d3/d17/classRemoteSinkGUI.html#a81abd2d66ddf61e5e985ae4a36fb32b9" title="RemoteSinkGUI::updateTxDelayTime" alt="" coords="1080,1402,1323,1429"/>
+<area shape="rect" id="node31" href="$d3/d17/classRemoteSinkGUI.html#a6fdb996eaa65ef9e92aef6c19bf18e54" title="RemoteSinkGUI::applyDecimation" alt="" coords="1090,1133,1313,1159"/>
+<area shape="rect" id="node26" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="2204,1031,2312,1058"/>
+<area shape="rect" id="node27" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="2433,1053,2581,1095"/>
+<area shape="rect" id="node28" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="2637,1002,2756,1029"/>
+<area shape="rect" id="node29" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="2629,1053,2764,1095"/>
+<area shape="rect" id="node32" href="$d3/d17/classRemoteSinkGUI.html#acdc63c1ab63656c2aa26f76eda4f6cc6" title="RemoteSinkGUI::applyPosition" alt="" coords="1375,1133,1579,1159"/>
+<area shape="rect" id="node33" href="$d1/d6c/classHBFilterChainConverter.html#a374e6be0ea4517c84fc8858882798c72" title="HBFilterChainConverter\l::convertToString" alt="" coords="1654,1184,1815,1225"/>
+<area shape="rect" id="node34" href="$d3/d17/classRemoteSinkGUI.html#adaacf721ef9129649b7d5869add8cea0" title="RemoteSinkGUI::displayRate\lAndShift" alt="" coords="1637,1249,1832,1291"/>
+<area shape="rect" id="node35" href="$d3/d17/classRemoteSinkGUI.html#ab9b79fd27dddc4182da4efa50f1627e7" title="RemoteSinkGUI::applyChannel\lSettings" alt="" coords="1632,719,1837,760"/>
+<area shape="rect" id="node36" href="$d8/d2c/classRemoteSink_1_1MsgConfigureChannelizer.html#a7a651515cc5178ee4a435a471c2aad61" title="RemoteSink::MsgConfigure\lChannelizer::create" alt="" coords="1893,784,2075,825"/>
+<area shape="rect" id="node39" href="$d3/d17/classRemoteSinkGUI.html#afedc1ccd8be38616e3370733fea54aae" title="RemoteSinkGUI::handleMessage" alt="" coords="547,1390,765,1417"/>
+<area shape="rect" id="node40" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="865,1543,984,1570"/>
+<area shape="rect" id="node42" href="$d0/d42/classRemoteSink_1_1MsgSampleRateNotification.html#a9c4f549fde31163705c860a7e6dee89e" title="RemoteSink::MsgSampleRate\lNotification::getSampleRate" alt="" coords="825,1412,1024,1453"/>
+<area shape="rect" id="node43" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a634b28c12f00b2f56e421e32ef88291b" title="RemoteSink::MsgConfigure\lRemoteSink::getSettings" alt="" coords="833,1477,1016,1519"/>
+<area shape="rect" id="node41" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1117,1605,1286,1631"/>
+<area shape="rect" id="node45" href="$d8/d5c/classBasicChannelSettingsDialog.html#ac40fa99557614b612a6623325c9cfd10" title="BasicChannelSettingsDialog\l::setUseReverseAPI" alt="" coords="1641,332,1829,373"/>
+<area shape="rect" id="node46" href="$d8/d5c/classBasicChannelSettingsDialog.html#ab4692ca6fdc598354ef2c43bbdeed3d2" title="BasicChannelSettingsDialog\l::useReverseAPI" alt="" coords="1890,376,2078,417"/>
+<area shape="rect" id="node47" href="$d8/d5c/classBasicChannelSettingsDialog.html#af0437441a4bdc75e44dbc59b9f561b93" title="BasicChannelSettingsDialog\l::setReverseAPIAddress" alt="" coords="1641,551,1829,592"/>
+<area shape="rect" id="node48" href="$d8/d5c/classBasicChannelSettingsDialog.html#ad71b6740355f1ca6a2e875635c96f066" title="BasicChannelSettingsDialog\l::setReverseAPIPort" alt="" coords="1641,849,1829,891"/>
+<area shape="rect" id="node49" href="$d8/d5c/classBasicChannelSettingsDialog.html#a40fceeded31c60f5bd2a79678793ada5" title="BasicChannelSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="1639,915,1831,956"/>
+<area shape="rect" id="node50" href="$d8/d5c/classBasicChannelSettingsDialog.html#adc870e7cf86d9e0b0ff56d26b5171819" title="BasicChannelSettingsDialog\l::setReverseAPIChannelIndex" alt="" coords="1635,784,1834,825"/>
+<area shape="rect" id="node51" href="$d8/d5c/classBasicChannelSettingsDialog.html#ac7e5274c681c33af74a20be7dddc2ebe" title="BasicChannelSettingsDialog\l::getReverseAPIAddress" alt="" coords="1641,5,1829,47"/>
+<area shape="rect" id="node52" href="$d8/d5c/classBasicChannelSettingsDialog.html#a07a1f7a257f3ca5a89ef8492a3891b56" title="BasicChannelSettingsDialog\l::getReverseAPIPort" alt="" coords="1641,71,1829,112"/>
+<area shape="rect" id="node53" href="$d8/d5c/classBasicChannelSettingsDialog.html#aefc5abea80889fa04859f56d35d72b0b" title="BasicChannelSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="1639,136,1831,177"/>
+<area shape="rect" id="node54" href="$d8/d5c/classBasicChannelSettingsDialog.html#a1d783ecf4d126d40dbdca460dd9e300c" title="BasicChannelSettingsDialog\l::getReverseAPIChannelIndex" alt="" coords="1635,201,1834,243"/>
+<area shape="rect" id="node55" href="$d3/d20/classRollupWidget.html#a739d3161ef464f94bc3019b82a6a143e" title="RollupWidget::resetContext\lMenuType" alt="" coords="1643,267,1826,308"/>
+<area shape="rect" id="node58" href="$d3/d37/classDeviceUISet.html#a4fa0d1fe952692934fa96118776641b8" title="DeviceUISet::renameRxChannel\lInstances" alt="" coords="1371,1016,1584,1057"/>
+<area shape="rect" id="node60" href="$d2/d2e/structRemoteSinkSettings.html#a4669b5683c9132f3ef08b7f7283ee4a4" title="RemoteSinkSettings\l::serialize" alt="" coords="585,2183,727,2224"/>
+<area shape="rect" id="node66" href="$d2/d2e/structRemoteSinkSettings.html#a8a45283cd2836a80aaadb5c09334d947" title="RemoteSinkSettings\l::deserialize" alt="" coords="585,1877,727,1919"/>
+<area shape="rect" id="node61" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="837,2190,1013,2217"/>
+<area shape="rect" id="node63" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="831,2241,1018,2267"/>
+<area shape="rect" id="node64" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="835,2139,1014,2166"/>
+<area shape="rect" id="node65" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="851,2291,999,2318"/>
+<area shape="rect" id="node62" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="1114,2190,1289,2217"/>
+<area shape="rect" id="node67" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="859,1877,990,1919"/>
+<area shape="rect" id="node68" href="$d2/d2e/structRemoteSinkSettings.html#a1eeaffeb4ca1910bb5b0bdc70de91ba6" title="RemoteSinkSettings\l::resetToDefaults" alt="" coords="853,1943,996,1984"/>
+<area shape="rect" id="node69" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="859,2008,990,2049"/>
+<area shape="rect" id="node70" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="859,2073,990,2115"/>
+<area shape="rect" id="node72" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="859,1812,990,1853"/>
+<area shape="rect" id="node73" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="859,1747,990,1788"/>
+<area shape="rect" id="node71" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="1136,1909,1267,1951"/>
+</map>

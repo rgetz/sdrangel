@@ -1,0 +1,9 @@
+<map id="hid_close" name="hid_close">
+<area shape="rect" id="node2" href="$d8/d48/fcdhid_8h.html#a3b4c2f947c94c3794c9112c424ce321f" title="Close FCD HID device. " alt="" coords="131,97,205,123"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#ab7a49a0cb5ac4044218158abc2d3ceb1" title="FCDProPlusInput::closeDevice" alt="" coords="253,71,459,98"/>
+<area shape="rect" id="node6" href="$db/d44/classFCDProInput.html#ad3e75fda4dc128397a524f2f2db1fb27" title="FCDProInput::closeDevice" alt="" coords="267,122,445,149"/>
+<area shape="rect" id="node4" href="$d6/d0c/classFCDProPlusInput.html#ab0a0c9c0b74863d55892c95ba8cb4f57" title="FCDProPlusInput::~FCDPro\lPlusInput" alt="" coords="513,5,703,47"/>
+<area shape="rect" id="node5" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="507,71,709,98"/>
+<area shape="rect" id="node7" href="$db/d44/classFCDProInput.html#a2f482211e39c38ec027679d9c7e4f2ae" title="FCDProInput::~FCDProInput" alt="" coords="512,122,704,149"/>
+<area shape="rect" id="node8" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="520,173,696,199"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="KiwiSDRGui::on_record_toggled" name="KiwiSDRGui::on_record_toggled">
+<area shape="rect" id="node2" href="$d8/d84/classKiwiSDRInput_1_1MsgFileRecord.html#ad5c1513287b05aca4fb6e21c539940ec" title="KiwiSDRInput::MsgFileRecord\l::create" alt="" coords="215,5,416,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="231,71,399,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="241,137,390,163"/>
+</map>

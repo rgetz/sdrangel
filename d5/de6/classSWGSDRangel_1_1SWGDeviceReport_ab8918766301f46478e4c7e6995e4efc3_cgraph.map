@@ -1,0 +1,28 @@
+<map id="SWGSDRangel::SWGDeviceReport::asJson" name="SWGSDRangel::SWGDeviceReport::asJson">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a9cb9c24771a7aa49cc8f142af77a6c1a" title="SWGSDRangel::SWGDeviceReport\l::asJsonObject" alt="" coords="288,652,523,693"/>
+<area shape="rect" id="node3" href="$d8/d0f/namespaceSWGSDRangel.html#a7a252a12168fa4daaa07e72ae825c456" title="SWGSDRangel::toJsonValue" alt="" coords="603,13,797,39"/>
+<area shape="rect" id="node5" href="$d5/da0/classSWGSDRangel_1_1SWGAirspyReport.html#aafab59938735fedede2b834219c312bc" title="SWGSDRangel::SWGAirspyReport\l::isSet" alt="" coords="585,64,815,105"/>
+<area shape="rect" id="node6" href="$db/dfe/classSWGSDRangel_1_1SWGAirspyHFReport.html#a7b1dae4373307e4586cbe15c7eb42261" title="SWGSDRangel::SWGAirspyHFReport\l::isSet" alt="" coords="576,129,824,171"/>
+<area shape="rect" id="node7" href="$db/d54/classSWGSDRangel_1_1SWGBladeRF2InputReport.html#a5a3583bbc8cd69d8ac59f97c04fcdfc4" title="SWGSDRangel::SWGBladeRF2\lInputReport::isSet" alt="" coords="594,260,806,301"/>
+<area shape="rect" id="node10" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html#a000e4f1d389464c72a0948af4f01668f" title="SWGSDRangel::SWGBladeRF2\lOutputReport::isSet" alt="" coords="594,195,806,236"/>
+<area shape="rect" id="node11" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html#af970481f8ad87e197baf98fb82cb7acc" title="SWGSDRangel::SWGFileInput\lReport::isSet" alt="" coords="598,325,802,367"/>
+<area shape="rect" id="node12" href="$d9/d69/classSWGSDRangel_1_1SWGLimeSdrInputReport.html#a5f68f417d1a063e10d0e77358bc2f1c9" title="SWGSDRangel::SWGLimeSdrInput\lReport::isSet" alt="" coords="585,391,815,432"/>
+<area shape="rect" id="node13" href="$d4/d46/classSWGSDRangel_1_1SWGKiwiSDRReport.html#a64cb0af4a1afe1476bf56166401134ff" title="SWGSDRangel::SWGKiwiSDRReport\l::isSet" alt="" coords="577,456,823,497"/>
+<area shape="rect" id="node14" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html#a0dde1f8cbeb1905f54976e1359933be4" title="SWGSDRangel::SWGLimeSdrOutput\lReport::isSet" alt="" coords="579,521,821,563"/>
+<area shape="rect" id="node15" href="$d3/d70/classSWGSDRangel_1_1SWGLocalInputReport.html#af6c5f769a545a9c12616bbdc5f6fe230" title="SWGSDRangel::SWGLocalInput\lReport::isSet" alt="" coords="593,587,807,628"/>
+<area shape="rect" id="node16" href="$d0/d60/classSWGSDRangel_1_1SWGLocalOutputReport.html#a8601fc88513849226d09c23daf2cb2ee" title="SWGSDRangel::SWGLocalOutput\lReport::isSet" alt="" coords="588,652,812,693"/>
+<area shape="rect" id="node17" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html#a59d0edacc824570e05f55fabb4daaacc" title="SWGSDRangel::SWGPerseusReport\l::isSet" alt="" coords="579,717,821,759"/>
+<area shape="rect" id="node18" href="$d3/d94/classSWGSDRangel_1_1SWGPlutoSdrInputReport.html#ad4a17f076cfd5026899bd644d5881906" title="SWGSDRangel::SWGPlutoSdr\lInputReport::isSet" alt="" coords="598,783,802,824"/>
+<area shape="rect" id="node19" href="$df/d4b/classSWGSDRangel_1_1SWGPlutoSdrOutputReport.html#a362ad10e23f9b7ad2792a5469c8e8158" title="SWGSDRangel::SWGPlutoSdr\lOutputReport::isSet" alt="" coords="598,848,802,889"/>
+<area shape="rect" id="node20" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html#aa3148301c52ebac5bda850bb36097f0c" title="SWGSDRangel::SWGRtlSdrReport\l::isSet" alt="" coords="585,913,815,955"/>
+<area shape="rect" id="node21" href="$d4/dea/classSWGSDRangel_1_1SWGRemoteOutputReport.html#a03856dee30e482d1c55d03a93e061bb5" title="SWGSDRangel::SWGRemoteOutput\lReport::isSet" alt="" coords="581,979,819,1020"/>
+<area shape="rect" id="node22" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#a39d430b801251479365ba806890995fb" title="SWGSDRangel::SWGRemoteInput\lReport::isSet" alt="" coords="585,1044,815,1085"/>
+<area shape="rect" id="node23" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html#a33a20c9d5ab13e074803ea1aa699607d" title="SWGSDRangel::SWGSDRPlayReport\l::isSet" alt="" coords="576,1109,824,1151"/>
+<area shape="rect" id="node24" href="$d2/d21/classSWGSDRangel_1_1SWGSoapySDRReport.html#a44e1d51d018b96eaf7c118c26390ba9f" title="SWGSDRangel::SWGSoapySDRReport\l::isSet" alt="" coords="571,1175,829,1216"/>
+<area shape="rect" id="node26" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html#a2881cd1b93e6300428b170cd383a4f68" title="SWGSDRangel::SWGXtrxInput\lReport::isSet" alt="" coords="597,1240,803,1281"/>
+<area shape="rect" id="node27" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html#ac7d8195f38c31287f6205702759bb5e4" title="SWGSDRangel::SWGXtrxOutput\lReport::isSet" alt="" coords="591,1305,809,1347"/>
+<area shape="rect" id="node4" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html#a1da64c88537e17d485025b509f576b28" title="SWGSDRangel::SWGObject\l::asJsonObject" alt="" coords="892,5,1084,47"/>
+<area shape="rect" id="node8" href="$d5/dbf/classSWGSDRangel_1_1SWGRange.html#a3a3c13d006b77de474b957965391beb2" title="SWGSDRangel::SWGRange\l::isSet" alt="" coords="892,195,1084,236"/>
+<area shape="rect" id="node9" href="$dd/da7/classSWGSDRangel_1_1SWGFrequencyRange.html#ad9bd634410263ea72d1b21f4404c5d59" title="SWGSDRangel::SWGFrequency\lRange::isSet" alt="" coords="881,260,1095,301"/>
+<area shape="rect" id="node25" href="$d8/d2f/classSWGSDRangel_1_1SWGRangeFloat.html#ab537be358942e745fd4ec1e66344799e" title="SWGSDRangel::SWGRangeFloat\l::isSet" alt="" coords="877,1175,1099,1216"/>
+</map>

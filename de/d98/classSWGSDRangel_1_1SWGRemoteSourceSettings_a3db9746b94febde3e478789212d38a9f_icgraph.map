@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGRemoteSourceSettings::setDataAddress" name="SWGSDRangel::SWGRemoteSourceSettings::setDataAddress">
+<area shape="rect" id="node2" href="$de/dd9/classRemoteSource.html#ab1080b7d1e65ec2dc9714ad357ee73d0" title="RemoteSource::webapiFormat\lChannelSettings" alt="" coords="299,50,497,91"/>
+<area shape="rect" id="node6" href="$de/dd9/classRemoteSource.html#a689bb839f77544b65e5c169c940d91e2" title="RemoteSource::webapiReverse\lSendSettings" alt="" coords="295,115,501,157"/>
+<area shape="rect" id="node3" href="$de/dd9/classRemoteSource.html#a1169912813389f85ab96982edf74a9a0" title="RemoteSource::webapiSettingsGet" alt="" coords="549,5,776,32"/>
+<area shape="rect" id="node5" href="$de/dd9/classRemoteSource.html#a554ac9226344e69f0810cb2fa08ef4a3" title="RemoteSource::webapiSettings\lPutPatch" alt="" coords="559,57,766,98"/>
+<area shape="rect" id="node4" href="$de/dd9/classRemoteSource.html#a023f9330a89a0fc29905fbd72f678d4b" title="RemoteSource::getStreamCenter\lFrequency" alt="" coords="824,27,1040,69"/>
+<area shape="rect" id="node7" href="$de/dd9/classRemoteSource.html#a4356b348b550cbcf601a8ac011fc7eb6" title="RemoteSource::applySettings" alt="" coords="565,123,761,149"/>
+<area shape="rect" id="node8" href="$de/dd9/classRemoteSource.html#ac8d02bab284739e3e3e33162b0b5e1e5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="828,123,1036,149"/>
+<area shape="rect" id="node9" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="1088,123,1248,149"/>
+</map>

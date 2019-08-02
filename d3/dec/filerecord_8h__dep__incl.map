@@ -1,0 +1,31 @@
+<map id="sdrbase/dsp/filerecord.h" name="sdrbase/dsp/filerecord.h">
+<area shape="rect" id="node2" href="$da/dab/filesource_8cpp.html" title="plugins/channeltx/filesource\l/filesource.cpp" alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node3" href="$d6/da9/testmi_8cpp.html" title="plugins/samplemimo\l/testmi/testmi.cpp" alt="" coords="213,80,354,121"/>
+<area shape="rect" id="node4" href="$d7/d32/filesinkoutput_8cpp.html" title="plugins/samplesink\l/filesink/filesinkoutput.cpp" alt="" coords="378,80,551,121"/>
+<area shape="rect" id="node5" href="$df/d23/remoteoutput_8cpp.html" title="plugins/samplesink\l/remoteoutput/remoteoutput.cpp" alt="" coords="576,80,783,121"/>
+<area shape="rect" id="node6" href="$d2/d6a/airspygui_8cpp.html" title="plugins/samplesource\l/airspy/airspygui.cpp" alt="" coords="807,80,955,121"/>
+<area shape="rect" id="node7" href="$d2/dd1/airspyinput_8cpp.html" title="plugins/samplesource\l/airspy/airspyinput.cpp" alt="" coords="979,80,1132,121"/>
+<area shape="rect" id="node8" href="$d5/d2b/airspyhfgui_8cpp.html" title="plugins/samplesource\l/airspyhf/airspyhfgui.cpp" alt="" coords="1156,80,1320,121"/>
+<area shape="rect" id="node9" href="$da/d44/airspyhfinput_8cpp.html" title="plugins/samplesource\l/airspyhf/airspyhfinput.cpp" alt="" coords="1344,80,1519,121"/>
+<area shape="rect" id="node10" href="$d0/d5c/bladerf1input_8cpp.html" title="plugins/samplesource\l/bladerf1input/bladerf1input.cpp" alt="" coords="1543,80,1746,121"/>
+<area shape="rect" id="node11" href="$d3/d8c/bladerf2input_8cpp.html" title="plugins/samplesource\l/bladerf2input/bladerf2input.cpp" alt="" coords="1770,80,1973,121"/>
+<area shape="rect" id="node12" href="$d6/df4/fcdproinput_8cpp.html" title="plugins/samplesource\l/fcdpro/fcdproinput.cpp" alt="" coords="1997,80,2151,121"/>
+<area shape="rect" id="node13" href="$dd/d23/fcdproplusinput_8cpp.html" title="plugins/samplesource\l/fcdproplus/fcdproplusinput.cpp" alt="" coords="2175,80,2378,121"/>
+<area shape="rect" id="node14" href="$d1/d0e/fileinput_8cpp.html" title="plugins/samplesource\l/fileinput/fileinput.cpp" alt="" coords="2403,80,2551,121"/>
+<area shape="rect" id="node15" href="$d7/dc4/fileinputthread_8cpp.html" title="plugins/samplesource\l/fileinput/fileinputthread.cpp" alt="" coords="2575,80,2757,121"/>
+<area shape="rect" id="node16" href="$de/d8d/hackrfinput_8cpp.html" title="plugins/samplesource\l/hackrfinput/hackrfinput.cpp" alt="" coords="2781,80,2964,121"/>
+<area shape="rect" id="node17" href="$d5/d10/kiwisdrinput_8cpp.html" title="plugins/samplesource\l/kiwisdr/kiwisdrinput.cpp" alt="" coords="2989,80,3154,121"/>
+<area shape="rect" id="node18" href="$d3/df5/limesdrinput_8cpp.html" title="plugins/samplesource\l/limesdrinput/limesdrinput.cpp" alt="" coords="3178,80,3373,121"/>
+<area shape="rect" id="node19" href="$dd/d8a/localinput_8cpp.html" title="plugins/samplesource\l/localinput/localinput.cpp" alt="" coords="3397,80,3562,121"/>
+<area shape="rect" id="node20" href="$d0/dce/perseusgui_8cpp.html" title="plugins/samplesource\l/perseus/perseusgui.cpp" alt="" coords="3587,80,3751,121"/>
+<area shape="rect" id="node21" href="$d8/d92/perseusinput_8cpp.html" title="plugins/samplesource\l/perseus/perseusinput.cpp" alt="" coords="3775,80,3949,121"/>
+<area shape="rect" id="node22" href="$d6/d40/plutosdrinput_8cpp.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinput.cpp" alt="" coords="3974,80,4177,121"/>
+<area shape="rect" id="node23" href="$db/d73/remoteinput_8cpp.html" title="plugins/samplesource\l/remoteinput/remoteinput.cpp" alt="" coords="4201,80,4392,121"/>
+<area shape="rect" id="node24" href="$d5/dc2/rtlsdrgui_8cpp.html" title="plugins/samplesource\l/rtlsdr/rtlsdrgui.cpp" alt="" coords="4416,80,4564,121"/>
+<area shape="rect" id="node25" href="$d9/d2c/rtlsdrinput_8cpp.html" title="plugins/samplesource\l/rtlsdr/rtlsdrinput.cpp" alt="" coords="4588,80,4736,121"/>
+<area shape="rect" id="node26" href="$d7/d1a/sdrplayinput_8cpp.html" title="plugins/samplesource\l/sdrplay/sdrplayinput.cpp" alt="" coords="4760,80,4927,121"/>
+<area shape="rect" id="node27" href="$d4/d2c/soapysdrinput_8cpp.html" title="plugins/samplesource\l/soapysdrinput/soapysdrinput.cpp" alt="" coords="4951,80,5168,121"/>
+<area shape="rect" id="node28" href="$d1/d12/testsourceinput_8cpp.html" title="plugins/samplesource\l/testsource/testsourceinput.cpp" alt="" coords="5193,80,5398,121"/>
+<area shape="rect" id="node29" href="$d5/d74/xtrxinput_8cpp.html" title="plugins/samplesource\l/xtrxinput/xtrxinput.cpp" alt="" coords="5422,80,5577,121"/>
+<area shape="rect" id="node30" href="$df/d4b/filerecord_8cpp.html" title="sdrbase/dsp/filerecord.cpp" alt="" coords="5601,87,5776,114"/>
+</map>

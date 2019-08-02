@@ -1,0 +1,10 @@
+<map id="WebAPIAdapterGUI::instanceDevices" name="WebAPIAdapterGUI::instanceDevices">
+<area shape="rect" id="node2" href="$dd/d50/classSWGSDRangel_1_1SWGInstanceDevicesResponse.html#a51953216f6a99738e513601621a13822" title="SWGSDRangel::SWGInstance\lDevicesResponse::getDevices" alt="" coords="263,5,467,47"/>
+<area shape="rect" id="node3" href="$d1/d17/classDeviceEnumerator.html#a19e0cef971a8be50a2c6d72a6996b662" title="DeviceEnumerator::getNbRx\lSamplingDevices" alt="" coords="269,71,460,112"/>
+<area shape="rect" id="node4" href="$d1/d17/classDeviceEnumerator.html#a7948ad08ec849bafdc40035f3eab02f8" title="DeviceEnumerator::getNbTx\lSamplingDevices" alt="" coords="271,136,459,177"/>
+<area shape="rect" id="node5" href="$d1/d17/classDeviceEnumerator.html#a69738920785313cd056966494370a92d" title="DeviceEnumerator::getRxSampling\lDevice" alt="" coords="251,201,478,243"/>
+<area shape="rect" id="node6" href="$d1/d17/classDeviceEnumerator.html#a71fc78eea78c91cfe076a432e50592b9" title="DeviceEnumerator::getTxSampling\lDevice" alt="" coords="252,267,477,308"/>
+<area shape="rect" id="node7" href="$dd/d50/classSWGSDRangel_1_1SWGInstanceDevicesResponse.html#a71220e62cd4d630853c4d3abc0fd92ac" title="SWGSDRangel::SWGInstance\lDevicesResponse::init" alt="" coords="263,332,467,373"/>
+<area shape="rect" id="node8" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="271,398,458,425"/>
+<area shape="rect" id="node9" href="$dd/d50/classSWGSDRangel_1_1SWGInstanceDevicesResponse.html#a7899f52f67de54523ab0c9cbc6b8605f" title="SWGSDRangel::SWGInstance\lDevicesResponse::setDevicecount" alt="" coords="251,449,479,491"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DiscreteRangeGUI::setUnits" name="DiscreteRangeGUI::setUnits">
+<area shape="rect" id="node2" href="$d8/d96/classSoapySDRInputGui.html#aee6c0b5be566f209498246ab6f644207" title="SoapySDRInputGui::create\lRangesControl" alt="" coords="244,21,425,62"/>
+<area shape="rect" id="node5" href="$d6/de2/classSoapySDROutputGui.html#a9ac57004b1a1bdee3c8be7e6c76c01f6" title="SoapySDROutputGui::\lcreateRangesControl" alt="" coords="257,86,412,127"/>
+<area shape="rect" id="node3" href="$d8/d96/classSoapySDRInputGui.html#aa36040058b52d6d466b594b5f789b194" title="SoapySDRInputGui::SoapySDRInputGui" alt="" coords="723,16,983,43"/>
+<area shape="rect" id="node4" href="$d8/d96/classSoapySDRInputGui.html#a2ecd69c2ca8cceb4addaff1fd03d2b75" title="SoapySDRInputGui::create\lTunableElementsControl" alt="" coords="483,23,665,65"/>
+<area shape="rect" id="node6" href="$d6/de2/classSoapySDROutputGui.html#acdacf94edec239714a349e44833ad62a" title="SoapySDROutputGui::\lSoapySDROutputGui" alt="" coords="775,97,930,138"/>
+<area shape="rect" id="node7" href="$d6/de2/classSoapySDROutputGui.html#a289b10c835c033748ab88551d5fdaa7b" title="SoapySDROutputGui::\lcreateTunableElementsControl" alt="" coords="473,141,675,182"/>
+</map>

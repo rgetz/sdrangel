@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGSuccessResponse::asJson" name="SWGSDRangel::SWGSuccessResponse::asJson">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a4df548d4afca54e06cfd397a83736245" title="WebAPIRequestMapper\l::devicesetChannelIndexService" alt="" coords="317,5,528,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="333,71,512,112"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a8d187527ee4f26f595df35d64e9336fb" title="WebAPIRequestMapper\l::devicesetFocusService" alt="" coords="339,136,506,177"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#ac8e82f0f283a3e8064d4019df72b8043" title="WebAPIRequestMapper\l::instanceAMBEDevicesService" alt="" coords="318,201,527,243"/>
+<area shape="rect" id="node7" href="$dd/da7/classWebAPIRequestMapper.html#ab9d076d71e3fe4366eb84074d82fa72f" title="WebAPIRequestMapper\l::instanceAudioInputCleanup\lService" alt="" coords="328,267,517,323"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#adcab877385025fd2f6179772521a7e98" title="WebAPIRequestMapper\l::instanceAudioOutputCleanup\lService" alt="" coords="323,347,522,403"/>
+<area shape="rect" id="node9" href="$dd/da7/classWebAPIRequestMapper.html#a7897499216bf97abb37be5e3af8c5d2e" title="WebAPIRequestMapper\l::instanceDeviceSetService" alt="" coords="331,428,515,469"/>
+<area shape="rect" id="node10" href="$dd/da7/classWebAPIRequestMapper.html#a96036493f0ef1bed5cf2a15f46554e7c" title="WebAPIRequestMapper\l::instanceSummaryService" alt="" coords="333,493,512,535"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="576,239,739,280"/>
+</map>

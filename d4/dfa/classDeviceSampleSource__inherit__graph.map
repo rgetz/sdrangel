@@ -1,0 +1,21 @@
+<map id="DeviceSampleSource" name="DeviceSampleSource">
+<area shape="rect" id="node2" href="$d2/d00/classAirspyHFInput.html" title="AirspyHFInput" alt="" coords="211,5,317,32"/>
+<area shape="rect" id="node3" href="$d9/d02/classAirspyInput.html" title="AirspyInput" alt="" coords="220,56,308,83"/>
+<area shape="rect" id="node4" href="$d2/d3a/classBladerf1Input.html" title="Bladerf1Input" alt="" coords="215,107,313,133"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html" title="BladeRF2Input" alt="" coords="209,157,319,184"/>
+<area shape="rect" id="node6" href="$db/d44/classFCDProInput.html" title="FCDProInput" alt="" coords="215,208,313,235"/>
+<area shape="rect" id="node7" href="$d6/d0c/classFCDProPlusInput.html" title="FCDProPlusInput" alt="" coords="201,259,327,285"/>
+<area shape="rect" id="node8" href="$d7/deb/classFileInput.html" title="FileInput" alt="" coords="228,309,300,336"/>
+<area shape="rect" id="node9" href="$d2/d57/classHackRFInput.html" title="HackRFInput" alt="" coords="214,360,314,387"/>
+<area shape="rect" id="node10" href="$d4/dbc/classKiwiSDRInput.html" title="KiwiSDRInput" alt="" coords="211,411,317,437"/>
+<area shape="rect" id="node11" href="$df/d1b/classLimeSDRInput.html" title="LimeSDRInput" alt="" coords="210,461,318,488"/>
+<area shape="rect" id="node12" href="$d8/d47/classLocalInput.html" title="LocalInput" alt="" coords="223,512,305,539"/>
+<area shape="rect" id="node13" href="$df/dc2/classPerseusInput.html" title="PerseusInput" alt="" coords="215,563,313,589"/>
+<area shape="rect" id="node14" href="$d2/d3a/classPlutoSDRInput.html" title="PlutoSDRInput" alt="" coords="209,613,319,640"/>
+<area shape="rect" id="node15" href="$d3/d67/classRemoteInput.html" title="RemoteInput" alt="" coords="215,664,313,691"/>
+<area shape="rect" id="node16" href="$d0/d36/classRTLSDRInput.html" title="RTLSDRInput" alt="" coords="211,715,317,741"/>
+<area shape="rect" id="node17" href="$dc/d8c/classSDRPlayInput.html" title="SDRPlayInput" alt="" coords="211,765,317,792"/>
+<area shape="rect" id="node18" href="$da/d65/classSoapySDRInput.html" title="SoapySDRInput" alt="" coords="205,816,323,843"/>
+<area shape="rect" id="node19" href="$d9/d2b/classTestSourceInput.html" title="TestSourceInput" alt="" coords="205,867,323,893"/>
+<area shape="rect" id="node20" href="$dc/d14/classXTRXInput.html" title="XTRXInput" alt="" coords="221,917,307,944"/>
+</map>

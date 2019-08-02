@@ -1,0 +1,26 @@
+<map id="SWGSDRangel::SWGDeviceReport" name="SWGSDRangel::SWGDeviceReport">
+<area shape="rect" id="node2" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html" title="SWGSDRangel::SWGObject" alt="" coords="5,703,197,730"/>
+<area shape="rect" id="node3" href="$d4/d7c/classSWGSDRangel_1_1SWGXtrxInputReport.html" title="SWGSDRangel::SWGXtrxInput\lReport" alt="" coords="539,78,746,120"/>
+<area shape="rect" id="node4" href="$d3/d94/classSWGSDRangel_1_1SWGPlutoSdrInputReport.html" title="SWGSDRangel::SWGPlutoSdr\lInputReport" alt="" coords="541,141,745,182"/>
+<area shape="rect" id="node5" href="$d9/d27/classSWGSDRangel_1_1SWGRtlSdrReport.html" title="SWGSDRangel::SWGRtlSdrReport" alt="" coords="527,206,758,232"/>
+<area shape="rect" id="node6" href="$d8/d67/classSWGSDRangel_1_1SWGPerseusReport.html" title="SWGSDRangel::SWGPerseusReport" alt="" coords="522,263,763,290"/>
+<area shape="rect" id="node7" href="$d3/d02/classSWGSDRangel_1_1SWGLimeSdrOutputReport.html" title="SWGSDRangel::SWGLimeSdrOutput\lReport" alt="" coords="799,329,1041,370"/>
+<area shape="rect" id="node8" href="$d7/d2e/classSWGSDRangel_1_1SWGXtrxOutputReport.html" title="SWGSDRangel::SWGXtrxOutput\lReport" alt="" coords="534,354,751,396"/>
+<area shape="rect" id="node9" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html" title="SWGSDRangel::SWGRemoteInput\lReport" alt="" coords="805,458,1035,500"/>
+<area shape="rect" id="node10" href="$db/d54/classSWGSDRangel_1_1SWGBladeRF2InputReport.html" title="SWGSDRangel::SWGBladeRF2\lInputReport" alt="" coords="814,524,1026,565"/>
+<area shape="rect" id="node11" href="$dd/da7/classSWGSDRangel_1_1SWGFrequencyRange.html" title="SWGSDRangel::SWGFrequency\lRange" alt="" coords="263,512,478,553"/>
+<area shape="rect" id="node12" href="$d5/dbf/classSWGSDRangel_1_1SWGRange.html" title="SWGSDRangel::SWGRange" alt="" coords="275,627,467,654"/>
+<area shape="rect" id="node13" href="$d5/da0/classSWGSDRangel_1_1SWGAirspyReport.html" title="SWGSDRangel::SWGAirspyReport" alt="" coords="527,746,758,772"/>
+<area shape="rect" id="node14" href="$df/d4b/classSWGSDRangel_1_1SWGPlutoSdrOutputReport.html" title="SWGSDRangel::SWGPlutoSdr\lOutputReport" alt="" coords="818,718,1022,760"/>
+<area shape="rect" id="node15" href="$d4/d46/classSWGSDRangel_1_1SWGKiwiSDRReport.html" title="SWGSDRangel::SWGKiwiSDRReport" alt="" coords="519,822,766,848"/>
+<area shape="rect" id="node16" href="$d9/d69/classSWGSDRangel_1_1SWGLimeSdrInputReport.html" title="SWGSDRangel::SWGLimeSdrInput\lReport" alt="" coords="805,848,1035,889"/>
+<area shape="rect" id="node17" href="$db/dfe/classSWGSDRangel_1_1SWGAirspyHFReport.html" title="SWGSDRangel::SWGAirspyHFReport" alt="" coords="519,923,767,950"/>
+<area shape="rect" id="node18" href="$d4/dea/classSWGSDRangel_1_1SWGRemoteOutputReport.html" title="SWGSDRangel::SWGRemoteOutput\lReport" alt="" coords="801,977,1039,1018"/>
+<area shape="rect" id="node19" href="$db/d05/classSWGSDRangel_1_1SWGFileInputReport.html" title="SWGSDRangel::SWGFileInput\lReport" alt="" coords="269,1033,473,1074"/>
+<area shape="rect" id="node20" href="$d3/d70/classSWGSDRangel_1_1SWGLocalInputReport.html" title="SWGSDRangel::SWGLocalInput\lReport" alt="" coords="263,1098,478,1140"/>
+<area shape="rect" id="node21" href="$d2/d0f/classSWGSDRangel_1_1SWGSDRPlayReport.html" title="SWGSDRangel::SWGSDRPlayReport" alt="" coords="247,1164,495,1191"/>
+<area shape="rect" id="node22" href="$d7/d67/classSWGSDRangel_1_1SWGBladeRF2OutputReport.html" title="SWGSDRangel::SWGBladeRF2\lOutputReport" alt="" coords="814,589,1026,630"/>
+<area shape="rect" id="node23" href="$d0/d60/classSWGSDRangel_1_1SWGLocalOutputReport.html" title="SWGSDRangel::SWGLocalOutput\lReport" alt="" coords="259,1216,483,1257"/>
+<area shape="rect" id="node24" href="$d2/d21/classSWGSDRangel_1_1SWGSoapySDRReport.html" title="SWGSDRangel::SWGSoapySDRReport" alt="" coords="791,1294,1049,1320"/>
+<area shape="rect" id="node25" href="$d8/d2f/classSWGSDRangel_1_1SWGRangeFloat.html" title="SWGSDRangel::SWGRangeFloat" alt="" coords="260,1332,481,1359"/>
+</map>

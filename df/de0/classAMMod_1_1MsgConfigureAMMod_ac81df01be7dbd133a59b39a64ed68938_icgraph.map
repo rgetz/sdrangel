@@ -1,0 +1,10 @@
+<map id="AMMod::MsgConfigureAMMod::getSettings" name="AMMod::MsgConfigureAMMod::getSettings">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#a9e43f589732cab771f389ca671c8f3cb" title="AMModGUI::handleMessage" alt="" coords="255,5,445,32"/>
+<area shape="rect" id="node8" href="$db/d93/classAMMod.html#acd6c9fea90cb3a88360247196a94fe63" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="267,56,433,83"/>
+<area shape="rect" id="node3" href="$d8/d1b/classAMModGUI.html#a3bcbdbc4ab8a47abbff37ad1d72266e1" title="AMModGUI::handleSourceMessages" alt="" coords="493,5,732,32"/>
+<area shape="rect" id="node4" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="780,5,948,32"/>
+<area shape="rect" id="node5" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="996,5,1131,32"/>
+<area shape="rect" id="node6" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="1179,5,1413,32"/>
+<area shape="rect" id="node7" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1461,5,1625,32"/>
+<area shape="rect" id="node9" href="$db/d93/classAMMod.html#aa9670f8c46784f50215df977152a68b7" title="AMMod::destroy" alt="" coords="553,56,672,83"/>
+</map>

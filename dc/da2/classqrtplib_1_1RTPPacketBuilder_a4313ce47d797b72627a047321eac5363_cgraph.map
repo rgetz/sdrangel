@@ -1,0 +1,8 @@
+<map id="qrtplib::RTPPacketBuilder::BuildPacket" name="qrtplib::RTPPacketBuilder::BuildPacket">
+<area shape="rect" id="node2" href="$dc/da2/classqrtplib_1_1RTPPacketBuilder.html#a3948f44f12f19f1f7615580b7c5a10a7" title="qrtplib::RTPPacketBuilder\l::PrivateBuildPacket" alt="" coords="227,100,400,141"/>
+<area shape="rect" id="node3" href="$d2/d9b/classqrtplib_1_1RTPPacket.html#af0f01850d698e6be43f9db5a585c6832" title="qrtplib::RTPPacket\l::GetCreationError" alt="" coords="482,5,615,47"/>
+<area shape="rect" id="node4" href="$d2/d9b/classqrtplib_1_1RTPPacket.html#a3fbcfa992a330611f687249a437a45d5" title="qrtplib::RTPPacket\l::GetPacketLength" alt="" coords="482,71,615,112"/>
+<area shape="rect" id="node5" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a7a839e67da04ff032db37f2c1b143d44" title="qrtplib::RTPTime::CurrentTime" alt="" coords="448,137,649,163"/>
+<area shape="rect" id="node7" href="$d2/d9b/classqrtplib_1_1RTPPacket.html#a4796ca2aa629e93aa82e1b9191735027" title="qrtplib::RTPPacket\l::GetPayloadLength" alt="" coords="480,188,617,229"/>
+<area shape="rect" id="node6" href="$d9/d28/namespaceqrtplib.html#a2e15b3b3a7eb0ec7566301dbc91baa62" title="qrtplib::RTPTime_timespec\lToDouble" alt="" coords="697,129,879,171"/>
+</map>

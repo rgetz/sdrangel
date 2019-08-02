@@ -1,0 +1,5 @@
+<map id="WebAPIRequestMapper::resetAudioOutputDevice" name="WebAPIRequestMapper::resetAudioOutputDevice">
+<area shape="rect" id="node2" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#ac6784644bc496059a272da6b0a2df385" title="SWGSDRangel::SWGAudioOutput\lDevice::cleanup" alt="" coords="225,5,452,47"/>
+<area shape="rect" id="node3" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#a523b9192c240a74f809ed8b7003cbaec" title="SWGSDRangel::SWGAudioOutput\lDevice::setName" alt="" coords="225,71,452,112"/>
+<area shape="rect" id="node4" href="$d6/dd2/classSWGSDRangel_1_1SWGAudioOutputDevice.html#aabd7b6d90a6be6db7d3c1060c51a55df" title="SWGSDRangel::SWGAudioOutput\lDevice::setUdpAddress" alt="" coords="225,136,452,177"/>
+</map>

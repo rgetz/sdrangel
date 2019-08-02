@@ -1,0 +1,12 @@
+<map id="DeviceUISet::removeTxChannelInstance" name="DeviceUISet::removeTxChannelInstance">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#aed0f9772e317cb5e4aecd817901de53f" title="AMModGUI::~AMModGUI" alt="" coords="291,5,467,32"/>
+<area shape="rect" id="node3" href="$da/d7c/classATVModGUI.html#a00fbc42ac5ee977defdc8375f83adabb" title="ATVModGUI::~ATVModGUI" alt="" coords="285,56,473,83"/>
+<area shape="rect" id="node4" href="$d1/d74/classFileSourceGUI.html#a17fcbbf79ac85bfc6dcad98532fb11ed" title="FileSourceGUI::~FileSourceGUI" alt="" coords="274,107,485,133"/>
+<area shape="rect" id="node5" href="$de/d8e/classFreeDVModGUI.html#ac20d7464ee5c318e92232034248d6cee" title="FreeDVModGUI::~FreeDVModGUI" alt="" coords="266,157,493,184"/>
+<area shape="rect" id="node6" href="$d5/df2/classLocalSourceGUI.html#a09dcf6d2a9ac3809e124c8e7327f3626" title="LocalSourceGUI::~LocalSourceGUI" alt="" coords="264,208,495,235"/>
+<area shape="rect" id="node7" href="$df/d1f/classNFMModGUI.html#ac371bcad435d5a06878d18c30eae139b" title="NFMModGUI::~NFMModGUI" alt="" coords="282,259,477,285"/>
+<area shape="rect" id="node8" href="$d2/d80/classRemoteSourceGUI.html#aad0fff80274a292287e27c2aafcac868" title="RemoteSourceGUI::~Remote\lSourceGUI" alt="" coords="282,310,477,351"/>
+<area shape="rect" id="node9" href="$db/d2a/classSSBModGUI.html#afe9c37add2148594107a2bd86209b895" title="SSBModGUI::~SSBModGUI" alt="" coords="284,376,475,403"/>
+<area shape="rect" id="node10" href="$d5/d9e/classUDPSourceGUI.html#ae19099680c7149e22d0dbd0ed1a0dc54" title="UDPSourceGUI::~UDPSourceGUI" alt="" coords="266,427,493,453"/>
+<area shape="rect" id="node11" href="$d0/d42/classWFMModGUI.html#a4bbade9a3f2ee2475502717c2def631d" title="WFMModGUI::~WFMModGUI" alt="" coords="279,477,479,504"/>
+</map>

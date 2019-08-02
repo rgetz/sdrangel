@@ -1,0 +1,8 @@
+<map id="SDRPlaySettings::resetToDefaults" name="SDRPlaySettings::resetToDefaults">
+<area shape="rect" id="node2" href="$db/d25/structSDRPlaySettings.html#a9680e09213b858fe713bf469bc648a45" title="SDRPlaySettings::deserialize" alt="" coords="233,56,427,83"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a10334228b342da4f2ec09e1390675de1" title="SDRPlayInput::deserialize" alt="" coords="477,81,653,108"/>
+<area shape="rect" id="node6" href="$d9/d15/classSDRPlayGui.html#a269cc5e9b00bbbf1a6121ea4a024aca3" title="SDRPlayGui::resetToDefaults" alt="" coords="231,5,429,32"/>
+<area shape="rect" id="node7" href="$db/d25/structSDRPlaySettings.html#a16c3038c8849ecb2cec7a74e3711dc6f" title="SDRPlaySettings::SDRPlay\lSettings" alt="" coords="236,158,424,199"/>
+<area shape="rect" id="node3" href="$d9/d15/classSDRPlayGui.html#ab466e6103734f8e9068e510ca5349a16" title="SDRPlayGui::deserialize" alt="" coords="482,19,649,45"/>
+<area shape="rect" id="node5" href="$d0/d02/classSDRPlayInput_1_1MsgStartStop.html#ab853e2e2aa01f1d84a2411a7880c44c2" title="SDRPlayInput::MsgStartStop\l::MsgStartStop" alt="" coords="701,74,896,115"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="plugins/channelrx/freqtracker/freqtracker.h" name="plugins/channelrx/freqtracker/freqtracker.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="309,95,489,121"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="346,169,453,196"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1778,169,1922,196"/>
+<area shape="rect" id="node19" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="1095,169,1178,196"/>
+<area shape="rect" id="node20" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="477,169,599,196"/>
+<area shape="rect" id="node22" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="1449,169,1592,196"/>
+<area shape="rect" id="node24" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="1129,95,1208,121"/>
+<area shape="rect" id="node26" href="$db/dba/bandpass_8h.html" title="dsp/bandpass.h" alt="" coords="1414,95,1529,121"/>
+<area shape="rect" id="node28" href="$d0/d58/lowpass_8h.html" title="dsp/lowpass.h" alt="" coords="1283,95,1390,121"/>
+<area shape="rect" id="node29" href="$d9/d08/phaselockcomplex_8h.html" title="dsp/phaselockcomplex.h" alt="" coords="624,169,791,196"/>
+<area shape="rect" id="node30" href="$d1/d07/freqlockcomplex_8h.html" title="dsp/freqlockcomplex.h" alt="" coords="917,169,1071,196"/>
+<area shape="rect" id="node31" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="1829,95,1972,121"/>
+<area shape="rect" id="node32" href="$d3/dbf/freqtrackersettings_8h.html" title="freqtrackersettings.h" alt="" coords="1946,169,2087,196"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1121,244,1232,271"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="673,244,742,271"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="128,169,271,196"/>
+<area shape="rect" id="node25" href="$d1/d85/dsp_2movingaverage_8h.html" title="movingaverage.h" alt="" coords="1304,169,1425,196"/>
+<area shape="rect" id="node27" href="$df/db1/math_8h.html" title="math.h" alt="" coords="1616,169,1679,196"/>
+</map>

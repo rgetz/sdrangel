@@ -1,0 +1,14 @@
+<map id="WebAPIRequestMapper::parseJsonBody" name="WebAPIRequestMapper::parseJsonBody">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#aedb94b557f1e33aa8f61ac9768425804" title="WebAPIRequestMapper\l::devicesetChannelService" alt="" coords="236,5,415,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="234,71,417,127"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#a60aa408cb1ab15269aba2da727e99342" title="WebAPIRequestMapper\l::devicesetDeviceService" alt="" coords="240,152,411,193"/>
+<area shape="rect" id="node6" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="216,217,435,259"/>
+<area shape="rect" id="node7" href="$dd/da7/classWebAPIRequestMapper.html#ac8e82f0f283a3e8064d4019df72b8043" title="WebAPIRequestMapper\l::instanceAMBEDevicesService" alt="" coords="221,283,430,324"/>
+<area shape="rect" id="node8" href="$dd/da7/classWebAPIRequestMapper.html#ace57c8f1aaac64e3ae3f7ecefd19c59d" title="WebAPIRequestMapper\l::instanceAudioInputParameters\lService" alt="" coords="221,349,429,405"/>
+<area shape="rect" id="node9" href="$dd/da7/classWebAPIRequestMapper.html#a8027ccc3cf0a6a472e1943f2ffa1f4eb" title="WebAPIRequestMapper\l::instanceAudioOutputParameters\lService" alt="" coords="216,429,435,485"/>
+<area shape="rect" id="node10" href="$dd/da7/classWebAPIRequestMapper.html#af29d8b429a0ac06072c3f98fd168d14d" title="WebAPIRequestMapper\l::instanceLocationService" alt="" coords="239,509,411,551"/>
+<area shape="rect" id="node11" href="$dd/da7/classWebAPIRequestMapper.html#afbdbf1308c7b550138e0feba201c3ea8" title="WebAPIRequestMapper\l::instanceLoggingService" alt="" coords="241,575,409,616"/>
+<area shape="rect" id="node12" href="$dd/da7/classWebAPIRequestMapper.html#a40eee286a8bfccaeab2bf6fab0011e7e" title="WebAPIRequestMapper\l::instancePresetFileService" alt="" coords="234,640,417,681"/>
+<area shape="rect" id="node13" href="$dd/da7/classWebAPIRequestMapper.html#a079db7301cd9e57bd26d5fa563007fec" title="WebAPIRequestMapper\l::instancePresetService" alt="" coords="244,705,407,747"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="483,356,645,397"/>
+</map>

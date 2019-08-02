@@ -1,0 +1,11 @@
+<map id="ATVDemodGUI::tick" name="ATVDemodGUI::tick">
+<area shape="rect" id="node2" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="255,35,295,61"/>
+<area shape="rect" id="node7" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="212,85,337,112"/>
+<area shape="rect" id="node8" href="$de/dce/classATVDemod.html#a5a3094303536aed52b930fb5088623e1" title="ATVDemod::getBFOLocked" alt="" coords="401,161,587,188"/>
+<area shape="rect" id="node10" href="$de/dce/classATVDemod.html#a93b1ccc485cc025c7ee487ff10f1529c" title="Beware this is scaled to 2^30. " alt="" coords="196,187,353,213"/>
+<area shape="rect" id="node3" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="440,35,548,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="839,5,957,32"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="635,57,783,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="831,57,965,98"/>
+<area shape="rect" id="node9" href="$d5/de8/classPhaseLock.html#a110b258506471c4ecccc187e30a006b5" title="PhaseLock::locked" alt="" coords="642,161,775,188"/>
+</map>

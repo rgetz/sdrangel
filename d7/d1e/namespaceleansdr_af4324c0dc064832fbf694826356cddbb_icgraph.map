@@ -1,0 +1,5 @@
+<map id="leansdr::softwords_xor" name="leansdr::softwords_xor">
+<area shape="rect" id="node2" href="$d7/d08/structleansdr_1_1ldpc__engine.html#ac6cb70f37b86d70942b777f80efa0e81" title="leansdr::ldpc_engine\l::compute_scores" alt="" coords="208,5,349,47"/>
+<area shape="rect" id="node3" href="$d7/d08/structleansdr_1_1ldpc__engine.html#a4ebfcedeff9c1d7a871eaab8dee82470" title="leansdr::ldpc_engine\l::decode_bitflip" alt="" coords="208,71,349,112"/>
+<area shape="rect" id="node4" href="$da/d5d/structleansdr_1_1s2__fecdec.html#a362c6ca7754ac2536a6423ceadfd3367" title="leansdr::s2_fecdec::run" alt="" coords="397,78,556,105"/>
+</map>

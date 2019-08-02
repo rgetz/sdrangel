@@ -1,0 +1,8 @@
+<map id="qrtplib::RTPTime::GetNTPTime" name="qrtplib::RTPTime::GetNTPTime">
+<area shape="rect" id="node2" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a9a0d6aa533accbfeb2ad1901a1db3290" title="qrtplib::RTCPPacketBuilder\l::BuildBYEPacket" alt="" coords="260,5,443,47"/>
+<area shape="rect" id="node6" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a78bf3048ae31cad82020d4ebd96a2b2a" title="qrtplib::RTCPPacketBuilder\l::BuildNextPacket" alt="" coords="260,71,443,112"/>
+<area shape="rect" id="node7" href="$da/d75/classqrtplib_1_1RTPSourceData.html#ad7fa667c28c8139141e20b676fd48102" title="qrtplib::RTPSourceData\l::INF_GetRoundtripTime" alt="" coords="269,136,434,177"/>
+<area shape="rect" id="node3" href="$db/d64/classqrtplib_1_1RTPSession.html#a8e81197879c720b682f2b71609d58b6b" title="qrtplib::RTPSession\l::BYEDestroy" alt="" coords="493,5,631,47"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="491,71,633,112"/>
+<area shape="rect" id="node4" href="$de/df9/classRTPSink.html#ae3834ddbf901369a428c790a02f1a6d8" title="RTPSink::~RTPSink" alt="" coords="681,13,825,39"/>
+</map>

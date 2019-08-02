@@ -1,0 +1,5 @@
+<map id="PlutoSDRInputGui::on_startStop_toggled" name="PlutoSDRInputGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a5302933fe13eaa39f9b21af626052f9a" title="PlutoSDRInput::MsgStartStop\l::create" alt="" coords="205,5,404,47"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="221,71,389,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="230,137,379,163"/>
+</map>

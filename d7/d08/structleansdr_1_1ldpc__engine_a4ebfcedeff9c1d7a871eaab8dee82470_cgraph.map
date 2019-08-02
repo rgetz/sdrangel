@@ -1,0 +1,7 @@
+<map id="leansdr::ldpc_engine::decode_bitflip" name="leansdr::ldpc_engine::decode_bitflip">
+<area shape="rect" id="node2" href="$d7/d1e/namespaceleansdr.html#aa7ac6e394835c089a0a359dbdb72e0b8" title="leansdr::fail" alt="" coords="227,5,317,32"/>
+<area shape="rect" id="node3" href="$d7/d1e/namespaceleansdr.html#aab0536937949ebecef1eaf832f7c0c9a" title="leansdr::softbit_harden" alt="" coords="195,56,349,83"/>
+<area shape="rect" id="node4" href="$d7/d1e/namespaceleansdr.html#a9c8171e037bf86a71ff97a485c4876e8" title="leansdr::softbit_set" alt="" coords="205,107,339,133"/>
+<area shape="rect" id="node5" href="$d7/d1e/namespaceleansdr.html#a94b2c0d210384e99e6cdda3ca76d0352" title="leansdr::softwords_flip" alt="" coords="195,157,349,184"/>
+<area shape="rect" id="node6" href="$d7/d1e/namespaceleansdr.html#af4324c0dc064832fbf694826356cddbb" title="leansdr::softwords_xor" alt="" coords="195,208,349,235"/>
+</map>

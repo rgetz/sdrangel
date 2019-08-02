@@ -1,0 +1,22 @@
+<map id="FreqLockComplex::getFreq" name="FreqLockComplex::getFreq">
+<area shape="rect" id="node2" href="$da/d2e/classFreqTracker.html#a201fb8488fcdae1985e44587bcafa072" title="FreqTracker::getFrequency" alt="" coords="255,148,434,175"/>
+<area shape="rect" id="node16" href="$dc/d0c/classChannelAnalyzer.html#ae0954d7e61fc91bad3f40e54cfe0a791" title="ChannelAnalyzer::getPllFrequency" alt="" coords="233,199,456,225"/>
+<area shape="rect" id="node3" href="$da/d2e/classFreqTracker.html#a529838919683b45f93420dc15eea4526" title="FreqTracker::tick" alt="" coords="541,91,663,117"/>
+<area shape="rect" id="node10" href="$da/d2e/classFreqTracker.html#a8c042be80fa3e3775166d3b04f84ff19" title="FreqTracker::getPllLocked" alt="" coords="515,148,689,175"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#a3c55a2e3ba15e2958f21dc97c4fc19b3" title="FreqTracker::connectTimer" alt="" coords="757,5,935,32"/>
+<area shape="rect" id="node8" href="$da/d2e/classFreqTracker.html#ad9c5535e84d10435476fa17c141c643b" title="FreqTracker::disconnectTimer" alt="" coords="748,107,944,133"/>
+<area shape="rect" id="node5" href="$da/d2e/classFreqTracker.html#a9462da2d25796f448dbcc8b8a1c4803d" title="FreqTracker::applySettings" alt="" coords="1012,56,1191,83"/>
+<area shape="rect" id="node6" href="$da/d2e/classFreqTracker.html#a275cfbd97e974f4740b818e3c4b020c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="1259,56,1449,83"/>
+<area shape="rect" id="node7" href="$da/d2e/classFreqTracker.html#a9bc6899a82271a4a31427e8b51d1021b" title="FreqTracker::destroy" alt="" coords="1505,56,1647,83"/>
+<area shape="rect" id="node9" href="$da/d2e/classFreqTracker.html#af45e5d0baf723e7a11007d55f6ab7a7a" title="FreqTracker::~FreqTracker" alt="" coords="1012,107,1191,133"/>
+<area shape="rect" id="node11" href="$d1/d46/classFreqTrackerGUI.html#a5b779eb11f13c2039858f3c6867ea365" title="FreqTrackerGUI::tick" alt="" coords="773,157,919,184"/>
+<area shape="rect" id="node12" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="992,157,1211,184"/>
+<area shape="rect" id="node13" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1274,157,1434,184"/>
+<area shape="rect" id="node14" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1503,150,1649,191"/>
+<area shape="rect" id="node15" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1703,150,1839,191"/>
+<area shape="rect" id="node17" href="$dc/d0c/classChannelAnalyzer.html#abd0c77820c79c62449428b10292e60b4" title="ChannelAnalyzer::isPllLocked" alt="" coords="504,199,700,225"/>
+<area shape="rect" id="node18" href="$da/d16/classChannelAnalyzerGUI.html#a0c9e256689ccf2a18fb6f6dc2ddf9c65" title="ChannelAnalyzerGUI\l::tick" alt="" coords="773,225,919,266"/>
+<area shape="rect" id="node19" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="1025,225,1178,266"/>
+<area shape="rect" id="node20" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="1281,225,1427,266"/>
+<area shape="rect" id="node21" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1497,225,1655,266"/>
+</map>

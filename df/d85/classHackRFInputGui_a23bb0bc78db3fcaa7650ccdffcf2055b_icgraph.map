@@ -1,0 +1,12 @@
+<map id="HackRFInputGui::displaySampleRate" name="HackRFInputGui::displaySampleRate">
+<area shape="rect" id="node2" href="$df/d85/classHackRFInputGui.html#a2d385d9ad3dec96119cca14b82df5de1" title="HackRFInputGui::displaySettings" alt="" coords="295,89,512,116"/>
+<area shape="rect" id="node9" href="$df/d85/classHackRFInputGui.html#ab34e51e193ecbec0530e107d93565d74" title="HackRFInputGui::on\l_decim_currentIndexChanged" alt="" coords="306,141,501,182"/>
+<area shape="rect" id="node10" href="$df/d85/classHackRFInputGui.html#ad2942866c28b10fdadcbef3e07a49052" title="HackRFInputGui::on\l_sampleRateMode_toggled" alt="" coords="313,206,493,247"/>
+<area shape="rect" id="node11" href="$df/d85/classHackRFInputGui.html#a5c96e0182f18952d97501ece7cbf119e" title="HackRFInputGui::updateSample\lRateAndFrequency" alt="" coords="565,262,776,303"/>
+<area shape="rect" id="node3" href="$df/d85/classHackRFInputGui.html#a4e4ce338e76aaef5f7d739e497d2887f" title="HackRFInputGui::HackRFInputGui" alt="" coords="1072,100,1299,127"/>
+<area shape="rect" id="node4" href="$df/d85/classHackRFInputGui.html#aeb55ee4d6aff9099794c8b983ca52c9a" title="HackRFInputGui::resetToDefaults" alt="" coords="560,41,781,68"/>
+<area shape="rect" id="node5" href="$df/d85/classHackRFInputGui.html#a07536ca7e66cbafd0a52a5fb04f0d186" title="HackRFInputGui::deserialize" alt="" coords="831,67,1022,93"/>
+<area shape="rect" id="node6" href="$df/d85/classHackRFInputGui.html#afa48994e2ea3d0cf63c16a55281920b9" title="HackRFInputGui::setCenter\lFrequency" alt="" coords="578,143,763,185"/>
+<area shape="rect" id="node7" href="$df/d85/classHackRFInputGui.html#afe9ac335209e66e218af9b43dc403fe8" title="HackRFInputGui::handleMessage" alt="" coords="561,209,780,236"/>
+<area shape="rect" id="node8" href="$df/d85/classHackRFInputGui.html#ae603cb599ef68a3274edb2d205a6c639" title="HackRFInputGui::handleInput\lMessages" alt="" coords="829,202,1024,243"/>
+</map>

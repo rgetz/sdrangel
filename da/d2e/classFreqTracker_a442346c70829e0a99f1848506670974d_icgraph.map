@@ -1,0 +1,12 @@
+<map id="FreqTracker::setInterpolator" name="FreqTracker::setInterpolator">
+<area shape="rect" id="node2" href="$da/d2e/classFreqTracker.html#a1fd8c28299bfae0cda859ee0864aa16d" title="FreqTracker::applyChannel\lSettings" alt="" coords="236,45,415,86"/>
+<area shape="rect" id="node4" href="$da/d2e/classFreqTracker.html#a275cfbd97e974f4740b818e3c4b020c9" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="463,107,653,133"/>
+<area shape="rect" id="node7" href="$da/d2e/classFreqTracker.html#a9462da2d25796f448dbcc8b8a1c4803d" title="FreqTracker::applySettings" alt="" coords="236,161,415,188"/>
+<area shape="rect" id="node3" href="$da/d2e/classFreqTracker.html#abdad012046775013c05b90061c552d7b" title="FreqTracker::FreqTracker" alt="" coords="473,5,643,32"/>
+<area shape="rect" id="node6" href="$da/d2e/classFreqTracker.html#aa16a801c745adcc9260d5a0cf7635071" title="FreqTracker::start" alt="" coords="495,56,621,83"/>
+<area shape="rect" id="node5" href="$da/d2e/classFreqTracker.html#a9bc6899a82271a4a31427e8b51d1021b" title="FreqTracker::destroy" alt="" coords="728,101,871,128"/>
+<area shape="rect" id="node8" href="$da/d2e/classFreqTracker.html#a529838919683b45f93420dc15eea4526" title="FreqTracker::tick" alt="" coords="497,208,619,235"/>
+<area shape="rect" id="node9" href="$da/d2e/classFreqTracker.html#a3c55a2e3ba15e2958f21dc97c4fc19b3" title="FreqTracker::connectTimer" alt="" coords="710,164,889,191"/>
+<area shape="rect" id="node10" href="$da/d2e/classFreqTracker.html#ad9c5535e84d10435476fa17c141c643b" title="FreqTracker::disconnectTimer" alt="" coords="701,240,897,267"/>
+<area shape="rect" id="node11" href="$da/d2e/classFreqTracker.html#af45e5d0baf723e7a11007d55f6ab7a7a" title="FreqTracker::~FreqTracker" alt="" coords="945,240,1124,267"/>
+</map>

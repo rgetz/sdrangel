@@ -1,0 +1,8 @@
+<map id="SWGSDRangel::SWGAirspySettings::setReverseApiAddress" name="SWGSDRangel::SWGAirspySettings::setReverseApiAddress">
+<area shape="rect" id="node2" href="$d9/d02/classAirspyInput.html#a20a0cdabe515dac465ec1d6ca1a7bc8c" title="AirspyInput::webapiFormat\lDeviceSettings" alt="" coords="292,35,471,76"/>
+<area shape="rect" id="node3" href="$d9/d02/classAirspyInput.html#a3858b422815a38e779a7687a4a47871c" title="AirspyInput::webapiSettingsGet" alt="" coords="519,13,725,39"/>
+<area shape="rect" id="node7" href="$d9/d02/classAirspyInput.html#a18d90446e8a2742100e64603c113a030" title="AirspyInput::webapiSettings\lPutPatch" alt="" coords="529,64,715,105"/>
+<area shape="rect" id="node4" href="$d9/d02/classAirspyInput.html#a5c9ecb3caace9e607e9eeb14459a1b12" title="AirspyInput::getSampleRates" alt="" coords="773,42,967,69"/>
+<area shape="rect" id="node5" href="$d9/d02/classAirspyInput.html#ac070ff848efd12d2a5dbc586d0566bf7" title="AirspyInput::webapiFormat\lDeviceReport" alt="" coords="1015,5,1193,47"/>
+<area shape="rect" id="node6" href="$d9/d02/classAirspyInput.html#aeedf649fd2d476025ffd692fb601feb7" title="AirspyInput::webapiReportGet" alt="" coords="1241,42,1439,69"/>
+</map>

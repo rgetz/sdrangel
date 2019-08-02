@@ -1,0 +1,6 @@
+<map id="SoapySDROutputThread::getNbChannels" name="SoapySDROutputThread::getNbChannels">
+<area shape="rect" id="node2" href="$d8/df3/classSoapySDROutput.html#aeae42cab712b597491f71deb748cd602" title="SoapySDROutput::start" alt="" coords="220,5,381,32"/>
+<area shape="rect" id="node3" href="$d8/df3/classSoapySDROutput.html#a593ac84bfa00ca3357404b198f18cd74" title="SoapySDROutput::stop" alt="" coords="221,56,381,83"/>
+<area shape="rect" id="node4" href="$d8/df3/classSoapySDROutput.html#ac2e1070ac6e19853e92af210321089b7" title="SoapySDROutput::closeDevice" alt="" coords="429,31,636,57"/>
+<area shape="rect" id="node5" href="$d8/df3/classSoapySDROutput.html#a0effaa6146ad3377c709cbec5810cf6a" title="SoapySDROutput::~SoapySDROutput" alt="" coords="684,56,932,83"/>
+</map>

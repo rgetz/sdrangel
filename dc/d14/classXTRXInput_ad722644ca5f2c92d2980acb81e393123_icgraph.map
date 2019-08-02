@@ -1,0 +1,13 @@
+<map id="XTRXInput::getClockGen" name="XTRXInput::getClockGen">
+<area shape="rect" id="node2" href="$dc/d14/classXTRXInput.html#a417317754aff842cef64ca171c25191e" title="For when the source sample rate is set externally. " alt="" coords="239,124,424,151"/>
+<area shape="rect" id="node3" href="$d3/df5/classXTRXInputGUI.html#a445f5610192291dd9214633ec4dba5bb" title="XTRXInputGUI::updateADCRate" alt="" coords="224,175,439,202"/>
+<area shape="rect" id="node4" href="$d3/df5/classXTRXInputGUI.html#a41956258c8ada4f53d445c92f7c2a513" title="XTRXInputGUI::displaySettings" alt="" coords="488,116,696,143"/>
+<area shape="rect" id="node11" href="$d3/df5/classXTRXInputGUI.html#ac2be61370f17fe07cafd5adff59dffd4" title="XTRXInputGUI::on_sampleRate\l_changed" alt="" coords="487,168,697,209"/>
+<area shape="rect" id="node12" href="$d3/df5/classXTRXInputGUI.html#ab80a7cc298f0de29394dd29222238b46" title="XTRXInputGUI::on_hwDecim\l_currentIndexChanged" alt="" coords="495,233,689,274"/>
+<area shape="rect" id="node5" href="$d3/df5/classXTRXInputGUI.html#a96284ae965cb5a3d9e5a5a47958d03eb" title="XTRXInputGUI::XTRXInputGUI" alt="" coords="1265,91,1473,118"/>
+<area shape="rect" id="node6" href="$d3/df5/classXTRXInputGUI.html#a1a15ac2f0cdc02f3d6c31288a68d39f1" title="XTRXInputGUI::resetToDefaults" alt="" coords="758,40,970,67"/>
+<area shape="rect" id="node7" href="$d3/df5/classXTRXInputGUI.html#abe927c94932587eda6367a39e2697b80" title="XTRXInputGUI::deserialize" alt="" coords="1033,66,1215,92"/>
+<area shape="rect" id="node8" href="$d3/df5/classXTRXInputGUI.html#a148df1617f2ef96be40708a07006e326" title="XTRXInputGUI::setCenterFrequency" alt="" coords="745,142,983,168"/>
+<area shape="rect" id="node9" href="$d3/df5/classXTRXInputGUI.html#ad5a3b3ea143d7a194ed0f412973d6f44" title="XTRXInputGUI::handleMessage" alt="" coords="759,192,969,219"/>
+<area shape="rect" id="node10" href="$d3/df5/classXTRXInputGUI.html#a14a8a35ee0a173ad0eed8c87ddf8d902" title="XTRXInputGUI::handleInput\lMessages" alt="" coords="1031,185,1217,226"/>
+</map>

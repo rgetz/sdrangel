@@ -1,0 +1,12 @@
+<map id="ScopeVisXY::setStroke" name="ScopeVisXY::setStroke">
+<area shape="rect" id="node2" href="$d8/d46/classDSDDemodGUI.html#a92169cafeb7d926df07f5e1e4cf1b3ce" title="DSDDemodGUI::displaySettings" alt="" coords="213,56,428,83"/>
+<area shape="rect" id="node11" href="$d8/d46/classDSDDemodGUI.html#aeff5ea21bdec8dff76ab97878aab8634" title="DSDDemodGUI::on_traceStroke\l_valueChanged" alt="" coords="214,107,427,149"/>
+<area shape="rect" id="node3" href="$d8/d46/classDSDDemodGUI.html#aceadf364e017121912f740d064d99717" title="DSDDemodGUI::deserialize" alt="" coords="745,5,932,32"/>
+<area shape="rect" id="node4" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="983,111,1203,137"/>
+<area shape="rect" id="node8" href="$d8/d46/classDSDDemodGUI.html#a4f55c9c50a009243f1a384bdb13c0cc9" title="DSDDemodGUI::handleMessage" alt="" coords="477,136,693,163"/>
+<area shape="rect" id="node10" href="$d8/d46/classDSDDemodGUI.html#ab77c39be54cc051e9910214214e31462" title="DSDDemodGUI::resetToDefaults" alt="" coords="476,31,695,57"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1251,111,1412,137"/>
+<area shape="rect" id="node6" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1460,103,1651,145"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1699,111,1889,137"/>
+<area shape="rect" id="node9" href="$d8/d46/classDSDDemodGUI.html#a5193ace402bd132c7a90e676169de8a8" title="DSDDemodGUI::handleInput\lMessages" alt="" coords="743,133,935,174"/>
+</map>

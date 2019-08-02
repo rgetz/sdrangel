@@ -1,0 +1,25 @@
+<map id="PlutoSDRInputGui::sendSettings" name="PlutoSDRInputGui::sendSettings">
+<area shape="rect" id="node2" href="$d7/df0/classPlutoSDRInputGui.html#a8df1f1357b571c39edd2049cf607286e" title="PlutoSDRInputGui::deserialize" alt="" coords="277,5,477,32"/>
+<area shape="rect" id="node3" href="$d7/df0/classPlutoSDRInputGui.html#a4851e9cb7106cbf9b2bb1c00d3d63c43" title="PlutoSDRInputGui::on\l_antenna_currentIndexChanged" alt="" coords="274,57,481,98"/>
+<area shape="rect" id="node4" href="$d7/df0/classPlutoSDRInputGui.html#ae5ef031924258830a15e0ffab67ef08d" title="PlutoSDRInputGui::on\l_bbDCOffset_toggled" alt="" coords="301,122,453,163"/>
+<area shape="rect" id="node5" href="$d7/df0/classPlutoSDRInputGui.html#af0fb131a77d84eafcb0f666e1c9a3b9d" title="PlutoSDRInputGui::on\l_centerFrequency_changed" alt="" coords="286,187,469,229"/>
+<area shape="rect" id="node6" href="$d7/df0/classPlutoSDRInputGui.html#a05cae5e1e07ca5799e6046f9d74b1d6c" title="PlutoSDRInputGui::on\l_dcOffset_toggled" alt="" coords="301,253,453,294"/>
+<area shape="rect" id="node7" href="$d7/df0/classPlutoSDRInputGui.html#accc03c27303c3e18143939d9e2c90107" title="PlutoSDRInputGui::on\l_fcPos_currentIndexChanged" alt="" coords="280,318,475,359"/>
+<area shape="rect" id="node8" href="$d7/df0/classPlutoSDRInputGui.html#afa907d3b4be585341e47f71140c78408" title="PlutoSDRInputGui::on\l_gain_valueChanged" alt="" coords="301,383,453,425"/>
+<area shape="rect" id="node9" href="$d7/df0/classPlutoSDRInputGui.html#a93d2eab9ac9b7ebf2ea7231b8b9d89bf" title="PlutoSDRInputGui::on\l_gainMode_currentIndexChanged" alt="" coords="269,449,485,490"/>
+<area shape="rect" id="node10" href="$d7/df0/classPlutoSDRInputGui.html#a9c223238d689fe64b02e1eddbe8e22f4" title="PlutoSDRInputGui::on\l_hwIQImbalance_toggled" alt="" coords="293,514,462,555"/>
+<area shape="rect" id="node11" href="$d7/df0/classPlutoSDRInputGui.html#a0ef76627b4b010f1997bceb6f55aaef9" title="PlutoSDRInputGui::on\l_iqImbalance_toggled" alt="" coords="301,579,453,621"/>
+<area shape="rect" id="node12" href="$d7/df0/classPlutoSDRInputGui.html#a82692f42110267a381cfc11a329d37c9" title="PlutoSDRInputGui::on\l_loPPM_valueChanged" alt="" coords="298,645,457,686"/>
+<area shape="rect" id="node13" href="$d7/df0/classPlutoSDRInputGui.html#abc67b35ba57ac9675e7aadf05704504a" title="PlutoSDRInputGui::on\l_lpf_changed" alt="" coords="301,710,453,751"/>
+<area shape="rect" id="node14" href="$d7/df0/classPlutoSDRInputGui.html#a6f0f7fe6ae045dd3bbe817c3ad6d9621" title="PlutoSDRInputGui::on\l_lpFIR_changed" alt="" coords="301,775,453,817"/>
+<area shape="rect" id="node15" href="$d7/df0/classPlutoSDRInputGui.html#acb5ba1fbd60bf38a4e9cfd8da7af93f0" title="PlutoSDRInputGui::on\l_lpFIRDecimation_currentIndex\lChanged" alt="" coords="274,841,481,897"/>
+<area shape="rect" id="node16" href="$d7/df0/classPlutoSDRInputGui.html#aeed5a06062d925f314fa88cd85ef5b8a" title="PlutoSDRInputGui::on\l_lpFIREnable_toggled" alt="" coords="301,922,453,963"/>
+<area shape="rect" id="node17" href="$d7/df0/classPlutoSDRInputGui.html#afadcebad56e74cffa6ff3f23c13e7e05" title="PlutoSDRInputGui::on\l_lpFIRGain_currentIndexChanged" alt="" coords="268,987,487,1029"/>
+<area shape="rect" id="node18" href="$d7/df0/classPlutoSDRInputGui.html#adb030a48c14a2c2c859247fa3c9a0de3" title="PlutoSDRInputGui::on\l_rfDCOffset_toggled" alt="" coords="301,1053,453,1094"/>
+<area shape="rect" id="node19" href="$d7/df0/classPlutoSDRInputGui.html#aafa3c76177eb1ea4d48c62cad691e9a7" title="PlutoSDRInputGui::on\l_sampleRate_changed" alt="" coords="300,1118,455,1159"/>
+<area shape="rect" id="node20" href="$d7/df0/classPlutoSDRInputGui.html#a2cd87c86acd399339de700a3b53cd925" title="PlutoSDRInputGui::on\l_swDecim_currentIndexChanged" alt="" coords="270,1183,485,1225"/>
+<area shape="rect" id="node21" href="$d7/df0/classPlutoSDRInputGui.html#a7d09f952297736fe8cd26232be43b2e2" title="PlutoSDRInputGui::on\l_transverter_clicked" alt="" coords="301,1249,453,1290"/>
+<area shape="rect" id="node22" href="$d7/df0/classPlutoSDRInputGui.html#a769266856df9446a5afad9a5f68b8d2f" title="PlutoSDRInputGui::openDevice\lSettingsDialog" alt="" coords="274,1314,481,1355"/>
+<area shape="rect" id="node24" href="$d7/df0/classPlutoSDRInputGui.html#ac7c5a2f7295bb1df3049e5fdbf3c96e3" title="PlutoSDRInputGui::setCenter\lFrequency" alt="" coords="280,1379,475,1421"/>
+<area shape="rect" id="node23" href="$d7/df0/classPlutoSDRInputGui.html#adcbceda8bc14341852c3a7e5c0059dae" title="PlutoSDRInputGui::PlutoSDRInputGui" alt="" coords="535,1321,781,1348"/>
+</map>

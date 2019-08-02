@@ -1,0 +1,6 @@
+<map id="qrtplib::RTCPCompoundPacketBuilder::Report::NeededBytesWithExtraReportBlock" name="qrtplib::RTCPCompoundPacketBuilder::Report::NeededBytesWithExtraReportBlock">
+<area shape="rect" id="node2" href="$de/d87/classqrtplib_1_1RTCPCompoundPacketBuilder.html#a460655f5c3da8702362270fe4b03453e" title="qrtplib::RTCPCompoundPacket\lBuilder::AddReportBlock" alt="" coords="276,13,483,54"/>
+<area shape="rect" id="node3" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#af3fea46fdaecdf1e59080f0e2820447f" title="qrtplib::RTCPPacketBuilder\l::FillInReportBlocks" alt="" coords="531,13,713,54"/>
+<area shape="rect" id="node4" href="$d2/d54/classqrtplib_1_1RTCPPacketBuilder.html#a78bf3048ae31cad82020d4ebd96a2b2a" title="qrtplib::RTCPPacketBuilder\l::BuildNextPacket" alt="" coords="761,13,944,54"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#ae41b80e2053a4f4ed7aa6353db439995" title="qrtplib::RTPSession\l::ProcessPolledData" alt="" coords="992,13,1135,54"/>
+</map>

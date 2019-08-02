@@ -1,0 +1,11 @@
+<map id="AMDemodGUI::on_deltaFrequency_changed" name="AMDemodGUI::on_deltaFrequency_changed">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#af46ef86584526cc794edd441d66638ff" title="AMDemodGUI::applySettings" alt="" coords="280,195,475,222"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="557,305,731,347"/>
+<area shape="rect" id="node10" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="290,331,465,372"/>
+<area shape="rect" id="node3" href="$db/dcc/classAMDemod_1_1MsgConfigureAMDemod.html#a0abf4dc8e5a506fc7f2a69c514f6190c" title="AMDemod::MsgConfigureAMDemod\l::create" alt="" coords="527,5,761,47"/>
+<area shape="rect" id="node5" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#a169b08bf9d0a06567eba40583df1fcc4" title="AMDemod::MsgConfigureChannelizer\l::create" alt="" coords="523,71,765,112"/>
+<area shape="rect" id="node6" href="$d9/df0/classAMDemod.html#a5503319b3d2e1800eee79d94c4970597" title="AMDemod::getAudioSampleRate" alt="" coords="537,137,751,163"/>
+<area shape="rect" id="node8" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="560,188,728,229"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="569,254,719,281"/>
+<area shape="rect" id="node4" href="$db/dcc/classAMDemod_1_1MsgConfigureAMDemod.html#af9961fa378347c34a4597f2197d88632" title="AMDemod::MsgConfigureAMDemod\l::MsgConfigureAMDemod" alt="" coords="813,5,1048,47"/>
+</map>

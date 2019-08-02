@@ -1,0 +1,22 @@
+<map id="PluginManager::registerSampleSource" name="PluginManager::registerSampleSource">
+<area shape="rect" id="node2" href="$d6/d95/classPluginAPI.html#a0345a567524cc0ccd800ded57f1970c9" title="PluginAPI::registerSample\lSource" alt="" coords="256,478,431,519"/>
+<area shape="rect" id="node3" href="$d3/d7e/classFCDProPlugin.html#af22b15733ed069a6555dee3ea1625aee" title="FCDProPlugin::initPlugin" alt="" coords="492,5,659,32"/>
+<area shape="rect" id="node4" href="$d1/de5/classFCDProPlusPlugin.html#ab4c52e7dd70c21ed44e1f375f33ae1e7" title="FCDProPlusPlugin::initPlugin" alt="" coords="479,56,672,83"/>
+<area shape="rect" id="node5" href="$d1/d8c/classRTLSDRPlugin.html#a6e0e8e1beb3c38f4349330f64387be32" title="RTLSDRPlugin::initPlugin" alt="" coords="489,107,662,133"/>
+<area shape="rect" id="node6" href="$d9/d36/classAirspyPlugin.html#a680a4628255a71643df41b7c6b0e9332" title="AirspyPlugin::initPlugin" alt="" coords="497,157,653,184"/>
+<area shape="rect" id="node7" href="$dc/d47/classHackRFInputPlugin.html#a33cb0cf18648d7670c9305555949540b" title="HackRFInputPlugin::\linitPlugin" alt="" coords="503,209,647,250"/>
+<area shape="rect" id="node8" href="$d6/db3/classFileInputPlugin.html#aa95b842d98fe02affc0872efee3a8e67" title="FileInputPlugin::initPlugin" alt="" coords="491,275,660,301"/>
+<area shape="rect" id="node9" href="$d8/d2d/classSDRPlayPlugin.html#a1aee4cbf4d0cf30f2c3643b96dd5c0ba" title="SDRPlayPlugin::initPlugin" alt="" coords="488,325,663,352"/>
+<area shape="rect" id="node10" href="$d1/d1e/classTestSourcePlugin.html#a4ef184c3d30c3ed17605e979c992dc66" title="TestSourcePlugin::initPlugin" alt="" coords="482,376,669,403"/>
+<area shape="rect" id="node11" href="$dd/da5/classAirspyHFPlugin.html#ac355b6a6c09e1eae8d4ddcb080285dd9" title="AirspyHFPlugin::initPlugin" alt="" coords="488,427,663,453"/>
+<area shape="rect" id="node12" href="$df/d8d/classLimeSDRInputPlugin.html#a0fd59aea8559e8da64e77ada05c4c05c" title="LimeSDRInputPlugin\l::initPlugin" alt="" coords="503,478,647,519"/>
+<area shape="rect" id="node13" href="$de/d27/classLocalInputPlugin.html#a2efb3b32a234fd749b98587c76add40b" title="LocalInputPlugin::initPlugin" alt="" coords="486,544,665,571"/>
+<area shape="rect" id="node14" href="$d0/d54/classPerseusPlugin.html#a0d5118511cac4d1facea3c9535f0a472" title="PerseusPlugin::initPlugin" alt="" coords="492,595,659,621"/>
+<area shape="rect" id="node15" href="$d2/d01/classPlutoSDRInputPlugin.html#acdcd17bb0a0c5ada6a479255edc2315a" title="PlutoSDRInputPlugin\l::initPlugin" alt="" coords="502,646,649,687"/>
+<area shape="rect" id="node16" href="$d3/d64/classRemoteInputPlugin.html#a77e0a36a2908232bc2c46f639b584284" title="RemoteInputPlugin::\linitPlugin" alt="" coords="505,711,646,753"/>
+<area shape="rect" id="node17" href="$d4/d08/classXTRXInputPlugin.html#ae1aeabfed34c44af3cb9455e3543aa20" title="XTRXInputPlugin::initPlugin" alt="" coords="483,777,667,804"/>
+<area shape="rect" id="node18" href="$d5/d2c/classKiwiSDRPlugin.html#a4660642d29342d5b0ce1269161db4ec9" title="KiwiSDRPlugin::initPlugin" alt="" coords="489,828,662,855"/>
+<area shape="rect" id="node19" href="$d8/db3/classBlderf1InputPlugin.html#a8d69bb919a7b77cca2463022580fc10a" title="Blderf1InputPlugin\l::initPlugin" alt="" coords="511,879,639,921"/>
+<area shape="rect" id="node20" href="$d3/dee/classSoapySDRInputPlugin.html#a113ca74670f59c39fca0e07c3c22d8e4" title="SoapySDRInputPlugin\l::initPlugin" alt="" coords="499,945,652,986"/>
+<area shape="rect" id="node21" href="$d0/dc1/classBlderf2InputPlugin.html#a92b6deb586fbab3cfe829a0a74967c54" title="Blderf2InputPlugin\l::initPlugin" alt="" coords="511,1010,639,1051"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GLSpectrumGUI::on_linscale_toggled" name="GLSpectrumGUI::on_linscale_toggled">
+<area shape="rect" id="node2" href="$d1/dfc/classSpectrumVis.html#a1c9532ddd3ba2d4293ed8194ccdd9464" title="SpectrumVis::configure" alt="" coords="264,5,423,32"/>
+<area shape="rect" id="node4" href="$d6/dab/classGLSpectrum.html#aae9118c5f6882894021b62d2807628d4" title="GLSpectrum::setLinear" alt="" coords="265,56,421,83"/>
+<area shape="rect" id="node5" href="$d6/dab/classGLSpectrum.html#af01d87bd050b2bf2aff886be1ff53373" title="GLSpectrum::setPowerRange" alt="" coords="245,107,441,133"/>
+<area shape="rect" id="node6" href="$d6/dab/classGLSpectrum.html#acd04d7ebe941a2861754d405685bec11" title="GLSpectrum::setReference\lLevel" alt="" coords="253,158,434,199"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="489,5,639,32"/>
+</map>

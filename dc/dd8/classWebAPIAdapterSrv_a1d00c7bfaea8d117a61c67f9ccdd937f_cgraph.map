@@ -1,0 +1,13 @@
+<map id="WebAPIAdapterSrv::devicesetDeviceSettingsPutPatch" name="WebAPIAdapterSrv::devicesetDeviceSettingsPutPatch">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a4f3dff9c1055ba1465c619aef35368da" title="SWGSDRangel::SWGDeviceSettings\l::getDeviceHwType" alt="" coords="253,5,496,47"/>
+<area shape="rect" id="node3" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#ae40fe699c6411b81fe75d9faaf132924" title="SWGSDRangel::SWGDeviceSettings\l::getDirection" alt="" coords="253,71,496,112"/>
+<area shape="rect" id="node4" href="$dd/db6/classDeviceAPI.html#abd9ac5831821e17546c8110a30b937be" title="DeviceAPI::getHardwareId" alt="" coords="285,137,464,163"/>
+<area shape="rect" id="node5" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad617c5a7560a02e77a4f91366e6dbe29" title="SWGSDRangel::SWGErrorResponse\l::getMessage" alt="" coords="254,188,495,229"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#a5524e327d9818a37611bf0e7f2b2b965" title="Return pointer to the device sample sink (single Tx) or nullptr. " alt="" coords="284,254,465,281"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#a21b67655f61be838b73d4df898f18a56" title="Return pointer to the device sample source (single Rx) or nullptr. " alt="" coords="277,305,473,331"/>
+<area shape="rect" id="node10" href="$d6/d35/classSWGSDRangel_1_1SWGErrorResponse.html#ad579e3fc418da15f2a2ffe848a952f16" title="SWGSDRangel::SWGErrorResponse\l::init" alt="" coords="254,356,495,397"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html#a6fcf19e3928a1c2cffdd745d7415750e" title="DeviceSampleSink::webapi\lSettingsPutPatch" alt="" coords="283,421,466,463"/>
+<area shape="rect" id="node12" href="$db/d0c/classDeviceSampleSource.html#aee44e10dbaad87e87ae37a23f6f63fca" title="DeviceSampleSource\l::webapiSettingsPutPatch" alt="" coords="288,487,461,528"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="551,240,709,281"/>
+<area shape="rect" id="node9" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="544,305,716,347"/>
+</map>

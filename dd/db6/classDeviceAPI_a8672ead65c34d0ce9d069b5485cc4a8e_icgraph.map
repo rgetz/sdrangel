@@ -1,0 +1,13 @@
+<map id="DeviceAPI::getMasterTimer" name="DeviceAPI::getMasterTimer">
+<area shape="rect" id="node2" href="$da/d99/classFileInputGUI.html#a1050c2513a64fffeaeecc8c33efc3f17" title="FileInputGUI::FileInputGUI" alt="" coords="274,5,453,32"/>
+<area shape="rect" id="node3" href="$de/de4/classFileSinkGui.html#a481bd10e5211ae82a06d7bbef7caa104" title="FileSinkGui::FileSinkGui" alt="" coords="281,56,445,83"/>
+<area shape="rect" id="node4" href="$d1/d74/classFileSourceGUI.html#ab9a70cccc49111b79d4f637fe8967675" title="FileSourceGUI::FileSourceGUI" alt="" coords="262,107,465,133"/>
+<area shape="rect" id="node8" href="$d8/d08/classRemoteOutputSinkGui.html#a817ea2a5b7330ea2cd4ae0610a190b1b" title="RemoteOutputSinkGui\l::RemoteOutputSinkGui" alt="" coords="283,158,444,199"/>
+<area shape="rect" id="node9" href="$d2/d80/classRemoteSourceGUI.html#a93d7f19c84f7472cb2d9962ba22db8aa" title="RemoteSourceGUI::RemoteSourceGUI" alt="" coords="237,224,489,251"/>
+<area shape="rect" id="node5" href="$d1/d74/classFileSourceGUI.html#a5c8d062f9589ed6ba7aac0e2756ab9e8" title="FileSourceGUI::create" alt="" coords="550,107,702,133"/>
+<area shape="rect" id="node6" href="$db/d0c/classFileSourcePlugin.html#ad64cc15924b1a2079783ad347a078ba8" title="FileSourcePlugin::create\lTxChannelGUI" alt="" coords="763,99,927,141"/>
+<area shape="rect" id="node7" href="$db/d0c/classFileSourcePlugin.html#aca84425aa7f54a40da9f17b69db7ced3" title="FileSourcePlugin::initPlugin" alt="" coords="975,107,1156,133"/>
+<area shape="rect" id="node10" href="$d2/d80/classRemoteSourceGUI.html#a654c4350accb18001e43af22e5872bb6" title="RemoteSourceGUI::create" alt="" coords="537,224,715,251"/>
+<area shape="rect" id="node11" href="$da/d51/classRemoteSourcePlugin.html#a930c94c5b29cb474212c98c631dc196b" title="RemoteSourcePlugin\l::createTxChannelGUI" alt="" coords="768,217,921,258"/>
+<area shape="rect" id="node12" href="$da/d51/classRemoteSourcePlugin.html#aff273bc45b43835069296adf6a1d38da" title="RemoteSourcePlugin\l::initPlugin" alt="" coords="993,217,1138,258"/>
+</map>

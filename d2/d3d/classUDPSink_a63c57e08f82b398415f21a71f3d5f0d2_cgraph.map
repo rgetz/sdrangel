@@ -1,0 +1,13 @@
+<map id="UDPSink::webapiReportGet" name="UDPSink::webapiReportGet">
+<area shape="rect" id="node2" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a6dbc6d6105eddbf0f949637e2e3b0370" title="SWGSDRangel::SWGChannelReport\l::getUdpSinkReport" alt="" coords="539,5,781,47"/>
+<area shape="rect" id="node3" href="$d4/de7/classSWGSDRangel_1_1SWGUDPSinkReport.html#aa2685bbecf92ba1551669ef615daf690" title="SWGSDRangel::SWGUDPSinkReport\l::init" alt="" coords="240,64,488,105"/>
+<area shape="rect" id="node4" href="$d8/d15/classSWGSDRangel_1_1SWGChannelReport.html#a17ca2fb63f2f450f5a21ebb86026f2fb" title="SWGSDRangel::SWGChannelReport\l::setUdpSinkReport" alt="" coords="243,129,485,171"/>
+<area shape="rect" id="node5" href="$d2/d3d/classUDPSink.html#a8247b8441ccfdf250c2b936f757d9417" title="UDPSink::webapiFormatChannel\lReport" alt="" coords="257,195,471,236"/>
+<area shape="rect" id="node6" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="597,71,723,98"/>
+<area shape="rect" id="node7" href="$d2/d3d/classUDPSink.html#a332aa1812c60ec3326841bdc4dacde5d" title="UDPSink::getInMagSq" alt="" coords="583,122,737,149"/>
+<area shape="rect" id="node8" href="$d2/d3d/classUDPSink.html#a0c7ee6f2dece62404110183dca9d1768" title="UDPSink::getMagSq" alt="" coords="588,173,732,199"/>
+<area shape="rect" id="node9" href="$d4/de7/classSWGSDRangel_1_1SWGUDPSinkReport.html#a524e918c9237e4457adf8fd091832207" title="SWGSDRangel::SWGUDPSinkReport\l::setChannelPowerDb" alt="" coords="536,224,784,265"/>
+<area shape="rect" id="node10" href="$d4/de7/classSWGSDRangel_1_1SWGUDPSinkReport.html#a243345b672cdaae252311a7e0b2f4d38" title="SWGSDRangel::SWGUDPSinkReport\l::setInputSampleRate" alt="" coords="536,289,784,331"/>
+<area shape="rect" id="node11" href="$d4/de7/classSWGSDRangel_1_1SWGUDPSinkReport.html#a430d9bdc216611220e54032d7e328590" title="SWGSDRangel::SWGUDPSinkReport\l::setOutputPowerDb" alt="" coords="536,355,784,396"/>
+<area shape="rect" id="node12" href="$d4/de7/classSWGSDRangel_1_1SWGUDPSinkReport.html#abc2aad3903818709a0e86b333fdda67b" title="SWGSDRangel::SWGUDPSinkReport\l::setSquelch" alt="" coords="536,420,784,461"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="AMDemod::getAudioSampleRate" name="AMDemod::getAudioSampleRate">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#af46ef86584526cc794edd441d66638ff" title="AMDemodGUI::applySettings" alt="" coords="268,479,463,505"/>
+<area shape="rect" id="node22" href="$dd/d2d/classAMDemodGUI.html#a11122d6eefaac043d694320644a8f1fe" title="AMDemodGUI::tick" alt="" coords="297,747,434,773"/>
+<area shape="rect" id="node3" href="$dd/d2d/classAMDemodGUI.html#acbf0276aca29314556f03db015bd3594" title="AMDemodGUI::setCenterFrequency" alt="" coords="511,5,745,32"/>
+<area shape="rect" id="node4" href="$dd/d2d/classAMDemodGUI.html#a83c7de8854c98941c4169db9284e7ab7" title="AMDemodGUI::resetToDefaults" alt="" coords="523,56,733,83"/>
+<area shape="rect" id="node5" href="$dd/d2d/classAMDemodGUI.html#a3c913ceeb169d0090bd930347de2b833" title="AMDemodGUI::deserialize" alt="" coords="805,81,984,108"/>
+<area shape="rect" id="node6" href="$dd/d2d/classAMDemodGUI.html#ad75b40638c67e59773efcf869175dc78" title="AMDemodGUI::channelMarker\lChangedByCursor" alt="" coords="527,158,729,199"/>
+<area shape="rect" id="node7" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="793,835,996,861"/>
+<area shape="rect" id="node11" href="$dd/d2d/classAMDemodGUI.html#a206df66c0796f6638c43011562e01c7b" title="AMDemodGUI::on_deltaFrequency\l_changed" alt="" coords="515,275,741,317"/>
+<area shape="rect" id="node12" href="$dd/d2d/classAMDemodGUI.html#a8c6a9c171ee78cc16c4e89957eca9452" title="AMDemodGUI::on_pll\l_toggled" alt="" coords="553,341,703,382"/>
+<area shape="rect" id="node13" href="$dd/d2d/classAMDemodGUI.html#abd41845b59201db512ab43eb020081b8" title="AMDemodGUI::on_ssb\l_toggled" alt="" coords="549,406,707,447"/>
+<area shape="rect" id="node14" href="$dd/d2d/classAMDemodGUI.html#a0c3430e1273cf9c7b9380e949d5db181" title="AMDemodGUI::on_bandpassEnable\l_toggled" alt="" coords="511,471,745,513"/>
+<area shape="rect" id="node15" href="$dd/d2d/classAMDemodGUI.html#a9f2cc992fdaf69c47820403eca95c33c" title="AMDemodGUI::on_rfBW\l_valueChanged" alt="" coords="545,537,711,578"/>
+<area shape="rect" id="node16" href="$dd/d2d/classAMDemodGUI.html#a8b3a79ea46c9d6ebd35d512d341593ab" title="AMDemodGUI::on_volume\l_valueChanged" alt="" coords="539,602,717,643"/>
+<area shape="rect" id="node17" href="$dd/d2d/classAMDemodGUI.html#a0b74e12ccb75fd13e2f61ee9f8d730b8" title="AMDemodGUI::on_squelch\l_valueChanged" alt="" coords="537,667,719,709"/>
+<area shape="rect" id="node18" href="$dd/d2d/classAMDemodGUI.html#afa1943563d715b39a5fb730443b79e12" title="AMDemodGUI::on_audioMute\l_toggled" alt="" coords="529,733,727,774"/>
+<area shape="rect" id="node19" href="$dd/d2d/classAMDemodGUI.html#a0266483ba72a2e2f22926e32a279d3fc" title="AMDemodGUI::onMenuDialog\lCalled" alt="" coords="529,798,727,839"/>
+<area shape="rect" id="node20" href="$dd/d2d/classAMDemodGUI.html#ad222d4785ae0cf72fae796cb79eff7b4" title="AMDemodGUI::audioSelect" alt="" coords="536,864,720,891"/>
+<area shape="rect" id="node21" href="$dd/d2d/classAMDemodGUI.html#aa4eea5abcb26adb41d448bf829ab9c95" title="AMDemodGUI::samSSBSelect" alt="" coords="525,915,731,941"/>
+<area shape="rect" id="node8" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="1044,835,1196,861"/>
+<area shape="rect" id="node9" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1244,835,1497,861"/>
+<area shape="rect" id="node10" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1545,835,1727,861"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RemoteSourceThread::MsgDataBind::create" name="RemoteSourceThread::MsgDataBind::create">
+<area shape="rect" id="node2" href="$df/d64/classRemoteSourceThread.html#af43dd49b16b9c45d3ebc0f03ab0287a0" title="RemoteSourceThread\l::dataBind" alt="" coords="207,57,356,98"/>
+<area shape="rect" id="node3" href="$de/dd9/classRemoteSource.html#a4356b348b550cbcf601a8ac011fc7eb6" title="RemoteSource::applySettings" alt="" coords="404,5,600,32"/>
+<area shape="rect" id="node6" href="$d4/d4f/classRemoteSourceThread_1_1MsgDataBind.html#a29986ad1a6b0405cf87ba4273b7be426" title="RemoteSourceThread\l::MsgDataBind::MsgDataBind" alt="" coords="404,57,600,98"/>
+<area shape="rect" id="node7" href="$de/dd9/classRemoteSource.html#aaee26cab0615202a49a11da3aafa8963" title="RemoteSource::start" alt="" coords="681,89,823,116"/>
+<area shape="rect" id="node4" href="$de/dd9/classRemoteSource.html#ac8d02bab284739e3e3e33162b0b5e1e5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="648,23,856,49"/>
+<area shape="rect" id="node5" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="904,64,1064,91"/>
+</map>

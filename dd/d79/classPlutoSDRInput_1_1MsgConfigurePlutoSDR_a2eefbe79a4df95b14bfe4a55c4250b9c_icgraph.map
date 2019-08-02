@@ -1,0 +1,7 @@
+<map id="PlutoSDRInput::MsgConfigurePlutoSDR::getSettings" name="PlutoSDRInput::MsgConfigurePlutoSDR::getSettings">
+<area shape="rect" id="node2" href="$d7/df0/classPlutoSDRInputGui.html#a35a6b4f46507e3b281818382207b828e" title="PlutoSDRInputGui::handle\lMessage" alt="" coords="269,5,445,47"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#a9afd466714904b65e49763015e29e79b" title="PlutoSDRInput::handleMessage" alt="" coords="252,71,461,98"/>
+<area shape="rect" id="node3" href="$d7/df0/classPlutoSDRInputGui.html#a4d13aa1a27b1f4ce2b4fd8cc613ea458" title="PlutoSDRInputGui::handle\lInputMessages" alt="" coords="525,5,701,47"/>
+<area shape="rect" id="node4" href="$d7/df0/classPlutoSDRInputGui.html#adcbceda8bc14341852c3a7e5c0059dae" title="PlutoSDRInputGui::PlutoSDRInputGui" alt="" coords="765,13,1012,39"/>
+<area shape="rect" id="node6" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="509,71,717,98"/>
+</map>

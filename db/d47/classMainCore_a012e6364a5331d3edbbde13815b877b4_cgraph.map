@@ -1,0 +1,11 @@
+<map id="MainCore::addSinkDevice" name="MainCore::addSinkDevice">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#ac8deae025dd61e79aa9e36215dca896a" title="DSPEngine::addDeviceSink\lEngine" alt="" coords="247,5,434,47"/>
+<area shape="rect" id="node3" href="$d9/d18/structDeviceUserArgs.html#a6a6507af6c2395e82d02338f3277d430" title="DeviceUserArgs::findUserArgs" alt="" coords="239,71,442,98"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#a61f1a36c7794ef8ffa74714b7c08ccb2" title="MainSettings::getDeviceUserArgs" alt="" coords="231,122,451,149"/>
+<area shape="rect" id="node5" href="$d1/d17/classDeviceEnumerator.html#aa792fc4efa673ac589b0c4e98a168232" title="Get Tx default device. " alt="" coords="252,173,429,215"/>
+<area shape="rect" id="node7" href="$d1/d17/classDeviceEnumerator.html#a71fc78eea78c91cfe076a432e50592b9" title="DeviceEnumerator::getTxSampling\lDevice" alt="" coords="228,239,453,280"/>
+<area shape="rect" id="node8" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="262,304,419,345"/>
+<area shape="rect" id="node9" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="247,370,434,397"/>
+<area shape="rect" id="node10" href="$d1/d90/classDSPDeviceSinkEngine.html#a2527fda74292dfe36c8b319a56b78de0" title="This thread start. " alt="" coords="262,421,419,463"/>
+<area shape="rect" id="node6" href="$de/d59/classPluginManager.html#a2e0a7b42f936620ef1cd431fa98656b1" title="PluginManager::getFileSink\lDeviceId" alt="" coords="501,173,683,215"/>
+</map>

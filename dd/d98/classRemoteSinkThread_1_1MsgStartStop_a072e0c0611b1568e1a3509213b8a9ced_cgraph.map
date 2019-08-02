@@ -1,0 +1,9 @@
+<map id="RemoteSinkThread::MsgStartStop::MsgStartStop" name="RemoteSinkThread::MsgStartStop::MsgStartStop">
+<area shape="rect" id="node2" href="$d4/d3e/classRemoteSinkThread.html#a65b88547734365eaf42de88d36bd44be" title="RemoteSinkThread::process\lDataBlock" alt="" coords="251,5,439,47"/>
+<area shape="rect" id="node4" href="$d4/d3e/classRemoteSinkThread.html#a19d3fafa4e2d1aff236b4b3baedf212a" title="RemoteSinkThread::Remote\lSinkThread" alt="" coords="251,71,439,112"/>
+<area shape="rect" id="node5" href="$d4/d3e/classRemoteSinkThread.html#af7955f521f66ad88281016ace6f35397" title="RemoteSinkThread::startStop" alt="" coords="248,137,443,163"/>
+<area shape="rect" id="node8" href="$d4/d3e/classRemoteSinkThread.html#ad68801bf1cd8f58a89703edf03379899" title="RemoteSinkThread::\l~RemoteSinkThread" alt="" coords="274,188,417,229"/>
+<area shape="rect" id="node3" href="$d4/d3e/classRemoteSinkThread.html#ad90d81c4755d24b06383b0d22a62f1a1" title="RemoteSinkThread::handle\lDataBlock" alt="" coords="498,5,678,47"/>
+<area shape="rect" id="node6" href="$dd/d98/classRemoteSinkThread_1_1MsgStartStop.html#a6525aac3bc884cbbcdab4d0e95d96497" title="RemoteSinkThread::MsgStart\lStop::create" alt="" coords="491,217,685,259"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="513,137,663,163"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AMModGUI::applySettings" name="AMModGUI::applySettings">
+<area shape="rect" id="node2" href="$df/de0/classAMMod_1_1MsgConfigureAMMod.html#a99468535869f53a0076498460d0f102c" title="AMMod::MsgConfigureAMMod\l::create" alt="" coords="244,5,445,47"/>
+<area shape="rect" id="node4" href="$d9/db8/classAMMod_1_1MsgConfigureChannelizer.html#ad31952f9e0347cb6e07dce41a3fda604" title="AMMod::MsgConfigureChannelizer\l::create" alt="" coords="232,71,457,112"/>
+<area shape="rect" id="node5" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="257,136,432,177"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="261,202,428,229"/>
+<area shape="rect" id="node7" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="261,253,429,295"/>
+<area shape="rect" id="node8" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="270,319,419,346"/>
+<area shape="rect" id="node9" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="253,370,436,397"/>
+<area shape="rect" id="node3" href="$df/de0/classAMMod_1_1MsgConfigureAMMod.html#a6d9a8432f0fb7d8e77fc572562a7f103" title="AMMod::MsgConfigureAMMod\l::MsgConfigureAMMod" alt="" coords="505,5,707,47"/>
+</map>

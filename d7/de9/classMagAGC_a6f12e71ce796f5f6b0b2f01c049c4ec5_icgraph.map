@@ -1,0 +1,21 @@
+<map id="MagAGC::hardLimiter" name="MagAGC::hardLimiter">
+<area shape="rect" id="node2" href="$d7/de9/classMagAGC.html#ad98a816816e71938161cbd3e449ee7d1" title="MagAGC::feedAndGetValue" alt="" coords="201,81,388,108"/>
+<area shape="rect" id="node3" href="$d7/de9/classMagAGC.html#a7b95ece390eb112eb65fb5bd08ae2302" title="MagAGC::feed" alt="" coords="488,5,597,32"/>
+<area shape="rect" id="node4" href="$d2/d3d/classUDPSink.html#aa2ba670b7705bceca05e3f4a082f0081" title="UDPSink::feed" alt="" coords="487,56,598,83"/>
+<area shape="rect" id="node11" href="$d9/df0/classAMDemod.html#a2d9538112ea4a7db63c577b5ebfcca2f" title="AMDemod::processOneSample" alt="" coords="439,107,646,133"/>
+<area shape="rect" id="node14" href="$d6/d4d/classSSBDemod.html#a9a17d3956911da433ebf0b8036fb1018" title="SSBDemod::processOneSample" alt="" coords="436,157,649,184"/>
+<area shape="rect" id="node5" href="$d2/d3d/classUDPSink.html#a288f174e3f9f165f67b1e14d4b92bb01" title="UDPSink::getSquelchOpen" alt="" coords="697,56,879,83"/>
+<area shape="rect" id="node6" href="$d2/d38/classUDPSinkGUI.html#a789fa3c399a7bfb46eaf02a1c1e4baca" title="UDPSinkGUI::tick" alt="" coords="955,56,1085,83"/>
+<area shape="rect" id="node7" href="$d2/d38/classUDPSinkGUI.html#a272a888671cabff7ef7b89d04e7e33a4" title="UDPSinkGUI::UDPSinkGUI" alt="" coords="1175,56,1363,83"/>
+<area shape="rect" id="node8" href="$d2/d38/classUDPSinkGUI.html#a639d82cc46c94329b25b436eb12c87fb" title="UDPSinkGUI::create" alt="" coords="1432,56,1577,83"/>
+<area shape="rect" id="node9" href="$d2/d54/classUDPSinkPlugin.html#a7bd7856edbab83d020ded02213e32be2" title="UDPSinkPlugin::createRxChannelGUI" alt="" coords="1632,56,1879,83"/>
+<area shape="rect" id="node10" href="$d2/d54/classUDPSinkPlugin.html#a2458ead2fdf6050c95a44dfc8ebe2ca6" title="UDPSinkPlugin::initPlugin" alt="" coords="1927,56,2101,83"/>
+<area shape="rect" id="node12" href="$d9/df0/classAMDemod.html#ae433656cf858f08dfb5e2e6b2f95b9b9" title="AMDemod::feed" alt="" coords="729,107,847,133"/>
+<area shape="rect" id="node13" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="953,107,1087,133"/>
+<area shape="rect" id="node15" href="$d6/d4d/classSSBDemod.html#afeb3669dac7ed17f83bad753927e99f0" title="SSBDemod::feed" alt="" coords="726,157,850,184"/>
+<area shape="rect" id="node16" href="$d6/d4d/classSSBDemod.html#ac757e1ef9a3f5dc2cd99a6b637a26d8a" title="SSBDemod::setSampleSink" alt="" coords="927,157,1113,184"/>
+<area shape="rect" id="node17" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="1161,157,1377,184"/>
+<area shape="rect" id="node18" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="1425,157,1584,184"/>
+<area shape="rect" id="node19" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="1646,157,1865,184"/>
+<area shape="rect" id="node20" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1941,157,2087,184"/>
+</map>

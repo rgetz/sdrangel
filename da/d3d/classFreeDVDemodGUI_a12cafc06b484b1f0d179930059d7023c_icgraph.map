@@ -1,0 +1,12 @@
+<map id="FreeDVDemodGUI::displayBandwidths" name="FreeDVDemodGUI::displayBandwidths">
+<area shape="rect" id="node2" href="$da/d3d/classFreeDVDemodGUI.html#aaf6c636cfed4e92d509322070d665a61" title="FreeDVDemodGUI::applyBandwidths" alt="" coords="304,122,544,149"/>
+<area shape="rect" id="node11" href="$da/d3d/classFreeDVDemodGUI.html#af522ab147fe8cb4ce277cc83b1e13440" title="FreeDVDemodGUI::displaySettings" alt="" coords="309,173,539,199"/>
+<area shape="rect" id="node3" href="$da/d3d/classFreeDVDemodGUI.html#a906d9c3a01204acbcfa8003b51bbe605" title="FreeDVDemodGUI::deserialize" alt="" coords="607,173,809,199"/>
+<area shape="rect" id="node4" href="$da/d3d/classFreeDVDemodGUI.html#acbd52ca6e045861ec0d5e4c620c502b9" title="FreeDVDemodGUI::FreeDVDemodGUI" alt="" coords="1128,130,1380,157"/>
+<area shape="rect" id="node8" href="$da/d3d/classFreeDVDemodGUI.html#a0d25af0979f4c5abf5f3ed3799cfbb73" title="FreeDVDemodGUI::handleMessage" alt="" coords="592,122,824,149"/>
+<area shape="rect" id="node10" href="$da/d3d/classFreeDVDemodGUI.html#a35ab88192bc3dba5dd2d07a82a0387f5" title="FreeDVDemodGUI::on\l_spanLog2_valueChanged" alt="" coords="621,5,795,47"/>
+<area shape="rect" id="node5" href="$da/d3d/classFreeDVDemodGUI.html#a4bc9053410e8a9354030675d1cc08930" title="FreeDVDemodGUI::create" alt="" coords="1428,130,1605,157"/>
+<area shape="rect" id="node6" href="$d1/d3e/classFreeDVPlugin.html#a2b530b828b4d7ca4ca614e8c18e067a5" title="FreeDVPlugin::createRxChannelGUI" alt="" coords="1653,130,1889,157"/>
+<area shape="rect" id="node7" href="$d1/d3e/classFreeDVPlugin.html#ad403795e0a3cc18cc5318a8ecfca0d9e" title="FreeDVPlugin::initPlugin" alt="" coords="1937,130,2101,157"/>
+<area shape="rect" id="node9" href="$da/d3d/classFreeDVDemodGUI.html#a68c8abe61364392df718b2f59cda69d9" title="FreeDVDemodGUI::handleInput\lMessages" alt="" coords="872,123,1080,164"/>
+</map>

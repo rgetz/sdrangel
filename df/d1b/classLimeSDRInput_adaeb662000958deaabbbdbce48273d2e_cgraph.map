@@ -1,0 +1,14 @@
+<map id="LimeSDRInput::stop" name="LimeSDRInput::stop">
+<area shape="rect" id="node2" href="$df/d1b/classLimeSDRInput.html#ab8c8e57a422c0133083f1316c817e9a1" title="LimeSDRInput::releaseChannel" alt="" coords="195,122,401,149"/>
+<area shape="rect" id="node13" href="$d3/d7a/classLimeSDRInputThread.html#ac6785794a849d53c803faf59b9ad6de9" title="LimeSDRInputThread\l::stopWork" alt="" coords="224,173,372,215"/>
+<area shape="rect" id="node3" href="$d8/d20/structDeviceLimeSDRParams.html#a8557f49080c73a508b91fbfe2d342a71" title="DeviceLimeSDRParams\l::getDevice" alt="" coords="481,5,647,47"/>
+<area shape="rect" id="node4" href="$df/d1b/classLimeSDRInput.html#aed775e05e560f5f738d17cea6a198189" title="LimeSDRInput::resumeRxBuddies" alt="" coords="453,71,675,98"/>
+<area shape="rect" id="node7" href="$df/d1b/classLimeSDRInput.html#aa5bee27879d678ee294c48635d3f9521" title="LimeSDRInput::resumeTxBuddies" alt="" coords="453,122,675,149"/>
+<area shape="rect" id="node9" href="$df/d1b/classLimeSDRInput.html#a2ce7347e5a4f99a5b13b0e234b7130db" title="LimeSDRInput::suspendRxBuddies" alt="" coords="449,173,679,199"/>
+<area shape="rect" id="node12" href="$df/d1b/classLimeSDRInput.html#a85a273284d1f7520aa52d2f47fa7d65e" title="LimeSDRInput::suspendTxBuddies" alt="" coords="451,223,677,250"/>
+<area shape="rect" id="node5" href="$dd/db6/classDeviceAPI.html#a121337d8128c459aeeb313cfa3776710" title="DeviceAPI::getSourceBuddies" alt="" coords="727,93,925,119"/>
+<area shape="rect" id="node6" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a3568b8867dc391f88ea41f8e02b8ff8b" title="DeviceLimeSDRShared\l::ThreadInterface::startWork" alt="" coords="733,27,919,68"/>
+<area shape="rect" id="node8" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="734,143,918,170"/>
+<area shape="rect" id="node10" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a07f09c7f87d5389d11cf14803715bde8" title="DeviceLimeSDRShared\l::ThreadInterface::isRunning" alt="" coords="733,260,919,301"/>
+<area shape="rect" id="node11" href="$d7/df7/classDeviceLimeSDRShared_1_1ThreadInterface.html#a1627f86d3dffcbacc660667e562be2af" title="DeviceLimeSDRShared\l::ThreadInterface::stopWork" alt="" coords="733,195,919,236"/>
+</map>

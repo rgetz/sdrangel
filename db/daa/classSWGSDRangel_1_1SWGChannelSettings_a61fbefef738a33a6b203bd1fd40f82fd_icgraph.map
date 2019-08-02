@@ -1,0 +1,13 @@
+<map id="SWGSDRangel::SWGChannelSettings::getLocalSourceSettings" name="SWGSDRangel::SWGChannelSettings::getLocalSourceSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="315,13,485,54"/>
+<area shape="rect" id="node5" href="$d9/d2e/classLocalSource.html#ae56869f27f0d8ab5158a374baa87b218" title="LocalSource::webapiFormat\lChannelSettings" alt="" coords="308,130,492,171"/>
+<area shape="rect" id="node6" href="$d9/d2e/classLocalSource.html#a6824f1572faec57e0e340a94529dbfb2" title="LocalSource::webapiSettingsGet" alt="" coords="544,85,756,112"/>
+<area shape="rect" id="node8" href="$d9/d2e/classLocalSource.html#a37f447c32d39fadd91c7351b1d99e202" title="LocalSource::webapiSettings\lPutPatch" alt="" coords="555,137,745,178"/>
+<area shape="rect" id="node9" href="$d9/d2e/classLocalSource.html#a1b19ed03b334cb6006031851a8071b27" title="LocalSource::webapiReverse\lSendSettings" alt="" coords="304,247,496,289"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="559,5,741,61"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="823,13,986,54"/>
+<area shape="rect" id="node7" href="$d9/d2e/classLocalSource.html#a22e6d5b69e5f7b208af1b616302682f5" title="LocalSource::getStreamCenter\lFrequency" alt="" coords="804,107,1005,149"/>
+<area shape="rect" id="node10" href="$d9/d2e/classLocalSource.html#aaa762764f5f8dd9d77e29bdd9cd3ce4e" title="LocalSource::applySettings" alt="" coords="559,255,741,281"/>
+<area shape="rect" id="node11" href="$d9/d2e/classLocalSource.html#a1dd06048e447aec5b3a748f1f66186d4" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="808,255,1001,281"/>
+<area shape="rect" id="node12" href="$d9/d2e/classLocalSource.html#a7558a5e6f8e594bb21f1b9aa06993534" title="LocalSource::destroy" alt="" coords="1053,255,1199,281"/>
+</map>

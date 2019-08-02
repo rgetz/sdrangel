@@ -1,0 +1,13 @@
+<map id="qtwebapp::Logger::setMinMessageLevel" name="qtwebapp::Logger::setMinMessageLevel">
+<area shape="rect" id="node2" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#addee7a38837e83f163e676f4ae7722c1" title="qtwebapp::LoggerWithFile\l::setConsoleMinMessageLevel" alt="" coords="225,116,427,157"/>
+<area shape="rect" id="node12" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a2f1aa36d5db5df70d7feb68332e85fef" title="qtwebapp::LoggerWithFile\l::setFileMinMessageLevel" alt="" coords="239,181,413,223"/>
+<area shape="rect" id="node3" href="$d6/d1a/classMainWindow.html#adbc8f1fc6871dc34d3eb3c9505ed88f2" title="MainWindow::setLoggingOptions" alt="" coords="475,123,688,150"/>
+<area shape="rect" id="node8" href="$db/d47/classMainCore.html#adc2dccf373007aa758c31ce89ec6c1be" title="MainCore::setLoggingOptions" alt="" coords="484,189,679,215"/>
+<area shape="rect" id="node4" href="$d7/de5/classWebAPIAdapterGUI.html#a07ecf199328eadb36a298edc75dfd16f" title="WebAPIAdapterGUI::instance\lLoggingPut" alt="" coords="736,5,933,47"/>
+<area shape="rect" id="node5" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="746,71,923,98"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a7a10dbf6f80e372e7b2f093132989828" title="MainWindow::on_action\l_Logging_triggered" alt="" coords="754,123,915,164"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="981,71,1161,98"/>
+<area shape="rect" id="node9" href="$dc/dd8/classWebAPIAdapterSrv.html#ac74532b6e04c01331cf393167e7f2ea1" title="WebAPIAdapterSrv::instance\lLoggingPut" alt="" coords="738,240,931,281"/>
+<area shape="rect" id="node10" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="755,189,914,215"/>
+<area shape="rect" id="node11" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1000,189,1143,215"/>
+</map>

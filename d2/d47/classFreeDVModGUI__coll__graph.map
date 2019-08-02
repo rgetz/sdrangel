@@ -1,0 +1,60 @@
+<map id="FreeDVModGUI" name="FreeDVModGUI">
+<area shape="rect" id="node2" href="$d3/d20/classRollupWidget.html" title="RollupWidget" alt="" coords="2031,75,2131,101"/>
+<area shape="rect" id="node3" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="808,275,940,301"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1264,716,1349,743"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="42,597,155,624"/>
+<area shape="rect" id="node7" href="$d9/dfb/classBasebandSampleSource.html" title="BasebandSampleSource" alt="" coords="1224,299,1389,325"/>
+<area shape="rect" id="node12" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="791,727,957,753"/>
+<area shape="rect" id="node15" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="428,624,571,651"/>
+<area shape="rect" id="node16" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="424,459,575,485"/>
+<area shape="rect" id="node17" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="795,625,953,652"/>
+<area shape="rect" id="node18" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="433,388,566,415"/>
+<area shape="rect" id="node19" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="788,955,960,981"/>
+<area shape="rect" id="node20" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="425,1057,573,1084"/>
+<area shape="rect" id="node30" href="$d0/ddd/classCWKeyer.html" title="CWKeyer" alt="" coords="460,163,539,189"/>
+<area shape="rect" id="node43" href="$d4/dcb/classGLSpectrumGUI.html" title="GLSpectrumGUI" alt="" coords="1247,1267,1366,1293"/>
+<area shape="rect" id="node44" href="$d6/dab/classGLSpectrum.html" title="GLSpectrum" alt="" coords="452,1299,547,1325"/>
+<area shape="rect" id="node5" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 20 \&gt;" alt="" coords="2009,797,2153,838"/>
+<area shape="rect" id="node6" href="$d6/da5/classFreeDVMod.html" title="FreeDVMod" alt="" coords="2035,531,2127,557"/>
+<area shape="rect" id="node25" href="$d5/d82/classUpChannelizer.html" title="UpChannelizer" alt="" coords="1657,328,1765,355"/>
+<area shape="rect" id="node29" href="$da/df6/classThreadedBasebandSampleSource.html" title="ThreadedBasebandSampleSource" alt="" coords="1601,227,1820,253"/>
+<area shape="rect" id="node8" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="34,253,163,280"/>
+<area shape="rect" id="node9" href="$d7/d02/classChannelAPI.html" title="ChannelAPI" alt="" coords="1665,812,1757,839"/>
+<area shape="rect" id="node42" href="$d3/d37/classDeviceUISet.html" title="DeviceUISet" alt="" coords="1662,1099,1759,1125"/>
+<area shape="rect" id="node11" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="819,575,929,601"/>
+<area shape="rect" id="node13" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="441,781,557,808"/>
+<area shape="rect" id="node14" href="$d6/d28/classMessage.html" title="Message" alt="" coords="61,781,136,808"/>
+<area shape="rect" id="node49" href="$d1/dfc/classSpectrumVis.html" title="SpectrumVis" alt="" coords="825,1379,923,1405"/>
+<area shape="rect" id="node21" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="41,1057,156,1084"/>
+<area shape="rect" id="node22" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="419,1109,579,1150"/>
+<area shape="rect" id="node23" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="429,926,569,967"/>
+<area shape="rect" id="node24" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="424,991,575,1033"/>
+<area shape="rect" id="node26" href="$d0/d9b/structSample.html" title="Sample" alt="" coords="1273,380,1340,407"/>
+<area shape="rect" id="node27" href="$dc/dd8/classAudioFifo.html" title="AudioFifo" alt="" coords="1672,379,1749,405"/>
+<area shape="rect" id="node28" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 16 \&gt;" alt="" coords="1639,582,1783,623"/>
+<area shape="rect" id="node31" href="$d6/d5e/classCWKeyerSettings.html" title="CWKeyerSettings" alt="" coords="35,167,162,193"/>
+<area shape="rect" id="node32" href="$db/dea/classCWSmoother.html" title="CWSmoother" alt="" coords="48,116,149,143"/>
+<area shape="rect" id="node33" href="$d0/de5/classfftfilt.html" title="fftfilt" alt="" coords="1687,531,1735,557"/>
+<area shape="rect" id="node34" href="$d9/daf/classg__fft.html" title="g_fft\&lt; float \&gt;" alt="" coords="1258,544,1355,571"/>
+<area shape="rect" id="node35" href="$d3/df3/classInterpolator.html" title="Interpolator" alt="" coords="1667,648,1754,675"/>
+<area shape="rect" id="node36" href="$d0/d17/classNCOF.html" title="NCOF" alt="" coords="1681,699,1741,725"/>
+<area shape="rect" id="node37" href="$d8/d96/classAudioResampler.html" title="AudioResampler" alt="" coords="1651,480,1770,507"/>
+<area shape="rect" id="node38" href="$d3/d3b/classAudioFilter.html" title="AudioFilter" alt="" coords="1265,493,1349,520"/>
+<area shape="rect" id="node39" href="$d5/d94/classIIRFilter.html" title="IIRFilter\&lt; float, 2 \&gt;" alt="" coords="807,489,941,516"/>
+<area shape="rect" id="node40" href="$dc/d1f/structFreeDVModSettings.html" title="FreeDVModSettings" alt="" coords="1641,941,1781,968"/>
+<area shape="rect" id="node41" href="$d6/dcb/classSerializable.html" title="Serializable" alt="" coords="829,1115,919,1141"/>
+<area shape="rect" id="node59" href="$de/d03/classChannelMarker.html" title="ChannelMarker" alt="" coords="1440,1045,1551,1072"/>
+<area shape="rect" id="node45" href="$de/d86/classGLShaderSimple.html" title="GLShaderSimple" alt="" coords="39,1347,159,1373"/>
+<area shape="rect" id="node46" href="$dc/db0/classScaleEngine.html" title="ScaleEngine" alt="" coords="51,1419,146,1445"/>
+<area shape="rect" id="node47" href="$de/dd6/classIncrementalArray.html" title="IncrementalArray\&lt; GLfloat \&gt;" alt="" coords="5,1508,192,1535"/>
+<area shape="rect" id="node48" href="$d1/d17/classGLShaderTextured.html" title="GLShaderTextured" alt="" coords="33,1296,164,1323"/>
+<area shape="rect" id="node50" href="$de/d10/classFFTEngine.html" title="FFTEngine" alt="" coords="456,1401,543,1428"/>
+<area shape="rect" id="node51" href="$d3/d06/classMax2D.html" title="Max2D\&lt; double \&gt;" alt="" coords="436,1452,563,1479"/>
+<area shape="rect" id="node52" href="$d3/d9f/classFixedAverage2D.html" title="FixedAverage2D\&lt; double \&gt;" alt="" coords="409,1503,590,1529"/>
+<area shape="rect" id="node53" href="$df/d5a/classFFTWindow.html" title="FFTWindow" alt="" coords="453,1553,546,1580"/>
+<area shape="rect" id="node54" href="$df/d7f/classMovingAverage2D.html" title="MovingAverage2D\&lt; double \&gt;" alt="" coords="404,1351,595,1377"/>
+<area shape="rect" id="node55" href="$db/d40/classChannelWindow.html" title="ChannelWindow" alt="" coords="1248,1216,1365,1243"/>
+<area shape="rect" id="node56" href="$da/d73/classSamplingDeviceControl.html" title="SamplingDeviceControl" alt="" coords="1227,1380,1386,1407"/>
+<area shape="rect" id="node57" href="$de/d59/classPluginManager.html" title="PluginManager" alt="" coords="820,1511,928,1537"/>
+<area shape="rect" id="node58" href="$d6/d95/classPluginAPI.html" title="PluginAPI" alt="" coords="1267,1511,1347,1537"/>
+</map>

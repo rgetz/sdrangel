@@ -1,0 +1,6 @@
+<map id="FileSourceGUI::applyChannelSettings" name="FileSourceGUI::applyChannelSettings">
+<area shape="rect" id="node2" href="$d7/d49/classFileSource_1_1MsgConfigureChannelizer.html#a0a29c42c0f820c8cfbf30426c13ea2ae" title="FileSource::MsgConfigure\lChannelizer::create" alt="" coords="248,5,421,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="251,71,419,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="260,137,409,163"/>
+<area shape="rect" id="node3" href="$d7/d49/classFileSource_1_1MsgConfigureChannelizer.html#ae46e04b8c146386e85d455d23340a30a" title="FileSource::MsgConfigure\lChannelizer::MsgConfigureChannelizer" alt="" coords="469,5,719,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="RemoteInputSettings::resetToDefaults" name="RemoteInputSettings::resetToDefaults">
+<area shape="rect" id="node2" href="$dc/dcc/structRemoteInputSettings.html#ab1879578d16b3b0a6fc116f7603103f3" title="RemoteInputSettings\l::deserialize" alt="" coords="235,5,381,47"/>
+<area shape="rect" id="node4" href="$d3/d67/classRemoteInput.html#ac2dfafe8707acae39ab1a73cdf93e215" title="RemoteInput::deserialize" alt="" coords="475,67,642,94"/>
+<area shape="rect" id="node6" href="$dc/dcc/structRemoteInputSettings.html#a305b414b0684cce13f178cade4751671" title="RemoteInputSettings\l::RemoteInputSettings" alt="" coords="231,123,385,164"/>
+<area shape="rect" id="node7" href="$db/dfb/classRemoteInputGui.html#a871ebac02b9d6b195189f11b0e92471a" title="RemoteInputGui::resetToDefaults" alt="" coords="199,189,417,215"/>
+<area shape="rect" id="node3" href="$db/dfb/classRemoteInputGui.html#aa0b2ed4a5d866afc068fcb89d586d2e2" title="RemoteInputGui::deserialize" alt="" coords="465,13,652,39"/>
+<area shape="rect" id="node5" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="700,60,885,101"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AMModGUI::on_showFileDialog_clicked" name="AMModGUI::on_showFileDialog_clicked">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#a9c96828a1389786516369babf1728c05" title="AMModGUI::configureFileName" alt="" coords="263,78,471,105"/>
+<area shape="rect" id="node3" href="$df/ddb/classAMMod_1_1MsgConfigureFileSourceName.html#ae086f3c83dab5b7ba4d753597c7ad803" title="AMMod::MsgConfigureFileSource\lName::create" alt="" coords="519,5,737,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="544,71,712,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="553,137,703,163"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="PlutoSDRInputGui::blockApplySettings" name="PlutoSDRInputGui::blockApplySettings">
+<area shape="rect" id="node2" href="$d7/df0/classPlutoSDRInputGui.html#a8df1f1357b571c39edd2049cf607286e" title="PlutoSDRInputGui::deserialize" alt="" coords="256,5,456,32"/>
+<area shape="rect" id="node3" href="$d7/df0/classPlutoSDRInputGui.html#a35a6b4f46507e3b281818382207b828e" title="PlutoSDRInputGui::handle\lMessage" alt="" coords="268,57,444,98"/>
+<area shape="rect" id="node5" href="$d7/df0/classPlutoSDRInputGui.html#adcbceda8bc14341852c3a7e5c0059dae" title="PlutoSDRInputGui::PlutoSDRInputGui" alt="" coords="728,93,975,120"/>
+<area shape="rect" id="node4" href="$d7/df0/classPlutoSDRInputGui.html#a4d13aa1a27b1f4ce2b4fd8cc613ea458" title="PlutoSDRInputGui::handle\lInputMessages" alt="" coords="504,57,680,98"/>
+</map>

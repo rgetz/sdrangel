@@ -1,0 +1,10 @@
+<map id="SDRPlayGui::resetToDefaults" name="SDRPlayGui::resetToDefaults">
+<area shape="rect" id="node2" href="$d9/d15/classSDRPlayGui.html#a017f1e87c39292aa9a091ea7125efdc7" title="SDRPlayGui::displaySettings" alt="" coords="252,35,447,61"/>
+<area shape="rect" id="node8" href="$db/d25/structSDRPlaySettings.html#a7ccfd9a19c42f949d1826f7d778d4a19" title="SDRPlaySettings::resetTo\lDefaults" alt="" coords="261,86,438,127"/>
+<area shape="rect" id="node9" href="$d9/d15/classSDRPlayGui.html#ad84140419c6920b813ffd7e408cc1066" title="SDRPlayGui::sendSettings" alt="" coords="259,152,440,179"/>
+<area shape="rect" id="node3" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="495,35,535,61"/>
+<area shape="rect" id="node4" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="583,35,691,61"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="739,57,887,98"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="943,5,1061,32"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="935,57,1069,98"/>
+</map>

@@ -1,0 +1,70 @@
+<map id="WebAPIAdapterGUI::instanceSummary" name="WebAPIAdapterGUI::instanceSummary">
+<area shape="rect" id="node2" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a7083618d8039289542a7d422ff9dc453" title="SWGSDRangel::SWGInstance\lSummaryResponse::getAppname" alt="" coords="261,871,479,913"/>
+<area shape="rect" id="node3" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#aa1df3dec3fa1aa650a34e7c18bf37707" title="SWGSDRangel::SWGInstance\lSummaryResponse::getArchitecture" alt="" coords="253,937,487,978"/>
+<area shape="rect" id="node4" href="$d9/dc0/classSWGSDRangel_1_1SWGLoggingInfo.html#a275172bc6c9ed469ab0e24fc99cea67d" title="SWGSDRangel::SWGLoggingInfo\l::getConsoleLevel" alt="" coords="259,1002,481,1043"/>
+<area shape="rect" id="node5" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a9be5ad81de7fb870343bce67f4473f24" title="qtwebapp::LoggerWithFile\l::getConsoleMinMessageLevelStr" alt="" coords="261,1394,479,1435"/>
+<area shape="rect" id="node7" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a7863b921bdbfbb01c11b76d8250350c2" title="SWGSDRangel::SWGInstance\lSummaryResponse::getDevicesetlist" alt="" coords="251,1133,489,1174"/>
+<area shape="rect" id="node8" href="$d7/de5/classWebAPIAdapterGUI.html#a22c80d026f881097c4c88407a46b5170" title="WebAPIAdapterGUI::getDevice\lSetList" alt="" coords="267,1067,473,1109"/>
+<area shape="rect" id="node53" href="$d9/dc0/classSWGSDRangel_1_1SWGLoggingInfo.html#a54599f97891609d3292ff7faf8f32594" title="SWGSDRangel::SWGLoggingInfo\l::getDumpToFile" alt="" coords="259,1263,481,1305"/>
+<area shape="rect" id="node54" href="$d9/dc0/classSWGSDRangel_1_1SWGLoggingInfo.html#aa791a6f6e6e97df6879cf9e8c5485938" title="SWGSDRangel::SWGLoggingInfo\l::getFileLevel" alt="" coords="259,1329,481,1370"/>
+<area shape="rect" id="node55" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a872d07aba04634bf89b29cb188e27a53" title="qtwebapp::LoggerWithFile\l::getFileMinMessageLevelStr" alt="" coords="275,1198,465,1239"/>
+<area shape="rect" id="node56" href="$d9/dc0/classSWGSDRangel_1_1SWGLoggingInfo.html#a2e8e4efd4c9613a849aafa45933480c1" title="SWGSDRangel::SWGLoggingInfo\l::getFileName" alt="" coords="259,1459,481,1501"/>
+<area shape="rect" id="node57" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#a8a6b6103ec0622407226561234273d65" title="qtwebapp::LoggerWithFile\l::getLogFileName" alt="" coords="283,1525,457,1566"/>
+<area shape="rect" id="node59" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#af6630c1718de0ceffbc96fc0ea5ed829" title="SWGSDRangel::SWGInstance\lSummaryResponse::getLogging" alt="" coords="266,1590,474,1631"/>
+<area shape="rect" id="node60" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a44ae3f9db5212a18ff218101de75870c" title="SWGSDRangel::SWGInstance\lSummaryResponse::getOs" alt="" coords="268,1655,472,1697"/>
+<area shape="rect" id="node61" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a73ce72985501ce4f2ceec72dc94834ea" title="SWGSDRangel::SWGInstance\lSummaryResponse::getQtVersion" alt="" coords="259,1721,481,1762"/>
+<area shape="rect" id="node62" href="$d4/d35/classqtwebapp_1_1LoggerWithFile.html#aeec4640e9c74d5d6c22f9575e84f7d9d" title="qtwebapp::LoggerWithFile\l::getUseFileLogger" alt="" coords="283,1786,457,1827"/>
+<area shape="rect" id="node63" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a16f3015cbf79a4945ccd2468ec6e25d7" title="SWGSDRangel::SWGInstance\lSummaryResponse::getVersion" alt="" coords="267,1851,473,1893"/>
+<area shape="rect" id="node64" href="$d9/dc0/classSWGSDRangel_1_1SWGLoggingInfo.html#a64cf4e1c637e39bc10ce38ae61255ea5" title="SWGSDRangel::SWGLoggingInfo\l::init" alt="" coords="259,1917,481,1958"/>
+<area shape="rect" id="node65" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a238fb251f59b249f2d020f246e250a7c" title="SWGSDRangel::SWGInstance\lSummaryResponse::init" alt="" coords="268,1982,472,2023"/>
+<area shape="rect" id="node66" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a8c15c812fa8928de8d17ad3930bf6808" title="SWGSDRangel::SWGInstance\lSummaryResponse::setDspRxBits" alt="" coords="257,2047,483,2089"/>
+<area shape="rect" id="node67" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#acfb02b6ee7eefbb312a0063eee6ae901" title="SWGSDRangel::SWGInstance\lSummaryResponse::setDspTxBits" alt="" coords="257,2113,483,2154"/>
+<area shape="rect" id="node68" href="$d9/dc0/classSWGSDRangel_1_1SWGLoggingInfo.html#acc1c83ccfa7a631f0ce842db0a0cfa11" title="SWGSDRangel::SWGLoggingInfo\l::setDumpToFile" alt="" coords="259,2178,481,2219"/>
+<area shape="rect" id="node69" href="$da/da7/classSWGSDRangel_1_1SWGInstanceSummaryResponse.html#a5e7f88cb06492687b8ea31bffdce7b55" title="SWGSDRangel::SWGInstance\lSummaryResponse::setPid" alt="" coords="268,2243,472,2285"/>
+<area shape="rect" id="node6" href="$dd/dde/classqtwebapp_1_1Logger.html#ac19db59a0216839fe5cf7c1cfb337878" title="qtwebapp::Logger::getMin\lMessageLevel" alt="" coords="565,1326,737,1367"/>
+<area shape="rect" id="node9" href="$d7/de5/classWebAPIAdapterGUI.html#ae8408681de3ae1e10c4eb2901ddb6331" title="WebAPIAdapterGUI::getDeviceSet" alt="" coords="537,1075,764,1101"/>
+<area shape="rect" id="node49" href="$d6/d81/classSWGSDRangel_1_1SWGDeviceSetList.html#a001d0e33a9bf4cec719106fed9a091de" title="SWGSDRangel::SWGDeviceSet\lList::getDeviceSets" alt="" coords="543,1126,758,1167"/>
+<area shape="rect" id="node50" href="$d6/d81/classSWGSDRangel_1_1SWGDeviceSetList.html#a45db920bc9f4f6ea769a9aa5ee67f585" title="SWGSDRangel::SWGDeviceSet\lList::init" alt="" coords="543,1191,758,1233"/>
+<area shape="rect" id="node51" href="$d6/d81/classSWGSDRangel_1_1SWGDeviceSetList.html#aeeb4c888746cdddb5baeaa268e2610b4" title="SWGSDRangel::SWGDeviceSet\lList::setDevicesetcount" alt="" coords="543,943,758,985"/>
+<area shape="rect" id="node52" href="$d6/d81/classSWGSDRangel_1_1SWGDeviceSetList.html#a739f341e5e0a1a1e1c01c273139dcb2c" title="SWGSDRangel::SWGDeviceSet\lList::setDevicesetfocus" alt="" coords="543,1009,758,1050"/>
+<area shape="rect" id="node10" href="$d7/d02/classChannelAPI.html#a93ddb7150a360c79903bd29294664f6e" title="Applies to a default stream. " alt="" coords="818,5,1037,32"/>
+<area shape="rect" id="node11" href="$d9/d18/classDeviceSampleSink.html#ac5643948fc2059b90297b97c70f44138" title="Center frequency exposed by the sink. " alt="" coords="828,57,1027,98"/>
+<area shape="rect" id="node12" href="$db/d0c/classDeviceSampleSource.html#a2e8d4bdd0a614b9dda08f432c36539d3" title="Center frequency exposed by the source. " alt="" coords="853,122,1001,163"/>
+<area shape="rect" id="node13" href="$dd/db6/classDeviceAPI.html#adadca235cf711f5ccf82dafb127cdd7c" title="DeviceAPI::getChanelSink\lAPIAt" alt="" coords="838,187,1017,229"/>
+<area shape="rect" id="node14" href="$dd/db6/classDeviceAPI.html#a222008a2a8d273ef4fa3321dc53ac5cf" title="DeviceAPI::getChanelSource\lAPIAt" alt="" coords="831,253,1024,294"/>
+<area shape="rect" id="node15" href="$d4/dce/classSWGSDRangel_1_1SWGDeviceSet.html#a26233e4ec02767503d453c12b3da2d25" title="SWGSDRangel::SWGDeviceSet\l::getChannelcount" alt="" coords="820,318,1035,359"/>
+<area shape="rect" id="node16" href="$d4/dce/classSWGSDRangel_1_1SWGDeviceSet.html#aa93d916d765ecf1284f17ae4c27cdd9c" title="SWGSDRangel::SWGDeviceSet\l::getChannels" alt="" coords="820,383,1035,425"/>
+<area shape="rect" id="node17" href="$dd/db6/classDeviceAPI.html#a811af8bc5060090941d30a73c9737888" title="DeviceAPI::getDeviceEngine\lStateStr" alt="" coords="831,449,1023,490"/>
+<area shape="rect" id="node20" href="$dd/db6/classDeviceAPI.html#a6a132cbd77d935d2ffc96bc5b2be58de" title="DeviceAPI::getDeviceItem\lIndex" alt="" coords="838,514,1017,555"/>
+<area shape="rect" id="node21" href="$dd/db6/classDeviceAPI.html#afaeeb5e452dafdb5e285ebe554d67309" title="DeviceAPI::getDeviceNbItems" alt="" coords="826,580,1029,607"/>
+<area shape="rect" id="node22" href="$dd/db6/classDeviceAPI.html#abd9ac5831821e17546c8110a30b937be" title="DeviceAPI::getHardwareId" alt="" coords="838,631,1017,657"/>
+<area shape="rect" id="node23" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#ab9f6acd03ea8c0e59c2614b1ee983894" title="SWGSDRangel::SWGSampling\lDevice::getHwType" alt="" coords="823,682,1031,723"/>
+<area shape="rect" id="node24" href="$d7/d02/classChannelAPI.html#a404276b6d624ddeb5f89fc2d7a4e7bc5" title="ChannelAPI::getIdentifier" alt="" coords="843,748,1011,775"/>
+<area shape="rect" id="node25" href="$d7/d02/classChannelAPI.html#a9421ed946473753ddec3d68bd634807f" title="ChannelAPI::getIndexInDeviceSet" alt="" coords="816,799,1039,825"/>
+<area shape="rect" id="node26" href="$dd/db6/classDeviceAPI.html#a3155bc0c832b46b777dd3f9fd38fdadb" title="DeviceAPI::getNbSinkChannels" alt="" coords="823,849,1032,876"/>
+<area shape="rect" id="node27" href="$dd/db6/classDeviceAPI.html#aff807d88050d948cf9f730ce56d047d1" title="DeviceAPI::getNbSourceChannels" alt="" coords="815,900,1039,927"/>
+<area shape="rect" id="node28" href="$d9/d18/classDeviceSampleSink.html#a3c05e9d4359234b3999a5eda0919bbb7" title="Sample rate exposed by the sink. " alt="" coords="812,951,1043,977"/>
+<area shape="rect" id="node29" href="$db/d0c/classDeviceSampleSource.html#a0b8a46a1b16b9bbd71664e920469a2c2" title="Sample rate exposed by the source. " alt="" coords="853,1002,1001,1043"/>
+<area shape="rect" id="node30" href="$d4/dce/classSWGSDRangel_1_1SWGDeviceSet.html#a6d958552467d56149bf736aff4151514" title="SWGSDRangel::SWGDeviceSet\l::getSamplingDevice" alt="" coords="820,1067,1035,1109"/>
+<area shape="rect" id="node31" href="$dd/db6/classDeviceAPI.html#a1098e97dc30ca876846d5970d9b27750" title="DeviceAPI::getSamplingDevice\lSequence" alt="" coords="824,1133,1031,1174"/>
+<area shape="rect" id="node32" href="$dd/db6/classDeviceAPI.html#a067d3393f92545000623e007a166dd87" title="DeviceAPI::getSamplingDevice\lSerial" alt="" coords="824,1198,1031,1239"/>
+<area shape="rect" id="node33" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#ae669343988de493706a5bcc7ab150fbf" title="SWGSDRangel::SWGSampling\lDevice::getSerial" alt="" coords="823,1263,1031,1305"/>
+<area shape="rect" id="node34" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="849,1329,1006,1370"/>
+<area shape="rect" id="node35" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="841,1394,1013,1435"/>
+<area shape="rect" id="node36" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#a297c66d7b91835cf9ae423905ae2cedc" title="SWGSDRangel::SWGSampling\lDevice::getState" alt="" coords="823,1459,1031,1501"/>
+<area shape="rect" id="node37" href="$d7/d02/classChannelAPI.html#a32e496cc31ac0cb10f3e944c98668980" title="ChannelAPI::getTitle" alt="" coords="856,1525,999,1552"/>
+<area shape="rect" id="node38" href="$d7/d02/classChannelAPI.html#ab32f0b32a9392c300ab8162960b39a01" title="ChannelAPI::getUID" alt="" coords="856,1576,999,1603"/>
+<area shape="rect" id="node39" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#aa09374cb43819ad0d878ed591e533409" title="SWGSDRangel::SWGSampling\lDevice::init" alt="" coords="823,1627,1031,1669"/>
+<area shape="rect" id="node40" href="$d4/dce/classSWGSDRangel_1_1SWGDeviceSet.html#a2e69f54544922aeaf4b76b20dc4ac779" title="SWGSDRangel::SWGDeviceSet\l::init" alt="" coords="820,1693,1035,1734"/>
+<area shape="rect" id="node41" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#ad03de876e6c109598592a2eef8fe2af6" title="SWGSDRangel::SWGSampling\lDevice::setBandwidth" alt="" coords="823,1758,1031,1799"/>
+<area shape="rect" id="node42" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#a95063fbd8ddfb03638edb7e51e6a8f55" title="SWGSDRangel::SWGSampling\lDevice::setCenterFrequency" alt="" coords="823,1823,1031,1865"/>
+<area shape="rect" id="node43" href="$d4/dce/classSWGSDRangel_1_1SWGDeviceSet.html#ab8bd9bdc6571ef41511db38ba0009a08" title="SWGSDRangel::SWGDeviceSet\l::setChannelcount" alt="" coords="820,1889,1035,1930"/>
+<area shape="rect" id="node44" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#a6fd76005e7681e9eda98b2e2841965ef" title="SWGSDRangel::SWGSampling\lDevice::setDeviceNbStreams" alt="" coords="823,1954,1031,1995"/>
+<area shape="rect" id="node45" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#a2fb6f7dfca2f91e871adeb105a1da796" title="SWGSDRangel::SWGSampling\lDevice::setDeviceStreamIndex" alt="" coords="823,2019,1031,2061"/>
+<area shape="rect" id="node46" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#a3badacba77a0d48b16132b51dff29df1" title="SWGSDRangel::SWGSampling\lDevice::setDirection" alt="" coords="823,2085,1031,2126"/>
+<area shape="rect" id="node47" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#a097308267ca6cdd24d5385c5d26dcf32" title="SWGSDRangel::SWGSampling\lDevice::setIndex" alt="" coords="823,2150,1031,2191"/>
+<area shape="rect" id="node48" href="$d6/db3/classSWGSDRangel_1_1SWGSamplingDevice.html#af1aa8e1f22d99ef8e1553b900820e7b7" title="SWGSDRangel::SWGSampling\lDevice::setSequence" alt="" coords="823,2215,1031,2257"/>
+<area shape="rect" id="node18" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="1091,417,1263,458"/>
+<area shape="rect" id="node19" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="1098,482,1255,523"/>
+<area shape="rect" id="node58" href="$df/d52/classqtwebapp_1_1FileLogger.html#ae95cd7bed4252d995c660fce3301ac2b" title="qtwebapp::FileLogger\l::getFileLoggerSettings" alt="" coords="573,1525,729,1566"/>
+</map>

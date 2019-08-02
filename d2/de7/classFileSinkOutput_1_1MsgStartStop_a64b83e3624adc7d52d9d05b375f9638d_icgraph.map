@@ -1,0 +1,5 @@
+<map id="FileSinkOutput::MsgStartStop::create" name="FileSinkOutput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$de/de4/classFileSinkGui.html#aea38739f9f10cf1a6b6822faa91aa270" title="FileSinkGui::on_startStop\l_toggled" alt="" coords="228,5,399,47"/>
+<area shape="rect" id="node3" href="$d6/dc4/classFileSinkOutput.html#acb1866611f59827d55f884038abe99b0" title="FileSinkOutput::webapiRun" alt="" coords="223,71,404,98"/>
+<area shape="rect" id="node4" href="$d6/dc4/classFileSinkOutput.html#a24cd6a438e859027e39f5b509329a997" title="For when the sink sample rate is set externally. " alt="" coords="452,71,659,98"/>
+</map>

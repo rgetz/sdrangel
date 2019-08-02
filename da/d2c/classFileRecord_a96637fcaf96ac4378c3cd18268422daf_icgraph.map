@@ -1,0 +1,8 @@
+<map id="FileRecord::readHeader" name="FileRecord::readHeader">
+<area shape="rect" id="node2" href="$d7/deb/classFileInput.html#aed2c403e73e75ddc29fba4dc6a9c7d28" title="FileInput::openFileStream" alt="" coords="219,5,390,32"/>
+<area shape="rect" id="node5" href="$d9/db6/classFileSource.html#abb1bf94733d6230872ff39117eba88e9" title="FileSource::openFileStream" alt="" coords="213,56,396,83"/>
+<area shape="rect" id="node3" href="$d7/deb/classFileInput.html#ac73e8e5d6b15ed693739565663d33fed" title="FileInput::handleMessage" alt="" coords="450,5,621,32"/>
+<area shape="rect" id="node4" href="$d7/deb/classFileInput.html#a090e6381223a51d1f5c1d1ab81348e5e" title="For when the source sample rate is set externally. " alt="" coords="675,5,845,32"/>
+<area shape="rect" id="node6" href="$d9/db6/classFileSource.html#abe173f556596f7b341e94a605c390243" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="444,56,627,83"/>
+<area shape="rect" id="node7" href="$d9/db6/classFileSource.html#ac6a5306a4a7b11087d5aab98f7cd1f16" title="FileSource::destroy" alt="" coords="693,56,827,83"/>
+</map>

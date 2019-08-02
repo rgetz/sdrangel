@@ -1,0 +1,8 @@
+<map id="hid_enumerate" name="hid_enumerate">
+<area shape="rect" id="node2" href="$d3/d7e/classFCDProPlugin.html#ac1ce7dd0638a5298495b6e75f885526e" title="FCDProPlugin::enumSample\lSources" alt="" coords="173,5,363,47"/>
+<area shape="rect" id="node3" href="$d1/de5/classFCDProPlusPlugin.html#a98bb08a6ec4f80ed6c37befc52aeec31" title="FCDProPlusPlugin::enumSample\lSources" alt="" coords="160,71,376,112"/>
+<area shape="rect" id="node4" href="$d8/d48/fcdhid_8h.html#a20deab2ea1baeeb387123d897e7918e2" title="Open FCD device. " alt="" coords="233,137,303,163"/>
+<area shape="rect" id="node7" href="$dc/d19/group__API.html#gae6910ed9f01c4a99d25539b16800e90c" title="Open a HID device using a Vendor ID (VID), Product ID (PID) and optionally a serial number..." alt="" coords="231,187,305,214"/>
+<area shape="rect" id="node5" href="$d6/d0c/classFCDProPlusInput.html#a598ba0239f3578176a9ca6587518e10a" title="FCDProPlusInput::openDevice" alt="" coords="424,111,627,138"/>
+<area shape="rect" id="node6" href="$db/d44/classFCDProInput.html#a98c4e0705c67b9c25bc630aa340a3dd9" title="FCDProInput::openDevice" alt="" coords="437,162,613,189"/>
+</map>

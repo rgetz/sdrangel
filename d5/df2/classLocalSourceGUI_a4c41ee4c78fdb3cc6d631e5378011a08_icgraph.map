@@ -1,0 +1,10 @@
+<map id="LocalSourceGUI::displaySettings" name="LocalSourceGUI::displaySettings">
+<area shape="rect" id="node2" href="$d5/df2/classLocalSourceGUI.html#a90334c6bdb5d84f8cadcbb06bc11ca65" title="LocalSourceGUI::deserialize" alt="" coords="543,5,731,32"/>
+<area shape="rect" id="node3" href="$d5/df2/classLocalSourceGUI.html#a42860abe193784ee791bf826aff77c4a" title="LocalSourceGUI::handleMessage" alt="" coords="269,87,486,113"/>
+<area shape="rect" id="node5" href="$d5/df2/classLocalSourceGUI.html#aa8ef75adb425e7a831befd29672d9903" title="LocalSourceGUI::LocalSourceGUI" alt="" coords="788,112,1011,139"/>
+<area shape="rect" id="node9" href="$d5/df2/classLocalSourceGUI.html#ac98d8ce65ffab3dbef5e77b6e3c66259" title="LocalSourceGUI::resetToDefaults" alt="" coords="268,36,487,63"/>
+<area shape="rect" id="node4" href="$d5/df2/classLocalSourceGUI.html#a85c16136d557f058b5687f1441e8582f" title="LocalSourceGUI::handleSource\lMessages" alt="" coords="535,75,740,117"/>
+<area shape="rect" id="node6" href="$d5/df2/classLocalSourceGUI.html#afb62dd5aa1a6b2ff8275723c698b6ac0" title="LocalSourceGUI::create" alt="" coords="1059,112,1221,139"/>
+<area shape="rect" id="node7" href="$d1/da0/classLocalSourcePlugin.html#a589cda92ca651d3d009c8368b149bfdd" title="LocalSourcePlugin::\lcreateTxChannelGUI" alt="" coords="1269,105,1415,146"/>
+<area shape="rect" id="node8" href="$d1/da0/classLocalSourcePlugin.html#a624a51a80d58a8f65d3cfbc8769fc78d" title="LocalSourcePlugin::\linitPlugin" alt="" coords="1463,105,1601,146"/>
+</map>

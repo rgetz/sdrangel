@@ -1,0 +1,25 @@
+<map id="SWGSDRangel::SWGChannelSettings_2" name="SWGSDRangel::SWGChannelSettings_2">
+<area shape="rect" id="node2" href="$d5/db2/classSWGSDRangel_1_1SWGObject.html" title="SWGSDRangel::SWGObject" alt="" coords="5,670,197,697"/>
+<area shape="rect" id="node3" href="$d6/d37/classSWGSDRangel_1_1SWGLocalSinkSettings.html" title="SWGSDRangel::SWGLocalSink\lSettings" alt="" coords="558,75,769,116"/>
+<area shape="rect" id="node4" href="$d4/d7a/classSWGSDRangel_1_1SWGNFMDemodSettings.html" title="SWGSDRangel::SWGNFMDemod\lSettings" alt="" coords="551,127,776,168"/>
+<area shape="rect" id="node5" href="$df/d4d/classSWGSDRangel_1_1SWGRemoteSinkSettings.html" title="SWGSDRangel::SWGRemoteSink\lSettings" alt="" coords="550,180,777,222"/>
+<area shape="rect" id="node6" href="$df/d29/classSWGSDRangel_1_1SWGUDPSinkSettings.html" title="SWGSDRangel::SWGUDPSinkSettings" alt="" coords="535,234,792,261"/>
+<area shape="rect" id="node7" href="$d4/d12/classSWGSDRangel_1_1SWGAMModSettings.html" title="SWGSDRangel::SWGAMModSettings" alt="" coords="822,332,1069,358"/>
+<area shape="rect" id="node8" href="$dc/dbf/classSWGSDRangel_1_1SWGCWKeyerSettings.html" title="SWGSDRangel::SWGCWKeyerSettings" alt="" coords="249,441,508,468"/>
+<area shape="rect" id="node9" href="$d3/d66/classSWGSDRangel_1_1SWGNFMModSettings.html" title="SWGSDRangel::SWGNFMModSettings" alt="" coords="817,382,1073,409"/>
+<area shape="rect" id="node10" href="$db/d62/classSWGSDRangel_1_1SWGWFMModSettings.html" title="SWGSDRangel::SWGWFMModSettings" alt="" coords="816,550,1075,577"/>
+<area shape="rect" id="node11" href="$df/d96/classSWGSDRangel_1_1SWGFileSourceSettings.html" title="SWGSDRangel::SWGFileSource\lSettings" alt="" coords="555,663,771,704"/>
+<area shape="rect" id="node12" href="$d5/d77/classSWGSDRangel_1_1SWGFreeDVDemodSettings.html" title="SWGSDRangel::SWGFreeDVDemod\lSettings" alt="" coords="543,712,784,754"/>
+<area shape="rect" id="node13" href="$de/d4f/classSWGSDRangel_1_1SWGUDPSourceSettings.html" title="SWGSDRangel::SWGUDPSource\lSettings" alt="" coords="833,727,1057,768"/>
+<area shape="rect" id="node14" href="$d8/d71/classSWGSDRangel_1_1SWGSSBModSettings.html" title="SWGSDRangel::SWGSSBModSettings" alt="" coords="818,433,1073,460"/>
+<area shape="rect" id="node15" href="$dc/d82/classSWGSDRangel_1_1SWGFreqTrackerSettings.html" title="SWGSDRangel::SWGFreqTracker\lSettings" alt="" coords="551,811,775,852"/>
+<area shape="rect" id="node16" href="$df/d9f/classSWGSDRangel_1_1SWGLocalSourceSettings.html" title="SWGSDRangel::SWGLocalSource\lSettings" alt="" coords="832,856,1059,898"/>
+<area shape="rect" id="node17" href="$d6/d5e/classSWGSDRangel_1_1SWGDSDDemodSettings.html" title="SWGSDRangel::SWGDSDDemod\lSettings" alt="" coords="551,916,776,958"/>
+<area shape="rect" id="node18" href="$d5/df0/classSWGSDRangel_1_1SWGATVModSettings.html" title="SWGSDRangel::SWGATVModSettings" alt="" coords="252,974,505,1001"/>
+<area shape="rect" id="node19" href="$dd/d3c/classSWGSDRangel_1_1SWGAMDemodSettings.html" title="SWGSDRangel::SWGAMDemodSettings" alt="" coords="247,1025,511,1052"/>
+<area shape="rect" id="node20" href="$d2/d68/classSWGSDRangel_1_1SWGFreeDVModSettings.html" title="SWGSDRangel::SWGFreeDVMod\lSettings" alt="" coords="833,484,1057,526"/>
+<area shape="rect" id="node21" href="$de/dbe/classSWGSDRangel_1_1SWGBFMDemodSettings.html" title="SWGSDRangel::SWGBFMDemod\lSettings" alt="" coords="267,1078,491,1119"/>
+<area shape="rect" id="node22" href="$de/d98/classSWGSDRangel_1_1SWGRemoteSourceSettings.html" title="SWGSDRangel::SWGRemoteSource\lSettings" alt="" coords="258,1146,499,1187"/>
+<area shape="rect" id="node23" href="$d0/de4/classSWGSDRangel_1_1SWGWFMDemodSettings.html" title="SWGSDRangel::SWGWFMDemod\lSettings" alt="" coords="265,1216,493,1258"/>
+<area shape="rect" id="node24" href="$d7/d5c/classSWGSDRangel_1_1SWGSSBDemodSettings.html" title="SWGSDRangel::SWGSSBDemod\lSettings" alt="" coords="267,1283,490,1324"/>
+</map>

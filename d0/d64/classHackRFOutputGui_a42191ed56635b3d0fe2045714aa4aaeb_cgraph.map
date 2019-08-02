@@ -1,0 +1,5 @@
+<map id="HackRFOutputGui::on_startStop_toggled" name="HackRFOutputGui::on_startStop_toggled">
+<area shape="rect" id="node2" href="$df/d9b/classHackRFOutput_1_1MsgStartStop.html#a35c4179f6ee7f6897befb8cc0f606e4e" title="HackRFOutput::MsgStartStop\l::create" alt="" coords="205,5,404,47"/>
+<area shape="rect" id="node3" href="$d9/d18/classDeviceSampleSink.html#ad4df5d416505071b70e42aa89292c2d7" title="DeviceSampleSink::getInput\lMessageQueue" alt="" coords="211,71,399,112"/>
+<area shape="rect" id="node4" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="230,137,379,163"/>
+</map>

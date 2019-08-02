@@ -1,0 +1,11 @@
+<map id="LocalSource::propagateSampleRateAndFrequency" name="LocalSource::propagateSampleRateAndFrequency">
+<area shape="rect" id="node2" href="$d9/d2e/classLocalSource.html#acb35a721533da8e9d0a9d9ce2ab7493d" title="LocalSource::getLocalDevice" alt="" coords="275,163,467,189"/>
+<area shape="rect" id="node9" href="$d9/d18/classDeviceSampleSink.html#ac1768018534e8e4334cba2f4cb7e48fb" title="DeviceSampleSink::setCenter\lFrequency" alt="" coords="272,214,471,255"/>
+<area shape="rect" id="node10" href="$d9/d18/classDeviceSampleSink.html#a7ed18f5d21211c33a9e255b3f3670c6b" title="For when the sink sample rate is set externally. " alt="" coords="256,280,487,307"/>
+<area shape="rect" id="node3" href="$d7/d02/classChannelAPI.html#ab9c98084b80695ef272d75d7d8a4ff68" title="ChannelAPI::getDeviceAPI" alt="" coords="544,5,725,32"/>
+<area shape="rect" id="node4" href="$d9/d18/classDeviceSampleSink.html#a1cf38a6b7a124b5b94a81476e74ab2ef" title="DeviceSampleSink::getDevice\lDescription" alt="" coords="535,57,735,98"/>
+<area shape="rect" id="node5" href="$d7/d8a/classDSPEngine.html#ab6608457a5f8a3350e4c5b7cd020bf0f" title="DSPEngine::getDeviceSink\lEngineByIndex" alt="" coords="543,122,726,163"/>
+<area shape="rect" id="node6" href="$d1/d90/classDSPDeviceSinkEngine.html#a3c512f8c041da559d4d5f49f56156666" title="DSPDeviceSinkEngine\l::getSink" alt="" coords="556,187,713,229"/>
+<area shape="rect" id="node7" href="$d1/d90/classDSPDeviceSinkEngine.html#a55b975254c0fdf7455cfcbf3a352b42e" title="DSPDeviceSinkEngine\l::getUID" alt="" coords="556,253,713,294"/>
+<area shape="rect" id="node8" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="561,319,708,345"/>
+</map>

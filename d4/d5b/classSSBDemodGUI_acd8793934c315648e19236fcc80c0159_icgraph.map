@@ -1,0 +1,7 @@
+<map id="SSBDemodGUI::getInputMessageQueue" name="SSBDemodGUI::getInputMessageQueue">
+<area shape="rect" id="node2" href="$d4/d5b/classSSBDemodGUI.html#a2fd37fa65519ade78b5ee784e667be25" title="SSBDemodGUI::handleInput\lMessages" alt="" coords="276,5,467,47"/>
+<area shape="rect" id="node3" href="$d4/d5b/classSSBDemodGUI.html#a4a896b75cc4263c3592affd37da6f3a2" title="SSBDemodGUI::SSBDemodGUI" alt="" coords="515,42,731,69"/>
+<area shape="rect" id="node4" href="$d4/d5b/classSSBDemodGUI.html#a47cea00999bb0367da3d95f0e4495ea2" title="SSBDemodGUI::create" alt="" coords="779,42,937,69"/>
+<area shape="rect" id="node5" href="$dc/d80/classSSBPlugin.html#a02a3bf053e93d28d263e406d8fce6b47" title="SSBPlugin::createRxChannelGUI" alt="" coords="985,42,1204,69"/>
+<area shape="rect" id="node6" href="$dc/d80/classSSBPlugin.html#a7d22ac0168679a8f19b92f3b100f4855" title="SSBPlugin::initPlugin" alt="" coords="1252,42,1399,69"/>
+</map>

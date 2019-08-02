@@ -1,0 +1,5 @@
+<map id="qrtplib::RTPUDPTransmitter::ComesFromThisTransmitter" name="qrtplib::RTPUDPTransmitter::ComesFromThisTransmitter">
+<area shape="rect" id="node2" href="$db/dc5/classqrtplib_1_1RTPAddress.html#aa1235aeac1e6c78da5f6e221d3254493" title="qrtplib::RTPAddress\l::getAddress" alt="" coords="247,5,387,47"/>
+<area shape="rect" id="node3" href="$db/dc5/classqrtplib_1_1RTPAddress.html#af93aa439579d32bb8d0b9a6a9bf7b538" title="qrtplib::RTPAddress\l::getPort" alt="" coords="247,71,387,112"/>
+<area shape="rect" id="node4" href="$db/dc5/classqrtplib_1_1RTPAddress.html#a2453ef5fc665e9b82d3581e4d3ed1346" title="qrtplib::RTPAddress\l::getRtcpsendport" alt="" coords="247,136,387,177"/>
+</map>

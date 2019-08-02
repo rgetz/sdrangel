@@ -1,0 +1,10 @@
+<map id="AudioNetSink::setDestination" name="AudioNetSink::setDestination">
+<area shape="rect" id="node2" href="$de/df9/classRTPSink.html#a0675f24fd17f6154144ba22180abfc93" title="RTPSink::setDestination" alt="" coords="248,111,415,138"/>
+<area shape="rect" id="node3" href="$db/d64/classqrtplib_1_1RTPSession.html#aadd915281f9d6d9dd59571833f3639b0" title="qrtplib::RTPSession\l::ClearDestinations" alt="" coords="481,5,619,47"/>
+<area shape="rect" id="node5" href="$db/d64/classqrtplib_1_1RTPSession.html#aa4b05a3e38914db1f9d493246151242b" title="qrtplib::RTPSession\l::DeleteDestination" alt="" coords="481,71,619,112"/>
+<area shape="rect" id="node7" href="$db/d64/classqrtplib_1_1RTPSession.html#a53c0f7df5bce4973388a043483f54a02" title="qrtplib::RTPSession\l::AddDestination" alt="" coords="481,136,619,177"/>
+<area shape="rect" id="node9" href="$d9/d28/namespaceqrtplib.html#a76d3f7770a31f3fa5f3df14a2321a606" title="qrtplib::RTPGetErrorString" alt="" coords="463,202,637,229"/>
+<area shape="rect" id="node4" href="$db/dde/classqrtplib_1_1RTPTransmitter.html#a5fedfd533c99a8aab1e14471a2b8bb2a" title="qrtplib::RTPTransmitter\l::ClearDestinations" alt="" coords="685,5,844,47"/>
+<area shape="rect" id="node6" href="$db/dde/classqrtplib_1_1RTPTransmitter.html#a21550558f1b0f81c080dc621e3163f61" title="qrtplib::RTPTransmitter\l::DeleteDestination" alt="" coords="685,71,844,112"/>
+<area shape="rect" id="node8" href="$db/dde/classqrtplib_1_1RTPTransmitter.html#a656315f2f97917258d00a084c66cc65d" title="qrtplib::RTPTransmitter\l::AddDestination" alt="" coords="685,136,844,177"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="SoapySDROutput::webapiFormatArgInfo" name="SoapySDROutput::webapiFormatArgInfo">
+<area shape="rect" id="node2" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#aedf18994059e46de6dd234220e1033a3" title="SWGSDRangel::SWGArgInfo\l::getOptionNames" alt="" coords="283,5,479,47"/>
+<area shape="rect" id="node3" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a03575f695d6c8e7e5c4d3376b8bf1f4c" title="SWGSDRangel::SWGArgInfo\l::getRange" alt="" coords="283,71,479,112"/>
+<area shape="rect" id="node4" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a8eafba7d0350b625e98b141656c49774" title="SWGSDRangel::SWGArgInfo\l::getValueOptions" alt="" coords="283,136,479,177"/>
+<area shape="rect" id="node5" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a100c0738dd9238200b0a836f57ad1552" title="SWGSDRangel::SWGArgInfo\l::setDescription" alt="" coords="283,201,479,243"/>
+<area shape="rect" id="node6" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a7f5d118aa0581da8483396c92a34a5c6" title="SWGSDRangel::SWGArgInfo\l::setKey" alt="" coords="283,267,479,308"/>
+<area shape="rect" id="node7" href="$d8/d2f/classSWGSDRangel_1_1SWGRangeFloat.html#a26d99f1eda32993dc0eb1dd71fb5c6f3" title="SWGSDRangel::SWGRangeFloat\l::setMax" alt="" coords="271,332,492,373"/>
+<area shape="rect" id="node8" href="$d8/d2f/classSWGSDRangel_1_1SWGRangeFloat.html#a3f9cd83d7499d14df67c411c3a173da5" title="SWGSDRangel::SWGRangeFloat\l::setMin" alt="" coords="271,397,492,439"/>
+<area shape="rect" id="node9" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a0f0d183fa8beb85e86a1fae1219ea73a" title="SWGSDRangel::SWGArgInfo\l::setName" alt="" coords="283,463,479,504"/>
+<area shape="rect" id="node10" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a5dcc6f8f197b1ff35b690a9fc583a14c" title="SWGSDRangel::SWGArgInfo\l::setOptionNames" alt="" coords="283,528,479,569"/>
+<area shape="rect" id="node11" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a8e5be254820a4924ed4714701b8c6d68" title="SWGSDRangel::SWGArgInfo\l::setRange" alt="" coords="283,593,479,635"/>
+<area shape="rect" id="node12" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a22bdced7447edcb3b4f2b6aac2a40e2f" title="SWGSDRangel::SWGArgInfo\l::setUnits" alt="" coords="283,659,479,700"/>
+<area shape="rect" id="node13" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a96854aed969f1de3b53ed8ff520c82c6" title="SWGSDRangel::SWGArgInfo\l::setValueOptions" alt="" coords="283,724,479,765"/>
+<area shape="rect" id="node14" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#a7717bb36e0e6080623f3ed172b7e4ce5" title="SWGSDRangel::SWGArgInfo\l::setValueString" alt="" coords="283,789,479,831"/>
+<area shape="rect" id="node15" href="$dd/dc2/classSWGSDRangel_1_1SWGArgInfo.html#aa0b838c2077db776d87b2aa12bb6a8df" title="SWGSDRangel::SWGArgInfo\l::setValueType" alt="" coords="283,855,479,896"/>
+</map>

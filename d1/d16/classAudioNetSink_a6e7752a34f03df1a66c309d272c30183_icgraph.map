@@ -1,0 +1,7 @@
+<map id="AudioNetSink::setDestination" name="AudioNetSink::setDestination">
+<area shape="rect" id="node2" href="$d8/ddc/classAudioOutput.html#a2284613ff4e70b0dcdc59022f933627a" title="AudioOutput::setUdpDestination" alt="" coords="248,64,459,91"/>
+<area shape="rect" id="node3" href="$d0/d40/classAudioDeviceManager.html#a626cbd4efa0db2508888c36a535aa842" title="AudioDeviceManager\l::setOutputDeviceInfo" alt="" coords="507,57,657,98"/>
+<area shape="rect" id="node4" href="$de/d74/classAudioDialogX.html#a62406de3c65d7fcdc17449d7122b1194" title="AudioDialogX::accept" alt="" coords="730,5,878,32"/>
+<area shape="rect" id="node5" href="$dc/dd8/classWebAPIAdapterSrv.html#a7e0868764ceab0c25cc1c8d051920b15" title="WebAPIAdapterSrv::instance\lAudioOutputPatch" alt="" coords="707,57,901,98"/>
+<area shape="rect" id="node6" href="$d7/de5/classWebAPIAdapterGUI.html#a2e3aca4d4c3df256a6ab7b28f2629739" title="WebAPIAdapterGUI::instance\lAudioOutputPatch" alt="" coords="705,122,903,163"/>
+</map>

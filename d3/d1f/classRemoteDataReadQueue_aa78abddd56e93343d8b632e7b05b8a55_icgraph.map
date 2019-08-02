@@ -1,0 +1,10 @@
+<map id="RemoteDataReadQueue::length" name="RemoteDataReadQueue::length">
+<area shape="rect" id="node2" href="$de/dd9/classRemoteSource.html#ac8d02bab284739e3e3e33162b0b5e1e5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="471,5,679,32"/>
+<area shape="rect" id="node4" href="$d3/d1f/classRemoteDataReadQueue.html#a947ae07ed5eaa4856d033caae537c0d1" title="push block on the queue " alt="" coords="235,38,401,79"/>
+<area shape="rect" id="node5" href="$d3/d1f/classRemoteDataReadQueue.html#ae3485c1b83f86001e5bf7ef980119458" title="Read sample from queue possibly scaling to Tx size. " alt="" coords="235,103,401,145"/>
+<area shape="rect" id="node7" href="$de/dd9/classRemoteSource.html#a7896d87e32655d95e03146ecfca5f35a" title="RemoteSource::webapiFormat\lChannelReport" alt="" coords="219,169,417,210"/>
+<area shape="rect" id="node3" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="760,67,920,93"/>
+<area shape="rect" id="node6" href="$de/dd9/classRemoteSource.html#af266ba166e53a63cdc4b7f49ca8c3061" title="RemoteSource::pull" alt="" coords="506,92,643,119"/>
+<area shape="rect" id="node8" href="$de/dd9/classRemoteSource.html#a404b4738e0e6e470fd9b22297cde0b86" title="RemoteSource::webapiReportGet" alt="" coords="465,176,684,203"/>
+<area shape="rect" id="node9" href="$de/dd9/classRemoteSource.html#a023f9330a89a0fc29905fbd72f678d4b" title="RemoteSource::getStreamCenter\lFrequency" alt="" coords="732,169,948,210"/>
+</map>

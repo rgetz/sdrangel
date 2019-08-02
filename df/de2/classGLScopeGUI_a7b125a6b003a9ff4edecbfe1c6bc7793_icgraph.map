@@ -1,0 +1,13 @@
+<map id="GLScopeGUI::setTrigDelayDisplay" name="GLScopeGUI::setTrigDelayDisplay">
+<area shape="rect" id="node2" href="$df/de2/classGLScopeGUI.html#ab9c114e79ee924430c1235ef9d9be216" title="GLScopeGUI::deserialize" alt="" coords="241,5,412,32"/>
+<area shape="rect" id="node3" href="$df/de2/classGLScopeGUI.html#ad4affb46a75b8aa873d46402a215907f" title="GLScopeGUI::on_scope\l_sampleRateChanged" alt="" coords="245,57,409,98"/>
+<area shape="rect" id="node5" href="$df/de2/classGLScopeGUI.html#a2d72722756c536c6c7e698d4f884a34a" title="GLScopeGUI::on_traceLen\l_valueChanged" alt="" coords="237,122,416,163"/>
+<area shape="rect" id="node6" href="$df/de2/classGLScopeGUI.html#aff91a493e4c18882824969fe8a6d6736" title="GLScopeGUI::on_trigDelay\lCoarse_valueChanged" alt="" coords="236,187,417,229"/>
+<area shape="rect" id="node7" href="$df/de2/classGLScopeGUI.html#ae9cf2631f3daa73f9802df0c786e46dd" title="GLScopeGUI::on_trigDelay\lFine_valueChanged" alt="" coords="236,253,417,294"/>
+<area shape="rect" id="node8" href="$df/de2/classGLScopeGUI.html#a8ccc723bfdeca8e367f5418de13bad75" title="GLScopeGUI::setTriggerUI" alt="" coords="237,319,417,345"/>
+<area shape="rect" id="node4" href="$df/de2/classGLScopeGUI.html#ad4da7fdbb42fd6c83f86a43b2129c536" title="GLScopeGUI::setBuddies" alt="" coords="469,64,643,91"/>
+<area shape="rect" id="node9" href="$df/de2/classGLScopeGUI.html#ab19be8ad036558656dea0debc93968e1" title="GLScopeGUI::on_trig\l_valueChanged" alt="" coords="483,246,629,287"/>
+<area shape="rect" id="node11" href="$df/de2/classGLScopeGUI.html#a0e784745942e60e637bc9dce25c6c9d1" title="GLScopeGUI::on_trigUp\l_clicked" alt="" coords="474,311,638,353"/>
+<area shape="rect" id="node12" href="$df/de2/classGLScopeGUI.html#a2e0a854eb802c14c874500575b155e27" title="GLScopeGUI::on_trigDown\l_clicked" alt="" coords="465,377,647,418"/>
+<area shape="rect" id="node10" href="$df/de2/classGLScopeGUI.html#a37e7446c5c3c52ea5f13241d22ba431f" title="GLScopeGUI::focusOnTrigger" alt="" coords="695,253,892,280"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="swagger/sdrangel/code/qt5/client/SWGNamedEnum.h" name="swagger/sdrangel/code/qt5/client/SWGNamedEnum.h">
+<area shape="rect" id="node2" href="$db/dc9/SWGBladeRF2InputReport_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGBladeRF2Input\lReport.h" alt="" coords="2877,95,3080,151"/>
+<area shape="rect" id="node32" href="$dc/d98/SWGModelFactory_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGModelFactory.h" alt="" coords="5697,303,5903,344"/>
+<area shape="rect" id="node35" href="$dd/d3a/SWGNamedEnum_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGNamedEnum.cpp" alt="" coords="5252,102,5468,143"/>
+<area shape="rect" id="node3" href="$d3/d8c/bladerf2input_8cpp.html" title="plugins/samplesource\l/bladerf2input/bladerf2input.cpp" alt="" coords="5,303,208,344"/>
+<area shape="rect" id="node4" href="$d4/d79/SWGBladeRF2InputReport_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGBladeRF2Input\lReport.cpp" alt="" coords="2648,199,2851,255"/>
+<area shape="rect" id="node5" href="$d6/d4c/SWGDeviceReport_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGDeviceReport.h" alt="" coords="2875,206,3082,247"/>
+<area shape="rect" id="node6" href="$da/d4d/bladerf2output_8cpp.html" title="plugins/samplesink\l/bladerf2output/bladerf2output.cpp" alt="" coords="232,303,451,344"/>
+<area shape="rect" id="node7" href="$db/d2f/limesdroutput_8cpp.html" title="plugins/samplesink\l/limesdroutput/limesdroutput.cpp" alt="" coords="475,303,685,344"/>
+<area shape="rect" id="node8" href="$d3/d61/localoutput_8cpp.html" title="plugins/samplesink\l/localoutput/localoutput.cpp" alt="" coords="709,303,891,344"/>
+<area shape="rect" id="node9" href="$da/d2b/plutosdroutput_8cpp.html" title="plugins/samplesink\l/plutosdroutput/plutosdroutput.cpp" alt="" coords="915,303,1133,344"/>
+<area shape="rect" id="node10" href="$df/d23/remoteoutput_8cpp.html" title="plugins/samplesink\l/remoteoutput/remoteoutput.cpp" alt="" coords="1158,303,1365,344"/>
+<area shape="rect" id="node11" href="$df/d43/soapysdroutput_8cpp.html" title="plugins/samplesink\l/soapysdroutput/soapysdroutput.cpp" alt="" coords="1389,303,1622,344"/>
+<area shape="rect" id="node12" href="$d4/d96/xtrxoutput_8cpp.html" title="plugins/samplesink\l/xtrxoutput/xtrxoutput.cpp" alt="" coords="1647,303,1817,344"/>
+<area shape="rect" id="node13" href="$d2/dd1/airspyinput_8cpp.html" title="plugins/samplesource\l/airspy/airspyinput.cpp" alt="" coords="1842,303,1995,344"/>
+<area shape="rect" id="node14" href="$da/d44/airspyhfinput_8cpp.html" title="plugins/samplesource\l/airspyhf/airspyhfinput.cpp" alt="" coords="2019,303,2194,344"/>
+<area shape="rect" id="node15" href="$d1/d0e/fileinput_8cpp.html" title="plugins/samplesource\l/fileinput/fileinput.cpp" alt="" coords="2218,303,2366,344"/>
+<area shape="rect" id="node16" href="$d5/d10/kiwisdrinput_8cpp.html" title="plugins/samplesource\l/kiwisdr/kiwisdrinput.cpp" alt="" coords="2391,303,2556,344"/>
+<area shape="rect" id="node17" href="$d3/df5/limesdrinput_8cpp.html" title="plugins/samplesource\l/limesdrinput/limesdrinput.cpp" alt="" coords="2580,303,2775,344"/>
+<area shape="rect" id="node18" href="$dd/d8a/localinput_8cpp.html" title="plugins/samplesource\l/localinput/localinput.cpp" alt="" coords="2799,303,2964,344"/>
+<area shape="rect" id="node19" href="$d8/d92/perseusinput_8cpp.html" title="plugins/samplesource\l/perseus/perseusinput.cpp" alt="" coords="2989,303,3163,344"/>
+<area shape="rect" id="node20" href="$d6/d40/plutosdrinput_8cpp.html" title="plugins/samplesource\l/plutosdrinput/plutosdrinput.cpp" alt="" coords="3188,303,3391,344"/>
+<area shape="rect" id="node21" href="$db/d73/remoteinput_8cpp.html" title="plugins/samplesource\l/remoteinput/remoteinput.cpp" alt="" coords="3415,303,3606,344"/>
+<area shape="rect" id="node22" href="$d9/d2c/rtlsdrinput_8cpp.html" title="plugins/samplesource\l/rtlsdr/rtlsdrinput.cpp" alt="" coords="3630,303,3778,344"/>
+<area shape="rect" id="node23" href="$d7/d1a/sdrplayinput_8cpp.html" title="plugins/samplesource\l/sdrplay/sdrplayinput.cpp" alt="" coords="3802,303,3969,344"/>
+<area shape="rect" id="node24" href="$d4/d2c/soapysdrinput_8cpp.html" title="plugins/samplesource\l/soapysdrinput/soapysdrinput.cpp" alt="" coords="3993,303,4210,344"/>
+<area shape="rect" id="node25" href="$d5/d74/xtrxinput_8cpp.html" title="plugins/samplesource\l/xtrxinput/xtrxinput.cpp" alt="" coords="4235,303,4389,344"/>
+<area shape="rect" id="node26" href="$dc/d9e/webapirequestmapper_8cpp.html" title="sdrbase/webapi/webapirequestmapper.cpp" alt="" coords="4413,310,4683,337"/>
+<area shape="rect" id="node27" href="$d3/d3d/webapiadaptergui_8cpp.html" title="sdrgui/webapi/webapiadaptergui.cpp" alt="" coords="4707,310,4939,337"/>
+<area shape="rect" id="node28" href="$dc/d5a/webapiadaptersrv_8cpp.html" title="sdrsrv/webapi/webapiadaptersrv.cpp" alt="" coords="4963,310,5197,337"/>
+<area shape="rect" id="node29" href="$d2/dee/SWGDeviceReport_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGDeviceReport.cpp" alt="" coords="5222,303,5442,344"/>
+<area shape="rect" id="node30" href="$dd/ddd/SWGDeviceSetApi_8h.html" title="swagger/sdrangel/code\l/qt5/client/SWGDeviceSetApi.h" alt="" coords="5466,303,5673,344"/>
+<area shape="rect" id="node31" href="$d8/d6b/SWGDeviceSetApi_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGDeviceSetApi.cpp" alt="" coords="5461,392,5681,433"/>
+<area shape="rect" id="node33" href="$d6/d32/SWGHelpers_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGHelpers.cpp" alt="" coords="5706,392,5891,433"/>
+<area shape="rect" id="node34" href="$d4/df9/SWGInstanceApi_8cpp.html" title="swagger/sdrangel/code\l/qt5/client/SWGInstanceApi.cpp" alt="" coords="5915,392,6125,433"/>
+</map>

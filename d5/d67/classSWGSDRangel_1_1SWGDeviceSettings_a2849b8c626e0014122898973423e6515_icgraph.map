@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setFileInputSettings" name="SWGSDRangel::SWGDeviceSettings::setFileInputSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="300,5,463,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="299,71,463,112"/>
+<area shape="rect" id="node6" href="$d7/deb/classFileInput.html#a8d16308cbd1f5c964685bca630d09ef1" title="FileInput::webapiReverse\lSendSettings" alt="" coords="296,136,467,177"/>
+<area shape="rect" id="node10" href="$d7/deb/classFileInput.html#abf8d564f7c1afc0b9bb144d86cad4eae" title="FileInput::webapiSettingsGet" alt="" coords="529,199,719,226"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="515,39,733,80"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="785,39,948,80"/>
+<area shape="rect" id="node7" href="$d7/deb/classFileInput.html#ad93572dc7d904cae0e4c7ab667cfe4e3" title="FileInput::applySettings" alt="" coords="545,147,703,174"/>
+<area shape="rect" id="node8" href="$d7/deb/classFileInput.html#ac73e8e5d6b15ed693739565663d33fed" title="FileInput::handleMessage" alt="" coords="781,147,952,174"/>
+<area shape="rect" id="node9" href="$d7/deb/classFileInput.html#a090e6381223a51d1f5c1d1ab81348e5e" title="For when the source sample rate is set externally. " alt="" coords="1000,173,1171,199"/>
+</map>

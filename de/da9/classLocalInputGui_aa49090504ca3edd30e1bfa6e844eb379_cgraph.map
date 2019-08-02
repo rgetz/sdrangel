@@ -1,0 +1,54 @@
+<map id="LocalInputGui::LocalInputGui" name="LocalInputGui::LocalInputGui">
+<area shape="rect" id="node2" href="$de/da9/classLocalInputGui.html#a017ab310d02506061858accc6e7a7e35" title="LocalInputGui::displaySettings" alt="" coords="777,498,976,525"/>
+<area shape="rect" id="node9" href="$dd/db6/classDeviceAPI.html#a21b67655f61be838b73d4df898f18a56" title="Return pointer to the device sample source (single Rx) or nullptr. " alt="" coords="249,1046,445,1073"/>
+<area shape="rect" id="node11" href="$de/da9/classLocalInputGui.html#a9cb888a352c9b84f66dc9ea2a0ef998e" title="LocalInputGui::handleInput\lMessages" alt="" coords="258,805,435,847"/>
+<area shape="rect" id="node28" href="$de/da9/classLocalInputGui.html#a5d91f1e79d19bf9f4766327125298576" title="LocalInputGui::openDevice\lSettingsDialog" alt="" coords="257,272,436,313"/>
+<area shape="rect" id="node37" href="$de/da9/classLocalInputGui.html#aea66a5261642ad638a573f332b2dabe1" title="LocalInputGui::sendSettings" alt="" coords="505,501,691,527"/>
+<area shape="rect" id="node38" href="$d8/d47/classLocalInput.html#a89d5c72b491cb92f006c7c052c132711" title="LocalInput::setMessageQueue\lToGUI" alt="" coords="247,1097,446,1139"/>
+<area shape="rect" id="node39" href="$de/da9/classLocalInputGui.html#ae2de93d309ba82444d90a0678db0a410" title="LocalInputGui::updateHardware" alt="" coords="244,995,449,1022"/>
+<area shape="rect" id="node42" href="$de/da9/classLocalInputGui.html#a866855e303e6c2cd2fd61e30013c9fe6" title="LocalInputGui::updateStatus" alt="" coords="253,1250,440,1277"/>
+<area shape="rect" id="node3" href="$de/da9/classLocalInputGui.html#a0dd808f88cf72345345e3729639f7016" title="LocalInputGui::blockApply\lSettings" alt="" coords="1078,659,1253,700"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1145,361,1185,387"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1345,361,1453,387"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1521,383,1669,424"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1725,331,1844,358"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1717,383,1852,424"/>
+<area shape="rect" id="node10" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="512,1171,684,1212"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="527,653,669,679"/>
+<area shape="rect" id="node13" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="817,979,936,1006"/>
+<area shape="rect" id="node15" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="522,805,674,847"/>
+<area shape="rect" id="node16" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="522,871,674,912"/>
+<area shape="rect" id="node17" href="$de/da9/classLocalInputGui.html#abfa5ee7140c3e480b2ffbe00be8657d2" title="LocalInputGui::updateSample\lRateAndFrequency" alt="" coords="780,913,973,955"/>
+<area shape="rect" id="node20" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1324,950,1473,977"/>
+<area shape="rect" id="node22" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="514,988,682,1029"/>
+<area shape="rect" id="node23" href="$de/da9/classLocalInputGui.html#aec933c110a782d8e18563df89b3ca237" title="LocalInputGui::handleMessage" alt="" coords="497,703,699,730"/>
+<area shape="rect" id="node14" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1081,1001,1250,1027"/>
+<area shape="rect" id="node18" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="1076,899,1255,926"/>
+<area shape="rect" id="node19" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="1069,950,1262,977"/>
+<area shape="rect" id="node21" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="1055,849,1276,875"/>
+<area shape="rect" id="node24" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a3b1ed6cfa2bd174e048b7b61e5bab887" title="LocalInput::MsgConfigure\lLocalInput::getSettings" alt="" coords="791,848,962,889"/>
+<area shape="rect" id="node25" href="$de/df5/classLocalInput_1_1MsgStartStop.html#ae8e8aed708853ed3df989ff4b49c4576" title="LocalInput::MsgStartStop\l::getStartStop" alt="" coords="791,600,962,641"/>
+<area shape="rect" id="node26" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#a05decbde5c554e84c2cf283aca72dca1" title="LocalInput::MsgReportSample\lRateAndFrequency::getSampleRate" alt="" coords="761,717,993,759"/>
+<area shape="rect" id="node27" href="$d4/db3/classLocalInput_1_1MsgReportSampleRateAndFrequency.html#af9a488f3f34410483119cb42c10b251b" title="LocalInput::MsgReportSample\lRateAndFrequency::getCenterFrequency" alt="" coords="747,783,1007,824"/>
+<area shape="rect" id="node29" href="$dd/d41/classBasicDeviceSettingsDialog.html#a620777e513db5769113671f437eb92df" title="BasicDeviceSettingsDialog\l::setUseReverseAPI" alt="" coords="507,71,689,112"/>
+<area shape="rect" id="node30" href="$dd/d41/classBasicDeviceSettingsDialog.html#a515540601bb272d9a04b9f048f912ad6" title="BasicDeviceSettingsDialog\l::useReverseAPI" alt="" coords="786,113,967,155"/>
+<area shape="rect" id="node31" href="$dd/d41/classBasicDeviceSettingsDialog.html#a2336847621183281351768eb2b807bd5" title="BasicDeviceSettingsDialog\l::setReverseAPIAddress" alt="" coords="507,239,689,280"/>
+<area shape="rect" id="node32" href="$dd/d41/classBasicDeviceSettingsDialog.html#a354a53bfe121fccc20ef67ca2d460402" title="BasicDeviceSettingsDialog\l::setReverseAPIPort" alt="" coords="786,247,967,288"/>
+<area shape="rect" id="node33" href="$dd/d41/classBasicDeviceSettingsDialog.html#a868a115f83061f3f1f97125c52f5caf2" title="BasicDeviceSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="502,5,694,47"/>
+<area shape="rect" id="node34" href="$dd/d41/classBasicDeviceSettingsDialog.html#a4f0da112a518f3aacaa69639f8f6f527" title="BasicDeviceSettingsDialog\l::getReverseAPIAddress" alt="" coords="507,304,689,345"/>
+<area shape="rect" id="node35" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9e97aa1103eb0b3564ca02a9c836a952" title="BasicDeviceSettingsDialog\l::getReverseAPIPort" alt="" coords="507,369,689,411"/>
+<area shape="rect" id="node36" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9dc629d97e53555fb3f1df907f9bf490" title="BasicDeviceSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="502,435,694,476"/>
+<area shape="rect" id="node40" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a715e3e794cd4a1c92d2388d4b1de7c6d" title="LocalInput::MsgConfigure\lLocalInput::create" alt="" coords="513,1053,683,1095"/>
+<area shape="rect" id="node41" href="$d2/d7e/classLocalInput_1_1MsgConfigureLocalInput.html#a3472a8ca5dad9adb4f093c21d0c627c7" title="LocalInput::MsgConfigure\lLocalInput::MsgConfigureLocalInput" alt="" coords="761,1053,992,1095"/>
+<area shape="rect" id="node43" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="537,1413,659,1439"/>
+<area shape="rect" id="node47" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="512,1250,684,1277"/>
+<area shape="rect" id="node44" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="791,1504,963,1545"/>
+<area shape="rect" id="node45" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="798,1373,955,1415"/>
+<area shape="rect" id="node46" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="793,1439,960,1480"/>
+<area shape="rect" id="node48" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="791,1308,963,1349"/>
+<area shape="rect" id="node51" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="798,1243,955,1284"/>
+<area shape="rect" id="node52" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="793,1177,960,1219"/>
+<area shape="rect" id="node49" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="1089,1304,1241,1345"/>
+<area shape="rect" id="node50" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1076,1250,1255,1277"/>
+<area shape="rect" id="node53" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="1072,1170,1259,1226"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SWGSDRangel::SWGBFMDemodSettings::setAudioDeviceName" name="SWGSDRangel::SWGBFMDemodSettings::setAudioDeviceName">
+<area shape="rect" id="node2" href="$d4/dd5/classBFMDemod.html#a58e3d12c0d754c041f60b97237c50935" title="BFMDemod::webapiFormatChannel\lSettings" alt="" coords="277,53,508,94"/>
+<area shape="rect" id="node5" href="$d4/dd5/classBFMDemod.html#a349518cedc2e42d098db97198cb0e6d3" title="BFMDemod::webapiReverseSend\lSettings" alt="" coords="283,118,503,159"/>
+<area shape="rect" id="node3" href="$d4/dd5/classBFMDemod.html#a4560aa3e41017d8dd8d38b67ac6cf9bb" title="BFMDemod::webapiSettingsGet" alt="" coords="556,5,767,32"/>
+<area shape="rect" id="node4" href="$d4/dd5/classBFMDemod.html#aba32c8822e93709dc078a61f6ca9e25d" title="BFMDemod::webapiSettings\lPutPatch" alt="" coords="567,57,756,98"/>
+<area shape="rect" id="node6" href="$d4/dd5/classBFMDemod.html#a97a2e159b9ce8e01c7b1d3c7c71e3c08" title="BFMDemod::applySettings" alt="" coords="572,125,751,152"/>
+<area shape="rect" id="node7" href="$d4/dd5/classBFMDemod.html#adc9823e0e737ea98eb3fa741d5869185" title="BFMDemod::BFMDemod" alt="" coords="825,100,995,127"/>
+<area shape="rect" id="node8" href="$d4/dd5/classBFMDemod.html#a7f127d311ce43f903ea95190cc8c8301" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="815,151,1005,177"/>
+</map>

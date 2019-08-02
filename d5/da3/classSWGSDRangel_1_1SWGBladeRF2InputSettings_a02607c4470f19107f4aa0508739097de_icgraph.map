@@ -1,0 +1,8 @@
+<map id="SWGSDRangel::SWGBladeRF2InputSettings::getReverseApiDeviceIndex" name="SWGSDRangel::SWGBladeRF2InputSettings::getReverseApiDeviceIndex">
+<area shape="rect" id="node2" href="$d6/d2d/classBladeRF2Input.html#afe93449cd44dfb098b291ba1b403933e" title="BladeRF2Input::webapiSettings\lPutPatch" alt="" coords="265,104,472,145"/>
+<area shape="rect" id="node3" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="520,111,721,138"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="780,5,975,47"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="769,71,985,112"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="778,136,977,177"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="1033,173,1252,199"/>
+</map>

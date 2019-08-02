@@ -1,0 +1,35 @@
+<map id="plugins/samplesource/limesdrinput/limesdrinputgui.cpp" name="plugins/samplesource/limesdrinput/limesdrinputgui.cpp">
+<area shape="rect" id="node2" href="$dd/dde/limesdrinputgui_8h.html" title="limesdrinputgui.h" alt="" coords="1025,95,1145,121"/>
+<area shape="rect" id="node34" href="$d9/dd3/colormapper_8h.html" title="gui/colormapper.h" alt="" coords="1187,319,1312,345"/>
+<area shape="rect" id="node37" href="$d0/d34/glspectrum_8h.html" title="gui/glspectrum.h" alt="" coords="2250,244,2369,271"/>
+<area shape="rect" id="node53" href="$d3/dca/crightclickenabler_8h.html" title="gui/crightclickenabler.h" alt="" coords="2793,95,2948,121"/>
+<area shape="rect" id="node56" href="$d5/d9b/basicdevicesettingsdialog_8h.html" title="gui/basicdevicesettingsdialog.h" alt="" coords="3095,95,3297,121"/>
+<area shape="rect" id="node58" href="$d8/d2f/dspengine_8h.html" title="dsp/dspengine.h" alt="" coords="4037,169,4155,196"/>
+<area shape="rect" id="node70" href="$d7/d45/dspcommands_8h.html" title="dsp/dspcommands.h" alt="" coords="2083,244,2226,271"/>
+<area shape="rect" id="node73" href="$d7/d54/deviceapi_8h.html" title="device/deviceapi.h" alt="" coords="2909,244,3040,271"/>
+<area shape="rect" id="node74" href="$dc/d64/deviceuiset_8h.html" title="device/deviceuiset.h" alt="" coords="2504,244,2645,271"/>
+<area shape="rect" id="node3" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="227,319,397,345"/>
+<area shape="rect" id="node10" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="3407,319,3550,345"/>
+<area shape="rect" id="node14" href="$db/dcb/limesdrinput_8h.html" title="limesdrinput.h" alt="" coords="323,169,426,196"/>
+<area shape="rect" id="node7" href="$db/db5/export_8h.html" title="export.h" alt="" coords="2636,393,2705,420"/>
+<area shape="rect" id="node17" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="862,244,1039,271"/>
+<area shape="rect" id="node25" href="$db/d16/devicelimesdrshared_8h.html" title="limesdr/devicelimesdrshared.h" alt="" coords="639,244,838,271"/>
+<area shape="rect" id="node29" href="$d8/de7/limesdrinputsettings_8h.html" title="limesdrinputsettings.h" alt="" coords="53,319,203,345"/>
+<area shape="rect" id="node18" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="3267,319,3384,345"/>
+<area shape="rect" id="node23" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="837,319,944,345"/>
+<area shape="rect" id="node20" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2931,393,3042,420"/>
+<area shape="rect" id="node27" href="$db/ded/devicelimesdrparam_8h.html" title="devicelimesdrparam.h" alt="" coords="664,319,813,345"/>
+<area shape="rect" id="node42" href="$d5/de0/scaleengine_8h.html" title="gui/scaleengine.h" alt="" coords="1779,319,1901,345"/>
+<area shape="rect" id="node46" href="$dc/d8a/glshadersimple_8h.html" title="gui/glshadersimple.h" alt="" coords="1437,319,1579,345"/>
+<area shape="rect" id="node48" href="$d4/d9b/glshadertextured_8h.html" title="gui/glshadertextured.h" alt="" coords="1603,319,1754,345"/>
+<area shape="rect" id="node50" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="1019,319,1162,345"/>
+<area shape="rect" id="node52" href="$d6/ddd/incrementalarray_8h.html" title="util/incrementalarray.h" alt="" coords="834,393,985,420"/>
+<area shape="rect" id="node45" href="$d0/dd2/physicalunit_8h.html" title="physicalunit.h" alt="" coords="1797,393,1899,420"/>
+<area shape="rect" id="node51" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="1009,393,1157,420"/>
+<area shape="rect" id="node59" href="$d7/d21/audiodevicemanager_8h.html" title="audio/audiodevicemanager.h" alt="" coords="4003,244,4189,271"/>
+<area shape="rect" id="node63" href="$db/d0a/audioinput_8h.html" title="audio/audioinput.h" alt="" coords="4445,319,4571,345"/>
+<area shape="rect" id="node67" href="$d4/d09/audiooutput_8h.html" title="audio/audiooutput.h" alt="" coords="4286,319,4421,345"/>
+<area shape="rect" id="node68" href="$de/d89/ambeengine_8h.html" title="ambe/ambeengine.h" alt="" coords="3625,319,3764,345"/>
+<area shape="rect" id="node71" href="$dd/d49/fftwindow_8h.html" title="fftwindow.h" alt="" coords="2859,319,2949,345"/>
+<area shape="rect" id="node72" href="$df/db1/math_8h.html" title="math.h" alt="" coords="2818,393,2881,420"/>
+</map>

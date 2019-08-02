@@ -1,0 +1,16 @@
+<map id="WebAPIRequestMapper::resetDeviceReport" name="WebAPIRequestMapper::resetDeviceReport">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#af70b155b7e44f2d63dede0a008c84f4d" title="SWGSDRangel::SWGDeviceReport\l::cleanup" alt="" coords="216,5,451,47"/>
+<area shape="rect" id="node3" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a533dbf1ac2180de4448b67e3ad8347e2" title="SWGSDRangel::SWGDeviceReport\l::setAirspyHfReport" alt="" coords="216,71,451,112"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aa889561e857f35ca7cd46bf6f5d842f6" title="SWGSDRangel::SWGDeviceReport\l::setAirspyReport" alt="" coords="216,136,451,177"/>
+<area shape="rect" id="node5" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aab5897bf41ccaf071d131cb5c8257621" title="SWGSDRangel::SWGDeviceReport\l::setDeviceHwType" alt="" coords="216,201,451,243"/>
+<area shape="rect" id="node6" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a775f803c07fc7db5da1fdb969979373d" title="SWGSDRangel::SWGDeviceReport\l::setFileInputReport" alt="" coords="216,267,451,308"/>
+<area shape="rect" id="node7" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a73dde38bd2c0762ec93ee14e3db25703" title="SWGSDRangel::SWGDeviceReport\l::setLimeSdrInputReport" alt="" coords="216,332,451,373"/>
+<area shape="rect" id="node8" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ae890929234b6ed79a6ee6a641480f30f" title="SWGSDRangel::SWGDeviceReport\l::setLimeSdrOutputReport" alt="" coords="216,397,451,439"/>
+<area shape="rect" id="node9" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a747243cf6869ff8f085e8397ffe6ddbe" title="SWGSDRangel::SWGDeviceReport\l::setPerseusReport" alt="" coords="216,463,451,504"/>
+<area shape="rect" id="node10" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a732c108b3893138e3e89a406223f90f1" title="SWGSDRangel::SWGDeviceReport\l::setPlutoSdrInputReport" alt="" coords="216,528,451,569"/>
+<area shape="rect" id="node11" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#acdd94a12cd82c1fe6a859b50d0e48a6f" title="SWGSDRangel::SWGDeviceReport\l::setPlutoSdrOutputReport" alt="" coords="216,593,451,635"/>
+<area shape="rect" id="node12" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a7811e4acfd05d9155a2058639e0f70f8" title="SWGSDRangel::SWGDeviceReport\l::setRemoteInputReport" alt="" coords="216,659,451,700"/>
+<area shape="rect" id="node13" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aeddb780a276b63d577d899e13a8bfb94" title="SWGSDRangel::SWGDeviceReport\l::setRemoteOutputReport" alt="" coords="216,724,451,765"/>
+<area shape="rect" id="node14" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#aa377eb7b660cad1da2e20c3cc0f1b8b4" title="SWGSDRangel::SWGDeviceReport\l::setRtlSdrReport" alt="" coords="216,789,451,831"/>
+<area shape="rect" id="node15" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ae0bbafb3860f42006f6c4ec48c29f2ca" title="SWGSDRangel::SWGDeviceReport\l::setSdrPlayReport" alt="" coords="216,855,451,896"/>
+</map>

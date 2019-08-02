@@ -1,0 +1,11 @@
+<map id="LocalOutput::webapiSettingsGet" name="LocalOutput::webapiSettingsGet">
+<area shape="rect" id="node2" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a5f6ff52299020049ad4c27575ccd4fc0" title="SWGSDRangel::SWGDeviceSettings\l::getLocalOutputSettings" alt="" coords="555,5,797,47"/>
+<area shape="rect" id="node3" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#ac5166ded3bb8c2f62eb4617119c626f1" title="SWGSDRangel::SWGLocalOutput\lSettings::init" alt="" coords="273,64,497,105"/>
+<area shape="rect" id="node4" href="$d5/d67/classSWGSDRangel_1_1SWGDeviceSettings.html#a0513e00b81e6c6dc02f5301b344194aa" title="SWGSDRangel::SWGDeviceSettings\l::setLocalOutputSettings" alt="" coords="264,129,507,171"/>
+<area shape="rect" id="node5" href="$de/db2/classLocalOutput.html#a038579021a75215fd6a02a3285f3f9e5" title="LocalOutput::webapiFormat\lDeviceSettings" alt="" coords="294,195,477,236"/>
+<area shape="rect" id="node6" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#ac796d337dc6edb317f6a6a585f1883d1" title="SWGSDRangel::SWGLocalOutput\lSettings::getReverseApiAddress" alt="" coords="564,71,788,112"/>
+<area shape="rect" id="node7" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a9506e1fb3ffff29358c536bcd93ec34f" title="SWGSDRangel::SWGLocalOutput\lSettings::setReverseApiAddress" alt="" coords="564,136,788,177"/>
+<area shape="rect" id="node8" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#aad191773368ca21946a2c8a7cc03f53c" title="SWGSDRangel::SWGLocalOutput\lSettings::setReverseApiDeviceIndex" alt="" coords="557,201,795,243"/>
+<area shape="rect" id="node9" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a79d6b1d5ef050947ca1782f4cae19cf0" title="SWGSDRangel::SWGLocalOutput\lSettings::setReverseApiPort" alt="" coords="564,267,788,308"/>
+<area shape="rect" id="node10" href="$de/d9d/classSWGSDRangel_1_1SWGLocalOutputSettings.html#a08f7e1f7c4fa27b7af7db2048c417d32" title="SWGSDRangel::SWGLocalOutput\lSettings::setUseReverseApi" alt="" coords="564,332,788,373"/>
+</map>

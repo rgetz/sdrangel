@@ -1,0 +1,16 @@
+<map id="SSBModGUI::blockApplySettings" name="SSBModGUI::blockApplySettings">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#a9a6df214a036d35bd7ea2aabf9526ef7" title="SSBModGUI::applyBandwidths" alt="" coords="272,202,477,229"/>
+<area shape="rect" id="node4" href="$db/d2a/classSSBModGUI.html#a855dcb8b682351262b93781388af86a8" title="SSBModGUI::handleMessage" alt="" coords="546,290,743,317"/>
+<area shape="rect" id="node14" href="$db/d2a/classSSBModGUI.html#a62574dcb953671cae550e1217b9cf852" title="SSBModGUI::displaySettings" alt="" coords="277,341,472,367"/>
+<area shape="rect" id="node3" href="$db/d2a/classSSBModGUI.html#ad98b85e5431bf42b8083db28d11e7d31" title="SSBModGUI::deserialize" alt="" coords="561,341,729,367"/>
+<area shape="rect" id="node6" href="$db/d2a/classSSBModGUI.html#a3007458b56ceb6e3af5b6252143fa3e6" title="SSBModGUI::SSBModGUI" alt="" coords="1105,290,1288,317"/>
+<area shape="rect" id="node10" href="$db/d2a/classSSBModGUI.html#a7693c2560d2361ad1c4c68d17a57eedc" title="SSBModGUI::on_BW_valueChanged" alt="" coords="525,122,764,149"/>
+<area shape="rect" id="node11" href="$db/d2a/classSSBModGUI.html#ae8409de1d2814233fdc8a663f1c74bf4" title="SSBModGUI::on_dsb_toggled" alt="" coords="546,173,743,199"/>
+<area shape="rect" id="node12" href="$db/d2a/classSSBModGUI.html#ac03e3051f984a34cb566ee4c6f1c62bf" title="SSBModGUI::on_lowCut\l_valueChanged" alt="" coords="561,224,729,265"/>
+<area shape="rect" id="node13" href="$db/d2a/classSSBModGUI.html#a66896663550959b5cf7b152bb1a9c190" title="SSBModGUI::on_spanLog2\l_valueChanged" alt="" coords="553,5,736,47"/>
+<area shape="rect" id="node5" href="$db/d2a/classSSBModGUI.html#a4511664850ee42cd3e832efbb173c137" title="SSBModGUI::handleSourceMessages" alt="" coords="812,290,1057,317"/>
+<area shape="rect" id="node7" href="$db/d2a/classSSBModGUI.html#a239313da92c67a842c2c5905e91ab8f9" title="SSBModGUI::create" alt="" coords="1336,290,1479,317"/>
+<area shape="rect" id="node8" href="$dd/d1a/classSSBModPlugin.html#aafa21fdcaef92170da5ee0b205d6a025" title="SSBModPlugin::createTxChannelGUI" alt="" coords="1527,290,1768,317"/>
+<area shape="rect" id="node9" href="$dd/d1a/classSSBModPlugin.html#a75ee0a86cb43e105ea98fd24757e6026" title="SSBModPlugin::initPlugin" alt="" coords="1816,290,1987,317"/>
+<area shape="rect" id="node15" href="$db/d2a/classSSBModGUI.html#a2f505e4870ef504715460cc4ddcbc823" title="SSBModGUI::channelMarker\lUpdate" alt="" coords="549,392,740,433"/>
+</map>

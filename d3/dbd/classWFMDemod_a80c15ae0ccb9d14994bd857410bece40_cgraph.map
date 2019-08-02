@@ -1,0 +1,16 @@
+<map id="WFMDemod::deserialize" name="WFMDemod::deserialize">
+<area shape="rect" id="node2" href="$d0/d2f/classWFMDemod_1_1MsgConfigureWFMDemod.html#a8bcb5320ae1c263fa89a9e25bbf0ba46" title="WFMDemod::MsgConfigureWFMDemod\l::create" alt="" coords="220,45,479,87"/>
+<area shape="rect" id="node4" href="$df/d8b/structWFMDemodSettings.html#a628564b3d206229486e599ef01aab6a5" title="WFMDemodSettings::deserialize" alt="" coords="242,274,457,301"/>
+<area shape="rect" id="node6" href="$df/d8b/structWFMDemodSettings.html#a9ea116d228207a3572f9204ae11ed120" title="WFMDemodSettings::resetTo\lDefaults" alt="" coords="558,71,754,112"/>
+<area shape="rect" id="node15" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="275,325,424,351"/>
+<area shape="rect" id="node3" href="$d0/d2f/classWFMDemod_1_1MsgConfigureWFMDemod.html#a6d3317a0ea688f416823f254ca596bb9" title="WFMDemod::MsgConfigureWFMDemod\l::MsgConfigureWFMDemod" alt="" coords="527,5,785,47"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="591,136,721,177"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="591,201,721,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a5d215f0cbaf422f006946a5d769daf71" title="SimpleDeserializer\l::readS32" alt="" coords="591,267,721,308"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="591,332,721,373"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="591,397,721,439"/>
+<area shape="rect" id="node12" href="$d2/d0e/classSimpleDeserializer.html#a1e623028facbed4340020840440368b1" title="SimpleDeserializer\l::readBlob" alt="" coords="591,463,721,504"/>
+<area shape="rect" id="node13" href="$d6/dcb/classSerializable.html#a7bc789acc1ae6796f0779d2219e1531c" title="Serializable::deserialize" alt="" coords="577,529,735,555"/>
+<area shape="rect" id="node14" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="591,580,721,621"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="833,332,964,373"/>
+</map>

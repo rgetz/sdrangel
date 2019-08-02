@@ -1,0 +1,10 @@
+<map id="BFMDemodGUI::displaySettings" name="BFMDemodGUI::displaySettings">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a581386f852769f0d35876dc1c65941b9" title="BFMDemodGUI::BFMDemodGUI" alt="" coords="771,55,989,82"/>
+<area shape="rect" id="node6" href="$d3/df8/classBFMDemodGUI.html#a01537b7a80dc07096428c8b5549902ce" title="BFMDemodGUI::deserialize" alt="" coords="534,30,721,57"/>
+<area shape="rect" id="node7" href="$d3/df8/classBFMDemodGUI.html#a2bcd560217bd279f3b47d62399828d6a" title="BFMDemodGUI::handleMessage" alt="" coords="268,121,483,147"/>
+<area shape="rect" id="node9" href="$d3/df8/classBFMDemodGUI.html#ab30a447aa014be4d9d6d34d9e78c0c4e" title="BFMDemodGUI::resetToDefaults" alt="" coords="267,70,484,97"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a6f7b0154fc4c191fae7b836078e3f8bc" title="BFMDemodGUI::create" alt="" coords="1037,55,1197,82"/>
+<area shape="rect" id="node4" href="$d3/d6b/classBFMPlugin.html#ae870e52c2ba6e5c10af2d9255cdfd422" title="BFMPlugin::createRxChannelGUI" alt="" coords="1245,55,1464,82"/>
+<area shape="rect" id="node5" href="$d3/d6b/classBFMPlugin.html#ac35041eb4f57c294f707df0bc2ce67c3" title="BFMPlugin::initPlugin" alt="" coords="1512,55,1659,82"/>
+<area shape="rect" id="node8" href="$d3/df8/classBFMDemodGUI.html#ad31c0208223eb1cb89b88e1af9d3d221" title="BFMDemodGUI::handleInput\lMessages" alt="" coords="532,103,723,144"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="UDPSourceMessages::MsgSampleRateCorrection::getRawDeltaRatio" name="UDPSourceMessages::MsgSampleRateCorrection::getRawDeltaRatio">
+<area shape="rect" id="node2" href="$de/da4/classUDPSource.html#a82bb428067797487c24e51149955b6af" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="232,20,423,47"/>
+<area shape="rect" id="node3" href="$de/da4/classUDPSource.html#ae4b3b3931474157c4e417dae5ba0da58" title="UDPSource::setSpectrumSink" alt="" coords="471,20,671,47"/>
+<area shape="rect" id="node4" href="$d5/d9e/classUDPSourceGUI.html#a3204330368d76daa33f13b0ab8553912" title="UDPSourceGUI::UDPSourceGUI" alt="" coords="719,20,937,47"/>
+<area shape="rect" id="node5" href="$d5/d9e/classUDPSourceGUI.html#a7f8a5591f5951c1b0663b7c534c2dda4" title="UDPSourceGUI::create" alt="" coords="985,20,1145,47"/>
+<area shape="rect" id="node6" href="$d7/d66/classUDPSourcePlugin.html#a2aa675cfccfab64c55503c54ab38e3e1" title="UDPSourcePlugin::createTx\lChannelGUI" alt="" coords="1193,13,1380,54"/>
+<area shape="rect" id="node7" href="$d7/d66/classUDPSourcePlugin.html#a1554a1dc0018c97e1e34dec9422ae594" title="UDPSourcePlugin::initPlugin" alt="" coords="1428,20,1617,47"/>
+</map>

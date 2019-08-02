@@ -1,0 +1,7 @@
+<map id="FileSinkGui::serialize" name="FileSinkGui::serialize">
+<area shape="rect" id="node2" href="$d5/dc0/structFileSinkSettings.html#aa64c306f6515973fbc8c944e0621a1df" title="FileSinkSettings::serialize" alt="" coords="199,56,372,83"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a6d75bb06e77f6fd4e2bfc4df2edf4b4f" title="SimpleSerializer::writeU64" alt="" coords="420,5,596,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="420,56,596,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="434,107,582,133"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="644,31,819,57"/>
+</map>

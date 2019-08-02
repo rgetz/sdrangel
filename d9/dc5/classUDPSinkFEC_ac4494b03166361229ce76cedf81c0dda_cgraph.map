@@ -1,0 +1,9 @@
+<map id="UDPSinkFEC::error" name="UDPSinkFEC::error">
+<area shape="rect" id="node2" href="$d9/dc5/classUDPSinkFEC.html#af0fda3ec349d740a31a5cd1375f3ebdf" title="UDPSinkFEC::setNbBlocksFEC" alt="" coords="197,5,411,32"/>
+<area shape="rect" id="node3" href="$d9/dc5/classUDPSinkFEC.html#a93f8afb893faeeda64cd3380b70457b1" title="UDPSinkFEC::setTxDelay" alt="" coords="484,56,663,83"/>
+<area shape="rect" id="node4" href="$d9/dc5/classUDPSinkFEC.html#ae2382b746faacb774ba73c0e9d3ff4f2" title="UDPSinkFEC::setRemoteAddress" alt="" coords="192,157,416,184"/>
+<area shape="rect" id="node8" href="$d9/dc5/classUDPSinkFEC.html#a0e21c9834a53110d59e7a1a86fb353a4" title="UDPSinkFEC::setSampleRate" alt="" coords="203,107,405,133"/>
+<area shape="rect" id="node5" href="$d4/de0/classUDPSinkFECWorker.html#ad5e3651304599ecd64a7d6c519e202ec" title="UDPSinkFECWorker::setRemote\lAddress" alt="" coords="464,150,683,191"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="773,128,923,155"/>
+<area shape="rect" id="node7" href="$d2/d32/classUDPSinkFECWorker_1_1MsgConfigureRemoteAddress.html#ab2a4e7c38129dfe01e547898805d34b9" title="UDPSinkFECWorker::MsgConfigure\lRemoteAddress::create" alt="" coords="731,179,965,221"/>
+</map>

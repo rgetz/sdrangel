@@ -1,0 +1,8 @@
+<map id="RemoteSourceThread::MsgStartStop::MsgStartStop" name="RemoteSourceThread::MsgStartStop::MsgStartStop">
+<area shape="rect" id="node2" href="$d7/d77/classRemoteSourceThread_1_1MsgStartStop.html#a120529493154c95b33a5c32d8d2e92a7" title="RemoteSourceThread\l::MsgStartStop::create" alt="" coords="252,64,407,105"/>
+<area shape="rect" id="node3" href="$df/d64/classRemoteSourceThread.html#a93bc465fd52ac88e0009a8092b6f4e75" title="RemoteSourceThread\l::startStop" alt="" coords="455,64,604,105"/>
+<area shape="rect" id="node4" href="$d4/d4f/classRemoteSourceThread_1_1MsgDataBind.html#a29986ad1a6b0405cf87ba4273b7be426" title="RemoteSourceThread\l::MsgDataBind::MsgDataBind" alt="" coords="652,5,848,47"/>
+<area shape="rect" id="node5" href="$de/dd9/classRemoteSource.html#aaee26cab0615202a49a11da3aafa8963" title="RemoteSource::start" alt="" coords="896,71,1039,98"/>
+<area shape="rect" id="node7" href="$de/dd9/classRemoteSource.html#a55dcbd04877ab8b69454a58385b25ac2" title="RemoteSource::stop" alt="" coords="679,122,821,149"/>
+<area shape="rect" id="node6" href="$de/dd9/classRemoteSource.html#a87db84a3f2b3875b4611a20213ea1f4f" title="RemoteSource::destroy" alt="" coords="1087,97,1247,123"/>
+</map>

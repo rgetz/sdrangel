@@ -1,0 +1,10 @@
+<map id="HackRFOutputGui::blockApplySettings" name="HackRFOutputGui::blockApplySettings">
+<area shape="rect" id="node2" href="$d0/d64/classHackRFOutputGui.html#a239f8fb5d76aeef3e55ddd01006c5c86" title="HackRFOutputGui::display\lBandwidths" alt="" coords="256,15,435,56"/>
+<area shape="rect" id="node4" href="$d0/d64/classHackRFOutputGui.html#ac8856289ac8c19606fe900252226659c" title="HackRFOutputGui::display\lSettings" alt="" coords="256,131,435,172"/>
+<area shape="rect" id="node8" href="$d0/d64/classHackRFOutputGui.html#a15f13c2beb65ece4e6b7d52388d73b4f" title="HackRFOutputGui::handleMessage" alt="" coords="483,256,712,282"/>
+<area shape="rect" id="node3" href="$d0/d64/classHackRFOutputGui.html#a4b3ebe1ec8aeca8cb232c0d41f6a07de" title="HackRFOutputGui::HackRFOutputGui" alt="" coords="1013,21,1260,48"/>
+<area shape="rect" id="node5" href="$d0/d64/classHackRFOutputGui.html#a321fd9ef33071c366b52b58806856d74" title="HackRFOutputGui::resetTo\lDefaults" alt="" coords="506,72,689,114"/>
+<area shape="rect" id="node6" href="$d0/d64/classHackRFOutputGui.html#aaba841a3f16613a6f60a5d077c7c782c" title="HackRFOutputGui::deserialize" alt="" coords="763,109,963,136"/>
+<area shape="rect" id="node7" href="$d0/d64/classHackRFOutputGui.html#a48b80397c385d19525ffb73d87e7ac7c" title="HackRFOutputGui::setCenter\lFrequency" alt="" coords="500,190,695,231"/>
+<area shape="rect" id="node9" href="$d0/d64/classHackRFOutputGui.html#aff439aa98baf137a22d67c95cfa42dd1" title="HackRFOutputGui::handleInput\lMessages" alt="" coords="760,219,965,260"/>
+</map>

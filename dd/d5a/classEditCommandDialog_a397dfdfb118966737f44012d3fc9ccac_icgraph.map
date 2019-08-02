@@ -1,0 +1,9 @@
+<map id="EditCommandDialog::setKeyLabel" name="EditCommandDialog::setKeyLabel">
+<area shape="rect" id="node2" href="$dd/d5a/classEditCommandDialog.html#ac56bec1aac8830d6ac85d870347376cf" title="EditCommandDialog::\lcommandKeyPressed" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node4" href="$dd/d5a/classEditCommandDialog.html#aeec00fd5b1b015865118f4feb8b884cb" title="EditCommandDialog::\lEditCommandDialog" alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node5" href="$dd/d5a/classEditCommandDialog.html#aed31095e11a07e9f9e0661f86cdee048" title="EditCommandDialog::\lfromCommand" alt="" coords="204,136,355,177"/>
+<area shape="rect" id="node8" href="$dd/d5a/classEditCommandDialog.html#a9abb8161589fd44a84673a5b2a48811e" title="EditCommandDialog::\lsetKey" alt="" coords="204,201,355,243"/>
+<area shape="rect" id="node3" href="$dd/d5a/classEditCommandDialog.html#a5facf016b630041f74159ff0b73090ef" title="EditCommandDialog::\lon_keyCapture_toggled" alt="" coords="429,5,587,47"/>
+<area shape="rect" id="node6" href="$d6/d1a/classMainWindow.html#ac3fd97421ad00ad6bce008f0af3d76b8" title="MainWindow::on_commandEdit\l_clicked" alt="" coords="405,103,611,144"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a12c99c649d0abfb4eb46dc7c1f4a4790" title="MainWindow::on_commandNew\l_clicked" alt="" coords="403,168,613,209"/>
+</map>

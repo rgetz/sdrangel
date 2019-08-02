@@ -1,0 +1,11 @@
+<map id="SWGSDRangel::SWGRemoteInputSettings::setDataAddress" name="SWGSDRangel::SWGRemoteInputSettings::setDataAddress">
+<area shape="rect" id="node2" href="$d3/d67/classRemoteInput.html#aad19073b787d94ca80cf51283f4b914f" title="RemoteInput::webapiFormat\lDeviceSettings" alt="" coords="525,57,712,98"/>
+<area shape="rect" id="node6" href="$d3/d67/classRemoteInput.html#a2daa512762e5b45cff01807b777b6782" title="RemoteInput::webapiReverse\lSendSettings" alt="" coords="283,115,477,157"/>
+<area shape="rect" id="node3" href="$d3/d67/classRemoteInput.html#a25455fbec09664f6f65b4c9f3d7b4d0a" title="RemoteInput::webapiSettingsGet" alt="" coords="760,5,975,32"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#a51646085f4bf1e37885042ee741b578b" title="RemoteInput::webapiSettings\lPutPatch" alt="" coords="770,57,965,98"/>
+<area shape="rect" id="node4" href="$d3/d67/classRemoteInput.html#a61ff41fe8704444f3a3a9ae0caa60bcd" title="For when the source sample rate is set externally. " alt="" coords="1023,64,1217,91"/>
+<area shape="rect" id="node7" href="$d3/d67/classRemoteInput.html#af18aff424c66d86afda03bec8ecb6ff2" title="RemoteInput::applySettings" alt="" coords="527,123,711,149"/>
+<area shape="rect" id="node8" href="$d3/d67/classRemoteInput.html#a4f1ef1abb8edb7ecd68ff0dbd01a4d2f" title="RemoteInput::handleMessage" alt="" coords="769,123,965,149"/>
+<area shape="rect" id="node9" href="$d3/d67/classRemoteInput.html#ac531255ff3648ebf37e9c529fd6d9821" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="806,173,929,200"/>
+<area shape="rect" id="node10" href="$d6/d0e/classRemoteInput_1_1MsgStartStop.html#a0b2853dc3134704c93c0f398a14ab045" title="RemoteInput::MsgStartStop\l::MsgStartStop" alt="" coords="1027,166,1213,207"/>
+</map>

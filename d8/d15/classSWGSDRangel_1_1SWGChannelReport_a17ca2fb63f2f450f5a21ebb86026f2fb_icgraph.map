@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGChannelReport::setUdpSinkReport" name="SWGSDRangel::SWGChannelReport::setUdpSinkReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a60ddbb1101a6f53e60c8797618ec1e26" title="WebAPIRequestMapper\l::resetChannelReport" alt="" coords="307,8,469,49"/>
+<area shape="rect" id="node5" href="$d2/d3d/classUDPSink.html#a63c57e08f82b398415f21a71f3d5f0d2" title="UDPSink::webapiReportGet" alt="" coords="295,75,481,102"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a56702f758a2bf1ffe330bc9828a30d21" title="WebAPIRequestMapper\l::devicesetChannelReportService" alt="" coords="529,5,747,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="795,5,957,47"/>
+<area shape="rect" id="node6" href="$d2/d3d/classUDPSink.html#a5cc20f19910e5d4ab0835c1d91c9a34a" title="UDPSink::getStreamCenter\lFrequency" alt="" coords="546,71,730,112"/>
+</map>

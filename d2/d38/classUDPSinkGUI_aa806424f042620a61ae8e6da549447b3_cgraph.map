@@ -1,0 +1,7 @@
+<map id="UDPSinkGUI::on_agc_toggled" name="UDPSinkGUI::on_agc_toggled">
+<area shape="rect" id="node2" href="$d2/d38/classUDPSinkGUI.html#a6d3cadc63d500cd1c3469f22f3327aff" title="UDPSinkGUI::applySettings\lImmediate" alt="" coords="204,71,392,112"/>
+<area shape="rect" id="node3" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a5b1883b310e064b49f26e8a602cf8852" title="UDPSink::MsgConfigureUDPSource\l::create" alt="" coords="440,5,676,47"/>
+<area shape="rect" id="node5" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="474,71,642,112"/>
+<area shape="rect" id="node6" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="483,137,633,163"/>
+<area shape="rect" id="node4" href="$d0/d2d/classUDPSink_1_1MsgConfigureUDPSource.html#a4b1c6fb7455d198fe8b59c9fa067e4de" title="UDPSink::MsgConfigureUDPSource\l::MsgConfigureUDPSource" alt="" coords="724,5,960,47"/>
+</map>

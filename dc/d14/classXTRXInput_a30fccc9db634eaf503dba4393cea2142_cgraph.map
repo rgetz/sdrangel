@@ -1,0 +1,6 @@
+<map id="XTRXInput::apply_gain_auto" name="XTRXInput::apply_gain_auto">
+<area shape="rect" id="node2" href="$dc/d14/classXTRXInput.html#a3dab34c67cdd353287bb494026ccd14d" title="XTRXInput::apply_gain_lna" alt="" coords="245,5,427,32"/>
+<area shape="rect" id="node4" href="$dc/d14/classXTRXInput.html#a0b95e0c4c44612ff1a7abaf71c5c2a65" title="XTRXInput::apply_gain_tia" alt="" coords="247,56,425,83"/>
+<area shape="rect" id="node5" href="$dd/d06/classDeviceXTRX.html#ae9358a8756a96a4b5e31dc456c793ef5" title="DeviceXTRX::getAutoGains" alt="" coords="243,107,429,133"/>
+<area shape="rect" id="node3" href="$dd/d06/classDeviceXTRX.html#ac3826954dcdcd14386ab26226ae5df8b" title="DeviceXTRX::getDevice" alt="" coords="477,31,644,57"/>
+</map>

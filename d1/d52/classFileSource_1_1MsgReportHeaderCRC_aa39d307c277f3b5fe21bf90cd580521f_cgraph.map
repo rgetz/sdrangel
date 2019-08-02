@@ -1,0 +1,14 @@
+<map id="FileSource::MsgReportHeaderCRC::MsgReportHeaderCRC" name="FileSource::MsgReportHeaderCRC::MsgReportHeaderCRC">
+<area shape="rect" id="node2" href="$d9/db6/classFileSource.html#a9f1e65f355ddddb7b04dbb2f3478b97b" title="FileSource::FileSource" alt="" coords="256,87,411,113"/>
+<area shape="rect" id="node9" href="$d9/db6/classFileSource.html#aeab4d17949bd60b44cb5b33b18b26b94" title="FileSource::~FileSource" alt="" coords="252,144,415,171"/>
+<area shape="rect" id="node3" href="$dd/db6/classDeviceAPI.html#ab843437dfe39ff077923d0a5f8a86504" title="Add a channel source (Tx) " alt="" coords="474,5,677,32"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html#abe9434ae5ab458cd225b90e470beea8f" title="DeviceAPI::addChannelSourceAPI" alt="" coords="463,56,688,83"/>
+<area shape="rect" id="node8" href="$d9/db6/classFileSource.html#aba54f92d5ea2aa7350ef32c1d9350c38" title="FileSource::networkManager\lFinished" alt="" coords="481,107,669,149"/>
+<area shape="rect" id="node4" href="$d1/d90/classDSPDeviceSinkEngine.html#add7dc0f3dbe9265ebefec89ed197feac" title="Add a baseband sample source that will run on its own thread. " alt="" coords="769,15,926,57"/>
+<area shape="rect" id="node5" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1007,157,1185,184"/>
+<area shape="rect" id="node7" href="$dd/db6/classDeviceAPI.html#a000404804325054f87ca20fea064b464" title="DeviceAPI::renumerateChannels" alt="" coords="741,97,954,124"/>
+<area shape="rect" id="node10" href="$dd/db6/classDeviceAPI.html#aee2ad996d3dbf9127027e7b1f1b80b91" title="Remove a channel source (Tx) " alt="" coords="483,238,667,279"/>
+<area shape="rect" id="node12" href="$dd/db6/classDeviceAPI.html#af40e6139cd028a0a92563529c857e490" title="DeviceAPI::removeChannel\lSourceAPI" alt="" coords="483,173,667,214"/>
+<area shape="rect" id="node11" href="$d1/d90/classDSPDeviceSinkEngine.html#a15d2c082fc3c54786cc20086d797411a" title="Remove a baseband sample source that runs on its own thread. " alt="" coords="763,234,931,275"/>
+<area shape="rect" id="node13" href="$d7/d02/classChannelAPI.html#a10ebbc6f7aba8071f24a09eea49145d9" title="ChannelAPI::setIndexInDeviceSet" alt="" coords="736,180,959,207"/>
+</map>

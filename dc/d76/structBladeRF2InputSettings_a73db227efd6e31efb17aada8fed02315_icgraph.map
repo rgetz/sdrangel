@@ -1,0 +1,8 @@
+<map id="BladeRF2InputSettings::deserialize" name="BladeRF2InputSettings::deserialize">
+<area shape="rect" id="node2" href="$d8/d0b/classBladeRF2InputGui.html#a4be74208f2c685776fa42aa4e27a8252" title="BladeRF2InputGui::deserialize" alt="" coords="211,5,409,32"/>
+<area shape="rect" id="node3" href="$d6/d2d/classBladeRF2Input.html#a10d699a4b3a24e277647dac4461a8ae5" title="BladeRF2Input::deserialize" alt="" coords="221,56,399,83"/>
+<area shape="rect" id="node4" href="$d6/d2d/classBladeRF2Input.html#a0b21f97f9ba087f940dcbd8edd0ab5be" title="BladeRF2Input::setThread" alt="" coords="457,56,632,83"/>
+<area shape="rect" id="node5" href="$d6/d2d/classBladeRF2Input.html#ac8fe532c1445e4004631e440e66767ab" title="BladeRF2Input::moveThread\lToBuddy" alt="" coords="680,49,869,90"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#ac6575d6470cbb539403945656dd15990" title="BladeRF2Input::closeDevice" alt="" coords="917,56,1107,83"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#a137bd3203ba4210981ca937a27c54516" title="BladeRF2Input::~BladeRF2\lInput" alt="" coords="1155,49,1337,90"/>
+</map>

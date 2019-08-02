@@ -1,0 +1,6 @@
+<map id="SWGSDRangel::SWGSDRPlaySettings::setReverseApiAddress" name="SWGSDRangel::SWGSDRPlaySettings::setReverseApiAddress">
+<area shape="rect" id="node2" href="$dc/d8c/classSDRPlayInput.html#abe9ed9b5436aa6315266d03f0d9a0720" title="SDRPlayInput::webapiFormat\lDeviceSettings" alt="" coords="311,27,507,69"/>
+<area shape="rect" id="node3" href="$dc/d8c/classSDRPlayInput.html#a3f574cbab08bc4d1717b7917e30f06e1" title="SDRPlayInput::webapiSettingsGet" alt="" coords="555,5,779,32"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a053171f3d0d513b6d1d69b99aba6c4e1" title="SDRPlayInput::webapiSettings\lPutPatch" alt="" coords="565,57,768,98"/>
+<area shape="rect" id="node4" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="827,35,1031,61"/>
+</map>

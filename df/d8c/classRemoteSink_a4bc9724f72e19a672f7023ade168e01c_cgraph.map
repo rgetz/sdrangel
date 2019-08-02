@@ -1,0 +1,13 @@
+<map id="RemoteSink::deserialize" name="RemoteSink::deserialize">
+<area shape="rect" id="node2" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a9c8900fed8b734275981dfeee87eba49" title="RemoteSink::MsgConfigure\lRemoteSink::create" alt="" coords="217,16,400,57"/>
+<area shape="rect" id="node4" href="$d2/d2e/structRemoteSinkSettings.html#a8a45283cd2836a80aaadb5c09334d947" title="RemoteSinkSettings\l::deserialize" alt="" coords="237,191,380,232"/>
+<area shape="rect" id="node6" href="$d2/d2e/structRemoteSinkSettings.html#a1eeaffeb4ca1910bb5b0bdc70de91ba6" title="RemoteSinkSettings\l::resetToDefaults" alt="" coords="504,71,647,112"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="234,257,383,283"/>
+<area shape="rect" id="node3" href="$db/d56/classRemoteSink_1_1MsgConfigureRemoteSink.html#a37287d810857bd12966cd64669f73ac0" title="RemoteSink::MsgConfigure\lRemoteSink::MsgConfigureRemoteSink" alt="" coords="448,5,703,47"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="510,136,641,177"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="510,201,641,243"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="510,267,641,308"/>
+<area shape="rect" id="node10" href="$d2/d0e/classSimpleDeserializer.html#a920ca467e3d205967331972b99f85e73" title="SimpleDeserializer\l::readString" alt="" coords="510,332,641,373"/>
+<area shape="rect" id="node11" href="$d2/d0e/classSimpleDeserializer.html#aa674bc18555bace509f25ca5386042b9" title="SimpleDeserializer\l::readBool" alt="" coords="510,397,641,439"/>
+<area shape="rect" id="node9" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="751,332,881,373"/>
+</map>

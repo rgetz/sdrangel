@@ -1,0 +1,12 @@
+<map id="DATVDemodGUI::on_deltaFrequency_changed" name="DATVDemodGUI::on_deltaFrequency_changed">
+<area shape="rect" id="node2" href="$d7/d6a/classDATVDemodGUI.html#aab4982d9f985c4f79171e488d89d0c36" title="DATVDemodGUI::applySettings" alt="" coords="296,209,507,235"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="601,5,775,47"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="314,260,489,301"/>
+<area shape="rect" id="node3" href="$de/d0b/classDATVDemod_1_1MsgConfigureChannelizer.html#a414b7afb44e29d8e4dbaca015b30580c" title="DATVDemod::MsgConfigureChannelizer\l::create" alt="" coords="559,71,817,112"/>
+<area shape="rect" id="node4" href="$d1/d2a/classDATVDemod_1_1MsgConfigureDATVDemod.html#ad690ec7e6bdb74147cb60ff481de4285" title="DATVDemod::MsgConfigureDATVDemod\l::create" alt="" coords="555,136,821,177"/>
+<area shape="rect" id="node5" href="$d1/d4d/structDATVDemodSettings.html#a9ff17737adbd62791acbf05445d1b213" title="DATVDemodSettings::\ldebug" alt="" coords="610,201,766,243"/>
+<area shape="rect" id="node7" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="605,267,771,294"/>
+<area shape="rect" id="node8" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="604,319,772,360"/>
+<area shape="rect" id="node9" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="613,385,763,411"/>
+<area shape="rect" id="node10" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="597,435,779,462"/>
+</map>

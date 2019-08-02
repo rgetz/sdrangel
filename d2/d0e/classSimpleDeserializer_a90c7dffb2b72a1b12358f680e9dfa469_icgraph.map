@@ -1,0 +1,36 @@
+<map id="SimpleDeserializer::readU64" name="SimpleDeserializer::readU64">
+<area shape="rect" id="node2" href="$d5/dc0/structFileSinkSettings.html#a33e8403fac1f1e3af3f2eed476044129" title="FileSinkSettings::deserialize" alt="" coords="184,56,371,83"/>
+<area shape="rect" id="node6" href="$d7/d57/structRemoteOutputSettings.html#ad8d2fe87379056faecd9668f4aa6e7a5" title="RemoteOutputSettings\l::deserialize" alt="" coords="200,166,355,207"/>
+<area shape="rect" id="node10" href="$d9/d3e/structHackRFOutputSettings.html#a38ada30b6cf724e1f6869012de06f0c4" title="HackRFOutputSettings\l::deserialize" alt="" coords="198,267,357,309"/>
+<area shape="rect" id="node14" href="$da/d8f/structHackRFInputSettings.html#a66d4db64a14307c093f95b144a713e0b" title="HackRFInputSettings\l::deserialize" alt="" coords="203,369,351,410"/>
+<area shape="rect" id="node18" href="$da/dfe/structPlutoSDROutputSettings.html#ae625361129a4bf06cb9242c1cdb5a893" title="PlutoSDROutputSettings\l::deserialize" alt="" coords="193,461,361,502"/>
+<area shape="rect" id="node22" href="$d1/dc7/classPreset.html#a6234f00b24f130c28318063d185e0ba1" title="Preset::deserialize" alt="" coords="212,552,343,579"/>
+<area shape="rect" id="node30" href="$d6/d9a/structPlutoSDRInputSettings.html#abe6b1b60f99628fe25fe5166b5781df4" title="PlutoSDRInputSettings\l::deserialize" alt="" coords="198,603,357,645"/>
+<area shape="rect" id="node34" href="$d2/d0e/classSimpleDeserializer.html#a436c98e938644730b12cc637a6c80222" title="SimpleDeserializer\l::dump" alt="" coords="212,669,343,710"/>
+<area shape="rect" id="node35" href="$d0/d7b/classSampleSourceSerializer.html#a008d941e710ff3f81918661d9b06f539" title="SampleSourceSerializer\l::readSerializedData" alt="" coords="197,734,358,775"/>
+<area shape="rect" id="node3" href="$de/de4/classFileSinkGui.html#abcaec46401a2d238c272d730cd7e512e" title="FileSinkGui::deserialize" alt="" coords="439,5,598,32"/>
+<area shape="rect" id="node4" href="$d6/dc4/classFileSinkOutput.html#a1ffd6a7b77cb39bdce8d8ef5ac7854a4" title="FileSinkOutput::deserialize" alt="" coords="429,56,608,83"/>
+<area shape="rect" id="node5" href="$d6/d22/classFileSinkOutput_1_1MsgReportFileSinkStreamTiming.html#aeb9f2a8da8a97780bf7e12e813aaae82" title="FileSinkOutput::MsgReport\lFileSinkStreamTiming::MsgReport\lFileSinkStreamTiming" alt="" coords="703,41,925,97"/>
+<area shape="rect" id="node7" href="$d8/d08/classRemoteOutputSinkGui.html#a2c7297c03ee5b84b35c954fbcfa0576d" title="RemoteOutputSinkGui\l::deserialize" alt="" coords="442,107,595,149"/>
+<area shape="rect" id="node8" href="$d8/daf/classRemoteOutput.html#aa445b61c80f04687d19441ff9764c629" title="RemoteOutput::deserialize" alt="" coords="430,173,607,200"/>
+<area shape="rect" id="node9" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="667,159,961,215"/>
+<area shape="rect" id="node11" href="$d0/d64/classHackRFOutputGui.html#aaba841a3f16613a6f60a5d077c7c782c" title="HackRFOutputGui::deserialize" alt="" coords="419,224,619,251"/>
+<area shape="rect" id="node12" href="$dc/df6/classHackRFOutput.html#aa80c7c43778181f226f6b93f88b00f98" title="HackRFOutput::deserialize" alt="" coords="429,275,609,301"/>
+<area shape="rect" id="node13" href="$dd/dfd/classHackRFOutput_1_1MsgReportHackRF.html#a5b710bd90a6c3c2e7c11e658594f5303" title="HackRFOutput::MsgReportHack\lRF::MsgReportHackRF" alt="" coords="707,267,921,309"/>
+<area shape="rect" id="node15" href="$df/d85/classHackRFInputGui.html#a07536ca7e66cbafd0a52a5fb04f0d186" title="HackRFInputGui::deserialize" alt="" coords="423,325,614,352"/>
+<area shape="rect" id="node16" href="$d2/d57/classHackRFInput.html#a9bc5c49863551119967197a4e3348ad5" title="HackRFInput::deserialize" alt="" coords="433,376,604,403"/>
+<area shape="rect" id="node17" href="$dc/d72/classHackRFInput_1_1MsgFileRecord.html#ad7f973dae01345d8d7e1b6606d8e497e" title="HackRFInput::MsgFileRecord\l::MsgFileRecord" alt="" coords="716,369,912,410"/>
+<area shape="rect" id="node19" href="$d2/d66/classPlutoSDROutputGUI.html#ae1839f941adebe805c7e584a454e6e6f" title="PlutoSDROutputGUI::\ldeserialize" alt="" coords="443,427,595,469"/>
+<area shape="rect" id="node20" href="$da/dff/classPlutoSDROutput.html#a5b5d0f1ecf6042fa889ba227bdcc9023" title="PlutoSDROutput::deserialize" alt="" coords="423,493,614,520"/>
+<area shape="rect" id="node21" href="$da/d5d/classPlutoSDROutput_1_1MsgStartStop.html#a5f1f592f6e818d950c7c1e031495c4df" title="PlutoSDROutput::MsgStart\lStop::MsgStartStop" alt="" coords="723,486,905,527"/>
+<area shape="rect" id="node23" href="$dc/dd8/classWebAPIAdapterSrv.html#aec7753004075357373512f4d077f8fb2" title="WebAPIAdapterSrv::instance\lPresetFilePut" alt="" coords="422,545,615,586"/>
+<area shape="rect" id="node24" href="$d5/df4/classMainSettings.html#ae824f966b4aaa03ae18d7b3eb368a9d9" title="MainSettings::load" alt="" coords="453,611,584,637"/>
+<area shape="rect" id="node29" href="$d6/d1a/classMainWindow.html#a71d9dab262e232e3cecc05fa66a40773" title="MainWindow::on_presetImport\l_clicked" alt="" coords="419,662,618,703"/>
+<area shape="rect" id="node25" href="$db/d47/classMainCore.html#aa80be032b3089284b9441315e79d31dc" title="MainCore::loadSettings" alt="" coords="735,585,893,612"/>
+<area shape="rect" id="node27" href="$d6/d1a/classMainWindow.html#a9bb1f3b7f6b5360abfd2dc01fc1c8930" title="MainWindow::loadSettings" alt="" coords="725,636,903,663"/>
+<area shape="rect" id="node26" href="$db/d47/classMainCore.html#a6dc3fdfc115b54f020748051342ea83e" title="MainCore::MainCore" alt="" coords="1028,585,1171,612"/>
+<area shape="rect" id="node28" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1009,636,1189,663"/>
+<area shape="rect" id="node31" href="$d7/df0/classPlutoSDRInputGui.html#a8df1f1357b571c39edd2049cf607286e" title="PlutoSDRInputGui::deserialize" alt="" coords="419,728,619,755"/>
+<area shape="rect" id="node32" href="$d2/d3a/classPlutoSDRInput.html#a76f423849190473ad9a7d31b910a39a2" title="PlutoSDRInput::deserialize" alt="" coords="429,779,609,805"/>
+<area shape="rect" id="node33" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="715,771,913,813"/>
+</map>

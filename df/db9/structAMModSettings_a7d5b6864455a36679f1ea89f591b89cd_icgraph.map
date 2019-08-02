@@ -1,0 +1,10 @@
+<map id="AMModSettings::serialize" name="AMModSettings::serialize">
+<area shape="rect" id="node2" href="$d8/d1b/classAMModGUI.html#ab0747f508dbe111887e868543a852ea6" title="AMModGUI::serialize" alt="" coords="262,5,409,32"/>
+<area shape="rect" id="node3" href="$db/d93/classAMMod.html#ad5d90f07d5ce1ef1315bfe32a3fca0f5" title="AMMod::serialize" alt="" coords="274,56,397,83"/>
+<area shape="rect" id="node5" href="$df/db9/structAMModSettings.html#a000e9ae91285a9f0b92dc4d77fab8883" title="AMModSettings::setCWKeyerGUI" alt="" coords="224,107,447,133"/>
+<area shape="rect" id="node4" href="$db/d93/classAMMod.html#a573d7af1d5f467ac6f97f96eda2b6260" title="Applies to a default stream. " alt="" coords="495,56,688,83"/>
+<area shape="rect" id="node6" href="$d8/d1b/classAMModGUI.html#a4e7e74d54142c4cca00dbf7982337e34" title="AMModGUI::AMModGUI" alt="" coords="507,107,675,133"/>
+<area shape="rect" id="node7" href="$d8/d1b/classAMModGUI.html#af4e3fcb6a85bbc435962cf611042ec48" title="AMModGUI::create" alt="" coords="736,107,871,133"/>
+<area shape="rect" id="node8" href="$dc/deb/classAMModPlugin.html#a8b18085458bf79da454dd053a0056b7d" title="AMModPlugin::createTxChannelGUI" alt="" coords="919,107,1153,133"/>
+<area shape="rect" id="node9" href="$dc/deb/classAMModPlugin.html#ab1a8b6a815ba9de2573a57e2e07fccf3" title="AMModPlugin::initPlugin" alt="" coords="1201,107,1365,133"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="plugins/channelrx/demodlora/loraplugin.cpp" name="plugins/channelrx/demodlora/loraplugin.cpp">
+<area shape="rect" id="node3" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="216,169,339,196"/>
+<area shape="rect" id="node9" href="$de/dc2/loraplugin_8h.html" title="loraplugin.h" alt="" coords="104,169,192,196"/>
+<area shape="rect" id="node10" href="$d0/d6d/lorademodgui_8h.html" title="lorademodgui.h" alt="" coords="645,169,755,196"/>
+<area shape="rect" id="node24" href="$d2/d46/lorademod_8h.html" title="lorademod.h" alt="" coords="1547,95,1640,121"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1127,319,1196,345"/>
+<area shape="rect" id="node7" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="72,244,227,271"/>
+<area shape="rect" id="node11" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="1075,244,1245,271"/>
+<area shape="rect" id="node14" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="547,244,669,271"/>
+<area shape="rect" id="node16" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="379,244,522,271"/>
+<area shape="rect" id="node19" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1321,244,1463,271"/>
+<area shape="rect" id="node22" href="$d2/d06/lorademodsettings_8h.html" title="lorademodsettings.h" alt="" coords="693,244,832,271"/>
+<area shape="rect" id="node18" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="333,319,481,345"/>
+<area shape="rect" id="node26" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="1313,169,1493,196"/>
+<area shape="rect" id="node29" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1488,244,1595,271"/>
+<area shape="rect" id="node31" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="856,244,1000,271"/>
+<area shape="rect" id="node32" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="1593,169,1671,196"/>
+<area shape="rect" id="node33" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="1705,169,1828,196"/>
+<area shape="rect" id="node35" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="2061,169,2145,196"/>
+<area shape="rect" id="node27" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1721,244,1831,271"/>
+<area shape="rect" id="node36" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="2094,244,2146,271"/>
+</map>

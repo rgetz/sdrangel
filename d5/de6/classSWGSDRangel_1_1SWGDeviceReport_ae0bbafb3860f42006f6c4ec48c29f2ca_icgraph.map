@@ -1,0 +1,7 @@
+<map id="SWGSDRangel::SWGDeviceReport::setSdrPlayReport" name="SWGSDRangel::SWGDeviceReport::setSdrPlayReport">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a5a11347f1590bbcaef232e793ad73f63" title="WebAPIRequestMapper\l::resetDeviceReport" alt="" coords="314,5,477,47"/>
+<area shape="rect" id="node5" href="$dc/d8c/classSDRPlayInput.html#a71c6a12533ea3e05ee0a63644e1b9fbd" title="SDRPlayInput::webapiReportGet" alt="" coords="288,71,503,98"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3e0051da99108cd9c809d8a17c8be0b4" title="WebAPIRequestMapper\l::devicesetDeviceReportService" alt="" coords="551,5,761,47"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="809,5,972,47"/>
+<area shape="rect" id="node6" href="$dc/d8c/classSDRPlayInput.html#a5b83d2f0401e78d42d152285c401973e" title="For when the source sample rate is set externally. " alt="" coords="554,71,758,98"/>
+</map>

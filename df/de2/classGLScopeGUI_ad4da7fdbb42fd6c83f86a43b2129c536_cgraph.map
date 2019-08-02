@@ -1,0 +1,34 @@
+<map id="GLScopeGUI::setBuddies" name="GLScopeGUI::setBuddies">
+<area shape="rect" id="node2" href="$d7/dcf/classScopeVis.html#ac317f48cce43d6a7c03b4ae8fb99013e" title="ScopeVis::addTrace" alt="" coords="272,83,412,110"/>
+<area shape="rect" id="node6" href="$d7/dcf/classScopeVis.html#a6b3c6c65fc245a80eea5cb30ad5cacbc" title="ScopeVis::addTrigger" alt="" coords="269,210,415,237"/>
+<area shape="rect" id="node8" href="$d7/dcf/classScopeVis.html#a96c52e04a7dda17729fa1b4c7b0fb3b3" title="ScopeVis::configure" alt="" coords="273,145,411,171"/>
+<area shape="rect" id="node10" href="$df/de2/classGLScopeGUI.html#a1ea3005b065bba8b2cfbe529401b4842" title="GLScopeGUI::fillProjection\lCombo" alt="" coords="253,275,431,316"/>
+<area shape="rect" id="node11" href="$df/de2/classGLScopeGUI.html#a0f15228ae7fb3a6c496436aaa44d509b" title="GLScopeGUI::fillTraceData" alt="" coords="251,341,433,367"/>
+<area shape="rect" id="node13" href="$df/de2/classGLScopeGUI.html#ade0f66bb6ccbd06981677aa8eae3ca3f" title="GLScopeGUI::fillTriggerData" alt="" coords="247,391,437,418"/>
+<area shape="rect" id="node15" href="$d2/d02/classGLScope.html#a69a2326ab273bbe0f6eed2fbd181434e" title="GLScope::getTraceSize" alt="" coords="784,577,945,603"/>
+<area shape="rect" id="node16" href="$df/de2/classGLScopeGUI.html#a696e6d192229f7953f79ea0dc03d0a8b" title="GLScopeGUI::on_scope\l_preTriggerChanged" alt="" coords="260,493,424,535"/>
+<area shape="rect" id="node23" href="$df/de2/classGLScopeGUI.html#ad4affb46a75b8aa873d46402a215907f" title="GLScopeGUI::on_scope\l_sampleRateChanged" alt="" coords="260,779,424,820"/>
+<area shape="rect" id="node24" href="$df/de2/classGLScopeGUI.html#acd3c05136c918a3dd3268b00600acd98" title="GLScopeGUI::setTimeOfsDisplay" alt="" coords="507,653,727,679"/>
+<area shape="rect" id="node25" href="$df/de2/classGLScopeGUI.html#ac0d36e3d7c5e1e0b421473cd3aa810fd" title="GLScopeGUI::setTimeScale\lDisplay" alt="" coords="523,704,711,745"/>
+<area shape="rect" id="node27" href="$df/de2/classGLScopeGUI.html#a9975b7aa0bc2ab98ca02582f922f1462" title="GLScopeGUI::setTraceDelay\lDisplay" alt="" coords="521,887,714,928"/>
+<area shape="rect" id="node28" href="$df/de2/classGLScopeGUI.html#a43ee5e1120b7ec1baec4018e0e2355ac" title="GLScopeGUI::setTraceLenDisplay" alt="" coords="505,602,729,629"/>
+<area shape="rect" id="node30" href="$df/de2/classGLScopeGUI.html#a929d79216979928c603a883573dadc51" title="GLScopeGUI::on_scope\l_traceSizeChanged" alt="" coords="260,611,424,652"/>
+<area shape="rect" id="node31" href="$df/de2/classGLScopeGUI.html#ab5a1b704167da1f76939b3746ba97ad8" title="GLScopeGUI::setAmpOfsDisplay" alt="" coords="233,895,451,922"/>
+<area shape="rect" id="node32" href="$df/de2/classGLScopeGUI.html#a10cffed48f9ac7dd0e0be7b89d2904be" title="GLScopeGUI::setAmpScaleDisplay" alt="" coords="227,946,457,973"/>
+<area shape="rect" id="node33" href="$d2/d02/classGLScope.html#a800878acac32efbcd62bf30830b30b73" title="GLScope::setDisplayMode" alt="" coords="253,997,431,1023"/>
+<area shape="rect" id="node3" href="$d4/dc8/classScopeVis_1_1MsgScopeVisNGAddTrace.html#aeffe1cccdc193f48477afe1f184357d8" title="ScopeVis::MsgScopeVisNGAdd\lTrace::create" alt="" coords="512,5,723,47"/>
+<area shape="rect" id="node4" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="533,188,701,229"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="543,71,692,98"/>
+<area shape="rect" id="node7" href="$d2/d1c/classScopeVis_1_1MsgScopeVisNGAddTrigger.html#acd4666b2956a71d6a941fe0dccb8f31c" title="ScopeVis::MsgScopeVisNGAdd\lTrigger::create" alt="" coords="512,253,723,295"/>
+<area shape="rect" id="node9" href="$d6/dab/classScopeVis_1_1MsgConfigureScopeVisNG.html#a240ffb0f4ef94d4d849678b27bb57d29" title="ScopeVis::MsgConfigureScope\lVisNG::create" alt="" coords="515,123,719,164"/>
+<area shape="rect" id="node12" href="$df/dbc/structScopeVis_1_1TraceData.html#abf33b26a525333356eba9196114c3338" title="ScopeVis::TraceData\l::setColor" alt="" coords="544,319,691,360"/>
+<area shape="rect" id="node14" href="$d8/d4d/structScopeVis_1_1TriggerData.html#ad4c0418b450c7d5e11501f201c6a9e15" title="ScopeVis::TriggerData\l::setColor" alt="" coords="540,384,695,425"/>
+<area shape="rect" id="node17" href="$df/de2/classGLScopeGUI.html#a64d70b23459aee20ec8bccbbed349a7a" title="GLScopeGUI::setTrigPreDisplay" alt="" coords="511,551,723,578"/>
+<area shape="rect" id="node18" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="845,777,885,803"/>
+<area shape="rect" id="node19" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1000,777,1108,803"/>
+<area shape="rect" id="node20" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1156,799,1304,840"/>
+<area shape="rect" id="node21" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1360,747,1479,774"/>
+<area shape="rect" id="node22" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1352,799,1487,840"/>
+<area shape="rect" id="node29" href="$df/de2/classGLScopeGUI.html#a7b125a6b003a9ff4edecbfe1c6bc7793" title="GLScopeGUI::setTrigDelay\lDisplay" alt="" coords="526,769,709,811"/>
+<area shape="rect" id="node26" href="$d2/d02/classGLScope.html#ab03af42835bbe46f008b9b9bdc555121" title="GLScope::getSampleRate" alt="" coords="777,711,952,738"/>
+</map>

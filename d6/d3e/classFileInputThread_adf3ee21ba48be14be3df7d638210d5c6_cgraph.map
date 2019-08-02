@@ -1,0 +1,13 @@
+<map id="FileInputThread::~FileInputThread" name="FileInputThread::~FileInputThread">
+<area shape="rect" id="node2" href="$d6/d3e/classFileInputThread.html#ac8338aa304952cd102dfac7d65b2aab2" title="FileInputThread::stopWork" alt="" coords="232,22,408,48"/>
+<area shape="rect" id="node3" href="$d6/d3e/classFileInputThread.html#af9f52c883b39484c898383604ee13faf" title="FileInputThread::tick" alt="" coords="456,214,597,240"/>
+<area shape="rect" id="node4" href="$d6/d3e/classFileInputThread.html#aeaa20c9d18f516edc2fa526a150a22c4" title="FileInputThread::setBuffers" alt="" coords="1340,127,1520,154"/>
+<area shape="rect" id="node5" href="$d6/d3e/classFileInputThread.html#aa4dc3f048b097e85b0279dd6444d14f7" title="FileInputThread::writeTo\lSampleFifo" alt="" coords="656,240,819,281"/>
+<area shape="rect" id="node7" href="$d9/d04/classFileInputThread_1_1MsgReportEOF.html#a53c2a5b60e1b6f2ee60ebb134d8909f7" title="FileInputThread::MsgReport\lEOF::create" alt="" coords="645,174,829,216"/>
+<area shape="rect" id="node12" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="663,123,812,150"/>
+<area shape="rect" id="node6" href="$d0/d92/classSampleSinkFifo.html#a00f37394c7a6f2ccd0cf9f50b12534c7" title="SampleSinkFifo::write" alt="" coords="894,247,1045,274"/>
+<area shape="rect" id="node8" href="$d9/d04/classFileInputThread_1_1MsgReportEOF.html#a34bc7f9c57fb217e7fabfda018725861" title="FileInputThread::MsgReport\lEOF::MsgReportEOF" alt="" coords="877,120,1061,161"/>
+<area shape="rect" id="node9" href="$d6/d3e/classFileInputThread.html#a1dc40200e68a14a27f19970119e44b53" title="FileInputThread::FileInput\lThread" alt="" coords="1115,178,1286,220"/>
+<area shape="rect" id="node10" href="$d6/d3e/classFileInputThread.html#a895f8c78dd51c88746e926294d82d4d7" title="FileInputThread::startWork" alt="" coords="1112,247,1289,274"/>
+<area shape="rect" id="node11" href="$d6/d3e/classFileInputThread.html#ab8051f2b9b99367b980cb873af8fd0ca" title="FileInputThread::setSample\lRateAndSize" alt="" coords="1109,61,1292,102"/>
+</map>

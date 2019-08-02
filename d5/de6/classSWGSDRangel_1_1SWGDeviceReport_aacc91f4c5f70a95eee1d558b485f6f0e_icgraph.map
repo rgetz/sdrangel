@@ -1,0 +1,5 @@
+<map id="SWGSDRangel::SWGDeviceReport::getKiwiSdrReport" name="SWGSDRangel::SWGDeviceReport::getKiwiSdrReport">
+<area shape="rect" id="node2" href="$d4/dbc/classKiwiSDRInput.html#a917bf80b0ff5a23626ee8a16d1a0d2f8" title="KiwiSDRInput::webapiFormat\lDeviceReport" alt="" coords="288,5,483,47"/>
+<area shape="rect" id="node3" href="$d4/dbc/classKiwiSDRInput.html#a9a57a0363d365eefd7967ed9dc0323d7" title="KiwiSDRInput::webapiReportGet" alt="" coords="531,42,745,69"/>
+<area shape="rect" id="node4" href="$d4/dbc/classKiwiSDRInput.html#a0b85aea2cf2ba4e6546133c18bd8a960" title="For when the source sample rate is set externally. " alt="" coords="793,42,996,69"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="RemoteInput" name="RemoteInput">
+<area shape="rect" id="node2" href="$db/d0c/classDeviceSampleSource.html" title="DeviceSampleSource" alt="" coords="326,676,474,703"/>
+<area shape="rect" id="node16" href="$d2/d3b/classDSPDeviceSourceEngine.html" title="DSPDeviceSourceEngine" alt="" coords="682,617,854,644"/>
+<area shape="rect" id="node3" href="$d3/df0/classMessageQueue.html" title="MessageQueue" alt="" coords="13,460,127,487"/>
+<area shape="rect" id="node8" href="$df/d80/classDSPDeviceMIMOEngine.html" title="DSPDeviceMIMOEngine" alt="" coords="685,451,851,477"/>
+<area shape="rect" id="node11" href="$d1/d50/classDeviceSampleMIMO.html" title="DeviceSampleMIMO" alt="" coords="329,493,471,520"/>
+<area shape="rect" id="node12" href="$d8/df9/classBasebandSampleSink.html" title="BasebandSampleSink" alt="" coords="325,127,475,153"/>
+<area shape="rect" id="node13" href="$d1/d90/classDSPDeviceSinkEngine.html" title="DSPDeviceSinkEngine" alt="" coords="689,219,847,245"/>
+<area shape="rect" id="node14" href="$d9/d18/classDeviceSampleSink.html" title="DeviceSampleSink" alt="" coords="333,177,467,204"/>
+<area shape="rect" id="node21" href="$d9/dd6/classRemoteInputUDPHandler.html" title="RemoteInputUDPHandler" alt="" coords="1433,856,1604,883"/>
+<area shape="rect" id="node4" href="$d0/d92/classSampleSinkFifo.html" title="SampleSinkFifo" alt="" coords="13,865,127,892"/>
+<area shape="rect" id="node5" href="$dc/dcc/structRemoteInputSettings.html" title="RemoteInputSettings" alt="" coords="1446,535,1591,561"/>
+<area shape="rect" id="node6" href="$dd/db6/classDeviceAPI.html" title="DeviceAPI" alt="" coords="1150,451,1235,477"/>
+<area shape="rect" id="node7" href="$dc/dd6/classPluginInterface.html" title="PluginInterface" alt="" coords="713,400,823,427"/>
+<area shape="rect" id="node9" href="$d8/d92/classSyncMessenger.html" title="SyncMessenger" alt="" coords="342,316,458,343"/>
+<area shape="rect" id="node10" href="$d6/d28/classMessage.html" title="Message" alt="" coords="33,67,107,93"/>
+<area shape="rect" id="node28" href="$da/d2c/classFileRecord.html" title="FileRecord" alt="" coords="952,148,1037,175"/>
+<area shape="rect" id="node15" href="$d6/d8d/classSampleSourceFifo.html" title="SampleSourceFifo" alt="" coords="5,16,135,43"/>
+<area shape="rect" id="node17" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int32_t, int64_t, 1024 \&gt;" alt="" coords="320,727,480,769"/>
+<area shape="rect" id="node18" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l float, double, 128 \&gt;" alt="" coords="330,545,470,586"/>
+<area shape="rect" id="node19" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l double, double, 128 \&gt;" alt="" coords="325,610,475,651"/>
+<area shape="rect" id="node20" href="$d6/d80/classPluginInstanceGUI.html" title="PluginInstanceGUI" alt="" coords="702,349,834,376"/>
+<area shape="rect" id="node22" href="$d8/d6d/classRemoteInputBuffer.html" title="RemoteInputBuffer" alt="" coords="1127,1055,1259,1081"/>
+<area shape="rect" id="node23" href="$d3/d19/structRemoteMetaDataFEC.html" title="RemoteMetaDataFEC" alt="" coords="692,980,844,1007"/>
+<area shape="rect" id="node24" href="$d2/d81/classMovingAverageUtil.html" title="MovingAverageUtil\&lt;\l int, int, 10 \&gt;" alt="" coords="698,1042,838,1083"/>
+<area shape="rect" id="node25" href="$d2/d0a/structRemoteInputBuffer_1_1BufferFrame.html" title="RemoteInputBuffer::\lBufferFrame" alt="" coords="698,1107,838,1149"/>
+<area shape="rect" id="node26" href="$dc/dd6/structRemoteProtectedBlock.html" title="RemoteProtectedBlock" alt="" coords="321,1149,479,1176"/>
+<area shape="rect" id="node27" href="$d5/de2/structRemoteInputBuffer_1_1DecoderSlot.html" title="RemoteInputBuffer::\lDecoderSlot" alt="" coords="698,1175,838,1217"/>
+</map>

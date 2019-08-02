@@ -1,0 +1,31 @@
+<map id="plugins/channelrx/demodatv/atvdemod.h" name="plugins/channelrx/demodatv/atvdemod.h">
+<area shape="rect" id="node5" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="757,169,937,196"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1019,244,1126,271"/>
+<area shape="rect" id="node15" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="2712,244,2856,271"/>
+<area shape="rect" id="node19" href="$df/d0d/devicesamplesource_8h.html" title="dsp/devicesamplesource.h" alt="" coords="504,169,681,196"/>
+<area shape="rect" id="node22" href="$d7/d45/dspcommands_8h.html" title="dsp/dspcommands.h" alt="" coords="1617,169,1760,196"/>
+<area shape="rect" id="node25" href="$d7/d65/downchannelizer_8h.html" title="dsp/downchannelizer.h" alt="" coords="1062,95,1216,121"/>
+<area shape="rect" id="node30" href="$d9/d14/nco_8h.html" title="dsp/nco.h" alt="" coords="1529,244,1608,271"/>
+<area shape="rect" id="node31" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="1835,244,1958,271"/>
+<area shape="rect" id="node33" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="2494,244,2637,271"/>
+<area shape="rect" id="node35" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="2881,244,2965,271"/>
+<area shape="rect" id="node37" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="2162,169,2241,196"/>
+<area shape="rect" id="node39" href="$db/daa/phaselock_8h.html" title="dsp/phaselock.h" alt="" coords="1336,244,1454,271"/>
+<area shape="rect" id="node40" href="$d6/d3a/recursivefilters_8h.html" title="dsp/recursivefilters.h" alt="" coords="1694,95,1837,121"/>
+<area shape="rect" id="node41" href="$d5/ded/phasediscri_8h.html" title="dsp/phasediscri.h" alt="" coords="913,95,1037,121"/>
+<area shape="rect" id="node42" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="675,244,792,271"/>
+<area shape="rect" id="node44" href="$de/d9d/tvscreen_8h.html" title="gui/tvscreen.h" alt="" coords="3228,169,3332,196"/>
+<area shape="rect" id="node7" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="1245,319,1356,345"/>
+<area shape="rect" id="node10" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1712,319,1782,345"/>
+<area shape="rect" id="node11" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="265,244,408,271"/>
+<area shape="rect" id="node20" href="$d1/d01/samplesinkfifo_8h.html" title="samplesinkfifo.h" alt="" coords="534,244,651,271"/>
+<area shape="rect" id="node23" href="$dd/d49/fftwindow_8h.html" title="fftwindow.h" alt="" coords="2184,244,2273,271"/>
+<area shape="rect" id="node24" href="$df/db1/math_8h.html" title="math.h" alt="" coords="2562,319,2625,345"/>
+<area shape="rect" id="node27" href="$df/d56/inthalfbandfiltereo_8h.html" title="dsp/inthalfbandfiltereo.h" alt="" coords="1320,169,1480,196"/>
+<area shape="rect" id="node29" href="$d3/dfa/hbfiltertraits_8h.html" title="dsp/hbfiltertraits.h" alt="" coords="2033,244,2160,271"/>
+<area shape="rect" id="node36" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="2874,319,2926,345"/>
+<area shape="rect" id="node38" href="$d1/d85/dsp_2movingaverage_8h.html" title="movingaverage.h" alt="" coords="2349,244,2470,271"/>
+<area shape="rect" id="node50" href="$d4/d9b/glshadertextured_8h.html" title="glshadertextured.h" alt="" coords="3554,244,3684,271"/>
+<area shape="rect" id="node53" href="$d6/d40/glshadertvarray_8h.html" title="glshadertvarray.h" alt="" coords="3816,244,3939,271"/>
+<area shape="rect" id="node62" href="$d3/d12/bitfieldindex_8h.html" title="util/bitfieldindex.h" alt="" coords="3040,244,3163,271"/>
+</map>

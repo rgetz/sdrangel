@@ -1,0 +1,7 @@
+<map id="RemoteSource::pull" name="RemoteSource::pull">
+<area shape="rect" id="node2" href="$d3/d1f/classRemoteDataReadQueue.html#ae3485c1b83f86001e5bf7ef980119458" title="Read sample from queue possibly scaling to Tx size. " alt="" coords="191,57,356,98"/>
+<area shape="rect" id="node3" href="$d3/d1f/classRemoteDataReadQueue.html#ade0839ca6ee50140ee217dc95986c013" title="RemoteDataReadQueue\l::convertDataToSample" alt="" coords="404,23,569,65"/>
+<area shape="rect" id="node6" href="$d3/d1f/classRemoteDataReadQueue.html#aa78abddd56e93343d8b632e7b05b8a55" title="Returns queue length. " alt="" coords="404,89,569,130"/>
+<area shape="rect" id="node4" href="$d0/d9b/structSample.html#aa0fbfa4d4588953f462109abd4f715f0" title="Sample::setImag" alt="" coords="617,5,739,32"/>
+<area shape="rect" id="node5" href="$d0/d9b/structSample.html#a2fc6a7457940b55080c0ee6460250d81" title="Sample::setReal" alt="" coords="619,56,737,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="FreqTracker::MsgSampleRateNotification::getSampleRate" name="FreqTracker::MsgSampleRateNotification::getSampleRate">
+<area shape="rect" id="node2" href="$d1/d46/classFreqTrackerGUI.html#a2314f37c393e2e14ec7eb652e48174f2" title="FreqTrackerGUI::handleMessage" alt="" coords="251,13,465,39"/>
+<area shape="rect" id="node3" href="$d1/d46/classFreqTrackerGUI.html#a7d1287629f7131202e1a45190da90193" title="FreqTrackerGUI::handleInput\lMessages" alt="" coords="513,5,704,47"/>
+<area shape="rect" id="node4" href="$d1/d46/classFreqTrackerGUI.html#a28b07bbc12f43286e6050892a89ce817" title="FreqTrackerGUI::FreqTrackerGUI" alt="" coords="752,13,971,39"/>
+<area shape="rect" id="node5" href="$d1/d46/classFreqTrackerGUI.html#a1763b1885e88746e878914f500344b42" title="FreqTrackerGUI::create" alt="" coords="1019,13,1179,39"/>
+<area shape="rect" id="node6" href="$d8/dc7/classFreqTrackerPlugin.html#a1597bfaa02bf3e3c4a00db980009e09f" title="FreqTrackerPlugin::\lcreateRxChannelGUI" alt="" coords="1227,5,1373,47"/>
+<area shape="rect" id="node7" href="$d8/dc7/classFreqTrackerPlugin.html#a0dba292bc25b221ff06669cae731f6f7" title="FreqTrackerPlugin::\linitPlugin" alt="" coords="1421,5,1557,47"/>
+</map>

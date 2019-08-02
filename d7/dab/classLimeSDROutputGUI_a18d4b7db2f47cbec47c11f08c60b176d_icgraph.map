@@ -1,0 +1,20 @@
+<map id="LimeSDROutputGUI::sendSettings" name="LimeSDROutputGUI::sendSettings">
+<area shape="rect" id="node2" href="$d7/dab/classLimeSDROutputGUI.html#a8becd1a3bcd4326931506270064c5bb8" title="LimeSDROutputGUI::deserialize" alt="" coords="576,43,788,69"/>
+<area shape="rect" id="node3" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="547,1016,817,1043"/>
+<area shape="rect" id="node4" href="$d7/dab/classLimeSDROutputGUI.html#a79d9d139e9f20d08ea3cb268d662876a" title="LimeSDROutputGUI::on\l_antenna_currentIndexChanged" alt="" coords="286,130,493,171"/>
+<area shape="rect" id="node5" href="$d7/dab/classLimeSDROutputGUI.html#a6019dc0e4ee78693cf3ce8657af19749" title="LimeSDROutputGUI::on\l_centerFrequency_changed" alt="" coords="298,195,481,237"/>
+<area shape="rect" id="node6" href="$d7/dab/classLimeSDROutputGUI.html#aa673af539cc4e1a0b51679e6f9f3a8c3" title="LimeSDROutputGUI::on\l_extClock_clicked" alt="" coords="307,261,471,302"/>
+<area shape="rect" id="node7" href="$d7/dab/classLimeSDROutputGUI.html#aa4c4fd4ecf9521b2b2351055942350fe" title="LimeSDROutputGUI::on\l_gain_valueChanged" alt="" coords="307,326,471,367"/>
+<area shape="rect" id="node8" href="$d7/dab/classLimeSDROutputGUI.html#afbdc49e43223aa26ca30e513039b987f" title="LimeSDROutputGUI::on\l_hwInterp_currentIndexChanged" alt="" coords="284,391,495,433"/>
+<area shape="rect" id="node9" href="$d7/dab/classLimeSDROutputGUI.html#ab3c36b101d17b4e87afe1851e807747a" title="LimeSDROutputGUI::on\l_lpf_changed" alt="" coords="307,457,471,498"/>
+<area shape="rect" id="node10" href="$d7/dab/classLimeSDROutputGUI.html#ae79c05493d1d56a9cb347c663e937cfe" title="LimeSDROutputGUI::on\l_lpFIR_changed" alt="" coords="307,522,471,563"/>
+<area shape="rect" id="node11" href="$d7/dab/classLimeSDROutputGUI.html#ac72c08d11f06e4999852d3fa09b42254" title="LimeSDROutputGUI::on\l_lpFIREnable_toggled" alt="" coords="307,587,471,629"/>
+<area shape="rect" id="node12" href="$d7/dab/classLimeSDROutputGUI.html#a8a92f67424615b24ba8140f37518c165" title="LimeSDROutputGUI::on\l_ncoEnable_toggled" alt="" coords="307,653,471,694"/>
+<area shape="rect" id="node13" href="$d7/dab/classLimeSDROutputGUI.html#ac8587b31615d94e6e59acaf1aa97785e" title="LimeSDROutputGUI::on\l_ncoFrequency_changed" alt="" coords="306,718,473,759"/>
+<area shape="rect" id="node14" href="$d7/dab/classLimeSDROutputGUI.html#a6e8c09e2fdb04d59ed73bd50f1cb3ef1" title="LimeSDROutputGUI::on\l_sampleRate_changed" alt="" coords="307,783,471,825"/>
+<area shape="rect" id="node15" href="$d7/dab/classLimeSDROutputGUI.html#a4671423e97b32a7fde089d4c9c234241" title="LimeSDROutputGUI::on\l_swInterp_currentIndexChanged" alt="" coords="284,849,495,890"/>
+<area shape="rect" id="node16" href="$d7/dab/classLimeSDROutputGUI.html#a345178f0830e3c6ce5d88a702df8584d" title="LimeSDROutputGUI::on\l_transverter_clicked" alt="" coords="307,914,471,955"/>
+<area shape="rect" id="node17" href="$d7/dab/classLimeSDROutputGUI.html#a40855892bf47dbe96244466d544ceccc" title="LimeSDROutputGUI::openDevice\lSettingsDialog" alt="" coords="280,979,499,1021"/>
+<area shape="rect" id="node18" href="$d7/dab/classLimeSDROutputGUI.html#a0dae4bc405eca40cd8570e94f95c6f0c" title="LimeSDROutputGUI::resetTo\lDefaults" alt="" coords="292,65,487,106"/>
+<area shape="rect" id="node19" href="$d7/dab/classLimeSDROutputGUI.html#a0f6aeb3ee6cb863d1e410972187cf22b" title="LimeSDROutputGUI::setCenter\lFrequency" alt="" coords="286,1097,493,1138"/>
+</map>

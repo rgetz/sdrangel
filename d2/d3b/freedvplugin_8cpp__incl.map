@@ -1,0 +1,30 @@
+<map id="plugins/channelrx/demodfreedv/freedvplugin.cpp" name="plugins/channelrx/demodfreedv/freedvplugin.cpp">
+<area shape="rect" id="node3" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="1231,169,1353,196"/>
+<area shape="rect" id="node9" href="$d8/dd1/freedvdemodgui_8h.html" title="freedvdemodgui.h" alt="" coords="576,169,701,196"/>
+<area shape="rect" id="node29" href="$d3/d01/freedvdemod_8h.html" title="freedvdemod.h" alt="" coords="2277,95,2385,121"/>
+<area shape="rect" id="node50" href="$d6/d10/freedvplugin_8h.html" title="freedvplugin.h" alt="" coords="822,169,925,196"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1641,319,1711,345"/>
+<area shape="rect" id="node7" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="721,244,876,271"/>
+<area shape="rect" id="node11" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="265,244,436,271"/>
+<area shape="rect" id="node14" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="1068,244,1191,271"/>
+<area shape="rect" id="node16" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="98,244,241,271"/>
+<area shape="rect" id="node19" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="2001,244,2148,271"/>
+<area shape="rect" id="node25" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1445,244,1587,271"/>
+<area shape="rect" id="node28" href="$d8/d58/freedvdemodsettings_8h.html" title="freedvdemodsettings.h" alt="" coords="543,244,697,271"/>
+<area shape="rect" id="node18" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="102,319,250,345"/>
+<area shape="rect" id="node23" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2211,319,2322,345"/>
+<area shape="rect" id="node31" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="1631,169,1811,196"/>
+<area shape="rect" id="node32" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1713,244,1820,271"/>
+<area shape="rect" id="node34" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="900,244,1044,271"/>
+<area shape="rect" id="node35" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="1844,244,1927,271"/>
+<area shape="rect" id="node36" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="2532,244,2655,271"/>
+<area shape="rect" id="node38" href="$d1/db7/fftfilt_8h.html" title="dsp/fftfilt.h" alt="" coords="2970,244,3054,271"/>
+<area shape="rect" id="node40" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="2095,169,2174,196"/>
+<area shape="rect" id="node42" href="$d7/d10/audiofifo_8h.html" title="audio/audiofifo.h" alt="" coords="2391,244,2508,271"/>
+<area shape="rect" id="node44" href="$d0/ddf/audioresampler_8h.html" title="audio/audioresampler.h" alt="" coords="2646,169,2802,196"/>
+<area shape="rect" id="node49" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="2419,169,2562,196"/>
+<area shape="rect" id="node39" href="$df/d3f/gfft_8h.html" title="gfft.h" alt="" coords="2946,319,2998,345"/>
+<area shape="rect" id="node41" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="2223,244,2366,271"/>
+<area shape="rect" id="node45" href="$d5/d16/audiofilter_8h.html" title="audiofilter.h" alt="" coords="2679,244,2769,271"/>
+<area shape="rect" id="node46" href="$d3/d56/iirfilter_8h.html" title="dsp/iirfilter.h" alt="" coords="2671,319,2764,345"/>
+</map>

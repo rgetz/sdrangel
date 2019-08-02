@@ -1,0 +1,11 @@
+<map id="MainCore::addSourceDevice" name="MainCore::addSourceDevice">
+<area shape="rect" id="node2" href="$d7/d8a/classDSPEngine.html#a7b631da99c96046f27a7b48aeb813906" title="DSPEngine::addDeviceSource\lEngine" alt="" coords="255,5,457,47"/>
+<area shape="rect" id="node3" href="$d9/d18/structDeviceUserArgs.html#a6a6507af6c2395e82d02338f3277d430" title="DeviceUserArgs::findUserArgs" alt="" coords="255,71,457,98"/>
+<area shape="rect" id="node4" href="$d5/df4/classMainSettings.html#a61f1a36c7794ef8ffa74714b7c08ccb2" title="MainSettings::getDeviceUserArgs" alt="" coords="246,122,466,149"/>
+<area shape="rect" id="node5" href="$d1/d17/classDeviceEnumerator.html#a5d807440af53a38af8f748bd98094964" title="Get Rx default device. " alt="" coords="267,173,445,215"/>
+<area shape="rect" id="node7" href="$d1/d17/classDeviceEnumerator.html#a69738920785313cd056966494370a92d" title="DeviceEnumerator::getRxSampling\lDevice" alt="" coords="243,239,469,280"/>
+<area shape="rect" id="node8" href="$d2/d3b/classDSPDeviceSourceEngine.html#ae2f0ad2bba3f345cbea514bf3987692f" title="DSPDeviceSourceEngine\l::getUID" alt="" coords="270,304,442,345"/>
+<area shape="rect" id="node9" href="$d1/d17/classDeviceEnumerator.html#a30cdbbbe2429f43f49868500d3fc50e6" title="DeviceEnumerator::instance" alt="" coords="263,370,449,397"/>
+<area shape="rect" id="node10" href="$d2/d3b/classDSPDeviceSourceEngine.html#a633757cb39ade4b3301ad3ec7c9c1ee3" title="This thread start. " alt="" coords="270,421,442,463"/>
+<area shape="rect" id="node6" href="$de/d59/classPluginManager.html#a893c5eb03fbba16becc06c305d03ea75" title="PluginManager::getFileInput\lDeviceId" alt="" coords="517,173,701,215"/>
+</map>

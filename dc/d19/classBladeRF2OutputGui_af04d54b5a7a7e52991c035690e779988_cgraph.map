@@ -1,0 +1,10 @@
+<map id="BladeRF2OutputGui::serialize" name="BladeRF2OutputGui::serialize">
+<area shape="rect" id="node2" href="$d3/d1b/structBladeRF2OutputSettings.html#ae5c6c6ec9b422a205e5fe8cf98a381bd" title="BladeRF2OutputSettings\l::serialize" alt="" coords="200,125,367,166"/>
+<area shape="rect" id="node3" href="$d9/d39/classSimpleSerializer.html#a6b805e07654472a1fc9328dca3db577a" title="SimpleSerializer::writeS32" alt="" coords="421,5,595,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classSimpleSerializer.html#a444fc673d0440942e52bb9123be3395c" title="SimpleSerializer::writeBool" alt="" coords="419,56,597,83"/>
+<area shape="rect" id="node6" href="$d9/d39/classSimpleSerializer.html#aa8bef6d1d234c08821851f1102b2fc2d" title="SimpleSerializer::writeU32" alt="" coords="420,107,596,133"/>
+<area shape="rect" id="node7" href="$d9/d39/classSimpleSerializer.html#a3c6e0f707d3e81a4603e698b436c48c6" title="SimpleSerializer::writeS64" alt="" coords="421,157,595,184"/>
+<area shape="rect" id="node8" href="$d9/d39/classSimpleSerializer.html#a774be6136908ede4e5dc9f4756779fdb" title="SimpleSerializer::writeString" alt="" coords="415,208,601,235"/>
+<area shape="rect" id="node9" href="$d9/d39/classSimpleSerializer.html#a602d54e5235d2fbc2e6563ea7ad034ce" title="SimpleSerializer::final" alt="" coords="434,259,582,285"/>
+<area shape="rect" id="node4" href="$d9/d39/classSimpleSerializer.html#a9133a33ede0c94545d7b3011b5d2b689" title="SimpleSerializer::writeTag" alt="" coords="649,107,824,133"/>
+</map>

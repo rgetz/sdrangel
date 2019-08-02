@@ -1,0 +1,11 @@
+<map id="ATVDemodSettings::getNominalLineTime" name="ATVDemodSettings::getNominalLineTime">
+<area shape="rect" id="node2" href="$d1/dce/structATVDemodSettings.html#a19b2d39fc950743e2ee601437ccfd955" title="ATVDemodSettings::getLineTime" alt="" coords="265,20,483,46"/>
+<area shape="rect" id="node4" href="$d1/dce/structATVDemodSettings.html#a90bd352299eec20c23fb1285ecaf2016" title="ATVDemodSettings::setChannel\lMarker" alt="" coords="768,136,980,178"/>
+<area shape="rect" id="node5" href="$d1/dce/structATVDemodSettings.html#ac36df8fc3725b85e7c78ab324446a349" title="ATVDemodSettings::getLine\lTimeFactor" alt="" coords="531,246,719,287"/>
+<area shape="rect" id="node6" href="$d1/dce/structATVDemodSettings.html#ad727923549e6d9ef77c59bd2ec6fff26" title="ATVDemodSettings::getTopTime" alt="" coords="267,70,481,97"/>
+<area shape="rect" id="node7" href="$d1/dce/structATVDemodSettings.html#a73f15ad06e0f8a4d4a2cfbbeb6c8f87b" title="ATVDemodSettings::getTop\lTimeFactor" alt="" coords="281,311,467,352"/>
+<area shape="rect" id="node9" href="$d1/dce/structATVDemodSettings.html#ad48e3a5267ca1a09c7179b2742f32f4b" title="ATVDemodSettings::lineTime\lUpdate" alt="" coords="277,122,471,163"/>
+<area shape="rect" id="node10" href="$d1/dce/structATVDemodSettings.html#a9dc7a8702f11476d09efc5bfc4a948d4" title="ATVDemodSettings::topTime\lUpdate" alt="" coords="277,187,471,228"/>
+<area shape="rect" id="node3" href="$d1/dce/structATVDemodSettings.html#a118534d2fc693c37d18e6b02c6fc64b8" title="ATVDemodSettings::convert\lFromUIValues" alt="" coords="531,78,720,119"/>
+<area shape="rect" id="node8" href="$d1/dce/structATVDemodSettings.html#ae92d6722828db30126115fd61eb7c006" title="ATVDemodSettings::convert\lToUIValues" alt="" coords="531,311,720,352"/>
+</map>

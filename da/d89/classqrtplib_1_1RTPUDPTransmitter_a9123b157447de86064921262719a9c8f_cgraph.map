@@ -1,0 +1,12 @@
+<map id="qrtplib::RTPUDPTransmitter::Create" name="qrtplib::RTPUDPTransmitter::Create">
+<area shape="rect" id="node2" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#a3f805fd68455be1b8ef5916fa7e6e355" title="qrtplib::RTPUDPTransmission\lParams::GetAllowOddPortbase" alt="" coords="259,5,463,47"/>
+<area shape="rect" id="node3" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#a5e12a454160bbd2c8c265788092336ca" title="qrtplib::RTPUDPTransmission\lParams::GetBindIP" alt="" coords="262,71,461,112"/>
+<area shape="rect" id="node4" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#ac159f12d2e3866519699a2e58fa93e99" title="qrtplib::RTPUDPTransmission\lParams::GetForcedRTCPPort" alt="" coords="262,136,461,177"/>
+<area shape="rect" id="node5" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#a59b55ac181ab7fde070c0ea434f7ba85" title="qrtplib::RTPUDPTransmission\lParams::GetMulticastInterface" alt="" coords="261,201,461,243"/>
+<area shape="rect" id="node6" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#a83e804b5838f2c2b7c033f5a915999de" title="qrtplib::RTPUDPTransmission\lParams::GetPortbase" alt="" coords="262,267,461,308"/>
+<area shape="rect" id="node7" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#a801803c3a050ed8986eb65edd676910d" title="qrtplib::RTPUDPTransmission\lParams::GetRTCPMultiplexing" alt="" coords="260,332,463,373"/>
+<area shape="rect" id="node8" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#ae415dee01a6ce4a6c3adc85f26b33f62" title="qrtplib::RTPUDPTransmission\lParams::GetRTCPReceiveBufferSize" alt="" coords="240,397,483,439"/>
+<area shape="rect" id="node9" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#ac248e0981f0c9bc3c04316edd140f831" title="qrtplib::RTPUDPTransmission\lParams::GetRTPReceiveBufferSize" alt="" coords="245,463,477,504"/>
+<area shape="rect" id="node10" href="$db/dea/classqrtplib_1_1RTPTransmissionParams.html#adbc17943b7746a16fbf529dbed1d6fef" title="qrtplib::RTPTransmission\lParams::GetTransmissionProtocol" alt="" coords="250,528,473,569"/>
+<area shape="rect" id="node11" href="$d2/dee/classqrtplib_1_1RTPUDPTransmissionParams.html#a7ef94c6781402799a5905f7621ee6bf0" title="qrtplib::RTPUDPTransmission\lParams::GetUseExistingSockets" alt="" coords="254,593,469,635"/>
+</map>

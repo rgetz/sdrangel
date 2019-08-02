@@ -1,0 +1,10 @@
+<map id="ATVMod::applyChannelSettings" name="ATVMod::applyChannelSettings">
+<area shape="rect" id="node2" href="$d2/d69/classATVMod.html#a301c20c1f192bd8c9d23e19a4360ecfa" title="ATVMod::ATVMod" alt="" coords="261,28,393,55"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a252e7a58cb70ea3edc1165f7c266fa99" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="711,85,883,112"/>
+<area shape="rect" id="node6" href="$d2/d69/classATVMod.html#a58566ca325ea9c1b757e6e70f4c7925d" title="ATVMod::start" alt="" coords="274,136,381,163"/>
+<area shape="rect" id="node3" href="$de/df4/classATVMod_1_1MsgReportEffectiveSampleRate.html#a2bcebe99221cf92b4e42d9780a33e450" title="ATVMod::MsgReportEffective\lSampleRate::MsgReportEffective\lSampleRate" alt="" coords="441,5,660,61"/>
+<area shape="rect" id="node5" href="$d2/d69/classATVMod.html#a4801013148bd586db7c9efed165bc9e4" title="ATVMod::destroy" alt="" coords="1084,136,1208,163"/>
+<area shape="rect" id="node7" href="$d2/d69/classATVMod.html#accac8cb167adf2ab68b646b3d7f9819b" title="ATVMod::pullVideo" alt="" coords="483,187,618,213"/>
+<area shape="rect" id="node8" href="$d2/d69/classATVMod.html#a25a025965a496bf97686f6338245ec56" title="ATVMod::modulateSample" alt="" coords="708,187,887,213"/>
+<area shape="rect" id="node9" href="$d2/d69/classATVMod.html#af9c47208c17ca80b63b0674e59edfb5a" title="ATVMod::pull" alt="" coords="935,187,1036,213"/>
+</map>

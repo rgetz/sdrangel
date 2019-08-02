@@ -1,0 +1,6 @@
+<map id="DeviceSoapySDRParams::getRxChannelMainTunableElementName" name="DeviceSoapySDRParams::getRxChannelMainTunableElementName">
+<area shape="rect" id="node2" href="$da/d65/classSoapySDRInput.html#a1ef4b98c01c347cc35fa5482d7ab4203" title="SoapySDRInput::handleMessage" alt="" coords="808,5,1024,32"/>
+<area shape="rect" id="node3" href="$da/d65/classSoapySDRInput.html#a5b3708e8b10a144af7b6073d33a24c06" title="SoapySDRInput::setDevice\lCenterFrequency" alt="" coords="324,53,508,94"/>
+<area shape="rect" id="node4" href="$da/d65/classSoapySDRInput.html#a37c7c4a59ced7ccc0a322e041faca38d" title="SoapySDRInput::applySettings" alt="" coords="556,56,760,83"/>
+<area shape="rect" id="node5" href="$da/d65/classSoapySDRInput.html#a349372cb2e69bf9071dd90dde03b48d8" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="845,56,987,83"/>
+</map>

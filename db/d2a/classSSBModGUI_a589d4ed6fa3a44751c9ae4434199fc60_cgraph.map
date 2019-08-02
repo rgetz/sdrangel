@@ -1,0 +1,8 @@
+<map id="SSBModGUI::on_playLoop_toggled" name="SSBModGUI::on_playLoop_toggled">
+<area shape="rect" id="node2" href="$db/d2a/classSSBModGUI.html#aa05cd8f647ed6ecd3f56fd6aea3c757b" title="SSBModGUI::applySettings" alt="" coords="232,111,417,138"/>
+<area shape="rect" id="node3" href="$dd/d7e/classSSBMod_1_1MsgConfigureSSBMod.html#a1d551d4614c4a6ede45afa3501f42bc2" title="SSBMod::MsgConfigureSSBMod\l::create" alt="" coords="474,5,689,47"/>
+<area shape="rect" id="node5" href="$d0/d3b/classSSBMod_1_1MsgConfigureChannelizer.html#a6785add8032fedae179e4e58e480fe6b" title="SSBMod::MsgConfigureChannelizer\l::create" alt="" coords="465,71,697,112"/>
+<area shape="rect" id="node6" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="497,136,665,177"/>
+<area shape="rect" id="node7" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="507,202,656,229"/>
+<area shape="rect" id="node4" href="$dd/d7e/classSSBMod_1_1MsgConfigureSSBMod.html#a3133bb46fb386ee6835943d6d5d87a24" title="SSBMod::MsgConfigureSSBMod\l::MsgConfigureSSBMod" alt="" coords="745,5,960,47"/>
+</map>

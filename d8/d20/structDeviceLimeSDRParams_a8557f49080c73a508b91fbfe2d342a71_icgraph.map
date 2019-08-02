@@ -1,0 +1,28 @@
+<map id="DeviceLimeSDRParams::getDevice" name="DeviceLimeSDRParams::getDevice">
+<area shape="rect" id="node2" href="$d5/d8d/classLimeSDROutput.html#aa51e678289aeb6a1a4600702487edbc0" title="LimeSDROutput::acquireChannel" alt="" coords="219,80,435,106"/>
+<area shape="rect" id="node3" href="$d5/d8d/classLimeSDROutput.html#a4a8697a5c6dba54158991d86bbdd6bf1" title="LimeSDROutput::start" alt="" coords="789,105,941,132"/>
+<area shape="rect" id="node5" href="$df/d1b/classLimeSDRInput.html#afc9b508bab765a853f23bd032fb3f70d" title="LimeSDRInput::acquireChannel" alt="" coords="493,470,699,497"/>
+<area shape="rect" id="node6" href="$df/d1b/classLimeSDRInput.html#a40c84d8ccb4a4de2b3e6c38025a32871" title="LimeSDRInput::start" alt="" coords="794,521,937,548"/>
+<area shape="rect" id="node8" href="$d5/d8d/classLimeSDROutput.html#a5816077a66159b6a47c7a34d2266dbc1" title="LimeSDROutput::applySettings" alt="" coords="224,156,429,182"/>
+<area shape="rect" id="node10" href="$d5/d8d/classLimeSDROutput.html#af153270dd0f8aec356601014dd5b9d70" title="LimeSDROutput::handleMessage" alt="" coords="487,308,705,334"/>
+<area shape="rect" id="node12" href="$df/d1b/classLimeSDRInput.html#aa7ed54a39044881adbfdc15391b12754" title="LimeSDRInput::applySettings" alt="" coords="229,534,424,561"/>
+<area shape="rect" id="node14" href="$df/d1b/classLimeSDRInput.html#afff67fbc38c9f8f124a17679829c6fe1" title="LimeSDRInput::handleMessage" alt="" coords="493,724,699,750"/>
+<area shape="rect" id="node16" href="$d5/d8d/classLimeSDROutput.html#a3c5221cbe840bb16c8797162497910a4" title="LimeSDROutput::closeDevice" alt="" coords="766,308,965,334"/>
+<area shape="rect" id="node18" href="$df/d1b/classLimeSDRInput.html#a9179fd6f48c6dc6e67b13d41afc4b1d0" title="LimeSDRInput::closeDevice" alt="" coords="771,724,959,750"/>
+<area shape="rect" id="node20" href="$d5/d8d/classLimeSDROutput.html#a64e3dbb1574ab041415ffaf5395bba23" title="LimeSDROutput::releaseChannel" alt="" coords="219,206,435,233"/>
+<area shape="rect" id="node22" href="$df/d1b/classLimeSDRInput.html#ab8c8e57a422c0133083f1316c817e9a1" title="LimeSDRInput::releaseChannel" alt="" coords="223,602,430,629"/>
+<area shape="rect" id="node24" href="$d5/d8d/classLimeSDROutput.html#aa4a284a097649840a125658104f8f99f" title="LimeSDROutput::webapiFormat\lDeviceReport" alt="" coords="223,359,431,400"/>
+<area shape="rect" id="node26" href="$df/d1b/classLimeSDRInput.html#a2eafd43ef6ad5b4d3627aee152eeca29" title="LimeSDRInput::webapiFormat\lDeviceReport" alt="" coords="227,775,426,816"/>
+<area shape="rect" id="node4" href="$d3/de5/classLimeSDROutput_1_1MsgReportStreamInfo.html#ae00eecd9dcdfd51d15998bc465368dd2" title="LimeSDROutput::MsgReport\lStreamInfo::MsgReportStreamInfo" alt="" coords="1300,174,1523,215"/>
+<area shape="rect" id="node7" href="$d9/d18/classLimeSDRInput_1_1MsgStartStop.html#ace4cf1ceb79149ff57974a87ac2e7871" title="LimeSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="1313,590,1509,631"/>
+<area shape="rect" id="node9" href="$d5/d8d/classLimeSDROutput.html#a76ef259647397f322323ef8462de170e" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1065,156,1208,182"/>
+<area shape="rect" id="node11" href="$d5/d8d/classLimeSDROutput.html#a1beb42f17a03ad958c6d5136af3af6da" title="For when the sink sample rate is set externally. " alt="" coords="757,362,973,389"/>
+<area shape="rect" id="node13" href="$df/d1b/classLimeSDRInput.html#a8b151e62b476bc7af1c1b821ab41b3be" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1070,572,1203,598"/>
+<area shape="rect" id="node15" href="$df/d1b/classLimeSDRInput.html#adcee79fa14d37e4c842fb3c986950dd8" title="For when the source sample rate is set externally. " alt="" coords="762,776,969,802"/>
+<area shape="rect" id="node17" href="$d5/d8d/classLimeSDROutput.html#a3dd611d770aaed09a0e6168f7f11c4a6" title="LimeSDROutput::~LimeSDROutput" alt="" coords="1021,257,1252,284"/>
+<area shape="rect" id="node19" href="$df/d1b/classLimeSDRInput.html#a805b01659121f348e4ca013a7c81386a" title="LimeSDRInput::~LimeSDRInput" alt="" coords="1031,673,1242,700"/>
+<area shape="rect" id="node21" href="$d5/d8d/classLimeSDROutput.html#ad830d187626796149effc81482df506f" title="LimeSDROutput::stop" alt="" coords="521,206,671,233"/>
+<area shape="rect" id="node23" href="$df/d1b/classLimeSDRInput.html#adaeb662000958deaabbbdbce48273d2e" title="LimeSDRInput::stop" alt="" coords="525,622,667,649"/>
+<area shape="rect" id="node25" href="$d5/d8d/classLimeSDROutput.html#a3c5c4ad1f3c7f074bd52af68b2d0aa80" title="LimeSDROutput::webapiReportGet" alt="" coords="483,364,709,390"/>
+<area shape="rect" id="node27" href="$df/d1b/classLimeSDRInput.html#a498afcc7c35d2611f1d751f901612689" title="LimeSDRInput::webapiReportGet" alt="" coords="487,780,705,806"/>
+</map>

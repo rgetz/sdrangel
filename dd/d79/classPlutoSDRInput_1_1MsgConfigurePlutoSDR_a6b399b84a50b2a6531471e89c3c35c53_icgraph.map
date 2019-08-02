@@ -1,0 +1,9 @@
+<map id="PlutoSDRInput::MsgConfigurePlutoSDR::create" name="PlutoSDRInput::MsgConfigurePlutoSDR::create">
+<area shape="rect" id="node2" href="$d2/d3a/classPlutoSDRInput.html#a76f423849190473ad9a7d31b910a39a2" title="PlutoSDRInput::deserialize" alt="" coords="265,13,445,39"/>
+<area shape="rect" id="node4" href="$d2/d3a/classPlutoSDRInput.html#acc834a8d049993865a6aab0f28e572c2" title="PlutoSDRInput::setCenter\lFrequency" alt="" coords="268,64,443,105"/>
+<area shape="rect" id="node6" href="$d7/df0/classPlutoSDRInputGui.html#aba098e59891fefeced182f3cddbf578c" title="PlutoSDRInputGui::update\lHardware" alt="" coords="267,195,444,236"/>
+<area shape="rect" id="node8" href="$d2/d3a/classPlutoSDRInput.html#a6af88fd0944b787b89c23d86538ec64c" title="PlutoSDRInput::webapiSettings\lPutPatch" alt="" coords="252,129,459,171"/>
+<area shape="rect" id="node3" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#a6501cc5d1e57f07d3f3a0457f5b7b195" title="PlutoSDRInput::MsgStartStop\l::MsgStartStop" alt="" coords="531,5,729,47"/>
+<area shape="rect" id="node5" href="$d2/d3a/classPlutoSDRInput.html#ab67721fe6d1cdc80e9d25ffbe84a5b7c" title="For when the source sample rate is set externally. " alt="" coords="526,105,734,131"/>
+<area shape="rect" id="node7" href="$d7/df0/classPlutoSDRInputGui.html#adcbceda8bc14341852c3a7e5c0059dae" title="PlutoSDRInputGui::PlutoSDRInputGui" alt="" coords="507,202,753,229"/>
+</map>

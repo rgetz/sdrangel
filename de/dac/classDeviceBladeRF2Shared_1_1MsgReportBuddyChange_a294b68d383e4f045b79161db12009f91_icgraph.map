@@ -1,0 +1,8 @@
+<map id="DeviceBladeRF2Shared::MsgReportBuddyChange::getFcPos" name="DeviceBladeRF2Shared::MsgReportBuddyChange::getFcPos">
+<area shape="rect" id="node2" href="$d6/d2d/classBladeRF2Input.html#ae10a942a658970e5b49777acdbb83256" title="BladeRF2Input::handleMessage" alt="" coords="229,111,437,138"/>
+<area shape="rect" id="node3" href="$d6/d2d/classBladeRF2Input.html#ac7a3993799fa8c5e13f4535db2625e99" title="BladeRF2Input::getGainModes" alt="" coords="485,111,687,138"/>
+<area shape="rect" id="node4" href="$d8/d0b/classBladeRF2InputGui.html#a5f01232377859275ae6cfcf9aa79e290" title="BladeRF2InputGui::BladeRF2\lInputGui" alt="" coords="745,5,940,47"/>
+<area shape="rect" id="node5" href="$d8/d0b/classBladeRF2InputGui.html#a106e450fe9ba7cb7cc4b5c96584d071f" title="BladeRF2InputGui::on\l_gainMode_currentIndexChanged" alt="" coords="735,71,951,112"/>
+<area shape="rect" id="node6" href="$d6/d2d/classBladeRF2Input.html#a95dc91bec0d878acb8772c3b85ffd1cb" title="BladeRF2Input::webapiFormat\lDeviceReport" alt="" coords="743,136,942,177"/>
+<area shape="rect" id="node7" href="$d6/d2d/classBladeRF2Input.html#a75921dd158da4eb09d3677d43ddcbd49" title="BladeRF2Input::webapiReportGet" alt="" coords="999,173,1217,199"/>
+</map>

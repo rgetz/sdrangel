@@ -1,0 +1,16 @@
+<map id="SWGSDRangel::SWGFreeDVModSettings::setToneFrequency" name="SWGSDRangel::SWGFreeDVModSettings::setToneFrequency">
+<area shape="rect" id="node2" href="$d6/da5/classFreeDVMod.html#ad71e811c16b8372b065a18c1d55f7859" title="FreeDVMod::webapiFormatChannel\lSettings" alt="" coords="277,53,508,94"/>
+<area shape="rect" id="node6" href="$d6/da5/classFreeDVMod.html#a2c388ce2fe365e9abb824273d71db09b" title="FreeDVMod::webapiReverse\lSendSettings" alt="" coords="297,118,488,159"/>
+<area shape="rect" id="node3" href="$d6/da5/classFreeDVMod.html#a2aed51c7c4f223633f0ab84a27c68c71" title="FreeDVMod::webapiSettingsGet" alt="" coords="556,5,767,32"/>
+<area shape="rect" id="node5" href="$d6/da5/classFreeDVMod.html#a254760425a841be5ddff94a18b64cc05" title="FreeDVMod::webapiSettings\lPutPatch" alt="" coords="567,57,756,98"/>
+<area shape="rect" id="node4" href="$d6/da5/classFreeDVMod.html#a9d3b818b070a077a5b369f1b1cf2ae2d" title="FreeDVMod::getStreamCenter\lFrequency" alt="" coords="815,14,1013,55"/>
+<area shape="rect" id="node7" href="$d6/da5/classFreeDVMod.html#a6131e286149905c42097a601ecbab55e" title="FreeDVMod::applySettings" alt="" coords="572,125,751,152"/>
+<area shape="rect" id="node8" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="829,96,999,123"/>
+<area shape="rect" id="node10" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="819,151,1009,177"/>
+<area shape="rect" id="node9" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="1070,77,1297,133"/>
+<area shape="rect" id="node11" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="1061,157,1305,184"/>
+<area shape="rect" id="node12" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1353,157,1572,184"/>
+<area shape="rect" id="node13" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1620,157,1780,184"/>
+<area shape="rect" id="node14" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1828,150,2015,191"/>
+<area shape="rect" id="node15" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="2063,157,2252,184"/>
+</map>

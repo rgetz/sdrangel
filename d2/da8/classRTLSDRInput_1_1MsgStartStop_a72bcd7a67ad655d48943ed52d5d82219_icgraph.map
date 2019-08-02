@@ -1,0 +1,5 @@
+<map id="RTLSDRInput::MsgStartStop::create" name="RTLSDRInput::MsgStartStop::create">
+<area shape="rect" id="node2" href="$d5/d42/classRTLSDRGui.html#a836008544f0cf0720a0f46304be0060b" title="RTLSDRGui::on_startStop\l_toggled" alt="" coords="247,5,425,47"/>
+<area shape="rect" id="node3" href="$d0/d36/classRTLSDRInput.html#a1a8f5f417474646573393d7c2fc31164" title="RTLSDRInput::webapiRun" alt="" coords="247,71,425,98"/>
+<area shape="rect" id="node4" href="$d0/d36/classRTLSDRInput.html#a14050a3b5c02fc1681cad76d456925a4" title="For when the source sample rate is set externally. " alt="" coords="473,71,676,98"/>
+</map>

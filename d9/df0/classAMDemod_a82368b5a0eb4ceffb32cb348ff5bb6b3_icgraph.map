@@ -1,0 +1,10 @@
+<map id="AMDemod::getMagSqLevels" name="AMDemod::getMagSqLevels">
+<area shape="rect" id="node2" href="$dd/d2d/classAMDemodGUI.html#a11122d6eefaac043d694320644a8f1fe" title="AMDemodGUI::tick" alt="" coords="285,5,423,32"/>
+<area shape="rect" id="node7" href="$d9/df0/classAMDemod.html#ad74417e97251a140331ba47b1cf58d5b" title="AMDemod::webapiFormatChannel\lReport" alt="" coords="243,57,465,98"/>
+<area shape="rect" id="node3" href="$dd/d2d/classAMDemodGUI.html#a3b40f6203ae9394a5bd8fdcbd51e01dd" title="AMDemodGUI::AMDemodGUI" alt="" coords="513,5,716,32"/>
+<area shape="rect" id="node4" href="$dd/d2d/classAMDemodGUI.html#aa97889ae70279dbbe70070200e057835" title="AMDemodGUI::create" alt="" coords="783,5,935,32"/>
+<area shape="rect" id="node5" href="$d0/dc4/classAMDemodPlugin.html#ae5fc0c09d45428c17791b2414c517770" title="AMDemodPlugin::createRxChannelGUI" alt="" coords="1003,5,1256,32"/>
+<area shape="rect" id="node6" href="$d0/dc4/classAMDemodPlugin.html#a7a16734b50b041f61251f7522a678fbe" title="AMDemodPlugin::initPlugin" alt="" coords="1304,5,1485,32"/>
+<area shape="rect" id="node8" href="$d9/df0/classAMDemod.html#ab78a3712b1c00b5b5cadb12784f2938a" title="AMDemod::webapiReportGet" alt="" coords="518,64,711,91"/>
+<area shape="rect" id="node9" href="$d9/df0/classAMDemod.html#a7ce9542ab2fd3d85757796e1697a107b" title="AMDemod::getStreamCenter\lFrequency" alt="" coords="764,57,955,98"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="SWGSDRangel::SWGChannelSettings::getAmDemodSettings" name="SWGSDRangel::SWGChannelSettings::getAmDemodSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#af14da0f3f1958e59eb36e77ecd30bde0" title="WebAPIRequestMapper\l::validateChannelSettings" alt="" coords="330,13,501,54"/>
+<area shape="rect" id="node5" href="$d9/df0/classAMDemod.html#aa484df611bd872a8e283a9fd932c4a10" title="AMDemod::webapiFormatChannel\lSettings" alt="" coords="304,130,527,171"/>
+<area shape="rect" id="node6" href="$d9/df0/classAMDemod.html#ac1a092bd920bc8872f20372a8e297aba" title="AMDemod::webapiSettingsGet" alt="" coords="575,112,777,139"/>
+<area shape="rect" id="node8" href="$d9/df0/classAMDemod.html#a1b4fbe6ca8fcd5b27eb6d6186a16e5f2" title="AMDemod::webapiSettingsPut\lPatch" alt="" coords="575,163,777,205"/>
+<area shape="rect" id="node9" href="$d9/df0/classAMDemod.html#a47655849823107a6f5770514f5d5f3b3" title="AMDemod::webapiReverseSend\lSettings" alt="" coords="309,247,521,289"/>
+<area shape="rect" id="node15" href="$da/d2e/classFreqTracker.html#aeecc8ca103d3ed99e3d30c508e49936c" title="FreqTracker::webapiSettings\lPutPatch" alt="" coords="321,313,510,354"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a3d066d47b63129f913d0990aaff20a8d" title="WebAPIRequestMapper\l::devicesetChannelSettings\lService" alt="" coords="585,5,767,61"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="839,13,1002,54"/>
+<area shape="rect" id="node7" href="$d9/df0/classAMDemod.html#a7ce9542ab2fd3d85757796e1697a107b" title="AMDemod::getStreamCenter\lFrequency" alt="" coords="825,134,1016,175"/>
+<area shape="rect" id="node10" href="$d9/df0/classAMDemod.html#a64b221c1e44fae0e0a13388fd4dbe39e" title="AMDemod::applySettings" alt="" coords="591,255,761,281"/>
+<area shape="rect" id="node11" href="$d9/df0/classAMDemod.html#afd1f6fb2c119035c1e0854c7310fdc6c" title="AMDemod::AMDemod" alt="" coords="843,229,998,256"/>
+<area shape="rect" id="node13" href="$d9/df0/classAMDemod.html#a0cc413b8436d68d43d6a3d97e93cef20" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="829,281,1012,308"/>
+<area shape="rect" id="node12" href="$d5/d94/classAMDemod_1_1MsgConfigureChannelizer.html#ac1e64f0d8384a19441ee6ff2ce27098a" title="AMDemod::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="1064,219,1307,261"/>
+<area shape="rect" id="node14" href="$d9/df0/classAMDemod.html#a5eb302a01810810d1fca3c34d18f465d" title="AMDemod::destroy" alt="" coords="1118,285,1253,312"/>
+<area shape="rect" id="node16" href="$da/d2e/classFreqTracker.html#a8782e976ecfcbf1913e2f4c5704c846a" title="FreqTracker::getStreamCenter\lFrequency" alt="" coords="577,313,775,354"/>
+</map>

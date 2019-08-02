@@ -1,0 +1,8 @@
+<map id="DeviceLimeSDRShared::MsgReportDeviceInfo::getGPIOPins" name="DeviceLimeSDRShared::MsgReportDeviceInfo::getGPIOPins">
+<area shape="rect" id="node2" href="$d4/d53/classLimeSDRInputGUI.html#a8f6b05357f9f3d98309cbfe22f195b2f" title="LimeSDRInputGUI::handleMessage" alt="" coords="215,15,445,42"/>
+<area shape="rect" id="node5" href="$d7/dab/classLimeSDROutputGUI.html#a41226d62f8d7276ce18dafbe8878b434" title="LimeSDROutputGUI::handle\lMessage" alt="" coords="236,68,424,109"/>
+<area shape="rect" id="node3" href="$d4/d53/classLimeSDRInputGUI.html#ac80027ee9587ad6fde5cbe739e217ef3" title="LimeSDRInputGUI::handleInput\lMessages" alt="" coords="493,5,700,47"/>
+<area shape="rect" id="node4" href="$d4/d53/classLimeSDRInputGUI.html#ac4fe79bc723038149586a8cbc07c5fd5" title="LimeSDRInputGUI::LimeSDRInputGUI" alt="" coords="758,13,1009,39"/>
+<area shape="rect" id="node6" href="$d7/dab/classLimeSDROutputGUI.html#aef7c105432e2bb13eb89f534357385d9" title="LimeSDROutputGUI::handle\lInputMessages" alt="" coords="503,71,691,112"/>
+<area shape="rect" id="node7" href="$d7/dab/classLimeSDROutputGUI.html#a68b1668ea2456d9206a2278c8cedf0f2" title="LimeSDROutputGUI::LimeSDROutputGUI" alt="" coords="748,78,1019,105"/>
+</map>

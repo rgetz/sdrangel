@@ -1,0 +1,7 @@
+<map id="LoRaDemod::MsgConfigureLoRaDemod::getSettings" name="LoRaDemod::MsgConfigureLoRaDemod::getSettings">
+<area shape="rect" id="node2" href="$d7/d10/classLoRaDemod.html#ab757e84dd9e36d27e90ff08b9d7ac3b5" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="252,13,447,39"/>
+<area shape="rect" id="node3" href="$d7/d10/classLoRaDemod.html#ac9b00e5bcdd3f5764f28fb37b210d5bb" title="LoRaDemod::setSpectrumSink" alt="" coords="495,13,697,39"/>
+<area shape="rect" id="node4" href="$d6/d57/classLoRaDemodGUI.html#a2b326bb1efe78233d3b5fcbea2d926af" title="LoRaDemodGUI::LoRaDemodGUI" alt="" coords="745,13,969,39"/>
+<area shape="rect" id="node5" href="$d6/d57/classLoRaDemodGUI.html#a3f4e1998a3d152312453d3274614c3c7" title="LoRaDemodGUI::create" alt="" coords="1017,13,1180,39"/>
+<area shape="rect" id="node6" href="$d5/d7b/classLoRaPlugin.html#a7f1fec65830a9f5c04580898752d1627" title="LoRaPlugin::createRxChannelGUI" alt="" coords="1228,13,1451,39"/>
+</map>

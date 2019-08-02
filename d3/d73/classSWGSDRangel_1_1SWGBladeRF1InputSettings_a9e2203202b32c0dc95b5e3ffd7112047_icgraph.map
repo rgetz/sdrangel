@@ -1,0 +1,12 @@
+<map id="SWGSDRangel::SWGBladeRF1InputSettings::setIqCorrection" name="SWGSDRangel::SWGBladeRF1InputSettings::setIqCorrection">
+<area shape="rect" id="node2" href="$d2/d3a/classBladerf1Input.html#a48d3238e71f54433120d1d2ddd88ed63" title="Bladerf1Input::webapiFormat\lDeviceSettings" alt="" coords="511,57,700,98"/>
+<area shape="rect" id="node6" href="$d2/d3a/classBladerf1Input.html#a3d8131c61d1fbf99779a1fd70f58f407" title="Bladerf1Input::webapiReverse\lSendSettings" alt="" coords="265,141,463,182"/>
+<area shape="rect" id="node3" href="$d2/d3a/classBladerf1Input.html#aad0829cd97c33ec2de12baff61adb0b6" title="Bladerf1Input::webapiSettingsGet" alt="" coords="748,5,965,32"/>
+<area shape="rect" id="node5" href="$d2/d3a/classBladerf1Input.html#ae0afabe071a260a1fde7faf34a5f7afe" title="Bladerf1Input::webapiSettings\lPutPatch" alt="" coords="759,57,955,98"/>
+<area shape="rect" id="node4" href="$d2/d3a/classBladerf1Input.html#a2314c1ddb69279146863b8249550db9d" title="For when the source sample rate is set externally. " alt="" coords="1013,64,1211,91"/>
+<area shape="rect" id="node7" href="$d2/d3a/classBladerf1Input.html#a05bca0cc60f8407cf0c42dc093d487b9" title="Bladerf1Input::applySettings" alt="" coords="512,148,699,175"/>
+<area shape="rect" id="node8" href="$d2/d3a/classBladerf1Input.html#a6c4e0a3d3ebf4db879eda85cda11c5ab" title="Bladerf1Input::handleMessage" alt="" coords="757,123,956,149"/>
+<area shape="rect" id="node9" href="$d2/d3a/classBladerf1Input.html#a99033280ab77a3a3d2c9163769aea957" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="795,173,919,200"/>
+<area shape="rect" id="node11" href="$d2/d3a/classBladerf1Input.html#a19445b7907f90d945dc6fa824d00f118" title="Bladerf1Input::start" alt="" coords="790,224,923,251"/>
+<area shape="rect" id="node10" href="$d4/d7a/classBladerf1Input_1_1MsgStartStop.html#aece111352ba192c6c19b8248ed7c2ab2" title="Bladerf1Input::MsgStartStop\l::MsgStartStop" alt="" coords="1019,191,1205,233"/>
+</map>

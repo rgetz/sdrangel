@@ -1,0 +1,22 @@
+<map id="DeviceAPI::removeChannelSource" name="DeviceAPI::removeChannelSource">
+<area shape="rect" id="node2" href="$db/d93/classAMMod.html#a532cc8b5daf63b13aec9ec9f6ae3d106" title="AMMod::~AMMod" alt="" coords="279,40,407,67"/>
+<area shape="rect" id="node4" href="$d2/d69/classATVMod.html#a9ed85802a7ab0a625056de4f6d09311b" title="ATVMod::~ATVMod" alt="" coords="273,116,413,143"/>
+<area shape="rect" id="node6" href="$d9/db6/classFileSource.html#aeab4d17949bd60b44cb5b33b18b26b94" title="FileSource::~FileSource" alt="" coords="262,188,425,215"/>
+<area shape="rect" id="node8" href="$d6/da5/classFreeDVMod.html#a4933eae2b24deeb1d54d8384de245a4c" title="FreeDVMod::~FreeDVMod" alt="" coords="254,259,433,285"/>
+<area shape="rect" id="node10" href="$d9/d2e/classLocalSource.html#a721f3f024fa9c08ac7437edbd51313de" title="LocalSource::~LocalSource" alt="" coords="252,327,435,353"/>
+<area shape="rect" id="node12" href="$de/df8/classNFMMod.html#a603218cd9b4c597e581234cd27f3a05e" title="NFMMod::~NFMMod" alt="" coords="270,388,417,415"/>
+<area shape="rect" id="node14" href="$de/dd9/classRemoteSource.html#aa553dfb2aac68cc5335e95dde2a93efe" title="RemoteSource::~RemoteSource" alt="" coords="237,453,449,480"/>
+<area shape="rect" id="node16" href="$dc/d8d/classSSBMod.html#a5bf4fd475306f9acf46b3a88b674bd39" title="SSBMod::~SSBMod" alt="" coords="272,523,415,549"/>
+<area shape="rect" id="node18" href="$de/da4/classUDPSource.html#ac0854042ee6f2790b38c7ddc3dabad7e" title="UDPSource::~UDPSource" alt="" coords="254,603,433,629"/>
+<area shape="rect" id="node20" href="$d6/de3/classWFMMod.html#a1377d3ac2d6ed7dd99ebbbbf1fb1317e" title="WFMMod::~WFMMod" alt="" coords="267,664,419,691"/>
+<area shape="rect" id="node3" href="$d8/d80/classAMMod_1_1MsgReportFileSourceStreamData.html#ab75850db9c17363b847106b45eb14e93" title="AMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="509,5,736,61"/>
+<area shape="rect" id="node5" href="$de/df4/classATVMod_1_1MsgReportEffectiveSampleRate.html#a2bcebe99221cf92b4e42d9780a33e450" title="ATVMod::MsgReportEffective\lSampleRate::MsgReportEffective\lSampleRate" alt="" coords="513,85,732,141"/>
+<area shape="rect" id="node7" href="$d1/d52/classFileSource_1_1MsgReportHeaderCRC.html#aa39d307c277f3b5fe21bf90cd580521f" title="FileSource::MsgReportHeader\lCRC::MsgReportHeaderCRC" alt="" coords="523,166,722,207"/>
+<area shape="rect" id="node9" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="509,232,736,288"/>
+<area shape="rect" id="node11" href="$d7/dd3/classLocalSource_1_1MsgConfigureChannelizer.html#aa7a160fa5d6f684612f3acf5d20ae152" title="LocalSource::MsgConfigure\lChannelizer::MsgConfigureChannelizer" alt="" coords="498,313,747,354"/>
+<area shape="rect" id="node13" href="$d9/d18/classNFMMod_1_1MsgReportFileSourceStreamData.html#a6cad6eaf0fa6ff9c2fc656ade180ecfa" title="NFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="509,379,736,435"/>
+<area shape="rect" id="node15" href="$db/d14/classRemoteSource_1_1MsgReportStreamData.html#ac7d483545c1b7a0ebede5a0ce5082bfd" title="RemoteSource::MsgReportStream\lData::MsgReportStreamData" alt="" coords="511,459,734,501"/>
+<area shape="rect" id="node17" href="$d9/d99/classSSBMod_1_1MsgReportFileSourceStreamData.html#a09cafd1fd75b2f376cc54bed562491bd" title="SSBMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="509,525,736,581"/>
+<area shape="rect" id="node19" href="$d8/d87/classUDPSource_1_1MsgConfigureChannelizer.html#a307eb736cd6c12733d05076ce5841205" title="UDPSource::MsgConfigureChannelizer\l::MsgConfigureChannelizer" alt="" coords="497,606,748,647"/>
+<area shape="rect" id="node21" href="$db/daf/classWFMMod_1_1MsgReportFileSourceStreamData.html#aeff81f569c77de84e535283bda05d14a" title="WFMMod::MsgReportFileSource\lStreamData::MsgReportFileSource\lStreamData" alt="" coords="509,672,736,728"/>
+</map>

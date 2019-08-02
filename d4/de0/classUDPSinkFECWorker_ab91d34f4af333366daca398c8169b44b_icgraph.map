@@ -1,0 +1,17 @@
+<map id="UDPSinkFECWorker::startStop" name="UDPSinkFECWorker::startStop">
+<area shape="rect" id="node2" href="$d5/daf/classUDPSinkFECWorker_1_1MsgStartStop.html#ad76d6d5beb97f30bd9ecf83d37901cef" title="UDPSinkFECWorker::MsgStart\lStop::MsgStartStop" alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$d9/dc5/classUDPSinkFEC.html#ac395aee90d4547bf1b00b971c8a6b17f" title="UDPSinkFEC::start" alt="" coords="294,71,433,98"/>
+<area shape="rect" id="node12" href="$d9/dc5/classUDPSinkFEC.html#af8e4aad6cd9668372edc5c98af492ae1" title="UDPSinkFEC::stop" alt="" coords="295,126,432,153"/>
+<area shape="rect" id="node4" href="$dc/db6/classRemoteOutputThread.html#a206d94449ac6b1c8a1ffa4746fa86462" title="RemoteOutputThread\l::startWork" alt="" coords="515,39,661,80"/>
+<area shape="rect" id="node5" href="$d8/daf/classRemoteOutput.html#aaeebf504cf095eb1456c63f58bee06e3" title="RemoteOutput::handleMessage" alt="" coords="1163,74,1370,101"/>
+<area shape="rect" id="node7" href="$dc/db6/classRemoteOutputThread.html#a8b3899a724cc39481c03cbc2bacf3548" title="RemoteOutputThread\l::setSamplerate" alt="" coords="717,125,864,167"/>
+<area shape="rect" id="node11" href="$d8/daf/classRemoteOutput.html#a2304a8ff828317365cb1c0e461a5606f" title="RemoteOutput::start" alt="" coords="947,125,1088,151"/>
+<area shape="rect" id="node6" href="$d8/daf/classRemoteOutput.html#ac3275d55e301662432f9851dcbb31716" title="RemoteOutput::setCenterFrequency" alt="" coords="1449,74,1683,101"/>
+<area shape="rect" id="node8" href="$d8/daf/classRemoteOutput.html#a80d6409d58d06eb64b754f15c1c89467" title="RemoteOutput::applySettings" alt="" coords="920,175,1115,202"/>
+<area shape="rect" id="node9" href="$d8/daf/classRemoteOutput.html#aae7a474b9f713d55e9185b43be00b8b7" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="1201,175,1333,202"/>
+<area shape="rect" id="node10" href="$d2/dfe/classRemoteOutput_1_1MsgConfigureRemoteOutputChunkCorrection.html#af71eff86f1c30066266800941f538c19" title="RemoteOutput::MsgConfigure\lRemoteOutputChunkCorrection\l::MsgConfigureRemoteOutputChunkCorrection" alt="" coords="1419,186,1713,242"/>
+<area shape="rect" id="node13" href="$dc/db6/classRemoteOutputThread.html#ab319d679044bf94c6f26c60d8e096007" title="RemoteOutputThread\l::stopWork" alt="" coords="515,125,661,167"/>
+<area shape="rect" id="node14" href="$d8/daf/classRemoteOutput.html#a6d0bec92aa574120bed9a697fe0c9175" title="RemoteOutput::stop" alt="" coords="947,257,1087,283"/>
+<area shape="rect" id="node16" href="$dc/db6/classRemoteOutputThread.html#a85e35beda9ed83fb051c8dda10ecbae8" title="RemoteOutputThread\l::~RemoteOutputThread" alt="" coords="709,191,872,232"/>
+<area shape="rect" id="node15" href="$d8/daf/classRemoteOutput.html#adfe0ad5d73c39c662144371e4199945b" title="RemoteOutput::~RemoteOutput" alt="" coords="1163,277,1371,303"/>
+</map>

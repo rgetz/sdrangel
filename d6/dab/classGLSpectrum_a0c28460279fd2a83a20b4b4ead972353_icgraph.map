@@ -1,0 +1,15 @@
+<map id="GLSpectrum::setDecayDivisor" name="GLSpectrum::setDecayDivisor">
+<area shape="rect" id="node2" href="$d4/dcb/classGLSpectrumGUI.html#ae1219b592a8b083f159c894d1e4a7771" title="GLSpectrumGUI::applySettings" alt="" coords="253,107,460,133"/>
+<area shape="rect" id="node3" href="$d4/dcb/classGLSpectrumGUI.html#a7ce4ca2129eccf5a18c0e9d4fcad1391" title="GLSpectrumGUI::setBuddies" alt="" coords="524,5,716,32"/>
+<area shape="rect" id="node5" href="$d4/dcb/classGLSpectrumGUI.html#abafe3ae24d2efec0104628e39a1bb672" title="GLSpectrumGUI::resetToDefaults" alt="" coords="510,56,730,83"/>
+<area shape="rect" id="node6" href="$d4/dcb/classGLSpectrumGUI.html#a392ed970ea2eeb5dcb279122611643e7" title="GLSpectrumGUI::deserialize" alt="" coords="780,81,969,108"/>
+<area shape="rect" id="node13" href="$d4/dcb/classGLSpectrumGUI.html#a033522ad9757608b192571266b494342" title="GLSpectrumGUI::on_decayDivisor\l_valueChanged" alt="" coords="508,158,732,199"/>
+<area shape="rect" id="node14" href="$d4/dcb/classGLSpectrumGUI.html#a0c24bf635c4bb82ba1331f674501bb90" title="GLSpectrumGUI::on_stroke\l_valueChanged" alt="" coords="528,223,712,265"/>
+<area shape="rect" id="node4" href="$d3/d37/classDeviceUISet.html#ad1c64f55be2afb915caf3ae7d604fa3c" title="DeviceUISet::DeviceUISet" alt="" coords="785,5,965,32"/>
+<area shape="rect" id="node7" href="$d6/d1a/classMainWindow.html#a2736e7892c008bb9cb74633f271c7cbc" title="MainWindow::loadPresetSettings" alt="" coords="1017,81,1232,108"/>
+<area shape="rect" id="node8" href="$d6/d1a/classMainWindow.html#a7539b387db9c1797c7d81bf4a46e135e" title="MainWindow::MainWindow" alt="" coords="1775,56,1955,83"/>
+<area shape="rect" id="node9" href="$d6/d1a/classMainWindow.html#adbc3c834f2426406ca53e5f1b5047acb" title="MainWindow::handleMessage" alt="" coords="1280,81,1476,108"/>
+<area shape="rect" id="node11" href="$d6/d1a/classMainWindow.html#a4cc4ea95fa3dc659d8fd42c463111456" title="MainWindow::on_presetLoad\l_clicked" alt="" coords="1283,133,1473,174"/>
+<area shape="rect" id="node10" href="$d6/d1a/classMainWindow.html#a9332d7a50a074c9e0e297a5dd0a58c7b" title="MainWindow::handleMessages" alt="" coords="1524,81,1727,108"/>
+<area shape="rect" id="node12" href="$d6/d1a/classMainWindow.html#ac2f28b1fcdd344236b51dde367d2ccbc" title="MainWindow::on_presetTree\l_itemActivated" alt="" coords="1531,133,1719,174"/>
+</map>

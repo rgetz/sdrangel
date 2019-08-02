@@ -1,0 +1,10 @@
+<map id="FileSourceGUI::displaySettings" name="FileSourceGUI::displaySettings">
+<area shape="rect" id="node2" href="$d1/d74/classFileSourceGUI.html#aa95c6adc74690b811590837fb9667d31" title="FileSourceGUI::deserialize" alt="" coords="524,5,703,32"/>
+<area shape="rect" id="node3" href="$d1/d74/classFileSourceGUI.html#ab9a70cccc49111b79d4f637fe8967675" title="FileSourceGUI::FileSourceGUI" alt="" coords="759,111,961,137"/>
+<area shape="rect" id="node7" href="$d1/d74/classFileSourceGUI.html#a4b9775d959d290564e37284eb0fa67f7" title="FileSourceGUI::handleMessage" alt="" coords="260,136,467,163"/>
+<area shape="rect" id="node9" href="$d1/d74/classFileSourceGUI.html#a732ef3d0cd9771935e4fb55377782285" title="FileSourceGUI::resetToDefaults" alt="" coords="259,31,468,57"/>
+<area shape="rect" id="node4" href="$d1/d74/classFileSourceGUI.html#a5c8d062f9589ed6ba7aac0e2756ab9e8" title="FileSourceGUI::create" alt="" coords="1009,111,1161,137"/>
+<area shape="rect" id="node5" href="$db/d0c/classFileSourcePlugin.html#ad64cc15924b1a2079783ad347a078ba8" title="FileSourcePlugin::create\lTxChannelGUI" alt="" coords="1209,103,1373,145"/>
+<area shape="rect" id="node6" href="$db/d0c/classFileSourcePlugin.html#aca84425aa7f54a40da9f17b69db7ced3" title="FileSourcePlugin::initPlugin" alt="" coords="1421,111,1603,137"/>
+<area shape="rect" id="node8" href="$d1/d74/classFileSourceGUI.html#ae999c45f4fc40fac27bf157f8d36e7d2" title="FileSourceGUI::handleSource\lMessages" alt="" coords="516,133,711,174"/>
+</map>

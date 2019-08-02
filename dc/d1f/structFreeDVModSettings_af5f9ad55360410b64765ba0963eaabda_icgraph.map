@@ -1,0 +1,13 @@
+<map id="FreeDVModSettings::getModSampleRate" name="FreeDVModSettings::getModSampleRate">
+<area shape="rect" id="node2" href="$d6/da5/classFreeDVMod.html#a99bbdebddb26a24e499fb668c4021792" title="FreeDVMod::applyFreeDVMode" alt="" coords="201,80,409,107"/>
+<area shape="rect" id="node12" href="$dc/d1f/structFreeDVModSettings.html#a0d5b538cd40eb38a11b323cbc582b159" title="FreeDVModSettings::\lsetCWKeyerGUI" alt="" coords="473,129,621,170"/>
+<area shape="rect" id="node3" href="$d6/da5/classFreeDVMod.html#a6131e286149905c42097a601ecbab55e" title="FreeDVMod::applySettings" alt="" coords="457,77,636,104"/>
+<area shape="rect" id="node4" href="$d6/da5/classFreeDVMod.html#ac29e983018a89c346c841616b63a1412" title="FreeDVMod::FreeDVMod" alt="" coords="694,25,865,52"/>
+<area shape="rect" id="node6" href="$d6/da5/classFreeDVMod.html#ad6a491e0337eae131b1f3553df20e4bd" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="684,81,875,108"/>
+<area shape="rect" id="node5" href="$d6/d96/classFreeDVMod_1_1MsgReportFileSourceStreamData.html#a875a7d1d078755b4fdde7e197988f420" title="FreeDVMod::MsgReportFile\lSourceStreamData::MsgReportFile\lSourceStreamData" alt="" coords="931,5,1158,61"/>
+<area shape="rect" id="node7" href="$d6/da5/classFreeDVMod.html#aeba478672095fd54b867f97b3d353b7c" title="FreeDVMod::setSpectrumSampleSink" alt="" coords="923,85,1167,112"/>
+<area shape="rect" id="node8" href="$de/d8e/classFreeDVModGUI.html#a9efa41f8bc1d3ba528adbc3ce7c3708e" title="FreeDVModGUI::FreeDVModGUI" alt="" coords="1215,111,1433,137"/>
+<area shape="rect" id="node9" href="$de/d8e/classFreeDVModGUI.html#a6fb22591e76984bb4977c2a1c5ae026c" title="FreeDVModGUI::create" alt="" coords="1481,111,1641,137"/>
+<area shape="rect" id="node10" href="$d4/de1/classFreeDVModPlugin.html#a44dbfee203a534f6d7bb5559c19b544c" title="FreeDVModPlugin::createTx\lChannelGUI" alt="" coords="1689,103,1876,145"/>
+<area shape="rect" id="node11" href="$d4/de1/classFreeDVModPlugin.html#a0f1047a9b5e888a9dab1f671b050e446" title="FreeDVModPlugin::initPlugin" alt="" coords="1924,111,2113,137"/>
+</map>

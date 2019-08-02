@@ -1,0 +1,16 @@
+<map id="ChannelAnalyzerGUI::on_rrcRolloff_valueChanged" name="ChannelAnalyzerGUI::on_rrcRolloff_valueChanged">
+<area shape="rect" id="node2" href="$da/d16/classChannelAnalyzerGUI.html#a4ee8f1c81629516ece17b8d6171d5913" title="ChannelAnalyzerGUI\l::applySettings" alt="" coords="248,209,393,250"/>
+<area shape="rect" id="node3" href="$db/dab/classChannelAnalyzer_1_1MsgConfigureChannelAnalyzer.html#ad72169d9a594ea4ee77b9560d57dfd80" title="ChannelAnalyzer::MsgConfigure\lChannelAnalyzer::create" alt="" coords="451,13,662,54"/>
+<area shape="rect" id="node5" href="$dd/df3/classChannelAnalyzer_1_1MsgConfigureChannelizer.html#a85833e4146d3ad2cb838e3261fb2bebe" title="ChannelAnalyzer::MsgConfigure\lChannelizer::create" alt="" coords="451,78,662,119"/>
+<area shape="rect" id="node6" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="469,143,644,185"/>
+<area shape="rect" id="node7" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="473,209,641,250"/>
+<area shape="rect" id="node8" href="$da/d16/classChannelAnalyzerGUI.html#a1ede0ed024dd8dbe857494a9d6b75f97" title="ChannelAnalyzerGUI\l::getRequestedChannelSampleRate" alt="" coords="441,274,672,315"/>
+<area shape="rect" id="node11" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="482,340,631,367"/>
+<area shape="rect" id="node12" href="$d7/dcf/classScopeVis.html#aba0f7f5d0aedb8bdca31af88ed976fdf" title="ScopeVis::setLiveRateLog2\lDecim" alt="" coords="465,391,649,433"/>
+<area shape="rect" id="node4" href="$db/dab/classChannelAnalyzer_1_1MsgConfigureChannelAnalyzer.html#a598ab8469ec27e4c01db622bebda9b8a" title="ChannelAnalyzer::MsgConfigure\lChannelAnalyzer::MsgConfigureChannel\lAnalyzer" alt="" coords="720,5,979,61"/>
+<area shape="rect" id="node9" href="$dc/d0c/classChannelAnalyzer.html#a42084f4a082513f7d7d759eee4e6adbd" title="ChannelAnalyzer::getChannelizer" alt="" coords="741,252,957,279"/>
+<area shape="rect" id="node10" href="$da/d0a/classDownChannelizer.html#ae051d357f719c8f35dac8b05f0f17b5c" title="DownChannelizer::getInput\lSampleRate" alt="" coords="759,303,939,345"/>
+<area shape="rect" id="node13" href="$d7/dcf/classScopeVis.html#a7b5784281ac1b006283a046e98562c55" title="ScopeVis::setLiveRate" alt="" coords="771,399,927,425"/>
+<area shape="rect" id="node14" href="$d7/dcf/classScopeVis.html#a6b3446bdb3ac22edaa5b386d29632e99" title="ScopeVis::setSampleRate" alt="" coords="1027,399,1203,425"/>
+<area shape="rect" id="node15" href="$d2/d02/classGLScope.html#af5e06f8d08c93a86b352dfb7e57c7d8d" title="GLScope::setSampleRate" alt="" coords="1251,399,1425,425"/>
+</map>

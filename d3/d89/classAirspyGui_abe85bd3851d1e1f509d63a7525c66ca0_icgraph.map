@@ -1,0 +1,21 @@
+<map id="AirspyGui::sendSettings" name="AirspyGui::sendSettings">
+<area shape="rect" id="node2" href="$d3/d89/classAirspyGui.html#a81f9216c9f453b887278c16248cc81b0" title="AirspyGui::AirspyGui" alt="" coords="485,42,629,69"/>
+<area shape="rect" id="node3" href="$d3/d89/classAirspyGui.html#a793b7c0a49d0c4d7c4175da6d32cefa2" title="AirspyGui::deserialize" alt="" coords="483,1022,632,1049"/>
+<area shape="rect" id="node4" href="$d3/d89/classAirspyGui.html#a575de7d5e4068337d06e5e530a704cb7" title="AirspyGui::on_biasT\l_stateChanged" alt="" coords="255,123,395,164"/>
+<area shape="rect" id="node5" href="$d3/d89/classAirspyGui.html#a5880a67345162300bacd71226926efac" title="AirspyGui::on_centerFrequency\l_changed" alt="" coords="223,188,428,229"/>
+<area shape="rect" id="node6" href="$d3/d89/classAirspyGui.html#a9513ccb5f48b4a4e71369f67e75dc6e2" title="AirspyGui::on_dcOffset\l_toggled" alt="" coords="246,253,405,295"/>
+<area shape="rect" id="node7" href="$d3/d89/classAirspyGui.html#a600ff6fbd519761b17633f4884278d21" title="AirspyGui::on_decim\l_currentIndexChanged" alt="" coords="249,319,402,360"/>
+<area shape="rect" id="node8" href="$d3/d89/classAirspyGui.html#aebe208816e5d3dacd5df431e1a2cd44b" title="AirspyGui::on_fcPos\l_currentIndexChanged" alt="" coords="249,384,402,425"/>
+<area shape="rect" id="node9" href="$d3/d89/classAirspyGui.html#a1c61b6858e44391013557a9c1f1d0b02" title="AirspyGui::on_iqImbalance\l_toggled" alt="" coords="236,449,415,491"/>
+<area shape="rect" id="node10" href="$d3/d89/classAirspyGui.html#a0d5b6d5fc11206d03c17661f97cf9956" title="AirspyGui::on_lna_valueChanged" alt="" coords="218,515,433,542"/>
+<area shape="rect" id="node11" href="$d3/d89/classAirspyGui.html#af908d64dbba9b513f5a49fc4e34c9e22" title="AirspyGui::on_lnaAGC\l_stateChanged" alt="" coords="248,567,403,608"/>
+<area shape="rect" id="node12" href="$d3/d89/classAirspyGui.html#a4fc8729e45fb3c9de372b72b5ae6bba7" title="AirspyGui::on_LOppm\l_valueChanged" alt="" coords="250,632,401,673"/>
+<area shape="rect" id="node13" href="$d3/d89/classAirspyGui.html#a0e687b532305950218f8d3f1e2659f7a" title="AirspyGui::on_mix_valueChanged" alt="" coords="216,698,435,725"/>
+<area shape="rect" id="node14" href="$d3/d89/classAirspyGui.html#a71d0d26675e13eb0c27d12c1a73c034d" title="AirspyGui::on_mixAGC\l_stateChanged" alt="" coords="246,749,405,791"/>
+<area shape="rect" id="node15" href="$d3/d89/classAirspyGui.html#a4e830cac2f0f2327a9da50ce7ae19b51" title="AirspyGui::on_sampleRate\l_currentIndexChanged" alt="" coords="236,815,415,856"/>
+<area shape="rect" id="node16" href="$d3/d89/classAirspyGui.html#af0e83f27610df8174294f7abf6b7bd55" title="AirspyGui::on_transverter\l_clicked" alt="" coords="240,880,411,921"/>
+<area shape="rect" id="node17" href="$d3/d89/classAirspyGui.html#a19cbb88933558ef4c6ec0989e7b9bfc0" title="AirspyGui::on_vga_valueChanged" alt="" coords="216,946,435,973"/>
+<area shape="rect" id="node18" href="$d3/d89/classAirspyGui.html#a30264d2da5f476c32ccd85722c50dc16" title="AirspyGui::openDeviceSettings\lDialog" alt="" coords="223,5,427,47"/>
+<area shape="rect" id="node19" href="$d3/d89/classAirspyGui.html#a0fa4d8e79c9249bdb4d5bcad5787c84f" title="AirspyGui::resetToDefaults" alt="" coords="235,1047,415,1074"/>
+<area shape="rect" id="node20" href="$d3/d89/classAirspyGui.html#a626103b17455ddba59ac59c9e72b88cd" title="AirspyGui::setCenterFrequency" alt="" coords="223,1098,428,1125"/>
+</map>

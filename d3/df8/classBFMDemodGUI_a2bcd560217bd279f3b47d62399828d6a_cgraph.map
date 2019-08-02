@@ -1,0 +1,21 @@
+<map id="BFMDemodGUI::handleMessage" name="BFMDemodGUI::handleMessage">
+<area shape="rect" id="node2" href="$d3/df8/classBFMDemodGUI.html#a5907fb41d78eaf9fc73864eb0936f266" title="BFMDemodGUI::blockApplySettings" alt="" coords="568,5,804,32"/>
+<area shape="rect" id="node3" href="$d3/df8/classBFMDemodGUI.html#a67216c6b7141e9f7017b2394f61ca228" title="BFMDemodGUI::displaySettings" alt="" coords="287,249,500,276"/>
+<area shape="rect" id="node17" href="$d1/d97/classBFMDemod_1_1MsgReportChannelSampleRateChanged.html#a91c5251be79d15069abaa28ca604c74e" title="BFMDemod::MsgReportChannel\lSampleRateChanged::getSampleRate" alt="" coords="271,301,515,342"/>
+<area shape="rect" id="node18" href="$d4/d90/classBFMDemod_1_1MsgConfigureBFMDemod.html#a37e3cc45e718c731fd22005b304e52f8" title="BFMDemod::MsgConfigureBFMDemod\l::getSettings" alt="" coords="268,366,519,407"/>
+<area shape="rect" id="node19" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="334,475,453,501"/>
+<area shape="rect" id="node4" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="666,56,706,83"/>
+<area shape="rect" id="node9" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="599,107,773,149"/>
+<area shape="rect" id="node10" href="$d3/d71/structBFMDemodSettings.html#a972e44696ff8dffc90d77965c097daea" title="BFMDemodSettings::getRFBWIndex" alt="" coords="567,173,805,200"/>
+<area shape="rect" id="node11" href="$de/d03/classChannelMarker.html#a1718b4846024ae4c861ef1c5abd203c4" title="ChannelMarker::getTitle" alt="" coords="605,224,767,251"/>
+<area shape="rect" id="node12" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="587,275,785,301"/>
+<area shape="rect" id="node13" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="599,326,773,367"/>
+<area shape="rect" id="node14" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="603,392,769,419"/>
+<area shape="rect" id="node15" href="$de/d03/classChannelMarker.html#adc34000886d397266b55c53950f8621c" title="ChannelMarker::setTitle" alt="" coords="605,443,767,469"/>
+<area shape="rect" id="node16" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="595,493,777,520"/>
+<area shape="rect" id="node5" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="853,56,961,83"/>
+<area shape="rect" id="node6" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1213,27,1332,53"/>
+<area shape="rect" id="node7" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1009,78,1157,119"/>
+<area shape="rect" id="node8" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1205,78,1340,119"/>
+<area shape="rect" id="node20" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="601,544,771,571"/>
+</map>

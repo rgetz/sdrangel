@@ -1,0 +1,6 @@
+<map id="qrtplib::RTPSources::SentRTPPacket" name="qrtplib::RTPSources::SentRTPPacket">
+<area shape="rect" id="node2" href="$da/d75/classqrtplib_1_1RTPSourceData.html#af28c94111789b1239bc81d1d0b1c4769" title="qrtplib::RTPSourceData\l::IsSender" alt="" coords="201,5,362,47"/>
+<area shape="rect" id="node3" href="$d0/d41/classqrtplib_1_1RTPInternalSourceData.html#a322e14641266f725acb2bf7f3ca52ce3" title="qrtplib::RTPInternalSource\lData::SentRTPPacket" alt="" coords="193,71,369,112"/>
+<area shape="rect" id="node4" href="$d1/d3a/classqrtplib_1_1RTPTime.html#a7a839e67da04ff032db37f2c1b143d44" title="qrtplib::RTPTime::CurrentTime" alt="" coords="417,78,619,105"/>
+<area shape="rect" id="node5" href="$d9/d28/namespaceqrtplib.html#a2e15b3b3a7eb0ec7566301dbc91baa62" title="qrtplib::RTPTime_timespec\lToDouble" alt="" coords="667,71,848,112"/>
+</map>

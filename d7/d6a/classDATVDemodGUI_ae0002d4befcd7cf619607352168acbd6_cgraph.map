@@ -1,0 +1,82 @@
+<map id="DATVDemodGUI::DATVDemodGUI" name="DATVDemodGUI::DATVDemodGUI">
+<area shape="rect" id="node2" href="$d3/d37/classDeviceUISet.html#a9883664a0a9633bca0c66f9a757714ae" title="Add channel marker to spectrum. " alt="" coords="293,116,508,142"/>
+<area shape="rect" id="node8" href="$d3/d37/classDeviceUISet.html#a1160290a5c290edeaca5748e2b60fce7" title="Add rollup widget to channel window. " alt="" coords="299,200,503,226"/>
+<area shape="rect" id="node10" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="957,229,997,256"/>
+<area shape="rect" id="node15" href="$d7/d6a/classDATVDemodGUI.html#a05c611b3dacc58fdd2f03591300a7c19" title="DATVDemodGUI::audioSelect" alt="" coords="301,1530,501,1557"/>
+<area shape="rect" id="node26" href="$d7/d6a/classDATVDemodGUI.html#a7a118e21b0aad1afcd470dd89147f4c3" title="DATVDemodGUI::channelMarker\lChangedByCursor" alt="" coords="292,1464,509,1506"/>
+<area shape="rect" id="node27" href="$d7/d6a/classDATVDemodGUI.html#a0dfa56dbafe48a3ed6fe5caf8232e99b" title="DATVDemodGUI::channelMarker\lHighlightedByCursor" alt="" coords="292,1582,509,1623"/>
+<area shape="rect" id="node30" href="$d7/d6a/classDATVDemodGUI.html#ad8220aa23fd6b2ecc51312618e11c1e6" title="DATVDemodGUI::getInputMessage\lQueue" alt="" coords="561,1354,793,1395"/>
+<area shape="rect" id="node31" href="$d7/d6a/classDATVDemodGUI.html#ab94ac900f9b4a52d4dc427e4b4bfcd63" title="DATVDemodGUI::handleInput\lMessages" alt="" coords="301,1399,500,1440"/>
+<area shape="rect" id="node43" href="$d7/d6a/classDATVDemodGUI.html#a39955ad45a8fe50e49c6f88c45595f41" title="DATVDemodGUI::on_StreamData\lAvailable" alt="" coords="566,239,789,280"/>
+<area shape="rect" id="node45" href="$d7/d6a/classDATVDemodGUI.html#a106144b9f4e53feff5b5be42a68193b1" title="DATVDemodGUI::on_StreamMeta\lDataChanged" alt="" coords="289,1647,513,1688"/>
+<area shape="rect" id="node46" href="$d7/d6a/classDATVDemodGUI.html#a5ca211ded075f6483bbd3023a1c7aeaa" title="DATVDemodGUI::onWidgetRolled" alt="" coords="289,1713,513,1740"/>
+<area shape="rect" id="node47" href="$d3/d37/classDeviceUISet.html#abc6a55e67ac6501cf65327dd037b2556" title="DeviceUISet::registerRxChannel\lInstance" alt="" coords="294,387,507,428"/>
+<area shape="rect" id="node49" href="$d7/d6a/classDATVDemodGUI.html#a1dd795397ee2c509bc3c761cebe86b44" title="DATVDemodGUI::resetToDefaults" alt="" coords="288,1145,513,1172"/>
+<area shape="rect" id="node53" href="$de/d03/classChannelMarker.html#a635d0b581a35747eda76aeaa39377b64" title="ChannelMarker::setCenter\lFrequency" alt="" coords="889,1138,1064,1179"/>
+<area shape="rect" id="node54" href="$de/d03/classChannelMarker.html#a5e24606843bc30fa0b23b9a446ba3b21" title="ChannelMarker::setBandwidth" alt="" coords="878,1204,1075,1230"/>
+<area shape="rect" id="node55" href="$de/d03/classChannelMarker.html#abac2f99d219be8efed5b33dc9bf56693" title="ChannelMarker::setColor" alt="" coords="893,1254,1060,1281"/>
+<area shape="rect" id="node57" href="$d8/df9/classBasebandSampleSink.html#ac26ecab49780cbdd11c18da29c7a97c7" title="BasebandSampleSink\l::setMessageQueueToGUI" alt="" coords="311,1764,490,1806"/>
+<area shape="rect" id="node58" href="$da/d9b/classDATVDemod.html#a5113a41c496bb5388b22fe1ced846da8" title="DATVDemod::SetTVScreen" alt="" coords="307,1830,494,1857"/>
+<area shape="rect" id="node59" href="$da/d9b/classDATVDemod.html#a9716a77ce1fcbae40000bbc902052f83" title="DATVDemod::SetVideoRender" alt="" coords="299,1881,502,1908"/>
+<area shape="rect" id="node61" href="$de/d03/classChannelMarker.html#a40014b565a891a3173a40fe5ecfded25" title="ChannelMarker::setVisible" alt="" coords="313,1932,488,1958"/>
+<area shape="rect" id="node62" href="$d7/d6a/classDATVDemodGUI.html#a77e52cae5274027180e51c9828cbda7e" title="DATVDemodGUI::tick" alt="" coords="601,584,754,610"/>
+<area shape="rect" id="node3" href="$d6/dab/classGLSpectrum.html#af8a508110b742c425a4017b9b9734d0e" title="GLSpectrum::addChannelMarker" alt="" coords="571,102,783,129"/>
+<area shape="rect" id="node4" href="$d6/dab/classGLSpectrum.html#af02cfc0961d9d886a63abf86c900509a" title="GLSpectrum::channelMarker\lChanged" alt="" coords="883,112,1071,154"/>
+<area shape="rect" id="node5" href="$d6/dab/classGLSpectrum.html#afbe6fd537a7189b7e709fccdb80ffd75" title="GLSpectrum::channelMarker\lDestroyed" alt="" coords="883,47,1071,88"/>
+<area shape="rect" id="node7" href="$d6/dab/classGLSpectrum.html#aa45083c2872588d11f49d8ba0a2db758" title="GLSpectrum::stopDrag" alt="" coords="1423,25,1579,52"/>
+<area shape="rect" id="node6" href="$d6/dab/classGLSpectrum.html#ab37ec786fce1974167e951a7ec32d39d" title="GLSpectrum::removeChannel\lMarker" alt="" coords="1170,47,1365,88"/>
+<area shape="rect" id="node9" href="$db/d40/classChannelWindow.html#a624eeeff9a7f3da86d934cb4094c6248" title="ChannelWindow::addRollup\lWidget" alt="" coords="586,174,769,215"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1213,188,1321,214"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="1635,158,1753,185"/>
+<area shape="rect" id="node13" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1427,210,1575,251"/>
+<area shape="rect" id="node14" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="1627,210,1761,251"/>
+<area shape="rect" id="node16" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="604,1729,751,1756"/>
+<area shape="rect" id="node17" href="$d7/d6a/classDATVDemodGUI.html#aab4982d9f985c4f79171e488d89d0c36" title="DATVDemodGUI::applySettings" alt="" coords="572,1678,783,1705"/>
+<area shape="rect" id="node18" href="$de/d0b/classDATVDemod_1_1MsgConfigureChannelizer.html#a414b7afb44e29d8e4dbaca015b30580c" title="DATVDemod::MsgConfigureChannelizer\l::create" alt="" coords="847,1867,1106,1908"/>
+<area shape="rect" id="node19" href="$de/d03/classChannelMarker.html#ada2212bdce1c7d1d04f272af3d6de0f2" title="ChannelMarker::getCenter\lFrequency" alt="" coords="889,1619,1064,1660"/>
+<area shape="rect" id="node20" href="$d8/df9/classBasebandSampleSink.html#ae0cc5db7fa65ef1d619ddac7a7473c2c" title="Get the queue for asynchronous inbound communication. " alt="" coords="893,1932,1061,1974"/>
+<area shape="rect" id="node21" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="902,1998,1051,2025"/>
+<area shape="rect" id="node22" href="$d3/d20/classRollupWidget.html#aadcc89dc73ab51a2ee749d757ea3fba1" title="RollupWidget::setTitleColor" alt="" coords="885,2049,1068,2076"/>
+<area shape="rect" id="node23" href="$de/d03/classChannelMarker.html#aff47931f7224eb365ed01f9de68efdfd" title="ChannelMarker::getColor" alt="" coords="893,1685,1060,1712"/>
+<area shape="rect" id="node24" href="$d1/d4d/structDATVDemodSettings.html#a9ff17737adbd62791acbf05445d1b213" title="DATVDemodSettings::\ldebug" alt="" coords="899,1736,1055,1778"/>
+<area shape="rect" id="node25" href="$d1/d2a/classDATVDemod_1_1MsgConfigureDATVDemod.html#ad690ec7e6bdb74147cb60ff481de4285" title="DATVDemod::MsgConfigureDATVDemod\l::create" alt="" coords="843,1802,1110,1843"/>
+<area shape="rect" id="node28" href="$d3/d20/classRollupWidget.html#affcf299c8c5ae22d3aa11b634091e67f" title="RollupWidget::setHighlighted" alt="" coords="582,1780,773,1806"/>
+<area shape="rect" id="node29" href="$de/d03/classChannelMarker.html#a1b4f3dfcf12bd9f76d984d884e9991c2" title="ChannelMarker::getHighlighted" alt="" coords="577,1830,778,1857"/>
+<area shape="rect" id="node32" href="$d7/d6a/classDATVDemodGUI.html#acc1ce3a0349bf088a005403cae3cf514" title="DATVDemodGUI::handleMessage" alt="" coords="566,1430,789,1457"/>
+<area shape="rect" id="node33" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="917,1437,1036,1464"/>
+<area shape="rect" id="node35" href="$d2/d89/classDATVDemod_1_1MsgReportModcodCstlnChange.html#ac784faa1c1f0fdeeb3f8826e74d0c7e3" title="DATVDemod::MsgReportModcod\lCstlnChange::getCodeRate" alt="" coords="867,1488,1086,1530"/>
+<area shape="rect" id="node36" href="$d2/d89/classDATVDemod_1_1MsgReportModcodCstlnChange.html#ab78f3e3699b712b34ee3fa5c73ca3d5e" title="DATVDemod::MsgReportModcod\lCstlnChange::getModulation" alt="" coords="867,1554,1086,1595"/>
+<area shape="rect" id="node37" href="$d1/d4d/structDATVDemodSettings.html#a9986b61f85b62bf794f809e369ca4a32" title="DATVDemodSettings::\lvalidateSystemConfiguration" alt="" coords="882,1371,1071,1412"/>
+<area shape="rect" id="node38" href="$d7/d6a/classDATVDemodGUI.html#abbde1e594cddf741cfb46f842f16e032" title="DATVDemodGUI::displaySystem\lConfiguration" alt="" coords="867,1306,1086,1347"/>
+<area shape="rect" id="node34" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1183,1437,1352,1464"/>
+<area shape="rect" id="node39" href="$d1/d4d/structDATVDemodSettings.html#a01bbf4d376627d8d4871e1c9b3bbc2f2" title="DATVDemodSettings::\lgetAvailableModulations" alt="" coords="1186,1338,1349,1379"/>
+<area shape="rect" id="node40" href="$d1/d4d/structDATVDemodSettings.html#a2f610cd43b10b851336d07a1a8922b69" title="DATVDemodSettings::\lgetAvailableCodeRates" alt="" coords="1188,1272,1347,1314"/>
+<area shape="rect" id="node41" href="$d1/d4d/structDATVDemodSettings.html#a0b152f6230862d7285a899a720304d7b" title="DATVDemodSettings::\lgetStrFromModulation" alt="" coords="1189,844,1345,886"/>
+<area shape="rect" id="node42" href="$d1/d4d/structDATVDemodSettings.html#ae02b383488eb2059015c9acdda434ac6" title="DATVDemodSettings::\lgetStrFromCodeRate" alt="" coords="1189,1068,1345,1110"/>
+<area shape="rect" id="node44" href="$d7/d6a/classDATVDemodGUI.html#acae10aef091b9707c131f639452fa4c0" title="DATVDemodGUI::formatBytes" alt="" coords="875,178,1078,205"/>
+<area shape="rect" id="node48" href="$d3/d37/classDeviceUISet.html#a4fa0d1fe952692934fa96118776641b8" title="DeviceUISet::renameRxChannel\lInstances" alt="" coords="571,346,784,387"/>
+<area shape="rect" id="node50" href="$d1/d4d/structDATVDemodSettings.html#a6ad5ec6afe7fa7bf56821c4387e0ebf1" title="DATVDemodSettings::\lresetToDefaults" alt="" coords="599,1079,755,1120"/>
+<area shape="rect" id="node51" href="$d7/d6a/classDATVDemodGUI.html#a8ce202e2b35830efb13ed8af85bdcb03" title="DATVDemodGUI::displaySettings" alt="" coords="567,1145,788,1172"/>
+<area shape="rect" id="node52" href="$d7/d6a/classDATVDemodGUI.html#aeda31af40c86f996ee8aef1d526dd168" title="DATVDemodGUI::blockApply\lSettings" alt="" coords="879,1020,1075,1062"/>
+<area shape="rect" id="node56" href="$d7/d6a/classDATVDemodGUI.html#a6d1f8770638908e4101f3157be8530ba" title="DATVDemodGUI::displayRRCParameters" alt="" coords="841,1086,1112,1113"/>
+<area shape="rect" id="node60" href="$d3/d2d/classDATVideoRender.html#ad15b8aff5265a51065d18e534c504785" title="DATVideoRender::setAudioFIFO" alt="" coords="571,1881,784,1908"/>
+<area shape="rect" id="node63" href="$da/d9b/classDATVDemod.html#a9e4db09057cac898bba5265afdcea526" title="Beware this is scaled to 2^30. " alt="" coords="893,584,1060,610"/>
+<area shape="rect" id="node64" href="$d8/d27/classCalcDb.html#a2f6f768cb023e0cb20fb09d4ec015d5a" title="CalcDb::dbPower" alt="" coords="914,634,1039,661"/>
+<area shape="rect" id="node65" href="$da/d9b/classDATVDemod.html#ab22c26a928f762ecf6852a51e5f2bcf2" title="DATVDemod::getModcodModulation" alt="" coords="859,685,1094,712"/>
+<area shape="rect" id="node66" href="$da/d9b/classDATVDemod.html#aae076b94c5900db775be6493908dfc7d" title="DATVDemod::getModcodCodeRate" alt="" coords="861,736,1092,762"/>
+<area shape="rect" id="node67" href="$da/d9b/classDATVDemod.html#ab7d2413c4d258e6683ca78b3193a7765" title="DATVDemod::getModulation\lFromLeanDVBCode" alt="" coords="882,787,1071,828"/>
+<area shape="rect" id="node68" href="$da/d9b/classDATVDemod.html#aab57dcb47c13db7a90c72011e2567669" title="DATVDemod::getCodeRateFrom\lLeanDVBCode" alt="" coords="869,852,1084,894"/>
+<area shape="rect" id="node69" href="$da/d9b/classDATVDemod.html#a53c81c94db68c3fb2dc6233e81f3bb1a" title="DATVDemod::isCstlnSetByModcod" alt="" coords="861,918,1092,945"/>
+<area shape="rect" id="node70" href="$da/d9b/classDATVDemod.html#abd9bf6e70072af38c69499a1f77ffce1" title="DATVDemod::audioActive" alt="" coords="889,482,1065,509"/>
+<area shape="rect" id="node72" href="$da/d9b/classDATVDemod.html#a744f331d34fe1843e2d855071e1a7b16" title="DATVDemod::audioDecodeOK" alt="" coords="875,280,1078,306"/>
+<area shape="rect" id="node74" href="$da/d9b/classDATVDemod.html#a48865cda4c8c9cbf14b00109832e061e" title="DATVDemod::videoActive" alt="" coords="889,330,1065,357"/>
+<area shape="rect" id="node76" href="$da/d9b/classDATVDemod.html#aaf27421495047b3fb4e716fa19ee5d23" title="DATVDemod::videoDecodeOK" alt="" coords="875,381,1078,408"/>
+<area shape="rect" id="node78" href="$da/d9b/classDATVDemod.html#ac39a542195a7ba5d7aa4b78e139b16d4" title="DATVDemod::PlayVideo" alt="" coords="893,432,1060,458"/>
+<area shape="rect" id="node71" href="$d3/d2d/classDATVideoRender.html#a295b39c15acae7f191a7dbf53b0b28d2" title="DATVideoRender::getAudio\lStreamIndex" alt="" coords="1176,618,1359,659"/>
+<area shape="rect" id="node73" href="$d3/d2d/classDATVideoRender.html#a8b97d684e9647ebe4cfe33f5ffbfbc6f" title="DATVideoRender::getAudio\lDecodeOK" alt="" coords="1176,239,1359,280"/>
+<area shape="rect" id="node75" href="$d3/d2d/classDATVideoRender.html#aec605284a372f1ba914f90649851c5c8" title="DATVideoRender::getVideo\lStreamIndex" alt="" coords="1176,304,1359,346"/>
+<area shape="rect" id="node77" href="$d3/d2d/classDATVideoRender.html#ab2aa21948effca481641f817c5229283" title="DATVideoRender::getVideo\lDecodeOK" alt="" coords="1176,370,1359,411"/>
+<area shape="rect" id="node79" href="$dc/d44/classDATVideostream.html#abddb8019ca25e2f95ed40f9ef71d4a5e" title="DATVideostream::bytesAvailable" alt="" coords="1160,436,1375,462"/>
+<area shape="rect" id="node80" href="$d6/df7/classDATVideoRenderThread.html#a33d136f1bb1554b3d78922e5047de6fe" title="DATVideoRenderThread\l::setStreamAndRenderer" alt="" coords="1184,487,1351,528"/>
+<area shape="rect" id="node81" href="$d6/df7/classDATVideoRenderThread.html#a115cb20877ac51762eed0b57c9c9fda5" title="DATVideoRenderThread\l::stopRendering" alt="" coords="1185,552,1349,594"/>
+</map>

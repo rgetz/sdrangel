@@ -1,0 +1,9 @@
+<map id="LocalSink::setSampleRate" name="LocalSink::setSampleRate">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#a5a703cdd925b4c3467609fbdacfc7378" title="LocalSink::getLocalDevices" alt="" coords="231,143,415,170"/>
+<area shape="rect" id="node8" href="$da/d9d/classLocalSink.html#a0ded07d9959b0e588af9177abdb2ef38" title="LocalSink::setChannelizer" alt="" coords="235,194,410,221"/>
+<area shape="rect" id="node3" href="$db/d0c/classDeviceSampleSource.html#aaf223a94f1217ba743218b80497d0887" title="DeviceSampleSource\l::getDeviceDescription" alt="" coords="485,5,639,47"/>
+<area shape="rect" id="node4" href="$d7/d8a/classDSPEngine.html#a62192efc34ed3cb2d9967b22350e481d" title="DSPEngine::getDeviceSource\lEngineByIndex" alt="" coords="463,71,661,112"/>
+<area shape="rect" id="node5" href="$d7/d8a/classDSPEngine.html#a96c5b73658edb72818d73b3fcc615bb0" title="DSPEngine::getDeviceSource\lEnginesNumber" alt="" coords="463,136,661,177"/>
+<area shape="rect" id="node6" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="476,201,648,243"/>
+<area shape="rect" id="node7" href="$d7/d8a/classDSPEngine.html#a488427b7ee3616dada8a58b602e1b139" title="DSPEngine::instance" alt="" coords="489,267,635,294"/>
+</map>

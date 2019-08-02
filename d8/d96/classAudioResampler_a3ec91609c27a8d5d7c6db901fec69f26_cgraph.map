@@ -1,0 +1,4 @@
+<map id="AudioResampler::upSample" name="AudioResampler::upSample">
+<area shape="rect" id="node2" href="$d3/d3b/classAudioFilter.html#a129f405a606fd768c19ee7388d756bae" title="AudioFilter::run" alt="" coords="237,5,348,32"/>
+<area shape="rect" id="node3" href="$d5/d94/classIIRFilter.html#aba23546242ec5558bfad7f05530781c9" title="IIRFilter::run" alt="" coords="396,5,491,32"/>
+</map>

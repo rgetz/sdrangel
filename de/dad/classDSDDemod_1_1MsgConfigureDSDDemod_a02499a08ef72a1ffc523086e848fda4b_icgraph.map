@@ -1,0 +1,10 @@
+<map id="DSDDemod::MsgConfigureDSDDemod::getSettings" name="DSDDemod::MsgConfigureDSDDemod::getSettings">
+<area shape="rect" id="node2" href="$d8/d46/classDSDDemodGUI.html#a4f55c9c50a009243f1a384bdb13c0cc9" title="DSDDemodGUI::handleMessage" alt="" coords="307,15,523,42"/>
+<area shape="rect" id="node8" href="$d6/d40/classDSDDemod.html#a711070bcc23d8edde938c1ebe94f2208" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="319,67,511,94"/>
+<area shape="rect" id="node3" href="$d8/d46/classDSDDemodGUI.html#a5193ace402bd132c7a90e676169de8a8" title="DSDDemodGUI::handleInput\lMessages" alt="" coords="575,5,767,47"/>
+<area shape="rect" id="node4" href="$d8/d46/classDSDDemodGUI.html#a7ba00c6bbfe9e15dd167a3bc97f25986" title="DSDDemodGUI::DSDDemodGUI" alt="" coords="819,42,1039,69"/>
+<area shape="rect" id="node5" href="$d8/d46/classDSDDemodGUI.html#a7402c17109eb09483d40afb722b1dccd" title="DSDDemodGUI::create" alt="" coords="1087,42,1248,69"/>
+<area shape="rect" id="node6" href="$d2/df8/classDSDDemodPlugin.html#adbc58494479954ac2699ae666744cde6" title="DSDDemodPlugin::createRx\lChannelGUI" alt="" coords="1296,35,1487,76"/>
+<area shape="rect" id="node7" href="$d2/df8/classDSDDemodPlugin.html#ae0e26ca61c6bff8b7c1824fddbc52f76" title="DSDDemodPlugin::initPlugin" alt="" coords="1535,42,1725,69"/>
+<area shape="rect" id="node9" href="$d6/d40/classDSDDemod.html#a12f7eea1becbbbc7665c9a6d6a5ce5ac" title="DSDDemod::setScopeXYSink" alt="" coords="571,71,771,98"/>
+</map>

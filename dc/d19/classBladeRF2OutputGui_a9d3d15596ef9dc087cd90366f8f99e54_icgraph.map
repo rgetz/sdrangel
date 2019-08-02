@@ -1,0 +1,12 @@
+<map id="BladeRF2OutputGui::displaySampleRate" name="BladeRF2OutputGui::displaySampleRate">
+<area shape="rect" id="node2" href="$dc/d19/classBladeRF2OutputGui.html#a0a7073d6638a31e701ea2c052a9c233c" title="BladeRF2OutputGui::\ldisplaySettings" alt="" coords="230,105,377,146"/>
+<area shape="rect" id="node9" href="$dc/d19/classBladeRF2OutputGui.html#a2250b2f0ea5440d38341060d1b0d35f2" title="BladeRF2OutputGui::\lon_interp_currentIndexChanged" alt="" coords="200,170,407,212"/>
+<area shape="rect" id="node10" href="$dc/d19/classBladeRF2OutputGui.html#ab336e8e7fdad6e585c2001519be7e143" title="BladeRF2OutputGui::\lon_sampleRateMode_toggled" alt="" coords="206,236,401,277"/>
+<area shape="rect" id="node11" href="$dc/d19/classBladeRF2OutputGui.html#a4a9724db88895c9e44630534705093d5" title="BladeRF2OutputGui::\lupdateSampleRateAndFrequency" alt="" coords="455,294,672,336"/>
+<area shape="rect" id="node3" href="$dc/d19/classBladeRF2OutputGui.html#a5c8efc7e3cafc32a1b04c78ff8aa0436" title="BladeRF2OutputGui::\lBladeRF2OutputGui" alt="" coords="917,109,1064,150"/>
+<area shape="rect" id="node4" href="$dc/d19/classBladeRF2OutputGui.html#a23e7824ae7747c29de69deab39e90a87" title="BladeRF2OutputGui::\lresetToDefaults" alt="" coords="490,46,637,88"/>
+<area shape="rect" id="node5" href="$dc/d19/classBladeRF2OutputGui.html#ac4038ea6b22e9f0d0fe4fc0691ad0e86" title="BladeRF2OutputGui::\ldeserialize" alt="" coords="721,76,868,117"/>
+<area shape="rect" id="node6" href="$dc/d19/classBladeRF2OutputGui.html#ad713269743c1b93e56c21c6b9b198329" title="BladeRF2OutputGui::\lsetCenterFrequency" alt="" coords="490,164,637,205"/>
+<area shape="rect" id="node7" href="$dc/d19/classBladeRF2OutputGui.html#a889ab6ee5cd258c543671576fab6b16c" title="BladeRF2OutputGui::\lhandleMessage" alt="" coords="490,229,637,270"/>
+<area shape="rect" id="node8" href="$dc/d19/classBladeRF2OutputGui.html#a3c36cd6dfa4afb28b0fe32f56700f573" title="BladeRF2OutputGui::\lhandleInputMessages" alt="" coords="720,229,869,270"/>
+</map>

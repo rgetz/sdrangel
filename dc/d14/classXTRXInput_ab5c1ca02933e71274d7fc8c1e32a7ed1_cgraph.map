@@ -1,0 +1,5 @@
+<map id="XTRXInput::suspendTxThread" name="XTRXInput::suspendTxThread">
+<area shape="rect" id="node2" href="$dd/db6/classDeviceAPI.html#aec02b77651b8909ba3dbe7e933911019" title="DeviceAPI::getSinkBuddies" alt="" coords="254,5,438,32"/>
+<area shape="rect" id="node3" href="$da/d08/classDeviceXTRXShared_1_1ThreadInterface.html#abfde0e11c3ee0bc4346417cfcca007ec" title="DeviceXTRXShared::Thread\lInterface::isRunning" alt="" coords="252,57,440,98"/>
+<area shape="rect" id="node4" href="$da/d08/classDeviceXTRXShared_1_1ThreadInterface.html#ab00e9b981c2053ba60a6c00346f1dd35" title="DeviceXTRXShared::Thread\lInterface::stopWork" alt="" coords="252,122,440,163"/>
+</map>

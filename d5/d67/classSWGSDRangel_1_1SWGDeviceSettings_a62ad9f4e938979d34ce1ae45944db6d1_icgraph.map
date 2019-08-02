@@ -1,0 +1,14 @@
+<map id="SWGSDRangel::SWGDeviceSettings::setPerseusSettings" name="SWGSDRangel::SWGDeviceSettings::setPerseusSettings">
+<area shape="rect" id="node2" href="$dd/da7/classWebAPIRequestMapper.html#a2cad9b6ddcb69fab7d81dc001163afde" title="WebAPIRequestMapper\l::resetDeviceSettings" alt="" coords="313,5,476,47"/>
+<area shape="rect" id="node5" href="$dd/da7/classWebAPIRequestMapper.html#ab14349a00d2e89e1bcfd6ca1c800f2e4" title="WebAPIRequestMapper\l::validateDeviceSettings" alt="" coords="313,71,477,112"/>
+<area shape="rect" id="node6" href="$df/dc2/classPerseusInput.html#a6472457fd256addc5b1c5f870a110f49" title="PerseusInput::webapiReverse\lSendSettings" alt="" coords="296,136,493,177"/>
+<area shape="rect" id="node13" href="$df/dc2/classPerseusInput.html#a57d6ebe93f6b03dc804d575d2861d98c" title="PerseusInput::webapiSettingsGet" alt="" coords="542,223,759,250"/>
+<area shape="rect" id="node3" href="$dd/da7/classWebAPIRequestMapper.html#a39d314f25158f3d5165f8094766d23a8" title="WebAPIRequestMapper\l::devicesetDeviceSettingsService" alt="" coords="541,8,760,49"/>
+<area shape="rect" id="node4" href="$dd/da7/classWebAPIRequestMapper.html#aedc91387d54a611d1cf8e336f3fe82f0" title="WebAPIRequestMapper\l::service" alt="" coords="826,8,989,49"/>
+<area shape="rect" id="node7" href="$df/dc2/classPerseusInput.html#ab73dc1e8c05b2fc266346548da966f3f" title="PerseusInput::applySettings" alt="" coords="557,141,744,167"/>
+<area shape="rect" id="node8" href="$df/dc2/classPerseusInput.html#a21b0cb4115f267f1f9bbadf847ebffb6" title="PerseusInput::handleMessage" alt="" coords="808,181,1007,207"/>
+<area shape="rect" id="node10" href="$df/dc2/classPerseusInput.html#a91509ca4d1c22f48ebd8e44c15bed29c" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="845,79,969,106"/>
+<area shape="rect" id="node12" href="$df/dc2/classPerseusInput.html#a8e7bf2b59ba501b27e5b96435c7b14b6" title="PerseusInput::start" alt="" coords="841,130,974,157"/>
+<area shape="rect" id="node9" href="$df/dc2/classPerseusInput.html#a5df1af59e9e43e042b6baf24c059bccf" title="For when the source sample rate is set externally. " alt="" coords="1055,195,1252,222"/>
+<area shape="rect" id="node11" href="$dd/d6a/classPerseusInput_1_1MsgStartStop.html#a9a0988277f830dfe5e7dad73a0d77a02" title="PerseusInput::MsgStartStop\l::MsgStartStop" alt="" coords="1060,108,1247,149"/>
+</map>

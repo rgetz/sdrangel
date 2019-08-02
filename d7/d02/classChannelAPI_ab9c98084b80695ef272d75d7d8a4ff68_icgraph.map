@@ -1,0 +1,14 @@
+<map id="ChannelAPI::getDeviceAPI" name="ChannelAPI::getDeviceAPI">
+<area shape="rect" id="node2" href="$da/d9d/classLocalSink.html#ad6793d095ab68de64bb9155256276499" title="LocalSink::getLocalDevice" alt="" coords="242,107,419,133"/>
+<area shape="rect" id="node8" href="$d9/d2e/classLocalSource.html#acb35a721533da8e9d0a9d9ce2ab7493d" title="LocalSource::getLocalDevice" alt="" coords="235,187,427,213"/>
+<area shape="rect" id="node3" href="$da/d9d/classLocalSink.html#abfb1eee023c54b64f0c7c89608682f0c" title="LocalSink::start" alt="" coords="759,5,873,32"/>
+<area shape="rect" id="node5" href="$da/d9d/classLocalSink.html#a7e0c5db3a5ab16bdeacc32adf8fbc064" title="LocalSink::propagateSample\lRateAndFrequency" alt="" coords="482,55,670,97"/>
+<area shape="rect" id="node7" href="$da/d9d/classLocalSink.html#addfeb93f67689b5f92e26351d7267873" title="LocalSink::applySettings" alt="" coords="733,112,899,139"/>
+<area shape="rect" id="node4" href="$da/d9d/classLocalSink.html#a4d62e619cbbd3616bfcb3d362f050565" title="LocalSink::destroy" alt="" coords="1203,35,1334,61"/>
+<area shape="rect" id="node6" href="$da/d9d/classLocalSink.html#ab1f0a9122fd3a86d7f792b77e9e0fa55" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="962,61,1141,88"/>
+<area shape="rect" id="node9" href="$d9/d2e/classLocalSource.html#a0314af4055511b9b47f4232b7e09a1e6" title="LocalSource::start" alt="" coords="987,172,1115,199"/>
+<area shape="rect" id="node11" href="$d9/d2e/classLocalSource.html#ad4f8e6fab4869b976fc197110fa3f188" title="LocalSource::propagateSample\lRateAndFrequency" alt="" coords="475,223,677,265"/>
+<area shape="rect" id="node13" href="$d9/d2e/classLocalSource.html#aaa762764f5f8dd9d77e29bdd9cd3ce4e" title="LocalSource::applySettings" alt="" coords="725,277,907,304"/>
+<area shape="rect" id="node10" href="$d9/d2e/classLocalSource.html#a7558a5e6f8e594bb21f1b9aa06993534" title="LocalSource::destroy" alt="" coords="1196,197,1341,224"/>
+<area shape="rect" id="node12" href="$d9/d2e/classLocalSource.html#a1dd06048e447aec5b3a748f1f66186d4" title="Processing of a message. Returns true if message has actually been processed. " alt="" coords="955,227,1148,253"/>
+</map>

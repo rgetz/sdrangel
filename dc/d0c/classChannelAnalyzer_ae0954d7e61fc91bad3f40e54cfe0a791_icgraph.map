@@ -1,0 +1,7 @@
+<map id="ChannelAnalyzer::getPllFrequency" name="ChannelAnalyzer::getPllFrequency">
+<area shape="rect" id="node2" href="$dc/d0c/classChannelAnalyzer.html#abd0c77820c79c62449428b10292e60b4" title="ChannelAnalyzer::isPllLocked" alt="" coords="276,5,472,32"/>
+<area shape="rect" id="node3" href="$da/d16/classChannelAnalyzerGUI.html#a0c9e256689ccf2a18fb6f6dc2ddf9c65" title="ChannelAnalyzerGUI\l::tick" alt="" coords="520,23,665,65"/>
+<area shape="rect" id="node4" href="$da/d16/classChannelAnalyzerGUI.html#ad6196e7f1db292a0451bb78fc233873e" title="ChannelAnalyzerGUI\l::ChannelAnalyzerGUI" alt="" coords="713,23,867,65"/>
+<area shape="rect" id="node5" href="$da/d16/classChannelAnalyzerGUI.html#ae3b4cdb1d08039e91348386bc88bcef9" title="ChannelAnalyzerGUI\l::create" alt="" coords="915,23,1060,65"/>
+<area shape="rect" id="node6" href="$d4/d03/classChannelAnalyzerPlugin.html#a9eefd647dc7104f0c2fabfcedd3f7bd0" title="ChannelAnalyzerPlugin\l::createRxChannelGUI" alt="" coords="1108,23,1265,65"/>
+</map>

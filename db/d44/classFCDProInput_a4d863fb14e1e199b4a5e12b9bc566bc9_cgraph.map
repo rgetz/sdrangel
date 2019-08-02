@@ -1,0 +1,6 @@
+<map id="FCDProInput::set_lnaGain" name="FCDProInput::set_lnaGain">
+<area shape="rect" id="node2" href="$d7/d3c/fcdhid_8c.html#a5d0c7673fda0cad0feee709b17d48ad2" title="Write FCD parameter (e.g. gain or filter) " alt="" coords="256,31,377,57"/>
+<area shape="rect" id="node5" href="$d1/dd2/classFCDProConstants.html#aab3df9a981aa64baa61df77e7ce5b226" title="FCDProConstants::fcdpro\l_lna_gain_nb_values" alt="" coords="229,82,404,123"/>
+<area shape="rect" id="node3" href="$dc/d19/group__API.html#ga6b820f3e72097cf7f994e33715dc7af1" title="Read an Input report from a HID device. " alt="" coords="454,5,525,32"/>
+<area shape="rect" id="node4" href="$dc/d19/group__API.html#gad14ea48e440cf5066df87cc6488493af" title="Write an Output report to a HID device. " alt="" coords="452,56,527,83"/>
+</map>

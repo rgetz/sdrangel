@@ -1,0 +1,12 @@
+<map id="FileSinkGui::deserialize" name="FileSinkGui::deserialize">
+<area shape="rect" id="node2" href="$d5/dc0/structFileSinkSettings.html#a33e8403fac1f1e3af3f2eed476044129" title="FileSinkSettings::deserialize" alt="" coords="214,212,401,239"/>
+<area shape="rect" id="node9" href="$de/de4/classFileSinkGui.html#a464832fb59b6e033f1edffab8f1dd699" title="FileSinkGui::displaySettings" alt="" coords="451,5,637,32"/>
+<area shape="rect" id="node10" href="$de/de4/classFileSinkGui.html#a249115702562388ff4d374ea240165bd" title="FileSinkGui::resetToDefaults" alt="" coords="212,56,403,83"/>
+<area shape="rect" id="node11" href="$de/de4/classFileSinkGui.html#a45d0ee4e2667be9d162d79aaa2f339d5" title="FileSinkGui::sendSettings" alt="" coords="457,56,631,83"/>
+<area shape="rect" id="node3" href="$d2/d0e/classSimpleDeserializer.html#a3d43f67a8fe0bd65db199fefb85402dd" title="SimpleDeserializer\l::isValid" alt="" coords="479,238,609,279"/>
+<area shape="rect" id="node4" href="$d5/dc0/structFileSinkSettings.html#ad8d7438d0cf7e114f7423d97fa495a2b" title="FileSinkSettings::resetTo\lDefaults" alt="" coords="459,107,629,149"/>
+<area shape="rect" id="node5" href="$d2/d0e/classSimpleDeserializer.html#aea593a8a90f93097e6eca83b2bf2cd0e" title="SimpleDeserializer\l::getVersion" alt="" coords="479,303,609,345"/>
+<area shape="rect" id="node6" href="$d2/d0e/classSimpleDeserializer.html#a90c7dffb2b72a1b12358f680e9dfa469" title="SimpleDeserializer\l::readU64" alt="" coords="479,173,609,214"/>
+<area shape="rect" id="node8" href="$d2/d0e/classSimpleDeserializer.html#a721cf95b03a310f8fa549bdfed1c8529" title="SimpleDeserializer\l::readU32" alt="" coords="479,369,609,410"/>
+<area shape="rect" id="node7" href="$d2/d0e/classSimpleDeserializer.html#a7738d10f54b40e83ef5cfaf162b5b96d" title="SimpleDeserializer\l::readByte" alt="" coords="685,271,816,313"/>
+</map>

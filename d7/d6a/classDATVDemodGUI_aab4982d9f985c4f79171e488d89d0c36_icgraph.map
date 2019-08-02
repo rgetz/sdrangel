@@ -1,0 +1,31 @@
+<map id="DATVDemodGUI::applySettings" name="DATVDemodGUI::applySettings">
+<area shape="rect" id="node2" href="$d7/d6a/classDATVDemodGUI.html#a05c611b3dacc58fdd2f03591300a7c19" title="DATVDemodGUI::audioSelect" alt="" coords="289,71,489,98"/>
+<area shape="rect" id="node6" href="$d7/d6a/classDATVDemodGUI.html#a7a118e21b0aad1afcd470dd89147f4c3" title="DATVDemodGUI::channelMarker\lChangedByCursor" alt="" coords="281,5,498,47"/>
+<area shape="rect" id="node7" href="$d7/d6a/classDATVDemodGUI.html#aa39ee32a979168d59cd22b7b9ac0112d" title="DATVDemodGUI::deserialize" alt="" coords="583,830,777,857"/>
+<area shape="rect" id="node8" href="$d7/d6a/classDATVDemodGUI.html#a97187ed3a69bd5a237fa0ad558d373cd" title="DATVDemodGUI::on_audioMute\l_toggled" alt="" coords="283,173,496,215"/>
+<area shape="rect" id="node9" href="$d7/d6a/classDATVDemodGUI.html#a474198a03f0339c5b42573cf7311072a" title="DATVDemodGUI::on_audioVolume\l_valueChanged" alt="" coords="275,239,503,280"/>
+<area shape="rect" id="node10" href="$d7/d6a/classDATVDemodGUI.html#ac6cb61c10f4a904ef16f1416c2bbd23b" title="DATVDemodGUI::on_chkAllow\lDrift_clicked" alt="" coords="286,304,493,345"/>
+<area shape="rect" id="node11" href="$d7/d6a/classDATVDemodGUI.html#a1418a5fdb8d7f6ba505d74186d2cfb8c" title="DATVDemodGUI::on_chkFastlock\l_clicked" alt="" coords="277,369,501,411"/>
+<area shape="rect" id="node12" href="$d7/d6a/classDATVDemodGUI.html#a25ca0d251d0b347a42bf8f4d5d14b09f" title="DATVDemodGUI::on_chkHard\lMetric_clicked" alt="" coords="288,435,491,476"/>
+<area shape="rect" id="node13" href="$d7/d6a/classDATVDemodGUI.html#ad92e337a1fba3d0fcf8ea21426463a58" title="DATVDemodGUI::on_chkViterbi\l_clicked" alt="" coords="284,500,495,541"/>
+<area shape="rect" id="node14" href="$d7/d6a/classDATVDemodGUI.html#ae8892598dbbd66dc6d49545cf8d8ff4a" title="DATVDemodGUI::on_cmbFEC\l_currentIndexChanged" alt="" coords="287,565,492,607"/>
+<area shape="rect" id="node15" href="$d7/d6a/classDATVDemodGUI.html#aadd4a32f6e75e2aa7796c2acef271cf2" title="DATVDemodGUI::on_cmbFilter\l_currentIndexChanged" alt="" coords="286,631,493,672"/>
+<area shape="rect" id="node16" href="$d7/d6a/classDATVDemodGUI.html#a4bb50aec847b761482f4ae1a8c82e673" title="DATVDemodGUI::on_cmbModulation\l_currentIndexChanged" alt="" coords="269,696,510,737"/>
+<area shape="rect" id="node17" href="$d7/d6a/classDATVDemodGUI.html#ac2e8070d4c62a6d6b119e108be1957fb" title="DATVDemodGUI::on_cmbStandard\l_currentIndexChanged" alt="" coords="274,761,505,803"/>
+<area shape="rect" id="node18" href="$d7/d6a/classDATVDemodGUI.html#a3b6e6949427cd003a2e23cec9dd92d47" title="DATVDemodGUI::on_deltaFrequency\l_changed" alt="" coords="268,827,511,868"/>
+<area shape="rect" id="node19" href="$d7/d6a/classDATVDemodGUI.html#a59d049d04f2deb6cd4935a380cd96960" title="DATVDemodGUI::on_rfBandwidth\l_changed" alt="" coords="278,892,501,933"/>
+<area shape="rect" id="node20" href="$d7/d6a/classDATVDemodGUI.html#a356a0da41181b9c5d0baef5eadd6b5ad" title="DATVDemodGUI::on_spiExcursion\l_valueChanged" alt="" coords="275,957,503,999"/>
+<area shape="rect" id="node21" href="$d7/d6a/classDATVDemodGUI.html#ab8956a31aeb1bd365fdbca395e3e22c2" title="DATVDemodGUI::on_spiNotch\lFilters_valueChanged" alt="" coords="287,1023,492,1064"/>
+<area shape="rect" id="node22" href="$d7/d6a/classDATVDemodGUI.html#aa771314dd994ca2fdf82bb65e3eec6fc" title="DATVDemodGUI::on_spiRoll\lOff_valueChanged" alt="" coords="293,1088,486,1129"/>
+<area shape="rect" id="node23" href="$d7/d6a/classDATVDemodGUI.html#a03506d8758625fe9f74c8fecff223ad3" title="DATVDemodGUI::on_spiSymbol\lRate_valueChanged" alt="" coords="282,1153,497,1195"/>
+<area shape="rect" id="node24" href="$d7/d6a/classDATVDemodGUI.html#aaa37de830b9a1884270e363e0661d48e" title="DATVDemodGUI::on_udpTS\l_clicked" alt="" coords="294,1219,485,1260"/>
+<area shape="rect" id="node25" href="$d7/d6a/classDATVDemodGUI.html#a0b51799f6c51269f3a86b18a6e2c27a5" title="DATVDemodGUI::on_udpTSAddress\l_editingFinished" alt="" coords="270,1284,509,1325"/>
+<area shape="rect" id="node26" href="$d7/d6a/classDATVDemodGUI.html#ad8bf0fe14c5b7f111c14faff0aaae825" title="DATVDemodGUI::on_udpTSPort\l_editingFinished" alt="" coords="282,1349,497,1391"/>
+<area shape="rect" id="node27" href="$d7/d6a/classDATVDemodGUI.html#ae885a6ffe2427a844a385ace44dc78b5" title="DATVDemodGUI::on_videoMute\l_toggled" alt="" coords="283,1415,496,1456"/>
+<area shape="rect" id="node28" href="$d7/d6a/classDATVDemodGUI.html#a1dd795397ee2c509bc3c761cebe86b44" title="DATVDemodGUI::resetToDefaults" alt="" coords="277,122,502,149"/>
+<area shape="rect" id="node30" href="$d7/d6a/classDATVDemodGUI.html#ac148be470f94def2833c4025c643b562" title="DATVDemodGUI::setCenterFrequency" alt="" coords="264,1531,515,1558"/>
+<area shape="rect" id="node3" href="$d7/d6a/classDATVDemodGUI.html#ae0002d4befcd7cf619607352168acbd6" title="DATVDemodGUI::DATVDemodGUI" alt="" coords="563,67,797,94"/>
+<area shape="rect" id="node4" href="$d7/d6a/classDATVDemodGUI.html#a845ff206f4c1d8020db0c3c57cb2ebb6" title="DATVDemodGUI::create" alt="" coords="845,67,1013,94"/>
+<area shape="rect" id="node5" href="$d0/d37/classDATVDemodPlugin.html#ab917121134f3fe91c7d3f492d1fda98e" title="DATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1061,60,1259,101"/>
+<area shape="rect" id="node29" href="$d7/d6a/classDATVDemodGUI.html#ae2d20df78383769d210ff3ac9f02ea9c" title="DATVDemodGUI::on_resetDefaults\l_clicked" alt="" coords="565,119,795,160"/>
+</map>

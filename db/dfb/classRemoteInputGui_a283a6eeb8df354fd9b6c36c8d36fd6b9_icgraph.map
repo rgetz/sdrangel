@@ -1,0 +1,14 @@
+<map id="RemoteInputGui::sendSettings" name="RemoteInputGui::sendSettings">
+<area shape="rect" id="node2" href="$db/dfb/classRemoteInputGui.html#aa0b2ed4a5d866afc068fcb89d586d2e2" title="RemoteInputGui::deserialize" alt="" coords="271,5,457,32"/>
+<area shape="rect" id="node3" href="$db/dfb/classRemoteInputGui.html#a0d55b5747221e98b4e1e3eb352da09f2" title="RemoteInputGui::on\l_apiAddress_returnPressed" alt="" coords="273,57,455,98"/>
+<area shape="rect" id="node4" href="$db/dfb/classRemoteInputGui.html#a96f34f41612ee1bdf7be18759919bdb6" title="RemoteInputGui::on\l_apiApplyButton_clicked" alt="" coords="281,122,447,163"/>
+<area shape="rect" id="node5" href="$db/dfb/classRemoteInputGui.html#ad0dc40f3934117fb953f5b0e864755fd" title="RemoteInputGui::on\l_apiPort_returnPressed" alt="" coords="285,187,443,229"/>
+<area shape="rect" id="node6" href="$db/dfb/classRemoteInputGui.html#a33c5b6d2fb338a8f6a978f9bab1b6da0" title="RemoteInputGui::on\l_dataAddress_returnPressed" alt="" coords="269,253,459,294"/>
+<area shape="rect" id="node7" href="$db/dfb/classRemoteInputGui.html#a776765a23c8e8b3ff36b762ff806a1de" title="RemoteInputGui::on\l_dataApplyButton_clicked" alt="" coords="277,318,451,359"/>
+<area shape="rect" id="node8" href="$db/dfb/classRemoteInputGui.html#ae8d5054c60f7c32e86557b8cd28fb975" title="RemoteInputGui::on\l_dataPort_returnPressed" alt="" coords="281,383,447,425"/>
+<area shape="rect" id="node9" href="$db/dfb/classRemoteInputGui.html#a079cb7f05c49da87602856d6d5656d45" title="RemoteInputGui::on\l_dcOffset_toggled" alt="" coords="295,449,433,490"/>
+<area shape="rect" id="node10" href="$db/dfb/classRemoteInputGui.html#a0a0401052610e010a175f7ec8beea50f" title="RemoteInputGui::on\l_iqImbalance_toggled" alt="" coords="290,514,438,555"/>
+<area shape="rect" id="node11" href="$db/dfb/classRemoteInputGui.html#a067ed427b835bbe050e35e74df1733d8" title="RemoteInputGui::openDevice\lSettingsDialog" alt="" coords="267,579,461,621"/>
+<area shape="rect" id="node12" href="$db/dfb/classRemoteInputGui.html#a78d5a650119812ffc270775a5b070461" title="RemoteInputGui::RemoteInputGui" alt="" coords="521,616,741,643"/>
+<area shape="rect" id="node13" href="$db/dfb/classRemoteInputGui.html#a871ebac02b9d6b195189f11b0e92471a" title="RemoteInputGui::resetToDefaults" alt="" coords="255,696,473,723"/>
+</map>

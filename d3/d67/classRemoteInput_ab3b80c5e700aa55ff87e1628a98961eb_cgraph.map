@@ -1,0 +1,22 @@
+<map id="RemoteInput::webapiReportGet" name="RemoteInput::webapiReportGet">
+<area shape="rect" id="node2" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#ad7333c749b75ca5454394df6d42e5fe2" title="SWGSDRangel::SWGDeviceReport\l::getRemoteInputReport" alt="" coords="543,5,777,47"/>
+<area shape="rect" id="node3" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#a25dbb7aa9a1eeafe69c93fd059ddde3a" title="SWGSDRangel::SWGRemoteInput\lReport::init" alt="" coords="263,149,492,191"/>
+<area shape="rect" id="node4" href="$d5/de6/classSWGSDRangel_1_1SWGDeviceReport.html#a7811e4acfd05d9155a2058639e0f70f8" title="SWGSDRangel::SWGDeviceReport\l::setRemoteInputReport" alt="" coords="260,215,495,256"/>
+<area shape="rect" id="node5" href="$d3/d67/classRemoteInput.html#af0bcd73466bef7034194c0d1543fabcf" title="RemoteInput::webapiFormat\lDeviceReport" alt="" coords="284,365,471,407"/>
+<area shape="rect" id="node6" href="$d9/dd6/classRemoteInputUDPHandler.html#a0a34c59fde304831ca668d10c1a09a2b" title="RemoteInputUDPHandler\l::getBufferGauge" alt="" coords="575,71,745,112"/>
+<area shape="rect" id="node8" href="$d9/dd6/classRemoteInputUDPHandler.html#acbd5a57b3127b34bc353650f2a1452e8" title="RemoteInputUDPHandler\l::getCenterFrequency" alt="" coords="575,136,745,177"/>
+<area shape="rect" id="node9" href="$d9/dd6/classRemoteInputUDPHandler.html#a2bc176158904a1056eeb0a18a77c14e9" title="RemoteInputUDPHandler\l::getMaxNbRecovery" alt="" coords="575,201,745,243"/>
+<area shape="rect" id="node12" href="$d9/dd6/classRemoteInputUDPHandler.html#a0ebcdc5d2d9576560ee2cde81a58834c" title="RemoteInputUDPHandler\l::getMinNbBlocks" alt="" coords="575,267,745,308"/>
+<area shape="rect" id="node14" href="$d9/dd6/classRemoteInputUDPHandler.html#adf03aa50fe7ea007615df3d81aa3e152" title="RemoteInputUDPHandler\l::getSampleRate" alt="" coords="575,332,745,373"/>
+<area shape="rect" id="node15" href="$d9/dd6/classRemoteInputUDPHandler.html#aa3fe097e46ecceb3147087c2c05ec719" title="RemoteInputUDPHandler\l::getTVmSec" alt="" coords="575,397,745,439"/>
+<area shape="rect" id="node16" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#af46a0e43e8f98b77a76eac5fa2d3731a" title="SWGSDRangel::SWGRemoteInput\lReport::setBufferRwBalance" alt="" coords="545,463,775,504"/>
+<area shape="rect" id="node17" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#a4631f12a58b58ef2d91393907445adb0" title="SWGSDRangel::SWGRemoteInput\lReport::setCenterFrequency" alt="" coords="545,528,775,569"/>
+<area shape="rect" id="node18" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#acb104c09be5ac0a2449122a0b98b91f7" title="SWGSDRangel::SWGRemoteInput\lReport::setMaxNbRecovery" alt="" coords="545,593,775,635"/>
+<area shape="rect" id="node19" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#acbec17dc2dfffb8d45144989acaf2856" title="SWGSDRangel::SWGRemoteInput\lReport::setMinNbBlocks" alt="" coords="545,659,775,700"/>
+<area shape="rect" id="node20" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#a2ae081014c85b30ead359d51bfb65fa5" title="SWGSDRangel::SWGRemoteInput\lReport::setRemoteTimestamp" alt="" coords="545,724,775,765"/>
+<area shape="rect" id="node21" href="$d1/d77/classSWGSDRangel_1_1SWGRemoteInputReport.html#ab86d3effbf0efee490d550a9e762eaec" title="SWGSDRangel::SWGRemoteInput\lReport::setSampleRate" alt="" coords="545,789,775,831"/>
+<area shape="rect" id="node7" href="$d8/d6d/classRemoteInputBuffer.html#a6a3e969fe6a7e6c2a4401756018ef3a5" title="RemoteInputBuffer::\lgetBufferGauge" alt="" coords="841,71,981,112"/>
+<area shape="rect" id="node10" href="$d8/d6d/classRemoteInputBuffer.html#ad6d09cdae9fbd21a194f6167ae16d38b" title="RemoteInputBuffer::\lgetMaxNbRecovery" alt="" coords="841,136,981,177"/>
+<area shape="rect" id="node11" href="$d9/dd6/classRemoteInputUDPHandler.html#a53beb777f646aa790c5b7e02ba5c197a" title="RemoteInputUDPHandler\l::dataReadyRead" alt="" coords="825,201,996,243"/>
+<area shape="rect" id="node13" href="$d8/d6d/classRemoteInputBuffer.html#a97e1c5f52fc308397b756b01648ada9e" title="RemoteInputBuffer::\lgetMinNbBlocks" alt="" coords="841,267,981,308"/>
+</map>

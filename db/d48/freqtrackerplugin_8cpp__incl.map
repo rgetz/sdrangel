@@ -1,0 +1,29 @@
+<map id="plugins/channelrx/freqtracker/freqtrackerplugin.cpp" name="plugins/channelrx/freqtracker/freqtrackerplugin.cpp">
+<area shape="rect" id="node3" href="$de/ddc/pluginapi_8h.html" title="plugin/pluginapi.h" alt="" coords="233,169,356,196"/>
+<area shape="rect" id="node9" href="$d7/d00/freqtrackergui_8h.html" title="freqtrackergui.h" alt="" coords="760,169,872,196"/>
+<area shape="rect" id="node29" href="$d2/d7d/freqtracker_8h.html" title="freqtracker.h" alt="" coords="2243,95,2338,121"/>
+<area shape="rect" id="node46" href="$da/df9/freqtrackerplugin_8h.html" title="freqtrackerplugin.h" alt="" coords="59,169,189,196"/>
+<area shape="rect" id="node6" href="$db/db5/export_8h.html" title="export.h" alt="" coords="1519,319,1588,345"/>
+<area shape="rect" id="node7" href="$d3/dc1/plugininterface_8h.html" title="plugin/plugininterface.h" alt="" coords="47,244,201,271"/>
+<area shape="rect" id="node11" href="$d3/d79/plugininstancegui_8h.html" title="plugin/plugininstancegui.h" alt="" coords="800,244,971,271"/>
+<area shape="rect" id="node14" href="$d9/d4c/rollupwidget_8h.html" title="gui/rollupwidget.h" alt="" coords="353,244,476,271"/>
+<area shape="rect" id="node16" href="$d0/d87/channelmarker_8h.html" title="dsp/channelmarker.h" alt="" coords="551,244,694,271"/>
+<area shape="rect" id="node19" href="$d1/d85/dsp_2movingaverage_8h.html" title="dsp/movingaverage.h" alt="" coords="2665,244,2812,271"/>
+<area shape="rect" id="node25" href="$d6/d4c/messagequeue_8h.html" title="util/messagequeue.h" alt="" coords="1379,244,1522,271"/>
+<area shape="rect" id="node28" href="$d3/dbf/freqtrackersettings_8h.html" title="freqtrackersettings.h" alt="" coords="1045,244,1187,271"/>
+<area shape="rect" id="node18" href="$d5/da3/serializable_8h.html" title="settings/serializable.h" alt="" coords="559,319,707,345"/>
+<area shape="rect" id="node23" href="$d2/d7e/dsptypes_8h.html" title="dsp/dsptypes.h" alt="" coords="2185,319,2295,345"/>
+<area shape="rect" id="node31" href="$dc/d08/basebandsamplesink_8h.html" title="dsp/basebandsamplesink.h" alt="" coords="1497,169,1677,196"/>
+<area shape="rect" id="node32" href="$d2/d0d/message_8h.html" title="util/message.h" alt="" coords="1597,244,1704,271"/>
+<area shape="rect" id="node34" href="$d0/d7b/channelapi_8h.html" title="channel/channelapi.h" alt="" coords="1211,244,1355,271"/>
+<area shape="rect" id="node35" href="$db/d07/ncof_8h.html" title="dsp/ncof.h" alt="" coords="2199,244,2281,271"/>
+<area shape="rect" id="node36" href="$d6/d18/interpolator_8h.html" title="dsp/interpolator.h" alt="" coords="2305,244,2428,271"/>
+<area shape="rect" id="node38" href="$d8/dbc/util_2movingaverage_8h.html" title="util/movingaverage.h" alt="" coords="2837,244,2979,271"/>
+<area shape="rect" id="node39" href="$de/db0/agc_8h.html" title="dsp/agc.h" alt="" coords="2765,169,2843,196"/>
+<area shape="rect" id="node40" href="$db/dba/bandpass_8h.html" title="dsp/bandpass.h" alt="" coords="2459,169,2573,196"/>
+<area shape="rect" id="node42" href="$d0/d58/lowpass_8h.html" title="dsp/lowpass.h" alt="" coords="2328,169,2435,196"/>
+<area shape="rect" id="node43" href="$d9/d08/phaselockcomplex_8h.html" title="dsp/phaselockcomplex.h" alt="" coords="1830,244,1997,271"/>
+<area shape="rect" id="node44" href="$d1/d07/freqlockcomplex_8h.html" title="dsp/freqlockcomplex.h" alt="" coords="2021,244,2174,271"/>
+<area shape="rect" id="node45" href="$d7/d68/doublebufferfifo_8h.html" title="util/doublebufferfifo.h" alt="" coords="2598,169,2741,196"/>
+<area shape="rect" id="node41" href="$df/db1/math_8h.html" title="math.h" alt="" coords="2554,244,2617,271"/>
+</map>

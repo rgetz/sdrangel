@@ -1,0 +1,6 @@
+<map id="FreeDVModGUI::on_showFileDialog_clicked" name="FreeDVModGUI::on_showFileDialog_clicked">
+<area shape="rect" id="node2" href="$de/d8e/classFreeDVModGUI.html#ad91ceefe8f6d2a395eba23003bc183fc" title="FreeDVModGUI::configureFileName" alt="" coords="251,78,484,105"/>
+<area shape="rect" id="node3" href="$db/d0f/classFreeDVMod_1_1MsgConfigureFileSourceName.html#a768d72e8b72fc0b6549d787c75fa0033" title="FreeDVMod::MsgConfigureFile\lSourceName::create" alt="" coords="532,5,735,47"/>
+<area shape="rect" id="node4" href="$d9/dfb/classBasebandSampleSource.html#a6de3db690cde2f6747ca68a7466363e6" title="Get the queue for asynchronous inbound communication. " alt="" coords="549,71,717,112"/>
+<area shape="rect" id="node5" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="559,137,708,163"/>
+</map>

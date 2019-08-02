@@ -1,0 +1,10 @@
+<map id="SWGSDRangel::SWGFCDProPlusSettings::setBiasT" name="SWGSDRangel::SWGFCDProPlusSettings::setBiasT">
+<area shape="rect" id="node2" href="$d6/d0c/classFCDProPlusInput.html#a9c5a314434588275140df222c547dd2f" title="FCDProPlusInput::webapiFormat\lDeviceSettings" alt="" coords="285,53,500,94"/>
+<area shape="rect" id="node5" href="$d6/d0c/classFCDProPlusInput.html#a04bfd58fb4b5826ddbc5a027fb007463" title="FCDProPlusInput::webapiReverse\lSendSettings" alt="" coords="281,118,504,159"/>
+<area shape="rect" id="node3" href="$d6/d0c/classFCDProPlusInput.html#aa90fd7cc9797bfa1a4b342bef09125a3" title="FCDProPlusInput::webapiSettingsGet" alt="" coords="552,5,795,32"/>
+<area shape="rect" id="node4" href="$d6/d0c/classFCDProPlusInput.html#a50dbf5b184acf88b48ff85905db67d7e" title="FCDProPlusInput::webapiSettings\lPutPatch" alt="" coords="562,57,785,98"/>
+<area shape="rect" id="node6" href="$d6/d0c/classFCDProPlusInput.html#abc1e2ec4e142083ff3d6485b20b36154" title="FCDProPlusInput::applySettings" alt="" coords="567,125,779,152"/>
+<area shape="rect" id="node7" href="$d6/d0c/classFCDProPlusInput.html#af2a33a42a9581b86f4d6d6093e92d43e" title="FCDProPlusInput::handleMessage" alt="" coords="843,75,1067,101"/>
+<area shape="rect" id="node8" href="$d6/d0c/classFCDProPlusInput.html#a715d38e9cc6c7b8d70eca26e039953f4" title="initializations to be done when all collaborating objects are created and possibly connected ..." alt="" coords="879,125,1030,152"/>
+<area shape="rect" id="node9" href="$d6/d0c/classFCDProPlusInput.html#a2a9b9a703885b1ff1bbc14fca2263336" title="FCDProPlusInput::start" alt="" coords="875,176,1034,203"/>
+</map>

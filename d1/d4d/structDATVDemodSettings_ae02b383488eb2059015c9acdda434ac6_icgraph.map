@@ -1,0 +1,16 @@
+<map id="DATVDemodSettings::getStrFromCodeRate" name="DATVDemodSettings::getStrFromCodeRate">
+<area shape="rect" id="node2" href="$d7/d6a/classDATVDemodGUI.html#abbde1e594cddf741cfb46f842f16e032" title="DATVDemodGUI::displaySystem\lConfiguration" alt="" coords="209,134,428,175"/>
+<area shape="rect" id="node14" href="$d1/d4d/structDATVDemodSettings.html#add7dd56e6464ef83352cf88b90448612" title="DATVDemodSettings::\lsetChannelMarker" alt="" coords="241,199,397,241"/>
+<area shape="rect" id="node15" href="$d7/d6a/classDATVDemodGUI.html#a77e52cae5274027180e51c9828cbda7e" title="DATVDemodGUI::tick" alt="" coords="801,212,955,239"/>
+<area shape="rect" id="node3" href="$d7/d6a/classDATVDemodGUI.html#a8ce202e2b35830efb13ed8af85bdcb03" title="DATVDemodGUI::displaySettings" alt="" coords="486,32,707,59"/>
+<area shape="rect" id="node10" href="$d7/d6a/classDATVDemodGUI.html#acc1ce3a0349bf088a005403cae3cf514" title="DATVDemodGUI::handleMessage" alt="" coords="485,83,708,109"/>
+<area shape="rect" id="node12" href="$d7/d6a/classDATVDemodGUI.html#a4bb50aec847b761482f4ae1a8c82e673" title="DATVDemodGUI::on_cmbModulation\l_currentIndexChanged" alt="" coords="476,134,717,175"/>
+<area shape="rect" id="node13" href="$d7/d6a/classDATVDemodGUI.html#ac2e8070d4c62a6d6b119e108be1957fb" title="DATVDemodGUI::on_cmbStandard\l_currentIndexChanged" alt="" coords="481,199,712,241"/>
+<area shape="rect" id="node4" href="$d7/d6a/classDATVDemodGUI.html#aa39ee32a979168d59cd22b7b9ac0112d" title="DATVDemodGUI::deserialize" alt="" coords="1059,5,1253,32"/>
+<area shape="rect" id="node5" href="$d7/d6a/classDATVDemodGUI.html#a1dd795397ee2c509bc3c761cebe86b44" title="DATVDemodGUI::resetToDefaults" alt="" coords="765,59,991,85"/>
+<area shape="rect" id="node6" href="$d7/d6a/classDATVDemodGUI.html#ae0002d4befcd7cf619607352168acbd6" title="DATVDemodGUI::DATVDemodGUI" alt="" coords="1039,123,1273,149"/>
+<area shape="rect" id="node9" href="$d7/d6a/classDATVDemodGUI.html#ae2d20df78383769d210ff3ac9f02ea9c" title="DATVDemodGUI::on_resetDefaults\l_clicked" alt="" coords="1041,57,1271,98"/>
+<area shape="rect" id="node7" href="$d7/d6a/classDATVDemodGUI.html#a845ff206f4c1d8020db0c3c57cb2ebb6" title="DATVDemodGUI::create" alt="" coords="1321,123,1489,149"/>
+<area shape="rect" id="node8" href="$d0/d37/classDATVDemodPlugin.html#ab917121134f3fe91c7d3f492d1fda98e" title="DATVDemodPlugin::createRx\lChannelGUI" alt="" coords="1537,115,1735,157"/>
+<area shape="rect" id="node11" href="$d7/d6a/classDATVDemodGUI.html#ab94ac900f9b4a52d4dc427e4b4bfcd63" title="DATVDemodGUI::handleInput\lMessages" alt="" coords="779,114,977,155"/>
+</map>

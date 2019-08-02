@@ -1,0 +1,35 @@
+<map id="GLScope::paintGL" name="GLScope::paintGL">
+<area shape="rect" id="node2" href="$d2/d02/classGLScope.html#a366e112820a69abe443077941b7fcc86" title="GLScope::applyConfig" alt="" coords="213,385,367,412"/>
+<area shape="rect" id="node4" href="$dc/db0/classScaleEngine.html#a83b0bd96c847ba4982196a138eb727e7" title="ScaleEngine::getTickList" alt="" coords="722,208,889,235"/>
+<area shape="rect" id="node16" href="$d7/d1e/namespaceleansdr.html#aac6fe833df827732441862452ff6c48d" title="leansdr::min" alt="" coords="759,563,852,589"/>
+<area shape="rect" id="node19" href="$d2/d02/classGLScope.html#a078a962a9f2ddae4be677b540949c21b" title="GLScope::tick" alt="" coords="753,259,858,285"/>
+<area shape="rect" id="node26" href="$d2/d02/classGLScope.html#ab9ffb77d9cde75ff33f4037f0aada709" title="GLScope::drawChannelOverlay" alt="" coords="187,613,393,640"/>
+<area shape="rect" id="node27" href="$d1/d17/classGLShaderTextured.html#a71ad483c10e3a6ca6349d6539202de1c" title="GLShaderTextured::drawSurface" alt="" coords="445,715,657,741"/>
+<area shape="rect" id="node29" href="$de/d86/classGLShaderSimple.html#aee78052d85cea55bc96d746109eee5ce" title="GLShaderSimple::drawContour" alt="" coords="189,867,391,893"/>
+<area shape="rect" id="node31" href="$de/d86/classGLShaderSimple.html#a3ad994b8cd3d0512b98cb4018b2b88ea" title="GLShaderSimple::drawPoints" alt="" coords="193,917,387,944"/>
+<area shape="rect" id="node32" href="$de/d86/classGLShaderSimple.html#a75d0bd800889f0e4a8e4091a2333d0c6" title="GLShaderSimple::drawPolyline" alt="" coords="189,765,391,792"/>
+<area shape="rect" id="node33" href="$de/d86/classGLShaderSimple.html#aa96e9582fa9bac28d025277eb5286e3f" title="GLShaderSimple::drawSegments" alt="" coords="183,816,397,843"/>
+<area shape="rect" id="node34" href="$dc/db0/classScaleEngine.html#a3504159e5c28a15167a018ef6ae0765c" title="ScaleEngine::getSize" alt="" coords="217,968,363,995"/>
+<area shape="rect" id="node3" href="$de/dd6/classIncrementalArray.html#a7720915005ade04dbeca8f369c94e55f" title="IncrementalArray::allocate" alt="" coords="464,411,639,437"/>
+<area shape="rect" id="node17" href="$d2/d02/classGLScope.html#a9be8d26f58d8d61f2e58423479ea0110" title="Arrange displays when X and Y are stacked horizontally. " alt="" coords="445,208,657,235"/>
+<area shape="rect" id="node21" href="$d2/d02/classGLScope.html#ae1f081c2a3ac33af5b9f51659a0435b7" title="Arrange displays when X and Y are stacked over on the left and polar display is on the right..." alt="" coords="460,360,643,387"/>
+<area shape="rect" id="node22" href="$dc/db0/classScaleEngine.html#a9cf65654309cbd7d2d07948626ffd79b" title="ScaleEngine::setRange" alt="" coords="726,487,885,513"/>
+<area shape="rect" id="node23" href="$d2/d02/classGLScope.html#aaef52bb1ef8deda508d295897ed6366e" title="Arrange displays when X and Y are unique on screen. " alt="" coords="454,309,649,336"/>
+<area shape="rect" id="node24" href="$d2/d02/classGLScope.html#a810f6974001d560c5119fe99afcfc869" title="Arrange displays when X and Y are stacked vertically. " alt="" coords="453,259,650,285"/>
+<area shape="rect" id="node25" href="$d2/d02/classGLScope.html#aec3305b212d63f0e7f4dcb2f64f5f367" title="GLScope::setYScale" alt="" coords="479,461,623,488"/>
+<area shape="rect" id="node5" href="$dc/db0/classScaleEngine.html#ad529319759b895b785eed93f7de9e874" title="ScaleEngine::reCalc" alt="" coords="953,208,1095,235"/>
+<area shape="rect" id="node6" href="$dc/db0/classScaleEngine.html#a29b4048b3ec5189ffd73a7342c686e94" title="ScaleEngine::calcScaleFactor" alt="" coords="1146,5,1343,32"/>
+<area shape="rect" id="node7" href="$dc/db0/classScaleEngine.html#a579a9b6552d8445259dd2d08deec330f" title="ScaleEngine::calcMajorTick\lUnits" alt="" coords="1406,117,1590,158"/>
+<area shape="rect" id="node8" href="$dd/d58/fixed_8h.html#a05e80256399b9904a0a4c1bf63ce0155" title="floor" alt="" coords="1649,124,1696,151"/>
+<area shape="rect" id="node10" href="$dc/db0/classScaleEngine.html#a9f5581fa2a8be59cbee65f0a53b817f3" title="ScaleEngine::calcTickTextSize" alt="" coords="1143,157,1347,184"/>
+<area shape="rect" id="node11" href="$dc/db0/classScaleEngine.html#a4616be66c163e3ceb9de10fb1b488794" title="ScaleEngine::formatTick" alt="" coords="1415,200,1581,227"/>
+<area shape="rect" id="node12" href="$dc/db0/classScaleEngine.html#ac5a8051f0d3363d37c1c9e74d23bb229" title="ScaleEngine::forceTwoTicks" alt="" coords="1150,259,1339,285"/>
+<area shape="rect" id="node13" href="$dc/db0/classScaleEngine.html#ae6e8e41cc75c630ce9d67046dbe13b2f" title="ScaleEngine::getPosFromValue" alt="" coords="1395,284,1601,311"/>
+<area shape="rect" id="node14" href="$dc/db0/classScaleEngine.html#a14c91b98bcb295161e79d0a35e7373d5" title="ScaleEngine::majorTickValue" alt="" coords="1148,360,1341,387"/>
+<area shape="rect" id="node15" href="$dc/db0/classScaleEngine.html#a35303eba2ebe473fed0f5bedaa6253c6" title="ScaleEngine::minorTickValue" alt="" coords="1148,411,1341,437"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#a0b4002c0f3f7ae2655c40b9415f99a99" title="Fixed::floor" alt="" coords="1744,124,1831,151"/>
+<area shape="rect" id="node18" href="$dc/db0/classScaleEngine.html#ab8f8bea158f5faef66b33834bd6dc564" title="ScaleEngine::setSize" alt="" coords="732,309,879,336"/>
+<area shape="rect" id="node20" href="$d1/d17/classGLShaderTextured.html#a4b9e9659123bb0a8e061fce2d8d56017" title="GLShaderTextured::initTexture" alt="" coords="705,360,905,387"/>
+<area shape="rect" id="node28" href="$d1/d17/classGLShaderTextured.html#a463086ea4e01a6b3aedaf8283c46c849" title="GLShaderTextured::draw" alt="" coords="722,715,889,741"/>
+<area shape="rect" id="node30" href="$de/d86/classGLShaderSimple.html#ab17b6acb503d99b064bb1be85a0a9dd6" title="GLShaderSimple::draw" alt="" coords="473,841,629,868"/>
+</map>

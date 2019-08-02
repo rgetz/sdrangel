@@ -1,0 +1,13 @@
+<map id="PluginManager::registerSampleSink" name="PluginManager::registerSampleSink">
+<area shape="rect" id="node2" href="$d6/d95/classPluginAPI.html#ae48621c7133474433ff16b4114b775ea" title="PluginAPI::registerSampleSink" alt="" coords="283,294,484,321"/>
+<area shape="rect" id="node3" href="$df/d8e/classBladerf1OutputPlugin.html#ae7b96cf9fa9bb53550e287f578f30976" title="Bladerf1OutputPlugin\l::initPlugin" alt="" coords="557,5,702,47"/>
+<area shape="rect" id="node4" href="$db/dae/classXTRXOutputPlugin.html#a31f28421d37142edfd084b7bc2e52730" title="XTRXOutputPlugin::initPlugin" alt="" coords="532,71,727,98"/>
+<area shape="rect" id="node5" href="$d2/da0/classSoapySDROutputPlugin.html#ad4d9eff1abe145d50d1c59ba7046239a" title="SoapySDROutputPlugin\l::initPlugin" alt="" coords="548,123,711,164"/>
+<area shape="rect" id="node6" href="$d5/d26/classBladeRF2OutputPlugin.html#a6506fb03395afdcb801397869791abe7" title="BladeRF2OutputPlugin\l::initPlugin" alt="" coords="552,188,707,229"/>
+<area shape="rect" id="node7" href="$d2/d04/classPlutoSDROutputPlugin.html#a2d5376d5aabd87aab2cd80c2978d019c" title="PlutoSDROutputPlugin\l::initPlugin" alt="" coords="551,253,707,295"/>
+<area shape="rect" id="node8" href="$dd/da4/classHackRFOutputPlugin.html#a50555fdf78071495cef835df9a0d9345" title="HackRFOutputPlugin\l::initPlugin" alt="" coords="556,319,703,360"/>
+<area shape="rect" id="node9" href="$da/d61/classLimeSDROutputPlugin.html#a0a8cb3eae83f1eacd94c86bb46a2458e" title="LimeSDROutputPlugin\l::initPlugin" alt="" coords="552,384,707,425"/>
+<area shape="rect" id="node10" href="$df/db0/classLocalOutputPlugin.html#aae056f1229051ff12176e0526671ef7a" title="LocalOutputPlugin::\linitPlugin" alt="" coords="561,449,697,491"/>
+<area shape="rect" id="node11" href="$dc/d41/classRemoteOutputPlugin.html#ae458b27c9cef569247f1aa84db5b5201" title="RemoteOutputPlugin\l::initPlugin" alt="" coords="558,515,701,556"/>
+<area shape="rect" id="node12" href="$d9/d6e/classFileSinkPlugin.html#a5b862b691e244a3e140533d9c72ba6ca" title="FileSinkPlugin::initPlugin" alt="" coords="546,581,713,607"/>
+</map>

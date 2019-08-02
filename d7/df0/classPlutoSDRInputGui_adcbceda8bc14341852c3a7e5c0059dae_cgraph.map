@@ -1,0 +1,65 @@
+<map id="PlutoSDRInputGui::PlutoSDRInputGui" name="PlutoSDRInputGui::PlutoSDRInputGui">
+<area shape="rect" id="node2" href="$d7/df0/classPlutoSDRInputGui.html#ad4e40a4a9b138454029c4579681c59f2" title="PlutoSDRInputGui::blockApply\lSettings" alt="" coords="804,1059,1007,1100"/>
+<area shape="rect" id="node3" href="$d7/df0/classPlutoSDRInputGui.html#a4d56aa48df043addf8c24de7f6e906dd" title="PlutoSDRInputGui::display\lSettings" alt="" coords="816,876,995,917"/>
+<area shape="rect" id="node4" href="$d7/df0/classPlutoSDRInputGui.html#accc9ffa6125f7728f64accd4904179a7" title="PlutoSDRInputGui::update\lFrequencyLimits" alt="" coords="1097,817,1274,859"/>
+<area shape="rect" id="node15" href="$dd/db6/classDeviceAPI.html#a21b67655f61be838b73d4df898f18a56" title="Return pointer to the device sample source (single Rx) or nullptr. " alt="" coords="300,1602,496,1629"/>
+<area shape="rect" id="node17" href="$d7/df0/classPlutoSDRInputGui.html#a4d13aa1a27b1f4ce2b4fd8cc613ea458" title="PlutoSDRInputGui::handle\lInputMessages" alt="" coords="310,1536,486,1577"/>
+<area shape="rect" id="node37" href="$d7/df0/classPlutoSDRInputGui.html#a769266856df9446a5afad9a5f68b8d2f" title="PlutoSDRInputGui::openDevice\lSettingsDialog" alt="" coords="1082,271,1289,312"/>
+<area shape="rect" id="node47" href="$db/d0c/classDeviceSampleSource.html#a93220663ec268097bdd9f6c14f6f3b91" title="DeviceSampleSource\l::setMessageQueueToGUI" alt="" coords="309,1653,487,1695"/>
+<area shape="rect" id="node48" href="$d7/df0/classPlutoSDRInputGui.html#aba098e59891fefeced182f3cddbf578c" title="PlutoSDRInputGui::update\lHardware" alt="" coords="309,992,487,1033"/>
+<area shape="rect" id="node52" href="$d7/df0/classPlutoSDRInputGui.html#a881a7805285962bb1ab178ff69ae0b19" title="PlutoSDRInputGui::update\lStatus" alt="" coords="309,660,487,701"/>
+<area shape="rect" id="node5" href="$d7/df0/classPlutoSDRInputGui.html#ade51fdf421cefcf6d8af717c12ab3bba" title="PlutoSDRInputGui::display\lSampleRate" alt="" coords="1096,1051,1275,1092"/>
+<area shape="rect" id="node8" href="$dd/d58/fixed_8h.html#a166b32298d183f2ed2dbc3fe2674791a" title="arg" alt="" coords="1684,798,1724,825"/>
+<area shape="rect" id="node13" href="$d7/df0/classPlutoSDRInputGui.html#a5561c0be2cf186e5ee610f1a657ed7bd" title="PlutoSDRInputGui::setFIRBWLimits" alt="" coords="1068,999,1303,1026"/>
+<area shape="rect" id="node14" href="$d7/df0/classPlutoSDRInputGui.html#a157118873e3b59e9e68f6fac5020d5be" title="PlutoSDRInputGui::setSample\lRateLimits" alt="" coords="1085,883,1285,924"/>
+<area shape="rect" id="node6" href="$d7/df0/classPlutoSDRInputGui.html#a5607531ac6c476984526cc57185f6581" title="PlutoSDRInputGui::display\lFcTooltip" alt="" coords="1369,1051,1547,1092"/>
+<area shape="rect" id="node7" href="$db/d0c/classDeviceSampleSource.html#a8d7e8bf06f70b43e5e52e73d89de852f" title="DeviceSampleSource\l::calculateFrequencyShift" alt="" coords="1619,1051,1789,1092"/>
+<area shape="rect" id="node9" href="$dd/d7b/classFixed.html#ad7c64ea5f96a3e48a086826a1ce09a30" title="Fixed::to_polar" alt="" coords="1843,798,1951,825"/>
+<area shape="rect" id="node10" href="$dd/d7b/classFixed.html#a35e89f39231b2fb7d306b6c9cbd2be4e" title="Fixed::perform_cordic\l_polarization" alt="" coords="1999,820,2147,861"/>
+<area shape="rect" id="node11" href="$dd/d7b/classFixed.html#af0ca0df491b443259026273dc8107163" title="Fixed::right_shift" alt="" coords="2203,769,2321,795"/>
+<area shape="rect" id="node12" href="$dd/d7b/classFixed.html#ac77a6339ffb97ac02c9d976a649ded01" title="Fixed::scale_cordic\l_result" alt="" coords="2195,820,2329,861"/>
+<area shape="rect" id="node16" href="$d2/d3b/classDSPDeviceSourceEngine.html#a3f08143777e3751faeb0cb0639448c19" title="DSPDeviceSourceEngine\l::getSource" alt="" coords="557,1867,729,1908"/>
+<area shape="rect" id="node18" href="$d3/df0/classMessageQueue.html#ae2ef295f882b75beaeced3c096a2abe5" title="Pop message from queue. " alt="" coords="572,1518,715,1545"/>
+<area shape="rect" id="node19" href="$d6/d28/classMessage.html#a607a4adf44d727623cc9eaf8bdadd91a" title="Message::getIdentifier" alt="" coords="568,1569,719,1595"/>
+<area shape="rect" id="node20" href="$d6/d28/classMessage.html#ac8c93b911732b23b813feb0b40e3d06d" title="Message::match" alt="" coords="846,1657,965,1683"/>
+<area shape="rect" id="node22" href="$de/d6f/classDSPSignalNotification.html#a05ee71a39f9e4a97799b0561f13a8bb8" title="DSPSignalNotification\l::getSampleRate" alt="" coords="567,1671,719,1712"/>
+<area shape="rect" id="node23" href="$de/d6f/classDSPSignalNotification.html#a3095032cf641fef3e5eb40f4b2221c5d" title="DSPSignalNotification\l::getCenterFrequency" alt="" coords="567,1736,719,1777"/>
+<area shape="rect" id="node24" href="$d7/df0/classPlutoSDRInputGui.html#a349f43874c76956957fa969d844c8482" title="PlutoSDRInputGui::update\lSampleRateAndFrequency" alt="" coords="554,1801,733,1843"/>
+<area shape="rect" id="node29" href="$d7/df0/classPlutoSDRInputGui.html#a35a6b4f46507e3b281818382207b828e" title="PlutoSDRInputGui::handle\lMessage" alt="" coords="555,1372,731,1413"/>
+<area shape="rect" id="node21" href="$d6/d28/classMessage.html#a73374ee2bceb0fca1db4647b39c2a6a8" title="Message::matchIdentifier" alt="" coords="1101,1657,1270,1683"/>
+<area shape="rect" id="node25" href="$d3/d37/classDeviceUISet.html#ace094b934713b9ac65bc3c5a02d84812" title="Direct spectrum getter. " alt="" coords="816,1910,995,1937"/>
+<area shape="rect" id="node26" href="$d6/dab/classGLSpectrum.html#a65e8d1442443b34d0aa41fc244ee06c7" title="GLSpectrum::setSampleRate" alt="" coords="809,1809,1002,1835"/>
+<area shape="rect" id="node28" href="$d6/dab/classGLSpectrum.html#ab552cd0141ce3364eb4b8fa0dd423035" title="GLSpectrum::setCenterFrequency" alt="" coords="795,1859,1016,1886"/>
+<area shape="rect" id="node27" href="$d3/df0/classMessageQueue.html#a1b6728ff0269489574887c05a2d8ec47" title="Push message onto queue. " alt="" coords="1111,1758,1260,1785"/>
+<area shape="rect" id="node30" href="$dd/d79/classPlutoSDRInput_1_1MsgConfigurePlutoSDR.html#a2eefbe79a4df95b14bfe4a55c4250b9c" title="PlutoSDRInput::MsgConfigure\lPlutoSDR::getSettings" alt="" coords="806,1525,1005,1567"/>
+<area shape="rect" id="node31" href="$d7/d58/classPlutoSDRInput_1_1MsgStartStop.html#ada2457fbe50d70e8db7f2403ccb09f2e" title="PlutoSDRInput::MsgStartStop\l::getStartStop" alt="" coords="806,1591,1005,1632"/>
+<area shape="rect" id="node32" href="$d2/d8e/classDevicePlutoSDRShared_1_1MsgCrossReportToBuddy.html#ad2a89b35579a2924dfa70933d6722f68" title="DevicePlutoSDRShared\l::MsgCrossReportToBuddy\l::getDevSampleRate" alt="" coords="815,1365,996,1421"/>
+<area shape="rect" id="node33" href="$d2/d8e/classDevicePlutoSDRShared_1_1MsgCrossReportToBuddy.html#a2bec259e44bf4126febece758bd386e0" title="DevicePlutoSDRShared\l::MsgCrossReportToBuddy\l::getLpfFiRlog2IntDec" alt="" coords="815,1445,996,1501"/>
+<area shape="rect" id="node34" href="$d2/d8e/classDevicePlutoSDRShared_1_1MsgCrossReportToBuddy.html#ab68eb9d8a1f56a0ee152ed8c99af4cc2" title="DevicePlutoSDRShared\l::MsgCrossReportToBuddy\l::getLpfFirbw" alt="" coords="815,1125,996,1181"/>
+<area shape="rect" id="node35" href="$d2/d8e/classDevicePlutoSDRShared_1_1MsgCrossReportToBuddy.html#a14d32eaebd2b561a5ec3e964efa047c6" title="DevicePlutoSDRShared\l::MsgCrossReportToBuddy\l::getLoPPMTenths" alt="" coords="815,1205,996,1261"/>
+<area shape="rect" id="node36" href="$d2/d8e/classDevicePlutoSDRShared_1_1MsgCrossReportToBuddy.html#a0502b844912b7200a5d4173158ba433d" title="DevicePlutoSDRShared\l::MsgCrossReportToBuddy\l::isLpfFirEnable" alt="" coords="815,1285,996,1341"/>
+<area shape="rect" id="node38" href="$dd/d41/classBasicDeviceSettingsDialog.html#a620777e513db5769113671f437eb92df" title="BasicDeviceSettingsDialog\l::setUseReverseAPI" alt="" coords="1367,173,1549,215"/>
+<area shape="rect" id="node39" href="$dd/d41/classBasicDeviceSettingsDialog.html#a515540601bb272d9a04b9f048f912ad6" title="BasicDeviceSettingsDialog\l::useReverseAPI" alt="" coords="1613,144,1795,185"/>
+<area shape="rect" id="node40" href="$dd/d41/classBasicDeviceSettingsDialog.html#a2336847621183281351768eb2b807bd5" title="BasicDeviceSettingsDialog\l::setReverseAPIAddress" alt="" coords="1367,239,1549,280"/>
+<area shape="rect" id="node41" href="$dd/d41/classBasicDeviceSettingsDialog.html#a354a53bfe121fccc20ef67ca2d460402" title="BasicDeviceSettingsDialog\l::setReverseAPIPort" alt="" coords="1367,435,1549,476"/>
+<area shape="rect" id="node42" href="$dd/d41/classBasicDeviceSettingsDialog.html#a868a115f83061f3f1f97125c52f5caf2" title="BasicDeviceSettingsDialog\l::setReverseAPIDeviceIndex" alt="" coords="1362,500,1554,541"/>
+<area shape="rect" id="node43" href="$dd/d41/classBasicDeviceSettingsDialog.html#a4f0da112a518f3aacaa69639f8f6f527" title="BasicDeviceSettingsDialog\l::getReverseAPIAddress" alt="" coords="1367,304,1549,345"/>
+<area shape="rect" id="node44" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9e97aa1103eb0b3564ca02a9c836a952" title="BasicDeviceSettingsDialog\l::getReverseAPIPort" alt="" coords="1367,369,1549,411"/>
+<area shape="rect" id="node45" href="$dd/d41/classBasicDeviceSettingsDialog.html#a9dc629d97e53555fb3f1df907f9bf490" title="BasicDeviceSettingsDialog\l::getReverseAPIDeviceIndex" alt="" coords="1362,5,1554,47"/>
+<area shape="rect" id="node46" href="$d7/df0/classPlutoSDRInputGui.html#ac763a97ec9ef6a4048aa70973d16c88b" title="PlutoSDRInputGui::sendSettings" alt="" coords="1351,71,1565,98"/>
+<area shape="rect" id="node49" href="$dd/d79/classPlutoSDRInput_1_1MsgConfigurePlutoSDR.html#a6b399b84a50b2a6531471e89c3c35c53" title="PlutoSDRInput::MsgConfigure\lPlutoSDR::create" alt="" coords="544,927,743,968"/>
+<area shape="rect" id="node51" href="$db/d0c/classDeviceSampleSource.html#a0c6f6510e216136ef0f9c83d3189eca4" title="DeviceSampleSource\l::getInputMessageQueue" alt="" coords="559,992,727,1033"/>
+<area shape="rect" id="node50" href="$dd/d79/classPlutoSDRInput_1_1MsgConfigurePlutoSDR.html#a3bb2fc63414d5dd24fd4742598ff7196" title="PlutoSDRInput::MsgConfigure\lPlutoSDR::MsgConfigurePlutoSDR" alt="" coords="791,941,1020,983"/>
+<area shape="rect" id="node53" href="$dd/db6/classDeviceAPI.html#ae5f260d8157bff67dce0933ecd6bb4c7" title="Return the state of the device engine corresponding to the stream type. " alt="" coords="582,538,705,565"/>
+<area shape="rect" id="node57" href="$dd/db6/classDeviceAPI.html#a5a88596e885d6f5ef5a9fe38b82170fb" title="Last error message from the device engine. " alt="" coords="557,667,729,694"/>
+<area shape="rect" id="node64" href="$dd/db6/classDeviceAPI.html#a4fecbce8675ad605005bf95e1392572e" title="DeviceAPI::isBuddyLeader" alt="" coords="554,718,733,745"/>
+<area shape="rect" id="node54" href="$d2/d3b/classDSPDeviceSourceEngine.html#a1852a95dac8c1c4d59b0719bd4dd561b" title="Return DSP engine current state. " alt="" coords="819,432,991,473"/>
+<area shape="rect" id="node55" href="$d1/d90/classDSPDeviceSinkEngine.html#a620d8d8a50721705ebec6dd3fc2d977c" title="Return DSP engine current state. " alt="" coords="827,497,984,539"/>
+<area shape="rect" id="node56" href="$df/d80/classDSPDeviceMIMOEngine.html#a7e996145a8a1e59ab05ef14ce62e6dd2" title="Return DSP engine current state. " alt="" coords="822,563,989,604"/>
+<area shape="rect" id="node58" href="$d2/d3b/classDSPDeviceSourceEngine.html#a7e2b563e700cc1130f962cfe3d0c495b" title="Return the current error message. " alt="" coords="819,628,991,669"/>
+<area shape="rect" id="node61" href="$d1/d90/classDSPDeviceSinkEngine.html#af73fdf9b57baede69b51781f3e8b55f5" title="Return the current error message. " alt="" coords="827,693,984,735"/>
+<area shape="rect" id="node62" href="$df/d80/classDSPDeviceMIMOEngine.html#a01d467d1f0c5e28de6b30656fbf6e6c1" title="Return the current error message. " alt="" coords="822,759,989,800"/>
+<area shape="rect" id="node59" href="$de/d69/classDSPGetErrorMessage.html#a80de1b43a38c987f5acd47909ab4c860" title="DSPGetErrorMessage\l::getErrorMessage" alt="" coords="1109,620,1261,661"/>
+<area shape="rect" id="node60" href="$d8/d92/classSyncMessenger.html#af8c4f5ab6837c67c8f80b3a45db3e983" title="Send message and waits for its process completion. " alt="" coords="1096,686,1275,713"/>
+<area shape="rect" id="node63" href="$d5/d92/classDSPDeviceMIMOEngine_1_1GetErrorMessage.html#a6718a8de033745298c5cfea54ccd4444" title="DSPDeviceMIMOEngine\l::GetErrorMessage::getError\lMessage" alt="" coords="1092,737,1279,793"/>
+</map>
