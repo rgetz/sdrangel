@@ -415,6 +415,7 @@ modules:
       - -DENABLE_EXAMPLES=OFF
       - -DENABLE_UTILITIES=OFF
       - -DENABLE_HEADERS=ON
+      - -DENABLE_SIMD_FLAGS=SSE4.2
       - -Wno-dev
     sources:
       - type: archive
