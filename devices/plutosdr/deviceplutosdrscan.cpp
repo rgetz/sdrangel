@@ -148,10 +148,10 @@ void DevicePlutoSDRScan::enumOriginDevices(const QString& hardwareId, PluginInte
     std::vector<std::string>::const_iterator it = serials.begin();
     int i;
 
-	for (i = 0; it != serials.end(); ++it, ++i)
-	{
-	    QString serial_str = QString::fromLocal8Bit(it->c_str());
-	    QString displayableName(QString("PlutoSDR[%1] %2").arg(i).arg(serial_str));
+    for (i = 0; it != serials.end(); ++it, ++i)
+    {
+        QString serial_str = QString::fromLocal8Bit(it->c_str());
+        QString displayableName(QString("PlutoSDR[%1] %2").arg(i).arg(serial_str));
 
         originDevices.append(PluginInterface::OriginDevice(
             displayableName,
@@ -163,6 +163,6 @@ void DevicePlutoSDRScan::enumOriginDevices(const QString& hardwareId, PluginInte
         ));
 
         qDebug("DevicePlutoSDRScan::enumOriginDevices: enumerated PlutoSDR device #%d", i);
-	}
+    }
 
 }
