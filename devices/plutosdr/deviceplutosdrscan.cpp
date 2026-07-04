@@ -90,7 +90,9 @@ void DevicePlutoSDRScan::scan()
 
             if (desc_match.size() == 2)
             {
-                m_scans.back()->m_serial = desc_match[1];
+                // A device can be discovered through multiple backends (e.g. USB and IP).
+                // Keep the backend in the serial key so each scanned entry remains unique.
+                m_scans.back()->m_serial = desc_match[1].str() + createBackendSuffix(uri);
                 m_serialMap[m_scans.back()->m_serial] = m_scans.back();
             }
         }
@@ -145,13 +147,42 @@ void DevicePlutoSDRScan::enumOriginDevices(const QString& hardwareId, PluginInte
     std::vector<std::string> serials;
     getSerials(serials);
 
+    // Multiple backends can refer to the same physical device.
+    // Keep a separate list of physical serials for stable display numbering.
+    // Example: Pluto[0] (ip) and Pluto[0] (usb) refer to the same hardware.
+    std::map<std::string, int> physicalSerialIndexes;
     std::vector<std::string>::const_iterator it = serials.begin();
     int i;
 
     for (i = 0; it != serials.end(); ++it, ++i)
     {
+        // Keep the backend-qualified serial as the device identifier.
         QString serial_str = QString::fromLocal8Bit(it->c_str());
-        QString displayableName(QString("PlutoSDR[%1] %2").arg(i).arg(serial_str));
+        // Remove backend suffix for display and grouping.
+        std::string physicalSerial = getPhysicalSerial(*it);
+
+        // Find the existing physical device index so USB/IP instances share a label.
+        auto pos = physicalSerialIndexes.find(physicalSerial);
+
+        // Display index is based on physical devices, not backend instances.
+        int physical_idx;
+
+        if (pos == physicalSerialIndexes.end())
+        {
+            physical_idx = physicalSerialIndexes.size();
+            physicalSerialIndexes[physicalSerial] = physical_idx;
+        }
+        else
+        {
+            physical_idx = pos->second;
+        }
+
+        // Show backend information to distinguish multiple connections to the same device.
+        QString displayableName(
+           QString("PlutoSDR%1%2 %3")
+                .arg(physical_idx)
+                .arg(getBackendLabel(*it))
+                .arg(QString::fromLocal8Bit(physicalSerial.c_str())));
 
         originDevices.append(PluginInterface::OriginDevice(
             displayableName,
@@ -165,4 +196,91 @@ void DevicePlutoSDRScan::enumOriginDevices(const QString& hardwareId, PluginInte
         qDebug("DevicePlutoSDRScan::enumOriginDevices: enumerated PlutoSDR device #%d", i);
     }
 
+}
+
+/**
+ * @brief Creates a backend prefix from a libiio URI.
+ *
+ * The backend is converted into a serial suffix so that devices
+ * discovered through different backends remain unique.
+ *
+ * Examples:
+ *   ip:192.168.2.1       -> "_ip"
+ *   usb:3.32.5           -> "_usb"
+ *   serial:/dev/ttyUSB0  -> "_serial"
+ *   local:               -> "_local"
+ *
+ * @param uri Device URI returned by libiio.
+ *
+ * @return iio backend suffix including the separator, or an empty string
+ *         if no backend prefix is present.
+ */
+std::string DevicePlutoSDRScan::createBackendSuffix(const char *uri) const
+{
+    if (!uri) {
+        return {};
+    }
+
+    const char *sep = std::strchr(uri, ':');
+
+    if (!sep) {
+        return {};
+    }
+
+    return std::string(1, BACKEND_SEPARATOR)  + std::string(uri, sep - uri);
+}
+
+/**
+ * @brief Creates a display string for the backend portion of a serial.
+ *
+ * The scan process appends the backend to make serial numbers unique.
+ * This function recovers the backend suffix into a user-facing label for
+ * display purposes.
+ *
+ * Examples:
+ *   ABC123_ip  -> " (ip)"
+ *   ABC123_usb -> " (usb)"
+ *
+ * @param serial backend-qualified serial number.
+ *
+ * @return Display label suffix.
+ */
+QString DevicePlutoSDRScan::getBackendLabel(const std::string& serial) const
+{
+    size_t sep = serial.rfind(BACKEND_SEPARATOR);
+
+    if (sep == std::string::npos)
+    {
+        return {};
+    }
+
+    return QString(" (%1)").arg(
+        QString::fromStdString(serial.substr(sep + 1)));
+}
+
+/**
+ * @brief Removes the backend suffix from a serial number.
+ *
+ * The scan process appends the backend to make serial numbers unique.
+ * This function recovers the physical device serial for grouping and
+ * display purposes.
+ *
+ * Examples:
+ *   ABC123_ip  -> ABC123
+ *   ABC123_usb -> ABC123
+ *
+ * @param serial backend-qualified serial number.
+ *
+ * @return Physical device serial number.
+ */
+std::string DevicePlutoSDRScan::getPhysicalSerial(const std::string& serial) const
+{
+    size_t sep = serial.rfind(BACKEND_SEPARATOR);
+
+    if (sep == std::string::npos)
+    {
+        return serial;
+    }
+
+    return serial.substr(0, sep);
 }

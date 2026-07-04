@@ -50,6 +50,12 @@ public:
     void enumOriginDevices(const QString& hardwareId, PluginInterface::OriginDevices& originDevices);
 
 private:
+    static constexpr char BACKEND_SEPARATOR = '_';
+
+    std::string createBackendSuffix(const char *uri) const;
+    QString getBackendLabel(const std::string& serial) const;
+    std::string getPhysicalSerial(const std::string& serial) const;
+
     std::vector<std::shared_ptr<DeviceScan>> m_scans;
     std::map<std::string, std::shared_ptr<DeviceScan>> m_serialMap;
     std::map<std::string, std::shared_ptr<DeviceScan>> m_urilMap;
