@@ -65,7 +65,10 @@ void DevicePlutoSDRScan::scan()
             continue;
         }
 
-        qDebug("PlutoSDRScan::scan: %d: %s [%s]", i, description, uri);
+        // For uri which are ip:*.local replace with the ip address
+        std::string fixedUri = replaceHostnameWithIP(uri, description);
+
+        qDebug("PlutoSDRScan::scan: %d: %s [%s] [%s]", i, description, uri, fixedUri.c_str());
         const std::string_view descriptionView = description ? std::string_view{description} : std::string_view{};
         const bool isPlutoDescription =
             (descriptionView.find("PlutoSDR") != std::string_view::npos) ||
@@ -79,7 +82,7 @@ void DevicePlutoSDRScan::scan()
                 DeviceScan({
                     std::string(description),
                     std::string("TBD"),
-                    std::string(uri)
+                    fixedUri
                 }));
             m_scans.push_back(dev_scan);
             m_urilMap[m_scans.back()->m_uri] = m_scans.back();
@@ -196,6 +199,83 @@ void DevicePlutoSDRScan::enumOriginDevices(const QString& hardwareId, PluginInte
         qDebug("DevicePlutoSDRScan::enumOriginDevices: enumerated PlutoSDR device #%d", i);
     }
 
+}
+
+/**
+ * @brief Replaces an mDNS hostname with the discovered endpoint.
+ *
+ * Older libiio versions may return the advertised mDNS hostname (for example
+ * "ip:pluto.local") rather than the endpoint that was actually discovered.
+ * This becomes ambiguous when identical mDNS hostnames exist on different
+ * network segments, since multiple devices can legitimately advertise the
+ * same ".local" hostname.
+ *
+ * Since the scan description begins with the discovered endpoint (IPv4 or IPv6),
+ * followed by " (". For ".local" URIs, substitute the endpoint while
+ * preserving the backend and optional port number.
+ *
+ * Examples:
+ *   URI:         ip:pluto.local
+ *   Description: 192.168.2.1 (...)
+ *   Result:      ip:192.168.2.1
+ *
+ *   URI:         ip:pluto.local:30431
+ *   Description: fe80::205:f7ff:fe75:9c4f%eth1 (...)
+ *   Result:      ip:[fe80::205:f7ff:fe75:9c4f%eth1]:30431
+ */
+std::string DevicePlutoSDRScan::replaceHostnameWithIP(
+    const std::string& uri,
+    const char *description) const
+{
+    if (!description) {
+        return uri;
+    }
+
+    // Only applies to IP backends.
+    if (uri.rfind("ip:", 0) != 0) {
+        return uri;
+    }
+
+    // Only rewrite mDNS hostnames.
+    if (uri.find(".local") == std::string::npos) {
+        return uri;
+    }
+
+    // Description starts with "<endpoint> (".
+    const std::string desc(description);
+    const size_t endpointEnd = desc.find(" (");
+
+    if (endpointEnd == std::string::npos) {
+        return uri;
+    }
+
+    const std::string endpoint = desc.substr(0, endpointEnd);
+
+    // Preserve any optional port.
+    std::string port;
+    const size_t localPos = uri.find(".local");
+
+    if (localPos != std::string::npos)
+    {
+        const size_t afterLocal = localPos + 6; // strlen(".local")
+
+        if (afterLocal < uri.size() && uri[afterLocal] == ':') {
+            port = uri.substr(afterLocal);
+        }
+    }
+
+    std::string newUri = "ip:";
+
+    // RFC2732 requires brackets around IPv6 literals when a port is present.
+    if (!port.empty() && endpoint.find(':') != std::string::npos) {
+        newUri += "[" + endpoint + "]";
+    } else {
+        newUri += endpoint;
+    }
+
+    newUri += port;
+
+    return newUri;
 }
 
 /**
