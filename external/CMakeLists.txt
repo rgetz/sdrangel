@@ -300,9 +300,15 @@ if (NOT ZLIB_FOUND AND NOT USE_PRECOMPILED_LIBS)
 endif (NOT ZLIB_FOUND AND NOT USE_PRECOMPILED_LIBS)
 
 if (NOT FAAD_FOUND AND NOT USE_PRECOMPILED_LIBS)
+    # faad2 2.8.8 is the last version SourceForge ever hosted, and it predates the 2.9.0 fix
+    # for a heap overflow in excluded_channels() (knik0/faad2@942c3e0a: unbounded exclude_mask
+    # write in the DRC parser). Later releases only live on GitHub, whose source archives don't
+    # include a pre-built configure script (only configure.ac), so bootstrap it first -- same
+    # reason libusb above fetches a release tarball instead of a bare git checkout.
     ExternalProject_Add(faad
-            URL https://downloads.sourceforge.net/project/faac/faad2-src/faad2-2.8.0/faad2-2.8.8.tar.gz
+            URL https://github.com/knik0/faad2/archive/refs/tags/2.10.1.tar.gz
             PREFIX "${EXTERNAL_BUILD_LIBRARIES}/faad"
+            PATCH_COMMAND <SOURCE_DIR>/bootstrap
             CONFIGURE_COMMAND <SOURCE_DIR>/configure --prefix=<INSTALL_DIR>
             TEST_COMMAND ""
             )
