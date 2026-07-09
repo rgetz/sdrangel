@@ -973,6 +973,10 @@ private:
     QGeoPositionInfoSource *m_positionSource;
     QGeoPositionInfo m_position;
 
+    void requestPermissions();
+    void requestLocationPermission();
+    void requestMicrophonePermission();
+    void requestCameraPermission();
     void initPosition();
     void debugMaps();
 };
