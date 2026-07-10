@@ -222,7 +222,7 @@ MapGUI::MapGUI(PluginAPI* pluginAPI, FeatureUISet *featureUISet, Feature *featur
     int multisamples = MainCore::instance()->getSettings().getMapMultisampling();
     if (multisamples > 0)
     {
-        QSurfaceFormat format;
+        QSurfaceFormat format = QSurfaceFormat::defaultFormat();
         format.setSamples(multisamples);
         ui->map->setFormat(format);
     }

@@ -6971,7 +6971,7 @@ ADSBDemodGUI::ADSBDemodGUI(PluginAPI* pluginAPI, DeviceUISet *deviceUISet, Baseb
     int multisamples = MainCore::instance()->getSettings().getMapMultisampling();
     if (multisamples > 0)
     {
-        QSurfaceFormat format;
+        QSurfaceFormat format = QSurfaceFormat::defaultFormat();
         format.setSamples(multisamples);
 #ifdef QT_LOCATION_FOUND
         ui->map->setFormat(format);
