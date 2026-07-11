@@ -300,10 +300,16 @@ if (NOT ZLIB_FOUND AND NOT USE_PRECOMPILED_LIBS)
 endif (NOT ZLIB_FOUND AND NOT USE_PRECOMPILED_LIBS)
 
 if (NOT FAAD_FOUND AND NOT USE_PRECOMPILED_LIBS)
+    # faad2 2.8.8 is the last version SourceForge ever hosted, and it predates the 2.9.0 fix
+    # for a heap overflow in excluded_channels() (knik0/faad2@942c3e0a: unbounded exclude_mask
+    # write in the DRC parser). Later releases only live on GitHub; 2.11.0 added CMake support,
+    # so build it like opus above. FAAD_BUILD_CLI=OFF skips the faad frontend executable --
+    # only libfaad is used.
     ExternalProject_Add(faad
-            URL https://downloads.sourceforge.net/project/faac/faad2-src/faad2-2.8.0/faad2-2.8.8.tar.gz
+            GIT_REPOSITORY https://github.com/knik0/faad2.git
+            GIT_TAG 2.11.2
             PREFIX "${EXTERNAL_BUILD_LIBRARIES}/faad"
-            CONFIGURE_COMMAND <SOURCE_DIR>/configure --prefix=<INSTALL_DIR>
+            CMAKE_ARGS ${COMMON_CMAKE_ARGS} -DBUILD_SHARED_LIBS=ON -DFAAD_BUILD_CLI=OFF -DCMAKE_INSTALL_PREFIX=<INSTALL_DIR>
             TEST_COMMAND ""
             )
     ExternalProject_Get_Property(faad source_dir binary_dir install_dir)
