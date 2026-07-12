@@ -1146,6 +1146,10 @@ class ADSBDemodGUI : public ChannelGUI {
         Airspace m_airspace;
 
         Interogator() :
+            m_minLatitude(std::numeric_limits<Real>::max()),
+            m_maxLatitude(std::numeric_limits<Real>::lowest()),
+            m_minLongitude(std::numeric_limits<Real>::max()),
+            m_maxLongitude(std::numeric_limits<Real>::lowest()),
             m_valid(false)
         {
         }
