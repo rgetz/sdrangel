@@ -3899,7 +3899,7 @@ void ADSBDemodGUI::decodeCommB(const QByteArray data, const QDateTime dateTime, 
         c[2] = ((data[5] & 0x7) << 3) | ((data[6] >> 5) & 0x7);
         c[3] = ((data[6] & 0x1f) << 1) | ((data[7] >> 7) & 0x1);
         c[4] = ((data[7] >> 1) & 0x1f);
-        c[5] = ((data[7] & 0x1) >> 3) | ((data[8] >> 3) & 0x1f);
+        c[5] = ((data[7] & 0x1) << 5) | ((data[8] >> 3) & 0x1f);
         c[6] = ((data[8] & 0x7) << 3) | ((data[9] >> 5) & 0x7);
         // Map to ASCII
         for (int i = 0; i < 7; i++) {
