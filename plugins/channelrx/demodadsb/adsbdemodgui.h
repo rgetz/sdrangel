@@ -720,7 +720,7 @@ public:
         }
     }
 
-    const ADSBDemodSettings *m_settings;
+    const ADSBDemodSettings *m_settings = nullptr;
 
 private:
     QList<Aircraft *> m_aircrafts;
