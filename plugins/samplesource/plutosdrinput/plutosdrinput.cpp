@@ -721,6 +721,19 @@ void PlutoSDRInput::getbbLPRange(quint32& minLimit, quint32& maxLimit)
     maxLimit = max;
 }
 
+void PlutoSDRInput::getGainRange(qint64& minGain, qint64& stepGain, qint64& maxGain)
+{
+    if (!m_open)
+    {
+        qDebug("PlutoSDRInput::getGainRange: device not open");
+        return;
+    }
+
+    DevicePlutoSDRBox *plutoBox = m_deviceShared.m_deviceParams->getBox();
+
+    plutoBox->getGainRange(minGain, stepGain, maxGain);
+}
+
 void PlutoSDRInput::getGain(int& gaindB)
 {
     if (!m_open)
