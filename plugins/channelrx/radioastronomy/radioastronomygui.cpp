@@ -1424,27 +1424,46 @@ void RadioAstronomyGUI::recalibrate()
 // Calculate Trx using Y-factor method
 void RadioAstronomyGUI::calcCalTrx()
 {
-    if ((m_calHot && m_calCold) && (m_calHot->m_fftSize == m_calCold->m_fftSize))
-    {
-        // y=Ph/Pc
-        double sumH = 0.0;
-        double sumC = 0.0;
-        for (int i = 0; i < m_calHot->m_fftSize; i++)
-        {
-            sumH += m_calHot->m_fftData[i];
-            sumC += m_calCold->m_fftData[i];
-        }
-        double y = sumH/sumC;
-        // Use y to calculate Trx, which should be the same for both calibration points
-        double Trx = (m_settings.m_tCalHot - (m_settings.m_tCalCold * y)) / (y - 1.0);
-        ui->calYFactor->setText(QString::number(y, 'f', 2));
-        ui->calTrx->setText(QString::number(Trx, 'f', 1));
-    }
-    else
-    {
+    auto clearCalibration = [this]() {
         ui->calYFactor->setText("");
         ui->calTrx->setText("");
+    };
+
+    if (!m_calHot || !m_calCold || (m_calHot->m_fftSize != m_calCold->m_fftSize))
+    {
+        clearCalibration();
+        return;
     }
+
+    // y=Ph/Pc
+    double sumH = 0.0;
+    double sumC = 0.0;
+    for (int i = 0; i < m_calHot->m_fftSize; i++)
+    {
+        sumH += m_calHot->m_fftData[i];
+        sumC += m_calCold->m_fftData[i];
+    }
+
+    if (sumC == 0.0)
+    {
+        clearCalibration();
+        return;
+    }
+
+    double y = sumH/sumC;
+
+    // The Y-factor method is undefined when hot and cold measurements have the same power
+    // (y == 1). Use qFuzzyCompare to account for floating-point rounding near unity.
+    if (qFuzzyCompare(y, 1.0))
+    {
+        clearCalibration();
+        return;
+    }
+
+    // Use y to calculate Trx, which should be the same for both calibration points.
+    double Trx = (m_settings.m_tCalHot - (m_settings.m_tCalCold * y)) / (y - 1.0);
+    ui->calYFactor->setText(QString::number(y, 'f', 2));
+    ui->calTrx->setText(QString::number(Trx, 'f', 1));
 }
 
 // Estimate spillover temperature (This is typically very Az/El dependent as ground noise will vary)
