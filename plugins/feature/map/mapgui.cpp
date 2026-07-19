@@ -673,7 +673,7 @@ void MapGUI::kiwiSDRUpdated(const QList<KiwiSDRList::KiwiSDR>& sdrs)
         QString band = "HF";
         if (sdr.m_highFrequency > 300000000) {
             band = "UHF";
-        } else if (sdr.m_highFrequency > 320000000) { // Technically 30MHz, but many HF Kiwis list up to 32MHz
+        } else if (sdr.m_highFrequency > 32000000) { // Technically 30MHz, but many HF Kiwis list up to 32MHz
             band = "VHF";
         }
         QString label = QString("Kiwi %1").arg(band);
