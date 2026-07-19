@@ -14,7 +14,7 @@ set(MBELIB_TAG "lib")
 set(SERIALDV_TAG "v1.1.5")
 set(DSDCC_TAG "v1.9.6")
 set(LIMESUITE_TAG 524cd2e548b11084e6f739b2dfe0f958c2e30354)
-set(BLADERF_TAG "2024.05")
+set(BLADERF_TAG "2025.10")
 if (WIN32)
     # Using old version of libiio on windows, as we get unresolved symbols in dll: serial_create_context_from_uri
     set(LIBIIO_TAG 826563e41b5ce9890b75506f672017de8d76d52d)
