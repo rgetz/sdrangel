@@ -3365,6 +3365,9 @@ void RadioAstronomyGUI::update2DImage(FFTMeasurement* fft, bool skipCalcs)
                 intensity = fft->m_tSys;
                 break;
             default:
+                qWarning() << "Unexpected power unit:" << m_settings.m_powerYUnits
+                     << "Falling back to totalPowerdBFS";
+                intensity = fft->m_totalPowerdBFS;
                 break;
             }
 
