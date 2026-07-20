@@ -3255,6 +3255,14 @@ void RadioAstronomyGUI::update2DSettingsFromSweep()
         float sweep1Start, sweep1Stop;
         sweep1Start = m_settings.m_sweep1Start;
         sweep1Stop = m_settings.m_sweep1Stop;
+
+        if (qFuzzyIsNull(m_settings.m_sweep1Step) || qFuzzyIsNull(m_settings.m_sweep2Step))
+        {
+            ui->power2DWidth->setValue(0);
+            ui->power2DHeight->setValue(0);
+            return;
+        }
+
         // Handle azimuth/l sweep through 0. E.g. 340deg -> 20deg with +vs step, or 20deg -> 340deg with -ve step
         if ((m_settings.m_sweep1Stop < m_settings.m_sweep1Start) && (m_settings.m_sweep1Step > 0)) {
             sweep1Stop = m_settings.m_sweep1Stop + 360.0;
@@ -6347,6 +6355,31 @@ void RadioAstronomyGUI::on_startStop_clicked(bool checked)
 {
     if (checked)
     {
+        QString errorMessage;
+        if (qFuzzyIsNull(m_settings.m_sweep1Step) && qFuzzyIsNull(m_settings.m_sweep2Step))
+        {
+            errorMessage = tr("Azimuth and elevation sweep steps cannot be zero.");
+        }
+        else if (qFuzzyIsNull(m_settings.m_sweep1Step))
+        {
+            errorMessage = tr("Azimuth sweep step cannot be zero.");
+        }
+        else if (qFuzzyIsNull(m_settings.m_sweep2Step))
+        {
+            errorMessage = tr("Elevation sweep step cannot be zero.");
+        }
+        if (!errorMessage.isEmpty())
+        {
+            QMessageBox::warning(this,
+                tr("Invalid Sweep Configuration"),
+                errorMessage);
+
+            ui->startStop->blockSignals(true);
+            ui->startStop->setChecked(false);
+            ui->startStop->blockSignals(false);
+            return;
+        }
+
         ui->startStop->setStyleSheet("QToolButton { background-color : green; }");
         applySettings(QStringList("startStop"));
         if (m_settings.m_power2DLinkSweep)
