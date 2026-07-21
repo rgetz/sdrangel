@@ -1424,27 +1424,46 @@ void RadioAstronomyGUI::recalibrate()
 // Calculate Trx using Y-factor method
 void RadioAstronomyGUI::calcCalTrx()
 {
-    if ((m_calHot && m_calCold) && (m_calHot->m_fftSize == m_calCold->m_fftSize))
-    {
-        // y=Ph/Pc
-        double sumH = 0.0;
-        double sumC = 0.0;
-        for (int i = 0; i < m_calHot->m_fftSize; i++)
-        {
-            sumH += m_calHot->m_fftData[i];
-            sumC += m_calCold->m_fftData[i];
-        }
-        double y = sumH/sumC;
-        // Use y to calculate Trx, which should be the same for both calibration points
-        double Trx = (m_settings.m_tCalHot - (m_settings.m_tCalCold * y)) / (y - 1.0);
-        ui->calYFactor->setText(QString::number(y, 'f', 2));
-        ui->calTrx->setText(QString::number(Trx, 'f', 1));
-    }
-    else
-    {
+    auto clearCalibration = [this]() {
         ui->calYFactor->setText("");
         ui->calTrx->setText("");
+    };
+
+    if (!m_calHot || !m_calCold || (m_calHot->m_fftSize != m_calCold->m_fftSize))
+    {
+        clearCalibration();
+        return;
     }
+
+    // y=Ph/Pc
+    double sumH = 0.0;
+    double sumC = 0.0;
+    for (int i = 0; i < m_calHot->m_fftSize; i++)
+    {
+        sumH += m_calHot->m_fftData[i];
+        sumC += m_calCold->m_fftData[i];
+    }
+
+    if (sumC == 0.0)
+    {
+        clearCalibration();
+        return;
+    }
+
+    double y = sumH/sumC;
+
+    // The Y-factor method is undefined when hot and cold measurements have the same power
+    // (y == 1). Use qFuzzyCompare to account for floating-point rounding near unity.
+    if (qFuzzyCompare(y, 1.0))
+    {
+        clearCalibration();
+        return;
+    }
+
+    // Use y to calculate Trx, which should be the same for both calibration points.
+    double Trx = (m_settings.m_tCalHot - (m_settings.m_tCalCold * y)) / (y - 1.0);
+    ui->calYFactor->setText(QString::number(y, 'f', 2));
+    ui->calTrx->setText(QString::number(Trx, 'f', 1));
 }
 
 // Estimate spillover temperature (This is typically very Az/El dependent as ground noise will vary)
@@ -3236,6 +3255,14 @@ void RadioAstronomyGUI::update2DSettingsFromSweep()
         float sweep1Start, sweep1Stop;
         sweep1Start = m_settings.m_sweep1Start;
         sweep1Stop = m_settings.m_sweep1Stop;
+
+        if (qFuzzyIsNull(m_settings.m_sweep1Step) || qFuzzyIsNull(m_settings.m_sweep2Step))
+        {
+            ui->power2DWidth->setValue(0);
+            ui->power2DHeight->setValue(0);
+            return;
+        }
+
         // Handle azimuth/l sweep through 0. E.g. 340deg -> 20deg with +vs step, or 20deg -> 340deg with -ve step
         if ((m_settings.m_sweep1Stop < m_settings.m_sweep1Start) && (m_settings.m_sweep1Step > 0)) {
             sweep1Stop = m_settings.m_sweep1Stop + 360.0;
@@ -6328,6 +6355,31 @@ void RadioAstronomyGUI::on_startStop_clicked(bool checked)
 {
     if (checked)
     {
+        QString errorMessage;
+        if (qFuzzyIsNull(m_settings.m_sweep1Step) && qFuzzyIsNull(m_settings.m_sweep2Step))
+        {
+            errorMessage = tr("Azimuth and elevation sweep steps cannot be zero.");
+        }
+        else if (qFuzzyIsNull(m_settings.m_sweep1Step))
+        {
+            errorMessage = tr("Azimuth sweep step cannot be zero.");
+        }
+        else if (qFuzzyIsNull(m_settings.m_sweep2Step))
+        {
+            errorMessage = tr("Elevation sweep step cannot be zero.");
+        }
+        if (!errorMessage.isEmpty())
+        {
+            QMessageBox::warning(this,
+                tr("Invalid Sweep Configuration"),
+                errorMessage);
+
+            ui->startStop->blockSignals(true);
+            ui->startStop->setChecked(false);
+            ui->startStop->blockSignals(false);
+            return;
+        }
+
         ui->startStop->setStyleSheet("QToolButton { background-color : green; }");
         applySettings(QStringList("startStop"));
         if (m_settings.m_power2DLinkSweep)
