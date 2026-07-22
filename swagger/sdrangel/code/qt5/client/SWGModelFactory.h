@@ -234,6 +234,7 @@
 #include "SWGMeshtasticModSettings.h"
 #include "SWGMeshcoreDemodReport.h"
 #include "SWGMeshcoreDemodSettings.h"
+#include "SWGMeshcoreModActions.h"
 #include "SWGMeshcoreModReport.h"
 #include "SWGMeshcoreModSettings.h"
 #include "SWGMetisMISOSettings.h"
@@ -1513,6 +1514,11 @@ namespace SWGSDRangel {
     }
     if(QString("SWGMeshcoreModSettings").compare(type) == 0) {
       SWGMeshcoreModSettings *obj = new SWGMeshcoreModSettings();
+      obj->init();
+      return obj;
+    }
+    if(QString("SWGMeshcoreModActions").compare(type) == 0) {
+      SWGMeshcoreModActions *obj = new SWGMeshcoreModActions();
       obj->init();
       return obj;
     }
