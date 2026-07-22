@@ -5799,7 +5799,9 @@ void RadioAstronomyGUI::spectrumSeries_clicked(const QPointF &point)
             m_spectrumM1Valid = true;
             ui->spectrumMarkerTable->item(SPECTRUM_MARKER_ROW_M1, SPECTRUM_MARKER_COL_FREQ)->setData(Qt::DisplayRole, m_spectrumM1X);
             ui->spectrumMarkerTable->item(SPECTRUM_MARKER_ROW_M1, SPECTRUM_MARKER_COL_VALUE)->setData(Qt::DisplayRole, m_spectrumM1Y);
-            calcVrAndDistanceToPeak(m_spectrumM1X*1e6, fft, SPECTRUM_MARKER_ROW_M1);
+            if (fft) {
+                calcVrAndDistanceToPeak(m_spectrumM1X*1e6, fft, SPECTRUM_MARKER_ROW_M1);
+            }
         }
         else if (selection == "M2")
         {
@@ -5808,7 +5810,9 @@ void RadioAstronomyGUI::spectrumSeries_clicked(const QPointF &point)
             m_spectrumM2Valid = true;
             ui->spectrumMarkerTable->item(SPECTRUM_MARKER_ROW_M2, SPECTRUM_MARKER_COL_FREQ)->setData(Qt::DisplayRole, m_spectrumM2X);
             ui->spectrumMarkerTable->item(SPECTRUM_MARKER_ROW_M2, SPECTRUM_MARKER_COL_VALUE)->setData(Qt::DisplayRole, m_spectrumM2Y);
-            calcVrAndDistanceToPeak(m_spectrumM2X*1e6, fft, SPECTRUM_MARKER_ROW_M2);
+            if (fft) {
+                calcVrAndDistanceToPeak(m_spectrumM2X*1e6, fft, SPECTRUM_MARKER_ROW_M2);
+            }
         }
         calcSpectrumMarkerDelta();
 
