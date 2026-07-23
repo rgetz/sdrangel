@@ -186,7 +186,9 @@ class RadioAstronomyGUI : public ChannelGUI {
 
         SensorMeasurements() :
             m_series(nullptr),
-            m_yAxis(nullptr)
+            m_yAxis(nullptr),
+            m_max(-std::numeric_limits<double>::max()),
+            m_min(std::numeric_limits<double>::max())
         {
         }
 
