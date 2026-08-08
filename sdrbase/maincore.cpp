@@ -21,6 +21,7 @@
 #include <QCoreApplication>
 #include <QString>
 #include <QDebug>
+#include <QVariant>
 #include <QGeoPositionInfoSource>
 #if (QT_VERSION >= QT_VERSION_CHECK(6, 5, 0))
 #include <QPermissions>
@@ -443,10 +444,52 @@ void MainCore::requestPermissions()
     requestLocationPermission(); // This requests microphone and camera permissions as well
 }
 
+#if (QT_VERSION >= QT_VERSION_CHECK(6, 0, 0))
+namespace {
+
+QGeoPositionInfoSource *createNmeaPositionSource(QObject *parent)
+{
+    const QString serialPort = qEnvironmentVariable("QT_NMEA_SERIAL_PORT");
+
+    if (serialPort.isEmpty()) {
+        return nullptr;
+    }
+
+    QVariantMap parameters;
+    parameters.insert(QStringLiteral("nmea.source"), QStringLiteral("serial:") + serialPort);
+
+    bool baudRateValid = false;
+    const int baudRate = qEnvironmentVariableIntValue("QT_NMEA_SERIAL_BAUD_RATE", &baudRateValid);
+
+    if (baudRateValid && (baudRate > 0)) {
+        parameters.insert(QStringLiteral("nmea.baudrate"), baudRate);
+    }
+
+    QGeoPositionInfoSource *positionSource = QGeoPositionInfoSource::createSource(
+        QStringLiteral("nmea"), parameters, parent);
+
+    if (!positionSource) {
+        qWarning() << "MainCore::initPosition: No NMEA position source for serial port" << serialPort;
+    }
+
+    return positionSource;
+}
+
+}
+#endif
+
 // Position can take a while to determine, so we start updates at program startup
 void MainCore::initPosition()
 {
+#if (QT_VERSION >= QT_VERSION_CHECK(6, 0, 0))
+    m_positionSource = createNmeaPositionSource(this);
+
+    if (!m_positionSource) {
+        m_positionSource = QGeoPositionInfoSource::createDefaultSource(this);
+    }
+#else
     m_positionSource = QGeoPositionInfoSource::createDefaultSource(this);
+#endif
     if (m_positionSource)
     {
         qDebug() << "MainCore::initPosition: Using position source" << m_positionSource->sourceName();
