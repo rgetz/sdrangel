@@ -4080,6 +4080,16 @@ struct s2_deframer : runnable
     {
     }
 
+    ~s2_deframer()
+    {
+        if (state_out) {
+            delete state_out;
+        }
+        if (locktime_out) {
+            delete locktime_out;
+        }
+    }
+
     void run()
     {
         while (in.readable() >= 1 && out.writable() >= MAX_TS_PER_BBFRAME &&
