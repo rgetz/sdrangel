@@ -2979,6 +2979,16 @@ struct s2_fecdec : runnable
         }
     }
 
+    ~s2_fecdec()
+    {
+        if (bitcount) {
+            delete bitcount;
+        }
+        if (errcount) {
+            delete errcount;
+        }
+    }
+
     void run()
     {
         while (in.readable() >= 1 && out.writable() >= 1 &&
