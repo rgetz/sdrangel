@@ -456,8 +456,14 @@ QGeoPositionInfoSource *createNmeaPositionSource(QObject *parent)
     }
 
     QVariantMap parameters;
-    parameters.insert(QStringLiteral("nmea.source"), QStringLiteral("serial:") + serialPort);
+    QString source = serialPort;
 
+    if (!source.startsWith(QStringLiteral("serial:"), Qt::CaseInsensitive) &&
+        !source.startsWith(QStringLiteral("file:"), Qt::CaseInsensitive)) {
+        source.prepend(QStringLiteral("serial:"));
+    }
+
+    parameters.insert(QStringLiteral("nmea.source"), source);
     bool baudRateValid = false;
     const int baudRate = qEnvironmentVariableIntValue("QT_NMEA_SERIAL_BAUD_RATE", &baudRateValid);
 
@@ -469,7 +475,7 @@ QGeoPositionInfoSource *createNmeaPositionSource(QObject *parent)
         QStringLiteral("nmea"), parameters, parent);
 
     if (!positionSource) {
-        qWarning() << "MainCore::initPosition: No NMEA position source for serial port" << serialPort;
+        qWarning() << "MainCore::createNmeaPositionSource: Failed to create NMEA position source for QT_NMEA_SERIAL_PORT =" << serialPort;
     }
 
     return positionSource;
