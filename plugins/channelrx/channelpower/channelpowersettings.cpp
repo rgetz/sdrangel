@@ -23,6 +23,7 @@
 #include "channelpowersettings.h"
 
 ChannelPowerSettings::ChannelPowerSettings() :
+    m_scopeGUI(nullptr),
     m_channelMarker(nullptr),
     m_rollupState(nullptr)
 {
