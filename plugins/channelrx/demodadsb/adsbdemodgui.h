@@ -401,6 +401,8 @@ struct Aircraft {
     {
         for (int i = 0; i < 2; i++) {
             m_cprValid[i] = false;
+            m_cprLat[i] = 0.0;
+            m_cprLong[i] = 0.0;
         }
         for (int i = 0; i < 16; i++) {
             for (int j = 0; j < 16; j++) {
