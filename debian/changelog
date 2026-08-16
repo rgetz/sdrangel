@@ -355,7 +355,7 @@ sdrangel (7.20.0-1) unstable; urgency=medium
    * AIS Demod: Remove unused filter. PR #2052
    * SkyMap: Fix erronous entry in source list. PR #2052
 
-  -- Edouard Griffiths (F4EXB) <f4exb06@gmail.com>  Sun, 14 Aprr 2024 09:15:24 +0200
+  -- Edouard Griffiths (F4EXB) <f4exb06@gmail.com>  Sun, 14 Apr 2024 09:15:24 +0200
 
 sdrangel (7.19.1-1) unstable; urgency=medium
 
