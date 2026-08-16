@@ -1301,11 +1301,7 @@ void FreqScanner::webapiFormatChannelSettings(
     }
     if (channelSettingsKeys.contains("frequencies") || force) {
         QList<SWGSDRangel::SWGFreqScannerFrequency *> *frequencies = createFrequencyList(settings);
-        if (swgFreqScannerSettings->getFrequencies()) {
-            *swgFreqScannerSettings->getFrequencies() = *frequencies;
-        } else {
-            swgFreqScannerSettings->setFrequencies(frequencies);
-        }
+        swgFreqScannerSettings->setFrequencies(frequencies);
     }
 
     if (channelSettingsKeys.contains("rgbColor") || force) {
