@@ -592,7 +592,7 @@ sdrangel (7.15.0-1) unstable; urgency=medium
    * SigMFFileInput: fixed acceleration. Part of issue #1699
    * SimplePTT: fixed typo in code. Fixes #1705
 
-  -- Edouard Griffiths (F4EXB) <f4exb06@gmail.com>  Sun, 18 Jun 2023 22:38:65 +0200
+  -- Edouard Griffiths (F4EXB) <f4exb06@gmail.com>  Sun, 18 Jun 2023 22:38:55 +0200
 
 sdrangel (7.14.2-1) unstable; urgency=medium
 
