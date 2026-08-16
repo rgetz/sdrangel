@@ -33,8 +33,9 @@ jobs:
             qt6-multimedia-dev qt6-positioning-dev qt6-location-dev qt6-websockets-dev qt6-webengine-dev \
             qt6-serialport-dev qt6-speech-dev qt6-charts-dev qt6-svg-dev qt6-declarative-dev \
             qtchooser qt6-tools-dev qt6-tools-dev-tools libqt6quick6 qt6-location-plugins \
-            qml-module-qtlocation qml-module-qtpositioning qml-module-qtquick-window2 \
-            qml-module-qtquick-dialogs qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-layouts \
+            qml6-module-qtlocation qml6-module-qtpositioning qml6-module-qtquick-window \
+            qml6-module-qtquick-dialogs qml6-module-qtquick-controls qml6-module-qtquick-layouts \
+            qml6-module-qt5compat-graphicaleffects qt6-speech-speechd-plugin \
             libfaad-dev libflac-dev zlib1g-dev \
             libusb-1.0-0-dev libhidapi-dev libboost-all-dev libasound2-dev libopencv-dev libopencv-imgcodecs-dev \
             libxml2-dev bison flex ffmpeg libavcodec-dev libavformat-dev \
@@ -50,10 +51,10 @@ jobs:
             mkdir -p /tmp/build
             rsync -a --delete . /tmp/build/sdrangel/
             cd /tmp/build/sdrangel
-            debuild -i -us -uc -b
+            QT_VERSION=6 debuild -i -us -uc -b
             cp ../sdrangel_*_amd64.deb "$GITHUB_WORKSPACE"/
           else
-            debuild -i -us -uc -b
+            QT_VERSION=6 debuild -i -us -uc -b
           fi
       - name: Get version
         id: get_version
