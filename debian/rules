@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-# Override with "QT_VERSION=6 debuild ..." to build the Qt6 package.
+# Override with "debuild -eQT_VERSION=6 ..." to build the Qt6 package.
 QT_VERSION ?= 5
 
 ifeq ($(QT_VERSION),5)
