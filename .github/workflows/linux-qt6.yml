@@ -37,7 +37,7 @@ jobs:
             qml-module-qtquick-dialogs qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-layouts \
             libfaad-dev libflac-dev zlib1g-dev \
             libusb-1.0-0-dev libhidapi-dev libboost-all-dev libasound2-dev libopencv-dev libopencv-imgcodecs-dev \
-            libxml2-dev bison flex ffmpeg  libpostproc-dev libavcodec-dev libavformat-dev \
+            libxml2-dev bison flex ffmpeg libavcodec-dev libavformat-dev \
             libopus-dev libcodec2-dev libairspy-dev libhackrf-dev \
             libbladerf-dev libsoapysdr-dev libiio-dev libuhd-dev libhamlib-dev libunwind-dev \
             libavahi-client-dev libavahi-common-dev libaio-dev \
