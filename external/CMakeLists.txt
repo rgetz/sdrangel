@@ -752,6 +752,9 @@ if ((NOT LIBDSDCC_FOUND OR LIBDSDCC_EXTERNAL) AND LIBMBE_FOUND)
         set(LIBDSDCC_LIBRARIES "${SDRANGEL_BINARY_LIB_DIR}/dsdcc.lib" CACHE INTERNAL "")
     elseif (LINUX)
         set(LIBDSDCC_LIBRARIES "${EXTERNAL_BUILD_LIBRARIES}/lib${LIB_SUFFIX}/libdsdcc${CMAKE_SHARED_LIBRARY_SUFFIX}" CACHE INTERNAL "")
+        # set the RPATH so that the built dsdcc can find libmbe.so.1 (https://github.com/f4exb/sdrangel/issues/777)
+        # Would probably be better to change this so INSTALL_COMMAND isn't set to "" and the install step is done
+        set(LIBDSDCC_ARGS "-DCMAKE_BUILD_RPATH=${CMAKE_INSTALL_PREFIX}/${INSTALL_LIB_DIR}")
     elseif (APPLE)
         set(LIBDSDCC_LIBRARIES "${EXTERNAL_BUILD_LIBRARIES}/dsdcc/src/dsdcc-build/libdsdcc${CMAKE_SHARED_LIBRARY_SUFFIX}" CACHE INTERNAL "")
     endif ()
@@ -760,10 +763,10 @@ if ((NOT LIBDSDCC_FOUND OR LIBDSDCC_EXTERNAL) AND LIBMBE_FOUND)
             GIT_TAG ${DSDCC_TAG}
             DEPENDS ${DSDCC_DEPENDS}
             PREFIX "${EXTERNAL_BUILD_LIBRARIES}/dsdcc"
-            CMAKE_ARGS ${COMMON_CMAKE_ARGS}
+            CMAKE_ARGS ${COMMON_CMAKE_ARGS} ${LIBDSDCC_ARGS}
             -DBUILD_TOOL=OFF -DUSE_MBELIB=${USE_MBELIB}
             -DLIBMBE_INCLUDE_DIR=${LIBMBE_INCLUDE_DIR}
-            -DLIBMBE_LIBRARY=${LIBMBE_LIBRARIES}
+            -DLIBMBE_LIBRARY=${LIBMBE_LIBRARIES}            
             BUILD_BYPRODUCTS "${LIBDSDCC_LIBRARIES}"
             INSTALL_COMMAND ""
             TEST_COMMAND ""
@@ -906,6 +909,9 @@ if(ENABLE_FEATURE_STARTRACKER)
     set_global_cache(CSPICE_FOUND ON)
     set(CSPICE_EXTERNAL ON CACHE INTERNAL "")
     set(CSPICE_INCLUDE_DIR "${EXTERNAL_BUILD_LIBRARIES}/cspice/src/cspice/include" CACHE INTERNAL "")
+    if (LINUX)
+        install(FILES "${CSPICE_LIBRARIES}" DESTINATION "${INSTALL_LIB_DIR}")
+    endif() 
 endif ()
 
 if(ENABLE_CHANNELRX_REMOTETCPSINK)
