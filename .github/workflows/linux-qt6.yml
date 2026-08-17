@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - linux_github_release
-      - ubuntu-26.04
     tags:
       - 'v*'
   workflow_dispatch:
