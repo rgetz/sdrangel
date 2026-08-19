@@ -20,7 +20,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 # configure version
 set(sdrangel_VERSION_MAJOR "7")
 set(sdrangel_VERSION_MINOR "27")
-set(sdrangel_VERSION_PATCH "1")
+set(sdrangel_VERSION_PATCH "2")
 set(sdrangel_VERSION_SUFFIX "")
 
 # SDRAngel cmake options
@@ -614,20 +614,20 @@ elseif(ANDROID)
   set(OpenCV_FOUND ON CACHE INTERNAL "")
   set(OpenCV_INCLUDE_DIRS "${EXTERNAL_LIBRARY_FOLDER}/${ANDROID_ABI}/opencv/sdk/native/jni/include/" CACHE INTERNAL "")
   set(OpenCV_LIBS_DIR "${EXTERNAL_LIBRARY_FOLDER}/${ANDROID_ABI}/opencv/sdk/native/staticlibs/${ANDROID_ABI}")
-  set(OpenCV_LIBS    
-    "${OpenCV_LIBS_DIR}/libopencv_bgsegm.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_calib3d.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_core.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_dnn.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_features2d.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_flann.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_highgui.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_imgcodecs.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_imgproc.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_photo.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_video.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_videoio.a" 
-    "${OpenCV_LIBS_DIR}/libopencv_ximgproc.a" 
+  set(OpenCV_LIBS
+    "${OpenCV_LIBS_DIR}/libopencv_bgsegm.a"
+    "${OpenCV_LIBS_DIR}/libopencv_calib3d.a"
+    "${OpenCV_LIBS_DIR}/libopencv_core.a"
+    "${OpenCV_LIBS_DIR}/libopencv_dnn.a"
+    "${OpenCV_LIBS_DIR}/libopencv_features2d.a"
+    "${OpenCV_LIBS_DIR}/libopencv_flann.a"
+    "${OpenCV_LIBS_DIR}/libopencv_highgui.a"
+    "${OpenCV_LIBS_DIR}/libopencv_imgcodecs.a"
+    "${OpenCV_LIBS_DIR}/libopencv_imgproc.a"
+    "${OpenCV_LIBS_DIR}/libopencv_photo.a"
+    "${OpenCV_LIBS_DIR}/libopencv_video.a"
+    "${OpenCV_LIBS_DIR}/libopencv_videoio.a"
+    "${OpenCV_LIBS_DIR}/libopencv_ximgproc.a"
     CACHE INTERNAL "")
   set(OpenCV_3RDPARTY_LIBS_DIR "${EXTERNAL_LIBRARY_FOLDER}/${ANDROID_ABI}/opencv/sdk/native/3rdparty/libs/${ANDROID_ABI}")
   set(OpenCV_3RDPARTY_LIBS

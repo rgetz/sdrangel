@@ -32,7 +32,7 @@
 const PluginDescriptor MeshtasticModPlugin::m_pluginDescriptor = {
     MeshtasticMod::m_channelId,
     QStringLiteral("Meshtastic Modulator"),
-    QStringLiteral("7.25.0"),
+    QStringLiteral("7.27.2"),
     QStringLiteral("(c) Edouard Griffiths, F4EXB"),
     QStringLiteral("https://github.com/f4exb/sdrangel"),
     true,

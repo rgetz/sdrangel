@@ -29,7 +29,7 @@
 const PluginDescriptor ChannelPowerPlugin::m_pluginDescriptor = {
     ChannelPower::m_channelId,
     QStringLiteral("Channel Power"),
-    QStringLiteral("7.25.0"),
+    QStringLiteral("7.27.2"),
     QStringLiteral("(c) Jon Beniston, M7RCE"),
     QStringLiteral("https://github.com/f4exb/sdrangel"),
     true,
