@@ -215,8 +215,8 @@ jobs:
 
           hdiutil verify "$DMG"
           mkdir -p "$MOUNT" "$(dirname "$INSTALLED_APP")"
-          hdiutil attach "$DMG" -readonly -nobrowse -acceptlicense -mountpoint "$MOUNT"
-
+          printf 'Y\n' | PAGER=/bin/cat hdiutil attach "$DMG" -readonly -nobrowse -mountpoint "$MOUNT"
+           
           SOURCE_APP="$(find "$MOUNT" -maxdepth 2 -type d -name 'SDRangel.app' -print -quit)"
           test -n "$SOURCE_APP"
 
