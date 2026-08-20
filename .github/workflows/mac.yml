@@ -24,8 +24,8 @@ jobs:
         run: brew install nasm subversion ncurses md5sha1sum
       - name: Install SDRplay API
         run: |
-            wget https://www.sdrplay.com/software/SDRplayAPI-macos-installer-universal-3.15.0.pkg
-            sudo installer -pkg SDRplayAPI-macos-installer-universal-3.15.0.pkg -target /
+            wget https://www.sdrangel.org/downloads/SDRplayAPI-macos-installer-universal-3.15.1.pkg
+            sudo installer -pkg SDRplayAPI-macos-installer-universal-3.15.1.pkg -target /
       - name: Install python
         run: |
             wget  https://www.python.org/ftp/python/3.12.7/python-3.12.7-macos11.pkg
@@ -36,7 +36,7 @@ jobs:
       - name: Install Qt
         uses: jurplel/install-qt-action@v4
         with:
-          version: '6.9.1'
+          version: '6.11.1'
           host: 'mac'
           arch: 'clang_64'
           modules: 'qtcharts qtscxml qt5compat qtlocation qtmultimedia qtpositioning qtserialport qtspeech qtwebsockets qtwebengine qtshadertools qtwebchannel'
@@ -99,8 +99,8 @@ jobs:
         run: brew install nasm subversion ncurses md5sha1sum
       - name: Install SDRplay API
         run: |
-            wget https://www.sdrplay.com/software/SDRplayAPI-macos-installer-universal-3.15.0.pkg
-            sudo installer -pkg SDRplayAPI-macos-installer-universal-3.15.0.pkg -target /
+            wget https://www.sdrangel.org/downloads/SDRplayAPI-macos-installer-universal-3.15.1.pkg
+            sudo installer -pkg SDRplayAPI-macos-installer-universal-3.15.1.pkg -target /
       - name: Install python
         run: |
             wget  https://www.python.org/ftp/python/3.12.7/python-3.12.7-macos11.pkg
@@ -111,7 +111,7 @@ jobs:
       - name: Install Qt
         uses: jurplel/install-qt-action@v4
         with:
-          version: '6.9.1'
+          version: '6.11.1'
           host: 'mac'
           arch: 'clang_64'
           modules: 'qtcharts qtscxml qt5compat qtlocation qtmultimedia qtpositioning qtserialport qtspeech qtwebsockets qtwebengine qtshadertools qtwebchannel'
