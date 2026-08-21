@@ -1,0 +1,43 @@
+specfile_path: sdrangel.spec
+
+actions:
+  prepare-files:
+    - cp cmake/cpack/org.sdrangel.SDRangel.metainfo.xml .
+
+# keep synced with ./cmake/Modules/Cppcheck.cmake
+csmock_args: >-
+  --cppcheck-add-flag=--check-level=exhaustive
+  --cppcheck-add-flag=--enable=warning,portability
+  --cppcheck-add-flag=--library=qt
+  --cppcheck-add-flag=--inconclusive
+  --cppcheck-add-flag=--inline-suppr
+
+jobs:
+  - job: copr_build
+    trigger: pull_request
+    branch: rgetz-test-packit
+    identifier: qt6
+    targets:
+      - fedora-all-x86_64
+      - fedora-all-aarch64
+
+  - job: copr_build
+    trigger: pull_request
+    branch: rgetz-test-packit
+    identifier: qt5
+    targets:
+      fedora-all-x86_64:
+        without_opts:
+          - qt6
+      fedora-all-aarch64:
+        without_opts:
+          - qt6
+
+  # Base build used for OpenScanHub differential analysis
+  - job: copr_build
+    trigger: commit
+    branch: rgetz-test-packit
+    targets:
+      - fedora-all-x86_64
+      - fedora-all-aarch64
+
