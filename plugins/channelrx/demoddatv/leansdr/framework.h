@@ -115,7 +115,9 @@ struct scheduler
     bool verbose, debug, debug2;
 
     scheduler() :
+        pipes{},
         npipes(0),
+        runnables{},
         nrunnables(0),
         windows(nullptr),
         verbose(false),
