@@ -231,6 +231,7 @@ struct pipebuf : pipebuf_common
         unsigned long size
     ) :
         pipebuf_common(name),
+        rds{},
         nrd(0),
         min_write(1),
         total_written(0),
