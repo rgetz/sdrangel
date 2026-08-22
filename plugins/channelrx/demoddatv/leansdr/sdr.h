@@ -539,7 +539,11 @@ struct cstln_lut : cstln_base
         float gamma1 = 0,
         float gamma2 = 0,
         float gamma3 = 0
-    )
+    ) :
+        lut{},
+        m_typeCode(0),
+        m_rateCode(0),
+        m_setByModcod(false)
     {
         symbols = nullptr;
 
@@ -1477,7 +1481,8 @@ struct fast_qpsk_receiver : runnable
         out(_out, chunk_size),
         mu(0),
         phase(0),
-        meas_count(0)
+        meas_count(0),
+        mer_out(nullptr)
     {
         set_omega(1);
         set_freq(0);
