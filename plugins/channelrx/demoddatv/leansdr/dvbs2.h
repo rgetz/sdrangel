@@ -3238,10 +3238,12 @@ struct simplequeue
 {
     static const int SIZE = _SIZE;
 
-    simplequeue()
-    {
-        rd = wr = count = 0;
-    }
+    simplequeue():
+        rd(0),
+        wr(0),
+        count(0),
+        q{}
+    {}
 
     bool full() { return count == SIZE; }
 
@@ -3294,6 +3296,7 @@ struct s2_fecdec_helper : runnable
         max_trials(8),
         in(_in),
         out(_out),
+        command(nullptr),
         bitcount(opt_writer(_bitcount, 1)),
         errcount(opt_writer(_errcount, 1))
     {
@@ -3302,6 +3305,8 @@ struct s2_fecdec_helper : runnable
         for (int mc = 0; mc < 32; ++mc) {
             for (int sf = 0; sf < 2; ++sf) {
                 pools[mc][sf].procs = nullptr;
+                pools[mc][sf].nprocs = 0;
+                pools[mc][sf].shift = 0;
             }
         }
     }
