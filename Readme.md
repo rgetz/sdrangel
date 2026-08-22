@@ -1,5 +1,6 @@
 ![SDR Angel banner](doc/img/sdrangel_banner.png)
 
+
 **SDRangel** is an open-source Qt5 / OpenGL 3.0+ SDR and signal analyzer frontend to various hardware.
 
 **Wiki**: Most of the information and documentation related to SDRangel can be found in the [Wiki](https://github.com/f4exb/sdrangel/wiki). Please make sure to check it in case of questions or trouble and before you post issues on GitHub. You may also seek help from other users using the discussion group below. Before running the program, make sure you read at least the [Home](https://github.com/f4exb/sdrangel/wiki) and [Quick Start](https://github.com/f4exb/sdrangel/wiki/Quick-start) pages.
