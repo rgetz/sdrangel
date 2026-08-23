@@ -1,6 +1,8 @@
 IF(NOT FAAD_FOUND)
-    INCLUDE(FindPkgConfig)
-    PKG_CHECK_MODULES(PC_FAAD faad2)
+    find_package(PkgConfig)
+    if(PkgConfig_FOUND)
+        PKG_CHECK_MODULES(PC_FAAD faad2)
+    endif()
 
     FIND_PATH(
         FAAD_INCLUDE_DIR
