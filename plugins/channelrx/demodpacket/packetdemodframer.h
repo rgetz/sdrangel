@@ -50,14 +50,15 @@
 // bit stuffing and flags is under 5000 symbols.
 #define PACKETDEMOD_SYM_HIST 8192
 
+// Largest Chase depth honoured, matching the GUI spin box. The work is 2^n - 1 rebuilt
+// and re-CRC'd frames for every CRC failure on every detector, so 12 is already 4095;
+// the value reaches here from presets and the REST API, neither of which bounds it,
+// and 1u << n is undefined once n reaches 32.
+#define PACKETDEMOD_CHASE_MAX  12
+
 class PacketDemodFramer
 {
 public:
-    // Largest Chase depth honoured, matching the GUI spin box. The work is 2^n - 1 rebuilt
-    // and re-CRC'd frames for every CRC failure on every detector, so 12 is already 4095;
-    // the value reaches here from presets and the REST API, neither of which bounds it,
-    // and 1u << n is undefined once n reaches 32.
-    static const int PACKETDEMOD_CHASE_MAX = 12;
 
     // Returns true if the frame was accepted - the caller's deduplication decides, and the
     // framer reports that back so callers can count distinct packets rather than the
