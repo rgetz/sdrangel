@@ -693,7 +693,7 @@ void ADSBDemodSinkWorker::handleInputMessages()
 
 QDateTime ADSBDemodSinkWorker::rxDateTime(int firstIdx, int readBuffer) const
 {
-    const qint64 samplesPerSecondMSec = ADS_B_BITS_PER_SECOND * m_settings.m_samplesPerBit / 1000;
+    const qint64 samplesPerSecondMSec = qint64(ADS_B_BITS_PER_SECOND) * m_settings.m_samplesPerBit / 1000;
     const qint64 offsetMSec = (firstIdx - m_sink->m_samplesPerFrame - 1) / samplesPerSecondMSec;
     return m_sink->m_bufferFirstSampleDateTime[readBuffer].addMSecs(offsetMSec);
 }
