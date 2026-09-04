@@ -7553,6 +7553,10 @@ void ADSBDemodGUI::removeAircraft(QHash<int, Aircraft *>::iterator& i, Aircraft 
         m_adsbDemod->clearTarget();
         m_trackAircraft = nullptr;
     }
+    if (m_highlightAircraft == aircraft)
+    {
+        highlightAircraft(nullptr);
+    }
 
     // Remove map model
     m_aircraftModel.removeAircraft(aircraft);
