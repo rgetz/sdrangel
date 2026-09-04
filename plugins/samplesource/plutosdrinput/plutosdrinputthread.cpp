@@ -41,6 +41,7 @@ PlutoSDRInputThread::~PlutoSDRInputThread()
 {
     stopWork();
     delete[] m_buf;
+    delete[] m_bufConv;
 }
 
 void PlutoSDRInputThread::startWork()
