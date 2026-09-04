@@ -1545,6 +1545,14 @@ void ADSBDemodGUI::sendToMap(Aircraft *aircraft, QList<SWGSDRangel::SWGMapAnimat
             messageQueue->push(msg);
         }
     }
+    else
+    {
+        // mapPipes.size() == 0
+        for (auto animation : *animations) {
+            delete animation;
+        }
+        delete animations;
+    }
 }
 
 // Find aircraft with icao, or create if it doesn't exist
