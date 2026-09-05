@@ -33,6 +33,7 @@ class SDRBASE_API SampleSinkFifo : public QObject {
 private:
     QElapsedTimer m_msgRateTimer;
     int m_suppressed;
+    qint64 m_suppressedSamples;
     SampleVector m_data;
     int m_total;
     unsigned int m_writtenSignalCount;

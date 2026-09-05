@@ -35,6 +35,7 @@ void DataFifo::reset()
 {
     QMutexLocker mutexLocker(&m_mutex);
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     m_fill = 0;
     m_head = 0;
     m_tail = 0;
@@ -47,6 +48,7 @@ DataFifo::DataFifo(QObject* parent) :
 {
     setObjectName("DataFifo");
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     m_size = 0;
     m_fill = 0;
     m_head = 0;
@@ -60,6 +62,7 @@ DataFifo::DataFifo(int size, QObject* parent) :
 {
     setObjectName("DataFifo");
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     create(size);
 }
 
@@ -70,6 +73,7 @@ DataFifo::DataFifo(const DataFifo& other) :
 {
     setObjectName("DataFifo");
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     m_size = m_data.size();
     m_fill = 0;
     m_head = 0;
@@ -89,25 +93,63 @@ bool DataFifo::setSize(int size)
     return m_data.size() == size;
 }
 
+// Rate-limit overflow messages while continuing to report every overflow.
+// After an overflow, messages are suppressed for 2.5 seconds and the
+// accumulated loss is reported as a single message. A 2.5 second recovery
+// interval without further overflow is then required before immediate
+// reporting resumes.
 void DataFifo::logOverflow(unsigned int total, unsigned int count)
 {
-    unsigned int samplesDropped = count - total;
+    const bool hasOverflow = total < count;
+    const unsigned int dropped = count - total;
+
+    // m_suppressed: -1 = immediate reporting, 0+ = suppressed message count,
+    //               -2 = recovery monitoring
 
     if (m_suppressed == -1)
     {
-        m_suppressed = 0;
-        m_msgRateTimer.start();
-        qCritical("DataFifo::write: overflow - dropping %u samples (size=%u)", samplesDropped, m_size);
+        if (hasOverflow)
+        {
+            qCritical("DataFifo: overflow - dropped %u samples", dropped);
+
+            // The current overflow was already reported, so don't count it again.
+            m_suppressed = 0;
+            m_suppressedSamples = 0;
+            m_msgRateTimer.start();
+        }
     }
-    else if (m_msgRateTimer.elapsed() > 2500)
+    else if (m_suppressed == -2)
     {
-        qCritical("DataFifo::write: %u messages dropped", m_suppressed);
-        qCritical("DataFifo::write: overflow - dropping %u samples (size=%u)", samplesDropped, m_size);
-        m_suppressed = -1;
+        if (hasOverflow)
+        {
+            // Resume accumulation without restarting the recovery timer.
+            m_suppressed = 1;
+            m_suppressedSamples += dropped;
+        }
+        else if (m_msgRateTimer.elapsed() > 2500)
+        {
+            // No overflow for the recovery interval: resume immediate reporting.
+            m_suppressed = -1;
+        }
     }
-    else
+    else // m_suppressed >= 0
     {
-        m_suppressed++;
+        if (m_msgRateTimer.elapsed() > 2500)
+        {
+            if (m_suppressed)
+            {
+                qCritical("DataFifo: overflow - dropped %lld samples (%u event%s)",
+                    m_suppressedSamples, m_suppressed, m_suppressed > 1 ? "s" : "");
+            }
+            m_suppressed = -2;
+            m_suppressedSamples = 0;
+            m_msgRateTimer.restart();
+        }
+        else if (hasOverflow)
+        {
+            ++m_suppressed;
+            m_suppressedSamples += dropped;
+        }
     }
 }
 
@@ -118,6 +160,7 @@ unsigned int DataFifo::write(const quint8* data, unsigned int count, DataType da
     if (dataType != m_currentDataType)
     {
         m_suppressed = -1;
+        m_suppressedSamples = 0;
         m_fill = 0;
         m_head = 0;
         m_tail = 0;
@@ -164,6 +207,7 @@ unsigned int DataFifo::write(QByteArray::const_iterator begin, QByteArray::const
     if (dataType != m_currentDataType)
     {
         m_suppressed = -1;
+        m_suppressedSamples = 0;
         m_fill = 0;
         m_head = 0;
         m_tail = 0;

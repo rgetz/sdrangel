@@ -64,6 +64,7 @@ signals:
 private:
     QElapsedTimer m_msgRateTimer;
     int m_suppressed;
+    qint64 m_suppressedSamples;
     QByteArray m_data;
     DataType m_currentDataType;
     QRecursiveMutex m_mutex;

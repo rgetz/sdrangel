@@ -37,6 +37,7 @@ void SampleSinkFifo::reset()
 {
     QMutexLocker mutexLocker(&m_mutex);
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     m_fill = 0;
     m_head = 0;
     m_tail = 0;
@@ -50,6 +51,7 @@ SampleSinkFifo::SampleSinkFifo(QObject* parent) :
     m_writtenSignalRateDivider(1)
 {
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     m_size = 0;
     m_fill = 0;
     m_head = 0;
@@ -64,6 +66,7 @@ SampleSinkFifo::SampleSinkFifo(int size, QObject* parent) :
     m_writtenSignalRateDivider(1)
 {
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     create(size);
 }
 
@@ -75,6 +78,7 @@ SampleSinkFifo::SampleSinkFifo(const SampleSinkFifo& other) :
     m_writtenSignalRateDivider(1)
 {
     m_suppressed = -1;
+    m_suppressedSamples = 0;
     m_size = m_data.size();
     m_fill = 0;
     m_head = 0;
@@ -100,27 +104,69 @@ void SampleSinkFifo::setWrittenSignalRateDivider(unsigned int divider)
     m_writtenSignalRateDivider = divider;
 }
 
+// Rate-limit overflow messages while continuing to report every overflow.
+// After an overflow, messages are suppressed for 2.5 seconds and the
+// accumulated loss is reported as a single message. A 2.5 second recovery
+// interval without further overflow is then required before immediate
+// reporting resumes.
 void SampleSinkFifo::logOverflow(unsigned int total, unsigned int count)
 {
-    unsigned int samplesDropped = count - total;
+    const bool hasOverflow = total < count;
+    const unsigned int dropped = count - total;
+
+    if (hasOverflow)
+    {
+        emit overflow(dropped);
+    }
+
+    // m_suppressed: -1 = immediate reporting, 0+ = suppressed message count,
+    //               -2 = recovery monitoring
 
     if (m_suppressed == -1)
     {
-        m_suppressed = 0;
-        m_msgRateTimer.start();
-        qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples", qPrintable(m_label), samplesDropped);
-        emit overflow(samplesDropped);
+        if (hasOverflow)
+        {
+            qCritical("SampleSinkFifo: (%s) overflow - dropped %u samples",
+               qPrintable(m_label), dropped);
+
+            // The current overflow was already reported, so don't count it again.
+            m_suppressed = 0;
+            m_suppressedSamples = 0;
+            m_msgRateTimer.start();
+        }
     }
-    else if (m_msgRateTimer.elapsed() > 2500)
+    else if (m_suppressed == -2)
     {
-        qCritical("SampleSinkFifo::write: (%s) %u messages dropped", qPrintable(m_label), m_suppressed);
-        qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples", qPrintable(m_label), samplesDropped);
-        emit overflow(samplesDropped);
-        m_suppressed = -1;
+        if (hasOverflow)
+        {
+            // Resume accumulation without restarting the recovery timer.
+            m_suppressed = 1;
+            m_suppressedSamples += dropped;
+        }
+        else if (m_msgRateTimer.elapsed() > 2500)
+        {
+            // No overflow for the recovery interval: resume immediate reporting.
+            m_suppressed = -1;
+        }
     }
-    else
+    else // m_suppressed >= 0
     {
-        m_suppressed++;
+        if (m_msgRateTimer.elapsed() > 2500)
+        {
+            if (m_suppressed)
+            {
+                qCritical("SampleSinkFifo: (%s) overflow - dropped %lld samples (%u event%s)",
+                    qPrintable(m_label), m_suppressedSamples, m_suppressed, m_suppressed > 1 ? "s" : "");
+            }
+            m_suppressed = -2;
+            m_suppressedSamples = 0;
+            m_msgRateTimer.restart();
+        }
+        else if (hasOverflow)
+        {
+            ++m_suppressed;
+            m_suppressedSamples += dropped;
+        }
     }
 }
 
@@ -140,7 +186,7 @@ unsigned int SampleSinkFifo::write(const quint8* data, unsigned int count)
 
     total = std::min(count, m_size - m_fill);
 
-    if (total < count)
+    if (m_suppressed != -1 || total < count)
     {
         logOverflow(total, count);
     }
@@ -189,7 +235,7 @@ unsigned int SampleSinkFifo::write(SampleVector::const_iterator begin, SampleVec
 
     total = std::min(count, m_size - m_fill);
 
-    if (total < count)
+    if (m_suppressed != -1 || total < count)
     {
         logOverflow(total, count);
     }
