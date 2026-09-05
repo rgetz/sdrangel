@@ -194,8 +194,8 @@ void VORDemodSCSink::processOneSample(Complex &ci)
     Real mag = std::sqrt(magsq);
 
     // Calculate phase of 30Hz variable AM signal
-    double varPhase;
-    double varMag;
+    double varPhase = 0.0;
+    double varMag = 0.0;
     if (m_varGoertzel.size() == VORDemodSettings::VORDEMOD_CHANNEL_SAMPLE_RATE - 1)
     {
         m_varGoertzel.goertzel(mag);
