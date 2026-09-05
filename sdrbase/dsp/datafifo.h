@@ -74,6 +74,7 @@ private:
     unsigned int m_tail;
 
     void create(unsigned int s);
+    void logOverflow(unsigned int total, unsigned int count);
 };
 
 #endif // INCLUDE_DATAFIFO_H

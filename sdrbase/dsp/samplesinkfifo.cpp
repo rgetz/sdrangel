@@ -100,6 +100,30 @@ void SampleSinkFifo::setWrittenSignalRateDivider(unsigned int divider)
     m_writtenSignalRateDivider = divider;
 }
 
+void SampleSinkFifo::logOverflow(unsigned int total, unsigned int count)
+{
+    unsigned int samplesDropped = count - total;
+
+    if (m_suppressed == -1)
+    {
+        m_suppressed = 0;
+        m_msgRateTimer.start();
+        qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples", qPrintable(m_label), samplesDropped);
+        emit overflow(samplesDropped);
+    }
+    else if (m_msgRateTimer.elapsed() > 2500)
+    {
+        qCritical("SampleSinkFifo::write: (%s) %u messages dropped", qPrintable(m_label), m_suppressed);
+        qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples", qPrintable(m_label), samplesDropped);
+        emit overflow(samplesDropped);
+        m_suppressed = -1;
+    }
+    else
+    {
+        m_suppressed++;
+    }
+}
+
 unsigned int SampleSinkFifo::write(const quint8* data, unsigned int count)
 {
     QMutexLocker mutexLocker(&m_mutex);
@@ -118,29 +142,7 @@ unsigned int SampleSinkFifo::write(const quint8* data, unsigned int count)
 
     if (total < count)
     {
-        if (m_suppressed < 0)
-        {
-            m_suppressed = 0;
-            m_msgRateTimer.start();
-            qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples",
-                qPrintable(m_label), count - total);
-            emit overflow(count - total);
-        }
-        else
-        {
-            if (m_msgRateTimer.elapsed() > 2500)
-            {
-                qCritical("SampleSinkFifo::write: (%s) %u messages dropped", qPrintable(m_label), m_suppressed);
-                qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples",
-                    qPrintable(m_label), count - total);
-                emit overflow(count - total);
-                m_suppressed = -1;
-            }
-            else
-            {
-                m_suppressed++;
-            }
-        }
+        logOverflow(total, count);
     }
 
     remaining = total;
@@ -189,29 +191,7 @@ unsigned int SampleSinkFifo::write(SampleVector::const_iterator begin, SampleVec
 
     if (total < count)
     {
-        if (m_suppressed < 0)
-        {
-            m_suppressed = 0;
-            m_msgRateTimer.start();
-            qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples",
-                qPrintable(m_label), count - total);
-            emit overflow(count - total);
-        }
-        else
-        {
-            if (m_msgRateTimer.elapsed() > 2500)
-            {
-                qCritical("SampleSinkFifo::write: (%s) %u messages dropped", qPrintable(m_label), m_suppressed);
-                qCritical("SampleSinkFifo::write: (%s) overflow - dropping %u samples",
-                    qPrintable(m_label), count - total);
-                emit overflow(count - total);
-                m_suppressed = -1;
-            }
-            else
-            {
-                m_suppressed++;
-            }
-        }
+        logOverflow(total, count);
     }
 
     remaining = total;

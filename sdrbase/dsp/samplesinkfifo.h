@@ -46,6 +46,7 @@ private:
     QString m_label;
 
     void create(unsigned int s);
+    void logOverflow(unsigned int total, unsigned int count);
 
 public:
     SampleSinkFifo(QObject* parent = nullptr);

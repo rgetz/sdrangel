@@ -89,6 +89,28 @@ bool DataFifo::setSize(int size)
     return m_data.size() == size;
 }
 
+void DataFifo::logOverflow(unsigned int total, unsigned int count)
+{
+    unsigned int samplesDropped = count - total;
+
+    if (m_suppressed == -1)
+    {
+        m_suppressed = 0;
+        m_msgRateTimer.start();
+        qCritical("DataFifo::write: overflow - dropping %u samples (size=%u)", samplesDropped, m_size);
+    }
+    else if (m_msgRateTimer.elapsed() > 2500)
+    {
+        qCritical("DataFifo::write: %u messages dropped", m_suppressed);
+        qCritical("DataFifo::write: overflow - dropping %u samples (size=%u)", samplesDropped, m_size);
+        m_suppressed = -1;
+    }
+    else
+    {
+        m_suppressed++;
+    }
+}
+
 unsigned int DataFifo::write(const quint8* data, unsigned int count, DataType dataType)
 {
     QMutexLocker mutexLocker(&m_mutex);
@@ -112,25 +134,7 @@ unsigned int DataFifo::write(const quint8* data, unsigned int count, DataType da
 
     if (total < count)
     {
-        if (m_suppressed < 0)
-        {
-            m_suppressed = 0;
-            m_msgRateTimer.start();
-            qCritical("DataFifo::write: overflow - dropping %u samples (size=%u)", count - total, m_size);
-        }
-        else
-        {
-            if (m_msgRateTimer.elapsed() > 2500)
-            {
-                qCritical("DataFifo::write: %u messages dropped", m_suppressed);
-                qCritical("DataFifo::write: overflow - dropping %u samples (size=%u)", count - total, m_size);
-                m_suppressed = -1;
-            }
-            else
-            {
-                m_suppressed++;
-            }
-        }
+        logOverflow(total, count);
     }
 
     remaining = total;
@@ -175,25 +179,7 @@ unsigned int DataFifo::write(QByteArray::const_iterator begin, QByteArray::const
 
     if (total < count)
     {
-        if (m_suppressed < 0)
-        {
-            m_suppressed = 0;
-            m_msgRateTimer.start();
-            qCritical("DataFifo::write: overflow - dropping %u samples", count - total);
-        }
-        else
-        {
-            if (m_msgRateTimer.elapsed() > 2500)
-            {
-                qCritical("DataFifo::write: %u messages dropped", m_suppressed);
-                qCritical("DataFifo::write: overflow - dropping %u samples", count - total);
-                m_suppressed = -1;
-            }
-            else
-            {
-                m_suppressed++;
-            }
-        }
+        logOverflow(total, count);
     }
 
     remaining = total;
