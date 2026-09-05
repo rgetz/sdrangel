@@ -1,4 +1,4 @@
-![SDR Angel banner](doc/img/sdrangel_banner.png)
+![SDR Angel banner](doc/img/sdrangel_banner.png) 
 
 **SDRangel** is an open-source Qt5 / OpenGL 3.0+ SDR and signal analyzer frontend to various hardware.
 
