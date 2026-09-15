@@ -25,6 +25,7 @@
 
 RS41Frame::RS41Frame(const QByteArray ba) :
     m_statusValid(false),
+    m_frameNumber(0),
     m_batteryVoltage(0.0),
     m_pcbTemperature(0),
     m_humiditySensorHeating(0),
@@ -37,6 +38,10 @@ RS41Frame::RS41Frame(const QByteArray ba) :
     m_latitude(0.0),
     m_longitude(0.0),
     m_height(0.0),
+    m_speed(0.0),
+    m_heading(0.0),
+    m_verticalRate(0.0),
+    m_satellitesUsed(0),
     m_bytes(ba),
     m_pressure(0.0),
     m_pressureCalibrated(false),
