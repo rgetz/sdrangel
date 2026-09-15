@@ -197,8 +197,7 @@ void KiwiSDRList::handleHTML(const QString& url, const QByteArray& bytes)
                     }
                     else if (!unhandledKeys.contains(key))
                     {
-                        qDebug() << "KiwiSDRList::handleHTML: Unhandled key:" << key
-                                    "value:" << value;
+                        qDebug() << "KiwiSDRList::handleHTML: Unhandled key:" << key << "value:" << value;
                         unhandledKeys.insert(key);
                     }
                 }
