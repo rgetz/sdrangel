@@ -19,3 +19,4 @@ Issues : [![open issues](https://img.shields.io/github/issues/f4exb/sdrangel.svg
 
 * [SDRangelcli](https://github.com/f4exb/sdrangelcli) is a web application that can be used to control a headless (server flavor) instance of SDRangel. It can also be used as a remote control for the GUI flavor.
 * [SDRangel-Docker](https://github.com/f4exb/sdrangel-docker) is a collection of Docker files and scripts to facilitate building and running SDRangel in a Docker container. Works for either the GUI (only on a Linux host) or the server.
+
