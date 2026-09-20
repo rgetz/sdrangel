@@ -149,6 +149,7 @@ private:
 
     bool m_defaultOutputStarted; //!< True if the default audio output (-1) has already been started
     bool m_defaultInputStarted;  //!< True if the default audio input (-1) has already been started
+    bool m_shutdown;
 
     MessageQueue m_inputMessageQueue;
 
@@ -156,6 +157,7 @@ private:
     QByteArray serialize() const;
     bool deserialize(const QByteArray& data);
 
+    void shutdown();
     void startAudioOutput(int outputDeviceIndex);
     void stopAudioOutput(int outputDeviceIndex);
     void startAudioInput(int inputDeviceIndex);

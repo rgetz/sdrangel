@@ -92,7 +92,7 @@ void RollupState::formatTo(SWGSDRangel::SWGObject *swgObject) const
     for (const auto &child : m_childrenStates)
     {
         swgRollupState->getChildrenStates()->append(new SWGSDRangel::SWGRollupChildState);
-        swgRollupState->getChildrenStates()->back()->init();
+        //swgRollupState->getChildrenStates()->back()->init();
         swgRollupState->getChildrenStates()->back()->setObjectName(new QString(child.m_objectName));
         swgRollupState->getChildrenStates()->back()->setIsHidden(child.m_isHidden ? 1 : 0);
     }

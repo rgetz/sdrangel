@@ -23,6 +23,7 @@
 #include "util/messagequeue.h"
 #include "dsp/dspcommands.h"
 
+#include <QCoreApplication>
 #include <QThread>
 #include <QDataStream>
 #include <QSet>
@@ -79,7 +80,8 @@ QDataStream& operator>>(QDataStream& ds, AudioDeviceManager::OutputDeviceInfo& i
     return ds;
 }
 
-AudioDeviceManager::AudioDeviceManager()
+AudioDeviceManager::AudioDeviceManager() :
+    m_shutdown(false)
 {
     qDebug("AudioDeviceManager::AudioDeviceManager: scan input devices");
     {
@@ -102,22 +104,36 @@ AudioDeviceManager::AudioDeviceManager()
     m_defaultOutputStarted = false;
 
     connect(&m_inputMessageQueue, SIGNAL(messageEnqueued()), this, SLOT(handleInputMessages()), Qt::QueuedConnection);
+    connect(qApp, &QCoreApplication::aboutToQuit, this, &AudioDeviceManager::shutdown);
 }
 
 AudioDeviceManager::~AudioDeviceManager()
 {
+    shutdown();
+}
+
+void AudioDeviceManager::shutdown()
+{
+    if (m_shutdown) {
+        return;
+    }
+    m_shutdown = true;
+
+    // send MsgQuit and wait for the worker threads
     QMap<int, AudioOutputDevice*>::iterator aoit = m_audioOutputs.begin();
 
     for (; aoit != m_audioOutputs.end(); ++aoit) {
-        (*aoit)->getInputMessageQueue()->push(AudioOutputDevice::MsgStop::create());
+        (*aoit)->getInputMessageQueue()->push(AudioOutputDevice::MsgQuit::create());
     }
 
     QMap<int, QThread*>::iterator otit = m_audioOutputThreads.begin();
 
     for (; otit != m_audioOutputThreads.end(); ++otit)
     {
-        (*otit)->exit();
         (*otit)->wait();
+        delete m_audioOutputs[otit.key()];
+        m_audioOutputs[otit.key()] = nullptr;
+        delete *otit;
     }
 
     QMap<int, AudioInputDevice*>::iterator aiit = m_audioInputs.begin();
@@ -304,19 +320,7 @@ void AudioDeviceManager::addAudioSink(AudioFifo* audioFifo, MessageQueue *sample
         audioOutputDevice->setManagerMessageQueue(&m_inputMessageQueue);
         audioOutputDevice->moveToThread(thread);
 
-        QObject::connect(
-            thread,
-            &QThread::finished,
-            audioOutputDevice,
-            &QObject::deleteLater
-        );
-        QObject::connect(
-            thread,
-            &QThread::finished,
-            thread,
-            &QThread::deleteLater
-        );
-
+        thread->setObjectName(QString("AudioOutput:%1").arg(outputDeviceIndex));
         thread->start();
     }
 

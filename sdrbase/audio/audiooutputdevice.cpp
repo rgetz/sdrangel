@@ -37,6 +37,7 @@
 
 MESSAGE_CLASS_DEFINITION(AudioOutputDevice::MsgStart, Message)
 MESSAGE_CLASS_DEFINITION(AudioOutputDevice::MsgStop, Message)
+MESSAGE_CLASS_DEFINITION(AudioOutputDevice::MsgQuit, Message)
 MESSAGE_CLASS_DEFINITION(AudioOutputDevice::MsgReportSampleRate, Message)
 
 AudioOutputDevice::AudioOutputDevice() :
@@ -61,7 +62,7 @@ AudioOutputDevice::AudioOutputDevice() :
 
 AudioOutputDevice::~AudioOutputDevice()
 {
-//	stop();
+	stop();
 //
 //	QMutexLocker mutexLocker(&m_mutex);
 //
@@ -75,13 +76,11 @@ AudioOutputDevice::~AudioOutputDevice()
 
 bool AudioOutputDevice::start(int deviceIndex, int sampleRate)
 {
-    // if (m_audioOutput) {
-    //     return true;
-    // }
-//	if (m_audioUsageCount == 0)
-//	{
-        qDebug("AudioOutputDevice::start: device: %d rate: %d thread: %p", deviceIndex, sampleRate, QThread::currentThread());
         QMutexLocker mutexLocker(&m_mutex);
+        if (m_audioOutput) {
+            stopLocked();
+        }
+        qDebug("AudioOutputDevice::start: device: %d rate: %d thread: %p", deviceIndex, sampleRate, QThread::currentThread());
         AudioDeviceInfo devInfo;
 
         if (deviceIndex < 0)
@@ -189,15 +188,9 @@ bool AudioOutputDevice::start(int deviceIndex, int sampleRate)
 	return true;
 }
 
-void AudioOutputDevice::stop()
+void AudioOutputDevice::stopLocked()
 {
-    if (!m_audioOutput) {
-        return;
-    }
-
-    qDebug("AudioOutputDevice::stop: thread: %p", QThread::currentThread());
-
-    QMutexLocker mutexLocker(&m_mutex);
+    // Caller must hold m_mutex.
     m_audioOutput->stop();
     QIODevice::close();
     delete m_audioNetSink;
@@ -206,21 +199,18 @@ void AudioOutputDevice::stop()
     m_wavFileRecord = nullptr;
     delete m_audioOutput;
     m_audioOutput = nullptr;
+}
 
-//    if (m_audioUsageCount > 0)
-//    {
-//        m_audioUsageCount--;
-//
-//        if (m_audioUsageCount == 0)
-//        {
-//            QMutexLocker mutexLocker(&m_mutex);
-//            QIODevice::close();
-//
-//            if (!m_onExit) {
-//                delete m_audioOutput;
-//            }
-//        }
-//    }
+void AudioOutputDevice::stop()
+{
+    QMutexLocker mutexLocker(&m_mutex);
+    if (!m_audioOutput) {
+        qDebug("AudioOutputDevice::stop called on already stopped device");
+        return;
+    }
+
+    qDebug("AudioOutputDevice::stop: thread: %p", QThread::currentThread());
+    stopLocked();
 }
 
 void AudioOutputDevice::addFifo(AudioFifo* audioFifo)
@@ -531,6 +521,8 @@ qint64 AudioOutputDevice::writeData(const char* data, qint64 len)
 
 void AudioOutputDevice::setVolume(float volume)
 {
+    QMutexLocker mutexLocker(&m_mutex);
+
     m_volume = volume;
 
     if (m_audioOutput) {
@@ -574,6 +566,12 @@ bool AudioOutputDevice::handleMessage(const Message& cmd)
     else if (MsgStop::match(cmd))
     {
         stop();
+        return true;
+    }
+    else if (MsgQuit::match(cmd))
+    {
+        stop();
+        QThread::currentThread()->quit();
         return true;
     }
 

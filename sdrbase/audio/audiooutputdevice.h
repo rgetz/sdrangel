@@ -80,6 +80,20 @@ public:
         { }
     };
 
+    class MsgQuit : public Message {
+        MESSAGE_CLASS_DECLARATION
+    public:
+        static MsgQuit* create() {
+            return new MsgQuit;
+        }
+
+    private:
+
+        MsgQuit() :
+            Message()
+        { }
+    };
+
     class MsgReportSampleRate : public Message {
         MESSAGE_CLASS_DECLARATION
     public:
@@ -186,6 +200,7 @@ private:
 
 	bool start(int deviceIndex, int sampleRate);
 	void stop();
+        void stopLocked();
 
 	friend class AudioOutputPipe;
 
